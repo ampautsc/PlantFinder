@@ -11,15 +11,103 @@
   "characteristics": {
     "height": 24,
     "width": 18,
-    "bloomColor": ["white"],
-    "bloomTime": ["summer"],
+    "bloomColor": [
+      "white"
+    ],
+    "bloomTime": [
+      "summer"
+    ],
     "perennial": true,
-    "nativeRange": ["Massachusetts", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Florida", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Texas", "Kansas", "Nebraska", "South Dakota", "North Dakota", "Montana", "Wyoming", "Colorado", "New Mexico", "Arizona"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+    "nativeRange": [
+      "Massachusetts",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota",
+      "Montana",
+      "Wyoming",
+      "Colorado",
+      "New Mexico",
+      "Arizona"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "states": [
+      "Missouri",
+      "Illinois",
+      "Indiana",
+      "Ohio",
+      "Kentucky",
+      "Tennessee",
+      "Virginia",
+      "West Virginia",
+      "Pennsylvania",
+      "Iowa",
+      "Kansas",
+      "Michigan",
+      "Wisconsin",
+      "Florida",
+      "Georgia",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Arkansas",
+      "North Carolina",
+      "South Carolina",
+      "Nebraska",
+      "South Dakota"
+    ]
   },
   "relationships": {
-    "hostPlantTo": ["Monarch butterfly", "Queen butterfly"],
-    "foodFor": ["butterflies", "bees", "native bees"],
-    "usefulFor": ["pollinator garden", "monarch conservation", "drought tolerance", "rock gardens"]
+    "hostPlantTo": [
+      "Monarch butterfly",
+      "Queen butterfly"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "monarch conservation",
+      "drought tolerance",
+      "rock gardens"
+    ]
   }
 }

@@ -11,15 +11,86 @@
   "characteristics": {
     "height": 8,
     "width": 6,
-    "bloomColor": ["white"],
-    "bloomTime": ["spring"],
+    "bloomColor": [
+      "white"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
     "perennial": true,
-    "nativeRange": ["Maine", "New Hampshire", "Vermont", "Massachusetts", "Rhode Island", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Florida", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Kansas", "Nebraska", "Manitoba"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8"]
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Kansas",
+      "Nebraska",
+      "Manitoba"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "states": [
+      "Virginia",
+      "West Virginia",
+      "Pennsylvania",
+      "New York",
+      "Maryland",
+      "Delaware",
+      "New Jersey",
+      "Connecticut",
+      "Massachusetts",
+      "Vermont",
+      "New Hampshire",
+      "Maine",
+      "Kentucky",
+      "Tennessee",
+      "Ohio",
+      "Indiana"
+    ]
   },
   "relationships": {
     "hostPlantTo": [],
-    "foodFor": ["bees"],
-    "usefulFor": ["woodland garden", "spring ephemeral", "shade garden"]
+    "foodFor": [
+      "bees"
+    ],
+    "usefulFor": [
+      "woodland garden",
+      "spring ephemeral",
+      "shade garden"
+    ]
   }
 }

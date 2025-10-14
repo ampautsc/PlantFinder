@@ -11,15 +11,78 @@
   "characteristics": {
     "height": 18,
     "width": 12,
-    "bloomColor": ["blue", "pink"],
-    "bloomTime": ["spring"],
+    "bloomColor": [
+      "blue",
+      "pink"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
     "perennial": true,
-    "nativeRange": ["New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Alabama", "Mississippi", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Kansas", "Nebraska", "South Dakota"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8"]
+    "nativeRange": [
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Alabama",
+      "Mississippi",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Kansas",
+      "Nebraska",
+      "South Dakota"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "states": [
+      "Virginia",
+      "West Virginia",
+      "Pennsylvania",
+      "New York",
+      "Maryland",
+      "Delaware",
+      "New Jersey",
+      "Connecticut",
+      "Massachusetts",
+      "Vermont",
+      "New Hampshire",
+      "Maine",
+      "Kentucky",
+      "Tennessee",
+      "Ohio"
+    ]
   },
   "relationships": {
     "hostPlantTo": [],
-    "foodFor": ["bees"],
-    "usefulFor": ["woodland garden", "spring ephemeral", "shade garden"]
+    "foodFor": [
+      "bees"
+    ],
+    "usefulFor": [
+      "woodland garden",
+      "spring ephemeral",
+      "shade garden"
+    ]
   }
 }

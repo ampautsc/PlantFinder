@@ -20,6 +20,7 @@ function App() {
     bloomColors: [] as string[],
     bloomTimes: [] as string[],
     nativeRanges: [] as string[],
+    states: [] as string[],
     hardinessZones: [] as string[],
     hostPlantTo: [] as string[],
     foodFor: [] as string[],

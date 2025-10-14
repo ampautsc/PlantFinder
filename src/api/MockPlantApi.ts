@@ -90,6 +90,15 @@ export class MockPlantApi implements IPlantApi {
       );
     }
 
+    // Filter by states (union logic: plant must be in ANY selected state)
+    if (filters.states && filters.states.length > 0) {
+      results = results.filter(plant =>
+        plant.characteristics.states.some(state =>
+          filters.states!.includes(state)
+        )
+      );
+    }
+
     // Filter by hardiness zones
     if (filters.hardinessZones && filters.hardinessZones.length > 0) {
       results = results.filter(plant =>
@@ -161,6 +170,7 @@ export class MockPlantApi implements IPlantApi {
     bloomColors: string[];
     bloomTimes: string[];
     nativeRanges: string[];
+    states: string[];
     hardinessZones: string[];
     hostPlantTo: string[];
     foodFor: string[];
@@ -171,6 +181,7 @@ export class MockPlantApi implements IPlantApi {
     const bloomColors = new Set<string>();
     const bloomTimes = new Set<string>();
     const nativeRanges = new Set<string>();
+    const states = new Set<string>();
     const hardinessZones = new Set<string>();
     const hostPlantTo = new Set<string>();
     const foodFor = new Set<string>();
@@ -180,6 +191,7 @@ export class MockPlantApi implements IPlantApi {
       plant.characteristics.bloomColor.forEach(color => bloomColors.add(color));
       plant.characteristics.bloomTime.forEach(time => bloomTimes.add(time));
       plant.characteristics.nativeRange.forEach(range => nativeRanges.add(range));
+      plant.characteristics.states.forEach(state => states.add(state));
       plant.characteristics.hardinessZones.forEach(zone => hardinessZones.add(zone));
       plant.relationships.hostPlantTo.forEach(host => hostPlantTo.add(host));
       plant.relationships.foodFor.forEach(food => foodFor.add(food));
@@ -190,6 +202,7 @@ export class MockPlantApi implements IPlantApi {
       bloomColors: Array.from(bloomColors).sort(),
       bloomTimes: Array.from(bloomTimes).sort(),
       nativeRanges: Array.from(nativeRanges).sort(),
+      states: Array.from(states).sort(),
       hardinessZones: Array.from(hardinessZones).sort((a, b) => parseInt(a) - parseInt(b)),
       hostPlantTo: Array.from(hostPlantTo).sort(),
       foodFor: Array.from(foodFor).sort(),

@@ -11,15 +11,75 @@
   "characteristics": {
     "height": 48,
     "width": 24,
-    "bloomColor": ["pink", "purple", "white"],
-    "bloomTime": ["summer"],
+    "bloomColor": [
+      "pink",
+      "purple",
+      "white"
+    ],
+    "bloomTime": [
+      "summer"
+    ],
     "perennial": true,
-    "nativeRange": ["New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Alabama", "Mississippi", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Iowa", "Missouri", "Arkansas", "Oklahoma"],
-    "hardinessZones": ["4", "5", "6", "7", "8"]
+    "nativeRange": [
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Alabama",
+      "Mississippi",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma"
+    ],
+    "hardinessZones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "states": [
+      "Missouri",
+      "Illinois",
+      "Indiana",
+      "Ohio",
+      "Kentucky",
+      "Tennessee",
+      "Virginia",
+      "West Virginia",
+      "Pennsylvania",
+      "New York",
+      "Iowa",
+      "Kansas",
+      "Michigan",
+      "Wisconsin"
+    ]
   },
   "relationships": {
     "hostPlantTo": [],
-    "foodFor": ["butterflies", "hummingbirds", "bees"],
-    "usefulFor": ["pollinator garden", "aromatic", "cut flower"]
+    "foodFor": [
+      "butterflies",
+      "hummingbirds",
+      "bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "aromatic",
+      "cut flower"
+    ]
   }
 }

@@ -11,15 +11,96 @@
   "characteristics": {
     "height": 48,
     "width": 24,
-    "bloomColor": ["pink"],
-    "bloomTime": ["summer"],
+    "bloomColor": [
+      "pink"
+    ],
+    "bloomTime": [
+      "summer"
+    ],
     "perennial": true,
-    "nativeRange": ["Maine", "New Hampshire", "Vermont", "Massachusetts", "Rhode Island", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Florida", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Texas", "Kansas", "Nebraska", "South Dakota", "North Dakota", "Montana", "Utah", "Colorado"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota",
+      "Montana",
+      "Utah",
+      "Colorado"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "states": [
+      "Missouri",
+      "Illinois",
+      "Indiana",
+      "Ohio",
+      "Kentucky",
+      "Tennessee",
+      "Virginia",
+      "West Virginia",
+      "Pennsylvania",
+      "New York",
+      "Iowa",
+      "Kansas",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Nebraska"
+    ]
   },
   "relationships": {
-    "hostPlantTo": ["Monarch butterfly", "Queen butterfly"],
-    "foodFor": ["butterflies", "bees"],
-    "usefulFor": ["pollinator garden", "rain garden", "monarch conservation"]
+    "hostPlantTo": [
+      "Monarch butterfly",
+      "Queen butterfly"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "rain garden",
+      "monarch conservation"
+    ]
   }
 }

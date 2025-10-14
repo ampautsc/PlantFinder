@@ -11,15 +11,74 @@
   "characteristics": {
     "height": 72,
     "width": 36,
-    "bloomColor": ["yellow"],
-    "bloomTime": ["late summer", "fall"],
+    "bloomColor": [
+      "yellow"
+    ],
+    "bloomTime": [
+      "late summer",
+      "fall"
+    ],
     "perennial": true,
-    "nativeRange": ["New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "North Carolina", "South Carolina", "Georgia", "Florida", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Indiana", "Missouri", "Arkansas", "Oklahoma", "Texas"],
-    "hardinessZones": ["5", "6", "7", "8", "9"]
+    "nativeRange": [
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Indiana",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas"
+    ],
+    "hardinessZones": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "states": [
+      "Virginia",
+      "West Virginia",
+      "Pennsylvania",
+      "New York",
+      "Maryland",
+      "Delaware",
+      "New Jersey",
+      "Florida",
+      "Georgia",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Arkansas",
+      "Tennessee",
+      "Kentucky",
+      "North Carolina",
+      "South Carolina"
+    ]
   },
   "relationships": {
     "hostPlantTo": [],
-    "foodFor": ["butterflies", "bees", "birds"],
-    "usefulFor": ["pollinator garden", "rain garden", "wildlife habitat"]
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "birds"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "rain garden",
+      "wildlife habitat"
+    ]
   }
 }

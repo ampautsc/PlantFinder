@@ -11,15 +11,94 @@
   "characteristics": {
     "height": 30,
     "width": 18,
-    "bloomColor": ["yellow"],
-    "bloomTime": ["spring", "early summer"],
+    "bloomColor": [
+      "yellow"
+    ],
+    "bloomTime": [
+      "spring",
+      "early summer"
+    ],
     "perennial": true,
-    "nativeRange": ["Maine", "Vermont", "New Hampshire", "Massachusetts", "Rhode Island", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Florida", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Texas", "Kansas", "Nebraska", "South Dakota", "North Dakota"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8"]
+    "nativeRange": [
+      "Maine",
+      "Vermont",
+      "New Hampshire",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "states": [
+      "Missouri",
+      "Illinois",
+      "Indiana",
+      "Ohio",
+      "Kentucky",
+      "Tennessee",
+      "Virginia",
+      "West Virginia",
+      "Pennsylvania",
+      "New York",
+      "Iowa",
+      "Kansas",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota"
+    ]
   },
   "relationships": {
-    "hostPlantTo": ["Black Swallowtail butterfly"],
-    "foodFor": ["butterflies", "bees", "native bees", "beneficial insects"],
-    "usefulFor": ["pollinator garden", "rain garden", "woodland garden", "spring color"]
+    "hostPlantTo": [
+      "Black Swallowtail butterfly"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees",
+      "beneficial insects"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "rain garden",
+      "woodland garden",
+      "spring color"
+    ]
   }
 }

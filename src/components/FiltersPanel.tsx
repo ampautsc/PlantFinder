@@ -6,6 +6,7 @@ interface FiltersPanelProps {
     bloomColors: string[];
     bloomTimes: string[];
     nativeRanges: string[];
+    states: string[];
     hardinessZones: string[];
     hostPlantTo: string[];
     foodFor: string[];
@@ -193,6 +194,21 @@ function FiltersPanel({
               onClick={() => toggleArrayFilter('nativeRange', range)}
             >
               {range}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div className="filter-section">
+        <h3>🗺️ States</h3>
+        <div className="filter-options">
+          {filterOptions.states.map(state => (
+            <button
+              key={state}
+              className={`filter-chip ${(filters.states || []).includes(state) ? 'selected' : ''}`}
+              onClick={() => toggleArrayFilter('states', state)}
+            >
+              {state}
             </button>
           ))}
         </div>
