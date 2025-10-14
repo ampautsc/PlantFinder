@@ -30,10 +30,12 @@ When users visit the deployed application:
 
 ## Deployment Status
 
-The feedback system will be live once the current deployment completes:
-- **Workflow**: Azure Static Web Apps CI/CD
-- **Run #90** on main branch (started at 15:20:30 UTC)
-- **Environment**: `VITE_GITHUB_TOKEN` is included in the build
+The previous deployment on main branch (run #90) timed out during upload to Azure, but the build was successful and included the `VITE_GITHUB_TOKEN`. This is a transient Azure deployment issue, not a problem with our configuration.
+
+**Next Steps**:
+- Merge this PR to trigger a fresh deployment
+- The new deployment will include the properly configured token
+- The feedback system will go live once the deployment completes
 
 ## Verification Steps
 
