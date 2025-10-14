@@ -14,8 +14,7 @@
     "bloomColor": ["yellow"],
     "bloomTime": ["spring", "summer"],
     "perennial": true,
-    "nativeRange": ["Eastern US", "Midwest", "Southern US"],
-    "states": ["Missouri", "Illinois", "Indiana", "Ohio", "Kentucky", "Tennessee", "Virginia", "West Virginia", "Pennsylvania", "Iowa", "Kansas", "Michigan", "Wisconsin", "Florida", "Georgia", "Alabama", "Mississippi", "Louisiana", "Arkansas", "North Carolina", "South Carolina"],
+    "nativeRange": ["New Hampshire", "Vermont", "Massachusetts", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Florida", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Kansas", "New Mexico"],
     "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
   },
   "relationships": {
