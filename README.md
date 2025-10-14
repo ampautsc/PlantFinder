@@ -140,6 +140,8 @@ The application is configured for deployment to Azure Static Web Apps:
 2. Build output goes to the `dist/` directory
 3. Set up automatic deployment via GitHub Actions
 
+**Important**: Before deploying, you must configure the Azure deployment token as a GitHub Secret. See [GITHUB_SECRETS_SETUP.md](GITHUB_SECRETS_SETUP.md) for detailed instructions.
+
 ### Manual Deployment
 
 ```bash
@@ -148,6 +150,8 @@ npm run build
 
 # Deploy the dist/ folder to Azure Static Web Apps
 ```
+
+For complete deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md).
 
 ## Filter Categories
 

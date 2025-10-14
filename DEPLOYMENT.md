@@ -17,10 +17,21 @@
    - App location: `/`
    - Output location: `dist`
 
-2. **Configure GitHub Actions**
-   - Azure will automatically create a workflow file
-   - Or use the provided `.github/workflows/azure-static-web-apps.yml`
-   - Add the `AZURE_STATIC_WEB_APPS_API_TOKEN` secret to your repository
+2. **Configure GitHub Secrets**
+   
+   Azure will automatically create a workflow file when you set up Static Web Apps. You need to add the deployment token as a GitHub Secret:
+   
+   **Important**: Never commit secrets to source control! Use GitHub Secrets to store sensitive tokens securely.
+   
+   To add the Azure deployment token:
+   1. Go to your GitHub repository → **Settings** → **Secrets and variables** → **Actions**
+   2. Click **New repository secret**
+   3. Add the secret:
+      - **Name**: `AZURE_STATIC_WEB_APPS_API_TOKEN_YELLOW_MUSHROOM_03D98F710` (or your specific token name from the workflow file)
+      - **Value**: Your Azure Static Web Apps deployment token (found in Azure Portal → Static Web App → Manage deployment token)
+   4. Click **Add secret**
+   
+   For detailed instructions, see [GITHUB_SECRETS_SETUP.md](GITHUB_SECRETS_SETUP.md)
 
 3. **Deploy**
    - Push to the configured branch
@@ -115,9 +126,11 @@ npm run dev
 - Check for TypeScript errors: `npm run build`
 
 ### Deployment Fails
-- Verify `AZURE_STATIC_WEB_APPS_API_TOKEN` secret is set correctly
+- Verify the Azure deployment token is correctly set as a GitHub Secret (see [GITHUB_SECRETS_SETUP.md](GITHUB_SECRETS_SETUP.md))
+- Ensure the secret name matches exactly what's in your workflow file (e.g., `AZURE_STATIC_WEB_APPS_API_TOKEN_YELLOW_MUSHROOM_03D98F710`)
 - Check GitHub Actions logs for specific errors
 - Ensure output location is set to `dist`
+- If token is expired, regenerate it in Azure Portal and update the GitHub Secret
 
 ### Application Not Loading
 - Check browser console for errors
@@ -125,10 +138,42 @@ npm run dev
 - Check Azure Portal for deployment status
 - Verify `staticwebapp.config.json` is correctly configured
 
+## Security Best Practices
+
+### Secrets Management
+
+**Critical**: Never commit secrets, tokens, or credentials to source control!
+
+- ✅ Use GitHub Secrets for all sensitive data (API tokens, deployment keys)
+- ✅ Add `.env` files to `.gitignore` (already configured)
+- ✅ Rotate secrets periodically (recommended every 90 days)
+- ✅ Use different secrets for development and production
+- ❌ Never include secrets in code files
+- ❌ Never commit `.env` files with real credentials
+- ❌ Never print secrets to logs or console
+
+For detailed instructions on adding secrets securely, see [GITHUB_SECRETS_SETUP.md](GITHUB_SECRETS_SETUP.md).
+
+### Required Secrets
+
+This project requires the following GitHub Secrets:
+
+1. **AZURE_STATIC_WEB_APPS_API_TOKEN_YELLOW_MUSHROOM_03D98F710**
+   - Purpose: Azure Static Web Apps deployment
+   - Source: Azure Portal → Static Web App → Manage deployment token
+   - Required for: Automated deployments via GitHub Actions
+
+2. **VITE_GITHUB_TOKEN** (Optional)
+   - Purpose: Enable user feedback system
+   - Source: GitHub Settings → Developer settings → Personal access tokens
+   - Scopes: `repo`
+   - Required for: Production feedback feature (see [FEEDBACK_SETUP.md](FEEDBACK_SETUP.md))
+
 ## Production Checklist
 
 Before deploying to production:
 
+- [ ] Configure required GitHub Secrets (see Security Best Practices above)
 - [ ] Test all filters work correctly
 - [ ] Verify mobile responsiveness on real devices
 - [ ] Check accessibility with screen readers
@@ -139,3 +184,4 @@ Before deploying to production:
 - [ ] Test on multiple browsers (Chrome, Firefox, Safari, Edge)
 - [ ] Add Google Analytics or other tracking (if needed)
 - [ ] Review and update README with production URL
+- [ ] Verify no secrets are committed to source control
