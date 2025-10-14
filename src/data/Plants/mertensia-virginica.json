@@ -15,6 +15,7 @@
     "bloomTime": ["spring"],
     "perennial": true,
     "nativeRange": ["Eastern US"],
+    "states": ["Virginia", "West Virginia", "Pennsylvania", "New York", "Maryland", "Delaware", "New Jersey", "Connecticut", "Massachusetts", "Vermont", "New Hampshire", "Maine", "Kentucky", "Tennessee", "Ohio"],
     "hardinessZones": ["3", "4", "5", "6", "7", "8"]
   },
   "relationships": {

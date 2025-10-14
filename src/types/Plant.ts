@@ -13,6 +13,7 @@ export interface PlantCharacteristics {
   bloomTime: string[];
   perennial: boolean;
   nativeRange: string[];
+  states: string[]; // US states where the plant is native
   hardinessZones: string[];
 }
 
@@ -44,6 +45,7 @@ export interface PlantFilters {
   bloomTime?: string[];
   perennial?: boolean;
   nativeRange?: string[];
+  states?: string[]; // Filter by US states (intersection logic when multiple selected)
   hardinessZones?: string[];
   minHeight?: number;
   maxHeight?: number;

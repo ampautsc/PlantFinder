@@ -15,6 +15,7 @@
     "bloomTime": ["spring", "early summer"],
     "perennial": true,
     "nativeRange": ["Eastern US", "Midwest"],
+    "states": ["Missouri", "Illinois", "Indiana", "Ohio", "Kentucky", "Tennessee", "Virginia", "West Virginia", "Pennsylvania", "New York", "Iowa", "Kansas", "Michigan", "Wisconsin"],
     "hardinessZones": ["3", "4", "5", "6", "7", "8"]
   },
   "relationships": {
