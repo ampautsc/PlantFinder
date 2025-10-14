@@ -128,7 +128,7 @@ The application includes a built-in feedback mechanism. To enable it, you need t
 
 1. Generate a GitHub token with `repo` scope
 2. For local development: Create a `.env` file with `VITE_GITHUB_TOKEN=your_token`
-3. For production: Add the token to Azure Static Web Apps Configuration
+3. For production: Add the token to GitHub Secrets (not Azure Portal)
 
 For detailed setup instructions, see [FEEDBACK_SETUP.md](FEEDBACK_SETUP.md).
 

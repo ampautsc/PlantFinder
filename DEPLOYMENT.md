@@ -63,9 +63,13 @@ The application is currently configured to use mock data. To connect to a real A
    VITE_API_URL=http://localhost:3000
    ```
 
-5. Add environment variables in Azure Static Web Apps:
-   - Go to Configuration in Azure Portal
-   - Add application settings
+5. Add environment variables for production deployment:
+   - **For Vite environment variables** (prefixed with `VITE_`): Add them to GitHub Secrets
+     - Go to GitHub repository → Settings → Secrets and variables → Actions
+     - These are embedded during the build process
+   - **For Azure Functions/API**: Add them to Azure Portal Configuration
+     - Go to Configuration in Azure Portal
+     - Add application settings
 
 ### Custom Domain
 
