@@ -20,7 +20,7 @@
 2. **Configure GitHub Actions**
    - Azure will automatically create a workflow file
    - Or use the provided `.github/workflows/azure-static-web-apps.yml`
-   - Add the `AZURE_STATIC_WEB_APPS_API_TOKEN` secret to your repository
+   - Add the `AZURE_STATIC_WEB_APPS_API_TOKEN_YELLOW_MUSHROOM_03D98F710` secret to your repository (Azure creates this with a specific name based on your resource)
 
 3. **Deploy**
    - Push to the configured branch
@@ -115,7 +115,7 @@ npm run dev
 - Check for TypeScript errors: `npm run build`
 
 ### Deployment Fails
-- Verify `AZURE_STATIC_WEB_APPS_API_TOKEN` secret is set correctly
+- Verify `AZURE_STATIC_WEB_APPS_API_TOKEN_YELLOW_MUSHROOM_03D98F710` secret is set correctly in GitHub repository secrets
 - Check GitHub Actions logs for specific errors
 - Ensure output location is set to `dist`
 
