@@ -14,7 +14,7 @@
     "bloomColor": ["lavender", "pink"],
     "bloomTime": ["summer"],
     "perennial": true,
-    "nativeRange": ["Eastern US", "Midwest", "Western US"],
+    "nativeRange": ["Maine", "Vermont", "New Hampshire", "Massachusetts", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Texas", "Kansas", "Nebraska", "South Dakota", "North Dakota", "Montana", "Wyoming", "Colorado", "New Mexico", "Arizona", "Utah", "Idaho", "Washington", "Oregon"],
     "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
   },
   "relationships": {
