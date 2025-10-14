@@ -21,6 +21,7 @@
    - Azure will automatically create a workflow file
    - Or use the provided `.github/workflows/azure-static-web-apps.yml`
    - Add the `AZURE_STATIC_WEB_APPS_API_TOKEN` secret to your repository
+   - **For the current deployment:** See [AZURE_DEPLOYMENT_TOKEN.md](AZURE_DEPLOYMENT_TOKEN.md) for the specific token and detailed setup instructions
 
 3. **Deploy**
    - Push to the configured branch
@@ -38,9 +39,11 @@ npm install -g @azure/static-web-apps-cli
 # Build the application
 npm run build
 
-# Deploy (you'll be prompted to login)
+# Deploy with deployment token
 swa deploy ./dist --deployment-token <your-deployment-token>
 ```
+
+**Note:** For the current deployment token and detailed instructions, see [AZURE_DEPLOYMENT_TOKEN.md](AZURE_DEPLOYMENT_TOKEN.md).
 
 ### Environment Configuration
 

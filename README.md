@@ -104,7 +104,8 @@ PlantFinder/
 ├── tsconfig.json               # TypeScript configuration
 ├── package.json                # Dependencies and scripts
 ├── staticwebapp.config.json    # Azure Static Web Apps config
-└── FEEDBACK_SETUP.md           # Feedback system setup guide
+├── FEEDBACK_SETUP.md           # Feedback system setup guide
+└── AZURE_DEPLOYMENT_TOKEN.md   # Azure deployment token setup
 ```
 
 ## API Interface
@@ -140,6 +141,10 @@ The application is configured for deployment to Azure Static Web Apps:
 2. Build output goes to the `dist/` directory
 3. Set up automatic deployment via GitHub Actions
 
+For detailed deployment instructions and the Azure deployment token, see:
+- [AZURE_DEPLOYMENT_TOKEN.md](AZURE_DEPLOYMENT_TOKEN.md) - Deployment token setup
+- [DEPLOYMENT.md](DEPLOYMENT.md) - Complete deployment guide
+
 ### Manual Deployment
 
 ```bash
@@ -147,6 +152,7 @@ The application is configured for deployment to Azure Static Web Apps:
 npm run build
 
 # Deploy the dist/ folder to Azure Static Web Apps
+# See AZURE_DEPLOYMENT_TOKEN.md for the deployment token
 ```
 
 ## Filter Categories
