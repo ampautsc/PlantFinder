@@ -44,6 +44,39 @@ swa deploy ./dist --deployment-token <your-deployment-token>
 
 ### Environment Configuration
 
+#### Understanding Build-Time vs Runtime Variables
+
+**Important**: With Vite and Azure Static Web Apps, environment variables prefixed with `VITE_*` are embedded at **build time**, not runtime.
+
+| Variable Type | Configuration Location | When Available | Use Case |
+|--------------|----------------------|----------------|----------|
+| `VITE_*` variables | GitHub Secrets | Build time | Client-side code (embedded in bundle) |
+| Other env vars | Azure Portal Config | Runtime | Azure Functions / Server-side code |
+
+#### Setting Up VITE_* Environment Variables
+
+For variables used in client-side code (like `VITE_GITHUB_TOKEN` for the feedback system):
+
+1. Add the variable to GitHub Secrets:
+   - Go to repository Settings → Secrets and variables → Actions
+   - Click "New repository secret"
+   - Add the secret (e.g., `VITE_GITHUB_TOKEN`)
+
+2. Ensure your workflow file passes the secret to the build:
+   ```yaml
+   - name: Build And Deploy
+     uses: Azure/static-web-apps-deploy@v1
+     env:
+       VITE_GITHUB_TOKEN: ${{ secrets.VITE_GITHUB_TOKEN }}
+   ```
+
+3. For local development, create a `.env` file:
+   ```
+   VITE_GITHUB_TOKEN=your_token_here
+   ```
+
+#### Connecting to a Real API (Future Enhancement)
+
 The application is currently configured to use mock data. To connect to a real API:
 
 1. Create a new implementation of `IPlantApi` in `src/api/`
@@ -63,9 +96,7 @@ The application is currently configured to use mock data. To connect to a real A
    VITE_API_URL=http://localhost:3000
    ```
 
-5. Add environment variables in Azure Static Web Apps:
-   - Go to Configuration in Azure Portal
-   - Add application settings
+5. Add the variable to GitHub Secrets for production deployment
 
 ### Custom Domain
 

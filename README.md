@@ -128,7 +128,9 @@ The application includes a built-in feedback mechanism. To enable it, you need t
 
 1. Generate a GitHub token with `repo` scope
 2. For local development: Create a `.env` file with `VITE_GITHUB_TOKEN=your_token`
-3. For production: Add the token to Azure Static Web Apps Configuration
+3. For production: Add `VITE_GITHUB_TOKEN` to GitHub Repository Secrets (Settings → Secrets → Actions)
+   - This is required because Vite embeds environment variables at build time
+   - Azure Portal configuration won't work for `VITE_*` variables
 
 For detailed setup instructions, see [FEEDBACK_SETUP.md](FEEDBACK_SETUP.md).
 
