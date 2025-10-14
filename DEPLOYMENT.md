@@ -1,10 +1,27 @@
 # Deployment Guide
 
+## 🚨 CRITICAL FIRST STEP: Add Deployment Secret
+
+**Your deployment will FAIL unless you add the Azure deployment secret to GitHub Secrets first!**
+
+### ⚡ Quick Setup (2 minutes)
+
+1. **[Click here to open GitHub Secrets](https://github.com/ampautsc/PlantFinder/settings/secrets/actions)**
+2. Click "New repository secret"
+3. **Name:** `AZURE_STATIC_WEB_APPS_API_TOKEN_YELLOW_MUSHROOM_03D98F710`
+4. **Secret:** (paste your Azure deployment token)
+5. Click "Add secret"
+
+**📖 Detailed instructions:** See [ADD_SECRET_NOW.md](./ADD_SECRET_NOW.md)
+
+---
+
 ## Azure Static Web Apps Deployment
 
 ### Prerequisites
 - Azure account with an active subscription
 - GitHub repository access
+- **Deployment secret configured in GitHub Secrets** (see above)
 
 ### Setup Steps
 
@@ -12,20 +29,21 @@
    - Go to [Azure Portal](https://portal.azure.com)
    - Create a new Static Web App resource
    - Connect to your GitHub repository
-   - Select the branch: `main` or `copilot/add-wildflower-search-feature`
+   - Select the branch: `main`
    - Build preset: `React`
    - App location: `/`
    - Output location: `dist`
 
-2. **Configure GitHub Actions**
+2. **Configure GitHub Actions Secret** ⚠️ **REQUIRED**
    - Azure will automatically create a workflow file
-   - Or use the provided `.github/workflows/azure-static-web-apps.yml`
-   - Add the `AZURE_STATIC_WEB_APPS_API_TOKEN` secret to your repository
+   - The workflow is already configured: `.github/workflows/azure-static-web-apps-yellow-mushroom-03d98f710.yml`
+   - **You MUST manually add the deployment secret to GitHub** (see Quick Setup above)
+   - Secret name: `AZURE_STATIC_WEB_APPS_API_TOKEN_YELLOW_MUSHROOM_03D98F710`
 
 3. **Deploy**
-   - Push to the configured branch
+   - Push to the `main` branch
    - GitHub Actions will automatically build and deploy
-   - Your app will be available at: `https://<your-app-name>.azurestaticapps.net`
+   - Your app will be available at: `https://yellow-mushroom-03d98f710.azurestaticapps.net`
 
 ### Manual Deployment
 

@@ -2,6 +2,14 @@
 
 Camp Monarch's Plant Finder - A mobile-first web application for discovering native wildflowers.
 
+## 🚨 DEPLOYMENT SETUP REQUIRED
+
+**Before this app can deploy to Azure, you MUST manually add the deployment secret to GitHub.**
+
+👉 **[CLICK HERE FOR STEP-BY-STEP INSTRUCTIONS](./ADD_SECRET_NOW.md)** 👈
+
+This takes 2 minutes and cannot be automated for security reasons.
+
 ## Features
 
 ### Comprehensive Filtering
