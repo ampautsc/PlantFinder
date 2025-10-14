@@ -5,6 +5,8 @@ import { MockPlantApi } from './api/MockPlantApi';
 import PlantCard from './components/PlantCard';
 import FiltersPanel from './components/FiltersPanel';
 import SearchBar from './components/SearchBar';
+import FeedbackButton from './components/FeedbackButton';
+import FeedbackModal from './components/FeedbackModal';
 
 const plantApi = new MockPlantApi();
 
@@ -13,6 +15,7 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [filters, setFilters] = useState<PlantFilters>({});
   const [showFilters, setShowFilters] = useState(false);
+  const [showFeedbackModal, setShowFeedbackModal] = useState(false);
   const [filterOptions, setFilterOptions] = useState({
     bloomColors: [] as string[],
     bloomTimes: [] as string[],
@@ -106,6 +109,12 @@ function App() {
           )}
         </div>
       </div>
+
+      <FeedbackButton onClick={() => setShowFeedbackModal(true)} />
+      <FeedbackModal 
+        isOpen={showFeedbackModal} 
+        onClose={() => setShowFeedbackModal(false)} 
+      />
     </div>
   );
 }

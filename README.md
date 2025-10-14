@@ -16,6 +16,11 @@ Camp Monarch's Plant Finder - A mobile-first web application for discovering nat
 - Collapsible filter panel on mobile devices
 - Optimized for performance with lazy-loaded data
 
+### User Feedback
+- Built-in feedback mechanism for users to submit bug reports, feature requests, and general feedback
+- Feedback is automatically stored in the repository for review
+- Simple, accessible feedback form with structured categories
+
 ### Mock Data Implementation
 - Complete TypeScript API interface for future backend integration
 - Mock adapter with 12 native wildflower species
@@ -75,24 +80,31 @@ PlantFinder/
 ├── src/
 │   ├── api/
 │   │   ├── PlantApi.ts          # API interface definition
-│   │   └── MockPlantApi.ts      # Mock implementation
+│   │   ├── MockPlantApi.ts      # Mock implementation
+│   │   └── GitHubAdapter.ts     # GitHub API adapter for feedback
 │   ├── components/
 │   │   ├── FiltersPanel.tsx     # Comprehensive filter UI
 │   │   ├── PlantCard.tsx        # Plant display component
-│   │   └── SearchBar.tsx        # Search input component
+│   │   ├── SearchBar.tsx        # Search input component
+│   │   ├── FeedbackButton.tsx   # Floating feedback button
+│   │   └── FeedbackModal.tsx    # Feedback submission form
 │   ├── data/
 │   │   └── mockPlants.ts        # Mock wildflower data
 │   ├── types/
-│   │   └── Plant.ts             # TypeScript type definitions
+│   │   ├── Plant.ts             # TypeScript type definitions
+│   │   └── Feedback.ts          # Feedback type definitions
 │   ├── App.tsx                  # Main application component
 │   ├── App.css                  # Mobile-first styles
 │   ├── main.tsx                 # Application entry point
 │   └── index.css                # Global styles
+├── UserFeedback/                # User feedback submissions
+│   └── README.md                # Feedback folder documentation
 ├── index.html                   # HTML template
 ├── vite.config.ts              # Vite configuration
 ├── tsconfig.json               # TypeScript configuration
 ├── package.json                # Dependencies and scripts
-└── staticwebapp.config.json    # Azure Static Web Apps config
+├── staticwebapp.config.json    # Azure Static Web Apps config
+└── FEEDBACK_SETUP.md           # Feedback system setup guide
 ```
 
 ## API Interface
@@ -109,6 +121,16 @@ interface IPlantApi {
 ```
 
 Currently implemented with `MockPlantApi` for development and demonstration.
+
+## User Feedback Setup
+
+The application includes a built-in feedback mechanism. To enable it, you need to configure a GitHub Personal Access Token:
+
+1. Generate a GitHub token with `repo` scope
+2. For local development: Create a `.env` file with `VITE_GITHUB_TOKEN=your_token`
+3. For production: Add the token to Azure Static Web Apps Configuration
+
+For detailed setup instructions, see [FEEDBACK_SETUP.md](FEEDBACK_SETUP.md).
 
 ## Deployment to Azure
 
