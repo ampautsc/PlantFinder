@@ -1,0 +1,25 @@
+{
+  "id": "mertensia-virginica",
+  "commonName": "Virginia Bluebells",
+  "scientificName": "Mertensia virginica",
+  "description": "Beautiful blue bell-shaped flowers that carpet woodland floors in spring. Flowers emerge pink and turn blue as they mature. Goes dormant by summer (spring ephemeral). Excellent for naturalizing in shade gardens.",
+  "requirements": {
+    "sun": "partial-shade",
+    "moisture": "moist",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 18,
+    "width": 12,
+    "bloomColor": ["blue", "pink"],
+    "bloomTime": ["spring"],
+    "perennial": true,
+    "nativeRange": ["Eastern US"],
+    "hardinessZones": ["3", "4", "5", "6", "7", "8"]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": ["bees"],
+    "usefulFor": ["woodland garden", "spring ephemeral", "shade garden"]
+  }
+}

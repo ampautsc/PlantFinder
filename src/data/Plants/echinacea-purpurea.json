@@ -1,0 +1,25 @@
+{
+  "id": "echinacea-purpurea",
+  "commonName": "Purple Coneflower",
+  "scientificName": "Echinacea purpurea",
+  "description": "A popular native wildflower with large purple-pink flowers and a prominent cone-shaped center. Drought tolerant once established and highly attractive to butterflies, bees, and goldfinches. The seed heads provide winter interest and food for birds.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "dry",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 36,
+    "width": 24,
+    "bloomColor": ["purple", "pink"],
+    "bloomTime": ["summer", "fall"],
+    "perennial": true,
+    "nativeRange": ["Eastern US", "Midwest"],
+    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": ["butterflies", "bees", "birds"],
+    "usefulFor": ["pollinator garden", "drought tolerance", "medicinal"]
+  }
+}

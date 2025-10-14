@@ -1,0 +1,25 @@
+{
+  "id": "aquilegia-canadensis",
+  "commonName": "Wild Columbine",
+  "scientificName": "Aquilegia canadensis",
+  "description": "Delicate red and yellow nodding flowers with distinctive spurs, beloved by hummingbirds. Thrives in woodland settings and rocky slopes. Early spring bloomer that adds grace to shade gardens.",
+  "requirements": {
+    "sun": "partial-shade",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 24,
+    "width": 12,
+    "bloomColor": ["red", "yellow"],
+    "bloomTime": ["spring", "early summer"],
+    "perennial": true,
+    "nativeRange": ["Eastern US", "Midwest"],
+    "hardinessZones": ["3", "4", "5", "6", "7", "8"]
+  },
+  "relationships": {
+    "hostPlantTo": ["Columbine Duskywing butterfly"],
+    "foodFor": ["hummingbirds", "bees"],
+    "usefulFor": ["shade garden", "woodland garden", "hummingbird garden"]
+  }
+}

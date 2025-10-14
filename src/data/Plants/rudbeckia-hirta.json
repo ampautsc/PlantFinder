@@ -1,0 +1,25 @@
+{
+  "id": "rudbeckia-hirta",
+  "commonName": "Black-Eyed Susan",
+  "scientificName": "Rudbeckia hirta",
+  "description": "Bright yellow daisy-like flowers with dark brown centers. A cheerful and easy-to-grow native wildflower that thrives in a variety of conditions. Self-seeds readily and provides food for birds in winter.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 30,
+    "width": 18,
+    "bloomColor": ["yellow"],
+    "bloomTime": ["summer", "fall"],
+    "perennial": true,
+    "nativeRange": ["Eastern US", "Midwest", "Central US"],
+    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+  },
+  "relationships": {
+    "hostPlantTo": ["Silvery Checkerspot butterfly"],
+    "foodFor": ["butterflies", "bees", "birds"],
+    "usefulFor": ["pollinator garden", "naturalized areas", "wildlife habitat"]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "coreopsis-lanceolata",
+  "commonName": "Lance-Leaved Coreopsis",
+  "scientificName": "Coreopsis lanceolata",
+  "description": "Cheerful bright yellow daisy-like flowers that bloom prolifically throughout summer. Extremely easy to grow and drought tolerant. Deadheading encourages more blooms. Self-seeds readily in favorable conditions.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "dry",
+    "soil": "sand"
+  },
+  "characteristics": {
+    "height": 18,
+    "width": 18,
+    "bloomColor": ["yellow"],
+    "bloomTime": ["spring", "summer"],
+    "perennial": true,
+    "nativeRange": ["Eastern US", "Midwest", "Southern US"],
+    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": ["butterflies", "bees"],
+    "usefulFor": ["pollinator garden", "drought tolerance", "naturalized areas"]
+  }
+}

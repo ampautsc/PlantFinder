@@ -1,0 +1,25 @@
+{
+  "id": "phlox-paniculata",
+  "commonName": "Garden Phlox",
+  "scientificName": "Phlox paniculata",
+  "description": "Fragrant pink, purple, or white flower clusters that bloom in mid to late summer. Native to eastern North America. Attracts butterflies, hummingbirds, and other pollinators. Choose mildew-resistant varieties for best performance.",
+  "requirements": {
+    "sun": "partial-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 48,
+    "width": 24,
+    "bloomColor": ["pink", "purple", "white"],
+    "bloomTime": ["summer"],
+    "perennial": true,
+    "nativeRange": ["Eastern US", "Midwest"],
+    "hardinessZones": ["4", "5", "6", "7", "8"]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": ["butterflies", "hummingbirds", "bees"],
+    "usefulFor": ["pollinator garden", "aromatic", "cut flower"]
+  }
+}
