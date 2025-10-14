@@ -1,0 +1,25 @@
+{
+  "id": "zizia-aurea",
+  "commonName": "Golden Alexander",
+  "scientificName": "Zizia aurea",
+  "description": "Bright yellow umbel flowers bloom in spring, resembling Queen Anne's Lace. One of the first native spring bloomers, providing early nectar for pollinators. Host plant for Black Swallowtail butterflies. Prefers moist conditions and tolerates some shade.",
+  "requirements": {
+    "sun": "partial-sun",
+    "moisture": "moist",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 30,
+    "width": 18,
+    "bloomColor": ["yellow"],
+    "bloomTime": ["spring", "early summer"],
+    "perennial": true,
+    "nativeRange": ["Maine", "Vermont", "New Hampshire", "Massachusetts", "Rhode Island", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Florida", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Texas", "Kansas", "Nebraska", "South Dakota", "North Dakota"],
+    "hardinessZones": ["3", "4", "5", "6", "7", "8"]
+  },
+  "relationships": {
+    "hostPlantTo": ["Black Swallowtail butterfly"],
+    "foodFor": ["butterflies", "bees", "native bees", "beneficial insects"],
+    "usefulFor": ["pollinator garden", "rain garden", "woodland garden", "spring color"]
+  }
+}

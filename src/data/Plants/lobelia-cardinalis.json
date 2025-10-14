@@ -14,7 +14,7 @@
     "bloomColor": ["red"],
     "bloomTime": ["summer", "fall"],
     "perennial": true,
-    "nativeRange": ["Eastern US", "Midwest"],
+    "nativeRange": ["Maine", "New Hampshire", "Vermont", "Massachusetts", "Rhode Island", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Florida", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Texas", "Kansas"],
     "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
   },
   "relationships": {

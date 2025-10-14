@@ -1,0 +1,25 @@
+{
+  "id": "symphyotrichum-laeve",
+  "commonName": "Smooth Blue Aster",
+  "scientificName": "Symphyotrichum laeve",
+  "description": "Sky-blue to lavender daisy-like flowers with yellow centers bloom profusely in fall. Smooth, waxy leaves that are blue-green. One of the showiest native asters. Provides crucial late-season nectar for migrating monarchs and other pollinators. More compact and less prone to mildew than other asters.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 36,
+    "width": 24,
+    "bloomColor": ["blue", "lavender"],
+    "bloomTime": ["late summer", "fall"],
+    "perennial": true,
+    "nativeRange": ["Maine", "Vermont", "New Hampshire", "Massachusetts", "Rhode Island", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Alabama", "Mississippi", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Louisiana", "Oklahoma", "Kansas", "Nebraska", "South Dakota", "North Dakota", "Montana", "Wyoming", "Colorado", "New Mexico"],
+    "hardinessZones": ["3", "4", "5", "6", "7", "8"]
+  },
+  "relationships": {
+    "hostPlantTo": ["Pearl Crescent butterfly", "Silvery Checkerspot butterfly"],
+    "foodFor": ["butterflies", "bees", "native bees", "birds"],
+    "usefulFor": ["pollinator garden", "fall color", "wildlife habitat", "monarch migration support"]
+  }
+}

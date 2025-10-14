@@ -14,7 +14,7 @@
     "bloomColor": ["blue", "pink"],
     "bloomTime": ["spring"],
     "perennial": true,
-    "nativeRange": ["Eastern US"],
+    "nativeRange": ["New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Alabama", "Mississippi", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Kansas", "Nebraska", "South Dakota"],
     "hardinessZones": ["3", "4", "5", "6", "7", "8"]
   },
   "relationships": {
