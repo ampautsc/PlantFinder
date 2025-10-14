@@ -119,6 +119,13 @@ npm run dev
 - Check GitHub Actions logs for specific errors
 - Ensure output location is set to `dist`
 
+### Deployment Hangs
+If the deployment hangs at the "Polling on deployment" stage:
+- The workflow includes a `deployment_timeout_in_minutes: 10` parameter to prevent infinite polling
+- Check Azure Portal for any service issues or resource availability
+- Verify the Static Web App resource is active and not paused
+- If it continues to hang, consider re-creating the Azure Static Web App resource
+
 ### Application Not Loading
 - Check browser console for errors
 - Verify build was successful
