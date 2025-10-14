@@ -25,9 +25,10 @@ body {
 }
 
 .app {
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 
 /* Header */
@@ -318,17 +319,17 @@ body {
 
   .main-content {
     flex-direction: row;
+    overflow: hidden;
   }
 
   .filters-panel {
     width: 300px;
     min-width: 300px;
+    height: 100%;
     max-height: none;
     border-bottom: none;
     border-right: 2px solid var(--border-color);
-    position: sticky;
-    top: 160px;
-    align-self: flex-start;
+    overflow-y: auto;
   }
 
   .filters-panel.hidden {
@@ -337,6 +338,11 @@ body {
 
   .filter-toggle-btn {
     display: none;
+  }
+
+  .results-container {
+    height: 100%;
+    overflow-y: auto;
   }
 
   .results-grid {

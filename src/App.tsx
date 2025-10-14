@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import './App.css';
 import { Plant, PlantFilters } from './types/Plant';
 import { MockPlantApi } from './api/MockPlantApi';
@@ -25,6 +25,7 @@ function App() {
     foodFor: [] as string[],
     usefulFor: [] as string[],
   });
+  const resultsContainerRef = useRef<HTMLDivElement>(null);
 
   // Load filter options on mount
   useEffect(() => {
@@ -41,6 +42,13 @@ function App() {
       setLoading(false);
     });
   }, [filters]);
+
+  // Scroll results to top when plants change
+  useEffect(() => {
+    if (resultsContainerRef.current) {
+      resultsContainerRef.current.scrollTop = 0;
+    }
+  }, [plants]);
 
   const handleSearchChange = (query: string) => {
     setFilters(prev => ({ ...prev, searchQuery: query }));
@@ -84,7 +92,7 @@ function App() {
           isVisible={showFilters}
         />
 
-        <div className="results-container">
+        <div className="results-container" ref={resultsContainerRef}>
           <div className="results-header">
             {loading ? (
               'Searching...'
