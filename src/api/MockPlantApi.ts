@@ -84,8 +84,8 @@ export class MockPlantApi implements IPlantApi {
     // Filter by native range
     if (filters.nativeRange && filters.nativeRange.length > 0) {
       results = results.filter(plant =>
-        plant.characteristics.nativeRange.some(range =>
-          filters.nativeRange!.includes(range)
+        filters.nativeRange!.every(range =>
+          plant.characteristics.nativeRange.includes(range)
         )
       );
     }
