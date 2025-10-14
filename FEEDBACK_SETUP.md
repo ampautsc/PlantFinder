@@ -37,18 +37,20 @@ VITE_GITHUB_TOKEN=your_github_token_here
 
 **Note**: The `.env` file is already in `.gitignore`, so it won't be committed to the repository.
 
-### 3. Configure the Token for Azure Static Web Apps
+### 3. Configure the Token for Production (Azure Static Web Apps)
 
-1. Go to the [Azure Portal](https://portal.azure.com)
-2. Navigate to your Static Web App resource
-3. In the left menu, select **"Configuration"**
-4. Under **"Application settings"**, click **"Add"**
-5. Add a new setting:
+Since Vite embeds environment variables at build time, the token must be available during the GitHub Actions build step:
+
+1. Go to the repository settings: https://github.com/ampautsc/PlantFinder/settings/secrets/actions
+2. Click **"New repository secret"**
+3. Add the secret:
    - **Name**: `VITE_GITHUB_TOKEN`
    - **Value**: Your GitHub Personal Access Token
-6. Click **"Save"**
+4. Click **"Add secret"**
 
-The setting will be available to the application after the next deployment.
+The workflow files are already configured to use this secret during the build process. The token will be embedded in the application bundle during deployment.
+
+**Important Note**: For Azure Static Web Apps with Vite, `VITE_*` environment variables must be configured in GitHub Secrets (not Azure Portal) because they are embedded at build time, not runtime.
 
 ### 4. Test the Feedback System
 
@@ -77,9 +79,10 @@ The GitHub token has write access to the repository. To minimize security risks:
 ### Environment Variables
 
 - Local development: Use `.env` file (not committed)
-- Production: Use Azure Static Web Apps Configuration
+- Production: Use GitHub Secrets (embedded at build time)
 - The token is accessed via `import.meta.env.VITE_GITHUB_TOKEN`
 - Vite only exposes variables prefixed with `VITE_` to the client
+- **Important**: `VITE_*` variables are embedded during build, so they must be available in the GitHub Actions environment, not Azure Portal runtime configuration
 
 ### Data Privacy
 
@@ -98,8 +101,8 @@ The GitHub token has write access to the repository. To minimize security risks:
 
 **Solution**:
 - For local development: Create a `.env` file with the token
-- For production: Add the token to Azure Static Web Apps Configuration
-- After adding the token, restart the dev server or redeploy the application
+- For production: Add the token to GitHub Secrets (Repository Settings → Secrets → Actions)
+- After adding the token, restart the dev server (local) or trigger a new deployment (production)
 
 ### "Failed to submit feedback: 401" Error
 
@@ -107,7 +110,7 @@ The GitHub token has write access to the repository. To minimize security risks:
 
 **Solution**:
 1. Generate a new token following the steps above
-2. Update the token in your `.env` file (local) or Azure Configuration (production)
+2. Update the token in your `.env` file (local) or GitHub Secrets (production)
 3. Ensure the token has the correct `repo` scope
 
 ### "Failed to submit feedback: 403" Error
@@ -139,9 +142,10 @@ It's recommended to rotate the GitHub token periodically:
 1. Generate a new token (follow steps in section 1)
 2. Update the token in:
    - Local `.env` file
-   - Azure Static Web Apps Configuration
+   - GitHub Repository Secrets
 3. Revoke the old token in GitHub Settings
-4. Test the feedback system to ensure it works with the new token
+4. Trigger a new deployment for the changes to take effect
+5. Test the feedback system to ensure it works with the new token
 
 ## Alternative Approaches
 

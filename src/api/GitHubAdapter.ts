@@ -12,7 +12,7 @@ export class GitHubAdapter {
 
   constructor() {
     // Get GitHub token from environment variable
-    // In production, this should be set in Azure Static Web Apps configuration
+    // In production, this should be set in GitHub Secrets (embedded at build time)
     this.token = import.meta.env.VITE_GITHUB_TOKEN || '';
     this.owner = 'ampautsc';
     this.repo = 'PlantFinder';
