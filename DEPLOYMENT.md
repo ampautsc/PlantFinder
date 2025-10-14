@@ -18,9 +18,9 @@
    - Output location: `dist`
 
 2. **Configure GitHub Actions**
-   - Azure will automatically create a workflow file
-   - Or use the provided `.github/workflows/azure-static-web-apps.yml`
-   - Add the `AZURE_STATIC_WEB_APPS_API_TOKEN` secret to your repository
+   - Azure automatically creates a workflow file: `.github/workflows/azure-static-web-apps-yellow-mushroom-03d98f710.yml`
+   - The workflow uses the secret: `AZURE_STATIC_WEB_APPS_API_TOKEN_YELLOW_MUSHROOM_03D98F710`
+   - This secret is automatically added by Azure when you create the Static Web App
 
 3. **Deploy**
    - Push to the configured branch
