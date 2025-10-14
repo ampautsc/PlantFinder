@@ -1,0 +1,25 @@
+{
+  "id": "amsonia-tabernaemontana",
+  "commonName": "Eastern Bluestar",
+  "scientificName": "Amsonia tabernaemontana",
+  "description": "Clusters of star-shaped pale blue flowers in spring, followed by attractive willow-like foliage that turns golden yellow in fall. Low maintenance and deer resistant. Forms a neat, rounded clump that rarely needs staking.",
+  "requirements": {
+    "sun": "partial-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 30,
+    "width": 36,
+    "bloomColor": ["blue"],
+    "bloomTime": ["spring"],
+    "perennial": true,
+    "nativeRange": ["Eastern US", "Midwest"],
+    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": ["bees"],
+    "usefulFor": ["fall color", "wildlife habitat", "low maintenance"]
+  }
+}

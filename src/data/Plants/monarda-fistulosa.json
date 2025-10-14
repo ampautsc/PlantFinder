@@ -1,0 +1,25 @@
+{
+  "id": "monarda-fistulosa",
+  "commonName": "Wild Bergamot",
+  "scientificName": "Monarda fistulosa",
+  "description": "Lavender-pink tubular flowers with a distinctive minty fragrance. Excellent for pollinators and has traditional medicinal uses. Member of the mint family with aromatic foliage. More mildew-resistant than garden bee balm.",
+  "requirements": {
+    "sun": "partial-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 36,
+    "width": 24,
+    "bloomColor": ["lavender", "pink"],
+    "bloomTime": ["summer"],
+    "perennial": true,
+    "nativeRange": ["Eastern US", "Midwest", "Western US"],
+    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": ["butterflies", "bees", "hummingbirds"],
+    "usefulFor": ["pollinator garden", "medicinal", "aromatic"]
+  }
+}

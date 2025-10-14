@@ -1,0 +1,25 @@
+{
+  "id": "eutrochium-purpureum",
+  "commonName": "Joe Pye Weed",
+  "scientificName": "Eutrochium purpureum",
+  "description": "Tall, stately plant with large clusters of dusty rose-pink flowers. A favorite of butterflies and great for wet areas or back of borders. Vanilla-scented flowers attract many pollinators. Named after a Native American healer.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "wet",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 72,
+    "width": 36,
+    "bloomColor": ["pink", "mauve"],
+    "bloomTime": ["late summer", "fall"],
+    "perennial": true,
+    "nativeRange": ["Eastern US", "Midwest"],
+    "hardinessZones": ["4", "5", "6", "7", "8", "9"]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": ["butterflies", "bees"],
+    "usefulFor": ["pollinator garden", "rain garden", "wildlife habitat"]
+  }
+}

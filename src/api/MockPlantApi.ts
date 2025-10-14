@@ -1,13 +1,13 @@
 import { IPlantApi } from './PlantApi';
 import { Plant, PlantFilters } from '../types/Plant';
-import { mockPlants } from '../data/mockPlants';
+import { plants } from '../data/Plants';
 
 /**
  * Mock implementation of the Plant API
  * Uses in-memory data for development and testing
  */
 export class MockPlantApi implements IPlantApi {
-  private plants: Plant[] = mockPlants;
+  private plants: Plant[] = plants;
 
   async getAllPlants(): Promise<Plant[]> {
     // Simulate network delay

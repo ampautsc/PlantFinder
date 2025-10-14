@@ -1,0 +1,25 @@
+{
+  "id": "helianthus-angustifolius",
+  "commonName": "Swamp Sunflower",
+  "scientificName": "Helianthus angustifolius",
+  "description": "Tall native sunflower with golden-yellow flowers and dark centers. Blooms in late summer to fall, providing crucial food for migrating butterflies and birds. Tolerates wet soils better than most sunflowers. Can form large colonies.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "wet",
+    "soil": "clay"
+  },
+  "characteristics": {
+    "height": 72,
+    "width": 36,
+    "bloomColor": ["yellow"],
+    "bloomTime": ["late summer", "fall"],
+    "perennial": true,
+    "nativeRange": ["Eastern US", "Southern US"],
+    "hardinessZones": ["5", "6", "7", "8", "9"]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": ["butterflies", "bees", "birds"],
+    "usefulFor": ["pollinator garden", "rain garden", "wildlife habitat"]
+  }
+}
