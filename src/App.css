@@ -108,6 +108,7 @@ body {
   display: flex;
   flex-direction: column;
   flex: 1;
+  overflow: hidden;
 }
 
 /* Filters Panel */
@@ -202,6 +203,7 @@ body {
 .results-container {
   flex: 1;
   padding: 1rem;
+  overflow-y: auto;
 }
 
 .results-header {
