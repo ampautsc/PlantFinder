@@ -229,6 +229,21 @@ body {
   transform: scale(0.98);
 }
 
+.plant-image {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: var(--background-color);
+}
+
+.plant-image img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
 .plant-card h2 {
   font-size: 1.25rem;
   margin-bottom: 0.25rem;
