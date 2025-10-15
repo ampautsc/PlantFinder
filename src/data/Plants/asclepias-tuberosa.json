@@ -21,5 +21,6 @@
     "hostPlantTo": ["Monarch butterfly", "Queen butterfly"],
     "foodFor": ["butterflies", "bees"],
     "usefulFor": ["pollinator garden", "monarch conservation", "drought tolerance"]
-  }
+  },
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Asclepias_tuberosa_2.jpg/800px-Asclepias_tuberosa_2.jpg"
 }

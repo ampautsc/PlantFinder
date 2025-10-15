@@ -27,6 +27,11 @@ function PlantCard({ plant }: PlantCardProps) {
 
   return (
     <div className="plant-card">
+      {plant.imageUrl && (
+        <div className="plant-image">
+          <img src={plant.imageUrl} alt={plant.commonName} loading="lazy" />
+        </div>
+      )}
       <h2>{plant.commonName}</h2>
       <div className="scientific-name">{plant.scientificName}</div>
       <p className="description">{plant.description}</p>

@@ -21,5 +21,6 @@
     "hostPlantTo": [],
     "foodFor": ["butterflies", "bees", "birds"],
     "usefulFor": ["pollinator garden", "naturalized areas", "fall color"]
-  }
+  },
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Solidago_canadensis_2007_08_11.JPG/800px-Solidago_canadensis_2007_08_11.JPG"
 }

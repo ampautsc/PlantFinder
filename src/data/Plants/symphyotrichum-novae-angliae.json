@@ -21,5 +21,6 @@
     "hostPlantTo": ["Pearl Crescent butterfly"],
     "foodFor": ["butterflies", "bees", "birds"],
     "usefulFor": ["pollinator garden", "fall color", "wildlife habitat"]
-  }
+  },
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Symphyotrichum_novae-angliae.jpg/800px-Symphyotrichum_novae-angliae.jpg"
 }
