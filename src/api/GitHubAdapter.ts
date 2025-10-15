@@ -4,7 +4,7 @@ import { PlantImageSubmission } from '../types/PlantImage';
 /**
  * GitHub Adapter for submitting user feedback and plant images
  * Stores feedback as JSON files in the UserFeedback folder
- * Stores plant images in species-specific directories in public/images/plants
+ * Stores plant images in plant-specific subdirectories: public/images/plants/${plantId}
  */
 export class GitHubAdapter {
   private readonly token: string;
