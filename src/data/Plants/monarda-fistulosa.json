@@ -22,5 +22,5 @@
     "foodFor": ["butterflies", "bees", "hummingbirds"],
     "usefulFor": ["pollinator garden", "medicinal", "aromatic"]
   },
-  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Monarda_fistulosa_%28Wild_Bergamot%29_-_Flickr_-_Jay_Sturner_%281%29.jpg/800px-Monarda_fistulosa_%28Wild_Bergamot%29_-_Flickr_-_Jay_Sturner_%281%29.jpg"
+  "imageUrl": "/images/monarda-fistulosa.svg"
 }

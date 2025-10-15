@@ -22,5 +22,5 @@
     "foodFor": ["butterflies", "bees", "birds"],
     "usefulFor": ["pollinator garden", "drought tolerance", "medicinal"]
   },
-  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Echinacea_purpurea_%28Eastern_purple_coneflower%29.jpg/800px-Echinacea_purpurea_%28Eastern_purple_coneflower%29.jpg"
+  "imageUrl": "/images/echinacea-purpurea.svg"
 }
