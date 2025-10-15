@@ -26,7 +26,7 @@ const AddPlantImageModal: React.FC<AddPlantImageModalProps> = ({ isOpen, onClose
   const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
   const [errorMessage, setErrorMessage] = useState('');
 
-  const githubAdapter = new GitHubAdapter();
+  const githubAdapter = useMemo(() => new GitHubAdapter(), []);
 
   // Create plant options with display names
   const plantOptions: PlantOption[] = useMemo(() => {
