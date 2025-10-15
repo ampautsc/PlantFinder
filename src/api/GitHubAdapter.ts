@@ -83,7 +83,13 @@ export class GitHubAdapter {
 
     // Generate a unique filename based on timestamp
     const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
-    const fileExtension = submission.fileName ? submission.fileName.split('.').pop() : 'jpg';
+    let fileExtension = 'jpg';
+    if (submission.fileName) {
+      const parts = submission.fileName.split('.');
+      if (parts.length > 1 && parts[parts.length - 1].trim() !== '') {
+        fileExtension = parts[parts.length - 1];
+      }
+    }
     const filename = `${submission.plantId}-${timestamp}.${fileExtension}`;
     const path = `public/images/plants/${submission.plantId}/${filename}`;
 
