@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-10-15T14:45:00.000Z",
+  "requestType": "plant",
+  "speciesId": "asclepias-syriaca",
+  "commonName": "Common Milkweed",
+  "scientificName": "Asclepias syriaca",
+  "message": "Would love to see photos of the flowers and seed pods!",
+  "userAgent": "Mozilla/5.0 (Example User Agent)",
+  "url": "http://localhost:5173/"
+}
