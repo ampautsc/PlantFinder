@@ -182,6 +182,12 @@ All colors and common values use CSS variables defined in `:root`:
 - Handle loading states explicitly
 - Design for future real API integration
 
+#### URL and Environment Standards
+- **NEVER reference localhost in code, documentation, or examples**
+- Use relative paths for internal resources
+- Use environment variables for API endpoints
+- Use placeholder domains (example.com) in documentation examples only
+
 #### File Organization
 ```
 src/

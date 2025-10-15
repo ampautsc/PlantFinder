@@ -27,9 +27,13 @@ function PlantCard({ plant }: PlantCardProps) {
 
   return (
     <div className="plant-card">
-      {plant.imageUrl && (
+      {plant.imageUrl ? (
         <div className="plant-image">
           <img src={plant.imageUrl} alt={plant.commonName} loading="lazy" />
+        </div>
+      ) : (
+        <div className="plant-image-placeholder">
+          <div className="no-image-indicator">📷 Image Coming Soon</div>
         </div>
       )}
       <h2>{plant.commonName}</h2>
