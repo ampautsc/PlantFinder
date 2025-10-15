@@ -1,13 +1,10 @@
-import { useState } from 'react';
 import { Plant } from '../types/Plant';
-import ImageRequestModal from './ImageRequestModal';
 
 interface PlantCardProps {
   plant: Plant;
 }
 
 function PlantCard({ plant }: PlantCardProps) {
-  const [showImageRequestModal, setShowImageRequestModal] = useState(false);
   const getSunLabel = (sun: string) => {
     const labels = {
       'full-sun': '☀️ Full Sun',
@@ -36,13 +33,7 @@ function PlantCard({ plant }: PlantCardProps) {
         </div>
       ) : (
         <div className="plant-image-placeholder">
-          <button 
-            className="request-image-button"
-            onClick={() => setShowImageRequestModal(true)}
-            title="Request images for this plant"
-          >
-            📷 Request Images
-          </button>
+          <div className="no-image-indicator">📷 Image Coming Soon</div>
         </div>
       )}
       <h2>{plant.commonName}</h2>
@@ -84,15 +75,6 @@ function PlantCard({ plant }: PlantCardProps) {
           <span key={food} className="tag">{food}</span>
         ))}
       </div>
-
-      <ImageRequestModal
-        isOpen={showImageRequestModal}
-        onClose={() => setShowImageRequestModal(false)}
-        speciesId={plant.id}
-        commonName={plant.commonName}
-        scientificName={plant.scientificName}
-        speciesType="plant"
-      />
     </div>
   );
 }
