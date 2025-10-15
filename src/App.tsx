@@ -7,15 +7,19 @@ import FiltersPanel from './components/FiltersPanel';
 import SearchBar from './components/SearchBar';
 import FeedbackButton from './components/FeedbackButton';
 import FeedbackModal from './components/FeedbackModal';
+import AddPlantImageButton from './components/AddPlantImageButton';
+import AddPlantImageModal from './components/AddPlantImageModal';
 
 const plantApi = new MockPlantApi();
 
 function App() {
   const [plants, setPlants] = useState<Plant[]>([]);
+  const [allPlants, setAllPlants] = useState<Plant[]>([]);
   const [loading, setLoading] = useState(true);
   const [filters, setFilters] = useState<PlantFilters>({});
   const [showFilters, setShowFilters] = useState(false);
   const [showFeedbackModal, setShowFeedbackModal] = useState(false);
+  const [showAddImageModal, setShowAddImageModal] = useState(false);
   const [filterOptions, setFilterOptions] = useState({
     bloomColors: [] as string[],
     bloomTimes: [] as string[],
@@ -27,8 +31,11 @@ function App() {
   });
   const resultsContainerRef = useRef<HTMLDivElement>(null);
 
-  // Load filter options on mount
+  // Load all plants and filter options on mount
   useEffect(() => {
+    plantApi.getAllPlants().then(allPlantsData => {
+      setAllPlants(allPlantsData);
+    });
     plantApi.getFilterOptions().then(options => {
       setFilterOptions(options);
     });
@@ -118,7 +125,13 @@ function App() {
         </div>
       </div>
 
+      <AddPlantImageButton onClick={() => setShowAddImageModal(true)} />
       <FeedbackButton onClick={() => setShowFeedbackModal(true)} />
+      <AddPlantImageModal
+        isOpen={showAddImageModal}
+        onClose={() => setShowAddImageModal(false)}
+        plants={allPlants}
+      />
       <FeedbackModal 
         isOpen={showFeedbackModal} 
         onClose={() => setShowFeedbackModal(false)} 
