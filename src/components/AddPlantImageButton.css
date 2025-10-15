@@ -1,0 +1,40 @@
+.add-image-button {
+  position: fixed;
+  bottom: 24px;
+  right: 96px;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-image-button:hover {
+  background-color: #1976d2;
+  transform: scale(1.1);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+.add-image-button:active {
+  transform: scale(0.95);
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  .add-image-button {
+    bottom: 16px;
+    right: 80px;
+    width: 48px;
+    height: 48px;
+    font-size: 1.25rem;
+  }
+}
