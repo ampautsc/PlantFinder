@@ -4,9 +4,20 @@ Batch job to fetch plant data from wildflower.org collection.
 This script scrapes plant data from the wildflower.org database,
 parses individual plant pages, and saves the data into source control.
 
+The script handles pagination automatically by:
+1. Using start/pagecount parameters to fetch pages sequentially
+2. Extracting the total result count from the first page
+3. Iterating through all pages until all results are fetched
+4. Logging the total number of pages and plant links extracted
+
 Usage:
     python fetch_wildflower_data.py          # Normal mode - fetch from website
     python fetch_wildflower_data.py --test   # Test mode - use mock data
+
+Configuration:
+    Edit the script to change:
+    - COLLECTION_NAME: The collection to fetch (default: "bamona")
+    - PAGECOUNT: Number of results per page (default: 100)
 """
 
 import sys
