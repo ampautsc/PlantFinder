@@ -8,13 +8,14 @@ This directory contains batch job scripts for the PlantFinder application.
 
 The `fetch_wildflower_data.py` script is a batch job that scrapes plant data from the [Lady Bird Johnson Wildflower Center](https://www.wildflower.org/) database. The script:
 
-1. **Fetches the collection page** to find individual plant links
-2. **Parses HTML** to extract plant URLs from the collection
+1. **Fetches all collection pages** (with pagination support) to find individual plant links
+2. **Parses HTML** to extract plant URLs from the collection pages
 3. **Scrapes individual plant pages** to get detailed plant data
 4. **Saves raw JSON** for each plant in source control
 
 ### Features
 
+- **Pagination Support**: Automatically detects and fetches all pages in the collection
 - **HTML Parsing**: Extracts plant links from collection pages and data from plant detail pages
 - **Source Control Storage**: Saves data in `src/data/wildflower-org/` (not in gitignored `data/` folder)
 - **URL-Specific Folder**: Creates a folder specific to the wildflower.org source URL
