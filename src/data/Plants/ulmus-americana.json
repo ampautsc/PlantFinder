@@ -1,0 +1,89 @@
+{
+  "id": "ulmus-americana",
+  "commonName": "American Elm",
+  "scientificName": "Ulmus americana",
+  "description": "Majestic native tree and host plant for question mark, mourning cloak, and comma butterflies. Classic vase-shaped form. Disease-resistant cultivars available. Important wildlife tree.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "moist",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 960,
+    "width": 720,
+    "bloomColor": [
+      "green"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota",
+      "Montana",
+      "Wyoming"
+    ],
+    "hardinessZones": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Question Mark",
+      "Mourning Cloak",
+      "Eastern Comma"
+    ],
+    "foodFor": [
+      "butterflies",
+      "birds"
+    ],
+    "usefulFor": [
+      "shade tree",
+      "street tree",
+      "wildlife habitat"
+    ]
+  }
+}

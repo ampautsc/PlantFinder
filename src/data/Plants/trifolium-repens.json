@@ -1,0 +1,100 @@
+{
+  "id": "trifolium-repens",
+  "commonName": "White Clover",
+  "scientificName": "Trifolium repens",
+  "description": "Low-growing legume that is a crucial host plant for clouded sulphur and orange sulphur butterflies. Fixes nitrogen in soil. White flower heads attract many pollinators. Excellent lawn alternative.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 6,
+    "width": 24,
+    "bloomColor": [
+      "white"
+    ],
+    "bloomTime": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota",
+      "Montana",
+      "Wyoming",
+      "Colorado",
+      "New Mexico",
+      "Arizona",
+      "Utah",
+      "Idaho",
+      "Washington",
+      "Oregon",
+      "California"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Clouded Sulphur",
+      "Orange Sulphur",
+      "Eastern Tailed-Blue"
+    ],
+    "foodFor": [
+      "bees",
+      "butterflies",
+      "birds"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "lawn alternative",
+      "nitrogen fixation",
+      "ground cover"
+    ]
+  }
+}

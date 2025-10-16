@@ -1,0 +1,74 @@
+{
+  "id": "liriodendron-tulipifera",
+  "commonName": "Tulip Tree",
+  "scientificName": "Liriodendron tulipifera",
+  "description": "Tall native tree and host plant for tiger swallowtail and spicebush swallowtail butterflies. Distinctive tulip-shaped flowers appear in late spring. Fast-growing shade tree with excellent yellow fall color.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 900,
+    "width": 480,
+    "bloomColor": [
+      "yellow",
+      "orange"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Massachusetts",
+      "Connecticut",
+      "Rhode Island",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Missouri",
+      "Arkansas"
+    ],
+    "hardinessZones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Tiger Swallowtail",
+      "Spicebush Swallowtail"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "hummingbirds"
+    ],
+    "usefulFor": [
+      "shade tree",
+      "wildlife habitat",
+      "nectar source"
+    ]
+  }
+}
