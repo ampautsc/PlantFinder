@@ -107,6 +107,7 @@ import CeanothusCordulatusData from './ceanothus-cordulatus.json';
 import CeanothusCuneatusData from './ceanothus-cuneatus.json';
 import CeanothusFendleriData from './ceanothus-fendleri.json';
 import CeanothusHerbaceusData from './ceanothus-herbaceus.json';
+import CeanothusSanguineusData from './ceanothus-sanguineus.json';
 import CelosiaNitidaData from './celosia-nitida.json';
 import CeltisLaevigataData from './celtis-laevigata.json';
 import CeltisLindheimeriData from './celtis-lindheimeri.json';
@@ -116,79 +117,172 @@ import CercisCanadensisData from './cercis-canadensis.json';
 import CercocarpusMontanusData from './cercocarpus-montanus.json';
 import ChamerionAngustifoliumData from './chamerion-angustifolium.json';
 import CheloneGlabraData from './chelone-glabra.json';
+import ChenopodiumAlbumData from './chenopodium-album.json';
 import ChilopsisLinearisData from './chilopsis-linearis.json';
+import ChiococcaAlbaData from './chiococca-alba.json';
+import ChionanthusVirginicusData from './chionanthus-virginicus.json';
 import ChrysogonumVirginianumData from './chrysogonum-virginianum.json';
+import CirsiumDiscolorData from './cirsium-discolor.json';
+import CirsiumHorridulumData from './cirsium-horridulum.json';
+import CirsiumMuticumData from './cirsium-muticum.json';
 import CirsiumOchrocentrumData from './cirsium-ochrocentrum.json';
+import CirsiumPitcheriData from './cirsium-pitcheri.json';
 import CirsiumUndulatumData from './cirsium-undulatum.json';
 import CleomeSerrulataData from './cleome-serrulata.json';
+import ComandraUmbellataData from './comandra-umbellata.json';
+import ComptoniaPeregrinaData from './comptonia-peregrina.json';
+import CondaliaHookeriData from './condalia-hookeri.json';
+import CondaliaSpathulataData from './condalia-spathulata.json';
+import CondaliaViridisData from './condalia-viridis.json';
 import ConocliniumCoelestinumData from './conoclinium-coelestinum.json';
 import CoreopsisLanceolataData from './coreopsis-lanceolata.json';
 import CoreopsisTinctoriaData from './coreopsis-tinctoria.json';
 import CorethrogyneFilaginifoliaData from './corethrogyne-filaginifolia.json';
+import CornusAlternifoliaData from './cornus-alternifolia.json';
 import CornusCanadensisData from './cornus-canadensis.json';
+import CornusFloridaData from './cornus-florida.json';
+import CornusRacemosaData from './cornus-racemosa.json';
+import CornusRugosaData from './cornus-rugosa.json';
+import CornusSericeaData from './cornus-sericea.json';
+import CorylusCornutaData from './corylus-cornuta.json';
+import CoursetiaGlandulosaData from './coursetia-glandulosa.json';
+import CrataegusDouglasiiData from './crataegus-douglasii.json';
+import CrotonCapitatusData from './croton-capitatus.json';
+import CyperusEsculentusData from './cyperus-esculentus.json';
 import DaleaCandidaData from './dalea-candida.json';
 import DaleaPurpureaData from './dalea-purpurea.json';
+import DanthoniaSpicataData from './danthonia-spicata.json';
 import DelphiniumGlaucumData from './delphinium-glaucum.json';
+import DeschampsiaCespitosaData from './deschampsia-cespitosa.json';
+import DesmodiumCanadenseData from './desmodium-canadense.json';
+import DesmodiumGlutinosumData from './desmodium-glutinosum.json';
+import DiapensiaLapponicaData from './diapensia-lapponica.json';
 import DicentraCanadensisData from './dicentra-canadensis.json';
+import DicentraUnifloraData from './dicentra-uniflora.json';
+import DiclipteraBrachiataData from './dicliptera-brachiata.json';
+import DiospyrosTexanaData from './diospyros-texana.json';
+import DiospyrosVirginianaData from './diospyros-virginiana.json';
+import DistichlisSpicataData from './distichlis-spicata.json';
+import DryasIntegrifoliaData from './dryas-integrifolia.json';
+import DryasOctopetalaData from './dryas-octopetala.json';
 import EchinaceaAngustifoliaData from './echinacea-angustifolia.json';
 import EchinaceaPurpureaData from './echinacea-purpurea.json';
+import EleocharisEllipticaData from './eleocharis-elliptica.json';
+import EmpetrumNigrumData from './empetrum-nigrum.json';
+import EpigaeaRepensData from './epigaea-repens.json';
 import EpilobiumCanumData from './epilobium-canum.json';
 import EricameriaNauseosaData from './ericameria-nauseosa.json';
+import ErigeronPhiladelphicusData from './erigeron-philadelphicus.json';
 import ErigeronSpeciosusData from './erigeron-speciosus.json';
+import EriogonumAbertianumData from './eriogonum-abertianum.json';
+import EriogonumFasciculatumData from './eriogonum-fasciculatum.json';
+import EriogonumGiganteumData from './eriogonum-giganteum.json';
+import EriogonumNudumData from './eriogonum-nudum.json';
 import EriogonumUmbellatumData from './eriogonum-umbellatum.json';
+import EriogonumWrightiiData from './eriogonum-wrightii.json';
 import EriophyllumLanatumData from './eriophyllum-lanatum.json';
 import EschscholziaCalifornicaData from './eschscholzia-californica.json';
+import EugeniaAxillarisData from './eugenia-axillaris.json';
 import EupatoriumPerfoliatumData from './eupatorium-perfoliatum.json';
 import EupatoriumSerotinumData from './eupatorium-serotinum.json';
 import EurybiaDivaricataData from './eurybia-divaricata.json';
+import EurybiaMacrophyllaData from './eurybia-macrophylla.json';
 import EurybiaSibiricaData from './eurybia-sibirica.json';
 import EutrochiumFistulosumData from './eutrochium-fistulosum.json';
 import EutrochiumPurpureumData from './eutrochium-purpureum.json';
+import FagusGrandifoliaData from './fagus-grandifolia.json';
+import FestucaIdahoensisData from './festuca-idahoensis.json';
 import FragariaChiloensisData from './fragaria-chiloensis.json';
 import FragariaVirginianaData from './fragaria-virginiana.json';
+import FraxinusAlbicansData from './fraxinus-albicans.json';
+import FraxinusAmericanaData from './fraxinus-americana.json';
+import FraxinusGreggiiData from './fraxinus-greggii.json';
+import FraxinusPennsylvanicaData from './fraxinus-pennsylvanica.json';
 import GaillardiaAristataData from './gaillardia-aristata.json';
 import GaillardiaPulchellaData from './gaillardia-pulchella.json';
+import GaultheriaHispidulaData from './gaultheria-hispidula.json';
 import GeraniumErianthumData from './geranium-erianthum.json';
 import GeraniumMaculatumData from './geranium-maculatum.json';
 import GeraniumRichardsoniiData from './geranium-richardsonii.json';
 import GlandulariaBipinnatifidaData from './glandularia-bipinnatifida.json';
+import GleditsiaTriacanthosData from './gleditsia-triacanthos.json';
+import GlycyrrhizaLepidotaData from './glycyrrhiza-lepidota.json';
+import GymnocladusDioicusData from './gymnocladus-dioicus.json';
+import HameliaPatensData from './hamelia-patens.json';
 import HedysarumAlpinumData from './hedysarum-alpinum.json';
 import HedysarumBorealeData from './hedysarum-boreale.json';
 import HelianthusAngustifoliusData from './helianthus-angustifolius.json';
 import HelianthusAnnuusData from './helianthus-annuus.json';
+import HelianthusArgophyllusData from './helianthus-argophyllus.json';
+import HelianthusDecapetalusData from './helianthus-decapetalus.json';
 import HelianthusDivaricatusData from './helianthus-divaricatus.json';
 import HelianthusGrosseserratusData from './helianthus-grosseserratus.json';
 import HelianthusMaximilianiData from './helianthus-maximiliani.json';
 import HelianthusPauciflorusData from './helianthus-pauciflorus.json';
 import HelianthusPetiolarisData from './helianthus-petiolaris.json';
+import HorkeliaFuscaData from './horkelia-fusca.json';
+import HumulusLupulusData from './humulus-lupulus.json';
+import HumulusLupulusVarLupuloidesData from './humulus-lupulus-var.-lupuloides.json';
+import HybanthusVerticillatusData from './hybanthus-verticillatus.json';
+import HydrangeaArborescensData from './hydrangea-arborescens.json';
 import HymenoxysOdorataData from './hymenoxys-odorata.json';
+import IlexMucronataData from './ilex-mucronata.json';
 import IpomopsisAggregataData from './ipomopsis-aggregata.json';
 import IrisSetosaData from './iris-setosa.json';
+import JuglansMicrocarpaData from './juglans-microcarpa.json';
+import JuniperusCalifornicaData from './juniperus-californica.json';
+import KalmiaAngustifoliaData from './kalmia-angustifolia.json';
+import KalmiaLatifoliaData from './kalmia-latifolia.json';
+import LaporteaCanadensisData from './laportea-canadensis.json';
+import LarixLaricinaData from './larix-laricina.json';
+import LedumGroenlandicumData from './ledum-groenlandicum.json';
+import LeersiaOryzoidesData from './leersia-oryzoides.json';
+import LeersiaVirginicaData from './leersia-virginica.json';
+import LeptochloaDubiaData from './leptochloa-dubia.json';
+import LespedezaHirtaData from './lespedeza-hirta.json';
+import LeucophyllumFrutescensData from './leucophyllum-frutescens.json';
 import LiatrisAsperaData from './liatris-aspera.json';
 import LiatrisPunctataData from './liatris-punctata.json';
 import LiatrisPycnostachyaData from './liatris-pycnostachya.json';
 import LiatrisSpicataData from './liatris-spicata.json';
 import LinderaBenzoinData from './lindera-benzoin.json';
 import LinumLewisiiData from './linum-lewisii.json';
+import LippiaAlbaData from './lippia-alba.json';
 import LiriodendronTulipiferaData from './liriodendron-tulipifera.json';
 import LobeliaCardinalisData from './lobelia-cardinalis.json';
+import LoniceraSempervirensData from './lonicera-sempervirens.json';
+import LotusScopariusData from './lotus-scoparius.json';
 import LupinusNootkatensisData from './lupinus-nootkatensis.json';
 import LupinusPerennisData from './lupinus-perennis.json';
+import LupinusTexensisData from './lupinus-texensis.json';
 import MachaerantheraTanacetifoliaData from './machaeranthera-tanacetifolia.json';
+import MagnoliaVirginianaData from './magnolia-virginiana.json';
+import MalpighiaGlabraData from './malpighia-glabra.json';
+import ManfredaMaculosaData from './manfreda-maculosa.json';
+import MaurandellaAntirrhinifloraData from './maurandella-antirrhiniflora.json';
 import MentzeliaMultifloraData from './mentzelia-multiflora.json';
 import MertensiaCiliataData from './mertensia-ciliata.json';
 import MertensiaPaniculataData from './mertensia-paniculata.json';
 import MertensiaVirginicaData from './mertensia-virginica.json';
+import MimulusRingensData from './mimulus-ringens.json';
+import MimulusRingensVarRingensData from './mimulus-ringens-var.-ringens.json';
 import MonardaCitriodoraData from './monarda-citriodora.json';
 import MonardaFistulosaData from './monarda-fistulosa.json';
 import MonardellaOdoratissimaData from './monardella-odoratissima.json';
 import MonardellaVillosaData from './monardella-villosa.json';
+import MorellaCalifornicaData from './morella-californica.json';
+import MorellaCeriferaData from './morella-cerifera.json';
+import MorellaPensylvanicaData from './morella-pensylvanica.json';
+import MuhlenbergiaEmersleyiData from './muhlenbergia-emersleyi.json';
+import NolinaTexanaData from './nolina-texana.json';
 import OenotheraCaespitosaData from './oenothera-caespitosa.json';
 import OenotheraFruticosaData from './oenothera-fruticosa.json';
 import OenotheraSpeciosaData from './oenothera-speciosa.json';
 import OligoneuronRigidumData from './oligoneuron-rigidum.json';
 import OxytropisCampestrisData from './oxytropis-campestris.json';
 import PackeraAureaData from './packera-aurea.json';
+import PaspalumDistichumData from './paspalum-distichum.json';
+import PassifloraAffinisData from './passiflora-affinis.json';
 import PenstemonData from './penstemon.json';
 import PenstemonAlbidusData from './penstemon-albidus.json';
 import PenstemonDigitalisData from './penstemon-digitalis.json';
@@ -352,6 +446,7 @@ export const plants: Plant[] = [
   CeanothusCuneatusData,
   CeanothusFendleriData,
   CeanothusHerbaceusData,
+  CeanothusSanguineusData,
   CelosiaNitidaData,
   CeltisLaevigataData,
   CeltisLindheimeriData,
@@ -361,79 +456,172 @@ export const plants: Plant[] = [
   CercocarpusMontanusData,
   ChamerionAngustifoliumData,
   CheloneGlabraData,
+  ChenopodiumAlbumData,
   ChilopsisLinearisData,
+  ChiococcaAlbaData,
+  ChionanthusVirginicusData,
   ChrysogonumVirginianumData,
+  CirsiumDiscolorData,
+  CirsiumHorridulumData,
+  CirsiumMuticumData,
   CirsiumOchrocentrumData,
+  CirsiumPitcheriData,
   CirsiumUndulatumData,
   CleomeSerrulataData,
+  ComandraUmbellataData,
+  ComptoniaPeregrinaData,
+  CondaliaHookeriData,
+  CondaliaSpathulataData,
+  CondaliaViridisData,
   ConocliniumCoelestinumData,
   CoreopsisLanceolataData,
   CoreopsisTinctoriaData,
   CorethrogyneFilaginifoliaData,
+  CornusAlternifoliaData,
   CornusCanadensisData,
+  CornusFloridaData,
+  CornusRacemosaData,
+  CornusRugosaData,
+  CornusSericeaData,
+  CorylusCornutaData,
+  CoursetiaGlandulosaData,
+  CrataegusDouglasiiData,
+  CrotonCapitatusData,
+  CyperusEsculentusData,
   DaleaCandidaData,
   DaleaPurpureaData,
+  DanthoniaSpicataData,
   DelphiniumGlaucumData,
+  DeschampsiaCespitosaData,
+  DesmodiumCanadenseData,
+  DesmodiumGlutinosumData,
+  DiapensiaLapponicaData,
   DicentraCanadensisData,
+  DicentraUnifloraData,
+  DiclipteraBrachiataData,
+  DiospyrosTexanaData,
+  DiospyrosVirginianaData,
+  DistichlisSpicataData,
+  DryasIntegrifoliaData,
+  DryasOctopetalaData,
   EchinaceaAngustifoliaData,
   EchinaceaPurpureaData,
+  EleocharisEllipticaData,
+  EmpetrumNigrumData,
+  EpigaeaRepensData,
   EpilobiumCanumData,
   EricameriaNauseosaData,
+  ErigeronPhiladelphicusData,
   ErigeronSpeciosusData,
+  EriogonumAbertianumData,
+  EriogonumFasciculatumData,
+  EriogonumGiganteumData,
+  EriogonumNudumData,
   EriogonumUmbellatumData,
+  EriogonumWrightiiData,
   EriophyllumLanatumData,
   EschscholziaCalifornicaData,
+  EugeniaAxillarisData,
   EupatoriumPerfoliatumData,
   EupatoriumSerotinumData,
   EurybiaDivaricataData,
+  EurybiaMacrophyllaData,
   EurybiaSibiricaData,
   EutrochiumFistulosumData,
   EutrochiumPurpureumData,
+  FagusGrandifoliaData,
+  FestucaIdahoensisData,
   FragariaChiloensisData,
   FragariaVirginianaData,
+  FraxinusAlbicansData,
+  FraxinusAmericanaData,
+  FraxinusGreggiiData,
+  FraxinusPennsylvanicaData,
   GaillardiaAristataData,
   GaillardiaPulchellaData,
+  GaultheriaHispidulaData,
   GeraniumErianthumData,
   GeraniumMaculatumData,
   GeraniumRichardsoniiData,
   GlandulariaBipinnatifidaData,
+  GleditsiaTriacanthosData,
+  GlycyrrhizaLepidotaData,
+  GymnocladusDioicusData,
+  HameliaPatensData,
   HedysarumAlpinumData,
   HedysarumBorealeData,
   HelianthusAngustifoliusData,
   HelianthusAnnuusData,
+  HelianthusArgophyllusData,
+  HelianthusDecapetalusData,
   HelianthusDivaricatusData,
   HelianthusGrosseserratusData,
   HelianthusMaximilianiData,
   HelianthusPauciflorusData,
   HelianthusPetiolarisData,
+  HorkeliaFuscaData,
+  HumulusLupulusData,
+  HumulusLupulusVarLupuloidesData,
+  HybanthusVerticillatusData,
+  HydrangeaArborescensData,
   HymenoxysOdorataData,
+  IlexMucronataData,
   IpomopsisAggregataData,
   IrisSetosaData,
+  JuglansMicrocarpaData,
+  JuniperusCalifornicaData,
+  KalmiaAngustifoliaData,
+  KalmiaLatifoliaData,
+  LaporteaCanadensisData,
+  LarixLaricinaData,
+  LedumGroenlandicumData,
+  LeersiaOryzoidesData,
+  LeersiaVirginicaData,
+  LeptochloaDubiaData,
+  LespedezaHirtaData,
+  LeucophyllumFrutescensData,
   LiatrisAsperaData,
   LiatrisPunctataData,
   LiatrisPycnostachyaData,
   LiatrisSpicataData,
   LinderaBenzoinData,
   LinumLewisiiData,
+  LippiaAlbaData,
   LiriodendronTulipiferaData,
   LobeliaCardinalisData,
+  LoniceraSempervirensData,
+  LotusScopariusData,
   LupinusNootkatensisData,
   LupinusPerennisData,
+  LupinusTexensisData,
   MachaerantheraTanacetifoliaData,
+  MagnoliaVirginianaData,
+  MalpighiaGlabraData,
+  ManfredaMaculosaData,
+  MaurandellaAntirrhinifloraData,
   MentzeliaMultifloraData,
   MertensiaCiliataData,
   MertensiaPaniculataData,
   MertensiaVirginicaData,
+  MimulusRingensData,
+  MimulusRingensVarRingensData,
   MonardaCitriodoraData,
   MonardaFistulosaData,
   MonardellaOdoratissimaData,
   MonardellaVillosaData,
+  MorellaCalifornicaData,
+  MorellaCeriferaData,
+  MorellaPensylvanicaData,
+  MuhlenbergiaEmersleyiData,
+  NolinaTexanaData,
   OenotheraCaespitosaData,
   OenotheraFruticosaData,
   OenotheraSpeciosaData,
   OligoneuronRigidumData,
   OxytropisCampestrisData,
   PackeraAureaData,
+  PaspalumDistichumData,
+  PassifloraAffinisData,
   PenstemonData,
   PenstemonAlbidusData,
   PenstemonDigitalisData,
