@@ -106,85 +106,115 @@ MOCK_PLANT_DETAILS = {
     """,
     'echinacea-purpurea': """
     <html><body>
-    <h1 class="scientific-name">Echinacea purpurea</h1>
-    <h2 class="common-name">Purple Coneflower</h2>
-    <div class="family">Family: Asteraceae (Sunflower family)</div>
-    <div class="description">A popular native prairie plant with purple petals and 
-    prominent cone-shaped centers. This robust perennial is prized for its medicinal 
-    properties and ornamental value. The flowers attract numerous pollinators and 
-    the seed heads provide winter food for birds.</div>
+    <h1>Echinacea purpurea (L.) Moench</h1>
+    <h2>Purple Coneflower, Eastern Purple Coneflower</h2>
     
-    <div class="characteristics">
-        <div class="height">Height: 24-48 inches</div>
-        <div class="spread">Spread: 18-24 inches</div>
-        <div class="bloom-color">Bloom Color: Purple, Pink, White</div>
-        <div class="bloom-time">Bloom Time: Summer, Fall</div>
-        <div class="lifespan">Perennial</div>
+    <div class="plant-family">
+        <strong>Asteraceae (Aster, Sunflower or Composite Family)</strong>
     </div>
     
-    <div class="growing-requirements">
-        <div class="light">Light: Full sun to partial shade</div>
-        <div class="moisture">Moisture: Medium to dry, drought tolerant</div>
-        <div class="soil">Soil: Loam, clay, sandy - adaptable</div>
-        <div class="zones">Hardiness Zones: 3-8</div>
+    <p>A popular native prairie plant with purple petals and prominent cone-shaped centers. 
+    This robust perennial is prized for its medicinal properties and ornamental value. 
+    The flowers attract numerous pollinators and the seed heads provide winter food for birds. 
+    Plants typically reach 2-4 feet tall with a spread of 1.5-2 feet.</p>
+    
+    <h3>Plant Characteristics</h3>
+    <div class="plant-characteristics">
+        <div><strong>Duration:</strong> Perennial</div>
+        <div><strong>Habit:</strong> Herb</div>
+        <div><strong>Leaf Retention:</strong> Deciduous</div>
+        <div><strong>Leaf Arrangement:</strong> Alternate</div>
+        <div><strong>Leaf Shape:</strong> Lanceolate, Ovate</div>
+        <div><strong>Size Notes:</strong> 2-4 ft (60-120 cm).</div>
     </div>
     
+    <h3>Bloom Information</h3>
+    <div class="bloom-info">
+        <div><strong>Bloom Color:</strong> Purple, Pink</div>
+        <div><strong>Bloom Time:</strong> Jun, Jul, Aug, Sep</div>
+    </div>
+    
+    <h3>Distribution</h3>
     <div class="distribution">
-        <div class="native-range">Native to: Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, Missouri, Kentucky, Tennessee, Alabama, Mississippi, Arkansas, Louisiana</div>
-        <div class="habitat">Natural Habitat: Prairies, open woodlands</div>
+        <div><strong>USA:</strong> AL, AR, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, VA, VT, WI, WV</div>
+        <div><strong>Native Distribution:</strong> Maine to Michigan south to Georgia and Louisiana.</div>
+        <div><strong>Native Habitat:</strong> Found in prairies, open woodlands, and along roadsides. Grows in well-drained loamy or rocky soil.</div>
     </div>
     
-    <div class="wildlife">
-        <div class="pollinators">Attracts: Butterflies, bees, moths</div>
-        <div class="food">Food Source: Birds (goldfinches love the seeds)</div>
+    <h3>Growing Conditions</h3>
+    <div class="growing-conditions">
+        <div><strong>Water Use:</strong> Low to Medium</div>
+        <div><strong>Light Requirement:</strong> Sun</div>
+        <div><strong>Soil Moisture:</strong> Dry, Medium</div>
+        <div><strong>Drought Tolerance:</strong> High</div>
+        <div><strong>Soil Description:</strong> Adaptable to various soils - loam, clay, sandy. Prefers well-drained conditions.</div>
     </div>
     
-    <div class="landscape-use">
-        <div class="uses">Suitable for: Pollinator garden, native garden, prairie restoration, 
-        cottage garden, medicinal garden</div>
+    <h3>Benefit</h3>
+    <div class="plant-benefits">
+        <div><strong>Conspicuous Flowers:</strong> yes</div>
+        <div><strong>Attracts:</strong> Butterflies, Bees</div>
+        <div><strong>Nectar Source:</strong> yes</div>
+        <div><strong>Deer Resistant:</strong> Medium</div>
     </div>
+    
     </body></html>
     """,
     'rudbeckia-hirta': """
     <html><body>
-    <h1 class="scientific-name">Rudbeckia hirta</h1>
-    <h2 class="common-name">Black-eyed Susan</h2>
-    <div class="family">Family: Asteraceae (Sunflower family)</div>
-    <div class="description">Cheerful yellow flowers with distinctive dark brown centers. 
+    <h1>Rudbeckia hirta L.</h1>
+    <h2>Black-eyed Susan, Brown-eyed Susan</h2>
+    
+    <div class="plant-family">
+        <strong>Asteraceae (Aster, Sunflower or Composite Family)</strong>
+    </div>
+    
+    <p>Cheerful yellow flowers with distinctive dark brown centers. 
     This easy-to-grow biennial or short-lived perennial is one of the most recognizable 
     wildflowers of North America. It naturalizes readily and provides months of bright 
-    color from summer into fall.</div>
+    color from summer into fall. Plants grow 1-3 feet tall with a compact spread.</p>
     
-    <div class="characteristics">
-        <div class="height">Height: 12-36 inches</div>
-        <div class="spread">Spread: 12-24 inches</div>
-        <div class="bloom-color">Bloom Color: Yellow, Gold</div>
-        <div class="bloom-time">Bloom Time: Summer, Fall</div>
-        <div class="lifespan">Biennial or short-lived perennial</div>
+    <h3>Plant Characteristics</h3>
+    <div class="plant-characteristics">
+        <div><strong>Duration:</strong> Biennial, Perennial</div>
+        <div><strong>Habit:</strong> Herb</div>
+        <div><strong>Leaf Retention:</strong> Deciduous</div>
+        <div><strong>Leaf Arrangement:</strong> Alternate</div>
+        <div><strong>Leaf Shape:</strong> Lanceolate, Ovate</div>
+        <div><strong>Size Notes:</strong> 1-3 ft (30-90 cm).</div>
     </div>
     
-    <div class="growing-requirements">
-        <div class="light">Light: Full sun to partial shade</div>
-        <div class="moisture">Moisture: Dry to moist - very adaptable</div>
-        <div class="soil">Soil: Clay, loam, sandy - tolerates poor soil</div>
-        <div class="zones">Hardiness Zones: 3-9</div>
+    <h3>Bloom Information</h3>
+    <div class="bloom-info">
+        <div><strong>Bloom Color:</strong> Yellow, Gold, Orange</div>
+        <div><strong>Bloom Time:</strong> Jun, Jul, Aug, Sep, Oct</div>
     </div>
     
+    <h3>Distribution</h3>
     <div class="distribution">
-        <div class="native-range">Native to: Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Texas, Oklahoma, Kansas, Nebraska, South Dakota, North Dakota, Montana, Wyoming, Colorado, New Mexico, Arizona, Utah, Nevada, Idaho, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, Missouri, Arkansas, Kentucky, Tennessee</div>
-        <div class="habitat">Natural Habitat: Prairies, meadows, roadsides, open areas</div>
+        <div><strong>USA:</strong> AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY</div>
+        <div><strong>Canada:</strong> AB, BC, MB, NB, NS, ON, QC, SK</div>
+        <div><strong>Native Distribution:</strong> Throughout most of North America from coast to coast.</div>
+        <div><strong>Native Habitat:</strong> Prairies, meadows, roadsides, open areas, disturbed sites.</div>
     </div>
     
-    <div class="wildlife">
-        <div class="pollinators">Attracts: Butterflies, bees, native bees</div>
-        <div class="food">Food Source: Birds eat seeds, especially goldfinches</div>
+    <h3>Growing Conditions</h3>
+    <div class="growing-conditions">
+        <div><strong>Water Use:</strong> Low to Medium</div>
+        <div><strong>Light Requirement:</strong> Sun</div>
+        <div><strong>Soil Moisture:</strong> Dry, Medium</div>
+        <div><strong>Drought Tolerance:</strong> Medium</div>
+        <div><strong>Soil Description:</strong> Tolerates a wide range of soils - clay, loam, sandy. Very adaptable.</div>
     </div>
     
-    <div class="landscape-use">
-        <div class="uses">Suitable for: Pollinator garden, meadow, native garden, 
-        naturalistic plantings, wildflower mixes</div>
-        <div class="easy-care">Very low maintenance, self-seeds readily</div>
+    <h3>Benefit</h3>
+    <div class="plant-benefits">
+        <div><strong>Conspicuous Flowers:</strong> yes</div>
+        <div><strong>Attracts:</strong> Butterflies, Bees</div>
+        <div><strong>Nectar Source:</strong> yes</div>
+        <div><strong>Deer Resistant:</strong> Medium</div>
     </div>
+    
     </body></html>
     """
 }
@@ -480,8 +510,8 @@ class PlantDataParser(HTMLParser):
         
         # Method 1: Look for two-letter province codes in comma-separated list
         # Pattern: "Canada: NL, ON, QC" or "<strong>Canada:</strong> NL, ON, QC"
-        # Need to handle HTML tags between Canada and the codes
-        canada_section = re.search(r'Canada[^>]*>?\s*([A-Z]{2}[,\s]+[A-Z]{2}[,\s]*[A-Z]*[,\s]*[A-Z]*)', html_content, re.IGNORECASE)
+        # Match everything after "Canada" until the next </div> or end of line
+        canada_section = re.search(r'Canada[^>]*>?\s*([A-Z,\s]+?)(?:</div>|$)', html_content, re.IGNORECASE | re.MULTILINE)
         if canada_section:
             code_pattern = r'\b([A-Z]{2})\b'
             codes_found = re.findall(code_pattern, canada_section.group(1))
