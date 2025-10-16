@@ -57,6 +57,7 @@ MOCK_PLANT_DETAILS = {
     
     <div class="characteristics">
         <div class="height">Height: 12-36 inches</div>
+        <div class="spread">Spread: 12-18 inches</div>
         <div class="bloom-color">Bloom Color: Orange, Yellow</div>
         <div class="bloom-time">Bloom Time: Summer, Early Fall</div>
         <div class="lifespan">Perennial</div>
@@ -99,6 +100,7 @@ MOCK_PLANT_DETAILS = {
     
     <div class="characteristics">
         <div class="height">Height: 24-48 inches</div>
+        <div class="spread">Spread: 18-24 inches</div>
         <div class="bloom-color">Bloom Color: Purple, Pink, White</div>
         <div class="bloom-time">Bloom Time: Summer, Fall</div>
         <div class="lifespan">Perennial</div>
@@ -112,7 +114,7 @@ MOCK_PLANT_DETAILS = {
     </div>
     
     <div class="distribution">
-        <div class="native-range">Native to: Eastern and Central United States</div>
+        <div class="native-range">Native to: Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, Missouri, Kentucky, Tennessee, Alabama, Mississippi, Arkansas, Louisiana</div>
         <div class="habitat">Natural Habitat: Prairies, open woodlands</div>
     </div>
     
@@ -139,6 +141,7 @@ MOCK_PLANT_DETAILS = {
     
     <div class="characteristics">
         <div class="height">Height: 12-36 inches</div>
+        <div class="spread">Spread: 12-24 inches</div>
         <div class="bloom-color">Bloom Color: Yellow, Gold</div>
         <div class="bloom-time">Bloom Time: Summer, Fall</div>
         <div class="lifespan">Biennial or short-lived perennial</div>
@@ -152,7 +155,7 @@ MOCK_PLANT_DETAILS = {
     </div>
     
     <div class="distribution">
-        <div class="native-range">Native to: Throughout United States except Pacific Northwest</div>
+        <div class="native-range">Native to: Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Texas, Oklahoma, Kansas, Nebraska, South Dakota, North Dakota, Montana, Wyoming, Colorado, New Mexico, Arizona, Utah, Nevada, Idaho, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, Missouri, Arkansas, Kentucky, Tennessee</div>
         <div class="habitat">Natural Habitat: Prairies, meadows, roadsides, open areas</div>
     </div>
     
@@ -259,6 +262,39 @@ class PlantDataParser(HTMLParser):
         
         return None
     
+    def extract_spread_range(self, html_content):
+        """Extract spread/width range from HTML."""
+        spread_text = self.extract_text(html_content, r'<[^>]*(?:spread|width)[^>]*>([^<]+)')
+        if not spread_text:
+            return None
+        
+        # Try to parse range like "12-24 inches" or "1-2 feet"
+        range_match = re.search(r'(\d+)[-–](\d+)\s*(inches?|feet?|ft|in)', spread_text, re.IGNORECASE)
+        if range_match:
+            min_val = int(range_match.group(1))
+            max_val = int(range_match.group(2))
+            unit = range_match.group(3).lower()
+            
+            # Normalize to inches
+            if 'feet' in unit or unit == 'ft':
+                min_val *= 12
+                max_val *= 12
+            
+            return {'min': min_val, 'max': max_val, 'unit': 'inches'}
+        
+        # Try single value like "18 inches"
+        single_match = re.search(r'(\d+)\s*(inches?|feet?|ft|in)', spread_text, re.IGNORECASE)
+        if single_match:
+            val = int(single_match.group(1))
+            unit = single_match.group(2).lower()
+            
+            if 'feet' in unit or unit == 'ft':
+                val *= 12
+            
+            return {'min': val, 'max': val, 'unit': 'inches'}
+        
+        return None
+    
     def extract_light_requirements(self, html_content):
         """Extract light/sun requirements."""
         light_data = {}
@@ -333,26 +369,40 @@ class PlantDataParser(HTMLParser):
         return None
     
     def extract_native_range(self, html_content):
-        """Extract native range/distribution information."""
-        # Look for US state names and regions
+        """Extract native range/distribution information as state codes."""
+        # Mapping of state names to two-letter codes
+        state_to_code = {
+            'alabama': 'AL', 'alaska': 'AK', 'arizona': 'AZ', 'arkansas': 'AR',
+            'california': 'CA', 'colorado': 'CO', 'connecticut': 'CT', 'delaware': 'DE',
+            'florida': 'FL', 'georgia': 'GA', 'hawaii': 'HI', 'idaho': 'ID',
+            'illinois': 'IL', 'indiana': 'IN', 'iowa': 'IA', 'kansas': 'KS',
+            'kentucky': 'KY', 'louisiana': 'LA', 'maine': 'ME', 'maryland': 'MD',
+            'massachusetts': 'MA', 'michigan': 'MI', 'minnesota': 'MN', 'mississippi': 'MS',
+            'missouri': 'MO', 'montana': 'MT', 'nebraska': 'NE', 'nevada': 'NV',
+            'new hampshire': 'NH', 'new jersey': 'NJ', 'new mexico': 'NM', 'new york': 'NY',
+            'north carolina': 'NC', 'north dakota': 'ND', 'ohio': 'OH', 'oklahoma': 'OK',
+            'oregon': 'OR', 'pennsylvania': 'PA', 'rhode island': 'RI', 'south carolina': 'SC',
+            'south dakota': 'SD', 'tennessee': 'TN', 'texas': 'TX', 'utah': 'UT',
+            'vermont': 'VT', 'virginia': 'VA', 'washington': 'WA', 'west virginia': 'WV',
+            'wisconsin': 'WI', 'wyoming': 'WY'
+        }
+        
+        # Look for US state names
         states_pattern = r'(?:Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming)'
         
         states = re.findall(states_pattern, html_content, re.IGNORECASE)
         if states:
-            return list(set([s.title() for s in states]))
+            # Convert state names to two-letter codes
+            state_codes = []
+            for state in states:
+                state_lower = state.lower()
+                if state_lower in state_to_code:
+                    state_codes.append(state_to_code[state_lower])
+            
+            # Return unique state codes, sorted alphabetically
+            return sorted(list(set(state_codes))) if state_codes else None
         
-        # Look for regional descriptions
-        regions = []
-        if re.search(r'eastern\s+(?:U\.?S\.?|United States)', html_content, re.IGNORECASE):
-            regions.append('Eastern US')
-        if re.search(r'western\s+(?:U\.?S\.?|United States)', html_content, re.IGNORECASE):
-            regions.append('Western US')
-        if re.search(r'midwest|central\s+(?:U\.?S\.?|United States)', html_content, re.IGNORECASE):
-            regions.append('Midwest')
-        if re.search(r'southern\s+(?:U\.?S\.?|United States)', html_content, re.IGNORECASE):
-            regions.append('Southern US')
-        
-        return regions if regions else None
+        return None
     
     def extract_wildlife_value(self, html_content):
         """Extract wildlife and pollinator information."""
@@ -427,6 +477,10 @@ class PlantDataParser(HTMLParser):
         if height:
             characteristics['height'] = height
         
+        spread = self.extract_spread_range(html_content)
+        if spread:
+            characteristics['spread'] = spread
+        
         bloom_colors_raw = self.extract_list(html_content, r'<[^>]*bloom[- ]?color[^>]*>([^<]+)')
         if bloom_colors_raw:
             # Clean up extracted colors by removing label text
@@ -489,9 +543,9 @@ class PlantDataParser(HTMLParser):
         # Geographic Information
         distribution = {}
         
-        native_range = self.extract_native_range(html_content)
-        if native_range:
-            distribution['nativeRange'] = native_range
+        usa_states = self.extract_native_range(html_content)
+        if usa_states:
+            distribution['usaStates'] = usa_states
         
         if distribution:
             data['distribution'] = distribution
