@@ -225,10 +225,21 @@ body {
   padding: 1rem;
   box-shadow: var(--shadow);
   transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+}
+
+.plant-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
 .plant-card:active {
   transform: scale(0.98);
+}
+
+.plant-card:focus {
+  outline: 2px solid var(--primary-color);
+  outline-offset: 2px;
 }
 
 .plant-image {

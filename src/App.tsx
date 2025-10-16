@@ -9,6 +9,7 @@ import FeedbackButton from './components/FeedbackButton';
 import FeedbackModal from './components/FeedbackModal';
 import AddPlantImageButton from './components/AddPlantImageButton';
 import AddPlantImageModal from './components/AddPlantImageModal';
+import PlantDetailView from './components/PlantDetailView';
 
 const plantApi = new MockPlantApi();
 
@@ -20,6 +21,7 @@ function App() {
   const [showFilters, setShowFilters] = useState(false);
   const [showFeedbackModal, setShowFeedbackModal] = useState(false);
   const [showAddImageModal, setShowAddImageModal] = useState(false);
+  const [selectedPlant, setSelectedPlant] = useState<Plant | null>(null);
   const [filterOptions, setFilterOptions] = useState({
     bloomColors: [] as string[],
     bloomTimes: [] as string[],
@@ -118,7 +120,11 @@ function App() {
           ) : (
             <div className="results-grid">
               {plants.map(plant => (
-                <PlantCard key={plant.id} plant={plant} />
+                <PlantCard 
+                  key={plant.id} 
+                  plant={plant} 
+                  onClick={() => setSelectedPlant(plant)}
+                />
               ))}
             </div>
           )}
@@ -136,6 +142,12 @@ function App() {
         isOpen={showFeedbackModal} 
         onClose={() => setShowFeedbackModal(false)} 
       />
+      {selectedPlant && (
+        <PlantDetailView 
+          plant={selectedPlant} 
+          onClose={() => setSelectedPlant(null)} 
+        />
+      )}
     </div>
   );
 }

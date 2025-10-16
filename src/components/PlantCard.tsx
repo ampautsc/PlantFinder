@@ -2,9 +2,10 @@ import { Plant } from '../types/Plant';
 
 interface PlantCardProps {
   plant: Plant;
+  onClick?: () => void;
 }
 
-function PlantCard({ plant }: PlantCardProps) {
+function PlantCard({ plant, onClick }: PlantCardProps) {
   const getSunLabel = (sun: string) => {
     const labels = {
       'full-sun': '☀️ Full Sun',
@@ -26,7 +27,7 @@ function PlantCard({ plant }: PlantCardProps) {
   };
 
   return (
-    <div className="plant-card">
+    <div className="plant-card" onClick={onClick} role="button" tabIndex={0} onKeyDown={(e) => e.key === 'Enter' && onClick?.()}>
       {plant.imageUrl ? (
         <div className="plant-image">
           <img src={plant.imageUrl} alt={plant.commonName} loading="lazy" />
