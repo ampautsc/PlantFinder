@@ -4,9 +4,20 @@ Batch job to fetch plant data from wildflower.org collection.
 This script scrapes plant data from the wildflower.org database,
 parses individual plant pages, and saves the data into source control.
 
+The script handles pagination automatically by:
+1. Using start/pagecount parameters to fetch pages sequentially
+2. Extracting the total result count from the first page
+3. Iterating through all pages until all results are fetched
+4. Logging the total number of pages and plant links extracted
+
 Usage:
     python fetch_wildflower_data.py          # Normal mode - fetch from website
     python fetch_wildflower_data.py --test   # Test mode - use mock data
+
+Configuration:
+    Edit the script to change:
+    - COLLECTION_NAME: The collection to fetch (default: "bamona")
+    - PAGECOUNT: Number of results per page (default: 100)
 """
 
 import sys
@@ -20,8 +31,10 @@ from html.parser import HTMLParser
 import socket
 
 # Configuration
-SCRAPER_VERSION = "2.0.0"  # Version tracking for data model changes
-TARGET_URL = "https://www.wildflower.org/collections/collection.php?all=true"
+SCRAPER_VERSION = "2.1.0"  # Version tracking for data model changes
+COLLECTION_NAME = "bamona"  # Collection to fetch (bamona = butterflies and moths of North America)
+PAGECOUNT = 100  # Number of results per page (configurable)
+TARGET_URL = f"https://www.wildflower.org/collections/collection.php?start=0&collection={COLLECTION_NAME}&pagecount={PAGECOUNT}"
 BASE_URL = "https://www.wildflower.org"
 # Save to source control, not in the gitignored data/ folder
 OUTPUT_DIR = "src/data/wildflower-org"
@@ -31,13 +44,42 @@ USE_TEST_MODE = '--test' in sys.argv
 
 
 # Mock data for testing when website blocks requests
+# This simulates a collection page with pagination
 MOCK_COLLECTION_HTML = """
 <html>
 <body>
+<div class="results-info">
+    Showing results 1-3 of 250 plants
+</div>
 <div class="plant-list">
     <a href="/plant.php?id=asclepias-tuberosa">Butterfly Weed</a>
     <a href="/plant.php?id=echinacea-purpurea">Purple Coneflower</a>
     <a href="/plant.php?id=rudbeckia-hirta">Black-eyed Susan</a>
+</div>
+<div class="pagination">
+    <a href="collection.php?start=0&collection=bamona&pagecount=100" class="current">1</a>
+    <a href="collection.php?start=100&collection=bamona&pagecount=100">2</a>
+    <a href="collection.php?start=200&collection=bamona&pagecount=100">3</a>
+    <a href="collection.php?start=100&collection=bamona&pagecount=100" class="next">Next</a>
+</div>
+</body>
+</html>
+"""
+
+# Mock data for subsequent pages - returns empty to simulate end of results
+MOCK_COLLECTION_HTML_PAGE2 = """
+<html>
+<body>
+<div class="results-info">
+    Showing results 101-103 of 250 plants
+</div>
+<div class="plant-list">
+    <!-- In test mode, we'll only have 3 plants total, so page 2 is empty -->
+</div>
+<div class="pagination">
+    <a href="collection.php?start=0&collection=bamona&pagecount=100">1</a>
+    <a href="collection.php?start=100&collection=bamona&pagecount=100" class="current">2</a>
+    <a href="collection.php?start=200&collection=bamona&pagecount=100">3</a>
 </div>
 </body>
 </html>
@@ -228,6 +270,7 @@ class PlantLinkParser(HTMLParser):
         self.pagination_links = []
         self.in_plant_link = False
         self.current_link = None
+        self.total_results = None
     
     def handle_starttag(self, tag, attrs):
         if tag == 'a':
@@ -248,6 +291,23 @@ class PlantLinkParser(HTMLParser):
                 self.plant_links.append(self.current_link)
             self.in_plant_link = False
             self.current_link = None
+    
+    def extract_total_results(self, html_content):
+        """Extract total number of results from HTML content."""
+        # Look for patterns like "Showing results 1-100 of 250 plants"
+        # or "Results: 1-100 of 250" or "Total: 250"
+        patterns = [
+            r'of\s+(\d+)\s+(?:plants?|results?)',
+            r'total[:\s]+(\d+)',
+            r'(\d+)\s+total',
+        ]
+        
+        for pattern in patterns:
+            match = re.search(pattern, html_content, re.IGNORECASE)
+            if match:
+                return int(match.group(1))
+        
+        return None
 
 
 class PlantDataParser(HTMLParser):
@@ -830,6 +890,7 @@ def save_plant_data(plant_id, plant_url, plant_data_tuple, log_path):
 def fetch_wildflower_collection():
     """
     Fetch the plant collection pages (handling pagination) and extract plant links.
+    Uses manual pagination with start/pagecount parameters to fetch all pages.
     Returns: (success: bool, plant_links: list, message: str)
     """
     try:
@@ -837,72 +898,97 @@ def fetch_wildflower_collection():
             print("🧪 TEST MODE: Using mock data")
             print(f"Simulating fetch from: {TARGET_URL}")
             
-            # Use mock HTML for testing
+            # Use mock HTML for testing - simulate multiple pages
             parser = PlantLinkParser()
             parser.feed(MOCK_COLLECTION_HTML)
+            
+            # Extract total results from mock data
+            total_results = parser.extract_total_results(MOCK_COLLECTION_HTML)
             plant_links = parser.plant_links
             
             print(f"✓ Mock data loaded")
             print(f"✓ Found {len(plant_links)} plant links in test data")
+            if total_results:
+                print(f"✓ Total results indicated: {total_results}")
+                # Calculate how many pages we would need
+                total_pages = (total_results + PAGECOUNT - 1) // PAGECOUNT
+                print(f"✓ Would need {total_pages} page(s) to fetch all {total_results} results (pagecount={PAGECOUNT})")
             
             return True, plant_links, "Successfully loaded test data"
         
         print(f"Attempting to fetch collection pages from: {TARGET_URL}")
+        print(f"Configuration: pagecount={PAGECOUNT}, collection={COLLECTION_NAME}")
         
         all_plant_links = []
-        pages_visited = set()
-        pages_to_visit = [TARGET_URL]
         page_count = 0
+        start_index = 0
+        total_results = None
         
-        while pages_to_visit:
-            current_url = pages_to_visit.pop(0)
-            
-            # Skip if already visited
-            if current_url in pages_visited:
-                continue
-            
-            pages_visited.add(current_url)
+        # Fetch pages until we've retrieved all results
+        while True:
             page_count += 1
             
-            # Make sure URL is absolute
-            if not current_url.startswith('http'):
-                current_url = BASE_URL + ('/' if not current_url.startswith('/') else '') + current_url
+            # Construct URL with current start index
+            current_url = f"https://www.wildflower.org/collections/collection.php?start={start_index}&collection={COLLECTION_NAME}&pagecount={PAGECOUNT}"
             
             print(f"\n  Fetching page {page_count}: {current_url}")
+            print(f"  (Results {start_index + 1} - {start_index + PAGECOUNT})")
             
             content, status_code = make_request(current_url)
             
             if content is None:
                 print(f"  ✗ Failed to fetch page (Status: {status_code})")
-                continue
+                if page_count == 1:
+                    # If we can't fetch the first page, abort
+                    return False, [], f"Failed to fetch first page (Status: {status_code})"
+                else:
+                    # If we've fetched at least one page, continue with what we have
+                    print(f"  ⚠ Stopping pagination after {page_count - 1} successful page(s)")
+                    break
             
             print(f"  ✓ HTTP Status Code: {status_code}")
             print(f"  ✓ Content length: {len(content)} characters")
             
-            # Parse HTML to extract plant links and pagination links
+            # Parse HTML to extract plant links
             parser = PlantLinkParser()
             parser.feed(content)
+            
+            # Extract total results from first page
+            if total_results is None:
+                total_results = parser.extract_total_results(content)
+                if total_results:
+                    print(f"  ✓ Total results available: {total_results}")
+                    total_pages = (total_results + PAGECOUNT - 1) // PAGECOUNT
+                    print(f"  ✓ Will fetch {total_pages} page(s) to retrieve all results")
             
             # Add plant links from this page
             new_plants = [link for link in parser.plant_links if link not in all_plant_links]
             all_plant_links.extend(new_plants)
-            print(f"  ✓ Found {len(new_plants)} new plant links on this page (total: {len(all_plant_links)})")
+            print(f"  ✓ Found {len(new_plants)} new plant links on this page (total so far: {len(all_plant_links)})")
             
-            # Add pagination links to queue if not already visited
-            for pagination_link in parser.pagination_links:
-                abs_link = pagination_link if pagination_link.startswith('http') else BASE_URL + ('/' if not pagination_link.startswith('/') else '') + pagination_link
-                if abs_link not in pages_visited and abs_link not in pages_to_visit:
-                    pages_to_visit.append(abs_link)
+            # Check if we should continue pagination
+            if len(new_plants) == 0:
+                print(f"  ✓ No more new plants found, stopping pagination")
+                break
+            
+            # If we know the total, check if we've fetched everything
+            if total_results and len(all_plant_links) >= total_results:
+                print(f"  ✓ Fetched all {total_results} results, stopping pagination")
+                break
+            
+            # Move to next page
+            start_index += PAGECOUNT
             
             # Be nice to the server - add a small delay between pages
-            if pages_to_visit:
-                import time
-                time.sleep(0.5)
+            import time
+            time.sleep(0.5)
         
         print(f"\n✓ Fetched {page_count} collection page(s)")
         print(f"✓ Found {len(all_plant_links)} total plant links")
+        if total_results:
+            print(f"✓ Retrieved {len(all_plant_links)} out of {total_results} total results ({100 * len(all_plant_links) // total_results}%)")
         
-        return True, all_plant_links, f"Successfully fetched {page_count} collection page(s) (Status: {status_code})"
+        return True, all_plant_links, f"Successfully fetched {page_count} page(s) with {len(all_plant_links)} plant links"
         
     except Exception as e:
         error_msg = f"Unexpected error: {type(e).__name__}: {str(e)}"
@@ -1026,6 +1112,8 @@ def main():
     # Fetch collection page and extract plant links
     success, plant_links, message = fetch_wildflower_collection()
     log_message(f"Collection fetch result: {message}", log_path)
+    log_message(f"Configuration: collection={COLLECTION_NAME}, pagecount={PAGECOUNT}", log_path)
+    log_message(f"Total plant links extracted: {len(plant_links)}", log_path)
     
     if not success:
         print()
