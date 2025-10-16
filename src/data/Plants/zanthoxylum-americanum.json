@@ -1,0 +1,46 @@
+{
+  "id": "zanthoxylum-americanum",
+  "commonName": "Common Pricklyash",
+  "scientificName": "Zanthoxylum americanum",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 96,
+    "width": 96,
+    "bloomColor": [
+      "green"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Giant Swallowtail"
+    ],
+    "foodFor": [
+      "butterflies",
+      "birds"
+    ],
+    "usefulFor": [
+      "native garden",
+      "wildlife habitat"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "symphyotrichum-novi-belgii-var-novi-belgii",
+  "commonName": "New York Aster",
+  "scientificName": "Symphyotrichum novi-belgii var. novi-belgii",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "moist",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 48,
+    "width": 36,
+    "bloomColor": [
+      "blue",
+      "purple"
+    ],
+    "bloomTime": [
+      "late summer",
+      "fall"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  }
+}

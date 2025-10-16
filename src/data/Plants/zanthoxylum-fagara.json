@@ -1,0 +1,44 @@
+{
+  "id": "zanthoxylum-fagara",
+  "commonName": "Lime Prickly Ash",
+  "scientificName": "Zanthoxylum fagara",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "dry",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 144,
+    "width": 120,
+    "bloomColor": [
+      "green"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Giant Swallowtail"
+    ],
+    "foodFor": [
+      "butterflies",
+      "birds"
+    ],
+    "usefulFor": [
+      "native garden",
+      "wildlife habitat"
+    ]
+  }
+}
