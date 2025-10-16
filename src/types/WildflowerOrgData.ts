@@ -9,56 +9,108 @@
 
 /**
  * Complete plant data structure from wildflower.org
+ * Updated to match actual wildflower.org plant pages
  */
 export interface WildflowerOrgPlantData {
   // Basic Identification
   scientificName: string;
   commonName: string;
+  commonNames?: string[]; // Additional common names
   family?: string;
   genus?: string;
   species?: string;
   synonym?: string[];
+  usdaSymbol?: string; // e.g., "ASTU"
+  usdaNativeStatus?: string; // e.g., "L48 (N), CAN (N)"
   
-  // Description
+  // Description - main text description from the page
   description?: string;
+  additionalDescription?: string; // Secondary description paragraph
   
-  // Physical Characteristics
+  // Plant Characteristics (from "Plant Characteristics" section)
   characteristics?: {
-    // Height and spread
+    // Basic plant attributes
+    duration?: string; // Annual, Biennial, Perennial
+    habit?: string; // Herb, Shrub, Tree, Vine, Graminoid
+    leafRetention?: string; // Deciduous, Evergreen, Semi-evergreen
+    leafArrangement?: string; // Alternate, Opposite, Whorled, Basal
+    leafShape?: string[]; // Lanceolate, Linear, Oblong, Ovate, etc.
+    fruitType?: string; // Follicle, Capsule, Berry, etc.
+    
+    // Size information
+    sizeNotes?: string; // e.g., "1-2 ft (30-60 cm)"
     height?: {
-      min?: number; // in inches
-      max?: number; // in inches
-      unit?: 'inches' | 'feet';
+      min?: number;
+      max?: number;
+      unit?: 'inches' | 'feet' | 'cm' | 'm';
     };
     spread?: {
-      min?: number; // in inches
-      max?: number; // in inches
-      unit?: 'inches' | 'feet';
+      min?: number;
+      max?: number;
+      unit?: 'inches' | 'feet' | 'cm' | 'm';
+    };
+    
+    // Leaf details
+    leaf?: {
+      shape?: string;
+      color?: string;
+      description?: string;
+      length?: string;
+      width?: string;
+    };
+    
+    // Flower details
+    flower?: {
+      description?: string;
+      color?: string[];
+      corollaDescription?: string;
+      size?: string;
+      structure?: string;
+    };
+    
+    // Fruit details
+    fruit?: {
+      description?: string;
+      color?: string[];
+      size?: string;
+      length?: string;
+      width?: string;
+      surface?: string;
     };
     
     // Bloom information
     bloomColor?: string[];
+    bloomTime?: string[]; // Month names: May, Jun, Jul, etc.
     bloomPeriod?: string[];
-    bloomTime?: string; // e.g., "Spring to Summer"
     
-    // Growth characteristics
-    lifespan?: 'annual' | 'biennial' | 'perennial';
-    growthRate?: 'slow' | 'moderate' | 'fast';
-    growthForm?: string[]; // e.g., 'forb/herb', 'shrub', 'tree', 'vine', 'graminoid'
-    
-    // Foliage
-    foliageTexture?: 'fine' | 'medium' | 'coarse';
-    foliageColor?: string[];
-    
-    // Fruit
-    fruitType?: string;
-    fruitColor?: string[];
-    fruitPeriod?: string;
+    // Legacy/compatibility fields
+    lifespan?: 'annual' | 'biennial' | 'perennial'; // Use duration instead, but kept for compatibility
   };
   
-  // Growing Requirements
+  // Distribution (from "Distribution" section)
+  distribution?: {
+    // Geographic distribution
+    usaStates?: string[]; // Two-letter state codes: AL, AR, AZ, etc.
+    canadianProvinces?: string[]; // Province codes: ON, QC, NL, etc.
+    nativeDistribution?: string; // Text description of native range
+    nativeHabitat?: string; // Detailed habitat description
+    nativeRange?: string[]; // Legacy field for compatibility
+    invasiveStatus?: string;
+  };
+  
+  // Growing Conditions (from "Growing Conditions" section)
+  growingConditions?: {
+    waterUse?: 'Low' | 'Medium' | 'High';
+    lightRequirement?: string; // Sun, Part Shade, Shade
+    soilMoisture?: string[]; // Dry, Moist, Wet
+    caco3Tolerance?: 'Low' | 'Medium' | 'High'; // Calcium carbonate tolerance
+    droughtTolerance?: 'Low' | 'Medium' | 'High';
+    soilDescription?: string; // Detailed soil preferences
+    conditionsComments?: string; // Additional growing tips and comments
+  };
+  
+  // Requirements (legacy structure - kept for compatibility)
   requirements?: {
-    // Light requirements
     light?: {
       full_sun?: boolean;
       partial_sun?: boolean;
@@ -66,10 +118,8 @@ export interface WildflowerOrgPlantData {
       full_shade?: boolean;
       description?: string;
     };
-    
-    // Soil requirements
     soil?: {
-      types?: string[]; // e.g., 'sand', 'loam', 'clay', 'caliche', 'limestone'
+      types?: string[];
       pH?: {
         min?: number;
         max?: number;
@@ -77,8 +127,6 @@ export interface WildflowerOrgPlantData {
       };
       drainage?: 'well-drained' | 'moderate' | 'poor' | 'boggy';
     };
-    
-    // Water/moisture requirements
     moisture?: {
       dry?: boolean;
       medium?: boolean;
@@ -87,65 +135,100 @@ export interface WildflowerOrgPlantData {
       description?: string;
       droughtTolerant?: boolean;
     };
-    
-    // Temperature/hardiness
     hardiness?: {
-      zones?: string[]; // USDA hardiness zones
-      minTemperature?: number; // in Fahrenheit
+      zones?: string[];
+      minTemperature?: number;
       maxTemperature?: number;
     };
   };
   
-  // Geographic Information
-  distribution?: {
-    nativeRange?: string[]; // States, regions, or ecoregions
-    nativeHabitat?: string[]; // e.g., 'prairies', 'woodlands', 'wetlands'
-    invasiveStatus?: string;
+  // Benefit (from "Benefit" section)
+  benefit?: {
+    useOrnamental?: string; // Ornamental uses and features
+    useMedicinal?: string; // Medicinal uses
+    useOther?: string; // Other uses
+    warning?: string; // Toxicity and safety warnings
+    conspicuousFlowers?: boolean;
+    attracts?: string[]; // Butterflies, Hummingbirds, etc.
+    larvalHost?: string[]; // Specific butterfly/moth species
+    nectarSource?: boolean;
+    deerResistant?: 'Low' | 'Medium' | 'High';
   };
   
-  // Ecological Relationships
+  // Value to Beneficial Insects (from Xerces Society data)
+  beneficialInsects?: {
+    specialValueToNativeBees?: boolean;
+    specialValueToBumbleBees?: boolean;
+    specialValueToHoneyBees?: boolean;
+    supportsConservationBiologicalControl?: boolean;
+  };
+  
+  // Butterflies and Moths information (BAMONA data)
+  butterfliesAndMoths?: Array<{
+    commonName: string;
+    scientificName: string;
+    relationship: 'Larval Host' | 'Nectar Source' | 'Adult Food';
+    bamonaUrl?: string;
+  }>;
+  
+  // Propagation (from "Propagation" section)
+  propagation?: {
+    propagationMaterial?: string[]; // Root Cuttings, Seeds, etc.
+    description?: string; // Detailed propagation instructions
+    seedCollection?: string; // Seed collection information
+    commerciallyAvailable?: boolean;
+    maintenance?: string; // Maintenance requirements and tips
+  };
+  
+  // Ecology (legacy field - kept for compatibility)
   ecology?: {
-    // Wildlife relationships
-    pollinators?: string[]; // e.g., 'bees', 'butterflies', 'hummingbirds'
-    hostPlantFor?: string[]; // Specific insects/butterflies
-    wildlifeValue?: string[]; // e.g., 'birds', 'mammals', 'insects'
-    foodFor?: string[]; // Animals that eat the plant
-    
-    // Garden/landscape use
-    landscapeUse?: string[]; // e.g., 'border', 'mass planting', 'rock garden'
-    suitableFor?: string[]; // e.g., 'pollinator garden', 'rain garden', 'xeriscaping'
-    
-    // Propagation
-    propagationMethods?: string[]; // e.g., 'seed', 'cuttings', 'division'
+    pollinators?: string[];
+    hostPlantFor?: string[];
+    wildlifeValue?: string[];
+    foodFor?: string[];
+    landscapeUse?: string[];
+    suitableFor?: string[];
+    propagationMethods?: string[];
     seedCollectionTime?: string;
-    
-    // Conservation
     conservationStatus?: string;
     threatened?: boolean;
     endangered?: boolean;
   };
   
-  // Additional attributes
-  attributes?: {
-    toxicity?: string; // toxicity information
-    thorny?: boolean;
-    attracts?: string[]; // What it attracts (butterflies, bees, etc.)
-    resists?: string[]; // What it resists (deer, rabbits, etc.)
-    problems?: string[]; // Potential issues
-  };
-  
   // Images and media
   images?: {
-    primary?: string; // URL to primary image
-    additional?: string[]; // URLs to additional images
-    credit?: string; // Image attribution
+    primary?: string;
+    additional?: string[];
+    credit?: string;
+    galleryCount?: number; // Number of photos in the image gallery
+  };
+  
+  // Additional Resources
+  resources?: {
+    mrSmartyPlantsQuestions?: Array<{
+      title: string;
+      date: string;
+      url: string;
+    }>;
+    organizationsDisplaying?: Array<{
+      name: string;
+      location: string;
+    }>;
+    seedSources?: Array<{
+      name: string;
+      url?: string;
+    }>;
+    propagationProtocols?: Array<{
+      name: string;
+      url: string;
+    }>;
   };
   
   // References and sources
   references?: {
-    sourceId?: string; // Internal ID at wildflower.org
-    permalink?: string; // Permanent URL to the plant page
-    lastUpdated?: string; // ISO timestamp of when data was last updated on source
+    sourceId?: string;
+    permalink?: string;
+    lastUpdated?: string;
     dataQuality?: 'complete' | 'partial' | 'minimal';
   };
 }

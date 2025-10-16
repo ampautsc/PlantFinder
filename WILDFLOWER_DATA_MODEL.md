@@ -17,75 +17,108 @@ The batch job (`scripts/fetch_wildflower_data.py`) scrapes plant data from wildf
 
 ### TypeScript Interface
 
-The complete data model is defined in `src/types/WildflowerOrgData.ts`:
+The complete data model is defined in `src/types/WildflowerOrgData.ts`. This has been updated to match the actual structure of wildflower.org plant pages:
 
 ```typescript
 export interface WildflowerOrgPlantData {
   // Basic Identification
   scientificName: string;
   commonName: string;
+  commonNames?: string[]; // Additional common names
   family?: string;
-  genus?: string;
-  species?: string;
+  usdaSymbol?: string; // e.g., "ASTU"
+  usdaNativeStatus?: string; // e.g., "L48 (N), CAN (N)"
   synonym?: string[];
   
-  // Physical Characteristics
+  // Plant Characteristics (from "Plant Characteristics" section)
   characteristics?: {
+    duration?: string; // Annual, Biennial, Perennial
+    habit?: string; // Herb, Shrub, Tree, Vine, Graminoid
+    leafRetention?: string; // Deciduous, Evergreen, Semi-evergreen
+    leafArrangement?: string; // Alternate, Opposite, Whorled, Basal
+    leafShape?: string[]; // Lanceolate, Linear, Oblong, Ovate, etc.
+    fruitType?: string; // Follicle, Capsule, Berry, etc.
+    sizeNotes?: string;
+    
     height?: { min?: number; max?: number; unit?: string };
-    spread?: { min?: number; max?: number; unit?: string };
+    leaf?: { shape?: string; color?: string; description?: string; ... };
+    flower?: { description?: string; color?: string[]; ... };
+    fruit?: { description?: string; color?: string[]; ... };
+    
     bloomColor?: string[];
+    bloomTime?: string[]; // Month names
     bloomPeriod?: string[];
-    bloomTime?: string;
-    lifespan?: 'annual' | 'biennial' | 'perennial';
-    growthRate?: 'slow' | 'moderate' | 'fast';
-    growthForm?: string[];
-    foliageTexture?: 'fine' | 'medium' | 'coarse';
-    foliageColor?: string[];
-    fruitType?: string;
-    fruitColor?: string[];
-    fruitPeriod?: string;
   };
   
-  // Growing Requirements
-  requirements?: {
-    light?: { full_sun?: boolean; partial_sun?: boolean; ... };
-    soil?: { types?: string[]; pH?: {...}; drainage?: string };
-    moisture?: { dry?: boolean; medium?: boolean; ... };
-    hardiness?: { zones?: string[]; minTemperature?: number; ... };
-  };
-  
-  // Geographic Information
+  // Distribution (from "Distribution" section)
   distribution?: {
-    nativeRange?: string[];
-    nativeHabitat?: string[];
-    invasiveStatus?: string;
+    usaStates?: string[]; // State codes: AL, AR, AZ, etc.
+    canadianProvinces?: string[]; // Province codes
+    nativeDistribution?: string; // Text description
+    nativeHabitat?: string; // Detailed habitat description
   };
   
-  // Ecological Relationships
-  ecology?: {
-    pollinators?: string[];
-    hostPlantFor?: string[];
-    wildlifeValue?: string[];
-    foodFor?: string[];
-    landscapeUse?: string[];
-    suitableFor?: string[];
-    propagationMethods?: string[];
-    seedCollectionTime?: string;
-    conservationStatus?: string;
+  // Growing Conditions (from "Growing Conditions" section)
+  growingConditions?: {
+    waterUse?: 'Low' | 'Medium' | 'High';
+    lightRequirement?: string;
+    soilMoisture?: string[];
+    caco3Tolerance?: 'Low' | 'Medium' | 'High';
+    droughtTolerance?: 'Low' | 'Medium' | 'High';
+    soilDescription?: string;
+    conditionsComments?: string;
   };
   
-  // Additional attributes
-  attributes?: {
-    toxicity?: string;
-    thorny?: boolean;
+  // Benefit (from "Benefit" section)
+  benefit?: {
+    useOrnamental?: string;
+    useMedicinal?: string;
+    useOther?: string;
+    warning?: string; // Toxicity warnings
+    conspicuousFlowers?: boolean;
     attracts?: string[];
-    resists?: string[];
-    problems?: string[];
+    larvalHost?: string[];
+    nectarSource?: boolean;
+    deerResistant?: 'Low' | 'Medium' | 'High';
   };
   
-  // Images and references
-  images?: { primary?: string; additional?: string[]; ... };
-  references?: { sourceId?: string; permalink?: string; ... };
+  // Value to Beneficial Insects
+  beneficialInsects?: {
+    specialValueToNativeBees?: boolean;
+    specialValueToBumbleBees?: boolean;
+    specialValueToHoneyBees?: boolean;
+    supportsConservationBiologicalControl?: boolean;
+  };
+  
+  // Butterflies and Moths (BAMONA data)
+  butterfliesAndMoths?: Array<{
+    commonName: string;
+    scientificName: string;
+    relationship: 'Larval Host' | 'Nectar Source' | 'Adult Food';
+    bamonaUrl?: string;
+  }>;
+  
+  // Propagation (from "Propagation" section)
+  propagation?: {
+    propagationMaterial?: string[];
+    description?: string;
+    seedCollection?: string;
+    commerciallyAvailable?: boolean;
+    maintenance?: string;
+  };
+  
+  // Images and resources
+  images?: { 
+    primary?: string; 
+    galleryCount?: number;
+    ... 
+  };
+  
+  resources?: {
+    mrSmartyPlantsQuestions?: Array<{...}>;
+    organizationsDisplaying?: Array<{...}>;
+    seedSources?: Array<{...}>;
+  };
 }
 ```
 
@@ -96,11 +129,324 @@ export interface WildflowerOrgPlantData {
 | Field | Type | Description | Example |
 |-------|------|-------------|---------|
 | `scientificName` | string | Scientific/botanical name | "Asclepias tuberosa" |
-| `commonName` | string | Common name(s) | "Butterfly Weed" |
-| `family` | string | Plant family | "Apocynaceae" |
+| `commonName` | string | Primary common name | "Butterflyweed" |
+| `commonNames` | string[] | All common names | ["Butterfly Weed", "Butterfly Milkweed", "Orange Milkweed", "Pleurisy Root"] |
+| `family` | string | Plant family | "Asclepiadaceae (Milkweed Family)" |
+| `usdaSymbol` | string | USDA PLANTS symbol | "ASTU" |
+| `usdaNativeStatus` | string | USDA native status code | "L48 (N), CAN (N)" |
+| `synonym` | string[] | Taxonomic synonyms | ["Asclepias aurantiaca"] |
 | `genus` | string | Genus classification | "Asclepias" |
 | `species` | string | Species classification | "tuberosa" |
 | `synonym` | string[] | Alternative scientific names | ["Asclepias aurantiaca"] |
+
+### Plant Characteristics
+
+The `characteristics` section corresponds to the "Plant Characteristics" section on wildflower.org pages:
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
+| `duration` | string | Plant lifespan category | "Perennial" |
+| `habit` | string | Growth form | "Herb", "Shrub", "Tree" |
+| `leafRetention` | string | Foliage retention | "Deciduous", "Evergreen" |
+| `leafArrangement` | string | How leaves are arranged | "Alternate", "Opposite" |
+| `leafShape` | string[] | Leaf shape types | ["Lanceolate", "Linear", "Oblong"] |
+| `fruitType` | string | Type of fruit produced | "Follicle", "Capsule" |
+| `sizeNotes` | string | Size description | "1-2 ft (30-60 cm)" |
+
+#### Detailed Structures
+
+**Leaf Details:**
+```typescript
+leaf?: {
+  shape?: string; // "Linear to oblong to lanceolate"
+  color?: string; // Color description
+  description?: string; // Full description
+  length?: string; // "2-4 in (5-10cm)"
+  width?: string; // "3/8 - 3/4 in (1-2 cm)"
+}
+```
+
+**Flower Details:**
+```typescript
+flower?: {
+  description?: string; // Full flower description
+  color?: string[]; // Flower colors
+  corollaDescription?: string; // Specific parts description
+  size?: string; // Dimensions
+  structure?: string; // Structural details
+}
+```
+
+**Fruit Details:**
+```typescript
+fruit?: {
+  description?: string; // Full fruit description
+  color?: string[]; // Fruit colors
+  size?: string; // Overall size
+  length?: string; // "4-8 in (10-20 cm)"
+  width?: string; // "1-2 1/2 in (2 1/2 - 6 cm)"
+  surface?: string; // "Covered in short hairs"
+}
+```
+
+**Bloom Information:**
+- `bloomColor`: Array of colors (["Orange", "Yellow"])
+- `bloomTime`: Month names (["May", "Jun", "Jul", "Aug", "Sep"])
+- `bloomPeriod`: Seasonal periods (["Summer", "Fall"])
+
+### Distribution
+
+Corresponds to the "Distribution" section:
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
+| `usaStates` | string[] | US state codes | ["AL", "AR", "AZ", "CA", ...] |
+| `canadianProvinces` | string[] | Canadian province codes | ["NL", "ON", "QC"] |
+| `nativeDistribution` | string | Text description of range | "Ontario to Newfoundland; New England south to Florida..." |
+| `nativeHabitat` | string | Habitat description | "Grows in prairies, open woods, canyons..." |
+
+### Growing Conditions
+
+Corresponds to the "Growing Conditions" section:
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
+| `waterUse` | enum | Water needs | "Low", "Medium", "High" |
+| `lightRequirement` | string | Sun requirements | "Sun", "Part Shade", "Shade" |
+| `soilMoisture` | string[] | Moisture preferences | ["Dry", "Moist"] |
+| `caco3Tolerance` | enum | Calcium carbonate tolerance | "Low", "Medium", "High" |
+| `droughtTolerance` | enum | Drought tolerance | "Low", "Medium", "High" |
+| `soilDescription` | string | Detailed soil preferences | "Prefers well-drained sandy soils..." |
+| `conditionsComments` | string | Growing tips and notes | "Butterfly weed has an interesting..." |
+
+### Benefit
+
+Corresponds to the "Benefit" section:
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
+| `useOrnamental` | string | Ornamental uses | "Butterfly weed makes a delightful cut flower..." |
+| `useMedicinal` | string | Medicinal uses | "Its tough root was chewed by First Nations People..." |
+| `useOther` | string | Other uses | "This showy plant is frequently grown from seed..." |
+| `warning` | string | Toxicity/safety warnings | "POISONOUS PARTS: Roots, plant sap..." |
+| `conspicuousFlowers` | boolean | Has showy flowers | true |
+| `attracts` | string[] | What it attracts | ["Butterflies", "Hummingbirds"] |
+| `larvalHost` | string[] | Larval host for species | ["Grey Hairstreak", "Monarch", "Queens"] |
+| `nectarSource` | boolean | Is a nectar source | true |
+| `deerResistant` | enum | Deer resistance level | "Low", "Medium", "High" |
+
+### Beneficial Insects
+
+Data from The Xerces Society for Invertebrate Conservation:
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `specialValueToNativeBees` | boolean | Has special value to native bees |
+| `specialValueToBumbleBees` | boolean | Has special value to bumble bees |
+| `specialValueToHoneyBees` | boolean | Has special value to honey bees |
+| `supportsConservationBiologicalControl` | boolean | Supports conservation biological control |
+
+### Butterflies and Moths
+
+BAMONA (Butterflies and Moths of North America) data:
+
+```typescript
+butterfliesAndMoths?: Array<{
+  commonName: string; // "Monarch"
+  scientificName: string; // "Danaus plexippus"
+  relationship: 'Larval Host' | 'Nectar Source' | 'Adult Food';
+  bamonaUrl?: string; // Link to BAMONA page
+}>
+```
+
+### Propagation
+
+Corresponds to the "Propagation" section:
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
+| `propagationMaterial` | string[] | Propagation methods | ["Root Cuttings", "Seeds"] |
+| `description` | string | Propagation instructions | "The easiest method of propagation is root cuttings..." |
+| `seedCollection` | string | Seed collection info | "Watch plants closely for seedpods..." |
+| `commerciallyAvailable` | boolean | Available commercially | true |
+| `maintenance` | string | Maintenance requirements | "Needs to be transplanted carefully..." |
+
+### Images and Resources
+
+**Images:**
+```typescript
+images?: {
+  primary?: string; // URL to primary image
+  additional?: string[]; // Additional image URLs
+  credit?: string; // Photo credit
+  galleryCount?: number; // Number of photos in gallery (e.g., 168)
+}
+```
+
+**Resources:**
+```typescript
+resources?: {
+  // Mr. Smarty Plants Q&A
+  mrSmartyPlantsQuestions?: Array<{
+    title: string;
+    date: string;
+    url: string;
+  }>;
+  
+  // Organizations displaying this plant
+  organizationsDisplaying?: Array<{
+    name: string;
+    location: string;
+  }>;
+  
+  // Seed sources
+  seedSources?: Array<{
+    name: string;
+    url?: string;
+  }>;
+  
+  // Propagation protocols
+  propagationProtocols?: Array<{
+    name: string;
+    url: string;
+  }>;
+}
+```
+
+## Complete Example
+
+Here's a complete example based on Asclepias tuberosa from wildflower.org:
+
+```json
+{
+  "scientificName": "Asclepias tuberosa",
+  "commonName": "Butterflyweed",
+  "commonNames": [
+    "Butterfly Weed",
+    "Butterfly Milkweed", 
+    "Orange Milkweed",
+    "Pleurisy Root",
+    "Chigger Flower",
+    "Chiggerweed"
+  ],
+  "family": "Asclepiadaceae (Milkweed Family)",
+  "usdaSymbol": "ASTU",
+  "usdaNativeStatus": "L48 (N), CAN (N)",
+  "description": "This bushy, 1 1/2-2 ft. perennial is prized for its large, flat-topped clusters of bright-orange flowers...",
+  
+  "characteristics": {
+    "duration": "Perennial",
+    "habit": "Herb",
+    "leafRetention": "Deciduous",
+    "leafArrangement": "Alternate",
+    "leafShape": ["Lanceolate", "Linear", "Oblong"],
+    "fruitType": "Follicle",
+    "sizeNotes": "1-2 ft (30-60 cm)",
+    
+    "leaf": {
+      "shape": "Linear to oblong to lanceolate",
+      "color": "Bottom of leaf is a lighter green then the top of the leaf",
+      "length": "2-4 in (5-10cm)",
+      "width": "3/8 - 3/4 in (1 -2 cm)"
+    },
+    
+    "flower": {
+      "description": "Corolla, hoods, and horns are orange. Glabrous.",
+      "color": ["Orange", "Yellow", "Red"],
+      "structure": "Hoods are 3/16 - 1/4 in (5-6 mm) long, and horns just slightly smaller 1/8 in (3 mm)"
+    },
+    
+    "fruit": {
+      "description": "Pod color is grayish green",
+      "color": ["Grayish green"],
+      "length": "4-8 in (10-20 cm)",
+      "width": "1-2 1/2 in (2 1/2 - 6 cm)",
+      "surface": "Covered in short hairs"
+    },
+    
+    "bloomColor": ["Orange", "Yellow"],
+    "bloomTime": ["May", "Jun", "Jul", "Aug", "Sep"]
+  },
+  
+  "distribution": {
+    "usaStates": ["AL", "AR", "AZ", "CA", "CO", "CT", "DC", "DE", ...],
+    "canadianProvinces": ["NL", "ON", "QC"],
+    "nativeDistribution": "Ontario to Newfoundland; New England south to Florida; west to Texas; north through Colorado to Minnesota",
+    "nativeHabitat": "Grows in prairies, open woods, canyons, and hillsides throughout most of the state, common in eastern two thirds of Texas, uncommon in the Hill Country. Plant in well-drained sand, loam, clay, or limestone."
+  },
+  
+  "growingConditions": {
+    "waterUse": "Low",
+    "lightRequirement": "Sun",
+    "soilMoisture": ["Dry", "Moist"],
+    "caco3Tolerance": "Medium",
+    "droughtTolerance": "High",
+    "soilDescription": "Prefers well-drained sandy soils. Tolerates drought.",
+    "conditionsComments": "Butterfly weed has an interesting and unusual flower structure. Plant it among other mid-sized perennials..."
+  },
+  
+  "benefit": {
+    "useOrnamental": "Butterfly weed makes a delightful cut flower. Strong color, Blooms ornamental, Showy, Long-living, Perennial garden.",
+    "useMedicinal": "Its tough root was chewed by First Nations People as a cure for pleurisy and other pulmonary ailments...",
+    "useOther": "This showy plant is frequently grown from seed in home gardens.",
+    "warning": "POISONOUS PARTS: Roots, plant sap from all parts. Not edible. Toxic only if eaten in large quantities...",
+    "conspicuousFlowers": true,
+    "attracts": ["Butterflies", "Hummingbirds"],
+    "larvalHost": ["Grey Hairstreak", "Monarch", "Queens"],
+    "nectarSource": true,
+    "deerResistant": "High"
+  },
+  
+  "beneficialInsects": {
+    "specialValueToNativeBees": true,
+    "specialValueToBumbleBees": true,
+    "specialValueToHoneyBees": true,
+    "supportsConservationBiologicalControl": true
+  },
+  
+  "butterfliesAndMoths": [
+    {
+      "commonName": "Monarch",
+      "scientificName": "Danaus plexippus",
+      "relationship": "Larval Host",
+      "bamonaUrl": "..."
+    },
+    {
+      "commonName": "Queen",
+      "scientificName": "Danaus gilippus",
+      "relationship": "Larval Host",
+      "bamonaUrl": "..."
+    }
+  ],
+  
+  "propagation": {
+    "propagationMaterial": ["Root Cuttings", "Seeds"],
+    "description": "The easiest method of propagation is root cuttings. In the fall, cut the taproot into 2-inch sections and plant each section vertically, keeping the area moist.",
+    "seedCollection": "Watch plants closely for seedpods in late summer/early fall...",
+    "commerciallyAvailable": true,
+    "maintenance": "Needs to be transplanted carefully and requires good drainage. It takes 2-3 years before A. tuberosa produces its vibrant flowers..."
+  },
+  
+  "images": {
+    "galleryCount": 168,
+    "credit": "Cressler, Alan"
+  },
+  
+  "resources": {
+    "organizationsDisplaying": [
+      {
+        "name": "Naval Air Station Kingsville",
+        "location": "Kingsville, TX"
+      },
+      {
+        "name": "Lady Bird Johnson Wildflower Center",
+        "location": "Austin, TX"
+      }
+      // ... more organizations
+    ]
+  }
+}
+```
 
 ### Physical Characteristics
 
