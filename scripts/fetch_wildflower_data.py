@@ -47,45 +47,61 @@ MOCK_COLLECTION_HTML = """
 MOCK_PLANT_DETAILS = {
     'asclepias-tuberosa': """
     <html><body>
-    <h1 class="scientific-name">Asclepias tuberosa</h1>
-    <h2 class="common-name">Butterfly Weed</h2>
-    <div class="family">Family: Apocynaceae (Dogbane family)</div>
-    <div class="description">A vibrant orange wildflower that attracts butterflies. 
-    This showy perennial is native to eastern North America and is an important 
-    host plant for Monarch butterflies. The clusters of bright orange to yellow 
-    flowers bloom throughout the summer, providing nectar for many pollinators.</div>
+    <h1>Asclepias tuberosa L.</h1>
+    <h2>Butterflyweed, Butterfly Weed, Butterfly Milkweed, Orange Milkweed, Pleurisy Root</h2>
     
-    <div class="characteristics">
-        <div class="height">Height: 12-36 inches</div>
-        <div class="spread">Spread: 12-18 inches</div>
-        <div class="bloom-color">Bloom Color: Orange, Yellow</div>
-        <div class="bloom-time">Bloom Time: Summer, Early Fall</div>
-        <div class="lifespan">Perennial</div>
+    <div class="plant-family">
+        <strong>Asclepiadaceae (Milkweed Family)</strong>
     </div>
     
-    <div class="growing-requirements">
-        <div class="light">Light: Full sun to partial sun</div>
-        <div class="moisture">Moisture: Dry to medium, drought tolerant</div>
-        <div class="soil">Soil: Sandy, loam, rocky - well-drained</div>
-        <div class="zones">Hardiness Zones: 3-9</div>
+    <p>This bushy, 1 1/2-2 ft. perennial is prized for its large, flat-topped clusters of bright-orange flowers. 
+    The leaves are mostly alternate, 1 1/2-2 1/4 inches long, pointed, and smooth on the edge. 
+    The yellow-orange to bright orange flower clusters, 2-5 inches across, are at the top of the flowering stem. 
+    The abundance of stiff, lance-shaped foliage provides a dark-green backdrop for the showy flower heads.</p>
+    
+    <h3>Plant Characteristics</h3>
+    <div class="plant-characteristics">
+        <div><strong>Duration:</strong> Perennial</div>
+        <div><strong>Habit:</strong> Herb</div>
+        <div><strong>Leaf Retention:</strong> Deciduous</div>
+        <div><strong>Leaf Arrangement:</strong> Alternate</div>
+        <div><strong>Leaf Shape:</strong> Lanceolate, Linear, Oblong</div>
+        <div><strong>Fruit Type:</strong> Follicle</div>
+        <div><strong>Size Notes:</strong> 1-2 ft (30-60 cm).</div>
     </div>
     
+    <h3>Bloom Information</h3>
+    <div class="bloom-info">
+        <div><strong>Bloom Color:</strong> Orange, Yellow</div>
+        <div><strong>Bloom Time:</strong> May, Jun, Jul, Aug, Sep</div>
+    </div>
+    
+    <h3>Distribution</h3>
     <div class="distribution">
-        <div class="native-range">Native to: Eastern US, Texas, Oklahoma, Kansas, Nebraska</div>
-        <div class="habitat">Natural Habitat: Prairies, open woodlands, roadsides</div>
+        <div><strong>USA:</strong> AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV</div>
+        <div><strong>Canada:</strong> NL, ON, QC</div>
+        <div><strong>Native Distribution:</strong> Ontario to Newfoundland; New England south to Florida; west to Texas; north through Colorado to Minnesota.</div>
+        <div><strong>Native Habitat:</strong> Grows in prairies, open woods, canyons, and hillsides throughout most of the state, common in eastern two thirds of Texas, uncommon in the Hill Country. Plant in well-drained sand, loam, clay, or limestone.</div>
     </div>
     
-    <div class="wildlife">
-        <div class="pollinators">Attracts: Butterflies, bees, hummingbirds</div>
-        <div class="host-plant">Host Plant: Monarch Butterfly larvae</div>
-        <div class="food">Food Source: Birds eat seeds</div>
+    <h3>Growing Conditions</h3>
+    <div class="growing-conditions">
+        <div><strong>Water Use:</strong> Low</div>
+        <div><strong>Light Requirement:</strong> Sun</div>
+        <div><strong>Soil Moisture:</strong> Dry, Moist</div>
+        <div><strong>Drought Tolerance:</strong> High</div>
+        <div><strong>Soil Description:</strong> Prefers well-drained sandy soils. Tolerates drought.</div>
     </div>
     
-    <div class="landscape-use">
-        <div class="uses">Suitable for: Pollinator garden, xeriscaping, native garden, 
-        rain garden, Monarch conservation</div>
-        <div class="drought">Excellent drought tolerance once established</div>
+    <h3>Benefit</h3>
+    <div class="plant-benefits">
+        <div><strong>Conspicuous Flowers:</strong> yes</div>
+        <div><strong>Attracts:</strong> Butterflies, Hummingbirds</div>
+        <div><strong>Larval Host:</strong> Grey Hairstreak, Monarch, Queens</div>
+        <div><strong>Nectar Source:</strong> yes</div>
+        <div><strong>Deer Resistant:</strong> High</div>
     </div>
+    
     </body></html>
     """,
     'echinacea-purpurea': """
@@ -233,32 +249,69 @@ class PlantDataParser(HTMLParser):
         """Extract height range from HTML."""
         height_text = self.extract_text(html_content, r'<[^>]*(?:height|tall)[^>]*>([^<]+)')
         if not height_text:
+            # Try pattern with <strong> tags
+            height_text = self.extract_text(html_content, r'<strong>(?:Height|Size Notes?):</strong>\s*([^<]+)')
+        if not height_text:
+            # Try to find height in size notes
+            height_text = self.extract_text(html_content, r'Size Notes?:\s*([^<]+)')
+        if not height_text:
+            # Try to find height in general description (e.g., "1 1/2-2 ft. perennial")
+            height_text = self.extract_text(html_content, r'(\d+(?:\s*\d+/\d+)?[-–]\d+(?:\s*\d+/\d+)?\s*(?:ft|feet|in|inches)\.?\s+(?:tall|perennial|annual|biennial))')
+        if not height_text:
             return None
         
-        # Try to parse range like "12-36 inches" or "1-3 feet"
-        range_match = re.search(r'(\d+)[-–](\d+)\s*(inches?|feet?|ft|in)', height_text, re.IGNORECASE)
+        # Try to parse range like "12-36 inches" or "1-3 feet" or "1 1/2-2 ft"
+        range_match = re.search(r'(\d+(?:\s*\d+/\d+)?)\s*[-–]\s*(\d+(?:\s*\d+/\d+)?)\s*(inches?|feet?|ft|in|cm)', height_text, re.IGNORECASE)
         if range_match:
-            min_val = int(range_match.group(1))
-            max_val = int(range_match.group(2))
+            min_str = range_match.group(1).strip()
+            max_str = range_match.group(2).strip()
             unit = range_match.group(3).lower()
+            
+            # Parse fractional values like "1 1/2"
+            def parse_fractional(s):
+                parts = s.split()
+                if len(parts) == 2 and '/' in parts[1]:
+                    whole = int(parts[0])
+                    frac_parts = parts[1].split('/')
+                    return whole + int(frac_parts[0]) / int(frac_parts[1])
+                return float(s)
+            
+            min_val = parse_fractional(min_str)
+            max_val = parse_fractional(max_str)
             
             # Normalize to inches
             if 'feet' in unit or unit == 'ft':
                 min_val *= 12
                 max_val *= 12
+            elif 'cm' in unit:
+                min_val /= 2.54
+                max_val /= 2.54
             
-            return {'min': min_val, 'max': max_val, 'unit': 'inches'}
+            return {'min': int(min_val), 'max': int(max_val), 'unit': 'inches'}
         
         # Try single value like "24 inches"
-        single_match = re.search(r'(\d+)\s*(inches?|feet?|ft|in)', height_text, re.IGNORECASE)
+        single_match = re.search(r'(\d+(?:\s*\d+/\d+)?)\s*(inches?|feet?|ft|in|cm)', height_text, re.IGNORECASE)
         if single_match:
-            val = int(single_match.group(1))
+            val_str = single_match.group(1).strip()
             unit = single_match.group(2).lower()
+            
+            # Parse fractional values
+            def parse_fractional(s):
+                parts = s.split()
+                if len(parts) == 2 and '/' in parts[1]:
+                    whole = int(parts[0])
+                    frac_parts = parts[1].split('/')
+                    return whole + int(frac_parts[0]) / int(frac_parts[1])
+                return float(s)
+            
+            val = parse_fractional(val_str)
             
             if 'feet' in unit or unit == 'ft':
                 val *= 12
+            elif 'cm' in unit:
+                val /= 2.54
             
-            return {'min': val, 'max': val, 'unit': 'inches'}
+            return {'min': int(val), 'max': int(val), 'unit': 'inches'}
         
         return None
     
@@ -387,22 +440,69 @@ class PlantDataParser(HTMLParser):
             'wisconsin': 'WI', 'wyoming': 'WY'
         }
         
-        # Look for US state names
+        state_codes = set()
+        
+        # Method 1: Look for two-letter state codes in comma-separated list
+        # Pattern: "USA: AL, AR, AZ, CA, CO, ..." or just "AL, AR, AZ, ..."
+        code_pattern = r'\b([A-Z]{2})\b'
+        codes_found = re.findall(code_pattern, html_content)
+        for code in codes_found:
+            # Verify it's a valid state code
+            if code in state_to_code.values() or code in ['DC']:  # Include DC
+                state_codes.add(code)
+        
+        # Method 2: Look for full state names
         states_pattern = r'(?:Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming)'
         
         states = re.findall(states_pattern, html_content, re.IGNORECASE)
         if states:
             # Convert state names to two-letter codes
-            state_codes = []
             for state in states:
                 state_lower = state.lower()
                 if state_lower in state_to_code:
-                    state_codes.append(state_to_code[state_lower])
-            
-            # Return unique state codes, sorted alphabetically
-            return sorted(list(set(state_codes))) if state_codes else None
+                    state_codes.add(state_to_code[state_lower])
         
-        return None
+        # Return unique state codes, sorted alphabetically
+        return sorted(list(state_codes)) if state_codes else None
+    
+    def extract_canada_range(self, html_content):
+        """Extract Canada province/territory codes."""
+        # Mapping of province names to two-letter codes
+        province_to_code = {
+            'alberta': 'AB', 'british columbia': 'BC', 'manitoba': 'MB',
+            'new brunswick': 'NB', 'newfoundland': 'NL', 'newfoundland and labrador': 'NL',
+            'northwest territories': 'NT', 'nova scotia': 'NS', 'nunavut': 'NU',
+            'ontario': 'ON', 'prince edward island': 'PE', 'quebec': 'QC',
+            'saskatchewan': 'SK', 'yukon': 'YT'
+        }
+        
+        province_codes = set()
+        
+        # Method 1: Look for two-letter province codes in comma-separated list
+        # Pattern: "Canada: NL, ON, QC" or "<strong>Canada:</strong> NL, ON, QC"
+        # Need to handle HTML tags between Canada and the codes
+        canada_section = re.search(r'Canada[^>]*>?\s*([A-Z]{2}[,\s]+[A-Z]{2}[,\s]*[A-Z]*[,\s]*[A-Z]*)', html_content, re.IGNORECASE)
+        if canada_section:
+            code_pattern = r'\b([A-Z]{2})\b'
+            codes_found = re.findall(code_pattern, canada_section.group(1))
+            for code in codes_found:
+                # Verify it's a valid province code
+                if code in province_to_code.values():
+                    province_codes.add(code)
+        
+        # Method 2: Look for full province names
+        provinces_pattern = r'(?:Alberta|British Columbia|Manitoba|New Brunswick|Newfoundland and Labrador|Newfoundland|Northwest Territories|Nova Scotia|Nunavut|Ontario|Prince Edward Island|Quebec|Saskatchewan|Yukon)'
+        
+        provinces = re.findall(provinces_pattern, html_content, re.IGNORECASE)
+        if provinces:
+            # Convert province names to two-letter codes
+            for province in provinces:
+                province_lower = province.lower()
+                if province_lower in province_to_code:
+                    province_codes.add(province_to_code[province_lower])
+        
+        # Return unique province codes, sorted alphabetically
+        return sorted(list(province_codes)) if province_codes else None
     
     def extract_wildlife_value(self, html_content):
         """Extract wildlife and pollinator information."""
@@ -453,21 +553,41 @@ class PlantDataParser(HTMLParser):
         data = {}
         
         # Basic Identification
-        sci_name = self.extract_text(html_content, r'<[^>]*(?:scientific[- ]?name|binomial)[^>]*>([^<]+)')
+        # Try multiple patterns for scientific name
+        sci_name = self.extract_text(html_content, r'<h1[^>]*>([^<]+(?:L\.|Mill\.|DC\.|Nutt\.|Torr\.|Gray)?)</h1>')
+        if not sci_name:
+            sci_name = self.extract_text(html_content, r'<[^>]*(?:scientific[- ]?name|binomial)[^>]*>([^<]+)')
         if sci_name:
+            # Clean up scientific name (remove extra whitespace, trailing periods)
+            sci_name = re.sub(r'\s+', ' ', sci_name).strip()
             data['scientificName'] = sci_name
         
-        common_name = self.extract_text(html_content, r'<[^>]*common[- ]?name[^>]*>([^<]+)')
+        # Try multiple patterns for common name
+        common_name = self.extract_text(html_content, r'<h2[^>]*>([^<]+)</h2>')
+        if not common_name:
+            common_name = self.extract_text(html_content, r'<[^>]*common[- ]?name[^>]*>([^<]+)')
         if common_name:
+            # Clean up common name
+            common_name = re.sub(r'\s+', ' ', common_name).strip()
             data['commonName'] = common_name
         
-        family = self.extract_text(html_content, r'<[^>]*family[^>]*>([^<]+)')
+        # Try multiple patterns for family
+        family = self.extract_text(html_content, r'<[^>]*(?:plant-)?family[^>]*>\s*<strong>([^<]+)</strong>')
+        if not family:
+            family = self.extract_text(html_content, r'<[^>]*family[^>]*>([^<]+)')
         if family:
+            # Clean up family name
+            family = re.sub(r'\s+', ' ', family).strip()
             data['family'] = family
         
-        # Description
-        description = self.extract_text(html_content, r'<[^>]*description[^>]*>([^<]+)')
+        # Description - look for paragraph tags or description divs
+        description = self.extract_text(html_content, r'<p[^>]*>([^<]+(?:<[^>]+>[^<]+)*)</p>')
+        if not description:
+            description = self.extract_text(html_content, r'<[^>]*description[^>]*>([^<]+)')
         if description:
+            # Clean up description (remove HTML tags, normalize whitespace)
+            description = re.sub(r'<[^>]+>', '', description)
+            description = re.sub(r'\s+', ' ', description).strip()
             data['description'] = description
         
         # Physical Characteristics
@@ -482,6 +602,11 @@ class PlantDataParser(HTMLParser):
             characteristics['spread'] = spread
         
         bloom_colors_raw = self.extract_list(html_content, r'<[^>]*bloom[- ]?color[^>]*>([^<]+)')
+        if not bloom_colors_raw:
+            # Try with <strong> tag pattern
+            bloom_colors_text = self.extract_text(html_content, r'<strong>Bloom Color:</strong>\s*([^<]+)')
+            if bloom_colors_text:
+                bloom_colors_raw = [bloom_colors_text]
         if bloom_colors_raw:
             # Clean up extracted colors by removing label text
             bloom_colors = []
@@ -489,11 +614,18 @@ class PlantDataParser(HTMLParser):
                 # Remove common prefixes like "Bloom Color:"
                 cleaned = re.sub(r'^bloom\s*color\s*:\s*', '', color, flags=re.IGNORECASE).strip()
                 if cleaned:
-                    bloom_colors.append(cleaned)
+                    # Split by comma to handle multiple colors
+                    colors_list = [c.strip() for c in cleaned.split(',')]
+                    bloom_colors.extend(colors_list)
             if bloom_colors:
                 characteristics['bloomColor'] = bloom_colors
         
         bloom_time_raw = self.extract_list(html_content, r'<[^>]*bloom[- ]?time[^>]*>([^<]+)')
+        if not bloom_time_raw:
+            # Try with <strong> tag pattern
+            bloom_time_text = self.extract_text(html_content, r'<strong>Bloom Time:</strong>\s*([^<]+)')
+            if bloom_time_text:
+                bloom_time_raw = [bloom_time_text]
         if bloom_time_raw:
             # Clean up extracted bloom times by removing label text
             bloom_time = []
@@ -501,7 +633,9 @@ class PlantDataParser(HTMLParser):
                 # Remove common prefixes like "Bloom Time:"
                 cleaned = re.sub(r'^bloom\s*time\s*:\s*', '', time, flags=re.IGNORECASE).strip()
                 if cleaned:
-                    bloom_time.append(cleaned)
+                    # Split by comma to handle "May, Jun, Jul, Aug, Sep" format
+                    months_or_seasons = [t.strip() for t in cleaned.split(',')]
+                    bloom_time.extend(months_or_seasons)
             if bloom_time:
                 characteristics['bloomPeriod'] = bloom_time
         
@@ -546,6 +680,10 @@ class PlantDataParser(HTMLParser):
         usa_states = self.extract_native_range(html_content)
         if usa_states:
             distribution['usaStates'] = usa_states
+        
+        canada_provinces = self.extract_canada_range(html_content)
+        if canada_provinces:
+            distribution['canadaProvinces'] = canada_provinces
         
         if distribution:
             data['distribution'] = distribution
