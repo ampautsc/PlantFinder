@@ -1,9 +1,9 @@
 {
   "source_url": "/plant.php?id=echinacea-purpurea",
-  "scraped_at": "2025-10-16T16:42:52.285072",
+  "scraped_at": "2025-10-16T16:44:47.661987",
   "plant_data": {
     "raw_html": "\n    <html><body>\n    <h1 class=\"scientific-name\">Echinacea purpurea</h1>\n    <h2 class=\"common-name\">Purple Coneflower</h2>\n    <div class=\"description\">A popular native prairie plant with purple petals.</div>\n    <div class=\"characteristics\">\n        <span class=\"height\">24-48 inches</span>\n        <span class=\"bloom-color\">Purple, Pink</span>\n        <span class=\"bloom-time\">Summer, Fall</span>\n    </div>\n    </body></html>\n    ",
-    "extracted_at": "2025-10-16T16:42:52.285028",
+    "extracted_at": "2025-10-16T16:44:47.661947",
     "scientificName": "Echinacea purpurea",
     "commonName": "Purple Coneflower"
   }
