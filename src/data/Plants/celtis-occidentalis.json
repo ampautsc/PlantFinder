@@ -1,0 +1,86 @@
+{
+  "id": "celtis-occidentalis",
+  "commonName": "Common Hackberry",
+  "scientificName": "Celtis occidentalis",
+  "description": "Medium to large deciduous tree and critical host plant for question mark, hackberry emperor, mourning cloak, and tawny emperor butterflies. Produces small purple berries loved by birds. Extremely adaptable and tolerant of urban conditions.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 480,
+    "width": 360,
+    "bloomColor": [
+      "green"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Question Mark butterfly",
+      "Hackberry Emperor",
+      "Mourning Cloak",
+      "Tawny Emperor"
+    ],
+    "foodFor": [
+      "birds",
+      "butterflies"
+    ],
+    "usefulFor": [
+      "wildlife habitat",
+      "shade tree",
+      "urban landscape",
+      "bird garden"
+    ]
+  }
+}

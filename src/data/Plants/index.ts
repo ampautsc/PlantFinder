@@ -6,6 +6,7 @@ import AlliumSchoenoprasumData from './allium-schoenoprasum.json';
 import AmelanchierAlnifoliaData from './amelanchier-alnifolia.json';
 import AmsoniaTabernaemontanaData from './amsonia-tabernaemontana.json';
 import AnaphalisMargaritaceaData from './anaphalis-margaritacea.json';
+import AntennariaPlantaginiifoliaData from './antennaria-plantaginifolia.json';
 import AquilegiaCanadensisData from './aquilegia-canadensis.json';
 import AquilegiaFormosaData from './aquilegia-formosa.json';
 import ArctostaphylosData from './arctostaphylos.json';
@@ -24,8 +25,11 @@ import BaccharisSalicinaData from './baccharis-salicina.json';
 import BalsamorhizaSagittataData from './balsamorhiza-sagittata.json';
 import BaptisiaAustralisData from './baptisia-australis.json';
 import BerberisAquifoliumData from './berberis-aquifolium.json';
+import BoehmeriaCylindricaData from './boehmeria-cylindrica.json';
 import CallirhoeInvolucrataData from './callirhoe-involucrata.json';
 import CamassiaQuamashData from './camassia-quamash.json';
+import CeltisOccidentalisData from './celtis-occidentalis.json';
+import CercisCanadensisData from './cercis-canadensis.json';
 import ChamerionAngustifoliumData from './chamerion-angustifolium.json';
 import CheloneGlabraData from './chelone-glabra.json';
 import ChilopsisLinearisData from './chilopsis-linearis.json';
@@ -80,7 +84,9 @@ import LiatrisAsperaData from './liatris-aspera.json';
 import LiatrisPunctataData from './liatris-punctata.json';
 import LiatrisPycnostachyaData from './liatris-pycnostachya.json';
 import LiatrisSpicataData from './liatris-spicata.json';
+import LinderaBenzoinData from './lindera-benzoin.json';
 import LinumLewisiiData from './linum-lewisii.json';
+import LiriodendronTulipiferaData from './liriodendron-tulipifera.json';
 import LobeliaCardinalisData from './lobelia-cardinalis.json';
 import LupinusNootkatensisData from './lupinus-nootkatensis.json';
 import LupinusPerennisData from './lupinus-perennis.json';
@@ -123,6 +129,7 @@ import SalixData from './salix.json';
 import SalviaDorriiData from './salvia-dorrii.json';
 import SanguinariaCanadensisData from './sanguinaria-canadensis.json';
 import SapindusSaponariaData from './sapindus-saponaria.json';
+import SassafrasAlbidumData from './sassafras-albidum.json';
 import SenecioFlaccidusData from './senecio-flaccidus.json';
 import SolidagoAltissimaData from './solidago-altissima.json';
 import SolidagoCanadensisData from './solidago-canadensis.json';
@@ -142,9 +149,12 @@ import SymphyotrichumSubspicatumData from './symphyotrichum-subspicatum.json';
 import ThelespermaMegapotamicumData from './thelesperma-megapotamicum.json';
 import TradescantiaOccidentalisData from './tradescantia-occidentalis.json';
 import TradescantiaOhiensisData from './tradescantia-ohiensis.json';
+import TrifoliumRepensData from './trifolium-repens.json';
+import UlmusAmericanaData from './ulmus-americana.json';
 import VerbenaHastataData from './verbena-hastata.json';
 import VerbesinaEncelioidesData from './verbesina-encelioides.json';
 import VernoniaGiganteaData from './vernonia-gigantea.json';
+import ViolaSororiaData from './viola-sororia.json';
 import YuccaGlaucaData from './yucca-glauca.json';
 import YuccaData from './yucca.json';
 import ZinniaGrandifloraData from './zinnia-grandiflora.json';
@@ -157,6 +167,7 @@ export const plants: Plant[] = [
   AmelanchierAlnifoliaData,
   AmsoniaTabernaemontanaData,
   AnaphalisMargaritaceaData,
+  AntennariaPlantaginiifoliaData,
   AquilegiaCanadensisData,
   AquilegiaFormosaData,
   ArctostaphylosData,
@@ -175,8 +186,11 @@ export const plants: Plant[] = [
   BalsamorhizaSagittataData,
   BaptisiaAustralisData,
   BerberisAquifoliumData,
+  BoehmeriaCylindricaData,
   CallirhoeInvolucrataData,
   CamassiaQuamashData,
+  CeltisOccidentalisData,
+  CercisCanadensisData,
   ChamerionAngustifoliumData,
   CheloneGlabraData,
   ChilopsisLinearisData,
@@ -231,7 +245,9 @@ export const plants: Plant[] = [
   LiatrisPunctataData,
   LiatrisPycnostachyaData,
   LiatrisSpicataData,
+  LinderaBenzoinData,
   LinumLewisiiData,
+  LiriodendronTulipiferaData,
   LobeliaCardinalisData,
   LupinusNootkatensisData,
   LupinusPerennisData,
@@ -274,6 +290,7 @@ export const plants: Plant[] = [
   SalviaDorriiData,
   SanguinariaCanadensisData,
   SapindusSaponariaData,
+  SassafrasAlbidumData,
   SenecioFlaccidusData,
   SolidagoAltissimaData,
   SolidagoCanadensisData,
@@ -293,9 +310,12 @@ export const plants: Plant[] = [
   ThelespermaMegapotamicumData,
   TradescantiaOccidentalisData,
   TradescantiaOhiensisData,
+  TrifoliumRepensData,
+  UlmusAmericanaData,
   VerbenaHastataData,
   VerbesinaEncelioidesData,
   VernoniaGiganteaData,
+  ViolaSororiaData,
   YuccaGlaucaData,
   YuccaData,
   ZinniaGrandifloraData,
