@@ -27,7 +27,6 @@ BASE_URL = "https://www.wildflower.org"
 OUTPUT_DIR = "src/data/wildflower-org"
 LOG_FILE = "fetch_log.txt"
 TIMEOUT = 30  # Request timeout in seconds
-MAX_PLANTS_PER_RUN = 10  # Limit number of plants to fetch per run
 USE_TEST_MODE = '--test' in sys.argv
 
 
@@ -933,8 +932,8 @@ def process_plants(plant_links, log_path):
     success_count = 0
     failure_count = 0
     
-    # Limit number of plants to process
-    plants_to_process = plant_links[:MAX_PLANTS_PER_RUN]
+    # Process all plants found in the collection
+    plants_to_process = plant_links
     
     print(f"\nProcessing {len(plants_to_process)} plants...")
     

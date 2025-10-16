@@ -146,7 +146,6 @@ Key configuration constants in the script:
 - `BASE_URL`: Base URL for resolving relative plant page links
 - `OUTPUT_DIR`: Directory where data is saved (`src/data/wildflower-org`)
 - `TIMEOUT`: Request timeout in seconds (30)
-- `MAX_PLANTS_PER_RUN`: Limit on plants to process per run (10)
 
 ### Notes
 
