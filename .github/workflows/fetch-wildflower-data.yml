@@ -1,0 +1,46 @@
+name: Fetch Wildflower Data
+
+on:
+  # Run daily at 2 AM UTC
+  schedule:
+    - cron: '0 2 * * *'
+  
+  # Allow manual trigger for testing
+  workflow_dispatch:
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    name: Fetch Data from Wildflower.org
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Run data fetch script
+        run: |
+          python3 scripts/fetch_wildflower_data.py
+        continue-on-error: true
+      
+      - name: Upload fetch results as artifact
+        uses: actions/upload-artifact@v3
+        if: always()
+        with:
+          name: wildflower-data-${{ github.run_number }}
+          path: data/fetched/
+          retention-days: 30
+      
+      - name: Display log summary
+        if: always()
+        run: |
+          if [ -f data/fetched/fetch_log.txt ]; then
+            echo "=== Fetch Log Summary ==="
+            cat data/fetched/fetch_log.txt
+          else
+            echo "No log file found"
+          fi
