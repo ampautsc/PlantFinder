@@ -1,0 +1,19 @@
+{
+  "name": "plantfinder-scrapers",
+  "version": "1.0.0",
+  "description": "Web scrapers for collecting wildflower data from seed vendors",
+  "type": "module",
+  "scripts": {
+    "scrape:all": "node scrapers/index.js",
+    "scrape:prairie-moon": "node scrapers/prairie-moon.js",
+    "scrape:everwilde": "node scrapers/everwilde.js",
+    "scrape:trueleaf": "node scrapers/trueleaf.js",
+    "scrape:american-meadows": "node scrapers/american-meadows.js",
+    "scrape:eden-brothers": "node scrapers/eden-brothers.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.0.0"
+  }
+}

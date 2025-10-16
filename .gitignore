@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Scraper logs
+scripts/logs
+scripts/node_modules
