@@ -142,12 +142,14 @@ function normalizeBloomTime(periods?: string[]): string[] {
 }
 
 /**
- * Normalize native range names
+ * Normalize native range from state codes to display format
  */
-function normalizeNativeRange(range?: string[]): string[] {
-  if (!range || range.length === 0) return ['United States']; // Default
+function normalizeNativeRange(usaStates?: string[]): string[] {
+  if (!usaStates || usaStates.length === 0) return ['United States']; // Default
   
-  return Array.from(new Set(range.map(r => r.trim())));
+  // State codes are already in the correct format (e.g., ["TX", "OK", "KS"])
+  // Return them as-is, already unique and sorted
+  return usaStates;
 }
 
 /**
@@ -207,7 +209,7 @@ export function transformWildflowerOrgToPlant(
     bloomColor: normalizeBloomColors(data.characteristics?.bloomColor),
     bloomTime: normalizeBloomTime(data.characteristics?.bloomPeriod),
     perennial: data.characteristics?.lifespan === 'perennial',
-    nativeRange: normalizeNativeRange(data.distribution?.nativeRange),
+    nativeRange: normalizeNativeRange(data.distribution?.usaStates),
     hardinessZones: data.requirements?.hardiness?.zones || ['5', '6', '7', '8']
   };
   

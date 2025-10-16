@@ -94,3 +94,19 @@
 [2025-10-16 19:02:43] Saved plant data: rudbeckia-hirta.json
 [2025-10-16 19:02:43] Processed 3 plants successfully, 0 failures
 [2025-10-16 19:02:43] Batch job completed successfully
+[2025-10-16 19:18:08] Batch job started (test mode)
+[2025-10-16 19:18:08] Target URL: https://www.wildflower.org/collections/collection.php?all=true
+[2025-10-16 19:18:08] Collection fetch result: Successfully loaded test data
+[2025-10-16 19:18:08] Saved plant data: asclepias-tuberosa.json
+[2025-10-16 19:18:09] Saved plant data: echinacea-purpurea.json
+[2025-10-16 19:18:09] Saved plant data: rudbeckia-hirta.json
+[2025-10-16 19:18:10] Processed 3 plants successfully, 0 failures
+[2025-10-16 19:18:10] Batch job completed successfully
+[2025-10-16 19:18:53] Batch job started (test mode)
+[2025-10-16 19:18:53] Target URL: https://www.wildflower.org/collections/collection.php?all=true
+[2025-10-16 19:18:53] Collection fetch result: Successfully loaded test data
+[2025-10-16 19:18:53] Saved plant data: asclepias-tuberosa.json
+[2025-10-16 19:18:53] Saved plant data: echinacea-purpurea.json
+[2025-10-16 19:18:54] Saved plant data: rudbeckia-hirta.json
+[2025-10-16 19:18:54] Processed 3 plants successfully, 0 failures
+[2025-10-16 19:18:54] Batch job completed successfully

@@ -114,7 +114,7 @@ MOCK_PLANT_DETAILS = {
     </div>
     
     <div class="distribution">
-        <div class="native-range">Native to: Eastern and Central United States</div>
+        <div class="native-range">Native to: Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, Missouri, Kentucky, Tennessee, Alabama, Mississippi, Arkansas, Louisiana</div>
         <div class="habitat">Natural Habitat: Prairies, open woodlands</div>
     </div>
     
@@ -155,7 +155,7 @@ MOCK_PLANT_DETAILS = {
     </div>
     
     <div class="distribution">
-        <div class="native-range">Native to: Throughout United States except Pacific Northwest</div>
+        <div class="native-range">Native to: Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Texas, Oklahoma, Kansas, Nebraska, South Dakota, North Dakota, Montana, Wyoming, Colorado, New Mexico, Arizona, Utah, Nevada, Idaho, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, Missouri, Arkansas, Kentucky, Tennessee</div>
         <div class="habitat">Natural Habitat: Prairies, meadows, roadsides, open areas</div>
     </div>
     
@@ -369,30 +369,40 @@ class PlantDataParser(HTMLParser):
         return None
     
     def extract_native_range(self, html_content):
-        """Extract native range/distribution information."""
-        # Look for US state names and regions
+        """Extract native range/distribution information as state codes."""
+        # Mapping of state names to two-letter codes
+        state_to_code = {
+            'alabama': 'AL', 'alaska': 'AK', 'arizona': 'AZ', 'arkansas': 'AR',
+            'california': 'CA', 'colorado': 'CO', 'connecticut': 'CT', 'delaware': 'DE',
+            'florida': 'FL', 'georgia': 'GA', 'hawaii': 'HI', 'idaho': 'ID',
+            'illinois': 'IL', 'indiana': 'IN', 'iowa': 'IA', 'kansas': 'KS',
+            'kentucky': 'KY', 'louisiana': 'LA', 'maine': 'ME', 'maryland': 'MD',
+            'massachusetts': 'MA', 'michigan': 'MI', 'minnesota': 'MN', 'mississippi': 'MS',
+            'missouri': 'MO', 'montana': 'MT', 'nebraska': 'NE', 'nevada': 'NV',
+            'new hampshire': 'NH', 'new jersey': 'NJ', 'new mexico': 'NM', 'new york': 'NY',
+            'north carolina': 'NC', 'north dakota': 'ND', 'ohio': 'OH', 'oklahoma': 'OK',
+            'oregon': 'OR', 'pennsylvania': 'PA', 'rhode island': 'RI', 'south carolina': 'SC',
+            'south dakota': 'SD', 'tennessee': 'TN', 'texas': 'TX', 'utah': 'UT',
+            'vermont': 'VT', 'virginia': 'VA', 'washington': 'WA', 'west virginia': 'WV',
+            'wisconsin': 'WI', 'wyoming': 'WY'
+        }
+        
+        # Look for US state names
         states_pattern = r'(?:Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming)'
         
         states = re.findall(states_pattern, html_content, re.IGNORECASE)
         if states:
-            return list(set([s.title() for s in states]))
+            # Convert state names to two-letter codes
+            state_codes = []
+            for state in states:
+                state_lower = state.lower()
+                if state_lower in state_to_code:
+                    state_codes.append(state_to_code[state_lower])
+            
+            # Return unique state codes, sorted alphabetically
+            return sorted(list(set(state_codes))) if state_codes else None
         
-        # Look for regional descriptions
-        regions = []
-        if re.search(r'eastern\s+(?:U\.?S\.?|United States)', html_content, re.IGNORECASE):
-            regions.append('Eastern US')
-        if re.search(r'western\s+(?:U\.?S\.?|United States)', html_content, re.IGNORECASE):
-            regions.append('Western US')
-        if re.search(r'midwest|central\s+(?:U\.?S\.?|United States)', html_content, re.IGNORECASE):
-            regions.append('Midwest')
-        if re.search(r'southern\s+(?:U\.?S\.?|United States)', html_content, re.IGNORECASE):
-            regions.append('Southern US')
-        
-        # Look for "throughout" or "entire" United States patterns
-        if re.search(r'throughout\s+(?:the\s+)?United States|entire\s+United States', html_content, re.IGNORECASE):
-            regions.append('United States')
-        
-        return regions if regions else None
+        return None
     
     def extract_wildlife_value(self, html_content):
         """Extract wildlife and pollinator information."""
@@ -533,9 +543,9 @@ class PlantDataParser(HTMLParser):
         # Geographic Information
         distribution = {}
         
-        native_range = self.extract_native_range(html_content)
-        if native_range:
-            distribution['nativeRange'] = native_range
+        usa_states = self.extract_native_range(html_content)
+        if usa_states:
+            distribution['usaStates'] = usa_states
         
         if distribution:
             data['distribution'] = distribution
