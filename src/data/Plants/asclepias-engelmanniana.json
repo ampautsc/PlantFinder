@@ -1,0 +1,81 @@
+{
+  "id": "asclepias-engelmanniana",
+  "commonName": "Engelmann's milkweed",
+  "scientificName": "Asclepias engelmanniana",
+  "description": "A native wildflower found in the Southwest region, blooming in summer. This plant is valuable for pollinators and adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "dry",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 24,
+    "width": 18,
+    "bloomColor": [
+      "pink",
+      "purple"
+    ],
+    "bloomTime": [
+      "summer",
+      "fall"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Arizona",
+      "New Mexico",
+      "Texas",
+      "Oklahoma",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Michigan",
+      "Minnesota",
+      "Missouri",
+      "Nebraska",
+      "North Dakota",
+      "Ohio",
+      "South Dakota",
+      "Wisconsin",
+      "Connecticut",
+      "Delaware",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "New Hampshire",
+      "New Jersey",
+      "New York",
+      "Pennsylvania",
+      "Rhode Island",
+      "Vermont",
+      "West Virginia",
+      "Colorado",
+      "Montana",
+      "Wyoming"
+    ],
+    "hardinessZones": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "3",
+      "4"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Monarch butterfly"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden",
+      "monarch conservation"
+    ]
+  }
+}

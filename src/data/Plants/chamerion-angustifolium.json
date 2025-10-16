@@ -1,0 +1,44 @@
+{
+  "id": "chamerion-angustifolium",
+  "commonName": "Fireweed",
+  "scientificName": "Chamerion angustifolium",
+  "description": "A native wildflower found in the Alaska region, blooming in fall. This plant is valuable for pollinators and adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 24,
+    "width": 18,
+    "bloomColor": [
+      "purple"
+    ],
+    "bloomTime": [
+      "fall"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Alaska"
+    ],
+    "hardinessZones": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  }
+}
