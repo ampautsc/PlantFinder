@@ -7,11 +7,20 @@ on:
   
   # Allow manual trigger for testing
   workflow_dispatch:
+    inputs:
+      test_mode:
+        description: 'Run in test mode with mock data'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
 
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
-    name: Fetch Data from Wildflower.org
+    name: Scrape Plant Data from Wildflower.org
     
     steps:
       - name: Checkout repository
@@ -22,9 +31,28 @@ jobs:
         with:
           python-version: '3.x'
       
-      - name: Run data fetch script
+      - name: Run data scraper script
         run: |
-          python3 scripts/fetch_wildflower_data.py
+          if [ "${{ github.event.inputs.test_mode }}" == "true" ]; then
+            echo "Running in test mode with mock data"
+            python3 scripts/fetch_wildflower_data.py --test
+          else
+            echo "Running in normal mode (live data)"
+            python3 scripts/fetch_wildflower_data.py
+          fi
+        continue-on-error: true
+      
+      - name: Commit and push scraped data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/wildflower-org/*.json src/data/wildflower-org/fetch_log.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update scraped plant data from wildflower.org"
+            git push
+          fi
         continue-on-error: true
       
       - name: Upload fetch results as artifact
@@ -32,15 +60,15 @@ jobs:
         if: always()
         with:
           name: wildflower-data-${{ github.run_number }}
-          path: data/fetched/
+          path: src/data/wildflower-org/
           retention-days: 30
       
       - name: Display log summary
         if: always()
         run: |
-          if [ -f data/fetched/fetch_log.txt ]; then
+          if [ -f src/data/wildflower-org/fetch_log.txt ]; then
             echo "=== Fetch Log Summary ==="
-            cat data/fetched/fetch_log.txt
+            cat src/data/wildflower-org/fetch_log.txt
           else
             echo "No log file found"
           fi

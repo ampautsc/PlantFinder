@@ -1,0 +1,10 @@
+{
+  "source_url": "/plant.php?id=rudbeckia-hirta",
+  "scraped_at": "2025-10-16T16:42:52.785600",
+  "plant_data": {
+    "raw_html": "\n    <html><body>\n    <h1 class=\"scientific-name\">Rudbeckia hirta</h1>\n    <h2 class=\"common-name\">Black-eyed Susan</h2>\n    <div class=\"description\">Cheerful yellow flowers with dark centers.</div>\n    <div class=\"characteristics\">\n        <span class=\"height\">12-36 inches</span>\n        <span class=\"bloom-color\">Yellow, Gold</span>\n        <span class=\"bloom-time\">Summer, Fall</span>\n    </div>\n    </body></html>\n    ",
+    "extracted_at": "2025-10-16T16:42:52.785557",
+    "scientificName": "Rudbeckia hirta",
+    "commonName": "Black-eyed Susan"
+  }
+}

@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-# Data fetched by batch jobs
-data/
+# Data fetched by batch jobs (gitignored - not for source control)
+/data/
