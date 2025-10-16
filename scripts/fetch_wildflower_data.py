@@ -47,128 +47,174 @@ MOCK_COLLECTION_HTML = """
 MOCK_PLANT_DETAILS = {
     'asclepias-tuberosa': """
     <html><body>
-    <h1 class="scientific-name">Asclepias tuberosa</h1>
-    <h2 class="common-name">Butterfly Weed</h2>
-    <div class="family">Family: Apocynaceae (Dogbane family)</div>
-    <div class="description">A vibrant orange wildflower that attracts butterflies. 
-    This showy perennial is native to eastern North America and is an important 
-    host plant for Monarch butterflies. The clusters of bright orange to yellow 
-    flowers bloom throughout the summer, providing nectar for many pollinators.</div>
+    <h1>Asclepias tuberosa L.</h1>
+    <h2>Butterflyweed, Butterfly Weed, Butterfly Milkweed, Orange Milkweed, Pleurisy Root</h2>
     
-    <div class="characteristics">
-        <div class="height">Height: 12-36 inches</div>
-        <div class="spread">Spread: 12-18 inches</div>
-        <div class="bloom-color">Bloom Color: Orange, Yellow</div>
-        <div class="bloom-time">Bloom Time: Summer, Early Fall</div>
-        <div class="lifespan">Perennial</div>
+    <div class="plant-family">
+        <strong>Asclepiadaceae (Milkweed Family)</strong>
     </div>
     
-    <div class="growing-requirements">
-        <div class="light">Light: Full sun to partial sun</div>
-        <div class="moisture">Moisture: Dry to medium, drought tolerant</div>
-        <div class="soil">Soil: Sandy, loam, rocky - well-drained</div>
-        <div class="zones">Hardiness Zones: 3-9</div>
+    <p>This bushy, 1 1/2-2 ft. perennial is prized for its large, flat-topped clusters of bright-orange flowers. 
+    The leaves are mostly alternate, 1 1/2-2 1/4 inches long, pointed, and smooth on the edge. 
+    The yellow-orange to bright orange flower clusters, 2-5 inches across, are at the top of the flowering stem. 
+    The abundance of stiff, lance-shaped foliage provides a dark-green backdrop for the showy flower heads.</p>
+    
+    <h3>Plant Characteristics</h3>
+    <div class="plant-characteristics">
+        <div><strong>Duration:</strong> Perennial</div>
+        <div><strong>Habit:</strong> Herb</div>
+        <div><strong>Leaf Retention:</strong> Deciduous</div>
+        <div><strong>Leaf Arrangement:</strong> Alternate</div>
+        <div><strong>Leaf Shape:</strong> Lanceolate, Linear, Oblong</div>
+        <div><strong>Fruit Type:</strong> Follicle</div>
+        <div><strong>Size Notes:</strong> 1-2 ft (30-60 cm).</div>
     </div>
     
+    <h3>Bloom Information</h3>
+    <div class="bloom-info">
+        <div><strong>Bloom Color:</strong> Orange, Yellow</div>
+        <div><strong>Bloom Time:</strong> May, Jun, Jul, Aug, Sep</div>
+    </div>
+    
+    <h3>Distribution</h3>
     <div class="distribution">
-        <div class="native-range">Native to: Eastern US, Texas, Oklahoma, Kansas, Nebraska</div>
-        <div class="habitat">Natural Habitat: Prairies, open woodlands, roadsides</div>
+        <div><strong>USA:</strong> AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV</div>
+        <div><strong>Canada:</strong> NL, ON, QC</div>
+        <div><strong>Native Distribution:</strong> Ontario to Newfoundland; New England south to Florida; west to Texas; north through Colorado to Minnesota.</div>
+        <div><strong>Native Habitat:</strong> Grows in prairies, open woods, canyons, and hillsides throughout most of the state, common in eastern two thirds of Texas, uncommon in the Hill Country. Plant in well-drained sand, loam, clay, or limestone.</div>
     </div>
     
-    <div class="wildlife">
-        <div class="pollinators">Attracts: Butterflies, bees, hummingbirds</div>
-        <div class="host-plant">Host Plant: Monarch Butterfly larvae</div>
-        <div class="food">Food Source: Birds eat seeds</div>
+    <h3>Growing Conditions</h3>
+    <div class="growing-conditions">
+        <div><strong>Water Use:</strong> Low</div>
+        <div><strong>Light Requirement:</strong> Sun</div>
+        <div><strong>Soil Moisture:</strong> Dry, Moist</div>
+        <div><strong>Drought Tolerance:</strong> High</div>
+        <div><strong>Soil Description:</strong> Prefers well-drained sandy soils. Tolerates drought.</div>
     </div>
     
-    <div class="landscape-use">
-        <div class="uses">Suitable for: Pollinator garden, xeriscaping, native garden, 
-        rain garden, Monarch conservation</div>
-        <div class="drought">Excellent drought tolerance once established</div>
+    <h3>Benefit</h3>
+    <div class="plant-benefits">
+        <div><strong>Conspicuous Flowers:</strong> yes</div>
+        <div><strong>Attracts:</strong> Butterflies, Hummingbirds</div>
+        <div><strong>Larval Host:</strong> Grey Hairstreak, Monarch, Queens</div>
+        <div><strong>Nectar Source:</strong> yes</div>
+        <div><strong>Deer Resistant:</strong> High</div>
     </div>
+    
     </body></html>
     """,
     'echinacea-purpurea': """
     <html><body>
-    <h1 class="scientific-name">Echinacea purpurea</h1>
-    <h2 class="common-name">Purple Coneflower</h2>
-    <div class="family">Family: Asteraceae (Sunflower family)</div>
-    <div class="description">A popular native prairie plant with purple petals and 
-    prominent cone-shaped centers. This robust perennial is prized for its medicinal 
-    properties and ornamental value. The flowers attract numerous pollinators and 
-    the seed heads provide winter food for birds.</div>
+    <h1>Echinacea purpurea (L.) Moench</h1>
+    <h2>Purple Coneflower, Eastern Purple Coneflower</h2>
     
-    <div class="characteristics">
-        <div class="height">Height: 24-48 inches</div>
-        <div class="spread">Spread: 18-24 inches</div>
-        <div class="bloom-color">Bloom Color: Purple, Pink, White</div>
-        <div class="bloom-time">Bloom Time: Summer, Fall</div>
-        <div class="lifespan">Perennial</div>
+    <div class="plant-family">
+        <strong>Asteraceae (Aster, Sunflower or Composite Family)</strong>
     </div>
     
-    <div class="growing-requirements">
-        <div class="light">Light: Full sun to partial shade</div>
-        <div class="moisture">Moisture: Medium to dry, drought tolerant</div>
-        <div class="soil">Soil: Loam, clay, sandy - adaptable</div>
-        <div class="zones">Hardiness Zones: 3-8</div>
+    <p>A popular native prairie plant with purple petals and prominent cone-shaped centers. 
+    This robust perennial is prized for its medicinal properties and ornamental value. 
+    The flowers attract numerous pollinators and the seed heads provide winter food for birds. 
+    Plants typically reach 2-4 feet tall with a spread of 1.5-2 feet.</p>
+    
+    <h3>Plant Characteristics</h3>
+    <div class="plant-characteristics">
+        <div><strong>Duration:</strong> Perennial</div>
+        <div><strong>Habit:</strong> Herb</div>
+        <div><strong>Leaf Retention:</strong> Deciduous</div>
+        <div><strong>Leaf Arrangement:</strong> Alternate</div>
+        <div><strong>Leaf Shape:</strong> Lanceolate, Ovate</div>
+        <div><strong>Size Notes:</strong> 2-4 ft (60-120 cm).</div>
     </div>
     
+    <h3>Bloom Information</h3>
+    <div class="bloom-info">
+        <div><strong>Bloom Color:</strong> Purple, Pink</div>
+        <div><strong>Bloom Time:</strong> Jun, Jul, Aug, Sep</div>
+    </div>
+    
+    <h3>Distribution</h3>
     <div class="distribution">
-        <div class="native-range">Native to: Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, Missouri, Kentucky, Tennessee, Alabama, Mississippi, Arkansas, Louisiana</div>
-        <div class="habitat">Natural Habitat: Prairies, open woodlands</div>
+        <div><strong>USA:</strong> AL, AR, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, VA, VT, WI, WV</div>
+        <div><strong>Native Distribution:</strong> Maine to Michigan south to Georgia and Louisiana.</div>
+        <div><strong>Native Habitat:</strong> Found in prairies, open woodlands, and along roadsides. Grows in well-drained loamy or rocky soil.</div>
     </div>
     
-    <div class="wildlife">
-        <div class="pollinators">Attracts: Butterflies, bees, moths</div>
-        <div class="food">Food Source: Birds (goldfinches love the seeds)</div>
+    <h3>Growing Conditions</h3>
+    <div class="growing-conditions">
+        <div><strong>Water Use:</strong> Low to Medium</div>
+        <div><strong>Light Requirement:</strong> Sun</div>
+        <div><strong>Soil Moisture:</strong> Dry, Medium</div>
+        <div><strong>Drought Tolerance:</strong> High</div>
+        <div><strong>Soil Description:</strong> Adaptable to various soils - loam, clay, sandy. Prefers well-drained conditions.</div>
     </div>
     
-    <div class="landscape-use">
-        <div class="uses">Suitable for: Pollinator garden, native garden, prairie restoration, 
-        cottage garden, medicinal garden</div>
+    <h3>Benefit</h3>
+    <div class="plant-benefits">
+        <div><strong>Conspicuous Flowers:</strong> yes</div>
+        <div><strong>Attracts:</strong> Butterflies, Bees</div>
+        <div><strong>Nectar Source:</strong> yes</div>
+        <div><strong>Deer Resistant:</strong> Medium</div>
     </div>
+    
     </body></html>
     """,
     'rudbeckia-hirta': """
     <html><body>
-    <h1 class="scientific-name">Rudbeckia hirta</h1>
-    <h2 class="common-name">Black-eyed Susan</h2>
-    <div class="family">Family: Asteraceae (Sunflower family)</div>
-    <div class="description">Cheerful yellow flowers with distinctive dark brown centers. 
+    <h1>Rudbeckia hirta L.</h1>
+    <h2>Black-eyed Susan, Brown-eyed Susan</h2>
+    
+    <div class="plant-family">
+        <strong>Asteraceae (Aster, Sunflower or Composite Family)</strong>
+    </div>
+    
+    <p>Cheerful yellow flowers with distinctive dark brown centers. 
     This easy-to-grow biennial or short-lived perennial is one of the most recognizable 
     wildflowers of North America. It naturalizes readily and provides months of bright 
-    color from summer into fall.</div>
+    color from summer into fall. Plants grow 1-3 feet tall with a compact spread.</p>
     
-    <div class="characteristics">
-        <div class="height">Height: 12-36 inches</div>
-        <div class="spread">Spread: 12-24 inches</div>
-        <div class="bloom-color">Bloom Color: Yellow, Gold</div>
-        <div class="bloom-time">Bloom Time: Summer, Fall</div>
-        <div class="lifespan">Biennial or short-lived perennial</div>
+    <h3>Plant Characteristics</h3>
+    <div class="plant-characteristics">
+        <div><strong>Duration:</strong> Biennial, Perennial</div>
+        <div><strong>Habit:</strong> Herb</div>
+        <div><strong>Leaf Retention:</strong> Deciduous</div>
+        <div><strong>Leaf Arrangement:</strong> Alternate</div>
+        <div><strong>Leaf Shape:</strong> Lanceolate, Ovate</div>
+        <div><strong>Size Notes:</strong> 1-3 ft (30-90 cm).</div>
     </div>
     
-    <div class="growing-requirements">
-        <div class="light">Light: Full sun to partial shade</div>
-        <div class="moisture">Moisture: Dry to moist - very adaptable</div>
-        <div class="soil">Soil: Clay, loam, sandy - tolerates poor soil</div>
-        <div class="zones">Hardiness Zones: 3-9</div>
+    <h3>Bloom Information</h3>
+    <div class="bloom-info">
+        <div><strong>Bloom Color:</strong> Yellow, Gold, Orange</div>
+        <div><strong>Bloom Time:</strong> Jun, Jul, Aug, Sep, Oct</div>
     </div>
     
+    <h3>Distribution</h3>
     <div class="distribution">
-        <div class="native-range">Native to: Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Texas, Oklahoma, Kansas, Nebraska, South Dakota, North Dakota, Montana, Wyoming, Colorado, New Mexico, Arizona, Utah, Nevada, Idaho, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, Missouri, Arkansas, Kentucky, Tennessee</div>
-        <div class="habitat">Natural Habitat: Prairies, meadows, roadsides, open areas</div>
+        <div><strong>USA:</strong> AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY</div>
+        <div><strong>Canada:</strong> AB, BC, MB, NB, NS, ON, QC, SK</div>
+        <div><strong>Native Distribution:</strong> Throughout most of North America from coast to coast.</div>
+        <div><strong>Native Habitat:</strong> Prairies, meadows, roadsides, open areas, disturbed sites.</div>
     </div>
     
-    <div class="wildlife">
-        <div class="pollinators">Attracts: Butterflies, bees, native bees</div>
-        <div class="food">Food Source: Birds eat seeds, especially goldfinches</div>
+    <h3>Growing Conditions</h3>
+    <div class="growing-conditions">
+        <div><strong>Water Use:</strong> Low to Medium</div>
+        <div><strong>Light Requirement:</strong> Sun</div>
+        <div><strong>Soil Moisture:</strong> Dry, Medium</div>
+        <div><strong>Drought Tolerance:</strong> Medium</div>
+        <div><strong>Soil Description:</strong> Tolerates a wide range of soils - clay, loam, sandy. Very adaptable.</div>
     </div>
     
-    <div class="landscape-use">
-        <div class="uses">Suitable for: Pollinator garden, meadow, native garden, 
-        naturalistic plantings, wildflower mixes</div>
-        <div class="easy-care">Very low maintenance, self-seeds readily</div>
+    <h3>Benefit</h3>
+    <div class="plant-benefits">
+        <div><strong>Conspicuous Flowers:</strong> yes</div>
+        <div><strong>Attracts:</strong> Butterflies, Bees</div>
+        <div><strong>Nectar Source:</strong> yes</div>
+        <div><strong>Deer Resistant:</strong> Medium</div>
     </div>
+    
     </body></html>
     """
 }
@@ -233,32 +279,69 @@ class PlantDataParser(HTMLParser):
         """Extract height range from HTML."""
         height_text = self.extract_text(html_content, r'<[^>]*(?:height|tall)[^>]*>([^<]+)')
         if not height_text:
+            # Try pattern with <strong> tags
+            height_text = self.extract_text(html_content, r'<strong>(?:Height|Size Notes?):</strong>\s*([^<]+)')
+        if not height_text:
+            # Try to find height in size notes
+            height_text = self.extract_text(html_content, r'Size Notes?:\s*([^<]+)')
+        if not height_text:
+            # Try to find height in general description (e.g., "1 1/2-2 ft. perennial")
+            height_text = self.extract_text(html_content, r'(\d+(?:\s*\d+/\d+)?[-–]\d+(?:\s*\d+/\d+)?\s*(?:ft|feet|in|inches)\.?\s+(?:tall|perennial|annual|biennial))')
+        if not height_text:
             return None
         
-        # Try to parse range like "12-36 inches" or "1-3 feet"
-        range_match = re.search(r'(\d+)[-–](\d+)\s*(inches?|feet?|ft|in)', height_text, re.IGNORECASE)
+        # Try to parse range like "12-36 inches" or "1-3 feet" or "1 1/2-2 ft"
+        range_match = re.search(r'(\d+(?:\s*\d+/\d+)?)\s*[-–]\s*(\d+(?:\s*\d+/\d+)?)\s*(inches?|feet?|ft|in|cm)', height_text, re.IGNORECASE)
         if range_match:
-            min_val = int(range_match.group(1))
-            max_val = int(range_match.group(2))
+            min_str = range_match.group(1).strip()
+            max_str = range_match.group(2).strip()
             unit = range_match.group(3).lower()
+            
+            # Parse fractional values like "1 1/2"
+            def parse_fractional(s):
+                parts = s.split()
+                if len(parts) == 2 and '/' in parts[1]:
+                    whole = int(parts[0])
+                    frac_parts = parts[1].split('/')
+                    return whole + int(frac_parts[0]) / int(frac_parts[1])
+                return float(s)
+            
+            min_val = parse_fractional(min_str)
+            max_val = parse_fractional(max_str)
             
             # Normalize to inches
             if 'feet' in unit or unit == 'ft':
                 min_val *= 12
                 max_val *= 12
+            elif 'cm' in unit:
+                min_val /= 2.54
+                max_val /= 2.54
             
-            return {'min': min_val, 'max': max_val, 'unit': 'inches'}
+            return {'min': int(min_val), 'max': int(max_val), 'unit': 'inches'}
         
         # Try single value like "24 inches"
-        single_match = re.search(r'(\d+)\s*(inches?|feet?|ft|in)', height_text, re.IGNORECASE)
+        single_match = re.search(r'(\d+(?:\s*\d+/\d+)?)\s*(inches?|feet?|ft|in|cm)', height_text, re.IGNORECASE)
         if single_match:
-            val = int(single_match.group(1))
+            val_str = single_match.group(1).strip()
             unit = single_match.group(2).lower()
+            
+            # Parse fractional values
+            def parse_fractional(s):
+                parts = s.split()
+                if len(parts) == 2 and '/' in parts[1]:
+                    whole = int(parts[0])
+                    frac_parts = parts[1].split('/')
+                    return whole + int(frac_parts[0]) / int(frac_parts[1])
+                return float(s)
+            
+            val = parse_fractional(val_str)
             
             if 'feet' in unit or unit == 'ft':
                 val *= 12
+            elif 'cm' in unit:
+                val /= 2.54
             
-            return {'min': val, 'max': val, 'unit': 'inches'}
+            return {'min': int(val), 'max': int(val), 'unit': 'inches'}
         
         return None
     
@@ -387,22 +470,69 @@ class PlantDataParser(HTMLParser):
             'wisconsin': 'WI', 'wyoming': 'WY'
         }
         
-        # Look for US state names
+        state_codes = set()
+        
+        # Method 1: Look for two-letter state codes in comma-separated list
+        # Pattern: "USA: AL, AR, AZ, CA, CO, ..." or just "AL, AR, AZ, ..."
+        code_pattern = r'\b([A-Z]{2})\b'
+        codes_found = re.findall(code_pattern, html_content)
+        for code in codes_found:
+            # Verify it's a valid state code
+            if code in state_to_code.values() or code in ['DC']:  # Include DC
+                state_codes.add(code)
+        
+        # Method 2: Look for full state names
         states_pattern = r'(?:Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming)'
         
         states = re.findall(states_pattern, html_content, re.IGNORECASE)
         if states:
             # Convert state names to two-letter codes
-            state_codes = []
             for state in states:
                 state_lower = state.lower()
                 if state_lower in state_to_code:
-                    state_codes.append(state_to_code[state_lower])
-            
-            # Return unique state codes, sorted alphabetically
-            return sorted(list(set(state_codes))) if state_codes else None
+                    state_codes.add(state_to_code[state_lower])
         
-        return None
+        # Return unique state codes, sorted alphabetically
+        return sorted(list(state_codes)) if state_codes else None
+    
+    def extract_canada_range(self, html_content):
+        """Extract Canada province/territory codes."""
+        # Mapping of province names to two-letter codes
+        province_to_code = {
+            'alberta': 'AB', 'british columbia': 'BC', 'manitoba': 'MB',
+            'new brunswick': 'NB', 'newfoundland': 'NL', 'newfoundland and labrador': 'NL',
+            'northwest territories': 'NT', 'nova scotia': 'NS', 'nunavut': 'NU',
+            'ontario': 'ON', 'prince edward island': 'PE', 'quebec': 'QC',
+            'saskatchewan': 'SK', 'yukon': 'YT'
+        }
+        
+        province_codes = set()
+        
+        # Method 1: Look for two-letter province codes in comma-separated list
+        # Pattern: "Canada: NL, ON, QC" or "<strong>Canada:</strong> NL, ON, QC"
+        # Match everything after "Canada" until the next </div> or end of line
+        canada_section = re.search(r'Canada[^>]*>?\s*([A-Z,\s]+?)(?:</div>|$)', html_content, re.IGNORECASE | re.MULTILINE)
+        if canada_section:
+            code_pattern = r'\b([A-Z]{2})\b'
+            codes_found = re.findall(code_pattern, canada_section.group(1))
+            for code in codes_found:
+                # Verify it's a valid province code
+                if code in province_to_code.values():
+                    province_codes.add(code)
+        
+        # Method 2: Look for full province names
+        provinces_pattern = r'(?:Alberta|British Columbia|Manitoba|New Brunswick|Newfoundland and Labrador|Newfoundland|Northwest Territories|Nova Scotia|Nunavut|Ontario|Prince Edward Island|Quebec|Saskatchewan|Yukon)'
+        
+        provinces = re.findall(provinces_pattern, html_content, re.IGNORECASE)
+        if provinces:
+            # Convert province names to two-letter codes
+            for province in provinces:
+                province_lower = province.lower()
+                if province_lower in province_to_code:
+                    province_codes.add(province_to_code[province_lower])
+        
+        # Return unique province codes, sorted alphabetically
+        return sorted(list(province_codes)) if province_codes else None
     
     def extract_wildlife_value(self, html_content):
         """Extract wildlife and pollinator information."""
@@ -453,21 +583,41 @@ class PlantDataParser(HTMLParser):
         data = {}
         
         # Basic Identification
-        sci_name = self.extract_text(html_content, r'<[^>]*(?:scientific[- ]?name|binomial)[^>]*>([^<]+)')
+        # Try multiple patterns for scientific name
+        sci_name = self.extract_text(html_content, r'<h1[^>]*>([^<]+(?:L\.|Mill\.|DC\.|Nutt\.|Torr\.|Gray)?)</h1>')
+        if not sci_name:
+            sci_name = self.extract_text(html_content, r'<[^>]*(?:scientific[- ]?name|binomial)[^>]*>([^<]+)')
         if sci_name:
+            # Clean up scientific name (remove extra whitespace, trailing periods)
+            sci_name = re.sub(r'\s+', ' ', sci_name).strip()
             data['scientificName'] = sci_name
         
-        common_name = self.extract_text(html_content, r'<[^>]*common[- ]?name[^>]*>([^<]+)')
+        # Try multiple patterns for common name
+        common_name = self.extract_text(html_content, r'<h2[^>]*>([^<]+)</h2>')
+        if not common_name:
+            common_name = self.extract_text(html_content, r'<[^>]*common[- ]?name[^>]*>([^<]+)')
         if common_name:
+            # Clean up common name
+            common_name = re.sub(r'\s+', ' ', common_name).strip()
             data['commonName'] = common_name
         
-        family = self.extract_text(html_content, r'<[^>]*family[^>]*>([^<]+)')
+        # Try multiple patterns for family
+        family = self.extract_text(html_content, r'<[^>]*(?:plant-)?family[^>]*>\s*<strong>([^<]+)</strong>')
+        if not family:
+            family = self.extract_text(html_content, r'<[^>]*family[^>]*>([^<]+)')
         if family:
+            # Clean up family name
+            family = re.sub(r'\s+', ' ', family).strip()
             data['family'] = family
         
-        # Description
-        description = self.extract_text(html_content, r'<[^>]*description[^>]*>([^<]+)')
+        # Description - look for paragraph tags or description divs
+        description = self.extract_text(html_content, r'<p[^>]*>([^<]+(?:<[^>]+>[^<]+)*)</p>')
+        if not description:
+            description = self.extract_text(html_content, r'<[^>]*description[^>]*>([^<]+)')
         if description:
+            # Clean up description (remove HTML tags, normalize whitespace)
+            description = re.sub(r'<[^>]+>', '', description)
+            description = re.sub(r'\s+', ' ', description).strip()
             data['description'] = description
         
         # Physical Characteristics
@@ -482,6 +632,11 @@ class PlantDataParser(HTMLParser):
             characteristics['spread'] = spread
         
         bloom_colors_raw = self.extract_list(html_content, r'<[^>]*bloom[- ]?color[^>]*>([^<]+)')
+        if not bloom_colors_raw:
+            # Try with <strong> tag pattern
+            bloom_colors_text = self.extract_text(html_content, r'<strong>Bloom Color:</strong>\s*([^<]+)')
+            if bloom_colors_text:
+                bloom_colors_raw = [bloom_colors_text]
         if bloom_colors_raw:
             # Clean up extracted colors by removing label text
             bloom_colors = []
@@ -489,11 +644,18 @@ class PlantDataParser(HTMLParser):
                 # Remove common prefixes like "Bloom Color:"
                 cleaned = re.sub(r'^bloom\s*color\s*:\s*', '', color, flags=re.IGNORECASE).strip()
                 if cleaned:
-                    bloom_colors.append(cleaned)
+                    # Split by comma to handle multiple colors
+                    colors_list = [c.strip() for c in cleaned.split(',')]
+                    bloom_colors.extend(colors_list)
             if bloom_colors:
                 characteristics['bloomColor'] = bloom_colors
         
         bloom_time_raw = self.extract_list(html_content, r'<[^>]*bloom[- ]?time[^>]*>([^<]+)')
+        if not bloom_time_raw:
+            # Try with <strong> tag pattern
+            bloom_time_text = self.extract_text(html_content, r'<strong>Bloom Time:</strong>\s*([^<]+)')
+            if bloom_time_text:
+                bloom_time_raw = [bloom_time_text]
         if bloom_time_raw:
             # Clean up extracted bloom times by removing label text
             bloom_time = []
@@ -501,7 +663,9 @@ class PlantDataParser(HTMLParser):
                 # Remove common prefixes like "Bloom Time:"
                 cleaned = re.sub(r'^bloom\s*time\s*:\s*', '', time, flags=re.IGNORECASE).strip()
                 if cleaned:
-                    bloom_time.append(cleaned)
+                    # Split by comma to handle "May, Jun, Jul, Aug, Sep" format
+                    months_or_seasons = [t.strip() for t in cleaned.split(',')]
+                    bloom_time.extend(months_or_seasons)
             if bloom_time:
                 characteristics['bloomPeriod'] = bloom_time
         
@@ -546,6 +710,10 @@ class PlantDataParser(HTMLParser):
         usa_states = self.extract_native_range(html_content)
         if usa_states:
             distribution['usaStates'] = usa_states
+        
+        canada_provinces = self.extract_canada_range(html_content)
+        if canada_provinces:
+            distribution['canadaProvinces'] = canada_provinces
         
         if distribution:
             data['distribution'] = distribution

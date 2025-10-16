@@ -1,22 +1,17 @@
 {
   "source_url": "/plant.php?id=asclepias-tuberosa",
-  "scraped_at": "2025-10-16T19:18:53.397683",
+  "scraped_at": "2025-10-16T20:34:39.262289",
   "scraper_version": "2.0.0",
-  "raw_html": "\n    <html><body>\n    <h1 class=\"scientific-name\">Asclepias tuberosa</h1>\n    <h2 class=\"common-name\">Butterfly Weed</h2>\n    <div class=\"family\">Family: Apocynaceae (Dogbane family)</div>\n    <div class=\"description\">A vibrant orange wildflower that attracts butterflies. \n    This showy perennial is native to eastern North America and is an important \n    host plant for Monarch butterflies. The clusters of bright orange to yellow \n    flowers bloom throughout the summer, providing nectar for many pollinators.</div>\n    \n    <div class=\"characteristics\">\n        <div class=\"height\">Height: 12-36 inches</div>\n        <div class=\"spread\">Spread: 12-18 inches</div>\n        <div class=\"bloom-color\">Bloom Color: Orange, Yellow</div>\n        <div class=\"bloom-time\">Bloom Time: Summer, Early Fall</div>\n        <div class=\"lifespan\">Perennial</div>\n    </div>\n    \n    <div class=\"growing-requirements\">\n        <div class=\"light\">Light: Full sun to partial sun</div>\n        <div class=\"moisture\">Moisture: Dry to medium, drought tolerant</div>\n        <div class=\"soil\">Soil: Sandy, loam, rocky - well-drained</div>\n        <div class=\"zones\">Hardiness Zones: 3-9</div>\n    </div>\n    \n    <div class=\"distribution\">\n        <div class=\"native-range\">Native to: Eastern US, Texas, Oklahoma, Kansas, Nebraska</div>\n        <div class=\"habitat\">Natural Habitat: Prairies, open woodlands, roadsides</div>\n    </div>\n    \n    <div class=\"wildlife\">\n        <div class=\"pollinators\">Attracts: Butterflies, bees, hummingbirds</div>\n        <div class=\"host-plant\">Host Plant: Monarch Butterfly larvae</div>\n        <div class=\"food\">Food Source: Birds eat seeds</div>\n    </div>\n    \n    <div class=\"landscape-use\">\n        <div class=\"uses\">Suitable for: Pollinator garden, xeriscaping, native garden, \n        rain garden, Monarch conservation</div>\n        <div class=\"drought\">Excellent drought tolerance once established</div>\n    </div>\n    </body></html>\n    ",
+  "raw_html": "\n    <html><body>\n    <h1>Asclepias tuberosa L.</h1>\n    <h2>Butterflyweed, Butterfly Weed, Butterfly Milkweed, Orange Milkweed, Pleurisy Root</h2>\n    \n    <div class=\"plant-family\">\n        <strong>Asclepiadaceae (Milkweed Family)</strong>\n    </div>\n    \n    <p>This bushy, 1 1/2-2 ft. perennial is prized for its large, flat-topped clusters of bright-orange flowers. \n    The leaves are mostly alternate, 1 1/2-2 1/4 inches long, pointed, and smooth on the edge. \n    The yellow-orange to bright orange flower clusters, 2-5 inches across, are at the top of the flowering stem. \n    The abundance of stiff, lance-shaped foliage provides a dark-green backdrop for the showy flower heads.</p>\n    \n    <h3>Plant Characteristics</h3>\n    <div class=\"plant-characteristics\">\n        <div><strong>Duration:</strong> Perennial</div>\n        <div><strong>Habit:</strong> Herb</div>\n        <div><strong>Leaf Retention:</strong> Deciduous</div>\n        <div><strong>Leaf Arrangement:</strong> Alternate</div>\n        <div><strong>Leaf Shape:</strong> Lanceolate, Linear, Oblong</div>\n        <div><strong>Fruit Type:</strong> Follicle</div>\n        <div><strong>Size Notes:</strong> 1-2 ft (30-60 cm).</div>\n    </div>\n    \n    <h3>Bloom Information</h3>\n    <div class=\"bloom-info\">\n        <div><strong>Bloom Color:</strong> Orange, Yellow</div>\n        <div><strong>Bloom Time:</strong> May, Jun, Jul, Aug, Sep</div>\n    </div>\n    \n    <h3>Distribution</h3>\n    <div class=\"distribution\">\n        <div><strong>USA:</strong> AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV</div>\n        <div><strong>Canada:</strong> NL, ON, QC</div>\n        <div><strong>Native Distribution:</strong> Ontario to Newfoundland; New England south to Florida; west to Texas; north through Colorado to Minnesota.</div>\n        <div><strong>Native Habitat:</strong> Grows in prairies, open woods, canyons,",
   "plant_data": {
-    "scientificName": "Asclepias tuberosa",
-    "commonName": "Butterfly Weed",
-    "family": "Family: Apocynaceae (Dogbane family)",
-    "description": "A vibrant orange wildflower that attracts butterflies. \n    This showy perennial is native to eastern North America and is an important \n    host plant for Monarch butterflies. The clusters of bright orange to yellow \n    flowers bloom throughout the summer, providing nectar for many pollinators.",
+    "scientificName": "Asclepias tuberosa L.",
+    "commonName": "Butterflyweed, Butterfly Weed, Butterfly Milkweed, Orange Milkweed, Pleurisy Root",
+    "family": "Asclepiadaceae (Milkweed Family)",
+    "description": "This bushy, 1 1/2-2 ft. perennial is prized for its large, flat-topped clusters of bright-orange flowers. The leaves are mostly alternate, 1 1/2-2 1/4 inches long, pointed, and smooth on the edge. The yellow-orange to bright orange flower clusters, 2-5 inches across, are at the top of the flowering stem. The abundance of stiff, lance-shaped foliage provides a dark-green backdrop for the showy flower heads.",
     "characteristics": {
       "height": {
         "min": 12,
-        "max": 36,
-        "unit": "inches"
-      },
-      "spread": {
-        "min": 12,
-        "max": 18,
+        "max": 24,
         "unit": "inches"
       },
       "bloomColor": [
@@ -24,64 +19,86 @@
         "Yellow"
       ],
       "bloomPeriod": [
-        "Summer",
-        "Early Fall"
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep"
       ],
       "lifespan": "perennial"
     },
     "requirements": {
-      "light": {
-        "full_sun": true,
-        "partial_sun": true
-      },
       "moisture": {
         "dry": true,
-        "droughtTolerant": true
+        "moist": true
       },
       "soil": {
         "types": [
           "sand",
           "loam",
-          "rocky"
-        ]
-      },
-      "hardiness": {
-        "zones": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7",
-          "8",
-          "9"
+          "clay",
+          "limestone"
         ]
       }
     },
     "distribution": {
       "usaStates": [
+        "AL",
+        "AR",
+        "AZ",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "DE",
+        "FL",
+        "GA",
+        "IA",
+        "IL",
+        "IN",
         "KS",
+        "KY",
+        "LA",
+        "MA",
+        "MD",
+        "ME",
+        "MI",
+        "MN",
+        "MO",
+        "MS",
+        "NC",
         "NE",
+        "NH",
+        "NJ",
+        "NM",
+        "NY",
+        "OH",
         "OK",
-        "TX"
+        "PA",
+        "RI",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "UT",
+        "VA",
+        "VT",
+        "WI",
+        "WV"
+      ],
+      "canadaProvinces": [
+        "NL",
+        "ON",
+        "QC"
       ]
     },
     "ecology": {
       "pollinators": [
-        "bees",
         "butterflies",
         "hummingbirds"
       ],
       "hostPlantFor": [
         "Monarch Butterfly"
-      ],
-      "foodFor": [
-        "birds"
-      ],
-      "suitableFor": [
-        "pollinator garden",
-        "rain garden",
-        "xeriscaping",
-        "native garden"
       ]
     }
   }

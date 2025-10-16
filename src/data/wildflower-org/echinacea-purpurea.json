@@ -1,59 +1,41 @@
 {
   "source_url": "/plant.php?id=echinacea-purpurea",
-  "scraped_at": "2025-10-16T19:18:53.900143",
+  "scraped_at": "2025-10-16T20:34:39.766269",
   "scraper_version": "2.0.0",
-  "raw_html": "\n    <html><body>\n    <h1 class=\"scientific-name\">Echinacea purpurea</h1>\n    <h2 class=\"common-name\">Purple Coneflower</h2>\n    <div class=\"family\">Family: Asteraceae (Sunflower family)</div>\n    <div class=\"description\">A popular native prairie plant with purple petals and \n    prominent cone-shaped centers. This robust perennial is prized for its medicinal \n    properties and ornamental value. The flowers attract numerous pollinators and \n    the seed heads provide winter food for birds.</div>\n    \n    <div class=\"characteristics\">\n        <div class=\"height\">Height: 24-48 inches</div>\n        <div class=\"spread\">Spread: 18-24 inches</div>\n        <div class=\"bloom-color\">Bloom Color: Purple, Pink, White</div>\n        <div class=\"bloom-time\">Bloom Time: Summer, Fall</div>\n        <div class=\"lifespan\">Perennial</div>\n    </div>\n    \n    <div class=\"growing-requirements\">\n        <div class=\"light\">Light: Full sun to partial shade</div>\n        <div class=\"moisture\">Moisture: Medium to dry, drought tolerant</div>\n        <div class=\"soil\">Soil: Loam, clay, sandy - adaptable</div>\n        <div class=\"zones\">Hardiness Zones: 3-8</div>\n    </div>\n    \n    <div class=\"distribution\">\n        <div class=\"native-range\">Native to: Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, Missouri, Kentucky, Tennessee, Alabama, Mississippi, Arkansas, Louisiana</div>\n        <div class=\"habitat\">Natural Habitat: Prairies, open woodlands</div>\n    </div>\n    \n    <div class=\"wildlife\">\n        <div class=\"pollinators\">Attracts: Butterflies, bees, moths</div>\n        <div class=\"food\">Food Source: Birds (goldfinches love the seeds)</div>\n    </div>\n    \n    <div class=\"landscape-use\">\n        <div class=\"uses\">Suitable for: Pollinator garden, native garden, prairie resto",
+  "raw_html": "\n    <html><body>\n    <h1>Echinacea purpurea (L.) Moench</h1>\n    <h2>Purple Coneflower, Eastern Purple Coneflower</h2>\n    \n    <div class=\"plant-family\">\n        <strong>Asteraceae (Aster, Sunflower or Composite Family)</strong>\n    </div>\n    \n    <p>A popular native prairie plant with purple petals and prominent cone-shaped centers. \n    This robust perennial is prized for its medicinal properties and ornamental value. \n    The flowers attract numerous pollinators and the seed heads provide winter food for birds. \n    Plants typically reach 2-4 feet tall with a spread of 1.5-2 feet.</p>\n    \n    <h3>Plant Characteristics</h3>\n    <div class=\"plant-characteristics\">\n        <div><strong>Duration:</strong> Perennial</div>\n        <div><strong>Habit:</strong> Herb</div>\n        <div><strong>Leaf Retention:</strong> Deciduous</div>\n        <div><strong>Leaf Arrangement:</strong> Alternate</div>\n        <div><strong>Leaf Shape:</strong> Lanceolate, Ovate</div>\n        <div><strong>Size Notes:</strong> 2-4 ft (60-120 cm).</div>\n    </div>\n    \n    <h3>Bloom Information</h3>\n    <div class=\"bloom-info\">\n        <div><strong>Bloom Color:</strong> Purple, Pink</div>\n        <div><strong>Bloom Time:</strong> Jun, Jul, Aug, Sep</div>\n    </div>\n    \n    <h3>Distribution</h3>\n    <div class=\"distribution\">\n        <div><strong>USA:</strong> AL, AR, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, VA, VT, WI, WV</div>\n        <div><strong>Native Distribution:</strong> Maine to Michigan south to Georgia and Louisiana.</div>\n        <div><strong>Native Habitat:</strong> Found in prairies, open woodlands, and along roadsides. Grows in well-drained loamy or rocky soil.</div>\n    </div>\n    \n    <h3>Growing Conditions</h3>\n    <div class=\"growing-conditions\">\n        <div><strong>Water Use:</strong> Low to Medium</div>\n        <div><strong>Light Requirement:</strong> Sun</div>\n        <div><strong>Soil Moisture:</strong> ",
   "plant_data": {
-    "scientificName": "Echinacea purpurea",
-    "commonName": "Purple Coneflower",
-    "family": "Family: Asteraceae (Sunflower family)",
-    "description": "A popular native prairie plant with purple petals and \n    prominent cone-shaped centers. This robust perennial is prized for its medicinal \n    properties and ornamental value. The flowers attract numerous pollinators and \n    the seed heads provide winter food for birds.",
+    "scientificName": "Echinacea purpurea (L.) Moench",
+    "commonName": "Purple Coneflower, Eastern Purple Coneflower",
+    "family": "Asteraceae (Aster, Sunflower or Composite Family)",
+    "description": "A popular native prairie plant with purple petals and prominent cone-shaped centers. This robust perennial is prized for its medicinal properties and ornamental value. The flowers attract numerous pollinators and the seed heads provide winter food for birds. Plants typically reach 2-4 feet tall with a spread of 1.5-2 feet.",
     "characteristics": {
       "height": {
         "min": 24,
         "max": 48,
         "unit": "inches"
       },
-      "spread": {
-        "min": 18,
-        "max": 24,
-        "unit": "inches"
-      },
       "bloomColor": [
         "Purple",
-        "Pink",
-        "White"
+        "Pink"
       ],
       "bloomPeriod": [
-        "Summer",
-        "Fall"
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep"
       ],
       "lifespan": "perennial"
     },
     "requirements": {
-      "light": {
-        "full_sun": true,
-        "partial_shade": true
-      },
       "moisture": {
-        "dry": true,
-        "droughtTolerant": true
+        "dry": true
       },
       "soil": {
         "types": [
           "sand",
           "loam",
-          "clay"
-        ]
-      },
-      "hardiness": {
-        "zones": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7",
-          "8"
+          "clay",
+          "rocky"
         ]
       }
     },
@@ -68,6 +50,7 @@
         "IA",
         "IL",
         "IN",
+        "KS",
         "KY",
         "LA",
         "MA",
@@ -78,10 +61,12 @@
         "MO",
         "MS",
         "NC",
+        "NE",
         "NH",
         "NJ",
         "NY",
         "OH",
+        "OK",
         "PA",
         "RI",
         "SC",
@@ -95,15 +80,7 @@
     "ecology": {
       "pollinators": [
         "bees",
-        "butterflies",
-        "moths"
-      ],
-      "foodFor": [
-        "birds"
-      ],
-      "suitableFor": [
-        "pollinator garden",
-        "native garden"
+        "butterflies"
       ]
     }
   }
