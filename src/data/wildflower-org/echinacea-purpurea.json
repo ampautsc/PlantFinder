@@ -1,10 +1,75 @@
 {
   "source_url": "/plant.php?id=echinacea-purpurea",
-  "scraped_at": "2025-10-16T16:44:47.661987",
+  "scraped_at": "2025-10-16T17:36:42.141944",
+  "scraper_version": "2.0.0",
+  "raw_html": "\n    <html><body>\n    <h1 class=\"scientific-name\">Echinacea purpurea</h1>\n    <h2 class=\"common-name\">Purple Coneflower</h2>\n    <div class=\"family\">Family: Asteraceae (Sunflower family)</div>\n    <div class=\"description\">A popular native prairie plant with purple petals and \n    prominent cone-shaped centers. This robust perennial is prized for its medicinal \n    properties and ornamental value. The flowers attract numerous pollinators and \n    the seed heads provide winter food for birds.</div>\n    \n    <div class=\"characteristics\">\n        <div class=\"height\">Height: 24-48 inches</div>\n        <div class=\"bloom-color\">Bloom Color: Purple, Pink, White</div>\n        <div class=\"bloom-time\">Bloom Time: Summer, Fall</div>\n        <div class=\"lifespan\">Perennial</div>\n    </div>\n    \n    <div class=\"growing-requirements\">\n        <div class=\"light\">Light: Full sun to partial shade</div>\n        <div class=\"moisture\">Moisture: Medium to dry, drought tolerant</div>\n        <div class=\"soil\">Soil: Loam, clay, sandy - adaptable</div>\n        <div class=\"zones\">Hardiness Zones: 3-8</div>\n    </div>\n    \n    <div class=\"distribution\">\n        <div class=\"native-range\">Native to: Eastern and Central United States</div>\n        <div class=\"habitat\">Natural Habitat: Prairies, open woodlands</div>\n    </div>\n    \n    <div class=\"wildlife\">\n        <div class=\"pollinators\">Attracts: Butterflies, bees, moths</div>\n        <div class=\"food\">Food Source: Birds (goldfinches love the seeds)</div>\n    </div>\n    \n    <div class=\"landscape-use\">\n        <div class=\"uses\">Suitable for: Pollinator garden, native garden, prairie restoration, \n        cottage garden, medicinal garden</div>\n    </div>\n    </body></html>\n    ",
   "plant_data": {
-    "raw_html": "\n    <html><body>\n    <h1 class=\"scientific-name\">Echinacea purpurea</h1>\n    <h2 class=\"common-name\">Purple Coneflower</h2>\n    <div class=\"description\">A popular native prairie plant with purple petals.</div>\n    <div class=\"characteristics\">\n        <span class=\"height\">24-48 inches</span>\n        <span class=\"bloom-color\">Purple, Pink</span>\n        <span class=\"bloom-time\">Summer, Fall</span>\n    </div>\n    </body></html>\n    ",
-    "extracted_at": "2025-10-16T16:44:47.661947",
     "scientificName": "Echinacea purpurea",
-    "commonName": "Purple Coneflower"
+    "commonName": "Purple Coneflower",
+    "family": "Family: Asteraceae (Sunflower family)",
+    "description": "A popular native prairie plant with purple petals and \n    prominent cone-shaped centers. This robust perennial is prized for its medicinal \n    properties and ornamental value. The flowers attract numerous pollinators and \n    the seed heads provide winter food for birds.",
+    "characteristics": {
+      "height": {
+        "min": 24,
+        "max": 48,
+        "unit": "inches"
+      },
+      "bloomColor": [
+        "Purple",
+        "Pink",
+        "White"
+      ],
+      "bloomPeriod": [
+        "Summer",
+        "Fall"
+      ],
+      "lifespan": "perennial"
+    },
+    "requirements": {
+      "light": {
+        "full_sun": true,
+        "partial_shade": true
+      },
+      "moisture": {
+        "dry": true,
+        "droughtTolerant": true
+      },
+      "soil": {
+        "types": [
+          "sand",
+          "loam",
+          "clay"
+        ]
+      },
+      "hardiness": {
+        "zones": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      }
+    },
+    "distribution": {
+      "nativeRange": [
+        "Midwest"
+      ]
+    },
+    "ecology": {
+      "pollinators": [
+        "bees",
+        "butterflies",
+        "moths"
+      ],
+      "foodFor": [
+        "birds"
+      ],
+      "suitableFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    }
   }
 }

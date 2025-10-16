@@ -1,10 +1,83 @@
 {
   "source_url": "/plant.php?id=asclepias-tuberosa",
-  "scraped_at": "2025-10-16T16:44:47.161600",
+  "scraped_at": "2025-10-16T17:36:41.639189",
+  "scraper_version": "2.0.0",
+  "raw_html": "\n    <html><body>\n    <h1 class=\"scientific-name\">Asclepias tuberosa</h1>\n    <h2 class=\"common-name\">Butterfly Weed</h2>\n    <div class=\"family\">Family: Apocynaceae (Dogbane family)</div>\n    <div class=\"description\">A vibrant orange wildflower that attracts butterflies. \n    This showy perennial is native to eastern North America and is an important \n    host plant for Monarch butterflies. The clusters of bright orange to yellow \n    flowers bloom throughout the summer, providing nectar for many pollinators.</div>\n    \n    <div class=\"characteristics\">\n        <div class=\"height\">Height: 12-36 inches</div>\n        <div class=\"bloom-color\">Bloom Color: Orange, Yellow</div>\n        <div class=\"bloom-time\">Bloom Time: Summer, Early Fall</div>\n        <div class=\"lifespan\">Perennial</div>\n    </div>\n    \n    <div class=\"growing-requirements\">\n        <div class=\"light\">Light: Full sun to partial sun</div>\n        <div class=\"moisture\">Moisture: Dry to medium, drought tolerant</div>\n        <div class=\"soil\">Soil: Sandy, loam, rocky - well-drained</div>\n        <div class=\"zones\">Hardiness Zones: 3-9</div>\n    </div>\n    \n    <div class=\"distribution\">\n        <div class=\"native-range\">Native to: Eastern US, Texas, Oklahoma, Kansas, Nebraska</div>\n        <div class=\"habitat\">Natural Habitat: Prairies, open woodlands, roadsides</div>\n    </div>\n    \n    <div class=\"wildlife\">\n        <div class=\"pollinators\">Attracts: Butterflies, bees, hummingbirds</div>\n        <div class=\"host-plant\">Host Plant: Monarch Butterfly larvae</div>\n        <div class=\"food\">Food Source: Birds eat seeds</div>\n    </div>\n    \n    <div class=\"landscape-use\">\n        <div class=\"uses\">Suitable for: Pollinator garden, xeriscaping, native garden, \n        rain garden, Monarch conservation</div>\n        <div class=\"drought\">Excellent drought tolerance once established</div>\n    </div>\n    </body></html>\n    ",
   "plant_data": {
-    "raw_html": "\n    <html><body>\n    <h1 class=\"scientific-name\">Asclepias tuberosa</h1>\n    <h2 class=\"common-name\">Butterfly Weed</h2>\n    <div class=\"description\">A vibrant orange wildflower that attracts butterflies.</div>\n    <div class=\"characteristics\">\n        <span class=\"height\">24-36 inches</span>\n        <span class=\"bloom-color\">Orange, Yellow</span>\n        <span class=\"bloom-time\">Summer</span>\n    </div>\n    </body></html>\n    ",
-    "extracted_at": "2025-10-16T16:44:47.161429",
     "scientificName": "Asclepias tuberosa",
-    "commonName": "Butterfly Weed"
+    "commonName": "Butterfly Weed",
+    "family": "Family: Apocynaceae (Dogbane family)",
+    "description": "A vibrant orange wildflower that attracts butterflies. \n    This showy perennial is native to eastern North America and is an important \n    host plant for Monarch butterflies. The clusters of bright orange to yellow \n    flowers bloom throughout the summer, providing nectar for many pollinators.",
+    "characteristics": {
+      "height": {
+        "min": 12,
+        "max": 36,
+        "unit": "inches"
+      },
+      "bloomColor": [
+        "Orange",
+        "Yellow"
+      ],
+      "bloomPeriod": [
+        "Summer",
+        "Early Fall"
+      ],
+      "lifespan": "perennial"
+    },
+    "requirements": {
+      "light": {
+        "full_sun": true,
+        "partial_sun": true
+      },
+      "moisture": {
+        "dry": true,
+        "droughtTolerant": true
+      },
+      "soil": {
+        "types": [
+          "sand",
+          "loam",
+          "rocky"
+        ]
+      },
+      "hardiness": {
+        "zones": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9"
+        ]
+      }
+    },
+    "distribution": {
+      "nativeRange": [
+        "Nebraska",
+        "Kansas",
+        "Oklahoma",
+        "Texas"
+      ]
+    },
+    "ecology": {
+      "pollinators": [
+        "bees",
+        "butterflies",
+        "hummingbirds"
+      ],
+      "hostPlantFor": [
+        "Monarch Butterfly"
+      ],
+      "foodFor": [
+        "birds"
+      ],
+      "suitableFor": [
+        "pollinator garden",
+        "rain garden",
+        "xeriscaping",
+        "native garden"
+      ]
+    }
   }
 }
