@@ -1,0 +1,45 @@
+{
+  "id": "vaccinium-myrtilloides",
+  "commonName": "Velvetleaf Huckleberry",
+  "scientificName": "Vaccinium myrtilloides",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "partial-shade",
+    "moisture": "moist",
+    "soil": "acidic"
+  },
+  "characteristics": {
+    "height": 24,
+    "width": 24,
+    "bloomColor": [
+      "white",
+      "pink"
+    ],
+    "bloomTime": [
+      "spring",
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "birds",
+      "bees"
+    ],
+    "usefulFor": [
+      "native garden",
+      "wildlife habitat"
+    ]
+  }
+}

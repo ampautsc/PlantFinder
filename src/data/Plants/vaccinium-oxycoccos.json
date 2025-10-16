@@ -1,0 +1,46 @@
+{
+  "id": "vaccinium-oxycoccos",
+  "commonName": "Small Cranberry",
+  "scientificName": "Vaccinium oxycoccos",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "wet",
+    "soil": "acidic"
+  },
+  "characteristics": {
+    "height": 6,
+    "width": 18,
+    "bloomColor": [
+      "pink",
+      "white"
+    ],
+    "bloomTime": [
+      "spring",
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "birds",
+      "bees"
+    ],
+    "usefulFor": [
+      "native garden",
+      "wildlife habitat",
+      "wetland"
+    ]
+  }
+}

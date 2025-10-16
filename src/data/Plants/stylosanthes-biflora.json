@@ -1,0 +1,44 @@
+{
+  "id": "stylosanthes-biflora",
+  "commonName": "Sidebeak Pencilflower",
+  "scientificName": "Stylosanthes biflora",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "dry",
+    "soil": "sandy"
+  },
+  "characteristics": {
+    "height": 18,
+    "width": 18,
+    "bloomColor": [
+      "yellow",
+      "orange"
+    ],
+    "bloomTime": [
+      "summer",
+      "fall"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "butterflies",
+      "bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  }
+}

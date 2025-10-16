@@ -1,0 +1,45 @@
+{
+  "id": "zizania-aquatica",
+  "commonName": "Annual Wildrice",
+  "scientificName": "Zizania aquatica",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "wet",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 120,
+    "width": 48,
+    "bloomColor": [
+      "green"
+    ],
+    "bloomTime": [
+      "summer"
+    ],
+    "perennial": false,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "birds"
+    ],
+    "usefulFor": [
+      "native garden",
+      "wildlife habitat",
+      "wetland"
+    ]
+  }
+}

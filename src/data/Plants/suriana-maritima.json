@@ -1,0 +1,41 @@
+{
+  "id": "suriana-maritima",
+  "commonName": "Bay Cedar",
+  "scientificName": "Suriana maritima",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "dry",
+    "soil": "sandy"
+  },
+  "characteristics": {
+    "height": 72,
+    "width": 72,
+    "bloomColor": [
+      "yellow"
+    ],
+    "bloomTime": [
+      "spring",
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "10",
+      "11"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "butterflies",
+      "bees"
+    ],
+    "usefulFor": [
+      "native garden",
+      "coastal garden"
+    ]
+  }
+}

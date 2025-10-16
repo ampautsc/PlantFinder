@@ -1,0 +1,43 @@
+{
+  "id": "stenandrium-barbatum",
+  "commonName": "Early Shaggytuft",
+  "scientificName": "Stenandrium barbatum",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "partial-shade",
+    "moisture": "dry",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 6,
+    "width": 12,
+    "bloomColor": [
+      "purple"
+    ],
+    "bloomTime": [
+      "spring",
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "butterflies",
+      "bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  }
+}

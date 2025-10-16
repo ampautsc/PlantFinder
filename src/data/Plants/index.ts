@@ -414,24 +414,71 @@ import SolidagoSpeciosaData from './solidago-speciosa.json';
 import SorghastrumNutansData from './sorghastrum-nutans.json';
 import SpartinaAlternifloraData from './spartina-alterniflora.json';
 import SphaeralceaData from './sphaeralcea.json';
+import SphaeralceaCoccineaData from './sphaeralcea-coccinea.json';
 import SphaeralceaMunroanaData from './sphaeralcea-munroana.json';
 import SpiraeaAlbaData from './spiraea-alba.json';
+import SpiraeaTomentosaData from './spiraea-tomentosa.json';
+import StenandriumBarbatumData from './stenandrium-barbatum.json';
+import StylosanthesBifloraData from './stylosanthes-biflora.json';
+import SurianaMaritmaData from './suriana-maritima.json';
+import SymphoricarposAlbusData from './symphoricarpos-albus.json';
+import SymphyotrichumCiliolatumData from './symphyotrichum-ciliolatum.json';
 import SymphyotrichumEricoidesData from './symphyotrichum-ericoides.json';
+import SymphyotrichumEricoidesVarEricoidesData from './symphyotrichum-ericoides-var-ericoides.json';
 import SymphyotrichumLaeveData from './symphyotrichum-laeve.json';
+import SymphyotrichumLaeveVarLaeveData from './symphyotrichum-laeve-var-laeve.json';
+import SymphyotrichumLanceolatumVarLanceolatumData from './symphyotrichum-lanceolatum-var-lanceolatum.json';
+import SymphyotrichumLateriflorumVarLateriflorumData from './symphyotrichum-lateriflorum-var-lateriflorum.json';
 import SymphyotrichumNovaeAngliaeData from './symphyotrichum-novae-angliae.json';
+import SymphyotrichumNoviBelgiiVarNoviBelgiiData from './symphyotrichum-novi-belgii-var-novi-belgii.json';
+import SymphyotrichumSericeumData from './symphyotrichum-sericeum.json';
 import SymphyotrichumSubspicatumData from './symphyotrichum-subspicatum.json';
+import SymphyotrichumUndulatumData from './symphyotrichum-undulatum.json';
+import TaxodiumDistichumData from './taxodium-distichum.json';
+import TecomaStansData from './tecoma-stans.json';
+import ThamnosmaTexanaData from './thamnosma-texana.json';
 import ThelespermaMegapotamicumData from './thelesperma-megapotamicum.json';
 import TradescantiaOccidentalisData from './tradescantia-occidentalis.json';
 import TradescantiaOhiensisData from './tradescantia-ohiensis.json';
+import TridensFlavusData from './tridens-flavus.json';
 import TrifoliumRepensData from './trifolium-repens.json';
+import TripsacumDactyloidesData from './tripsacum-dactyloides.json';
+import TsugaCanadensisData from './tsuga-canadensis.json';
 import UlmusAmericanaData from './ulmus-americana.json';
+import UlmusRubraData from './ulmus-rubra.json';
+import UlmusTomasiiData from './ulmus-thomasii.json';
+import UrticaDioicaData from './urtica-dioica.json';
+import VacciniumCespitosumData from './vaccinium-cespitosum.json';
+import VacciniumMyrtilloidesData from './vaccinium-myrtilloides.json';
+import VacciniumOxycoccosData from './vaccinium-oxycoccos.json';
+import VacciniumUliginosumData from './vaccinium-uliginosum.json';
 import VerbenaHastataData from './verbena-hastata.json';
+import VerbenaSimplexData from './verbena-simplex.json';
+import VerbenaStrictaData from './verbena-stricta.json';
 import VerbesinaEncelioidesData from './verbesina-encelioides.json';
 import VernoniaGiganteaData from './vernonia-gigantea.json';
+import ViburnumAcerifoliumData from './viburnum-acerifolium.json';
+import ViburnumDentatumData from './viburnum-dentatum.json';
+import ViburnumLantanoidesData from './viburnum-lantanoides.json';
+import ViburnumLentagoData from './viburnum-lentago.json';
+import ViburnumOpulusVarAmericanumData from './viburnum-opulus-var-americanum.json';
+import ViolaAduncaData from './viola-adunca.json';
+import ViolaGlabellaData from './viola-glabella.json';
+import ViolaNephrophyllaData from './viola-nephrophylla.json';
+import ViolaNuttalliiData from './viola-nuttallii.json';
+import ViolaPedataData from './viola-pedata.json';
+import ViolaPurpureaData from './viola-purpurea.json';
+import ViolaRotundifoliaData from './viola-rotundifolia.json';
 import ViolaSororiaData from './viola-sororia.json';
+import WisteriaFrutescensData from './wisteria-frutescens.json';
 import YuccaData from './yucca.json';
+import YuccaFilamentosaData from './yucca-filamentosa.json';
 import YuccaGlaucaData from './yucca-glauca.json';
+import ZamiaData from './zamia-pumila.json';
+import ZanthoxylumAmericanumData from './zanthoxylum-americanum.json';
+import ZanthoxylumFagaraData from './zanthoxylum-fagara.json';
 import ZinniaGrandifloraData from './zinnia-grandiflora.json';
+import ZizaniaAquaticaData from './zizania-aquatica.json';
 import ZiziaAureaData from './zizia-aurea.json';
 
 // Collect all plants into an array
@@ -849,23 +896,70 @@ export const plants: Plant[] = [
   SorghastrumNutansData,
   SpartinaAlternifloraData,
   SphaeralceaData,
+  SphaeralceaCoccineaData,
   SphaeralceaMunroanaData,
   SpiraeaAlbaData,
+  SpiraeaTomentosaData,
+  StenandriumBarbatumData,
+  StylosanthesBifloraData,
+  SurianaMaritmaData,
+  SymphoricarposAlbusData,
+  SymphyotrichumCiliolatumData,
   SymphyotrichumEricoidesData,
+  SymphyotrichumEricoidesVarEricoidesData,
   SymphyotrichumLaeveData,
+  SymphyotrichumLaeveVarLaeveData,
+  SymphyotrichumLanceolatumVarLanceolatumData,
+  SymphyotrichumLateriflorumVarLateriflorumData,
   SymphyotrichumNovaeAngliaeData,
+  SymphyotrichumNoviBelgiiVarNoviBelgiiData,
+  SymphyotrichumSericeumData,
   SymphyotrichumSubspicatumData,
+  SymphyotrichumUndulatumData,
+  TaxodiumDistichumData,
+  TecomaStansData,
+  ThamnosmaTexanaData,
   ThelespermaMegapotamicumData,
   TradescantiaOccidentalisData,
   TradescantiaOhiensisData,
+  TridensFlavusData,
   TrifoliumRepensData,
+  TripsacumDactyloidesData,
+  TsugaCanadensisData,
   UlmusAmericanaData,
+  UlmusRubraData,
+  UlmusTomasiiData,
+  UrticaDioicaData,
+  VacciniumCespitosumData,
+  VacciniumMyrtilloidesData,
+  VacciniumOxycoccosData,
+  VacciniumUliginosumData,
   VerbenaHastataData,
+  VerbenaSimplexData,
+  VerbenaStrictaData,
   VerbesinaEncelioidesData,
   VernoniaGiganteaData,
+  ViburnumAcerifoliumData,
+  ViburnumDentatumData,
+  ViburnumLantanoidesData,
+  ViburnumLentagoData,
+  ViburnumOpulusVarAmericanumData,
+  ViolaAduncaData,
+  ViolaGlabellaData,
+  ViolaNephrophyllaData,
+  ViolaNuttalliiData,
+  ViolaPedataData,
+  ViolaPurpureaData,
+  ViolaRotundifoliaData,
   ViolaSororiaData,
+  WisteriaFrutescensData,
   YuccaData,
+  YuccaFilamentosaData,
   YuccaGlaucaData,
+  ZamiaData,
+  ZanthoxylumAmericanumData,
+  ZanthoxylumFagaraData,
   ZinniaGrandifloraData,
+  ZizaniaAquaticaData,
   ZiziaAureaData,
 ] as Plant[];

@@ -1,0 +1,45 @@
+{
+  "id": "vaccinium-cespitosum",
+  "commonName": "Dwarf Bilberry",
+  "scientificName": "Vaccinium cespitosum",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "moist",
+    "soil": "acidic"
+  },
+  "characteristics": {
+    "height": 12,
+    "width": 12,
+    "bloomColor": [
+      "white",
+      "pink"
+    ],
+    "bloomTime": [
+      "spring",
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "birds",
+      "bees"
+    ],
+    "usefulFor": [
+      "native garden",
+      "wildlife habitat"
+    ]
+  }
+}
