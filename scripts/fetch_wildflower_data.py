@@ -27,7 +27,6 @@ BASE_URL = "https://www.wildflower.org"
 OUTPUT_DIR = "src/data/wildflower-org"
 LOG_FILE = "fetch_log.txt"
 TIMEOUT = 30  # Request timeout in seconds
-MAX_PLANTS_PER_RUN = 10  # Limit number of plants to fetch per run
 USE_TEST_MODE = '--test' in sys.argv
 
 
@@ -226,6 +225,7 @@ class PlantLinkParser(HTMLParser):
     def __init__(self):
         super().__init__()
         self.plant_links = []
+        self.pagination_links = []
         self.in_plant_link = False
         self.current_link = None
     
@@ -237,6 +237,10 @@ class PlantLinkParser(HTMLParser):
             if 'plant.php' in href or 'detail' in href:
                 self.current_link = href
                 self.in_plant_link = True
+            # Look for pagination links
+            elif 'collection.php' in href and ('page=' in href or 'start=' in href):
+                if href not in self.pagination_links:
+                    self.pagination_links.append(href)
     
     def handle_endtag(self, tag):
         if tag == 'a' and self.in_plant_link:
@@ -825,7 +829,7 @@ def save_plant_data(plant_id, plant_url, plant_data_tuple, log_path):
 
 def fetch_wildflower_collection():
     """
-    Fetch the plant collection page and extract plant links.
+    Fetch the plant collection pages (handling pagination) and extract plant links.
     Returns: (success: bool, plant_links: list, message: str)
     """
     try:
@@ -843,26 +847,62 @@ def fetch_wildflower_collection():
             
             return True, plant_links, "Successfully loaded test data"
         
-        print(f"Attempting to fetch collection page from: {TARGET_URL}")
+        print(f"Attempting to fetch collection pages from: {TARGET_URL}")
         
-        content, status_code = make_request(TARGET_URL)
+        all_plant_links = []
+        pages_visited = set()
+        pages_to_visit = [TARGET_URL]
+        page_count = 0
         
-        if content is None:
-            error_msg = f"Failed to fetch collection page (Status: {status_code})"
-            print(f"✗ {error_msg}")
-            return False, [], error_msg
+        while pages_to_visit:
+            current_url = pages_to_visit.pop(0)
+            
+            # Skip if already visited
+            if current_url in pages_visited:
+                continue
+            
+            pages_visited.add(current_url)
+            page_count += 1
+            
+            # Make sure URL is absolute
+            if not current_url.startswith('http'):
+                current_url = BASE_URL + ('/' if not current_url.startswith('/') else '') + current_url
+            
+            print(f"\n  Fetching page {page_count}: {current_url}")
+            
+            content, status_code = make_request(current_url)
+            
+            if content is None:
+                print(f"  ✗ Failed to fetch page (Status: {status_code})")
+                continue
+            
+            print(f"  ✓ HTTP Status Code: {status_code}")
+            print(f"  ✓ Content length: {len(content)} characters")
+            
+            # Parse HTML to extract plant links and pagination links
+            parser = PlantLinkParser()
+            parser.feed(content)
+            
+            # Add plant links from this page
+            new_plants = [link for link in parser.plant_links if link not in all_plant_links]
+            all_plant_links.extend(new_plants)
+            print(f"  ✓ Found {len(new_plants)} new plant links on this page (total: {len(all_plant_links)})")
+            
+            # Add pagination links to queue if not already visited
+            for pagination_link in parser.pagination_links:
+                abs_link = pagination_link if pagination_link.startswith('http') else BASE_URL + ('/' if not pagination_link.startswith('/') else '') + pagination_link
+                if abs_link not in pages_visited and abs_link not in pages_to_visit:
+                    pages_to_visit.append(abs_link)
+            
+            # Be nice to the server - add a small delay between pages
+            if pages_to_visit:
+                import time
+                time.sleep(0.5)
         
-        print(f"✓ HTTP Status Code: {status_code}")
-        print(f"✓ Content length: {len(content)} characters")
+        print(f"\n✓ Fetched {page_count} collection page(s)")
+        print(f"✓ Found {len(all_plant_links)} total plant links")
         
-        # Parse HTML to extract plant links
-        parser = PlantLinkParser()
-        parser.feed(content)
-        plant_links = parser.plant_links
-        
-        print(f"✓ Found {len(plant_links)} potential plant links")
-        
-        return True, plant_links, f"Successfully fetched collection page (Status: {status_code})"
+        return True, all_plant_links, f"Successfully fetched {page_count} collection page(s) (Status: {status_code})"
         
     except Exception as e:
         error_msg = f"Unexpected error: {type(e).__name__}: {str(e)}"
@@ -933,8 +973,8 @@ def process_plants(plant_links, log_path):
     success_count = 0
     failure_count = 0
     
-    # Limit number of plants to process
-    plants_to_process = plant_links[:MAX_PLANTS_PER_RUN]
+    # Process all plants found in the collection
+    plants_to_process = plant_links
     
     print(f"\nProcessing {len(plants_to_process)} plants...")
     

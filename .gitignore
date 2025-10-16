@@ -25,3 +25,8 @@ dist-ssr
 
 # Data fetched by batch jobs (gitignored - not for source control)
 /data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
