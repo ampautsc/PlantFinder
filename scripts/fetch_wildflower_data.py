@@ -397,11 +397,10 @@ class PlantDataParser(HTMLParser):
         
         This method extracts all available data fields according to the
         WildflowerOrgPlantData model defined in src/types/WildflowerOrgData.ts
+        
+        Returns: (plant_data dict, raw_html snippet)
         """
-        data = {
-            'raw_html': html_content[:2000],  # Store snippet of raw HTML for reference
-            'extracted_at': datetime.now().isoformat(),
-        }
+        data = {}
         
         # Basic Identification
         sci_name = self.extract_text(html_content, r'<[^>]*(?:scientific[- ]?name|binomial)[^>]*>([^<]+)')
@@ -520,7 +519,7 @@ class PlantDataParser(HTMLParser):
                 data['ecology'] = {}
             data['ecology']['suitableFor'] = landscape_uses
         
-        return data
+        return data, html_content[:2000]
 
 
 def ensure_output_directory():
@@ -578,16 +577,20 @@ def extract_plant_id(url):
     return hashlib.md5(url.encode()).hexdigest()[:8]
 
 
-def save_plant_data(plant_id, plant_url, plant_data, log_path):
+def save_plant_data(plant_id, plant_url, plant_data_tuple, log_path):
     """Save plant data as JSON file in source control."""
     filename = f"{plant_id}.json"
     filepath = os.path.join(OUTPUT_DIR, filename)
+    
+    # Unpack the tuple
+    plant_data, raw_html = plant_data_tuple
     
     # Add metadata to the plant data
     full_data = {
         'source_url': plant_url,
         'scraped_at': datetime.now().isoformat(),
         'scraper_version': SCRAPER_VERSION,
+        'raw_html': raw_html,
         'plant_data': plant_data
     }
     
@@ -672,10 +675,10 @@ def fetch_plant_detail(plant_url, log_path):
             
             # Parse plant data from HTML
             parser = PlantDataParser()
-            plant_data = parser.extract_plant_info(content)
+            plant_data, raw_html = parser.extract_plant_info(content)
             
             print(f"  ✓ Successfully loaded test plant data")
-            return True, plant_data
+            return True, (plant_data, raw_html)
         
         # Real mode - fetch from website
         # Ensure URL is absolute
@@ -692,11 +695,11 @@ def fetch_plant_detail(plant_url, log_path):
         
         # Parse plant data from HTML
         parser = PlantDataParser()
-        plant_data = parser.extract_plant_info(content)
+        plant_data, raw_html = parser.extract_plant_info(content)
         
         print(f"  ✓ Successfully fetched plant data")
         
-        return True, plant_data
+        return True, (plant_data, raw_html)
         
     except Exception as e:
         print(f"  ✗ Error fetching plant: {type(e).__name__}: {str(e)}")
@@ -719,7 +722,7 @@ def process_plants(plant_links, log_path):
         # Fetch plant detail page
         success, plant_data = fetch_plant_detail(plant_url, log_path)
         
-        if success and plant_data:
+        if success and plant_data is not None:
             # Extract plant ID and save data
             plant_id = extract_plant_id(plant_url)
             save_plant_data(plant_id, plant_url, plant_data, log_path)
