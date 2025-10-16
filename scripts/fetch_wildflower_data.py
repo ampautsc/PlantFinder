@@ -57,6 +57,7 @@ MOCK_PLANT_DETAILS = {
     
     <div class="characteristics">
         <div class="height">Height: 12-36 inches</div>
+        <div class="spread">Spread: 12-18 inches</div>
         <div class="bloom-color">Bloom Color: Orange, Yellow</div>
         <div class="bloom-time">Bloom Time: Summer, Early Fall</div>
         <div class="lifespan">Perennial</div>
@@ -99,6 +100,7 @@ MOCK_PLANT_DETAILS = {
     
     <div class="characteristics">
         <div class="height">Height: 24-48 inches</div>
+        <div class="spread">Spread: 18-24 inches</div>
         <div class="bloom-color">Bloom Color: Purple, Pink, White</div>
         <div class="bloom-time">Bloom Time: Summer, Fall</div>
         <div class="lifespan">Perennial</div>
@@ -139,6 +141,7 @@ MOCK_PLANT_DETAILS = {
     
     <div class="characteristics">
         <div class="height">Height: 12-36 inches</div>
+        <div class="spread">Spread: 12-24 inches</div>
         <div class="bloom-color">Bloom Color: Yellow, Gold</div>
         <div class="bloom-time">Bloom Time: Summer, Fall</div>
         <div class="lifespan">Biennial or short-lived perennial</div>
@@ -259,6 +262,39 @@ class PlantDataParser(HTMLParser):
         
         return None
     
+    def extract_spread_range(self, html_content):
+        """Extract spread/width range from HTML."""
+        spread_text = self.extract_text(html_content, r'<[^>]*(?:spread|width)[^>]*>([^<]+)')
+        if not spread_text:
+            return None
+        
+        # Try to parse range like "12-24 inches" or "1-2 feet"
+        range_match = re.search(r'(\d+)[-–](\d+)\s*(inches?|feet?|ft|in)', spread_text, re.IGNORECASE)
+        if range_match:
+            min_val = int(range_match.group(1))
+            max_val = int(range_match.group(2))
+            unit = range_match.group(3).lower()
+            
+            # Normalize to inches
+            if 'feet' in unit or unit == 'ft':
+                min_val *= 12
+                max_val *= 12
+            
+            return {'min': min_val, 'max': max_val, 'unit': 'inches'}
+        
+        # Try single value like "18 inches"
+        single_match = re.search(r'(\d+)\s*(inches?|feet?|ft|in)', spread_text, re.IGNORECASE)
+        if single_match:
+            val = int(single_match.group(1))
+            unit = single_match.group(2).lower()
+            
+            if 'feet' in unit or unit == 'ft':
+                val *= 12
+            
+            return {'min': val, 'max': val, 'unit': 'inches'}
+        
+        return None
+    
     def extract_light_requirements(self, html_content):
         """Extract light/sun requirements."""
         light_data = {}
@@ -352,6 +388,10 @@ class PlantDataParser(HTMLParser):
         if re.search(r'southern\s+(?:U\.?S\.?|United States)', html_content, re.IGNORECASE):
             regions.append('Southern US')
         
+        # Look for "throughout" or "entire" United States patterns
+        if re.search(r'throughout\s+(?:the\s+)?United States|entire\s+United States', html_content, re.IGNORECASE):
+            regions.append('United States')
+        
         return regions if regions else None
     
     def extract_wildlife_value(self, html_content):
@@ -426,6 +466,10 @@ class PlantDataParser(HTMLParser):
         height = self.extract_height_range(html_content)
         if height:
             characteristics['height'] = height
+        
+        spread = self.extract_spread_range(html_content)
+        if spread:
+            characteristics['spread'] = spread
         
         bloom_colors_raw = self.extract_list(html_content, r'<[^>]*bloom[- ]?color[^>]*>([^<]+)')
         if bloom_colors_raw:
