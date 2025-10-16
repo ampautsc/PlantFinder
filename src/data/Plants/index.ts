@@ -283,32 +283,125 @@ import OxytropisCampestrisData from './oxytropis-campestris.json';
 import PackeraAureaData from './packera-aurea.json';
 import PaspalumDistichumData from './paspalum-distichum.json';
 import PassifloraAffinisData from './passiflora-affinis.json';
+import PassifloraFoetidaData from './passiflora-foetida.json';
+import PassifloraIncarnataData from './passiflora-incarnata.json';
+import PassifloraLuteaData from './passiflora-lutea.json';
+import PassifloraTenuilobaData from './passiflora-tenuiloba.json';
+import PanicumObtusumData from './panicum-obtusum.json';
+import PanicumVirgatumData from './panicum-virgatum.json';
+import ParthenocissusQuinquefoliaData from './parthenocissus-quinquefolia.json';
 import PenstemonData from './penstemon.json';
 import PenstemonAlbidusData from './penstemon-albidus.json';
 import PenstemonDigitalisData from './penstemon-digitalis.json';
 import PenstemonGrandiflorusData from './penstemon-grandiflorus.json';
 import PenstemonLaevigatusData from './penstemon-laevigatus.json';
+import PenstemonCobaeaData from './penstemon-cobaea.json';
+import PenstemonHirsutusData from './penstemon-hirsutus.json';
+import PeritomaSerrulataData from './peritoma-serrulata.json';
+import PerseaBorboniaData from './persea-borbonia.json';
 import PhaceliaLinearisData from './phacelia-linearis.json';
+import PhalarisArundinaceaData from './phalaris-arundinacea.json';
+import PhragmitesAustralisData from './phragmites-australis.json';
+import PhylaNodifloraData from './phyla-nodiflora.json';
 import PhiladelphusLewisiiData from './philadelphus-lewisii.json';
 import PhloxPaniculataData from './phlox-paniculata.json';
+import PiceaGlaucaData from './picea-glauca.json';
+import PiceaMarianaData from './picea-mariana.json';
+import PinusContortaData from './pinus-contorta.json';
+import PinusContortaLatifoliaData from './pinus-contorta-latifolia.json';
+import PinusMonophyllaData from './pinus-monophylla.json';
+import PinusPonderosaData from './pinus-ponderosa.json';
+import PinusResinosaData from './pinus-resinosa.json';
+import PinusRigidaData from './pinus-rigida.json';
+import PinusTaedaData from './pinus-taeda.json';
+import PinusVirginianaData from './pinus-virginiana.json';
+import PiscidiaPiscipulaData from './piscidia-piscipula.json';
+import PoaGlaucaGlaucaData from './poa-glauca-glauca.json';
+import PoaPratensisData from './poa-pratensis.json';
 import PolemoniumAcutiflorumData from './polemonium-acutiflorum.json';
+import PolygonumBistortoidesData from './polygonum-bistortoides.json';
+import PolygonumViviparumData from './polygonum-viviparum.json';
+import PolytaeniaTexanaData from './polytaenia-texana.json';
+import PopulusBalsamiferaData from './populus-balsamifera.json';
+import PopulusDeltoidesData from './populus-deltoides.json';
+import PopulusDeltoidesDeltoidesData from './populus-deltoides-deltoides.json';
+import PopulusGrandidentataData from './populus-grandidentata.json';
+import PopulusTremuloidesData from './populus-tremuloides.json';
+import PotentillaCanadensisData from './potentilla-canadensis.json';
 import PrimulaPaucifloraData from './primula-pauciflora.json';
+import ProsopisGlandulosaData from './prosopis-glandulosa.json';
+import PrunusEmarginataData from './prunus-emarginata.json';
+import PrunusHavardiiData from './prunus-havardii.json';
+import PrunusPensylvanicaData from './prunus-pensylvanica.json';
+import PrunusSerotinaData from './prunus-serotina.json';
+import PrunusSerotinaSerotinaData from './prunus-serotina-serotina.json';
+import PrunusVirginianaData from './prunus-virginiana.json';
+import PrunusVirginianaVirginianaData from './prunus-virginiana-virginiana.json';
+import PseudognaphaliumObtusifoliumObtusifoliumData from './pseudognaphalium-obtusifolium-obtusifolium.json';
+import PseudotsugaMenziesiiData from './pseudotsuga-menziesii.json';
+import PseudotsugaMenziesiiMenziesiiData from './pseudotsuga-menziesii-menziesii.json';
+import PteleaTrifoliataData from './ptelea-trifoliata.json';
 import PulsatillaPatensData from './pulsatilla-patens.json';
 import PycnanthemumTenuifoliumData from './pycnanthemum-tenuifolium.json';
+import QuercusAgrifoliaData from './quercus-agrifolia.json';
+import QuercusArizonicaData from './quercus-arizonica.json';
+import QuercusChrysolepisData from './quercus-chrysolepis.json';
+import QuercusEmoryiData from './quercus-emoryi.json';
+import QuercusFusiformisData from './quercus-fusiformis.json';
+import QuercusGambeliiData from './quercus-gambelii.json';
+import QuercusIlicifoliaData from './quercus-ilicifolia.json';
+import QuercusMuehlenbergiiData from './quercus-muehlenbergii.json';
+import QuercusPalustrisData from './quercus-palustris.json';
+import QuercusRubraData from './quercus-rubra.json';
+import QuercusRubraAmbiguaData from './quercus-rubra-ambigua.json';
+import QuercusVirginianaData from './quercus-virginiana.json';
 import RatibidaColumniferaData from './ratibida-columnifera.json';
 import RatibidaPinnataData from './ratibida-pinnata.json';
+import RhamnusAlnifoliaData from './rhamnus-alnifolia.json';
+import RhamnusCroceaData from './rhamnus-crocea.json';
+import RhizophoraMangleData from './rhizophora-mangle.json';
+import RhododendronCanadenseData from './rhododendron-canadense.json';
+import RhododendronOccidentaleData from './rhododendron-occidentale.json';
 import RhusAromaticaData from './rhus-aromatica.json';
+import RhusLanceolataData from './rhus-lanceolata.json';
 import RibesCereumData from './ribes-cereum.json';
 import RibesSanguineumData from './ribes-sanguineum.json';
+import RobiniaNeomexicanaData from './robinia-neomexicana.json';
+import RosaNutkanaData from './rosa-nutkana.json';
+import RubusParviflorusData from './rubus-parviflorus.json';
 import RudbeckiaFulgidaData from './rudbeckia-fulgida.json';
 import RudbeckiaHirtaData from './rudbeckia-hirta.json';
+import RudbeckiaHirtaPulcherrimaData from './rudbeckia-hirta-pulcherrima.json';
 import RudbeckiaOccidentalisData from './rudbeckia-occidentalis.json';
+import RuelliaDrummondianaData from './ruellia-drummondiana.json';
+import RuelliaNudifloraData from './ruellia-nudiflora.json';
 import SalixData from './salix.json';
+import SalixAmygdaloidesData from './salix-amygdaloides.json';
+import SalixArcticaData from './salix-arctica.json';
+import SalixBebbianaData from './salix-bebbiana.json';
+import SalixDiscolorData from './salix-discolor.json';
+import SalixEriocephalaData from './salix-eriocephala.json';
+import SalixExiguaData from './salix-exigua.json';
+import SalixHumilisData from './salix-humilis.json';
+import SalixLucidaData from './salix-lucida.json';
+import SalixNigraData from './salix-nigra.json';
+import SalixReticulataData from './salix-reticulata.json';
+import SalixSericeaData from './salix-sericea.json';
 import SalviaDorriiData from './salvia-dorrii.json';
 import SanguinariaCanadensisData from './sanguinaria-canadensis.json';
 import SapindusSaponariaData from './sapindus-saponaria.json';
+import SapindusSaponariaDrummondiiData from './sapindus-saponaria-drummondii.json';
 import SassafrasAlbidumData from './sassafras-albidum.json';
+import SaxifragaBronchialisData from './saxifraga-bronchialis.json';
+import SchizachnePurpurascensData from './schizachne-purpurascens.json';
+import SchizachyriumScopariumData from './schizachyrium-scoparium.json';
+import ScirpusCyperinusData from './scirpus-cyperinus.json';
+import SenegaliaBerlandieriData from './senegalia-berlandieri.json';
 import SenecioFlaccidusData from './senecio-flaccidus.json';
+import SennaHebecarpaData from './senna-hebecarpa.json';
+import SennaLindheimerianaData from './senna-lindheimeriana.json';
+import SerenoaRepensData from './serenoa-repens.json';
+import SidaRhombifoliaData from './sida-rhombifolia.json';
 import SolidagoAltissimaData from './solidago-altissima.json';
 import SolidagoCanadensisData from './solidago-canadensis.json';
 import SolidagoElongataData from './solidago-elongata.json';
@@ -318,8 +411,11 @@ import SolidagoOdoraData from './solidago-odora.json';
 import SolidagoRigidaData from './solidago-rigida.json';
 import SolidagoRugosaData from './solidago-rugosa.json';
 import SolidagoSpeciosaData from './solidago-speciosa.json';
+import SorghastrumNutansData from './sorghastrum-nutans.json';
+import SpartinaAlternifloraData from './spartina-alterniflora.json';
 import SphaeralceaData from './sphaeralcea.json';
 import SphaeralceaMunroanaData from './sphaeralcea-munroana.json';
+import SpiraeaAlbaData from './spiraea-alba.json';
 import SymphyotrichumEricoidesData from './symphyotrichum-ericoides.json';
 import SymphyotrichumLaeveData from './symphyotrichum-laeve.json';
 import SymphyotrichumNovaeAngliaeData from './symphyotrichum-novae-angliae.json';
@@ -622,32 +718,125 @@ export const plants: Plant[] = [
   PackeraAureaData,
   PaspalumDistichumData,
   PassifloraAffinisData,
+  PassifloraFoetidaData,
+  PassifloraIncarnataData,
+  PassifloraLuteaData,
+  PassifloraTenuilobaData,
+  PanicumObtusumData,
+  PanicumVirgatumData,
+  ParthenocissusQuinquefoliaData,
   PenstemonData,
   PenstemonAlbidusData,
   PenstemonDigitalisData,
   PenstemonGrandiflorusData,
   PenstemonLaevigatusData,
+  PenstemonCobaeaData,
+  PenstemonHirsutusData,
+  PeritomaSerrulataData,
+  PerseaBorboniaData,
   PhaceliaLinearisData,
+  PhalarisArundinaceaData,
+  PhragmitesAustralisData,
+  PhylaNodifloraData,
   PhiladelphusLewisiiData,
   PhloxPaniculataData,
+  PiceaGlaucaData,
+  PiceaMarianaData,
+  PinusContortaData,
+  PinusContortaLatifoliaData,
+  PinusMonophyllaData,
+  PinusPonderosaData,
+  PinusResinosaData,
+  PinusRigidaData,
+  PinusTaedaData,
+  PinusVirginianaData,
+  PiscidiaPiscipulaData,
+  PoaGlaucaGlaucaData,
+  PoaPratensisData,
   PolemoniumAcutiflorumData,
+  PolygonumBistortoidesData,
+  PolygonumViviparumData,
+  PolytaeniaTexanaData,
+  PopulusBalsamiferaData,
+  PopulusDeltoidesData,
+  PopulusDeltoidesDeltoidesData,
+  PopulusGrandidentataData,
+  PopulusTremuloidesData,
+  PotentillaCanadensisData,
   PrimulaPaucifloraData,
+  ProsopisGlandulosaData,
+  PrunusEmarginataData,
+  PrunusHavardiiData,
+  PrunusPensylvanicaData,
+  PrunusSerotinaData,
+  PrunusSerotinaSerotinaData,
+  PrunusVirginianaData,
+  PrunusVirginianaVirginianaData,
+  PseudognaphaliumObtusifoliumObtusifoliumData,
+  PseudotsugaMenziesiiData,
+  PseudotsugaMenziesiiMenziesiiData,
+  PteleaTrifoliataData,
   PulsatillaPatensData,
   PycnanthemumTenuifoliumData,
+  QuercusAgrifoliaData,
+  QuercusArizonicaData,
+  QuercusChrysolepisData,
+  QuercusEmoryiData,
+  QuercusFusiformisData,
+  QuercusGambeliiData,
+  QuercusIlicifoliaData,
+  QuercusMuehlenbergiiData,
+  QuercusPalustrisData,
+  QuercusRubraData,
+  QuercusRubraAmbiguaData,
+  QuercusVirginianaData,
   RatibidaColumniferaData,
   RatibidaPinnataData,
+  RhamnusAlnifoliaData,
+  RhamnusCroceaData,
+  RhizophoraMangleData,
+  RhododendronCanadenseData,
+  RhododendronOccidentaleData,
   RhusAromaticaData,
+  RhusLanceolataData,
   RibesCereumData,
   RibesSanguineumData,
+  RobiniaNeomexicanaData,
+  RosaNutkanaData,
+  RubusParviflorusData,
   RudbeckiaFulgidaData,
   RudbeckiaHirtaData,
+  RudbeckiaHirtaPulcherrimaData,
   RudbeckiaOccidentalisData,
+  RuelliaDrummondianaData,
+  RuelliaNudifloraData,
   SalixData,
+  SalixAmygdaloidesData,
+  SalixArcticaData,
+  SalixBebbianaData,
+  SalixDiscolorData,
+  SalixEriocephalaData,
+  SalixExiguaData,
+  SalixHumilisData,
+  SalixLucidaData,
+  SalixNigraData,
+  SalixReticulataData,
+  SalixSericeaData,
   SalviaDorriiData,
   SanguinariaCanadensisData,
   SapindusSaponariaData,
+  SapindusSaponariaDrummondiiData,
   SassafrasAlbidumData,
+  SaxifragaBronchialisData,
+  SchizachnePurpurascensData,
+  SchizachyriumScopariumData,
+  ScirpusCyperinusData,
+  SenegaliaBerlandieriData,
   SenecioFlaccidusData,
+  SennaHebecarpaData,
+  SennaLindheimerianaData,
+  SerenoaRepensData,
+  SidaRhombifoliaData,
   SolidagoAltissimaData,
   SolidagoCanadensisData,
   SolidagoElongataData,
@@ -657,8 +846,11 @@ export const plants: Plant[] = [
   SolidagoRigidaData,
   SolidagoRugosaData,
   SolidagoSpeciosaData,
+  SorghastrumNutansData,
+  SpartinaAlternifloraData,
   SphaeralceaData,
   SphaeralceaMunroanaData,
+  SpiraeaAlbaData,
   SymphyotrichumEricoidesData,
   SymphyotrichumLaeveData,
   SymphyotrichumNovaeAngliaeData,
