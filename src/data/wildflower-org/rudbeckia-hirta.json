@@ -1,10 +1,70 @@
 {
   "source_url": "/plant.php?id=rudbeckia-hirta",
-  "scraped_at": "2025-10-16T17:25:02.951881",
+  "scraped_at": "2025-10-16T17:30:59.625271",
+  "scraper_version": "2.0.0",
   "plant_data": {
-    "raw_html": "\n    <html><body>\n    <h1 class=\"scientific-name\">Rudbeckia hirta</h1>\n    <h2 class=\"common-name\">Black-eyed Susan</h2>\n    <div class=\"description\">Cheerful yellow flowers with dark centers.</div>\n    <div class=\"characteristics\">\n        <span class=\"height\">12-36 inches</span>\n        <span class=\"bloom-color\">Yellow, Gold</span>\n        <span class=\"bloom-time\">Summer, Fall</span>\n    </div>\n    </body></html>\n    ",
-    "extracted_at": "2025-10-16T17:25:02.951840",
+    "raw_html": "\n    <html><body>\n    <h1 class=\"scientific-name\">Rudbeckia hirta</h1>\n    <h2 class=\"common-name\">Black-eyed Susan</h2>\n    <div class=\"family\">Family: Asteraceae (Sunflower family)</div>\n    <div class=\"description\">Cheerful yellow flowers with distinctive dark brown centers. \n    This easy-to-grow biennial or short-lived perennial is one of the most recognizable \n    wildflowers of North America. It naturalizes readily and provides months of bright \n    color from summer into fall.</div>\n    \n    <div class=\"characteristics\">\n        <div class=\"height\">Height: 12-36 inches</div>\n        <div class=\"bloom-color\">Bloom Color: Yellow, Gold</div>\n        <div class=\"bloom-time\">Bloom Time: Summer, Fall</div>\n        <div class=\"lifespan\">Biennial or short-lived perennial</div>\n    </div>\n    \n    <div class=\"growing-requirements\">\n        <div class=\"light\">Light: Full sun to partial shade</div>\n        <div class=\"moisture\">Moisture: Dry to moist - very adaptable</div>\n        <div class=\"soil\">Soil: Clay, loam, sandy - tolerates poor soil</div>\n        <div class=\"zones\">Hardiness Zones: 3-9</div>\n    </div>\n    \n    <div class=\"distribution\">\n        <div class=\"native-range\">Native to: Throughout United States except Pacific Northwest</div>\n        <div class=\"habitat\">Natural Habitat: Prairies, meadows, roadsides, open areas</div>\n    </div>\n    \n    <div class=\"wildlife\">\n        <div class=\"pollinators\">Attracts: Butterflies, bees, native bees</div>\n        <div class=\"food\">Food Source: Birds eat seeds, especially goldfinches</div>\n    </div>\n    \n    <div class=\"landscape-use\">\n        <div class=\"uses\">Suitable for: Pollinator garden, meadow, native garden, \n        naturalistic plantings, wildflower mixes</div>\n        <div class=\"easy-care\">Very low maintenance, self-seeds readily</div>\n    </div>\n    </body></html>\n    ",
+    "extracted_at": "2025-10-16T17:30:59.623370",
     "scientificName": "Rudbeckia hirta",
-    "commonName": "Black-eyed Susan"
+    "commonName": "Black-eyed Susan",
+    "family": "Family: Asteraceae (Sunflower family)",
+    "description": "Cheerful yellow flowers with distinctive dark brown centers. \n    This easy-to-grow biennial or short-lived perennial is one of the most recognizable \n    wildflowers of North America. It naturalizes readily and provides months of bright \n    color from summer into fall.",
+    "characteristics": {
+      "height": {
+        "min": 12,
+        "max": 36,
+        "unit": "inches"
+      },
+      "bloomColor": [
+        "Yellow",
+        "Gold"
+      ],
+      "bloomPeriod": [
+        "Summer",
+        "Fall"
+      ],
+      "lifespan": "perennial"
+    },
+    "requirements": {
+      "light": {
+        "full_sun": true,
+        "partial_shade": true
+      },
+      "moisture": {
+        "dry": true,
+        "moist": true
+      },
+      "soil": {
+        "types": [
+          "sand",
+          "loam",
+          "clay"
+        ]
+      },
+      "hardiness": {
+        "zones": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9"
+        ]
+      }
+    },
+    "ecology": {
+      "pollinators": [
+        "bees",
+        "butterflies"
+      ],
+      "foodFor": [
+        "birds"
+      ],
+      "suitableFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    }
   }
 }
