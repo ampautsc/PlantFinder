@@ -1,0 +1,68 @@
+{
+  "id": "phacelia-linearis",
+  "commonName": "Threadleaf phacelia",
+  "scientificName": "Phacelia linearis",
+  "description": "A native wildflower found in the Pacific region, blooming in spring. This plant is valuable for pollinators and adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 24,
+    "width": 18,
+    "bloomColor": [
+      "purple"
+    ],
+    "bloomTime": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Washington",
+      "Oregon",
+      "Idaho",
+      "Montana",
+      "Arizona",
+      "New Mexico",
+      "Texas",
+      "Oklahoma",
+      "Colorado",
+      "North Dakota",
+      "South Dakota",
+      "Wyoming",
+      "Kansas",
+      "Nebraska",
+      "Alaska",
+      "California",
+      "Nevada",
+      "Utah"
+    ],
+    "hardinessZones": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "3",
+      "4",
+      "1",
+      "2",
+      "10"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  }
+}

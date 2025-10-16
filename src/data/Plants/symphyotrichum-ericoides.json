@@ -1,0 +1,50 @@
+{
+  "id": "symphyotrichum-ericoides",
+  "commonName": "White heath aster",
+  "scientificName": "Symphyotrichum ericoides",
+  "description": "A native wildflower found in the Mountain-Prairie region, blooming in fall. This plant is valuable for pollinators and adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 24,
+    "width": 18,
+    "bloomColor": [
+      "white"
+    ],
+    "bloomTime": [
+      "fall"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Colorado",
+      "Montana",
+      "North Dakota",
+      "South Dakota",
+      "Wyoming",
+      "Kansas",
+      "Nebraska"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  }
+}
