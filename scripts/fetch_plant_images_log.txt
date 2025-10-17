@@ -166,3 +166,18 @@
 [2025-10-17 01:04:10] Failed: 4 plants
 [2025-10-17 01:04:10] Skipped: 0 plants
 [2025-10-17 01:04:10] Total plants without images remaining: 445
+[2025-10-17 01:07:23] Batch job started (version 1.0.0)
+[2025-10-17 01:07:23] Running in TEST MODE - no files will be modified
+[2025-10-17 01:07:23] Limit set to 1 images
+[2025-10-17 01:07:23] Scanning for plants without images...
+[2025-10-17 01:07:23] Found 446 plants without images
+[2025-10-17 01:07:23] Processing 1 plants
+[2025-10-17 01:07:23] [1/1] Processing: Kentucky Coffeetree
+[2025-10-17 01:07:23]   Searching Wikipedia for: Gymnocladus dioicus (Kentucky Coffeetree)
+[2025-10-17 01:07:24]     No image found on Wikipedia
+[2025-10-17 01:07:24]   No image found - skipping
+[2025-10-17 01:07:24] Batch job completed
+[2025-10-17 01:07:24] Successfully processed: 0 plants
+[2025-10-17 01:07:24] Failed: 1 plants
+[2025-10-17 01:07:24] Skipped: 0 plants
+[2025-10-17 01:07:24] Total plants without images remaining: 446
