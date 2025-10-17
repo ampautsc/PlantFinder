@@ -3330,3 +3330,61 @@
 [2025-10-17 02:27:45] Failed: 2 plants
 [2025-10-17 02:27:45] Skipped: 0 plants
 [2025-10-17 02:27:45] Total plants without images remaining: 63
+[2025-10-17 02:37:24] Batch job started (version 2.0.0)
+[2025-10-17 02:37:24] Limit set to 5 images
+[2025-10-17 02:37:24] Scanning for plants without images...
+[2025-10-17 02:37:24] Found 64 plants without images
+[2025-10-17 02:37:24] Processing 5 plants
+[2025-10-17 02:37:24] [1/5] Processing: Honey Mesquite
+[2025-10-17 02:37:24]   Searching Wikipedia for: Prosopis glandulosa (Honey Mesquite)
+[2025-10-17 02:37:24]     No image found on Wikipedia
+[2025-10-17 02:37:24]   Searching iNaturalist for: Prosopis glandulosa (Honey Mesquite)
+[2025-10-17 02:37:24]     Found taxon ID: 1493134
+[2025-10-17 02:37:25]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/134085952/original.jpg
+[2025-10-17 02:37:25]     Downloading from inaturalist to: public/images/plants/prosopis-glandulosa/prosopis-glandulosa-2025-10-17T02-37-25-728Z.jpg
+[2025-10-17 02:37:25]     Downloaded 900.8 KB
+[2025-10-17 02:37:25]     Optimized to 900.8 KB (0.0% reduction)
+[2025-10-17 02:37:25]     Successfully processed image from inaturalist
+[2025-10-17 02:37:25]     Updated src/data/Plants/prosopis-glandulosa.json with imageUrl
+[2025-10-17 02:37:25]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:37:25] [2/5] Processing: Hinckley's Golden Columbine
+[2025-10-17 02:37:25]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-17 02:37:26]     No image found on Wikipedia
+[2025-10-17 02:37:26]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-17 02:37:26]     No image found on iNaturalist
+[2025-10-17 02:37:26]   No image found from any source - skipping
+[2025-10-17 02:37:26] [3/5] Processing: American Cranberry Bush
+[2025-10-17 02:37:26]   Searching Wikipedia for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-10-17 02:37:26]     No image found on Wikipedia
+[2025-10-17 02:37:26]   Searching iNaturalist for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-10-17 02:37:27]     No image found on iNaturalist
+[2025-10-17 02:37:27]   No image found from any source - skipping
+[2025-10-17 02:37:27] [4/5] Processing: Eastern Cottonwood
+[2025-10-17 02:37:27]   Searching Wikipedia for: Populus deltoides ssp. deltoides (Eastern Cottonwood)
+[2025-10-17 02:37:27]     No image found on Wikipedia
+[2025-10-17 02:37:27]   Searching iNaturalist for: Populus deltoides ssp. deltoides (Eastern Cottonwood)
+[2025-10-17 02:37:28]     Found taxon ID: 52119
+[2025-10-17 02:37:29]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/440670798/original.jpeg
+[2025-10-17 02:37:29]     Downloading from inaturalist to: public/images/plants/populus-deltoides-deltoides/populus-deltoides-deltoides-2025-10-17T02-37-29-246Z.jpg
+[2025-10-17 02:37:29]     Downloaded 819.1 KB
+[2025-10-17 02:37:29]     Optimized to 819.1 KB (0.0% reduction)
+[2025-10-17 02:37:29]     Successfully processed image from inaturalist
+[2025-10-17 02:37:29]     Updated src/data/Plants/populus-deltoides-deltoides.json with imageUrl
+[2025-10-17 02:37:29]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:37:29] [5/5] Processing: Oval-leaf Milkweed
+[2025-10-17 02:37:29]   Searching Wikipedia for: Asclepias ovalifolia (Oval-leaf Milkweed)
+[2025-10-17 02:37:29]     No image found on Wikipedia
+[2025-10-17 02:37:29]   Searching iNaturalist for: Asclepias ovalifolia (Oval-leaf Milkweed)
+[2025-10-17 02:37:29]     Found taxon ID: 47905
+[2025-10-17 02:37:30]     Found image on iNaturalist: https://static.inaturalist.org/photos/19679106/original.jpg
+[2025-10-17 02:37:30]     Downloading from inaturalist to: public/images/plants/asclepias-ovalifolia/asclepias-ovalifolia-2025-10-17T02-37-30-618Z.jpg
+[2025-10-17 02:37:32]     Downloaded 1112.9 KB
+[2025-10-17 02:37:32]     Optimized to 1112.9 KB (0.0% reduction)
+[2025-10-17 02:37:32]     Successfully processed image from inaturalist
+[2025-10-17 02:37:32]     Updated src/data/Plants/asclepias-ovalifolia.json with imageUrl
+[2025-10-17 02:37:32]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:37:32] Batch job completed
+[2025-10-17 02:37:32] Successfully processed: 3 plants
+[2025-10-17 02:37:32] Failed: 2 plants
+[2025-10-17 02:37:32] Skipped: 0 plants
+[2025-10-17 02:37:32] Total plants without images remaining: 61
