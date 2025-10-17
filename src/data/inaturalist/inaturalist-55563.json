@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:40:33.201986",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-55563",
+    "commonName": "Lawn daisy",
+    "scientificName": "Bellis perennis",
+    "description": "<i><b>Bellis perennis</b></i> is a common European species of daisy, of the Asteraceae family, often considered the archetypal species of that name.",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/515847774/medium.jpg",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 55563,
+      "observations_count": 122171,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

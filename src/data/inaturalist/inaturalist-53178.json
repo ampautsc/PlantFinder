@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:40:01.773799",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-53178",
+    "commonName": "ribwort plantain",
+    "scientificName": "Plantago lanceolata",
+    "description": "<i><b>Plantago lanceolata</b></i> is a species of flowering plant in the plantain family Plantaginaceae. It is known by the common names <b>ribwort plantain</b>, <b>narrowleaf plantain</b>, <b>English plantain</b>, <b>ribleaf</b> and <b>lamb's tongue</b>. It is a common weed of cultivated land.",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/384758481/medium.jpg",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 53178,
+      "observations_count": 157533,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

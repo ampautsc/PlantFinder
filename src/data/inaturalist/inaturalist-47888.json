@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:40:37.707840",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-47888",
+    "commonName": "common jewelweed",
+    "scientificName": "Impatiens capensis",
+    "description": "<i><b>Impatiens capensis</b></i>, the <b>orange jewelweed</b>, <b>common jewelweed</b>, <b>spotted jewelweed</b>, <b>spotted touch-me-not</b>, or <b>orange balsam</b>, is an annual plant native to North America. It is common in bottomland soils, ditches, and along creeks, often growing side-by-side with its less common relative, Yellow Jewelweed (<i>I. pallida</i>).",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/419410578/medium.jpg",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 47888,
+      "observations_count": 118775,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

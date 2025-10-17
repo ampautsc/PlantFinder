@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:40:18.747631",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-50278",
+    "commonName": "Virginia creeper",
+    "scientificName": "Parthenocissus quinquefolia",
+    "description": "<i><b>Parthenocissus quinquefolia</b></i>, known as <b>Virginia creeper</b>, <b>Victoria creeper</b>, <b>five-leaved ivy</b>, or <b>five-finger</b>, is a species of flowering plant in the grape family, Vitaceae. It is native to eastern and central North America, from southeastern Canada and the eastern United States west to Manitoba and Utah, and south to eastern Mexico and Guatemala.",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1688748/medium.JPG",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 50278,
+      "observations_count": 136934,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

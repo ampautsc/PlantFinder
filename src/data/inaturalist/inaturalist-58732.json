@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:16.219358",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-58732",
+    "commonName": "eastern poison ivy",
+    "scientificName": "Toxicodendron radicans",
+    "description": "<i><b>Toxicodendron radicans</b></i>, commonly known as <b>eastern poison ivy</b> or <b>poison ivy</b>, is a poisonous Asian and Eastern North American flowering plant that is well-known for causing Urushiol-induced contact dermatitis, an itchy, irritating, and sometimes painful rash in most people who touch it. It is caused by urushiol, a clear liquid compound in the plant's sap. The species is variable in its appearance and habit, and despite its common name it is not a true ivy (<i>Hedera</i>),...",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61276703/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 58732,
+      "observations_count": 142626,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

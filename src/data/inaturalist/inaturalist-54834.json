@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:56.059486",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-54834",
+    "commonName": "black cherry",
+    "scientificName": "Prunus serotina",
+    "description": "<i><b>Prunus serotina</b></i>, commonly called <b>black cherry</b>, <b>wild black cherry</b>, <b>rum cherry</b>, or <b>mountain black cherry</b>, is a deciduous tree or shrub of the genus <i>Prunus</i>. Despite being called black cherry, it is not very closely related to the commonly cultivated cherries such as sweet cherry (<i>P. avium</i>), sour cherry (<i>P. cerasus</i>) and Japanese flowering cherries (<i>P. serrulata</i>, <i>P. speciosa</i>, <i>P. sargentii</i>, <i>P. incisa</i>, etc.) which belong to <i>Prunus</i> subg. <i>Cerasus</i>. Instead, <i>P. serotina</i> belongs to <i>Prunus</i>...",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14006/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 54834,
+      "observations_count": 108318,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:34.517410",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-52391",
+    "commonName": "eastern white pine",
+    "scientificName": "Pinus strobus",
+    "description": "<i><b>Pinus strobus</b></i>, commonly denominated the <b>eastern white pine</b>, <b>northern white pine</b>, <b>white pine</b>, <b>Weymouth pine</b> (British), and <b>soft pine</b> is a large pine native to eastern North America. It occurs from Newfoundland, Canada west through the Great Lakes region to southeastern Manitoba and Minnesota, United States, and south along the Appalachian Mountains and upper Piedmont to northernmost Georgia and perhaps very rarely in some of the higher elevations in northeastern Alabama.",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/390760300/medium.jpeg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 52391,
+      "observations_count": 121103,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

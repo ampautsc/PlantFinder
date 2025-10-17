@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:41:01.970086",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-57278",
+    "commonName": "tree-of-heaven",
+    "scientificName": "Ailanthus altissima",
+    "description": "<i><b>Ailanthus altissima</b></i> /eɪˈlænθəs ælˈtɪsɪmə/, commonly known as <b>tree of heaven</b>, <b>ailanthus</b>, or in Standard Chinese as <i><b>chouchun</b></i> (Chinese: 臭椿; pinyin: <i>chòuchūn</i>; literally: \"foul smelling tree\"), is a deciduous tree in the Simaroubaceae family. It is native to both northeast and central China, as well as Taiwan. Unlike other members of the genus <i>Ailanthus</i>, it is found in temperate climates rather than the tropics. The tree grows rapidly and is capable of reaching heights of 15 metres...",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255301394/medium.jpeg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 57278,
+      "observations_count": 102605,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:39:54.239857",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-52764",
+    "commonName": "common selfheal",
+    "scientificName": "Prunella vulgaris",
+    "description": "<i><b>Prunella vulgaris</b></i> (known as <b>common self-heal</b> , <b>heal-all</b>, woundwort, <b>heart-of-the-earth</b>, carpenter's herb, brownwort and blue curls) is an herbaceous plant in the genus <i>Prunella</i>.",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/89626619/medium.jpg",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 52764,
+      "observations_count": 171305,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

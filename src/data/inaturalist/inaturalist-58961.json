@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:40:54.832188",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-58961",
+    "commonName": "greater plantain",
+    "scientificName": "Plantago major",
+    "description": "<i><b>Plantago major</b></i> (<b>broadleaf plantain</b>, <b>white man's foot</b>, or <b>greater plantain</b>) is a species of flowering plant in the plantain family Plantaginaceae. The plant is native to most of Europe and northern and central Asia, but has widely naturalised elsewhere in the world.",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/349979346/medium.jpeg",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 58961,
+      "observations_count": 108979,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:39:55.821741",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-55830",
+    "commonName": "ground-ivy",
+    "scientificName": "Glechoma hederacea",
+    "description": "<i><b>Glechoma hederacea</b></i> (syn. <i>Nepeta glechoma</i> Benth., <i>Nepeta hederacea</i> (L.) Trevir.) is an aromatic, perennial, evergreen creeper of the mint family Lamiaceae. It is commonly known as <b>ground-ivy</b>, <b>gill-over-the-ground</b>, <b>creeping charlie</b>, <b>alehoof</b>, <b>tunhoof</b>, <b>catsfoot</b>, <b>field balm</b>, and <b>run-away-robin</b>. It is also sometimes known as <b>creeping jenny</b>, but that name more commonly refers to <i>Lysimachia nummularia</i>. It has numerous medicinal uses, and is used as a salad green in many countries. European settlers carried it around the world,...",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/280941528/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 55830,
+      "observations_count": 170709,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

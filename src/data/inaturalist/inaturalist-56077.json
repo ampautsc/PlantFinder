@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:50.287596",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-56077",
+    "commonName": "Common St. John's Wort",
+    "scientificName": "Hypericum perforatum",
+    "description": "<i><b>Hypericum perforatum</b></i>, known as <b>perforate St John's-wort</b>, <b>common Saint John's wort</b> and <b>St John's wort</b>, is a flowering plant in the family Hypericaceae. The common name \"St John's wort\" may be used to refer to any species of the genus <i>Hypericum</i>. Therefore, <i>Hypericum perforatum</i> is sometimes called \"common St John's wort\" or \"perforate St John's wort\" to differentiate it. It is a medicinal herb with antidepressant activity and anti-inflammatory properties as an arachidonate 5-lipoxygenase inhibitor and...",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283622526/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 56077,
+      "observations_count": 110387,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

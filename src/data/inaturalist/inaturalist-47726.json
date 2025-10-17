@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:39:59.339842",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-47726",
+    "commonName": "box elder",
+    "scientificName": "Acer negundo",
+    "description": "<i><b>Acer negundo</b></i> is a species of maple native to North America. In Canada it is commonly known as Manitoba maple and occasionally as elf maple. <b>Box elder</b>, <b>boxelder maple</b>, <b>ash-leaved maple</b>, and <b>maple ash</b> are its most common names in the United States; in the United Kingdom and Ireland it is also known as <b>ashleaf maple</b>.",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/229714369/medium.jpg",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 47726,
+      "observations_count": 157792,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

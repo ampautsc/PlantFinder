@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:40.637854",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-56222",
+    "commonName": "colt's-foot",
+    "scientificName": "Tussilago farfara",
+    "description": "<i><b>Tussilago farfara</b></i>, commonly known as <b>coltsfoot</b>,:770 is a plant in the groundsel tribe in the daisy family Asteraceae, native to Europe and parts of western and central Asia. The name \"tussilago\" is derived from the Latin <i>tussis</i>, meaning cough, and <i>ago</i>, meaning to cast or to act on. It has had uses in traditional medicine, but the discovery of toxic pyrrolizidine alkaloids in the plant has resulted in liver health concerns.",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/381016201/medium.jpeg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 56222,
+      "observations_count": 114452,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

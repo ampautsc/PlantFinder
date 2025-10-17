@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:40:20.403993",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-55851",
+    "commonName": "red deadnettle",
+    "scientificName": "Lamium purpureum",
+    "description": "<i><b>Lamium purpureum</b></i>, known as <b>red dead-nettle</b>, <b>purple dead-nettle</b>, <b>red henbit</b>, <b>purple archangel</b>, or <b>velikdenche</b>, is a herbaceous flowering plant native to Europe and Asia.",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/371086451/medium.jpg",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 55851,
+      "observations_count": 136736,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

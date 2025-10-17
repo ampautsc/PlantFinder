@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:51.514816",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-78882",
+    "commonName": "multiflora rose",
+    "scientificName": "Rosa multiflora",
+    "description": "<i><b>Rosa multiflora</b></i> (syn. <i><b>Rosa polyantha</b></i>) is a species of rose known commonly as <b>multiflora rose</b>, <b>baby rose</b>, <b>Japanese rose</b>, <b>many-flowered rose</b>, <b>seven-sisters rose</b>, and <b>Eijitsu rose</b>. It is native to eastern Asia, in China, Japan and Korea. It should not be confused with <i>Rosa rugosa</i>, which is also known as \"Japanese rose\", or with polyantha roses which are garden cultivars derived from hybrids of <i>R. multiflora</i>.",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/252786276/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 78882,
+      "observations_count": 109583,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

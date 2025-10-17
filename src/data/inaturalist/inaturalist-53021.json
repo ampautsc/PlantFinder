@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:40:44.174703",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-53021",
+    "commonName": "field bindweed",
+    "scientificName": "Convolvulus arvensis",
+    "description": "<i><b>Convolvulus arvensis</b></i> (<b>field bindweed</b>) is a species of bindweed in the morning glory family (Convolvulaceae), native to Europe and Asia. It is a climbing or creeping herbaceous perennial plant growing to 0.5–2 m high. There are two varieties:",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/213531012/medium.jpg",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 53021,
+      "observations_count": 111259,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

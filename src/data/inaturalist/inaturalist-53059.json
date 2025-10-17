@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:40:48.830428",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-53059",
+    "commonName": "catchweed bedstraw",
+    "scientificName": "Galium aparine",
+    "description": "<i><b>Galium aparine</b></i>, ('aparine' from Greek 'apairo' - “lay hold of” or “seize”) with many common names including <b>cleavers</b>, clivers, \"bort\", bedstraw, goosegrass, catchweed, stickyweed, stickybud, robin-run-the-hedge, sticky willy, sticky willow, stickyjack, stickeljack, and grip grass, is a herbaceous annual plant of the family Rubiaceae.",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/390102558/medium.jpeg",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 53059,
+      "observations_count": 110501,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

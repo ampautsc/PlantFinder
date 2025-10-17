@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:40:53.019922",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-55757",
+    "commonName": "Greater celandine",
+    "scientificName": "Chelidonium majus",
+    "description": "<i><b>Chelidonium majus</b></i>, (commonly known as <i>greater celandine</i> or <i>tetterwort</i>, (although tetterwort also refers to <i>Sanguinaria canadensis</i>), <i>nipplewort</i>, or <i>swallowwort,</i>) is a herbaceous perennial plant, one of two species in the genus <i><b>Chelidonium</b></i>. It is native to Europe and western Asia and introduced widely in North America.",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7431957/medium.jpg",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 55757,
+      "observations_count": 109093,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:45.404512",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-55620",
+    "commonName": "bittersweet nightshade",
+    "scientificName": "Solanum dulcamara",
+    "description": "<i><b>Solanum dulcamara</b></i>, also known as <b>bittersweet</b>, <b>bittersweet nightshade</b>, <b>bitter nightshade</b>, <b>blue bindweed</b>, <b>Amara Dulcis</b>, <b>climbing nightshade</b>, <b>fellenwort</b>, <b>felonwood</b>, <b>poisonberry</b>, <b>poisonflower</b>, <b>scarlet berry</b>, <b>snakeberry</b>, <b>trailing bittersweet</b>, <b>trailing nightshade</b>, <b>violet bloom</b>, or <b>woody nightshade</b>, is a species of vine in the potato genus <i>Solanum</i>, family Solanaceae. It is native to Europe and Asia, and widely naturalised elsewhere, including North America, where it is an invasive problem weed.",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70860715/medium.jpeg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 55620,
+      "observations_count": 111167,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

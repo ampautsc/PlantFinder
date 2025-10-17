@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:14.734574",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-204321",
+    "commonName": "lesser celandine",
+    "scientificName": "Ficaria verna",
+    "description": "<i><b>Ficaria verna</b></i>, (formerly <i><b>Ranunculus ficaria</b></i> L.) commonly known as <b>lesser celandine</b> or <b>pilewort</b>, is a low-growing, hairless perennial flowering plant in the buttercup family Ranunculaceae native to Europe and west Asia. It has fleshy dark green, heart-shaped leaves and distinctive flowers with bright yellow, glossy petals. It is now introduced in North America, where it is known by the common name <b>fig buttercup</b> and considered an invasive species. The plant is poisonous if ingested raw and...",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7034063/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 204321,
+      "observations_count": 145230,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

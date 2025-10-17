@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:47.119635",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-56088",
+    "commonName": "black locust",
+    "scientificName": "Robinia pseudoacacia",
+    "description": "<i><b>Robinia pseudoacacia</b></i>, commonly known in its native territory as <b>black locust</b>, is a medium-sized deciduous tree native to the southeastern United States, but it has been widely planted and naturalized elsewhere in temperate North America, Europe, Southern Africa and Asia and is considered an invasive species in some areas. Another common name is <b>false acacia</b>, a literal translation of the specific name (<i>pseudo</i> meaning fake or false and <i>acacia</i> referring to the genus of plants with...",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/257842284/medium.jpeg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 56088,
+      "observations_count": 110675,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

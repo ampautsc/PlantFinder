@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:09.071812",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-52989",
+    "commonName": "Bull Thistle",
+    "scientificName": "Cirsium vulgare",
+    "description": "<i><b>Cirsium vulgare</b></i>, the <b>spear thistle</b>, <b>bull thistle</b>, or <b>common thistle</b>, is a species of the Asteraceae genus <i>Cirsium</i>, native throughout most of Europe (north to 66°N, locally 68°N), Western Asia (east to the Yenisei Valley), and northwestern Africa (Atlas Mountains). It is also naturalised in North America, Africa, and Australia and is an invasive weed in some areas. It is the national flower of Scotland.",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/306770747/medium.jpeg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 52989,
+      "observations_count": 150250,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

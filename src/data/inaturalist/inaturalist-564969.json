@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:17.517366",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-564969",
+    "commonName": "fireweed",
+    "scientificName": "Chamaenerion angustifolium",
+    "description": "<i><b>Chamaenerion angustifolium</b></i> is a perennial herbaceous flowering plant in the willowherb family Onagraceae. It is known in North America as <b>fireweed</b>, in some parts of Canada as <b>great willowherb</b>, in Britain and Ireland as <b>rosebay willowherb</b>. In the United Kingdom it is also known as <b>bombweed</b>, as a result of its rapid appearance on city bomb sites during the Blitz of World War II.: 112  It is also known by the synonyms <i>Chamerion angustifolium</i> and <i>Epilobium angustifolium</i>....",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145664133/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 564969,
+      "observations_count": 142028,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

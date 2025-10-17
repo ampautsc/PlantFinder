@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:04.200053",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-52913",
+    "commonName": "chicory",
+    "scientificName": "Cichorium intybus",
+    "description": "<b>Common chicory</b> (<i>Cichorium intybus</i>) is a somewhat woody, perennial herbaceous plant of the dandelion family Asteraceae, usually with bright blue flowers, rarely white or pink. Many varieties are cultivated for salad leaves, chicons (blanched buds), or roots (var. <i>sativum</i>), which are baked, ground, and used as a coffee substitute and food additive. In the 21st century, inulin, an extract from chicory root, has been used in food manufacturing as a sweetener and source of dietary fiber.",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283894255/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 52913,
+      "observations_count": 156729,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

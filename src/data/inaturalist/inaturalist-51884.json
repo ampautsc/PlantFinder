@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T19:40:31.670853",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-51884",
+    "commonName": "great stinging nettle",
+    "scientificName": "Urtica dioica",
+    "description": "<i><b>Urtica dioica</b></i>, often called <b>common nettle</b>, <b>stinging nettle</b> (although not all plants of this species sting) or <b>nettle leaf</b>, is a herbaceous perennial flowering plant in the family Urticaceae. It is native to Europe, Asia, northern Africa, and western North America, and introduced elsewhere. The species is divided into six subspecies, five of which have many hollow stinging hairs called trichomes on the leaves and stems, which act like hypodermic needles, injecting histamine and other chemicals...",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://static.inaturalist.org/photos/35220105/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 51884,
+      "observations_count": 123251,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

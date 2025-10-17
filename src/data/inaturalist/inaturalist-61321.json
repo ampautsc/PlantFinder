@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2025-10-17T19:39:46.068462",
+  "scraped_at": "2025-10-17T19:40:36.191581",
   "scraper_version": "1.0.0",
   "source": "inaturalist",
   "plant_data": {
-    "id": "inaturalist-47602",
-    "commonName": "common dandelion",
-    "scientificName": "Taraxacum officinale",
-    "description": "<i><b>Taraxacum officinale</b></i>, the <b>common dandelion</b> (often simply called <b>\"dandelion\"</b>), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae).",
+    "id": "inaturalist-61321",
+    "commonName": "purple loosestrife",
+    "scientificName": "Lythrum salicaria",
+    "description": "<i><b>Lythrum salicaria</b></i> (<b>purple loosestrife</b>) is a flowering plant belonging to the family Lythraceae. It should not be confused with other plants sharing the name loosestrife that are members of the family Primulaceae. Other names include <b>spiked loosestrife</b>, or <b>purple lythrum</b>.",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -34,11 +34,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "imageUrl": "https://static.inaturalist.org/photos/63744014/medium.jpeg",
     "metadata": {
       "source": "inaturalist",
-      "taxon_id": 47602,
-      "observations_count": 238673,
+      "taxon_id": 61321,
+      "observations_count": 120923,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }
