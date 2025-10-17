@@ -391,7 +391,8 @@ def fetch_state_native_range(taxon_id, log_path):
         # Check each US state
         for state_name, place_id in US_STATE_PLACE_IDS.items():
             # Query observations to get establishment means for this state
-            api_url = f"{INATURALIST_API_BASE}/observations/species_counts?taxon_id={taxon_id}&place_id={place_id}&verifiable=true"
+            # Note: removed verifiable=true to get more results
+            api_url = f"{INATURALIST_API_BASE}/observations/species_counts?taxon_id={taxon_id}&place_id={place_id}"
             
             # Add rate limiting
             time.sleep(RATE_LIMIT_DELAY)
