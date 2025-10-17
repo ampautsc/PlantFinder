@@ -22,6 +22,10 @@ jobs:
     runs-on: ubuntu-latest
     name: Scrape Plant Data from Wildflower.org
     
+    # Explicitly set permissions for security and to allow git push
+    permissions:
+      contents: write  # Needed to commit and push scraped data
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -44,15 +48,49 @@ jobs:
       
       - name: Commit and push scraped data
         run: |
+          echo "=== Git Configuration and Token Validation ==="
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          echo "Checking GitHub token availability..."
+          if [ -z "$GITHUB_TOKEN" ]; then
+            echo "WARNING: GITHUB_TOKEN is not set"
+          else
+            echo "✓ GITHUB_TOKEN is set"
+          fi
+          
+          echo "Checking repository permissions..."
+          git remote -v
+          
+          echo "=== Staging Changes ==="
           git add src/data/wildflower-org/*.json src/data/wildflower-org/fetch_log.txt
+          
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
+            echo "=== Committing Changes ==="
+            CHANGED_FILES=$(git diff --staged --name-only | wc -l)
+            echo "Files to commit: $CHANGED_FILES"
+            git diff --staged --name-only
+            
             git commit -m "Update scraped plant data from wildflower.org"
-            git push
+            
+            echo "=== Pushing Changes ==="
+            echo "Attempting to push to remote repository..."
+            if git push -v; then
+              echo "✓ Successfully pushed changes"
+            else
+              EXIT_CODE=$?
+              echo "✗ Failed to push changes (exit code: $EXIT_CODE)"
+              echo "This may indicate a permissions issue. Check:"
+              echo "  1. Workflow has 'permissions: contents: write'"
+              echo "  2. Repository settings allow GitHub Actions to create and approve pull requests"
+              echo "  3. Branch protection rules don't block the push"
+              exit $EXIT_CODE
+            fi
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
       
       - name: Upload fetch results as artifact
