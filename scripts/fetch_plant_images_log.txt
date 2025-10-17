@@ -3388,3 +3388,624 @@
 [2025-10-17 02:37:32] Failed: 2 plants
 [2025-10-17 02:37:32] Skipped: 0 plants
 [2025-10-17 02:37:32] Total plants without images remaining: 61
+[2025-10-17 03:22:06] Batch job started (version 2.0.0)
+[2025-10-17 03:22:06] Limit set to 50 images
+[2025-10-17 03:22:06] Scanning for plants without images...
+[2025-10-17 03:22:06] Found 61 plants without images
+[2025-10-17 03:22:06] Processing 50 plants
+[2025-10-17 03:22:06] [1/50] Processing: Northern sweetvetch
+[2025-10-17 03:22:06]   Searching Wikipedia for: Hedysarum boreale ssp. Mackenzeii (Northern sweetvetch)
+[2025-10-17 03:22:06]     No image found on Wikipedia
+[2025-10-17 03:22:06]   Searching iNaturalist for: Hedysarum boreale ssp. Mackenzeii (Northern sweetvetch)
+[2025-10-17 03:22:07]     No image found on iNaturalist
+[2025-10-17 03:22:07]   No image found from any source - skipping
+[2025-10-17 03:22:07] [2/50] Processing: White Heath Aster
+[2025-10-17 03:22:07]   Searching Wikipedia for: Symphyotrichum ericoides var. ericoides (White Heath Aster)
+[2025-10-17 03:22:07]     No image found on Wikipedia
+[2025-10-17 03:22:07]   Searching iNaturalist for: Symphyotrichum ericoides var. ericoides (White Heath Aster)
+[2025-10-17 03:22:08]     Found taxon ID: 126654
+[2025-10-17 03:22:09]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/26483352/original.jpeg
+[2025-10-17 03:22:09]     Downloading from inaturalist to: public/images/plants/symphyotrichum-ericoides-var-ericoides/symphyotrichum-ericoides-var-ericoides-2025-10-17T03-22-09-058Z.jpg
+[2025-10-17 03:22:09]     Downloaded 1050.4 KB
+[2025-10-17 03:22:09]     Resized from 2048x1536 to 1200x900
+[2025-10-17 03:22:09]     Optimized to 170.5 KB (83.8% reduction)
+[2025-10-17 03:22:09]     Successfully processed image from inaturalist
+[2025-10-17 03:22:09]     Updated src/data/Plants/symphyotrichum-ericoides-var-ericoides.json with imageUrl
+[2025-10-17 03:22:09]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:09] [3/50] Processing: Golden tickseed
+[2025-10-17 03:22:09]   Searching Wikipedia for: Coreopsis tinctoria (Golden tickseed)
+[2025-10-17 03:22:10]     No image found on Wikipedia
+[2025-10-17 03:22:10]   Searching iNaturalist for: Coreopsis tinctoria (Golden tickseed)
+[2025-10-17 03:22:10]     Found taxon ID: 76445
+[2025-10-17 03:22:10]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/83189935/original.jpeg
+[2025-10-17 03:22:10]     Downloading from inaturalist to: public/images/plants/coreopsis-tinctoria/coreopsis-tinctoria-2025-10-17T03-22-10-854Z.jpg
+[2025-10-17 03:22:11]     Downloaded 1162.8 KB
+[2025-10-17 03:22:11]     Resized from 2048x1356 to 1200x794
+[2025-10-17 03:22:11]     Optimized to 399.6 KB (65.6% reduction)
+[2025-10-17 03:22:11]     Successfully processed image from inaturalist
+[2025-10-17 03:22:11]     Updated src/data/Plants/coreopsis-tinctoria.json with imageUrl
+[2025-10-17 03:22:11]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:11] [4/50] Processing: American Bistort
+[2025-10-17 03:22:11]   Searching Wikipedia for: Polygonum bistortoides (American Bistort)
+[2025-10-17 03:22:11]     No image found on Wikipedia
+[2025-10-17 03:22:11]   Searching iNaturalist for: Polygonum bistortoides (American Bistort)
+[2025-10-17 03:22:12]     Found taxon ID: 75770
+[2025-10-17 03:22:12]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/208566976/original.jpg
+[2025-10-17 03:22:12]     Downloading from inaturalist to: public/images/plants/polygonum-bistortoides/polygonum-bistortoides-2025-10-17T03-22-12-795Z.jpg
+[2025-10-17 03:22:13]     Downloaded 813.6 KB
+[2025-10-17 03:22:13]     Resized from 2048x1371 to 1200x803
+[2025-10-17 03:22:13]     Optimized to 89.0 KB (89.1% reduction)
+[2025-10-17 03:22:13]     Successfully processed image from inaturalist
+[2025-10-17 03:22:13]     Updated src/data/Plants/polygonum-bistortoides.json with imageUrl
+[2025-10-17 03:22:13]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:13] [5/50] Processing: Chokecherry
+[2025-10-17 03:22:13]   Searching Wikipedia for: Prunus virginiana var. virginiana (Chokecherry)
+[2025-10-17 03:22:13]     No image found on Wikipedia
+[2025-10-17 03:22:13]   Searching iNaturalist for: Prunus virginiana var. virginiana (Chokecherry)
+[2025-10-17 03:22:14]     Found taxon ID: 54835
+[2025-10-17 03:22:14]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/437258704/original.jpeg
+[2025-10-17 03:22:14]     Downloading from inaturalist to: public/images/plants/prunus-virginiana-virginiana/prunus-virginiana-virginiana-2025-10-17T03-22-14-506Z.jpg
+[2025-10-17 03:22:15]     Downloaded 1850.4 KB
+[2025-10-17 03:22:15]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:15]     Optimized to 178.0 KB (90.4% reduction)
+[2025-10-17 03:22:15]     Successfully processed image from inaturalist
+[2025-10-17 03:22:15]     Updated src/data/Plants/prunus-virginiana-virginiana.json with imageUrl
+[2025-10-17 03:22:15]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:15] [6/50] Processing: Babyslippers
+[2025-10-17 03:22:15]   Searching Wikipedia for: Hybanthus verticillatus (Babyslippers)
+[2025-10-17 03:22:15]     No image found on Wikipedia
+[2025-10-17 03:22:15]   Searching iNaturalist for: Hybanthus verticillatus (Babyslippers)
+[2025-10-17 03:22:15]     Found taxon ID: 785529
+[2025-10-17 03:22:16]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/130240029/original.jpg
+[2025-10-17 03:22:16]     Downloading from inaturalist to: public/images/plants/hybanthus-verticillatus/hybanthus-verticillatus-2025-10-17T03-22-16-046Z.jpg
+[2025-10-17 03:22:16]     Downloaded 669.6 KB
+[2025-10-17 03:22:16]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:16]     Optimized to 174.1 KB (74.0% reduction)
+[2025-10-17 03:22:16]     Successfully processed image from inaturalist
+[2025-10-17 03:22:16]     Updated src/data/Plants/hybanthus-verticillatus.json with imageUrl
+[2025-10-17 03:22:16]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:16] [7/50] Processing: Green Snakewood
+[2025-10-17 03:22:16]   Searching Wikipedia for: Condalia viridis (Green Snakewood)
+[2025-10-17 03:22:17]     No image found on Wikipedia
+[2025-10-17 03:22:17]   Searching iNaturalist for: Condalia viridis (Green Snakewood)
+[2025-10-17 03:22:17]     Found taxon ID: 160825
+[2025-10-17 03:22:17]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/426238990/original.jpeg
+[2025-10-17 03:22:17]     Downloading from inaturalist to: public/images/plants/condalia-viridis/condalia-viridis-2025-10-17T03-22-17-430Z.jpg
+[2025-10-17 03:22:18]     Downloaded 1435.3 KB
+[2025-10-17 03:22:18]     Resized from 2048x1363 to 1200x798
+[2025-10-17 03:22:18]     Optimized to 120.1 KB (91.6% reduction)
+[2025-10-17 03:22:18]     Successfully processed image from inaturalist
+[2025-10-17 03:22:18]     Updated src/data/Plants/condalia-viridis.json with imageUrl
+[2025-10-17 03:22:18]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:18] [8/50] Processing: New York Aster
+[2025-10-17 03:22:18]   Searching Wikipedia for: Symphyotrichum novi-belgii var. novi-belgii (New York Aster)
+[2025-10-17 03:22:18]     No image found on Wikipedia
+[2025-10-17 03:22:18]   Searching iNaturalist for: Symphyotrichum novi-belgii var. novi-belgii (New York Aster)
+[2025-10-17 03:22:19]     Found taxon ID: 169474
+[2025-10-17 03:22:19]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/331697693/original.jpeg
+[2025-10-17 03:22:19]     Downloading from inaturalist to: public/images/plants/symphyotrichum-novi-belgii-var-novi-belgii/symphyotrichum-novi-belgii-var-novi-belgii-2025-10-17T03-22-19-616Z.jpg
+[2025-10-17 03:22:20]     Downloaded 2464.0 KB
+[2025-10-17 03:22:20]     Resized from 2048x1494 to 1200x875
+[2025-10-17 03:22:20]     Optimized to 351.6 KB (85.7% reduction)
+[2025-10-17 03:22:20]     Successfully processed image from inaturalist
+[2025-10-17 03:22:20]     Updated src/data/Plants/symphyotrichum-novi-belgii-var-novi-belgii.json with imageUrl
+[2025-10-17 03:22:20]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:20] [9/50] Processing: Black Cohosh
+[2025-10-17 03:22:20]   Searching Wikipedia for: Actaea racemosa var. racemosa (Black Cohosh)
+[2025-10-17 03:22:20]     No image found on Wikipedia
+[2025-10-17 03:22:20]   Searching iNaturalist for: Actaea racemosa var. racemosa (Black Cohosh)
+[2025-10-17 03:22:21]     Found taxon ID: 119813
+[2025-10-17 03:22:21]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/302967085/original.jpg
+[2025-10-17 03:22:21]     Downloading from inaturalist to: public/images/plants/actaea-racemosa/actaea-racemosa-2025-10-17T03-22-21-398Z.jpg
+[2025-10-17 03:22:22]     Downloaded 1608.1 KB
+[2025-10-17 03:22:22]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:22]     Optimized to 409.8 KB (74.5% reduction)
+[2025-10-17 03:22:22]     Successfully processed image from inaturalist
+[2025-10-17 03:22:22]     Updated src/data/Plants/actaea-racemosa.json with imageUrl
+[2025-10-17 03:22:22]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:22] [10/50] Processing: California aster
+[2025-10-17 03:22:22]   Searching Wikipedia for: Corethrogyne filaginifolia (California aster)
+[2025-10-17 03:22:22]     No image found on Wikipedia
+[2025-10-17 03:22:22]   Searching iNaturalist for: Corethrogyne filaginifolia (California aster)
+[2025-10-17 03:22:22]     Found taxon ID: 58014
+[2025-10-17 03:22:22]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/933748/original.jpg
+[2025-10-17 03:22:22]     Downloading from inaturalist to: public/images/plants/corethrogyne-filaginifolia/corethrogyne-filaginifolia-2025-10-17T03-22-22-916Z.jpg
+[2025-10-17 03:22:23]     Downloaded 306.6 KB
+[2025-10-17 03:22:23]     Optimized to 85.5 KB (72.1% reduction)
+[2025-10-17 03:22:23]     Successfully processed image from inaturalist
+[2025-10-17 03:22:23]     Updated src/data/Plants/corethrogyne-filaginifolia.json with imageUrl
+[2025-10-17 03:22:23]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:23] [11/50] Processing: Big Bluestem
+[2025-10-17 03:22:23]   Searching Wikipedia for: Andropogon gerardii (Big Bluestem)
+[2025-10-17 03:22:23]     No image found on Wikipedia
+[2025-10-17 03:22:23]   Searching iNaturalist for: Andropogon gerardii (Big Bluestem)
+[2025-10-17 03:22:23]     Found taxon ID: 121968
+[2025-10-17 03:22:24]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/53387729/original.jpeg
+[2025-10-17 03:22:24]     Downloading from inaturalist to: public/images/plants/andropogon-gerardii/andropogon-gerardii-2025-10-17T03-22-24-117Z.jpg
+[2025-10-17 03:22:24]     Downloaded 1085.5 KB
+[2025-10-17 03:22:24]     Resized from 2048x1536 to 1200x900
+[2025-10-17 03:22:24]     Optimized to 259.6 KB (76.1% reduction)
+[2025-10-17 03:22:24]     Successfully processed image from inaturalist
+[2025-10-17 03:22:24]     Updated src/data/Plants/andropogon-gerardii.json with imageUrl
+[2025-10-17 03:22:24]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:24] [12/50] Processing: Bullgrass
+[2025-10-17 03:22:24]   Searching Wikipedia for: Muhlenbergia emersleyi (Bullgrass)
+[2025-10-17 03:22:25]     No image found on Wikipedia
+[2025-10-17 03:22:25]   Searching iNaturalist for: Muhlenbergia emersleyi (Bullgrass)
+[2025-10-17 03:22:25]     Found taxon ID: 165552
+[2025-10-17 03:22:25]     Found image on iNaturalist: https://static.inaturalist.org/photos/230566795/original.jpeg
+[2025-10-17 03:22:25]     Downloading from inaturalist to: public/images/plants/muhlenbergia-emersleyi/muhlenbergia-emersleyi-2025-10-17T03-22-25-888Z.jpg
+[2025-10-17 03:22:26]     Downloaded 3418.5 KB
+[2025-10-17 03:22:26]     Resized from 1542x2048 to 903x1200
+[2025-10-17 03:22:27]     Optimized to 546.9 KB (84.0% reduction)
+[2025-10-17 03:22:27]     Successfully processed image from inaturalist
+[2025-10-17 03:22:27]     Updated src/data/Plants/muhlenbergia-emersleyi.json with imageUrl
+[2025-10-17 03:22:27]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:27] [13/50] Processing: Redbay
+[2025-10-17 03:22:27]   Searching Wikipedia for: Persea borbonia (Redbay)
+[2025-10-17 03:22:27]     No image found on Wikipedia
+[2025-10-17 03:22:27]   Searching iNaturalist for: Persea borbonia (Redbay)
+[2025-10-17 03:22:27]     Found taxon ID: 131585
+[2025-10-17 03:22:27]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/22422092/original.jpeg
+[2025-10-17 03:22:27]     Downloading from inaturalist to: public/images/plants/persea-borbonia/persea-borbonia-2025-10-17T03-22-27-698Z.jpg
+[2025-10-17 03:22:28]     Downloaded 1370.6 KB
+[2025-10-17 03:22:28]     Resized from 2048x1365 to 1200x799
+[2025-10-17 03:22:28]     Optimized to 397.7 KB (71.0% reduction)
+[2025-10-17 03:22:28]     Successfully processed image from inaturalist
+[2025-10-17 03:22:28]     Updated src/data/Plants/persea-borbonia.json with imageUrl
+[2025-10-17 03:22:28]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:28] [14/50] Processing: Yellow Birch
+[2025-10-17 03:22:28]   Searching Wikipedia for: Betula alleghaniensis var. alleghaniensis (Yellow Birch)
+[2025-10-17 03:22:28]     No image found on Wikipedia
+[2025-10-17 03:22:28]   Searching iNaturalist for: Betula alleghaniensis var. alleghaniensis (Yellow Birch)
+[2025-10-17 03:22:28]     Found taxon ID: 49882
+[2025-10-17 03:22:29]     Found image on iNaturalist: https://static.inaturalist.org/photos/11175749/original.jpg
+[2025-10-17 03:22:29]     Downloading from inaturalist to: public/images/plants/betula-alleghaniensis/betula-alleghaniensis-2025-10-17T03-22-29-294Z.jpg
+[2025-10-17 03:22:30]     Downloaded 1608.4 KB
+[2025-10-17 03:22:30]     Resized from 2048x1536 to 1200x900
+[2025-10-17 03:22:30]     Optimized to 495.5 KB (69.2% reduction)
+[2025-10-17 03:22:30]     Successfully processed image from inaturalist
+[2025-10-17 03:22:30]     Updated src/data/Plants/betula-alleghaniensis.json with imageUrl
+[2025-10-17 03:22:30]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:30] [15/50] Processing: Northern Bayberry
+[2025-10-17 03:22:30]   Searching Wikipedia for: Morella pensylvanica (Northern Bayberry)
+[2025-10-17 03:22:30]     No image found on Wikipedia
+[2025-10-17 03:22:30]   Searching iNaturalist for: Morella pensylvanica (Northern Bayberry)
+[2025-10-17 03:22:30]     Found taxon ID: 64544
+[2025-10-17 03:22:30]     Found image on iNaturalist: https://static.inaturalist.org/photos/452523590/original.jpeg
+[2025-10-17 03:22:30]     Downloading from inaturalist to: public/images/plants/morella-pensylvanica/morella-pensylvanica-2025-10-17T03-22-30-684Z.jpg
+[2025-10-17 03:22:31]     Downloaded 722.6 KB
+[2025-10-17 03:22:31]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:31]     Optimized to 152.9 KB (78.8% reduction)
+[2025-10-17 03:22:31]     Successfully processed image from inaturalist
+[2025-10-17 03:22:31]     Updated src/data/Plants/morella-pensylvanica.json with imageUrl
+[2025-10-17 03:22:31]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:31] [16/50] Processing: Calico Aster
+[2025-10-17 03:22:31]   Searching Wikipedia for: Symphyotrichum lateriflorum var. lateriflorum (Calico Aster)
+[2025-10-17 03:22:31]     No image found on Wikipedia
+[2025-10-17 03:22:31]   Searching iNaturalist for: Symphyotrichum lateriflorum var. lateriflorum (Calico Aster)
+[2025-10-17 03:22:31]     Found taxon ID: 122249
+[2025-10-17 03:22:32]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/4360808/original.jpg
+[2025-10-17 03:22:32]     Downloading from inaturalist to: public/images/plants/symphyotrichum-lateriflorum-var-lateriflorum/symphyotrichum-lateriflorum-var-lateriflorum-2025-10-17T03-22-32-132Z.jpg
+[2025-10-17 03:22:32]     Downloaded 602.4 KB
+[2025-10-17 03:22:32]     Resized from 1152x2048 to 675x1200
+[2025-10-17 03:22:32]     Optimized to 137.6 KB (77.2% reduction)
+[2025-10-17 03:22:32]     Successfully processed image from inaturalist
+[2025-10-17 03:22:32]     Updated src/data/Plants/symphyotrichum-lateriflorum-var-lateriflorum.json with imageUrl
+[2025-10-17 03:22:32]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:32] [17/50] Processing: Vine Mesquite
+[2025-10-17 03:22:32]   Searching Wikipedia for: Panicum obtusum (Vine Mesquite)
+[2025-10-17 03:22:32]     No image found on Wikipedia
+[2025-10-17 03:22:32]   Searching iNaturalist for: Panicum obtusum (Vine Mesquite)
+[2025-10-17 03:22:33]     Found taxon ID: 292065
+[2025-10-17 03:22:33]     Found image on iNaturalist: https://static.inaturalist.org/photos/225840286/original.jpeg
+[2025-10-17 03:22:33]     Downloading from inaturalist to: public/images/plants/panicum-obtusum/panicum-obtusum-2025-10-17T03-22-33-454Z.jpg
+[2025-10-17 03:22:34]     Downloaded 2123.1 KB
+[2025-10-17 03:22:34]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:34]     Optimized to 329.0 KB (84.5% reduction)
+[2025-10-17 03:22:34]     Successfully processed image from inaturalist
+[2025-10-17 03:22:34]     Updated src/data/Plants/panicum-obtusum.json with imageUrl
+[2025-10-17 03:22:34]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:34] [18/50] Processing: Lodgepole Pine
+[2025-10-17 03:22:34]   Searching Wikipedia for: Pinus contorta var. latifolia (Lodgepole Pine)
+[2025-10-17 03:22:34]     No image found on Wikipedia
+[2025-10-17 03:22:34]   Searching iNaturalist for: Pinus contorta var. latifolia (Lodgepole Pine)
+[2025-10-17 03:22:34]     Found taxon ID: 48934
+[2025-10-17 03:22:35]     Found image on iNaturalist: https://static.inaturalist.org/photos/40050791/original.jpeg
+[2025-10-17 03:22:35]     Downloading from inaturalist to: public/images/plants/pinus-contorta-latifolia/pinus-contorta-latifolia-2025-10-17T03-22-35-112Z.jpg
+[2025-10-17 03:22:35]     Downloaded 1624.7 KB
+[2025-10-17 03:22:35]     Resized from 2048x1536 to 1200x900
+[2025-10-17 03:22:35]     Optimized to 353.4 KB (78.2% reduction)
+[2025-10-17 03:22:35]     Successfully processed image from inaturalist
+[2025-10-17 03:22:35]     Updated src/data/Plants/pinus-contorta-latifolia.json with imageUrl
+[2025-10-17 03:22:35]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:35] [19/50] Processing: Blunt-leaf Rabbit-tobacco
+[2025-10-17 03:22:35]   Searching Wikipedia for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-10-17 03:22:36]     No image found on Wikipedia
+[2025-10-17 03:22:36]   Searching iNaturalist for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-10-17 03:22:36]     No image found on iNaturalist
+[2025-10-17 03:22:36]   No image found from any source - skipping
+[2025-10-17 03:22:36] [20/50] Processing: Globemallow
+[2025-10-17 03:22:36]   Searching Wikipedia for: Sphaeralcea spp. (Globemallow)
+[2025-10-17 03:22:36]     No image found on Wikipedia
+[2025-10-17 03:22:36]   Searching iNaturalist for: Sphaeralcea spp. (Globemallow)
+[2025-10-17 03:22:37]     Found taxon ID: 50153
+[2025-10-17 03:22:37]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/346623857/original.jpeg
+[2025-10-17 03:22:37]     Downloading from inaturalist to: public/images/plants/sphaeralcea/sphaeralcea-2025-10-17T03-22-37-415Z.jpg
+[2025-10-17 03:22:38]     Downloaded 506.7 KB
+[2025-10-17 03:22:38]     Optimized to 143.2 KB (71.7% reduction)
+[2025-10-17 03:22:38]     Successfully processed image from inaturalist
+[2025-10-17 03:22:38]     Updated src/data/Plants/sphaeralcea.json with imageUrl
+[2025-10-17 03:22:38]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:38] [21/50] Processing: Saltmarsh Cordgrass
+[2025-10-17 03:22:38]   Searching Wikipedia for: Spartina alterniflora (Saltmarsh Cordgrass)
+[2025-10-17 03:22:38]     No image found on Wikipedia
+[2025-10-17 03:22:38]   Searching iNaturalist for: Spartina alterniflora (Saltmarsh Cordgrass)
+[2025-10-17 03:22:38]     Found taxon ID: 772903
+[2025-10-17 03:22:38]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/184684782/original.jpeg
+[2025-10-17 03:22:38]     Downloading from inaturalist to: public/images/plants/spartina-alterniflora/spartina-alterniflora-2025-10-17T03-22-38-810Z.jpg
+[2025-10-17 03:22:39]     Downloaded 3023.6 KB
+[2025-10-17 03:22:39]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:39]     Optimized to 468.9 KB (84.5% reduction)
+[2025-10-17 03:22:39]     Successfully processed image from inaturalist
+[2025-10-17 03:22:39]     Updated src/data/Plants/spartina-alterniflora.json with imageUrl
+[2025-10-17 03:22:39]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:39] [22/50] Processing: Bay Cedar
+[2025-10-17 03:22:39]   Searching Wikipedia for: Suriana maritima (Bay Cedar)
+[2025-10-17 03:22:39]     No image found on Wikipedia
+[2025-10-17 03:22:39]   Searching iNaturalist for: Suriana maritima (Bay Cedar)
+[2025-10-17 03:22:40]     Found taxon ID: 133328
+[2025-10-17 03:22:40]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/107524500/original.jpg
+[2025-10-17 03:22:40]     Downloading from inaturalist to: public/images/plants/suriana-maritima/suriana-maritima-2025-10-17T03-22-40-392Z.jpg
+[2025-10-17 03:22:41]     Downloaded 2114.1 KB
+[2025-10-17 03:22:41]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:41]     Optimized to 528.8 KB (75.0% reduction)
+[2025-10-17 03:22:41]     Successfully processed image from inaturalist
+[2025-10-17 03:22:41]     Updated src/data/Plants/suriana-maritima.json with imageUrl
+[2025-10-17 03:22:41]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:41] [23/50] Processing: White Panicle Aster
+[2025-10-17 03:22:41]   Searching Wikipedia for: Symphyotrichum lanceolatum var. lanceolatum (White Panicle Aster)
+[2025-10-17 03:22:41]     No image found on Wikipedia
+[2025-10-17 03:22:41]   Searching iNaturalist for: Symphyotrichum lanceolatum var. lanceolatum (White Panicle Aster)
+[2025-10-17 03:22:41]     Found taxon ID: 79301
+[2025-10-17 03:22:42]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/104420863/original.jpg
+[2025-10-17 03:22:42]     Downloading from inaturalist to: public/images/plants/symphyotrichum-lanceolatum-var-lanceolatum/symphyotrichum-lanceolatum-var-lanceolatum-2025-10-17T03-22-42-104Z.jpg
+[2025-10-17 03:22:42]     Downloaded 1523.1 KB
+[2025-10-17 03:22:42]     Resized from 1152x2048 to 675x1200
+[2025-10-17 03:22:42]     Optimized to 347.8 KB (77.2% reduction)
+[2025-10-17 03:22:42]     Successfully processed image from inaturalist
+[2025-10-17 03:22:42]     Updated src/data/Plants/symphyotrichum-lanceolatum-var-lanceolatum.json with imageUrl
+[2025-10-17 03:22:42]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:42] [24/50] Processing: Spreadingpod Rockcress
+[2025-10-17 03:22:42]   Searching Wikipedia for: Arabis ×divaricarpa (Spreadingpod Rockcress)
+[2025-10-17 03:22:43]     No image found on Wikipedia
+[2025-10-17 03:22:43]   Searching iNaturalist for: Arabis ×divaricarpa (Spreadingpod Rockcress)
+[2025-10-17 03:22:43]     Found taxon ID: 75788
+[2025-10-17 03:22:43]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/44370959/original.jpeg
+[2025-10-17 03:22:43]     Downloading from inaturalist to: public/images/plants/arabis-xdivaricarpa/arabis-xdivaricarpa-2025-10-17T03-22-43-649Z.jpg
+[2025-10-17 03:22:44]     Downloaded 1076.8 KB
+[2025-10-17 03:22:44]     Resized from 2048x1365 to 1200x799
+[2025-10-17 03:22:44]     Optimized to 111.3 KB (89.7% reduction)
+[2025-10-17 03:22:44]     Successfully processed image from inaturalist
+[2025-10-17 03:22:44]     Updated src/data/Plants/arabis-xdivaricarpa.json with imageUrl
+[2025-10-17 03:22:44]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:44] [25/50] Processing: Velvet-leaf Mallow
+[2025-10-17 03:22:44]   Searching Wikipedia for: Allowissadula holosericea (Velvet-leaf Mallow)
+[2025-10-17 03:22:44]     No image found on Wikipedia
+[2025-10-17 03:22:44]   Searching iNaturalist for: Allowissadula holosericea (Velvet-leaf Mallow)
+[2025-10-17 03:22:44]     Found taxon ID: 158198
+[2025-10-17 03:22:45]     Found image on iNaturalist: https://static.inaturalist.org/photos/94396679/original.jpeg
+[2025-10-17 03:22:45]     Downloading from inaturalist to: public/images/plants/allowissadula-holosericea/allowissadula-holosericea-2025-10-17T03-22-45-127Z.jpg
+[2025-10-17 03:22:45]     Downloaded 1996.3 KB
+[2025-10-17 03:22:45]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:45]     Optimized to 190.9 KB (90.4% reduction)
+[2025-10-17 03:22:45]     Successfully processed image from inaturalist
+[2025-10-17 03:22:45]     Updated src/data/Plants/allowissadula-holosericea.json with imageUrl
+[2025-10-17 03:22:45]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:45] [26/50] Processing: Smallflower False Foxglove
+[2025-10-17 03:22:45]   Searching Wikipedia for: Agalinis paupercula var. borealis (Smallflower False Foxglove)
+[2025-10-17 03:22:46]     No image found on Wikipedia
+[2025-10-17 03:22:46]   Searching iNaturalist for: Agalinis paupercula var. borealis (Smallflower False Foxglove)
+[2025-10-17 03:22:46]     No image found on iNaturalist
+[2025-10-17 03:22:46]   No image found from any source - skipping
+[2025-10-17 03:22:46] [27/50] Processing: Bracted Passionflower
+[2025-10-17 03:22:46]   Searching Wikipedia for: Passiflora affinis (Bracted Passionflower)
+[2025-10-17 03:22:46]     No image found on Wikipedia
+[2025-10-17 03:22:46]   Searching iNaturalist for: Passiflora affinis (Bracted Passionflower)
+[2025-10-17 03:22:46]     Found taxon ID: 166200
+[2025-10-17 03:22:47]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/98056235/original.jpeg
+[2025-10-17 03:22:47]     Downloading from inaturalist to: public/images/plants/passiflora-affinis/passiflora-affinis-2025-10-17T03-22-47-120Z.jpg
+[2025-10-17 03:22:47]     Downloaded 441.0 KB
+[2025-10-17 03:22:47]     Resized from 2048x1412 to 1200x827
+[2025-10-17 03:22:47]     Optimized to 123.0 KB (72.1% reduction)
+[2025-10-17 03:22:47]     Successfully processed image from inaturalist
+[2025-10-17 03:22:47]     Updated src/data/Plants/passiflora-affinis.json with imageUrl
+[2025-10-17 03:22:47]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:47] [28/50] Processing: Hinckley's Golden Columbine
+[2025-10-17 03:22:47]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-17 03:22:48]     No image found on Wikipedia
+[2025-10-17 03:22:48]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-17 03:22:48]     No image found on iNaturalist
+[2025-10-17 03:22:48]   No image found from any source - skipping
+[2025-10-17 03:22:48] [29/50] Processing: Glaucous Bluegrass
+[2025-10-17 03:22:48]   Searching Wikipedia for: Poa glauca ssp. glauca (Glaucous Bluegrass)
+[2025-10-17 03:22:48]     No image found on Wikipedia
+[2025-10-17 03:22:48]   Searching iNaturalist for: Poa glauca ssp. glauca (Glaucous Bluegrass)
+[2025-10-17 03:22:48]     Found taxon ID: 78641
+[2025-10-17 03:22:49]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/307756020/original.jpg
+[2025-10-17 03:22:49]     Downloading from inaturalist to: public/images/plants/poa-glauca-glauca/poa-glauca-glauca-2025-10-17T03-22-49-040Z.jpg
+[2025-10-17 03:22:49]     Downloaded 1392.4 KB
+[2025-10-17 03:22:49]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:49]     Optimized to 337.0 KB (75.8% reduction)
+[2025-10-17 03:22:49]     Successfully processed image from inaturalist
+[2025-10-17 03:22:49]     Updated src/data/Plants/poa-glauca-glauca.json with imageUrl
+[2025-10-17 03:22:49]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:49] [30/50] Processing: American milkvetch
+[2025-10-17 03:22:49]   Searching Wikipedia for: Astragalus americanus (American milkvetch)
+[2025-10-17 03:22:49]     No image found on Wikipedia
+[2025-10-17 03:22:49]   Searching iNaturalist for: Astragalus americanus (American milkvetch)
+[2025-10-17 03:22:50]     Found taxon ID: 158825
+[2025-10-17 03:22:50]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/550632748/original.jpg
+[2025-10-17 03:22:50]     Downloading from inaturalist to: public/images/plants/astragalus-americanus/astragalus-americanus-2025-10-17T03-22-50-495Z.jpg
+[2025-10-17 03:22:51]     Downloaded 1876.5 KB
+[2025-10-17 03:22:51]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:51]     Optimized to 99.8 KB (94.7% reduction)
+[2025-10-17 03:22:51]     Successfully processed image from inaturalist
+[2025-10-17 03:22:51]     Updated src/data/Plants/astragalus-americanus.json with imageUrl
+[2025-10-17 03:22:51]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:51] [31/50] Processing: Early Shaggytuft
+[2025-10-17 03:22:51]   Searching Wikipedia for: Stenandrium barbatum (Early Shaggytuft)
+[2025-10-17 03:22:51]     No image found on Wikipedia
+[2025-10-17 03:22:51]   Searching iNaturalist for: Stenandrium barbatum (Early Shaggytuft)
+[2025-10-17 03:22:51]     Found taxon ID: 156081
+[2025-10-17 03:22:52]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/116148827/original.jpeg
+[2025-10-17 03:22:52]     Downloading from inaturalist to: public/images/plants/stenandrium-barbatum/stenandrium-barbatum-2025-10-17T03-22-52-134Z.jpg
+[2025-10-17 03:22:52]     Downloaded 895.8 KB
+[2025-10-17 03:22:52]     Resized from 1620x1080 to 1200x800
+[2025-10-17 03:22:52]     Optimized to 216.6 KB (75.8% reduction)
+[2025-10-17 03:22:52]     Successfully processed image from inaturalist
+[2025-10-17 03:22:52]     Updated src/data/Plants/stenandrium-barbatum.json with imageUrl
+[2025-10-17 03:22:52]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:52] [32/50] Processing: Dakota mock vervain
+[2025-10-17 03:22:52]   Searching Wikipedia for: Glandularia bipinnatifida (Dakota mock vervain)
+[2025-10-17 03:22:53]     No image found on Wikipedia
+[2025-10-17 03:22:53]   Searching iNaturalist for: Glandularia bipinnatifida (Dakota mock vervain)
+[2025-10-17 03:22:53]     Found taxon ID: 125675
+[2025-10-17 03:22:53]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/185846120/original.jpeg
+[2025-10-17 03:22:53]     Downloading from inaturalist to: public/images/plants/glandularia-bipinnatifida/glandularia-bipinnatifida-2025-10-17T03-22-53-685Z.jpg
+[2025-10-17 03:22:54]     Downloaded 1525.9 KB
+[2025-10-17 03:22:54]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:54]     Optimized to 128.9 KB (91.6% reduction)
+[2025-10-17 03:22:54]     Successfully processed image from inaturalist
+[2025-10-17 03:22:54]     Updated src/data/Plants/glandularia-bipinnatifida.json with imageUrl
+[2025-10-17 03:22:54]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:54] [33/50] Processing: Honey Locust
+[2025-10-17 03:22:54]   Searching Wikipedia for: Gleditsia triacanthos (Honey Locust)
+[2025-10-17 03:22:54]     No image found on Wikipedia
+[2025-10-17 03:22:54]   Searching iNaturalist for: Gleditsia triacanthos (Honey Locust)
+[2025-10-17 03:22:54]     Found taxon ID: 54797
+[2025-10-17 03:22:55]     Found image on iNaturalist: https://static.inaturalist.org/photos/43678513/original.jpg
+[2025-10-17 03:22:55]     Downloading from inaturalist to: public/images/plants/gleditsia-triacanthos/gleditsia-triacanthos-2025-10-17T03-22-55-283Z.jpg
+[2025-10-17 03:22:55]     Downloaded 1006.7 KB
+[2025-10-17 03:22:55]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:22:55]     Optimized to 179.3 KB (82.2% reduction)
+[2025-10-17 03:22:55]     Successfully processed image from inaturalist
+[2025-10-17 03:22:55]     Updated src/data/Plants/gleditsia-triacanthos.json with imageUrl
+[2025-10-17 03:22:55]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:55] [34/50] Processing: Alpine Bistort
+[2025-10-17 03:22:55]   Searching Wikipedia for: Polygonum viviparum (Alpine Bistort)
+[2025-10-17 03:22:56]     No image found on Wikipedia
+[2025-10-17 03:22:56]   Searching iNaturalist for: Polygonum viviparum (Alpine Bistort)
+[2025-10-17 03:22:56]     Found taxon ID: 130545
+[2025-10-17 03:22:56]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/216067790/original.jpeg
+[2025-10-17 03:22:56]     Downloading from inaturalist to: public/images/plants/polygonum-viviparum/polygonum-viviparum-2025-10-17T03-22-56-637Z.jpg
+[2025-10-17 03:22:57]     Downloaded 1217.1 KB
+[2025-10-17 03:22:57]     Resized from 969x2048 to 567x1200
+[2025-10-17 03:22:57]     Optimized to 109.9 KB (91.0% reduction)
+[2025-10-17 03:22:57]     Successfully processed image from inaturalist
+[2025-10-17 03:22:57]     Updated src/data/Plants/polygonum-viviparum.json with imageUrl
+[2025-10-17 03:22:57]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:57] [35/50] Processing: Swanflower
+[2025-10-17 03:22:57]   Searching Wikipedia for: Aristolochia erecta (Swanflower)
+[2025-10-17 03:22:57]     No image found on Wikipedia
+[2025-10-17 03:22:57]   Searching iNaturalist for: Aristolochia erecta (Swanflower)
+[2025-10-17 03:22:57]     Found taxon ID: 55188
+[2025-10-17 03:22:58]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/51553473/original.jpeg
+[2025-10-17 03:22:58]     Downloading from inaturalist to: public/images/plants/aristolochia-erecta/aristolochia-erecta-2025-10-17T03-22-58-057Z.jpg
+[2025-10-17 03:22:58]     Downloaded 443.0 KB
+[2025-10-17 03:22:58]     Resized from 1080x1620 to 800x1200
+[2025-10-17 03:22:58]     Optimized to 138.2 KB (68.8% reduction)
+[2025-10-17 03:22:58]     Successfully processed image from inaturalist
+[2025-10-17 03:22:58]     Updated src/data/Plants/aristolochia-erecta.json with imageUrl
+[2025-10-17 03:22:58]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:22:58] [36/50] Processing: Eastern Black Cherry
+[2025-10-17 03:22:58]   Searching Wikipedia for: Prunus serotina var. serotina (Eastern Black Cherry)
+[2025-10-17 03:22:58]     No image found on Wikipedia
+[2025-10-17 03:22:58]   Searching iNaturalist for: Prunus serotina var. serotina (Eastern Black Cherry)
+[2025-10-17 03:22:59]     No image found on iNaturalist
+[2025-10-17 03:22:59]   No image found from any source - skipping
+[2025-10-17 03:22:59] [37/50] Processing: Desert willow
+[2025-10-17 03:22:59]   Searching Wikipedia for: Chilopsis linearis (Desert willow)
+[2025-10-17 03:22:59]     No image found on Wikipedia
+[2025-10-17 03:22:59]   Searching iNaturalist for: Chilopsis linearis (Desert willow)
+[2025-10-17 03:22:59]     Found taxon ID: 76290
+[2025-10-17 03:22:59]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/10501440/original.jpg
+[2025-10-17 03:22:59]     Downloading from inaturalist to: public/images/plants/chilopsis-linearis/chilopsis-linearis-2025-10-17T03-22-59-894Z.jpg
+[2025-10-17 03:23:00]     Downloaded 671.4 KB
+[2025-10-17 03:23:00]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:23:00]     Optimized to 160.1 KB (76.2% reduction)
+[2025-10-17 03:23:00]     Successfully processed image from inaturalist
+[2025-10-17 03:23:00]     Updated src/data/Plants/chilopsis-linearis.json with imageUrl
+[2025-10-17 03:23:00]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:00] [38/50] Processing: Birdwing Passionflower
+[2025-10-17 03:23:00]   Searching Wikipedia for: Passiflora tenuiloba (Birdwing Passionflower)
+[2025-10-17 03:23:00]     No image found on Wikipedia
+[2025-10-17 03:23:00]   Searching iNaturalist for: Passiflora tenuiloba (Birdwing Passionflower)
+[2025-10-17 03:23:00]     Found taxon ID: 166217
+[2025-10-17 03:23:01]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/53948120/original.jpg
+[2025-10-17 03:23:01]     Downloading from inaturalist to: public/images/plants/passiflora-tenuiloba/passiflora-tenuiloba-2025-10-17T03-23-01-235Z.jpg
+[2025-10-17 03:23:01]     Downloaded 112.4 KB
+[2025-10-17 03:23:01]     Optimized to 61.5 KB (45.3% reduction)
+[2025-10-17 03:23:01]     Successfully processed image from inaturalist
+[2025-10-17 03:23:01]     Updated src/data/Plants/passiflora-tenuiloba.json with imageUrl
+[2025-10-17 03:23:01]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:01] [39/50] Processing: Saw Palmetto
+[2025-10-17 03:23:01]   Searching Wikipedia for: Serenoa repens (Saw Palmetto)
+[2025-10-17 03:23:01]     No image found on Wikipedia
+[2025-10-17 03:23:01]   Searching iNaturalist for: Serenoa repens (Saw Palmetto)
+[2025-10-17 03:23:02]     Found taxon ID: 83102
+[2025-10-17 03:23:02]     Found image on iNaturalist: https://static.inaturalist.org/photos/465544210/original.jpg
+[2025-10-17 03:23:02]     Downloading from inaturalist to: public/images/plants/serenoa-repens/serenoa-repens-2025-10-17T03-23-02-404Z.jpg
+[2025-10-17 03:23:03]     Downloaded 1205.8 KB
+[2025-10-17 03:23:03]     Resized from 2048x1536 to 1200x900
+[2025-10-17 03:23:03]     Optimized to 285.7 KB (76.3% reduction)
+[2025-10-17 03:23:03]     Successfully processed image from inaturalist
+[2025-10-17 03:23:03]     Updated src/data/Plants/serenoa-repens.json with imageUrl
+[2025-10-17 03:23:03]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:03] [40/50] Processing: Douglas Fir
+[2025-10-17 03:23:03]   Searching Wikipedia for: Pseudotsuga menziesii (Douglas Fir)
+[2025-10-17 03:23:03]     No image found on Wikipedia
+[2025-10-17 03:23:03]   Searching iNaturalist for: Pseudotsuga menziesii (Douglas Fir)
+[2025-10-17 03:23:03]     Found taxon ID: 48256
+[2025-10-17 03:23:03]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/107210094/original.jpeg
+[2025-10-17 03:23:03]     Downloading from inaturalist to: public/images/plants/pseudotsuga-menziesii/pseudotsuga-menziesii-2025-10-17T03-23-03-998Z.jpg
+[2025-10-17 03:23:04]     Downloaded 2810.0 KB
+[2025-10-17 03:23:04]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:23:04]     Optimized to 391.9 KB (86.1% reduction)
+[2025-10-17 03:23:04]     Successfully processed image from inaturalist
+[2025-10-17 03:23:04]     Updated src/data/Plants/pseudotsuga-menziesii.json with imageUrl
+[2025-10-17 03:23:04]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:04] [41/50] Processing: Pacific Wax Myrtle
+[2025-10-17 03:23:04]   Searching Wikipedia for: Morella californica (Pacific Wax Myrtle)
+[2025-10-17 03:23:05]     No image found on Wikipedia
+[2025-10-17 03:23:05]   Searching iNaturalist for: Morella californica (Pacific Wax Myrtle)
+[2025-10-17 03:23:05]     Found taxon ID: 61039
+[2025-10-17 03:23:05]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/116813280/original.jpeg
+[2025-10-17 03:23:05]     Downloading from inaturalist to: public/images/plants/morella-californica/morella-californica-2025-10-17T03-23-05-693Z.jpg
+[2025-10-17 03:23:06]     Downloaded 1595.9 KB
+[2025-10-17 03:23:06]     Resized from 2048x1536 to 1200x900
+[2025-10-17 03:23:06]     Optimized to 156.9 KB (90.2% reduction)
+[2025-10-17 03:23:06]     Successfully processed image from inaturalist
+[2025-10-17 03:23:06]     Updated src/data/Plants/morella-californica.json with imageUrl
+[2025-10-17 03:23:06]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:06] [42/50] Processing: Tufted evening primrose
+[2025-10-17 03:23:06]   Searching Wikipedia for: Oenothera caespitosa (Tufted evening primrose)
+[2025-10-17 03:23:06]     No image found on Wikipedia
+[2025-10-17 03:23:06]   Searching iNaturalist for: Oenothera caespitosa (Tufted evening primrose)
+[2025-10-17 03:23:06]     Found taxon ID: 78240
+[2025-10-17 03:23:07]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/197420393/original.jpeg
+[2025-10-17 03:23:07]     Downloading from inaturalist to: public/images/plants/oenothera-caespitosa/oenothera-caespitosa-2025-10-17T03-23-07-558Z.jpg
+[2025-10-17 03:23:08]     Downloaded 817.4 KB
+[2025-10-17 03:23:08]     Resized from 1284x1712 to 900x1200
+[2025-10-17 03:23:08]     Optimized to 285.2 KB (65.1% reduction)
+[2025-10-17 03:23:08]     Successfully processed image from inaturalist
+[2025-10-17 03:23:08]     Updated src/data/Plants/oenothera-caespitosa.json with imageUrl
+[2025-10-17 03:23:08]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:08] [43/50] Processing: False Melic
+[2025-10-17 03:23:08]   Searching Wikipedia for: Schizachne purpurascens (False Melic)
+[2025-10-17 03:23:08]     No image found on Wikipedia
+[2025-10-17 03:23:08]   Searching iNaturalist for: Schizachne purpurascens (False Melic)
+[2025-10-17 03:23:08]     Found taxon ID: 129497
+[2025-10-17 03:23:09]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/405805397/original.jpeg
+[2025-10-17 03:23:09]     Downloading from inaturalist to: public/images/plants/schizachne-purpurascens/schizachne-purpurascens-2025-10-17T03-23-09-048Z.jpg
+[2025-10-17 03:23:09]     Downloaded 1371.5 KB
+[2025-10-17 03:23:09]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:23:09]     Optimized to 91.4 KB (93.3% reduction)
+[2025-10-17 03:23:09]     Successfully processed image from inaturalist
+[2025-10-17 03:23:09]     Updated src/data/Plants/schizachne-purpurascens.json with imageUrl
+[2025-10-17 03:23:09]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:09] [44/50] Processing: Common Hop
+[2025-10-17 03:23:09]   Searching Wikipedia for: Humulus lupulus var. lupuloides (Common Hop)
+[2025-10-17 03:23:10]     No image found on Wikipedia
+[2025-10-17 03:23:10]   Searching iNaturalist for: Humulus lupulus var. lupuloides (Common Hop)
+[2025-10-17 03:23:10]     Found taxon ID: 53779
+[2025-10-17 03:23:10]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/123174917/original.jpeg
+[2025-10-17 03:23:10]     Downloading from inaturalist to: public/images/plants/humulus-lupulus-var.-lupuloides/humulus-lupulus-var.-lupuloides-2025-10-17T03-23-10-605Z.jpg
+[2025-10-17 03:23:11]     Downloaded 2989.6 KB
+[2025-10-17 03:23:11]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:23:11]     Optimized to 443.3 KB (85.2% reduction)
+[2025-10-17 03:23:11]     Successfully processed image from inaturalist
+[2025-10-17 03:23:11]     Updated src/data/Plants/humulus-lupulus-var.-lupuloides.json with imageUrl
+[2025-10-17 03:23:11]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:11] [45/50] Processing: Western Soapberry
+[2025-10-17 03:23:11]   Searching Wikipedia for: Sapindus saponaria var. drummondii (Western Soapberry)
+[2025-10-17 03:23:11]     No image found on Wikipedia
+[2025-10-17 03:23:11]   Searching iNaturalist for: Sapindus saponaria var. drummondii (Western Soapberry)
+[2025-10-17 03:23:12]     Found taxon ID: 286324
+[2025-10-17 03:23:12]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/52438335/original.jpeg
+[2025-10-17 03:23:12]     Downloading from inaturalist to: public/images/plants/sapindus-saponaria-drummondii/sapindus-saponaria-drummondii-2025-10-17T03-23-12-406Z.jpg
+[2025-10-17 03:23:13]     Downloaded 1838.0 KB
+[2025-10-17 03:23:13]     Resized from 1484x2048 to 869x1200
+[2025-10-17 03:23:13]     Optimized to 210.1 KB (88.6% reduction)
+[2025-10-17 03:23:13]     Successfully processed image from inaturalist
+[2025-10-17 03:23:13]     Updated src/data/Plants/sapindus-saponaria-drummondii.json with imageUrl
+[2025-10-17 03:23:13]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:13] [46/50] Processing: Rocky Mountain Bee-plant
+[2025-10-17 03:23:13]   Searching Wikipedia for: Peritoma serrulata (Rocky Mountain Bee-plant)
+[2025-10-17 03:23:13]     No image found on Wikipedia
+[2025-10-17 03:23:13]   Searching iNaturalist for: Peritoma serrulata (Rocky Mountain Bee-plant)
+[2025-10-17 03:23:13]     Found taxon ID: 1415100
+[2025-10-17 03:23:13]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/443815513/original.jpeg
+[2025-10-17 03:23:13]     Downloading from inaturalist to: public/images/plants/peritoma-serrulata/peritoma-serrulata-2025-10-17T03-23-13-993Z.jpg
+[2025-10-17 03:23:14]     Downloaded 1373.4 KB
+[2025-10-17 03:23:14]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:23:14]     Optimized to 138.8 KB (89.9% reduction)
+[2025-10-17 03:23:14]     Successfully processed image from inaturalist
+[2025-10-17 03:23:14]     Updated src/data/Plants/peritoma-serrulata.json with imageUrl
+[2025-10-17 03:23:14]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:14] [47/50] Processing: Annual Wildrice
+[2025-10-17 03:23:14]   Searching Wikipedia for: Zizania aquatica (Annual Wildrice)
+[2025-10-17 03:23:14]     No image found on Wikipedia
+[2025-10-17 03:23:14]   Searching iNaturalist for: Zizania aquatica (Annual Wildrice)
+[2025-10-17 03:23:15]     Found taxon ID: 118730
+[2025-10-17 03:23:15]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/310514849/original.jpeg
+[2025-10-17 03:23:15]     Downloading from inaturalist to: public/images/plants/zizania-aquatica/zizania-aquatica-2025-10-17T03-23-15-444Z.jpg
+[2025-10-17 03:23:16]     Downloaded 859.9 KB
+[2025-10-17 03:23:16]     Resized from 2048x1536 to 1200x900
+[2025-10-17 03:23:16]     Optimized to 333.9 KB (61.2% reduction)
+[2025-10-17 03:23:16]     Successfully processed image from inaturalist
+[2025-10-17 03:23:16]     Updated src/data/Plants/zizania-aquatica.json with imageUrl
+[2025-10-17 03:23:16]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:16] [48/50] Processing: Fireweed
+[2025-10-17 03:23:16]   Searching Wikipedia for: Chamerion angustifolium (Fireweed)
+[2025-10-17 03:23:16]     No image found on Wikipedia
+[2025-10-17 03:23:16]   Searching iNaturalist for: Chamerion angustifolium (Fireweed)
+[2025-10-17 03:23:16]     Found taxon ID: 564969
+[2025-10-17 03:23:16]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/58732683/original.jpg
+[2025-10-17 03:23:16]     Downloading from inaturalist to: public/images/plants/chamerion-angustifolium/chamerion-angustifolium-2025-10-17T03-23-16-857Z.jpg
+[2025-10-17 03:23:17]     Downloaded 851.7 KB
+[2025-10-17 03:23:17]     Resized from 2048x1536 to 1200x900
+[2025-10-17 03:23:17]     Optimized to 255.7 KB (70.0% reduction)
+[2025-10-17 03:23:17]     Successfully processed image from inaturalist
+[2025-10-17 03:23:17]     Updated src/data/Plants/chamerion-angustifolium.json with imageUrl
+[2025-10-17 03:23:17]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:17] [49/50] Processing: Common Deerweed
+[2025-10-17 03:23:17]   Searching Wikipedia for: Lotus scoparius (Common Deerweed)
+[2025-10-17 03:23:17]     No image found on Wikipedia
+[2025-10-17 03:23:17]   Searching iNaturalist for: Lotus scoparius (Common Deerweed)
+[2025-10-17 03:23:18]     Found taxon ID: 53134
+[2025-10-17 03:23:18]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/36678900/original.jpg
+[2025-10-17 03:23:18]     Downloading from inaturalist to: public/images/plants/lotus-scoparius/lotus-scoparius-2025-10-17T03-23-18-406Z.jpg
+[2025-10-17 03:23:19]     Downloaded 2480.5 KB
+[2025-10-17 03:23:19]     Resized from 1536x2048 to 900x1200
+[2025-10-17 03:23:19]     Optimized to 566.4 KB (77.2% reduction)
+[2025-10-17 03:23:19]     Successfully processed image from inaturalist
+[2025-10-17 03:23:19]     Updated src/data/Plants/lotus-scoparius.json with imageUrl
+[2025-10-17 03:23:19]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:19] [50/50] Processing: Knifeleaf Condalia
+[2025-10-17 03:23:19]   Searching Wikipedia for: Condalia spathulata (Knifeleaf Condalia)
+[2025-10-17 03:23:19]     No image found on Wikipedia
+[2025-10-17 03:23:19]   Searching iNaturalist for: Condalia spathulata (Knifeleaf Condalia)
+[2025-10-17 03:23:19]     Found taxon ID: 160824
+[2025-10-17 03:23:20]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/5163836/original.jpg
+[2025-10-17 03:23:20]     Downloading from inaturalist to: public/images/plants/condalia-spathulata/condalia-spathulata-2025-10-17T03-23-20-210Z.jpg
+[2025-10-17 03:23:20]     Downloaded 146.7 KB
+[2025-10-17 03:23:20]     Optimized to 112.3 KB (23.5% reduction)
+[2025-10-17 03:23:20]     Successfully processed image from inaturalist
+[2025-10-17 03:23:20]     Updated src/data/Plants/condalia-spathulata.json with imageUrl
+[2025-10-17 03:23:20]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 03:23:20] Batch job completed
+[2025-10-17 03:23:20] Successfully processed: 45 plants
+[2025-10-17 03:23:20] Failed: 5 plants
+[2025-10-17 03:23:20] Skipped: 0 plants
+[2025-10-17 03:23:20] Total plants without images remaining: 16
