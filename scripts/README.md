@@ -11,20 +11,25 @@ This directory contains batch job scripts for the PlantFinder application.
 
 ## Plant Image Fetcher
 
+**⚠️ Updated**: Now includes iNaturalist fallback support and automatic image optimization (resizing + compression) for better performance!
+
 ### Overview
 
-The `fetch_plant_images.py` script is a batch job that downloads plant images from Wikipedia/Wikimedia Commons. The script:
+The `fetch_plant_images.py` script is a batch job that downloads plant images from Wikipedia/Wikimedia Commons and iNaturalist. The script:
 
 1. **Identifies plants without images** by scanning `src/data/Plants/` for JSON files missing `imageUrl`
 2. **Searches Wikipedia** for high-quality images using both scientific and common names
-3. **Downloads images** to the appropriate `public/images/plants/{plant-id}/` directory
-4. **Updates plant JSON files** with the `imageUrl` field
-5. **Skips plants** that already have images
+3. **Falls back to iNaturalist** if Wikipedia doesn't have images
+4. **Optimizes images** by resizing and compressing to reduce file size
+5. **Downloads images** to the appropriate `public/images/plants/{plant-id}/` directory
+6. **Updates plant JSON files** with the `imageUrl` field
+7. **Skips plants** that already have images
 
 ### Features
 
-- **Wikipedia Integration**: Queries Wikipedia API for main article images
-- **Smart Search**: Tries both scientific and common plant names
+- **Multi-Source Integration**: Queries Wikipedia API first, then falls back to iNaturalist API
+- **Smart Search**: Tries both scientific and common plant names on each source
+- **Image Optimization**: Resizes images to max 1200x1200px and compresses to JPEG (typically 70-90% file size reduction)
 - **High-Quality Images**: Prefers full-size images over thumbnails
 - **Automatic Directory Creation**: Creates plant-specific folders as needed
 - **JSON Updates**: Automatically updates plant data files with image URLs
@@ -32,7 +37,17 @@ The `fetch_plant_images.py` script is a batch job that downloads plant images fr
 - **Rate Limiting**: Respectful delays between requests
 - **Test Mode**: Dry run mode for testing without downloads
 - **Batch Limiting**: Can limit number of images per run to avoid rate limits
-- **Detailed Logging**: Timestamped logs of all operations
+- **Detailed Logging**: Timestamped logs of all operations with file size metrics
+
+### Image Optimization
+
+All downloaded images are processed for optimal web performance:
+
+- **Resizing**: Images larger than 1200x1200px are resized while maintaining aspect ratio
+- **Format Conversion**: All images are converted to optimized JPEG format
+- **Quality**: 85% JPEG quality for excellent visual quality at smaller file size
+- **Typical Results**: 70-90% file size reduction (e.g., 1.6 MB → 168 KB)
+- **Graceful Fallback**: If optimization fails, the original image is saved
 
 ### Usage
 
