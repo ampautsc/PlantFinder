@@ -77,6 +77,9 @@ def fetch_state_native_range(taxon_id):
     """Fetch state-level native range data for a taxon."""
     native_states = []
     total_states = len(US_STATE_PLACE_IDS)
+    # Calculate max line length for proper clearing: "    [50/50] Checking North Carolina..."
+    max_state_name_len = max(len(name) for name in US_STATE_PLACE_IDS.keys())
+    max_line_len = len(f"    [{total_states}/{total_states}] Checking ") + max_state_name_len + 3
     
     print(f"  Fetching state-level native range data (checking {total_states} states)...")
     
@@ -109,13 +112,14 @@ def fetch_state_native_range(taxon_id):
                         if means == 'native' and place.get('id') == place_id:
                             native_states.append(state_name)
                             # Clear the progress line and print the result
-                            print(f"\r    [{state_index}/{total_states}] ✓ Native to {state_name}" + " " * 20)
+                            result_line = f"    [{state_index}/{total_states}] ✓ Native to {state_name}"
+                            print(f"\r{result_line}" + " " * (max_line_len - len(result_line)))
                             break
         except json.JSONDecodeError:
             continue
     
     # Clear the progress line
-    print(f"\r" + " " * 80)
+    print(f"\r" + " " * max_line_len)
     
     return native_states
 

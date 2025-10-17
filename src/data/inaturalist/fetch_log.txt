@@ -130,3 +130,25 @@
 [2025-10-17 21:43:02] Saved plant data: inaturalist-52821.json
 [2025-10-17 21:43:02] Processed 1 plants successfully, 0 skipped, 0 failures
 [2025-10-17 21:43:02] Batch job completed
+[2025-10-17 21:45:11] Batch job started (test mode)
+[2025-10-17 21:45:11] Limit set to 1 plants
+[2025-10-17 21:45:11] Using mock taxa data for testing
+[2025-10-17 21:45:11] Taxa search result: Successfully loaded test data
+[2025-10-17 21:45:11] Saved plant data: inaturalist-47604.json
+[2025-10-17 21:45:11] Processed 1 plants successfully, 0 skipped, 0 failures
+[2025-10-17 21:45:11] Batch job completed
+[2025-10-17 21:47:39] Batch job started (test mode)
+[2025-10-17 21:47:39] Limit set to 1 plants
+[2025-10-17 21:47:39] Using mock taxa data for testing
+[2025-10-17 21:47:39] Taxa search result: Successfully loaded test data
+[2025-10-17 21:47:39] Saved plant data: inaturalist-47604.json
+[2025-10-17 21:47:39] Processed 1 plants successfully, 0 skipped, 0 failures
+[2025-10-17 21:47:39] Batch job completed
+[2025-10-17 21:47:48] Batch job started (normal mode)
+[2025-10-17 21:47:48] Limit set to 1 plants
+[2025-10-17 21:47:48] Fetching taxa from API: taxon_id=47126&rank=species&place_id=97389&per_page=1
+[2025-10-17 21:47:50] Found 1 taxa (total available: 274052)
+[2025-10-17 21:47:50] Taxa search result: Successfully fetched 1 taxa
+[2025-10-17 21:48:47] Saved plant data: inaturalist-52821.json
+[2025-10-17 21:48:47] Processed 1 plants successfully, 0 skipped, 0 failures
+[2025-10-17 21:48:47] Batch job completed
