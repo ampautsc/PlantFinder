@@ -2,6 +2,157 @@
 
 This directory contains batch job scripts for the PlantFinder application.
 
+## Table of Contents
+
+1. [Plant Image Fetcher](#plant-image-fetcher) - Downloads plant images from Wikipedia
+2. [Wildflower Data Scraper](#wildflower-data-scraper) - Scrapes plant data from wildflower.org
+
+---
+
+## Plant Image Fetcher
+
+### Overview
+
+The `fetch_plant_images.py` script is a batch job that downloads plant images from Wikipedia/Wikimedia Commons. The script:
+
+1. **Identifies plants without images** by scanning `src/data/Plants/` for JSON files missing `imageUrl`
+2. **Searches Wikipedia** for high-quality images using both scientific and common names
+3. **Downloads images** to the appropriate `public/images/plants/{plant-id}/` directory
+4. **Updates plant JSON files** with the `imageUrl` field
+5. **Skips plants** that already have images
+
+### Features
+
+- **Wikipedia Integration**: Queries Wikipedia API for main article images
+- **Smart Search**: Tries both scientific and common plant names
+- **High-Quality Images**: Prefers full-size images over thumbnails
+- **Automatic Directory Creation**: Creates plant-specific folders as needed
+- **JSON Updates**: Automatically updates plant data files with image URLs
+- **Skip Existing**: Won't re-download images for plants that already have them
+- **Rate Limiting**: Respectful delays between requests
+- **Test Mode**: Dry run mode for testing without downloads
+- **Batch Limiting**: Can limit number of images per run to avoid rate limits
+- **Detailed Logging**: Timestamped logs of all operations
+
+### Usage
+
+#### Manual Execution
+
+Run the script manually from the repository root:
+
+```bash
+# Normal mode - fetch all missing images
+python3 scripts/fetch_plant_images.py
+
+# Limit to 10 images
+python3 scripts/fetch_plant_images.py --limit 10
+
+# Test mode - dry run without downloading
+python3 scripts/fetch_plant_images.py --test
+
+# Test mode with limit
+python3 scripts/fetch_plant_images.py --test --limit 5
+```
+
+#### Automated Execution
+
+The script runs automatically via GitHub Actions workflow:
+- **Schedule**: Daily at 3:00 AM UTC (after wildflower data fetch)
+- **Default Limit**: 50 images per day (to avoid rate limits)
+- **Workflow File**: `.github/workflows/fetch-plant-images.yml`
+- **Manual Trigger**: Can be triggered manually from the Actions tab with custom limit
+
+### Output
+
+The script creates:
+
+1. **Image files**: `public/images/plants/{plant-id}/{plant-id}-{timestamp}.{ext}`
+2. **Updated JSON files**: Adds `imageUrl` field to plant data in `src/data/Plants/`
+3. **Log file**: `scripts/fetch_plant_images_log.txt` with timestamped operations
+
+### Image Sources
+
+The script prioritizes images from:
+
+1. **Wikipedia articles**: Main article images for the plant (scientific name)
+2. **Wikipedia articles**: Main article images using common name
+3. **Wikimedia Commons**: High-quality plant photography
+
+Images are sourced from Wikipedia/Commons which are typically licensed under Creative Commons or public domain.
+
+### Data Format
+
+After processing, plant JSON files are updated with:
+
+```json
+{
+  "id": "cornus-florida",
+  "commonName": "Flowering Dogwood",
+  "scientificName": "Cornus florida",
+  ...
+  "imageUrl": "/images/plants/cornus-florida/cornus-florida-2025-10-17T01-00-39-829Z.jpg"
+}
+```
+
+### Exit Codes
+
+- `0`: Success - Images fetched and plant files updated
+- `1`: Failure - More failures than successes
+
+### Example Output
+
+```
+======================================================================
+Plant Image Fetcher - Batch Job
+======================================================================
+Started at: 2025-10-17 01:00:39
+Limit: 5 images
+
+[2025-10-17 01:00:39] Batch job started (version 1.0.0)
+[2025-10-17 01:00:39] Limit set to 5 images
+[2025-10-17 01:00:39] Scanning for plants without images...
+[2025-10-17 01:00:39] Found 454 plants without images
+[2025-10-17 01:00:39] Processing 5 plants
+
+[2025-10-17 01:00:39] [1/5] Processing: Flowering Dogwood
+[2025-10-17 01:00:39]   Searching Wikipedia for: Cornus florida (Flowering Dogwood)
+[2025-10-17 01:00:39]     Found image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Cornus_florida_Arkansas.jpg
+[2025-10-17 01:00:39]     Downloading to: public/images/plants/cornus-florida/cornus-florida-2025-10-17T01-00-39-829Z.jpg
+[2025-10-17 01:00:40]     Successfully downloaded image
+[2025-10-17 01:00:40]     Updated src/data/Plants/cornus-florida.json with imageUrl
+[2025-10-17 01:00:40]   ✓ Successfully processed plant
+
+...
+
+======================================================================
+[2025-10-17 01:00:40] Batch job completed
+[2025-10-17 01:00:40] Successfully processed: 5 plants
+[2025-10-17 01:00:40] Failed: 0 plants
+[2025-10-17 01:00:40] Skipped: 0 plants
+[2025-10-17 01:00:40] Total plants without images remaining: 449
+```
+
+### Configuration
+
+Key configuration constants:
+
+- `PLANTS_DATA_DIR`: Directory containing plant JSON files (`src/data/Plants`)
+- `IMAGES_BASE_DIR`: Base directory for images (`public/images/plants`)
+- `LOG_FILE`: Log file path (`scripts/fetch_plant_images_log.txt`)
+- `TIMEOUT`: Request timeout in seconds (30)
+- `USER_AGENT`: Identifies the script in HTTP requests
+
+### Notes
+
+- Images are sourced from Wikipedia/Wikimedia Commons (typically CC-licensed or public domain)
+- The script is respectful with rate limiting and will not overwhelm Wikipedia servers
+- Default nightly limit of 50 images means it will take ~9 days to fetch all 454 missing images
+- You can manually trigger with higher limits if needed
+- Test mode is useful for verifying behavior without actually downloading
+- Logs are retained as GitHub Actions artifacts for 30 days
+
+---
+
 ## Wildflower Data Scraper
 
 ### Overview
