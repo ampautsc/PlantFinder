@@ -31,6 +31,9 @@ Camp Monarch's Plant Finder - A mobile-first web application for discovering nat
 - **iNaturalist API**: Taxonomic data, photos, observations, and state-level native range
 - Integration with public APIs (no authentication required)
 - Automated data fetching with GitHub Actions workflows
+
+### Mock Data Implementation
+- Complete TypeScript API interface for future backend integration
 - Mock adapter with 12 native wildflower species
 - Realistic data including bloom times, wildlife relationships, and growing requirements
 

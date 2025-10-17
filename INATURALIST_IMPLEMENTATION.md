@@ -184,15 +184,15 @@ Each plant is saved as `src/data/inaturalist/inaturalist-{taxon_id}.json`:
 ## Future Enhancements
 
 ### Short Term
-1. **Complete Dataset**: Run initial batch to populate full dataset with state-level native range
-2. **Monitor API Usage**: Adjust rate limiting based on API performance
-3. **Data Quality Review**: Review accuracy of state-level native range data
+1. Complete Dataset: Run initial batch to populate full dataset with state-level native range
+2. Monitor API Usage: Adjust rate limiting based on API performance
+3. Data Quality Review: Review accuracy of state-level native range data
 
 ### Medium Term
 1. Integrate additional data sources for horticultural information:
-   - **USDA PLANTS Database** (plants.usda.gov) - validate native range, hardiness zones
-   - **Trefle.io API** - growing requirements, characteristics
-   - **Wikipedia/Wikidata** - structured plant data
+   - USDA PLANTS Database (plants.usda.gov) - validate native range, hardiness zones
+   - Trefle.io API - growing requirements, characteristics
+   - Wikipedia/Wikidata - structured plant data
 
 2. Enhance native range parsing:
    - Cross-reference iNaturalist with USDA native range
