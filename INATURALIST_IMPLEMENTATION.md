@@ -47,10 +47,17 @@ A comprehensive data crawler with the following features:
 
 **Data Quality:**
 - ✅ **Strong**: Scientific names, common names, Wikipedia descriptions, photos, observation counts
-- ⚠️ **Partial**: Native range (defaults to "North America")
+- ✅ **Enhanced**: State-level native range data (v1.1.0+) - queries all 50 US states
+- ⚠️ **Partial**: Native range availability depends on community observations
 - ❌ **Missing**: Horticultural details (sun/water requirements, bloom times, hardiness zones)
 
 All missing fields are marked with TODO comments and use sensible defaults.
+
+**State-Level Native Range (v1.1.0+):**
+- Queries iNaturalist establishment_means for all 50 US states
+- Filters for "native" vs "introduced" species
+- Processing time: ~50 seconds per plant (50 states × 1 second rate limit)
+- See [STATE_NATIVE_RANGE_IMPLEMENTATION.md](STATE_NATIVE_RANGE_IMPLEMENTATION.md) for details
 
 **Error Handling:**
 - Retry logic with exponential backoff
@@ -93,7 +100,7 @@ Each plant is saved as `src/data/inaturalist/inaturalist-{taxon_id}.json`:
 ```json
 {
   "scraped_at": "2025-10-17T17:38:25.123456",
-  "scraper_version": "1.0.0",
+  "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
     "id": "inaturalist-47604",
@@ -111,7 +118,21 @@ Each plant is saved as `src/data/inaturalist/inaturalist-{taxon_id}.json`:
       "bloomColor": [],       // TODO: from additional source
       "bloomTime": [],        // TODO: from additional source
       "perennial": true,
-      "nativeRange": ["North America"],
+      "nativeRange": [        // ✅ v1.1.0+: State-level data
+        "Alabama",
+        "Connecticut",
+        "Georgia",
+        "Kentucky",
+        "Maryland",
+        "Michigan",
+        "Minnesota",
+        "Nebraska",
+        "New York",
+        "North Carolina",
+        "Texas",
+        "Utah",
+        "Virginia"
+      ],
       "hardinessZones": []    // TODO: from additional source
     },
     "relationships": {
@@ -163,19 +184,20 @@ Each plant is saved as `src/data/inaturalist/inaturalist-{taxon_id}.json`:
 ## Future Enhancements
 
 ### Short Term
-1. Run initial batch to populate dataset
-2. Monitor API usage and adjust rate limiting
-3. Review data quality of fetched species
+1. **Complete Dataset**: Run initial batch to populate full dataset with state-level native range
+2. **Monitor API Usage**: Adjust rate limiting based on API performance
+3. **Data Quality Review**: Review accuracy of state-level native range data
 
 ### Medium Term
 1. Integrate additional data sources for horticultural information:
-   - **USDA PLANTS Database** (plants.usda.gov) - native range, hardiness zones
+   - **USDA PLANTS Database** (plants.usda.gov) - validate native range, hardiness zones
    - **Trefle.io API** - growing requirements, characteristics
    - **Wikipedia/Wikidata** - structured plant data
 
 2. Enhance native range parsing:
-   - Use iNaturalist's establishment_means data
-   - Cross-reference with USDA native range
+   - Cross-reference iNaturalist with USDA native range
+   - Add confidence scores for native status
+   - Track historical vs. current native range
 
 3. Add bloom time/color extraction:
    - Parse from Wikipedia descriptions

@@ -10,6 +10,12 @@ Camp Monarch's Plant Finder - A mobile-first web application for discovering nat
 - **Plant Relationships**: Filter by wildlife benefits (pollinators, birds, hummingbirds) and garden uses
 - **Search**: Full-text search across plant names and descriptions
 
+### State-Level Native Range Data
+- **Detailed Geographic Information**: Plant data includes state-by-state native range information for all 50 US states
+- **iNaturalist Integration**: Native status derived from community observations and establishment means
+- **Accurate Filtering**: Distinguishes between native and introduced species at the state level
+- See [STATE_NATIVE_RANGE_IMPLEMENTATION.md](STATE_NATIVE_RANGE_IMPLEMENTATION.md) for technical details
+
 ### Mobile-First Design
 - Responsive layout that works on phones, tablets, and desktop
 - Touch-friendly filter chips and controls
@@ -21,8 +27,10 @@ Camp Monarch's Plant Finder - A mobile-first web application for discovering nat
 - Feedback is automatically stored in the repository for review
 - Simple, accessible feedback form with structured categories
 
-### Mock Data Implementation
-- Complete TypeScript API interface for future backend integration
+### Data Sources
+- **iNaturalist API**: Taxonomic data, photos, observations, and state-level native range
+- Integration with public APIs (no authentication required)
+- Automated data fetching with GitHub Actions workflows
 - Mock adapter with 12 native wildflower species
 - Realistic data including bloom times, wildlife relationships, and growing requirements
 
