@@ -76,11 +76,15 @@ def make_request(url):
 def fetch_state_native_range(taxon_id):
     """Fetch state-level native range data for a taxon."""
     native_states = []
+    total_states = len(US_STATE_PLACE_IDS)
     
-    print(f"  Fetching state-level native range data...")
+    print(f"  Fetching state-level native range data (checking {total_states} states)...")
     
-    for state_name, place_id in US_STATE_PLACE_IDS.items():
+    for state_index, (state_name, place_id) in enumerate(US_STATE_PLACE_IDS.items(), 1):
         api_url = f"{INATURALIST_API_BASE}/observations/species_counts?taxon_id={taxon_id}&place_id={place_id}"
+        
+        # Show progress indicator
+        print(f"    [{state_index}/{total_states}] Checking {state_name}...", end='\r', flush=True)
         
         time.sleep(RATE_LIMIT_DELAY)
         
@@ -104,10 +108,14 @@ def fetch_state_native_range(taxon_id):
                         
                         if means == 'native' and place.get('id') == place_id:
                             native_states.append(state_name)
-                            print(f"    ✓ Native to {state_name}")
+                            # Clear the progress line and print the result
+                            print(f"\r    [{state_index}/{total_states}] ✓ Native to {state_name}" + " " * 20)
                             break
         except json.JSONDecodeError:
             continue
+    
+    # Clear the progress line
+    print(f"\r" + " " * 80)
     
     return native_states
 

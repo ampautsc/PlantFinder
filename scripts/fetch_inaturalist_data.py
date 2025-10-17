@@ -385,14 +385,18 @@ def fetch_state_native_range(taxon_id, log_path):
             return ["Texas", "Oklahoma", "Kansas"]
         
         native_states = []
+        total_states = len(US_STATE_PLACE_IDS)
         
-        print(f"  Fetching state-level native range data...")
+        print(f"  Fetching state-level native range data (checking {total_states} states)...")
         
         # Check each US state
-        for state_name, place_id in US_STATE_PLACE_IDS.items():
+        for state_index, (state_name, place_id) in enumerate(US_STATE_PLACE_IDS.items(), 1):
             # Query observations to get establishment means for this state
             # Note: removed verifiable=true to get more results
             api_url = f"{INATURALIST_API_BASE}/observations/species_counts?taxon_id={taxon_id}&place_id={place_id}"
+            
+            # Show progress indicator
+            print(f"    [{state_index}/{total_states}] Checking {state_name}...", end='\r', flush=True)
             
             # Add rate limiting
             time.sleep(RATE_LIMIT_DELAY)
@@ -420,10 +424,14 @@ def fetch_state_native_range(taxon_id, log_path):
                             # Verify this is the right place and it's native
                             if means == 'native' and place.get('id') == place_id:
                                 native_states.append(state_name)
-                                print(f"    ✓ Native to {state_name}")
+                                # Clear the progress line and print the result
+                                print(f"\r    [{state_index}/{total_states}] ✓ Native to {state_name}" + " " * 20)
                                 break
             except json.JSONDecodeError:
                 continue  # Skip malformed responses
+        
+        # Clear the progress line
+        print(f"\r" + " " * 80)
         
         if native_states:
             print(f"  ✓ Found native range in {len(native_states)} states")
