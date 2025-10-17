@@ -385,14 +385,22 @@ def fetch_state_native_range(taxon_id, log_path):
             return ["Texas", "Oklahoma", "Kansas"]
         
         native_states = []
+        total_states = len(US_STATE_PLACE_IDS)
+        # Calculate max line length for proper clearing: "    [50/50] Checking North Carolina..."
+        # The +3 accounts for the ellipsis "..." at the end of the progress message
+        max_state_name_len = max(len(name) for name in US_STATE_PLACE_IDS.keys())
+        max_line_len = len(f"    [{total_states}/{total_states}] Checking ") + max_state_name_len + 3
         
-        print(f"  Fetching state-level native range data...")
+        print(f"  Fetching state-level native range data (checking {total_states} states)...")
         
         # Check each US state
-        for state_name, place_id in US_STATE_PLACE_IDS.items():
+        for state_index, (state_name, place_id) in enumerate(US_STATE_PLACE_IDS.items(), 1):
             # Query observations to get establishment means for this state
             # Note: removed verifiable=true to get more results
             api_url = f"{INATURALIST_API_BASE}/observations/species_counts?taxon_id={taxon_id}&place_id={place_id}"
+            
+            # Show progress indicator
+            print(f"    [{state_index}/{total_states}] Checking {state_name}...", end='\r', flush=True)
             
             # Add rate limiting
             time.sleep(RATE_LIMIT_DELAY)
@@ -420,10 +428,15 @@ def fetch_state_native_range(taxon_id, log_path):
                             # Verify this is the right place and it's native
                             if means == 'native' and place.get('id') == place_id:
                                 native_states.append(state_name)
-                                print(f"    ✓ Native to {state_name}")
+                                # Clear the progress line and print the result
+                                result_line = f"    [{state_index}/{total_states}] ✓ Native to {state_name}"
+                                print(f"\r{result_line}" + " " * (max_line_len - len(result_line)))
                                 break
             except json.JSONDecodeError:
                 continue  # Skip malformed responses
+        
+        # Clear the progress line
+        print(f"\r" + " " * max_line_len)
         
         if native_states:
             print(f"  ✓ Found native range in {len(native_states)} states")

@@ -266,3 +266,13 @@
 [2025-10-17 15:38:20] Saved plant data: rudbeckia-hirta.json
 [2025-10-17 15:38:20] Processed 3 plants successfully, 0 failures
 [2025-10-17 15:38:20] Batch job completed successfully
+[2025-10-17 21:36:09] Batch job started (test mode)
+[2025-10-17 21:36:09] Target URL: https://www.wildflower.org/collections/collection.php?start=0&collection=bamona&pagecount=100
+[2025-10-17 21:36:09] Collection fetch result: Successfully loaded test data
+[2025-10-17 21:36:09] Configuration: collection=bamona, pagecount=100
+[2025-10-17 21:36:09] Total plant links extracted: 3
+[2025-10-17 21:36:09] Saved plant data: asclepias-tuberosa.json
+[2025-10-17 21:36:10] Saved plant data: echinacea-purpurea.json
+[2025-10-17 21:36:12] Saved plant data: rudbeckia-hirta.json
+[2025-10-17 21:36:12] Processed 3 plants successfully, 0 failures
+[2025-10-17 21:36:12] Batch job completed successfully
