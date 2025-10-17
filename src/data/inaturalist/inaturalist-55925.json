@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2025-10-17T19:40:28.318745",
-  "scraper_version": "1.0.0",
+  "scraped_at": "2025-10-17T22:34:44.290276",
+  "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
     "id": "inaturalist-55925",
@@ -19,7 +19,16 @@
       "bloomTime": [],
       "perennial": true,
       "nativeRange": [
-        "North America"
+        "Connecticut",
+        "Maine",
+        "Massachusetts",
+        "New Hampshire",
+        "New York",
+        "Ohio",
+        "Rhode Island",
+        "Vermont",
+        "Virginia",
+        "Wisconsin"
       ],
       "hardinessZones": []
     },
@@ -38,7 +47,7 @@
     "metadata": {
       "source": "inaturalist",
       "taxon_id": 55925,
-      "observations_count": 125461,
+      "observations_count": 125476,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

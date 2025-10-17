@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2025-10-17T19:40:42.105640",
-  "scraper_version": "1.0.0",
+  "scraped_at": "2025-10-17T22:44:35.488177",
+  "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
     "id": "inaturalist-64237",
@@ -19,7 +19,12 @@
       "bloomTime": [],
       "perennial": true,
       "nativeRange": [
-        "North America"
+        "California",
+        "Idaho",
+        "Minnesota",
+        "Nevada",
+        "North Dakota",
+        "Utah"
       ],
       "hardinessZones": []
     },
@@ -38,7 +43,7 @@
     "metadata": {
       "source": "inaturalist",
       "taxon_id": 64237,
-      "observations_count": 114359,
+      "observations_count": 114371,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

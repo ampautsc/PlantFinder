@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2025-10-17T19:40:47.119635",
-  "scraper_version": "1.0.0",
+  "scraped_at": "2025-10-17T22:48:00.614952",
+  "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
     "id": "inaturalist-56088",
@@ -19,7 +19,16 @@
       "bloomTime": [],
       "perennial": true,
       "nativeRange": [
-        "North America"
+        "Alabama",
+        "Arkansas",
+        "Connecticut",
+        "Georgia",
+        "Illinois",
+        "Maryland",
+        "North Carolina",
+        "Ohio",
+        "Tennessee",
+        "Virginia"
       ],
       "hardinessZones": []
     },
@@ -38,7 +47,7 @@
     "metadata": {
       "source": "inaturalist",
       "taxon_id": 56088,
-      "observations_count": 110675,
+      "observations_count": 110688,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }
