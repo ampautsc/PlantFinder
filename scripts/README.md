@@ -286,13 +286,75 @@ jobs:
 
 If the scraper gets 403 Forbidden when accessing wildflower.org (not GitHub):
 
-**Symptoms**: Log shows "Failed to fetch collection page (Status: 403)"
+**Symptoms**: Log shows "Failed to fetch collection page (Status: 403)" or similar error
+
+**Root Cause**: The wildflower.org website is blocking automated requests using bot protection systems (like Cloudflare, Akamai, or similar Web Application Firewall). This is a common practice to prevent web scraping and protect server resources.
+
+**What We've Already Done**:
+The script includes several measures to avoid being blocked:
+- ✅ Comprehensive browser-like HTTP headers (User-Agent, Accept, etc.)
+- ✅ Cookie/session management to maintain state between requests
+- ✅ Proper delays between requests (1-2 seconds)
+- ✅ Retry logic with exponential backoff (up to 3 attempts)
+- ✅ Referer headers for subsequent page requests
+- ✅ Gzip/deflate encoding support
+
+However, if the website has strong bot protection in place, these standard measures may not be sufficient.
 
 **Solutions**:
-1. Use test mode: `python3 scripts/fetch_wildflower_data.py --test`
-2. The website may be blocking automated requests
-3. Consider adding delays or using a different user agent
-4. Request API access from the website maintainers
+
+1. **Use Test Mode (Recommended for Development)**
+   ```bash
+   python3 scripts/fetch_wildflower_data.py --test
+   ```
+   - Uses built-in mock data that simulates the website structure
+   - No actual HTTP requests are made
+   - Perfect for development and testing
+
+2. **Contact Wildflower.org**
+   - Request API access or permission to scrape their data
+   - Email: info@wildflower.org
+   - Explain your use case and ask if they have a preferred way to access their data
+   - Many organizations provide APIs or data dumps for legitimate uses
+
+3. **Wait and Retry**
+   - The blocking may be temporary (rate limiting)
+   - Wait several hours or a day before trying again
+   - The script automatically retries with exponential backoff
+
+4. **Use Alternative Data Sources**
+   - USDA PLANTS Database (https://plants.usda.gov/)
+   - Trefle.io Plant API (https://trefle.io/)
+   - iNaturalist API (https://www.inaturalist.org/pages/api+reference)
+   - GBIF - Global Biodiversity Information Facility (https://www.gbif.org/)
+
+5. **Manual Data Collection**
+   - Download HTML pages manually from a browser
+   - Save them locally and modify the script to parse local files
+   - This is suitable for one-time or small-scale data collection
+
+**Why Standard Solutions Don't Always Work**:
+
+Modern bot protection systems can detect automation through:
+- Browser fingerprinting (canvas, WebGL, fonts)
+- JavaScript execution and challenges
+- TLS fingerprinting
+- Behavioral analysis (mouse movements, timing patterns)
+- IP reputation and blacklists
+
+Simple header improvements and delays are often insufficient against these sophisticated systems.
+
+**Error Messages**:
+
+When a 403 error occurs, you'll see helpful guidance:
+```
+✗ Failed to fetch page (Status: 403)
+  This website may be blocking automated requests.
+  Possible solutions:
+  1. Run with --test flag to use mock data
+  2. Try again later (the site may have rate limiting)
+  3. Check if the website requires API access or has changed their policies
+```
 
 ### Exit Codes
 
@@ -380,9 +442,12 @@ The scraper will:
 
 ### Notes
 
-- The script uses a custom User-Agent to identify itself as the PlantFinder batch job
-- Some websites may block automated requests, resulting in 403 Forbidden errors
-- The script includes rate limiting (0.5 second delay) between plant requests
-- Test mode is useful for development when the website blocks requests
-- Data is stored in source control for collaboration and versioning
+- The script uses browser-like User-Agent headers and session management to appear more legitimate
+- **Current Status**: Wildflower.org is blocking automated requests with 403 Forbidden errors due to bot protection systems
+- **Recommended Approach**: Use test mode (`--test` flag) for development until API access is obtained or alternative data sources are implemented
+- The script includes comprehensive error handling with retry logic and exponential backoff
+- Rate limiting is built-in: 1 second initial delay, 2 seconds between pages, 1.5 seconds between plants
+- Test mode provides realistic mock data for 3 plants (Butterfly Weed, Purple Coneflower, Black-eyed Susan)
+- Data is stored in source control (`src/data/wildflower-org/`) for collaboration and versioning
 - Results are uploaded as GitHub Actions artifacts for review (retained for 30 days)
+- See the troubleshooting section above for detailed solutions to 403 errors

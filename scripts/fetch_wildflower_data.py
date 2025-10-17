@@ -25,9 +25,10 @@ import os
 import json
 import re
 from datetime import datetime
-from urllib.request import Request, urlopen
+from urllib.request import Request, urlopen, HTTPCookieProcessor, build_opener
 from urllib.error import URLError, HTTPError
 from html.parser import HTMLParser
+import http.cookiejar
 import socket
 
 # Configuration
@@ -825,22 +826,110 @@ def log_message(message, log_path):
     print(log_entry.strip())
 
 
-def make_request(url, headers=None):
-    """Make an HTTP request with proper headers and error handling."""
+# Global URL opener with cookie support for maintaining sessions
+_url_opener = None
+
+def get_url_opener():
+    """Get or create a URL opener with cookie support for session management."""
+    global _url_opener
+    if _url_opener is None:
+        # Create cookie jar to maintain session
+        cookie_jar = http.cookiejar.CookieJar()
+        cookie_processor = HTTPCookieProcessor(cookie_jar)
+        _url_opener = build_opener(cookie_processor)
+    return _url_opener
+
+
+def make_request(url, headers=None, use_session=True, retries=3, backoff_factor=2):
+    """
+    Make an HTTP request with proper headers, error handling, and retry logic.
+    
+    Args:
+        url: The URL to request
+        headers: Optional custom headers dict
+        use_session: Whether to use session/cookie management (default: True)
+        retries: Number of retries on failure (default: 3)
+        backoff_factor: Multiplier for exponential backoff delay (default: 2)
+    
+    Returns:
+        Tuple of (content, status_code) where content is None on error
+    """
+    import time
+    
     if headers is None:
+        # Use comprehensive browser-like headers to avoid bot detection
         headers = {
-            'User-Agent': 'PlantFinder-BatchJob/1.0 (https://github.com/ampautsc/PlantFinder)',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Sec-Fetch-User': '?1',
+            'Cache-Control': 'max-age=0',
+            'DNT': '1'
         }
     
-    request = Request(url, headers=headers)
-    try:
-        with urlopen(request, timeout=TIMEOUT) as response:
-            return response.read().decode('utf-8', errors='ignore'), response.status
-    except HTTPError as e:
-        return None, e.code
-    except (URLError, socket.timeout) as e:
-        return None, 0
+    last_error = None
+    last_status = 0
+    
+    for attempt in range(retries):
+        try:
+            request = Request(url, headers=headers)
+            
+            if use_session:
+                # Use opener with cookie support for session management
+                opener = get_url_opener()
+                response = opener.open(request, timeout=TIMEOUT)
+            else:
+                # Use basic urlopen without session
+                response = urlopen(request, timeout=TIMEOUT)
+            
+            # Read and decode content
+            content = response.read()
+            
+            # Handle gzip/deflate encoding if present
+            if response.info().get('Content-Encoding') == 'gzip':
+                import gzip
+                import io
+                content = gzip.decompress(content)
+            elif response.info().get('Content-Encoding') == 'deflate':
+                import zlib
+                content = zlib.decompress(content)
+            
+            # Decode to string
+            decoded_content = content.decode('utf-8', errors='ignore')
+            
+            return decoded_content, response.status
+            
+        except HTTPError as e:
+            last_error = e
+            last_status = e.code
+            # Don't retry on 403 (Forbidden) or 404 (Not Found) - these won't change
+            if e.code in [403, 404]:
+                break
+            # Retry on other errors with exponential backoff
+            if attempt < retries - 1:
+                delay = backoff_factor ** attempt
+                print(f"  ⚠ HTTP Error {e.code}, retrying in {delay} seconds... (attempt {attempt + 1}/{retries})")
+                time.sleep(delay)
+        except (URLError, socket.timeout) as e:
+            last_error = e
+            last_status = 0
+            # Retry on network errors with exponential backoff
+            if attempt < retries - 1:
+                delay = backoff_factor ** attempt
+                print(f"  ⚠ Network error, retrying in {delay} seconds... (attempt {attempt + 1}/{retries})")
+                time.sleep(delay)
+        except Exception as e:
+            print(f"  Unexpected error in make_request: {type(e).__name__}: {str(e)}")
+            return None, 0
+    
+    # All retries failed
+    return None, last_status
 
 
 def extract_plant_id(url):
@@ -919,6 +1008,10 @@ def fetch_wildflower_collection():
         print(f"Attempting to fetch collection pages from: {TARGET_URL}")
         print(f"Configuration: pagecount={PAGECOUNT}, collection={COLLECTION_NAME}")
         
+        # Add a small initial delay to be polite to the server
+        import time
+        time.sleep(1)
+        
         all_plant_links = []
         page_count = 0
         start_index = 0
@@ -934,13 +1027,40 @@ def fetch_wildflower_collection():
             print(f"\n  Fetching page {page_count}: {current_url}")
             print(f"  (Results {start_index + 1} - {start_index + PAGECOUNT})")
             
-            content, status_code = make_request(current_url)
+            # Add referer header for subsequent pages to appear more browser-like
+            headers = None
+            if page_count > 1:
+                # For subsequent pages, add a referer header
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+                    'Accept-Language': 'en-US,en;q=0.9',
+                    'Accept-Encoding': 'gzip, deflate, br',
+                    'Connection': 'keep-alive',
+                    'Referer': 'https://www.wildflower.org/',
+                    'Upgrade-Insecure-Requests': '1',
+                    'Sec-Fetch-Dest': 'document',
+                    'Sec-Fetch-Mode': 'navigate',
+                    'Sec-Fetch-Site': 'same-origin',
+                    'Sec-Fetch-User': '?1',
+                    'Cache-Control': 'max-age=0',
+                    'DNT': '1'
+                }
+            
+            content, status_code = make_request(current_url, headers=headers)
             
             if content is None:
                 print(f"  ✗ Failed to fetch page (Status: {status_code})")
                 if page_count == 1:
                     # If we can't fetch the first page, abort
-                    return False, [], f"Failed to fetch first page (Status: {status_code})"
+                    error_msg = f"Failed to fetch first page (Status: {status_code})"
+                    if status_code == 403:
+                        error_msg += "\n  This website may be blocking automated requests."
+                        error_msg += "\n  Possible solutions:"
+                        error_msg += "\n  1. Run with --test flag to use mock data"
+                        error_msg += "\n  2. Try again later (the site may have rate limiting)"
+                        error_msg += "\n  3. Check if the website requires API access or has changed their policies"
+                    return False, [], error_msg
                 else:
                     # If we've fetched at least one page, continue with what we have
                     print(f"  ⚠ Stopping pagination after {page_count - 1} successful page(s)")
@@ -979,9 +1099,10 @@ def fetch_wildflower_collection():
             # Move to next page
             start_index += PAGECOUNT
             
-            # Be nice to the server - add a small delay between pages
+            # Be nice to the server - add a delay between pages (2 seconds to appear more human-like)
             import time
-            time.sleep(0.5)
+            print(f"  Waiting 2 seconds before next request...")
+            time.sleep(2)
         
         print(f"\n✓ Fetched {page_count} collection page(s)")
         print(f"✓ Found {len(all_plant_links)} total plant links")
@@ -1078,9 +1199,10 @@ def process_plants(plant_links, log_path):
         else:
             failure_count += 1
         
-        # Be nice to the server - add a small delay
+        # Be nice to the server - add a delay between plant requests (1.5 seconds)
         import time
-        time.sleep(0.5)
+        if i < len(plants_to_process):  # Don't wait after the last plant
+            time.sleep(1.5)
     
     print(f"\n✓ Successfully processed {success_count} plants")
     if failure_count > 0:
