@@ -44,9 +44,9 @@ PER_PAGE = 50  # Number of results per API request
 RATE_LIMIT_DELAY = 1.0  # Delay between requests in seconds
 
 # Default search: Native North American wildflowers
-# Using iconic_taxa=Plantae and place_id=97389 (North America)
+# Using rank_level=10 (species) and taxon_id=47126 (Plantae kingdom)
 DEFAULT_SEARCH_QUERY = {
-    'iconic_taxa': 'Plantae',
+    'taxon_id': '47126',  # Plantae (Plants)
     'rank': 'species',
     'place_id': '97389',  # North America
     'per_page': PER_PAGE

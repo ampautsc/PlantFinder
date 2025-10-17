@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T17:28:26.450426",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-48484",
+    "commonName": "Asian Lady Beetle",
+    "scientificName": "Harmonia axyridis",
+    "description": "<i><b>Harmonia axyridis</b></i>, most commonly known as the <b>harlequin</b>, <b>multicolored Asian</b>, or simply <b>Asian ladybeetle</b>, is a large coccinellid beetle. This is one of the most variable species in the world, with an exceptionally wide range of color forms. It is native to eastern Asia, but has been artificially introduced to North America and Europe to control aphids and scale insects. It is now common, well known, and spreading in those regions, and has also established in...",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/452640195/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 48484,
+      "observations_count": 458602,
+      "rank": "species",
+      "iconic_taxon_name": "Insecta"
+    }
+  }
+}

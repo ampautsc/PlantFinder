@@ -1,0 +1,137 @@
+name: Fetch iNaturalist Data
+
+on:
+  # Run weekly on Sundays at 3 AM UTC
+  schedule:
+    - cron: '0 3 * * 0'
+  
+  # Allow manual trigger for testing
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: 'Run in test mode with mock data'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+      limit:
+        description: 'Number of plants to fetch (leave empty for default 50)'
+        required: false
+        default: '50'
+        type: string
+      search_term:
+        description: 'Search for specific plant (optional)'
+        required: false
+        default: ''
+        type: string
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    name: Fetch Plant Data from iNaturalist API
+    
+    # Explicitly set permissions for security and to allow git push
+    permissions:
+      contents: write  # Needed to commit and push scraped data
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Run data scraper script
+        run: |
+          # Build command with optional parameters
+          CMD="python3 scripts/fetch_inaturalist_data.py"
+          
+          if [ "${{ github.event.inputs.test_mode }}" == "true" ]; then
+            echo "Running in test mode with mock data"
+            CMD="$CMD --test"
+          else
+            echo "Running in normal mode (live data from iNaturalist API)"
+          fi
+          
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            echo "Limiting to ${{ github.event.inputs.limit }} plants"
+            CMD="$CMD --limit ${{ github.event.inputs.limit }}"
+          fi
+          
+          if [ -n "${{ github.event.inputs.search_term }}" ]; then
+            echo "Searching for: ${{ github.event.inputs.search_term }}"
+            CMD="$CMD --search \"${{ github.event.inputs.search_term }}\""
+          fi
+          
+          echo "Executing: $CMD"
+          eval $CMD
+        continue-on-error: true
+      
+      - name: Commit and push scraped data
+        run: |
+          echo "=== Git Configuration and Token Validation ==="
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          echo "Checking GitHub token availability..."
+          if [ -z "$GITHUB_TOKEN" ]; then
+            echo "WARNING: GITHUB_TOKEN is not set"
+          else
+            echo "✓ GITHUB_TOKEN is set"
+          fi
+          
+          echo "Checking repository permissions..."
+          git remote -v
+          
+          echo "=== Staging Changes ==="
+          git add src/data/inaturalist/*.json src/data/inaturalist/fetch_log.txt
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            echo "=== Committing Changes ==="
+            CHANGED_FILES=$(git diff --staged --name-only | wc -l)
+            echo "Files to commit: $CHANGED_FILES"
+            git diff --staged --name-only
+            
+            git commit -m "Update scraped plant data from iNaturalist API"
+            
+            echo "=== Pushing Changes ==="
+            echo "Attempting to push to remote repository..."
+            if git push -v; then
+              echo "✓ Successfully pushed changes"
+            else
+              EXIT_CODE=$?
+              echo "✗ Failed to push changes (exit code: $EXIT_CODE)"
+              echo "This may indicate a permissions issue. Check:"
+              echo "  1. Workflow has 'permissions: contents: write'"
+              echo "  2. Repository settings allow GitHub Actions to create and approve pull requests"
+              echo "  3. Branch protection rules don't block the push"
+              exit $EXIT_CODE
+            fi
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+      
+      - name: Upload fetch results as artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: inaturalist-data-${{ github.run_number }}
+          path: src/data/inaturalist/
+          retention-days: 30
+      
+      - name: Display log summary
+        if: always()
+        run: |
+          if [ -f src/data/inaturalist/fetch_log.txt ]; then
+            echo "=== Fetch Log Summary ==="
+            cat src/data/inaturalist/fetch_log.txt
+          else
+            echo "No log file found"
+          fi

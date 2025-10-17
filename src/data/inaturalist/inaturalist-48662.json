@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T17:28:30.604795",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-48662",
+    "commonName": "Monarch",
+    "scientificName": "Danaus plexippus",
+    "description": "The <b>monarch butterfly</b> or simply <b>monarch</b> (<i>Danaus plexippus</i>) is a milkweed butterfly (subfamily Danainae) in the family Nymphalidae. Other common names depending on region include <b>milkweed</b>, <b>common tiger</b>, <b>wanderer</b>, and <b>black veined brown</b>. It may be the most familiar North American butterfly, and is considered an iconic pollinator species. Its wings feature an easily recognizable black, orange, and white pattern, with a wingspan of 8.9–10.2 cm (​3 1⁄2–4 in) The viceroy butterfly is similar in color and...",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/295545186/medium.jpeg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 48662,
+      "observations_count": 441779,
+      "rank": "species",
+      "iconic_taxon_name": "Insecta"
+    }
+  }
+}
