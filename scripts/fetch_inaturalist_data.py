@@ -85,6 +85,7 @@ MOCK_TAXA_RESPONSE = {
             "name": "Asclepias tuberosa",
             "rank": "species",
             "preferred_common_name": "Butterfly Weed",
+            "iconic_taxon_name": "Plantae",
             "observations_count": 15234,
             "wikipedia_summary": "Asclepias tuberosa, commonly known as butterfly weed, is a species of milkweed native to eastern and southwestern North America.",
             "default_photo": {
@@ -98,6 +99,7 @@ MOCK_TAXA_RESPONSE = {
             "name": "Echinacea purpurea",
             "rank": "species",
             "preferred_common_name": "Purple Coneflower",
+            "iconic_taxon_name": "Plantae",
             "observations_count": 12456,
             "wikipedia_summary": "Echinacea purpurea is a North American species of flowering plant in the family Asteraceae.",
             "default_photo": {
@@ -111,6 +113,7 @@ MOCK_TAXA_RESPONSE = {
             "name": "Rudbeckia hirta",
             "rank": "species",
             "preferred_common_name": "Black-eyed Susan",
+            "iconic_taxon_name": "Plantae",
             "observations_count": 18901,
             "wikipedia_summary": "Rudbeckia hirta is a species of flowering plant in the family Asteraceae.",
             "default_photo": {
@@ -483,6 +486,7 @@ def main():
     # Process each taxon
     success_count = 0
     failure_count = 0
+    skipped_count = 0
     
     for i, taxon in enumerate(taxa, 1):
         print(f"\n[{i}/{len(taxa)}]")
@@ -490,10 +494,18 @@ def main():
         taxon_id = taxon.get('id')
         scientific_name = taxon.get('name', 'Unknown')
         common_name = taxon.get('preferred_common_name', '')
+        iconic_taxon = taxon.get('iconic_taxon_name', '')
         
         print(f"  Processing: {scientific_name}")
         if common_name:
             print(f"  Common name: {common_name}")
+        
+        # Validate that this is actually a plant
+        if iconic_taxon != 'Plantae':
+            print(f"  ⚠ Skipping: Not a plant (iconic_taxon_name: {iconic_taxon})")
+            log_message(f"Skipped non-plant taxon: {scientific_name} (iconic_taxon: {iconic_taxon})", log_path)
+            skipped_count += 1
+            continue
         
         # Fetch detailed information
         detailed_taxon = fetch_taxon_details(taxon_id, log_path)
@@ -515,10 +527,12 @@ def main():
     print()
     print("=" * 70)
     print(f"✓ Successfully processed {success_count} plants")
+    if skipped_count > 0:
+        print(f"⚠ Skipped {skipped_count} non-plant taxa")
     if failure_count > 0:
         print(f"✗ Failed to process {failure_count} plants")
     
-    log_message(f"Processed {success_count} plants successfully, {failure_count} failures", log_path)
+    log_message(f"Processed {success_count} plants successfully, {skipped_count} skipped, {failure_count} failures", log_path)
     log_message("Batch job completed", log_path)
     
     print()
