@@ -3136,3 +3136,71 @@
 [2025-10-17 02:22:47] Failed: 0 plants
 [2025-10-17 02:22:47] Skipped: 0 plants
 [2025-10-17 02:22:47] Total plants without images remaining: 75
+[2025-10-17 02:23:25] Batch job started (version 2.0.0)
+[2025-10-17 02:23:25] Limit set to 5 images
+[2025-10-17 02:23:25] Scanning for plants without images...
+[2025-10-17 02:23:25] Found 75 plants without images
+[2025-10-17 02:23:25] Processing 5 plants
+[2025-10-17 02:23:25] [1/5] Processing: Bog Labrador Tea
+[2025-10-17 02:23:25]   Searching Wikipedia for: Ledum groenlandicum (Bog Labrador Tea)
+[2025-10-17 02:23:25]     No image found on Wikipedia
+[2025-10-17 02:23:25]   Searching iNaturalist for: Ledum groenlandicum (Bog Labrador Tea)
+[2025-10-17 02:23:25]     Found taxon ID: 180413
+[2025-10-17 02:23:26]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/9228727/original.jpg
+[2025-10-17 02:23:26]     Downloading from inaturalist to: public/images/plants/ledum-groenlandicum/ledum-groenlandicum-2025-10-17T02-23-26-329Z.jpg
+[2025-10-17 02:23:26]     Downloaded 1042.3 KB
+[2025-10-17 02:23:26]     Resized from 1536x2048 to 900x1200
+[2025-10-17 02:23:26]     Optimized to 196.5 KB (81.1% reduction)
+[2025-10-17 02:23:26]     Successfully processed image from inaturalist
+[2025-10-17 02:23:26]     Updated src/data/Plants/ledum-groenlandicum.json with imageUrl
+[2025-10-17 02:23:26]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:23:26] [2/5] Processing: Honey Mesquite
+[2025-10-17 02:23:26]   Searching Wikipedia for: Prosopis glandulosa (Honey Mesquite)
+[2025-10-17 02:23:26]     No image found on Wikipedia
+[2025-10-17 02:23:26]   Searching iNaturalist for: Prosopis glandulosa (Honey Mesquite)
+[2025-10-17 02:23:27]     Found taxon ID: 1493134
+[2025-10-17 02:23:28]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/134085952/original.jpg
+[2025-10-17 02:23:28]     Downloading from inaturalist to: public/images/plants/prosopis-glandulosa/prosopis-glandulosa-2025-10-17T02-23-28-279Z.jpg
+[2025-10-17 02:23:28]     Downloaded 900.8 KB
+[2025-10-17 02:23:28]     Resized from 1379x2048 to 808x1200
+[2025-10-17 02:23:28]     Optimized to 275.0 KB (69.5% reduction)
+[2025-10-17 02:23:28]     Successfully processed image from inaturalist
+[2025-10-17 02:23:28]     Updated src/data/Plants/prosopis-glandulosa.json with imageUrl
+[2025-10-17 02:23:28]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:23:28] [3/5] Processing: Hinckley's Golden Columbine
+[2025-10-17 02:23:28]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-17 02:23:28]     No image found on Wikipedia
+[2025-10-17 02:23:28]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-17 02:23:29]     No image found on iNaturalist
+[2025-10-17 02:23:29]   No image found from any source - skipping
+[2025-10-17 02:23:29] [4/5] Processing: Wild chives
+[2025-10-17 02:23:29]   Searching Wikipedia for: Allium schoenoprasum (Wild chives)
+[2025-10-17 02:23:29]     No image found on Wikipedia
+[2025-10-17 02:23:29]   Searching iNaturalist for: Allium schoenoprasum (Wild chives)
+[2025-10-17 02:23:29]     Found taxon ID: 59254
+[2025-10-17 02:23:30]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/31529240/original.jpg
+[2025-10-17 02:23:30]     Downloading from inaturalist to: public/images/plants/allium-schoenoprasum/allium-schoenoprasum-2025-10-17T02-23-30-987Z.jpg
+[2025-10-17 02:23:31]     Downloaded 1608.3 KB
+[2025-10-17 02:23:31]     Resized from 1360x2048 to 796x1200
+[2025-10-17 02:23:31]     Optimized to 167.7 KB (89.6% reduction)
+[2025-10-17 02:23:31]     Successfully processed image from inaturalist
+[2025-10-17 02:23:31]     Updated src/data/Plants/allium-schoenoprasum.json with imageUrl
+[2025-10-17 02:23:31]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:23:31] [5/5] Processing: Stiff goldenrod
+[2025-10-17 02:23:31]   Searching Wikipedia for: Oligoneuron rigidum (Stiff goldenrod)
+[2025-10-17 02:23:31]     No image found on Wikipedia
+[2025-10-17 02:23:31]   Searching iNaturalist for: Oligoneuron rigidum (Stiff goldenrod)
+[2025-10-17 02:23:31]     Found taxon ID: 125721
+[2025-10-17 02:23:32]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/50366000/original.jpg
+[2025-10-17 02:23:32]     Downloading from inaturalist to: public/images/plants/oligoneuron-rigidum/oligoneuron-rigidum-2025-10-17T02-23-32-562Z.jpg
+[2025-10-17 02:23:32]     Downloaded 1068.6 KB
+[2025-10-17 02:23:32]     Resized from 1536x2048 to 900x1200
+[2025-10-17 02:23:32]     Optimized to 227.5 KB (78.7% reduction)
+[2025-10-17 02:23:32]     Successfully processed image from inaturalist
+[2025-10-17 02:23:32]     Updated src/data/Plants/oligoneuron-rigidum.json with imageUrl
+[2025-10-17 02:23:32]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:23:32] Batch job completed
+[2025-10-17 02:23:32] Successfully processed: 4 plants
+[2025-10-17 02:23:32] Failed: 1 plants
+[2025-10-17 02:23:32] Skipped: 0 plants
+[2025-10-17 02:23:32] Total plants without images remaining: 71

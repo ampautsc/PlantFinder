@@ -11,8 +11,6 @@ This directory contains batch job scripts for the PlantFinder application.
 
 ## Plant Image Fetcher
 
-**⚠️ Updated**: Now includes iNaturalist fallback support and automatic image optimization (resizing + compression) for better performance!
-
 ### Overview
 
 The `fetch_plant_images.py` script is a batch job that downloads plant images from Wikipedia/Wikimedia Commons and iNaturalist. The script:
