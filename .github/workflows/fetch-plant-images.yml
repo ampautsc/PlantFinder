@@ -27,6 +27,10 @@ jobs:
     runs-on: ubuntu-latest
     name: Fetch Plant Images from Wikipedia
 
+    # Explicitly set permissions for security
+    permissions:
+      contents: write  # Needed to commit and push changes
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
