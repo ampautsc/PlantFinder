@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T17:26:05.916391",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-47912",
+    "commonName": "butterfly milkweed",
+    "scientificName": "Asclepias tuberosa",
+    "description": "<i><b>Asclepias tuberosa</b></i> is a species of milkweed native to eastern North America. It is a perennial plant growing to 0.3–1 metre (1 ft 0 in–3 ft 3 in) tall, with clustered orange or yellow flowers from early summer to early autumn. The leaves are spirally arranged, lanceolate, 5–12 cm long, and 2–3 cm broad.",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/206558098/medium.jpeg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 47912,
+      "observations_count": 65036,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

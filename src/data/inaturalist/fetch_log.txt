@@ -1,0 +1,9 @@
+[2025-10-17 17:38:25] Batch job started (test mode)
+[2025-10-17 17:38:25] Limit set to 3 plants
+[2025-10-17 17:38:25] Using mock taxa data for testing
+[2025-10-17 17:38:25] Taxa search result: Successfully loaded test data
+[2025-10-17 17:38:25] Saved plant data: inaturalist-47604.json
+[2025-10-17 17:38:25] Saved plant data: inaturalist-54774.json
+[2025-10-17 17:38:25] Saved plant data: inaturalist-47722.json
+[2025-10-17 17:38:25] Processed 3 plants successfully, 0 skipped, 0 failures
+[2025-10-17 17:38:25] Batch job completed

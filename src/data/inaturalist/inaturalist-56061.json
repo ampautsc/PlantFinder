@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T17:28:59.792809",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-56061",
+    "commonName": "garlic mustard",
+    "scientificName": "Alliaria petiolata",
+    "description": "<i><b>Alliaria petiolata</b></i> is a biennial flowering plant in the Mustard family, Brassicaceae. It is native to Europe, western and central Asia, and northwestern Africa, from Morocco, Iberia and the British Isles, north to northern Scandinavia, and east to northern Pakistan and western China (Xinjiang).",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3542548/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 56061,
+      "observations_count": 184126,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

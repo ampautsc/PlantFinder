@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2025-10-17T17:35:12.528544",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-55745",
+    "commonName": "white clover",
+    "scientificName": "Trifolium repens",
+    "description": "<i><b>Trifolium repens</b></i>, the <b>white clover</b> (also known as <b>Dutch clover</b>, <b>Ladino clover</b>, or <b>Ladino</b>), is a herbaceous perennial plant in the bean family Fabaceae (Previously referred to as Leguminosae). It is native to Europe and central Asia. One of the most widely cultivated types of clover, it has been widely introduced worldwide as a forage crop, and is now also common in most grassy areas (lawns and gardens) of North America and New Zealand. The species...",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "North America"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/507060696/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 55745,
+      "observations_count": 213004,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}

@@ -4,8 +4,182 @@ This directory contains batch job scripts for the PlantFinder application.
 
 ## Table of Contents
 
-1. [Plant Image Fetcher](#plant-image-fetcher) - Downloads plant images from Wikipedia
-2. [Wildflower Data Scraper](#wildflower-data-scraper) - Scrapes plant data from wildflower.org
+1. [iNaturalist Data Scraper](#inaturalist-data-scraper) - Fetches plant data from iNaturalist API ⭐ NEW
+2. [Plant Image Fetcher](#plant-image-fetcher) - Downloads plant images from Wikipedia
+3. [Wildflower Data Scraper](#wildflower-data-scraper) - Scrapes plant data from wildflower.org (deprecated - see iNaturalist)
+
+---
+
+## iNaturalist Data Scraper
+
+**⭐ NEW**: Primary data source for plant information!
+
+### Overview
+
+The `fetch_inaturalist_data.py` script is a batch job that fetches comprehensive plant data from the [iNaturalist API](https://api.inaturalist.org/v1/docs/). iNaturalist is a publicly accessible citizen science platform with millions of plant observations worldwide.
+
+This script:
+
+1. **Queries the iNaturalist API** for plant taxa (no authentication required)
+2. **Fetches detailed information** including taxonomy, descriptions, photos, and observation counts
+3. **Transforms data** to PlantFinder's internal format
+4. **Saves raw JSON** for each plant in `src/data/inaturalist/`
+
+### Features
+
+- **Public API Access**: No authentication required for read operations
+- **Rich Data**: Taxonomy, Wikipedia descriptions, photos, observation counts
+- **Flexible Search**: Search by name or browse by geographic region
+- **Rate Limiting**: Respectful delays between requests
+- **Test Mode**: Use mock data for development/testing
+- **Batch Processing**: Process multiple plants with configurable limits
+- **Error Handling**: Comprehensive retry logic and error reporting
+- **Logging**: Timestamped logs of all operations
+
+### Why iNaturalist?
+
+iNaturalist provides several advantages over other data sources:
+
+- ✅ **Public API**: No authentication required, free to use
+- ✅ **Comprehensive**: 130+ million observations, 400,000+ species
+- ✅ **Well-Documented**: Clear API documentation and examples
+- ✅ **Reliable**: Stable, production-grade infrastructure
+- ✅ **Rich Data**: Community-contributed photos, descriptions, and geographic data
+- ✅ **No Rate Limiting**: Reasonable rate limits for batch processing
+
+### Usage
+
+#### Manual Execution
+
+Run the script manually from the repository root:
+
+```bash
+# Normal mode - fetch default plants (native North American wildflowers)
+python3 scripts/fetch_inaturalist_data.py
+
+# Limit to specific number of plants
+python3 scripts/fetch_inaturalist_data.py --limit 10
+
+# Search for specific plant
+python3 scripts/fetch_inaturalist_data.py --search "butterfly weed" --limit 5
+
+# Test mode - dry run with mock data
+python3 scripts/fetch_inaturalist_data.py --test --limit 3
+```
+
+#### Automated Execution
+
+The script can be run automatically via GitHub Actions workflow:
+- **Schedule**: Can be configured to run daily/weekly
+- **Manual Trigger**: Can be triggered manually with custom parameters
+- **Workflow File**: `.github/workflows/fetch-inaturalist-data.yml` (to be created)
+
+### Output
+
+The script creates the following output in the `src/data/inaturalist/` directory:
+
+1. **Plant JSON files**: Individual JSON files for each plant (e.g., `inaturalist-47604.json`)
+2. **fetch_log.txt**: Timestamped log of all fetch attempts and results
+
+All files are stored in source control for versioning and collaboration.
+
+### Data Format
+
+Each plant JSON file contains:
+
+```json
+{
+  "scraped_at": "ISO timestamp when scraped",
+  "scraper_version": "1.0.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-47604",
+    "commonName": "Butterfly Weed",
+    "scientificName": "Asclepias tuberosa",
+    "description": "Asclepias tuberosa, commonly known as butterfly weed...",
+    "requirements": { "sun": "full-sun", "moisture": "medium", "soil": "loam" },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": ["North America"],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": ["butterflies", "bees"],
+      "usefulFor": ["pollinator garden", "native garden"]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12345/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 47604,
+      "observations_count": 15234,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}
+```
+
+### Configuration
+
+Key configuration constants in the script:
+
+- `DEFAULT_SEARCH_QUERY`: Default search parameters (native North American plants)
+- `PER_PAGE`: Number of results per API request (default: 50)
+- `OUTPUT_DIR`: Directory where data is saved (`src/data/inaturalist`)
+- `TIMEOUT`: Request timeout in seconds (30)
+- `RATE_LIMIT_DELAY`: Delay between requests in seconds (1.0)
+
+### Exit Codes
+
+- `0`: Success - Data fetched and saved successfully
+- `1`: Failure - Request failed due to error
+
+### Example Output
+
+```
+======================================================================
+iNaturalist Plant Data Scraper - Batch Job
+======================================================================
+Started at: 2025-10-17 17:26:02
+Limit: 5 plants
+
+✓ Output directory ready: src/data/inaturalist
+[2025-10-17 17:26:02] Batch job started (normal mode)
+Fetching taxa from: https://api.inaturalist.org/v1/taxa?...
+✓ HTTP Status Code: 200
+✓ Found 5 taxa (total available: 50)
+
+Processing 5 plants...
+
+[1/5]
+  Processing: Asclepias tuberosa
+  Common name: butterfly milkweed
+  Fetching taxon details: https://api.inaturalist.org/v1/taxa/47912
+  ✓ Successfully fetched taxon details
+  ✓ Successfully processed
+
+...
+
+======================================================================
+✓ Successfully processed 5 plants
+
+Data saved to: src/data/inaturalist
+Log file: src/data/inaturalist/fetch_log.txt
+```
+
+### Notes
+
+- The iNaturalist API is public and does not require authentication
+- Rate limiting is built-in: 1 second delay between requests
+- The script respects iNaturalist's API guidelines
+- Data includes observation counts which indicate plant popularity/commonality
+- Wikipedia descriptions are included when available
+- Photos are from community contributions (various licenses - check individual photos)
 
 ---
 
