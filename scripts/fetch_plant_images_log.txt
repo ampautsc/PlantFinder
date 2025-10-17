@@ -4009,3 +4009,178 @@
 [2025-10-17 03:23:20] Failed: 5 plants
 [2025-10-17 03:23:20] Skipped: 0 plants
 [2025-10-17 03:23:20] Total plants without images remaining: 16
+[2025-10-17 06:25:09] Batch job started (version 2.0.0)
+[2025-10-17 06:25:09] Limit set to 16 images
+[2025-10-17 06:25:09] Scanning for plants without images...
+[2025-10-17 06:25:09] Found 16 plants without images
+[2025-10-17 06:25:09] Processing 16 plants
+[2025-10-17 06:25:09] [1/16] Processing: Hinckley's Golden Columbine
+[2025-10-17 06:25:09]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-17 06:25:09]     No image found on Wikipedia
+[2025-10-17 06:25:09]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-17 06:25:10]     No image found on iNaturalist
+[2025-10-17 06:25:10]   No image found from any source - skipping
+[2025-10-17 06:25:10] [2/16] Processing: American Cranberry Bush
+[2025-10-17 06:25:10]   Searching Wikipedia for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-10-17 06:25:10]     No image found on Wikipedia
+[2025-10-17 06:25:10]   Searching iNaturalist for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-10-17 06:25:11]     No image found on iNaturalist
+[2025-10-17 06:25:11]   No image found from any source - skipping
+[2025-10-17 06:25:11] [3/16] Processing: Blunt-leaf Rabbit-tobacco
+[2025-10-17 06:25:11]   Searching Wikipedia for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-10-17 06:25:12]     No image found on Wikipedia
+[2025-10-17 06:25:12]   Searching iNaturalist for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-10-17 06:25:12]     No image found on iNaturalist
+[2025-10-17 06:25:12]   No image found from any source - skipping
+[2025-10-17 06:25:12] [4/16] Processing: Pinewoods Horkelia
+[2025-10-17 06:25:12]   Searching Wikipedia for: Horkelia fusca (Pinewoods Horkelia)
+[2025-10-17 06:25:12]     No image found on Wikipedia
+[2025-10-17 06:25:12]   Searching iNaturalist for: Horkelia fusca (Pinewoods Horkelia)
+[2025-10-17 06:25:12]     Found taxon ID: 77437
+[2025-10-17 06:25:13]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/139307640/original.jpg
+[2025-10-17 06:25:13]     Downloading from inaturalist to: public/images/plants/horkelia-fusca/horkelia-fusca-2025-10-17T06-25-13-411Z.jpg
+[2025-10-17 06:25:13]     Downloaded 581.0 KB
+[2025-10-17 06:25:14]     Resized from 2048x1614 to 1200x945
+[2025-10-17 06:25:14]     Optimized to 161.2 KB (72.3% reduction)
+[2025-10-17 06:25:14]     Successfully processed image from inaturalist
+[2025-10-17 06:25:14]     Updated src/data/Plants/horkelia-fusca.json with imageUrl
+[2025-10-17 06:25:14]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 06:25:14] [5/16] Processing: Smallflower False Foxglove
+[2025-10-17 06:25:14]   Searching Wikipedia for: Agalinis paupercula var. borealis (Smallflower False Foxglove)
+[2025-10-17 06:25:14]     No image found on Wikipedia
+[2025-10-17 06:25:14]   Searching iNaturalist for: Agalinis paupercula var. borealis (Smallflower False Foxglove)
+[2025-10-17 06:25:14]     No image found on iNaturalist
+[2025-10-17 06:25:14]   No image found from any source - skipping
+[2025-10-17 06:25:14] [6/16] Processing: Elliptic Spikerush
+[2025-10-17 06:25:14]   Searching Wikipedia for: Eleocharis elliptica (Elliptic Spikerush)
+[2025-10-17 06:25:14]     No image found on Wikipedia
+[2025-10-17 06:25:14]   Searching iNaturalist for: Eleocharis elliptica (Elliptic Spikerush)
+[2025-10-17 06:25:14]     Found taxon ID: 162239
+[2025-10-17 06:25:15]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/131776384/original.jpeg
+[2025-10-17 06:25:15]     Downloading from inaturalist to: public/images/plants/eleocharis-elliptica/eleocharis-elliptica-2025-10-17T06-25-15-368Z.jpg
+[2025-10-17 06:25:15]     Downloaded 809.3 KB
+[2025-10-17 06:25:15]     Resized from 2048x1536 to 1200x900
+[2025-10-17 06:25:16]     Optimized to 364.8 KB (54.9% reduction)
+[2025-10-17 06:25:16]     Successfully processed image from inaturalist
+[2025-10-17 06:25:16]     Updated src/data/Plants/eleocharis-elliptica.json with imageUrl
+[2025-10-17 06:25:16]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 06:25:16] [7/16] Processing: Green Sprangletop
+[2025-10-17 06:25:16]   Searching Wikipedia for: Leptochloa dubia (Green Sprangletop)
+[2025-10-17 06:25:16]     No image found on Wikipedia
+[2025-10-17 06:25:16]   Searching iNaturalist for: Leptochloa dubia (Green Sprangletop)
+[2025-10-17 06:25:16]     Found taxon ID: 1511099
+[2025-10-17 06:25:16]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/10783319/original.jpeg
+[2025-10-17 06:25:16]     Downloading from inaturalist to: public/images/plants/leptochloa-dubia/leptochloa-dubia-2025-10-17T06-25-16-894Z.jpg
+[2025-10-17 06:25:17]     Downloaded 1240.0 KB
+[2025-10-17 06:25:17]     Resized from 2048x1480 to 1200x867
+[2025-10-17 06:25:17]     Optimized to 177.4 KB (85.7% reduction)
+[2025-10-17 06:25:17]     Successfully processed image from inaturalist
+[2025-10-17 06:25:17]     Updated src/data/Plants/leptochloa-dubia.json with imageUrl
+[2025-10-17 06:25:17]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 06:25:17] [8/16] Processing: Wax Myrtle
+[2025-10-17 06:25:17]   Searching Wikipedia for: Morella cerifera (Wax Myrtle)
+[2025-10-17 06:25:17]     No image found on Wikipedia
+[2025-10-17 06:25:17]   Searching iNaturalist for: Morella cerifera (Wax Myrtle)
+[2025-10-17 06:25:17]     Found taxon ID: 119956
+[2025-10-17 06:25:18]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/370336672/original.jpg
+[2025-10-17 06:25:18]     Downloading from inaturalist to: public/images/plants/morella-cerifera/morella-cerifera-2025-10-17T06-25-18-228Z.jpg
+[2025-10-17 06:25:18]     Downloaded 858.1 KB
+[2025-10-17 06:25:18]     Resized from 1536x2048 to 900x1200
+[2025-10-17 06:25:18]     Optimized to 190.4 KB (77.8% reduction)
+[2025-10-17 06:25:18]     Successfully processed image from inaturalist
+[2025-10-17 06:25:18]     Updated src/data/Plants/morella-cerifera.json with imageUrl
+[2025-10-17 06:25:18]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 06:25:18] [9/16] Processing: Texas Tuberose
+[2025-10-17 06:25:18]   Searching Wikipedia for: Manfreda maculosa (Texas Tuberose)
+[2025-10-17 06:25:19]     No image found on Wikipedia
+[2025-10-17 06:25:19]   Searching iNaturalist for: Manfreda maculosa (Texas Tuberose)
+[2025-10-17 06:25:19]     Found taxon ID: 165133
+[2025-10-17 06:25:19]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/16881730/original.jpeg
+[2025-10-17 06:25:19]     Downloading from inaturalist to: public/images/plants/manfreda-maculosa/manfreda-maculosa-2025-10-17T06-25-19-689Z.jpg
+[2025-10-17 06:25:20]     Downloaded 895.3 KB
+[2025-10-17 06:25:20]     Resized from 2048x1365 to 1200x799
+[2025-10-17 06:25:20]     Optimized to 141.2 KB (84.2% reduction)
+[2025-10-17 06:25:20]     Successfully processed image from inaturalist
+[2025-10-17 06:25:20]     Updated src/data/Plants/manfreda-maculosa.json with imageUrl
+[2025-10-17 06:25:20]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 06:25:20] [10/16] Processing: Northern sweetvetch
+[2025-10-17 06:25:20]   Searching Wikipedia for: Hedysarum boreale ssp. Mackenzeii (Northern sweetvetch)
+[2025-10-17 06:25:20]     No image found on Wikipedia
+[2025-10-17 06:25:20]   Searching iNaturalist for: Hedysarum boreale ssp. Mackenzeii (Northern sweetvetch)
+[2025-10-17 06:25:20]     No image found on iNaturalist
+[2025-10-17 06:25:20]   No image found from any source - skipping
+[2025-10-17 06:25:20] [11/16] Processing: Tower Rockcress
+[2025-10-17 06:25:20]   Searching Wikipedia for: Arabis glabra (Tower Rockcress)
+[2025-10-17 06:25:21]     No image found on Wikipedia
+[2025-10-17 06:25:21]   Searching iNaturalist for: Arabis glabra (Tower Rockcress)
+[2025-10-17 06:25:21]     Found taxon ID: 79460
+[2025-10-17 06:25:21]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/277193750/original.jpeg
+[2025-10-17 06:25:21]     Downloading from inaturalist to: public/images/plants/arabis-glabra/arabis-glabra-2025-10-17T06-25-21-587Z.jpg
+[2025-10-17 06:25:22]     Downloaded 496.3 KB
+[2025-10-17 06:25:22]     Optimized to 239.1 KB (51.8% reduction)
+[2025-10-17 06:25:22]     Successfully processed image from inaturalist
+[2025-10-17 06:25:22]     Updated src/data/Plants/arabis-glabra.json with imageUrl
+[2025-10-17 06:25:22]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 06:25:22] [12/16] Processing: Beardtongue
+[2025-10-17 06:25:22]   Searching Wikipedia for: Penstemon spp. (Beardtongue)
+[2025-10-17 06:25:22]     No image found on Wikipedia
+[2025-10-17 06:25:22]   Searching iNaturalist for: Penstemon spp. (Beardtongue)
+[2025-10-17 06:25:22]     Found taxon ID: 81942
+[2025-10-17 06:25:23]     Found image on iNaturalist: https://static.inaturalist.org/photos/100341918/original.jpg
+[2025-10-17 06:25:23]     Downloading from inaturalist to: public/images/plants/penstemon/penstemon-2025-10-17T06-25-23-220Z.jpg
+[2025-10-17 06:25:23]     Downloaded 603.3 KB
+[2025-10-17 06:25:23]     Resized from 2048x1365 to 1200x799
+[2025-10-17 06:25:23]     Optimized to 79.6 KB (86.8% reduction)
+[2025-10-17 06:25:23]     Successfully processed image from inaturalist
+[2025-10-17 06:25:23]     Updated src/data/Plants/penstemon.json with imageUrl
+[2025-10-17 06:25:23]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 06:25:23] [13/16] Processing: Eastern Black Cherry
+[2025-10-17 06:25:23]   Searching Wikipedia for: Prunus serotina var. serotina (Eastern Black Cherry)
+[2025-10-17 06:25:24]     No image found on Wikipedia
+[2025-10-17 06:25:24]   Searching iNaturalist for: Prunus serotina var. serotina (Eastern Black Cherry)
+[2025-10-17 06:25:24]     No image found on iNaturalist
+[2025-10-17 06:25:24]   No image found from any source - skipping
+[2025-10-17 06:25:24] [14/16] Processing: Allegheny Monkeyflower
+[2025-10-17 06:25:24]   Searching Wikipedia for: Mimulus ringens var. ringens (Allegheny Monkeyflower)
+[2025-10-17 06:25:24]     No image found on Wikipedia
+[2025-10-17 06:25:24]   Searching iNaturalist for: Mimulus ringens var. ringens (Allegheny Monkeyflower)
+[2025-10-17 06:25:24]     Found taxon ID: 62399
+[2025-10-17 06:25:25]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/21933860/original.jpg
+[2025-10-17 06:25:25]     Downloading from inaturalist to: public/images/plants/mimulus-ringens-var.-ringens/mimulus-ringens-var.-ringens-2025-10-17T06-25-25-181Z.jpg
+[2025-10-17 06:25:25]     Downloaded 803.4 KB
+[2025-10-17 06:25:25]     Resized from 1536x2048 to 900x1200
+[2025-10-17 06:25:25]     Optimized to 142.5 KB (82.3% reduction)
+[2025-10-17 06:25:25]     Successfully processed image from inaturalist
+[2025-10-17 06:25:25]     Updated src/data/Plants/mimulus-ringens-var.-ringens.json with imageUrl
+[2025-10-17 06:25:25]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 06:25:25] [15/16] Processing: Snapdragon Vine
+[2025-10-17 06:25:25]   Searching Wikipedia for: Maurandella antirrhiniflora (Snapdragon Vine)
+[2025-10-17 06:25:26]     No image found on Wikipedia
+[2025-10-17 06:25:26]   Searching iNaturalist for: Maurandella antirrhiniflora (Snapdragon Vine)
+[2025-10-17 06:25:26]     Found taxon ID: 77967
+[2025-10-17 06:25:26]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/173034871/original.jpg
+[2025-10-17 06:25:26]     Downloading from inaturalist to: public/images/plants/maurandella-antirrhiniflora/maurandella-antirrhiniflora-2025-10-17T06-25-26-628Z.jpg
+[2025-10-17 06:25:27]     Downloaded 1863.5 KB
+[2025-10-17 06:25:27]     Resized from 2048x1367 to 1200x800
+[2025-10-17 06:25:27]     Optimized to 119.5 KB (93.6% reduction)
+[2025-10-17 06:25:27]     Successfully processed image from inaturalist
+[2025-10-17 06:25:27]     Updated src/data/Plants/maurandella-antirrhiniflora.json with imageUrl
+[2025-10-17 06:25:27]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 06:25:27] [16/16] Processing: Howell's Pussytoes
+[2025-10-17 06:25:27]   Searching Wikipedia for: Antennaria howellii ssp. neodioica (Howell's Pussytoes)
+[2025-10-17 06:25:27]     No image found on Wikipedia
+[2025-10-17 06:25:27]   Searching iNaturalist for: Antennaria howellii ssp. neodioica (Howell's Pussytoes)
+[2025-10-17 06:25:27]     Found taxon ID: 75463
+[2025-10-17 06:25:28]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/17884316/original.jpg
+[2025-10-17 06:25:28]     Downloading from inaturalist to: public/images/plants/antennaria-howellii/antennaria-howellii-2025-10-17T06-25-28-170Z.jpg
+[2025-10-17 06:25:28]     Downloaded 1027.4 KB
+[2025-10-17 06:25:28]     Resized from 1365x2048 to 799x1200
+[2025-10-17 06:25:28]     Optimized to 214.8 KB (79.1% reduction)
+[2025-10-17 06:25:28]     Successfully processed image from inaturalist
+[2025-10-17 06:25:28]     Updated src/data/Plants/antennaria-howellii.json with imageUrl
+[2025-10-17 06:25:28]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 06:25:28] Batch job completed
+[2025-10-17 06:25:28] Successfully processed: 10 plants
+[2025-10-17 06:25:28] Failed: 6 plants
+[2025-10-17 06:25:28] Skipped: 0 plants
+[2025-10-17 06:25:28] Total plants without images remaining: 6
