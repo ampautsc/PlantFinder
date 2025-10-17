@@ -133,3 +133,36 @@
 [2025-10-17 01:02:01] Failed: 1 plants
 [2025-10-17 01:02:01] Skipped: 0 plants
 [2025-10-17 01:02:01] Total plants without images remaining: 446
+[2025-10-17 01:04:09] Batch job started (version 1.0.0)
+[2025-10-17 01:04:09] Running in TEST MODE - no files will be modified
+[2025-10-17 01:04:09] Limit set to 5 images
+[2025-10-17 01:04:09] Scanning for plants without images...
+[2025-10-17 01:04:09] Found 446 plants without images
+[2025-10-17 01:04:09] Processing 5 plants
+[2025-10-17 01:04:09] [1/5] Processing: Kentucky Coffeetree
+[2025-10-17 01:04:09]   Searching Wikipedia for: Gymnocladus dioicus (Kentucky Coffeetree)
+[2025-10-17 01:04:10]     No image found on Wikipedia
+[2025-10-17 01:04:10]   No image found - skipping
+[2025-10-17 01:04:10] [2/5] Processing: Bog Labrador Tea
+[2025-10-17 01:04:10]   Searching Wikipedia for: Ledum groenlandicum (Bog Labrador Tea)
+[2025-10-17 01:04:10]     No image found on Wikipedia
+[2025-10-17 01:04:10]   No image found - skipping
+[2025-10-17 01:04:10] [3/5] Processing: Big Sagebrush
+[2025-10-17 01:04:10]   Searching Wikipedia for: Artemisia tridentata (Big Sagebrush)
+[2025-10-17 01:04:10]     Found image: https://upload.wikimedia.org/wikipedia/commons/d/df/Sagebrushsjc.jpg
+[2025-10-17 01:04:10]     [TEST MODE] Would download: https://upload.wikimedia.org/wikipedia/commons/d/df/Sagebrushsjc.jpg
+[2025-10-17 01:04:10]     [TEST MODE] Would update src/data/Plants/artemisia-tridentata.json with imageUrl: /images/plants/artemisia-tridentata/artemisia-tridentata-test.jpg
+[2025-10-17 01:04:10]   ✓ Successfully processed plant
+[2025-10-17 01:04:10] [4/5] Processing: Honey Mesquite
+[2025-10-17 01:04:10]   Searching Wikipedia for: Prosopis glandulosa (Honey Mesquite)
+[2025-10-17 01:04:10]     No image found on Wikipedia
+[2025-10-17 01:04:10]   No image found - skipping
+[2025-10-17 01:04:10] [5/5] Processing: Hinckley's Golden Columbine
+[2025-10-17 01:04:10]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-17 01:04:10]     No image found on Wikipedia
+[2025-10-17 01:04:10]   No image found - skipping
+[2025-10-17 01:04:10] Batch job completed
+[2025-10-17 01:04:10] Successfully processed: 1 plants
+[2025-10-17 01:04:10] Failed: 4 plants
+[2025-10-17 01:04:10] Skipped: 0 plants
+[2025-10-17 01:04:10] Total plants without images remaining: 445
