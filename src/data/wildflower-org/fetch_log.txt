@@ -204,3 +204,13 @@
 [2025-10-17 15:22:10] Configuration: collection=bamona, pagecount=100
 [2025-10-17 15:22:10] Total plant links extracted: 0
 [2025-10-17 15:22:10] Batch job completed with errors - could not fetch collection page
+[2025-10-17 15:26:15] Batch job started (test mode)
+[2025-10-17 15:26:15] Target URL: https://www.wildflower.org/collections/collection.php?start=0&collection=bamona&pagecount=100
+[2025-10-17 15:26:15] Collection fetch result: Successfully loaded test data
+[2025-10-17 15:26:15] Configuration: collection=bamona, pagecount=100
+[2025-10-17 15:26:15] Total plant links extracted: 3
+[2025-10-17 15:26:15] Saved plant data: asclepias-tuberosa.json
+[2025-10-17 15:26:15] Saved plant data: echinacea-purpurea.json
+[2025-10-17 15:26:16] Saved plant data: rudbeckia-hirta.json
+[2025-10-17 15:26:16] Processed 3 plants successfully, 0 failures
+[2025-10-17 15:26:16] Batch job completed successfully
