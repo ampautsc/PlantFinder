@@ -1,0 +1,62 @@
+[2025-10-17 01:00:06] Batch job started (version 1.0.0)
+[2025-10-17 01:00:06] Running in TEST MODE - no files will be modified
+[2025-10-17 01:00:06] Limit set to 3 images
+[2025-10-17 01:00:06] Scanning for plants without images...
+[2025-10-17 01:00:06] Found 454 plants without images
+[2025-10-17 01:00:06] Processing 3 plants
+[2025-10-17 01:00:06] [1/3] Processing: Flowering Dogwood
+[2025-10-17 01:00:06]   Searching Wikipedia for: Cornus florida (Flowering Dogwood)
+[2025-10-17 01:00:06]     Found image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Cornus_florida_Arkansas.jpg/Cornus_florida_Arkansas.jpg
+[2025-10-17 01:00:06]     [TEST MODE] Would download: https://upload.wikimedia.org/wikipedia/commons/b/b3/Cornus_florida_Arkansas.jpg/Cornus_florida_Arkansas.jpg
+[2025-10-17 01:00:06]     [TEST MODE] Would update src/data/Plants/cornus-florida.json with imageUrl: /images/plants/cornus-florida/cornus-florida-test.jpg
+[2025-10-17 01:00:06]   ✓ Successfully processed plant
+[2025-10-17 01:00:06] [2/3] Processing: Anise-scented goldenrod
+[2025-10-17 01:00:06]   Searching Wikipedia for: Solidago odora (Anise-scented goldenrod)
+[2025-10-17 01:00:06]     Found image: https://upload.wikimedia.org/wikipedia/commons/2/2d/Solidago_odora_Arkansas.jpg/Solidago_odora_Arkansas.jpg
+[2025-10-17 01:00:06]     [TEST MODE] Would download: https://upload.wikimedia.org/wikipedia/commons/2/2d/Solidago_odora_Arkansas.jpg/Solidago_odora_Arkansas.jpg
+[2025-10-17 01:00:06]     [TEST MODE] Would update src/data/Plants/solidago-odora.json with imageUrl: /images/plants/solidago-odora/solidago-odora-test.jpg
+[2025-10-17 01:00:06]   ✓ Successfully processed plant
+[2025-10-17 01:00:06] [3/3] Processing: Sideoats Grama
+[2025-10-17 01:00:06]   Searching Wikipedia for: Bouteloua curtipendula (Sideoats Grama)
+[2025-10-17 01:00:07]     Found image: https://upload.wikimedia.org/wikipedia/commons/8/8a/Bouteloua_curtipendula.jpg/Bouteloua_curtipendula.jpg
+[2025-10-17 01:00:07]     [TEST MODE] Would download: https://upload.wikimedia.org/wikipedia/commons/8/8a/Bouteloua_curtipendula.jpg/Bouteloua_curtipendula.jpg
+[2025-10-17 01:00:07]     [TEST MODE] Would update src/data/Plants/bouteloua-curtipendula.json with imageUrl: /images/plants/bouteloua-curtipendula/bouteloua-curtipendula-test.jpg
+[2025-10-17 01:00:07]   ✓ Successfully processed plant
+[2025-10-17 01:00:07] Batch job completed
+[2025-10-17 01:00:07] Successfully processed: 3 plants
+[2025-10-17 01:00:07] Failed: 0 plants
+[2025-10-17 01:00:07] Skipped: 0 plants
+[2025-10-17 01:00:07] Total plants without images remaining: 451
+[2025-10-17 01:00:15] Batch job started (version 1.0.0)
+[2025-10-17 01:00:15] Limit set to 1 images
+[2025-10-17 01:00:15] Scanning for plants without images...
+[2025-10-17 01:00:15] Found 454 plants without images
+[2025-10-17 01:00:15] Processing 1 plants
+[2025-10-17 01:00:15] [1/1] Processing: Flowering Dogwood
+[2025-10-17 01:00:15]   Searching Wikipedia for: Cornus florida (Flowering Dogwood)
+[2025-10-17 01:00:15]     Found image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Cornus_florida_Arkansas.jpg/Cornus_florida_Arkansas.jpg
+[2025-10-17 01:00:15]     Downloading to: public/images/plants/cornus-florida/cornus-florida-2025-10-17T01-00-15-640Z.jpg
+[2025-10-17 01:00:15]     Failed to download image: HTTPError: HTTP Error 404: Not Found
+[2025-10-17 01:00:15]   Failed to download image
+[2025-10-17 01:00:15] Batch job completed
+[2025-10-17 01:00:15] Successfully processed: 0 plants
+[2025-10-17 01:00:15] Failed: 1 plants
+[2025-10-17 01:00:15] Skipped: 0 plants
+[2025-10-17 01:00:15] Total plants without images remaining: 454
+[2025-10-17 01:00:39] Batch job started (version 1.0.0)
+[2025-10-17 01:00:39] Limit set to 1 images
+[2025-10-17 01:00:39] Scanning for plants without images...
+[2025-10-17 01:00:39] Found 454 plants without images
+[2025-10-17 01:00:39] Processing 1 plants
+[2025-10-17 01:00:39] [1/1] Processing: Flowering Dogwood
+[2025-10-17 01:00:39]   Searching Wikipedia for: Cornus florida (Flowering Dogwood)
+[2025-10-17 01:00:39]     Found image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Cornus_florida_Arkansas.jpg
+[2025-10-17 01:00:39]     Downloading to: public/images/plants/cornus-florida/cornus-florida-2025-10-17T01-00-39-829Z.jpg
+[2025-10-17 01:00:40]     Successfully downloaded image
+[2025-10-17 01:00:40]     Updated src/data/Plants/cornus-florida.json with imageUrl
+[2025-10-17 01:00:40]   ✓ Successfully processed plant
+[2025-10-17 01:00:40] Batch job completed
+[2025-10-17 01:00:40] Successfully processed: 1 plants
+[2025-10-17 01:00:40] Failed: 0 plants
+[2025-10-17 01:00:40] Skipped: 0 plants
+[2025-10-17 01:00:40] Total plants without images remaining: 453
