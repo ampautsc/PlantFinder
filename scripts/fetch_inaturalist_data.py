@@ -7,6 +7,16 @@ including taxonomy, descriptions, photos, and geographic distribution.
 The iNaturalist API is publicly accessible and does not require authentication for read operations.
 API documentation: https://api.inaturalist.org/v1/docs/
 
+DATA COMPLETENESS NOTE:
+iNaturalist provides excellent taxonomic data, photos, and observation counts, but does not
+include detailed horticultural information (growing requirements, bloom times, etc.). 
+The script uses default values for these fields and marks them with TODO comments.
+For production use, consider integrating additional data sources like:
+- USDA PLANTS Database (plants.usda.gov)
+- Trefle.io Plant API
+- Wikipedia/Wikidata structured data
+- Manual curation of key species
+
 Usage:
     python fetch_inaturalist_data.py                # Normal mode - fetch from API
     python fetch_inaturalist_data.py --limit 10     # Fetch only 10 plants
@@ -321,30 +331,48 @@ def transform_to_plantfinder_format(taxon_data):
         # Try to get the largest available size
         image_url = default_photo.get('large_url') or default_photo.get('medium_url') or default_photo.get('small_url')
     
+    # Extract native range from establishment means if available
+    # iNaturalist provides place data, but detailed native range requires additional API calls
+    native_range = []
+    establishment_means = taxon_data.get('establishment_means', {})
+    if establishment_means:
+        # Native places would be listed here
+        native_range = ["North America"]  # TODO: Parse actual native range from establishment_means
+    else:
+        native_range = ["North America"]  # Default assumption based on search query
+    
     # Build PlantFinder format
+    # NOTE: Many fields use default values as iNaturalist doesn't provide detailed horticultural data
+    # TODO: Consider integrating with additional data sources (USDA PLANTS, Trefle.io) for:
+    #   - Sun requirements (full-sun, partial-sun, shade)
+    #   - Moisture requirements (dry, medium, moist, wet)
+    #   - Soil types (sand, loam, clay, rocky)
+    #   - Height and width ranges
+    #   - Bloom colors and times
+    #   - Hardiness zones
     plant_data = {
         "id": plant_id,
         "commonName": common_name or scientific_name,
         "scientificName": scientific_name,
         "description": description,
         "requirements": {
-            "sun": "full-sun",  # Default - would need additional data source
-            "moisture": "medium",
-            "soil": "loam"
+            "sun": "full-sun",  # TODO: Populate from additional data source
+            "moisture": "medium",  # TODO: Populate from additional data source
+            "soil": "loam"  # TODO: Populate from additional data source
         },
         "characteristics": {
-            "height": 24,  # Default - would need additional data source
-            "width": 18,
-            "bloomColor": [],
-            "bloomTime": [],
-            "perennial": True,
-            "nativeRange": ["North America"],
-            "hardinessZones": []
+            "height": 24,  # TODO: Populate from additional data source
+            "width": 18,  # TODO: Populate from additional data source
+            "bloomColor": [],  # TODO: Populate from additional data source
+            "bloomTime": [],  # TODO: Populate from additional data source
+            "perennial": True,  # TODO: Determine from taxon data or additional source
+            "nativeRange": native_range,
+            "hardinessZones": []  # TODO: Populate from additional data source
         },
         "relationships": {
-            "hostPlantTo": [],
-            "foodFor": ["butterflies", "bees"],
-            "usefulFor": ["pollinator garden", "native garden"]
+            "hostPlantTo": [],  # TODO: Could extract from iNaturalist taxon interactions
+            "foodFor": ["butterflies", "bees"],  # Generic pollinator value
+            "usefulFor": ["pollinator garden", "native garden"]  # Generic garden uses
         }
     }
     
