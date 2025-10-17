@@ -64,3 +64,26 @@
 [2025-10-17 19:41:04] Saved plant data: inaturalist-55971.json
 [2025-10-17 19:41:04] Processed 50 plants successfully, 0 skipped, 0 failures
 [2025-10-17 19:41:04] Batch job completed
+[2025-10-17 20:09:11] Batch job started (test mode)
+[2025-10-17 20:09:11] Limit set to 1 plants
+[2025-10-17 20:09:11] Using mock taxa data for testing
+[2025-10-17 20:09:11] Taxa search result: Successfully loaded test data
+[2025-10-17 20:09:11] Saved plant data: inaturalist-47604.json
+[2025-10-17 20:09:11] Processed 1 plants successfully, 0 skipped, 0 failures
+[2025-10-17 20:09:11] Batch job completed
+[2025-10-17 20:09:27] Batch job started (normal mode)
+[2025-10-17 20:09:27] Limit set to 1 plants
+[2025-10-17 20:09:27] Searching for: Asclepias tuberosa
+[2025-10-17 20:09:27] Fetching taxa from API: q=Asclepias%20tuberosa&rank=species&per_page=1
+[2025-10-17 20:09:28] Found 1 taxa (total available: 1)
+[2025-10-17 20:09:28] Taxa search result: Successfully fetched 1 taxa
+[2025-10-17 20:10:35] Saved plant data: inaturalist-47912.json
+[2025-10-17 20:10:35] Processed 1 plants successfully, 0 skipped, 0 failures
+[2025-10-17 20:10:35] Batch job completed
+[2025-10-17 20:25:11] Batch job started (test mode)
+[2025-10-17 20:25:11] Limit set to 1 plants
+[2025-10-17 20:25:11] Using mock taxa data for testing
+[2025-10-17 20:25:11] Taxa search result: Successfully loaded test data
+[2025-10-17 20:25:11] Saved plant data: inaturalist-47604.json
+[2025-10-17 20:25:11] Processed 1 plants successfully, 0 skipped, 0 failures
+[2025-10-17 20:25:11] Batch job completed

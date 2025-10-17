@@ -2,16 +2,19 @@
 """
 Batch job to fetch plant data from the iNaturalist API.
 This script queries the iNaturalist public API to retrieve detailed plant information,
-including taxonomy, descriptions, photos, and geographic distribution.
+including taxonomy, descriptions, photos, and state-level geographic distribution.
 
 The iNaturalist API is publicly accessible and does not require authentication for read operations.
 API documentation: https://api.inaturalist.org/v1/docs/
 
 DATA COMPLETENESS NOTE:
-iNaturalist provides excellent taxonomic data, photos, and observation counts, but does not
-include detailed horticultural information (growing requirements, bloom times, etc.). 
-The script uses default values for these fields and marks them with TODO comments.
-For production use, consider integrating additional data sources like:
+iNaturalist provides excellent taxonomic data, photos, observation counts, and state-level
+native range data through the establishment_means API endpoint. The script now fetches
+detailed state-level native range for all 50 US states.
+
+However, it does not include detailed horticultural information (growing requirements, 
+bloom times, etc.). The script uses default values for these fields and marks them with 
+TODO comments. For production use, consider integrating additional data sources like:
 - USDA PLANTS Database (plants.usda.gov)
 - Trefle.io Plant API
 - Wikipedia/Wikidata structured data
@@ -28,6 +31,7 @@ Configuration:
     - DEFAULT_SEARCH_QUERY: Plants to search for (default: native North American wildflowers)
     - PER_PAGE: Number of results per page (default: 50)
     - OUTPUT_DIR: Where to save the data (default: src/data/inaturalist)
+    - US_STATE_PLACE_IDS: State place IDs for native range queries
 """
 
 import sys
@@ -42,7 +46,7 @@ import socket
 import time
 
 # Configuration
-SCRAPER_VERSION = "1.0.0"
+SCRAPER_VERSION = "1.1.0"
 OUTPUT_DIR = "src/data/inaturalist"
 LOG_FILE = "fetch_log.txt"
 TIMEOUT = 30  # Request timeout in seconds
@@ -52,6 +56,61 @@ USER_AGENT = 'PlantFinder-DataFetch/1.0 (https://github.com/ampautsc/PlantFinder
 INATURALIST_API_BASE = "https://api.inaturalist.org/v1"
 PER_PAGE = 50  # Number of results per API request
 RATE_LIMIT_DELAY = 1.0  # Delay between requests in seconds
+
+# US State place IDs for iNaturalist API
+# These IDs are used to query state-level native range data
+US_STATE_PLACE_IDS = {
+    'Alabama': 19,
+    'Alaska': 6,
+    'Arizona': 40,
+    'Arkansas': 36,
+    'California': 14,
+    'Colorado': 34,
+    'Connecticut': 49,
+    'Delaware': 4,
+    'Florida': 7539,
+    'Georgia': 23,
+    'Hawaii': 11,
+    'Idaho': 22,
+    'Illinois': 35,
+    'Indiana': 20,
+    'Iowa': 24,
+    'Kansas': 25,
+    'Kentucky': 26,
+    'Louisiana': 27,
+    'Maine': 17,
+    'Maryland': 39,
+    'Massachusetts': 2,
+    'Michigan': 29,
+    'Minnesota': 38,
+    'Mississippi': 37,
+    'Missouri': 28,
+    'Montana': 16,
+    'Nebraska': 3,
+    'Nevada': 50,
+    'New Hampshire': 41,
+    'New Jersey': 51,
+    'New Mexico': 9,
+    'New York': 48,
+    'North Carolina': 30,
+    'North Dakota': 13,
+    'Ohio': 31,
+    'Oklahoma': 12,
+    'Oregon': 10,
+    'Pennsylvania': 42,
+    'Rhode Island': 8,
+    'South Carolina': 43,
+    'South Dakota': 44,
+    'Tennessee': 45,
+    'Texas': 18,
+    'Utah': 52,
+    'Vermont': 47,
+    'Virginia': 7,
+    'Washington': 46,
+    'West Virginia': 33,
+    'Wisconsin': 32,
+    'Wyoming': 15,
+}
 
 # Default search: Native North American wildflowers
 # Using rank_level=10 (species) and taxon_id=47126 (Plantae kingdom)
@@ -307,12 +366,84 @@ def fetch_taxon_details(taxon_id, log_path):
         return None
 
 
-def transform_to_plantfinder_format(taxon_data):
+def fetch_state_native_range(taxon_id, log_path):
+    """
+    Fetch state-level native range data for a taxon by checking establishment means
+    for each US state.
+    
+    Args:
+        taxon_id: iNaturalist taxon ID
+        log_path: Path to log file
+    
+    Returns:
+        List of state names where the plant is native, or empty list on error
+    """
+    try:
+        if USE_TEST_MODE:
+            print(f"  🧪 Returning test native range data")
+            # Return mock data for testing
+            return ["Texas", "Oklahoma", "Kansas"]
+        
+        native_states = []
+        
+        print(f"  Fetching state-level native range data...")
+        
+        # Check each US state
+        for state_name, place_id in US_STATE_PLACE_IDS.items():
+            # Query observations to get establishment means for this state
+            # Note: removed verifiable=true to get more results
+            api_url = f"{INATURALIST_API_BASE}/observations/species_counts?taxon_id={taxon_id}&place_id={place_id}"
+            
+            # Add rate limiting
+            time.sleep(RATE_LIMIT_DELAY)
+            
+            content, status_code = make_request(api_url)
+            
+            if content is None:
+                continue  # Skip this state if request fails
+            
+            try:
+                data = json.loads(content)
+                results = data.get('results', [])
+                
+                if results:
+                    # Check if the plant has observations in this state
+                    for result in results:
+                        taxon_data = result.get('taxon', {})
+                        establishment_means = taxon_data.get('establishment_means', {})
+                        
+                        # Check if it's marked as native
+                        if establishment_means:
+                            means = establishment_means.get('establishment_means', '')
+                            place = establishment_means.get('place', {})
+                            
+                            # Verify this is the right place and it's native
+                            if means == 'native' and place.get('id') == place_id:
+                                native_states.append(state_name)
+                                print(f"    ✓ Native to {state_name}")
+                                break
+            except json.JSONDecodeError:
+                continue  # Skip malformed responses
+        
+        if native_states:
+            print(f"  ✓ Found native range in {len(native_states)} states")
+        else:
+            print(f"  ⚠ No state-level native range data found")
+        
+        return native_states
+        
+    except Exception as e:
+        print(f"  ✗ Error fetching state native range: {type(e).__name__}: {str(e)}")
+        return []
+
+
+def transform_to_plantfinder_format(taxon_data, state_native_range=None):
     """
     Transform iNaturalist taxon data to PlantFinder format.
     
     Args:
         taxon_data: Dict with iNaturalist taxon data
+        state_native_range: Optional list of state names where the plant is native
     
     Returns:
         Dict in PlantFinder format
@@ -334,15 +465,17 @@ def transform_to_plantfinder_format(taxon_data):
         # Try to get the largest available size
         image_url = default_photo.get('large_url') or default_photo.get('medium_url') or default_photo.get('small_url')
     
-    # Extract native range from establishment means if available
-    # iNaturalist provides place data, but detailed native range requires additional API calls
+    # Use state-level native range if provided, otherwise fall back to regional data
     native_range = []
-    establishment_means = taxon_data.get('establishment_means', {})
-    if establishment_means:
-        # Native places would be listed here
-        native_range = ["North America"]  # TODO: Parse actual native range from establishment_means
+    if state_native_range:
+        native_range = state_native_range
     else:
-        native_range = ["North America"]  # Default assumption based on search query
+        # Fall back to establishment means or default
+        establishment_means = taxon_data.get('establishment_means', {})
+        if establishment_means:
+            native_range = ["North America"]  # TODO: Parse actual native range from establishment_means
+        else:
+            native_range = ["North America"]  # Default assumption based on search query
     
     # Build PlantFinder format
     # NOTE: Many fields use default values as iNaturalist doesn't provide detailed horticultural data
@@ -515,8 +648,11 @@ def main():
             failure_count += 1
             continue
         
+        # Fetch state-level native range data
+        state_native_range = fetch_state_native_range(taxon_id, log_path)
+        
         # Transform to PlantFinder format
-        plant_data = transform_to_plantfinder_format(detailed_taxon)
+        plant_data = transform_to_plantfinder_format(detailed_taxon, state_native_range)
         
         # Save the data
         save_plant_data(plant_data, log_path)

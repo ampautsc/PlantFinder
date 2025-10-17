@@ -29,12 +29,25 @@ This script:
 
 - **Public API Access**: No authentication required for read operations
 - **Rich Data**: Taxonomy, Wikipedia descriptions, photos, observation counts
+- **State-Level Native Range** (v1.1.0+): Queries all 50 US states for native status
 - **Flexible Search**: Search by name or browse by geographic region
-- **Rate Limiting**: Respectful delays between requests
+- **Rate Limiting**: Respectful delays between requests (1 second per request)
 - **Test Mode**: Use mock data for development/testing
 - **Batch Processing**: Process multiple plants with configurable limits
 - **Error Handling**: Comprehensive retry logic and error reporting
 - **Logging**: Timestamped logs of all operations
+
+### State-Level Native Range (v1.1.0+)
+
+The script now fetches detailed state-by-state native range information by:
+
+1. Querying iNaturalist's establishment_means for all 50 US states
+2. Filtering for "native" vs "introduced" species
+3. Storing a list of states where each plant is native
+
+**Note**: This increases processing time to ~50 seconds per plant (50 states × 1 second rate limit).
+
+See [STATE_NATIVE_RANGE_IMPLEMENTATION.md](../STATE_NATIVE_RANGE_IMPLEMENTATION.md) for complete details.
 
 ### Why iNaturalist?
 
@@ -104,7 +117,7 @@ Each plant JSON file contains:
       "bloomColor": [],
       "bloomTime": [],
       "perennial": true,
-      "nativeRange": ["North America"],
+      "nativeRange": ["Alabama", "Georgia", "Texas", ...],  // State-level (v1.1.0+)
       "hardinessZones": []
     },
     "relationships": {
@@ -133,6 +146,32 @@ Key configuration constants in the script:
 - `OUTPUT_DIR`: Directory where data is saved (`src/data/inaturalist`)
 - `TIMEOUT`: Request timeout in seconds (30)
 - `RATE_LIMIT_DELAY`: Delay between requests in seconds (1.0)
+- `US_STATE_PLACE_IDS`: Mapping of US states to iNaturalist place IDs (v1.1.0+)
+
+### Updating Existing Data Files
+
+The `update_existing_native_range.py` script updates existing plant data files with state-level native range information.
+
+#### Usage
+
+```bash
+# Update all files
+python3 scripts/update_existing_native_range.py
+
+# Update only first 5 files
+python3 scripts/update_existing_native_range.py --limit 5
+
+# Update specific file
+python3 scripts/update_existing_native_range.py --file inaturalist-47912.json
+```
+
+#### Features
+
+- Automatically skips files that already have state-level data
+- Only updates files with regional data (e.g., "North America")
+- Preserves all other plant data
+- Updates scraper version to 1.1.0
+- ~50 seconds per file (50 states × 1 second rate limit)
 
 ### Exit Codes
 
