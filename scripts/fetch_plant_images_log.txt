@@ -3204,3 +3204,129 @@
 [2025-10-17 02:23:32] Failed: 1 plants
 [2025-10-17 02:23:32] Skipped: 0 plants
 [2025-10-17 02:23:32] Total plants without images remaining: 71
+[2025-10-17 02:27:30] Batch job started (version 2.0.0)
+[2025-10-17 02:27:30] Limit set to 10 images
+[2025-10-17 02:27:30] Scanning for plants without images...
+[2025-10-17 02:27:30] Found 71 plants without images
+[2025-10-17 02:27:30] Processing 10 plants
+[2025-10-17 02:27:30] [1/10] Processing: Hinckley's Golden Columbine
+[2025-10-17 02:27:30]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-17 02:27:30]     No image found on Wikipedia
+[2025-10-17 02:27:30]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-17 02:27:31]     No image found on iNaturalist
+[2025-10-17 02:27:31]   No image found from any source - skipping
+[2025-10-17 02:27:31] [2/10] Processing: Flame Acanthus
+[2025-10-17 02:27:31]   Searching Wikipedia for: Anisacanthus quadrifidus var. wrightii (Flame Acanthus)
+[2025-10-17 02:27:31]     No image found on Wikipedia
+[2025-10-17 02:27:31]   Searching iNaturalist for: Anisacanthus quadrifidus var. wrightii (Flame Acanthus)
+[2025-10-17 02:27:32]     Found taxon ID: 158386
+[2025-10-17 02:27:32]     Found image on iNaturalist: https://static.inaturalist.org/photos/141602696/original.jpg
+[2025-10-17 02:27:32]     Downloading from inaturalist to: public/images/plants/anisacanthus-quadrifidus/anisacanthus-quadrifidus-2025-10-17T02-27-32-847Z.jpg
+[2025-10-17 02:27:33]     Downloaded 945.8 KB
+[2025-10-17 02:27:33]     Resized from 1536x2048 to 900x1200
+[2025-10-17 02:27:33]     Optimized to 178.6 KB (81.1% reduction)
+[2025-10-17 02:27:33]     Successfully processed image from inaturalist
+[2025-10-17 02:27:33]     Updated src/data/Plants/anisacanthus-quadrifidus.json with imageUrl
+[2025-10-17 02:27:33]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:27:33] [3/10] Processing: American Cranberry Bush
+[2025-10-17 02:27:33]   Searching Wikipedia for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-10-17 02:27:33]     No image found on Wikipedia
+[2025-10-17 02:27:33]   Searching iNaturalist for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-10-17 02:27:34]     No image found on iNaturalist
+[2025-10-17 02:27:34]   No image found from any source - skipping
+[2025-10-17 02:27:34] [4/10] Processing: Speckled Alder
+[2025-10-17 02:27:34]   Searching Wikipedia for: Alnus incana ssp. rugosa (Speckled Alder)
+[2025-10-17 02:27:34]     No image found on Wikipedia
+[2025-10-17 02:27:34]   Searching iNaturalist for: Alnus incana ssp. rugosa (Speckled Alder)
+[2025-10-17 02:27:34]     Found taxon ID: 75377
+[2025-10-17 02:27:35]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/355466601/original.jpeg
+[2025-10-17 02:27:35]     Downloading from inaturalist to: public/images/plants/alnus-incana/alnus-incana-2025-10-17T02-27-35-679Z.jpg
+[2025-10-17 02:27:35]     Downloaded 1920.2 KB
+[2025-10-17 02:27:36]     Resized from 1536x2048 to 900x1200
+[2025-10-17 02:27:36]     Optimized to 482.3 KB (74.9% reduction)
+[2025-10-17 02:27:36]     Successfully processed image from inaturalist
+[2025-10-17 02:27:36]     Updated src/data/Plants/alnus-incana.json with imageUrl
+[2025-10-17 02:27:36]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:27:36] [5/10] Processing: Bastard Toadflax
+[2025-10-17 02:27:36]   Searching Wikipedia for: Comandra umbellata (Bastard Toadflax)
+[2025-10-17 02:27:36]     No image found on Wikipedia
+[2025-10-17 02:27:36]   Searching iNaturalist for: Comandra umbellata (Bastard Toadflax)
+[2025-10-17 02:27:36]     Found taxon ID: 59991
+[2025-10-17 02:27:37]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/77521845/original.jpg
+[2025-10-17 02:27:37]     Downloading from inaturalist to: public/images/plants/comandra-umbellata/comandra-umbellata-2025-10-17T02-27-37-523Z.jpg
+[2025-10-17 02:27:37]     Downloaded 1406.1 KB
+[2025-10-17 02:27:37]     Resized from 1536x2048 to 900x1200
+[2025-10-17 02:27:37]     Optimized to 325.4 KB (76.9% reduction)
+[2025-10-17 02:27:37]     Successfully processed image from inaturalist
+[2025-10-17 02:27:37]     Updated src/data/Plants/comandra-umbellata.json with imageUrl
+[2025-10-17 02:27:37]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:27:37] [6/10] Processing: Rocky Mountain bee plant
+[2025-10-17 02:27:37]   Searching Wikipedia for: Cleome serrulata (Rocky Mountain bee plant)
+[2025-10-17 02:27:37]     No image found on Wikipedia
+[2025-10-17 02:27:37]   Searching iNaturalist for: Cleome serrulata (Rocky Mountain bee plant)
+[2025-10-17 02:27:38]     Found taxon ID: 1415100
+[2025-10-17 02:27:39]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/443815513/original.jpeg
+[2025-10-17 02:27:39]     Downloading from inaturalist to: public/images/plants/cleome-serrulata/cleome-serrulata-2025-10-17T02-27-39-019Z.jpg
+[2025-10-17 02:27:39]     Downloaded 1373.4 KB
+[2025-10-17 02:27:39]     Resized from 1536x2048 to 900x1200
+[2025-10-17 02:27:39]     Optimized to 138.8 KB (89.9% reduction)
+[2025-10-17 02:27:39]     Successfully processed image from inaturalist
+[2025-10-17 02:27:39]     Updated src/data/Plants/cleome-serrulata.json with imageUrl
+[2025-10-17 02:27:39]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:27:39] [7/10] Processing: Smooth Blue Aster
+[2025-10-17 02:27:39]   Searching Wikipedia for: Symphyotrichum laeve var. laeve (Smooth Blue Aster)
+[2025-10-17 02:27:39]     No image found on Wikipedia
+[2025-10-17 02:27:39]   Searching iNaturalist for: Symphyotrichum laeve var. laeve (Smooth Blue Aster)
+[2025-10-17 02:27:40]     Found taxon ID: 129607
+[2025-10-17 02:27:40]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/100214762/original.jpeg
+[2025-10-17 02:27:40]     Downloading from inaturalist to: public/images/plants/symphyotrichum-laeve-var-laeve/symphyotrichum-laeve-var-laeve-2025-10-17T02-27-40-745Z.jpg
+[2025-10-17 02:27:40]     Downloaded 502.5 KB
+[2025-10-17 02:27:40]     Resized from 2048x1536 to 1200x900
+[2025-10-17 02:27:40]     Optimized to 157.9 KB (68.6% reduction)
+[2025-10-17 02:27:40]     Successfully processed image from inaturalist
+[2025-10-17 02:27:40]     Updated src/data/Plants/symphyotrichum-laeve-var-laeve.json with imageUrl
+[2025-10-17 02:27:40]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:27:40] [8/10] Processing: Pointedleaf Ticktrefoil
+[2025-10-17 02:27:40]   Searching Wikipedia for: Desmodium glutinosum (Pointedleaf Ticktrefoil)
+[2025-10-17 02:27:41]     No image found on Wikipedia
+[2025-10-17 02:27:41]   Searching iNaturalist for: Desmodium glutinosum (Pointedleaf Ticktrefoil)
+[2025-10-17 02:27:41]     Found taxon ID: 204156
+[2025-10-17 02:27:42]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/92478099/original.jpg
+[2025-10-17 02:27:42]     Downloading from inaturalist to: public/images/plants/desmodium-glutinosum/desmodium-glutinosum-2025-10-17T02-27-42-171Z.jpg
+[2025-10-17 02:27:42]     Downloaded 1521.5 KB
+[2025-10-17 02:27:42]     Resized from 1536x2048 to 900x1200
+[2025-10-17 02:27:42]     Optimized to 382.2 KB (74.9% reduction)
+[2025-10-17 02:27:42]     Successfully processed image from inaturalist
+[2025-10-17 02:27:42]     Updated src/data/Plants/desmodium-glutinosum.json with imageUrl
+[2025-10-17 02:27:42]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:27:42] [9/10] Processing: Engelmann's milkweed
+[2025-10-17 02:27:42]   Searching Wikipedia for: Asclepias engelmanniana (Engelmann's milkweed)
+[2025-10-17 02:27:42]     No image found on Wikipedia
+[2025-10-17 02:27:42]   Searching iNaturalist for: Asclepias engelmanniana (Engelmann's milkweed)
+[2025-10-17 02:27:42]     Found taxon ID: 158738
+[2025-10-17 02:27:43]     Found image on iNaturalist: https://static.inaturalist.org/photos/47080751/original.jpeg
+[2025-10-17 02:27:43]     Downloading from inaturalist to: public/images/plants/asclepias-engelmanniana/asclepias-engelmanniana-2025-10-17T02-27-43-504Z.jpg
+[2025-10-17 02:27:43]     Downloaded 1697.7 KB
+[2025-10-17 02:27:43]     Resized from 2048x1367 to 1200x800
+[2025-10-17 02:27:43]     Optimized to 99.5 KB (94.1% reduction)
+[2025-10-17 02:27:43]     Successfully processed image from inaturalist
+[2025-10-17 02:27:43]     Updated src/data/Plants/asclepias-engelmanniana.json with imageUrl
+[2025-10-17 02:27:43]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:27:43] [10/10] Processing: Northern Red Oak
+[2025-10-17 02:27:43]   Searching Wikipedia for: Quercus rubra var. ambigua (Northern Red Oak)
+[2025-10-17 02:27:43]     No image found on Wikipedia
+[2025-10-17 02:27:43]   Searching iNaturalist for: Quercus rubra var. ambigua (Northern Red Oak)
+[2025-10-17 02:27:44]     Found taxon ID: 49005
+[2025-10-17 02:27:45]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/2592222/original.jpg
+[2025-10-17 02:27:45]     Downloading from inaturalist to: public/images/plants/quercus-rubra-ambigua/quercus-rubra-ambigua-2025-10-17T02-27-45-232Z.jpg
+[2025-10-17 02:27:45]     Downloaded 530.5 KB
+[2025-10-17 02:27:45]     Resized from 2048x1538 to 1200x901
+[2025-10-17 02:27:45]     Optimized to 127.0 KB (76.0% reduction)
+[2025-10-17 02:27:45]     Successfully processed image from inaturalist
+[2025-10-17 02:27:45]     Updated src/data/Plants/quercus-rubra-ambigua.json with imageUrl
+[2025-10-17 02:27:45]   ✓ Successfully processed plant from inaturalist
+[2025-10-17 02:27:45] Batch job completed
+[2025-10-17 02:27:45] Successfully processed: 8 plants
+[2025-10-17 02:27:45] Failed: 2 plants
+[2025-10-17 02:27:45] Skipped: 0 plants
+[2025-10-17 02:27:45] Total plants without images remaining: 63
