@@ -70,21 +70,51 @@ jobs:
 
       - name: Commit and push downloaded images and updated JSON files
         run: |
+          echo "=== Git Configuration and Token Validation ==="
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          echo "Checking GitHub token availability..."
+          if [ -z "$GITHUB_TOKEN" ]; then
+            echo "WARNING: GITHUB_TOKEN is not set"
+          else
+            echo "✓ GITHUB_TOKEN is set"
+          fi
+          
+          echo "Checking repository permissions..."
+          git remote -v
 
+          echo "=== Staging Changes ==="
           # Add both images and updated JSON files
           git add public/images/plants/ src/data/Plants/*.json scripts/fetch_plant_images_log.txt
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
+            echo "=== Committing Changes ==="
             # Count how many plants were updated
-            UPDATED=$(git diff --staged --name-only src/data/Plants/*.json | wc -l)
+            UPDATED=$(git diff --staged --name-only src/data/Plants/*.json 2>/dev/null | wc -l)
             echo "Committing changes for $UPDATED plant(s)"
+            git diff --staged --name-only
+            
             git commit -m "Add plant images from Wikipedia and iNaturalist (${UPDATED} plants)"
-            git push
+            
+            echo "=== Pushing Changes ==="
+            echo "Attempting to push to remote repository..."
+            if git push -v; then
+              echo "✓ Successfully pushed changes"
+            else
+              EXIT_CODE=$?
+              echo "✗ Failed to push changes (exit code: $EXIT_CODE)"
+              echo "This may indicate a permissions issue. Check:"
+              echo "  1. Workflow has 'permissions: contents: write'"
+              echo "  2. Repository settings allow GitHub Actions to create and approve pull requests"
+              echo "  3. Branch protection rules don't block the push"
+              exit $EXIT_CODE
+            fi
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
 
       - name: Upload fetch log as artifact

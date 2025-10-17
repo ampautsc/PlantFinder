@@ -249,6 +249,51 @@ The script handles various error scenarios:
 - **Unexpected Errors**: Generic exception handling for unforeseen issues
 - **Website Blocking**: Provides helpful suggestions and test mode option
 
+### Troubleshooting
+
+#### 403 Forbidden Error in GitHub Actions
+
+If you encounter `fatal: unable to access 'https://github.com/ampautsc/PlantFinder/': The requested URL returned error: 403` in GitHub Actions:
+
+**Root Cause**: The workflow lacks the necessary permissions to push commits to the repository.
+
+**Solution**: Ensure the workflow YAML file includes explicit permissions:
+
+```yaml
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to commit and push changes
+    steps:
+      # ... rest of workflow
+```
+
+**Additional Checks**:
+1. **Workflow Permissions**: Verify `permissions: contents: write` is set in the job configuration
+2. **Repository Settings**: Check that Actions have write access at Settings → Actions → General → Workflow permissions
+3. **Branch Protection**: Ensure the target branch allows Actions to push (Settings → Branches)
+4. **Token Scope**: The default `GITHUB_TOKEN` has sufficient permissions when the workflow permissions are set correctly
+
+**Verification**:
+- The enhanced logging added to both workflows will show:
+  - ✓ GITHUB_TOKEN is set
+  - Repository permissions
+  - Number of files staged
+  - Push result with detailed error messages
+
+#### 403 Forbidden from Wildflower.org
+
+If the scraper gets 403 Forbidden when accessing wildflower.org (not GitHub):
+
+**Symptoms**: Log shows "Failed to fetch collection page (Status: 403)"
+
+**Solutions**:
+1. Use test mode: `python3 scripts/fetch_wildflower_data.py --test`
+2. The website may be blocking automated requests
+3. Consider adding delays or using a different user agent
+4. Request API access from the website maintainers
+
 ### Exit Codes
 
 - `0`: Success - Data fetched and saved successfully
