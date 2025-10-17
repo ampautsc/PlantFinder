@@ -1,0 +1,380 @@
+#!/usr/bin/env python3
+"""
+Batch job to fetch plant images from Wikipedia.
+This script:
+1. Identifies plants in src/data/Plants that don't have images
+2. Searches Wikipedia for images (prioritizing Commons)
+3. Downloads images to public/images/plants/{plant-id}/
+4. Updates the plant JSON files with imageUrl
+
+The script can be run nightly to gradually build up the image library.
+If a plant already has an image, it will be skipped.
+
+Usage:
+    python fetch_plant_images.py          # Normal mode - fetch all missing images
+    python fetch_plant_images.py --limit 10  # Fetch only 10 images
+    python fetch_plant_images.py --test   # Test mode - dry run without downloading
+"""
+
+import sys
+import os
+import json
+import re
+from datetime import datetime
+from urllib.request import Request, urlopen, urlretrieve
+from urllib.error import URLError, HTTPError
+from urllib.parse import quote, unquote
+import socket
+
+# Configuration
+SCRIPT_VERSION = "1.0.0"
+PLANTS_DATA_DIR = "src/data/Plants"
+IMAGES_BASE_DIR = "public/images/plants"
+LOG_FILE = "scripts/fetch_plant_images_log.txt"
+TIMEOUT = 30  # Request timeout in seconds
+USER_AGENT = 'PlantFinder-ImageFetch/1.0 (https://github.com/ampautsc/PlantFinder)'
+
+# Parse command line arguments
+TEST_MODE = '--test' in sys.argv
+LIMIT = None
+for i, arg in enumerate(sys.argv):
+    if arg == '--limit' and i + 1 < len(sys.argv):
+        try:
+            LIMIT = int(sys.argv[i + 1])
+        except ValueError:
+            print(f"Warning: Invalid limit value '{sys.argv[i + 1]}', ignoring")
+
+
+def log_message(message):
+    """Log a message to both console and log file."""
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    log_entry = f"[{timestamp}] {message}"
+    
+    print(log_entry)
+    
+    # Append to log file
+    os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(log_entry + "\n")
+
+
+def make_request(url, headers=None):
+    """Make an HTTP request with proper headers and error handling."""
+    if headers is None:
+        headers = {
+            'User-Agent': USER_AGENT,
+            'Accept': 'application/json'
+        }
+    
+    request = Request(url, headers=headers)
+    try:
+        with urlopen(request, timeout=TIMEOUT) as response:
+            return response.read().decode('utf-8', errors='ignore'), response.status
+    except HTTPError as e:
+        return None, e.code
+    except (URLError, socket.timeout) as e:
+        return None, 0
+
+
+def search_wikipedia_image(scientific_name, common_name):
+    """
+    Search for a plant image on Wikipedia/Commons.
+    Returns the URL of the best available image, or None if not found.
+    
+    Strategy:
+    1. Try Wikipedia API to get the main image from the article
+    2. Try Wikimedia Commons API
+    3. Prefer high-quality images
+    """
+    log_message(f"  Searching Wikipedia for: {scientific_name} ({common_name})")
+    
+    # Try Wikipedia API first - get page info with main image
+    # Use the scientific name as it's more likely to have a dedicated article
+    search_terms = [scientific_name, common_name]
+    
+    for search_term in search_terms:
+        # URL encode the search term
+        encoded_term = quote(search_term)
+        
+        # Wikipedia API endpoint to get page images
+        api_url = f"https://en.wikipedia.org/w/api.php?action=query&titles={encoded_term}&prop=pageimages|images&format=json&pithumbsize=1000"
+        
+        content, status = make_request(api_url)
+        if content is None:
+            log_message(f"    Failed to query Wikipedia API (Status: {status})")
+            continue
+        
+        try:
+            data = json.loads(content)
+            pages = data.get('query', {}).get('pages', {})
+            
+            # Get the first (and usually only) page
+            for page_id, page_data in pages.items():
+                if page_id == '-1':
+                    # Page not found
+                    continue
+                
+                # Try to get the main page image (thumbnail)
+                thumbnail = page_data.get('thumbnail', {}).get('source')
+                if thumbnail:
+                    # Get the full-size image by modifying the URL
+                    # Wikipedia thumbnails have format like:
+                    # https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cornus_florida_Arkansas.jpg/1000px-Cornus_florida_Arkansas.jpg
+                    # We want: https://upload.wikimedia.org/wikipedia/commons/b/b3/Cornus_florida_Arkansas.jpg
+                    
+                    # Remove the /thumb/ part and the size prefix
+                    if '/thumb/' in thumbnail:
+                        # Split by /thumb/ and take everything before it
+                        parts = thumbnail.split('/thumb/')
+                        if len(parts) == 2:
+                            base = parts[0]
+                            # The path after /thumb/ is like: b/b3/Cornus_florida_Arkansas.jpg/1000px-Cornus_florida_Arkansas.jpg
+                            # We need to remove the last segment (the sized version)
+                            path_parts = parts[1].rsplit('/', 1)
+                            if len(path_parts) == 2:
+                                # path_parts[0] is like: b/b3/Cornus_florida_Arkansas.jpg
+                                full_image = f"{base}/{path_parts[0]}"
+                                log_message(f"    Found image: {full_image}")
+                                return full_image
+                    
+                    # If we couldn't parse it as a thumb URL, just use it as-is
+                    log_message(f"    Found image: {thumbnail}")
+                    return thumbnail
+                
+                # If no thumbnail, try getting images from the page
+                images = page_data.get('images', [])
+                if images:
+                    # Look for the first image that looks like a plant photo
+                    for img in images:
+                        img_title = img.get('title', '')
+                        # Skip icons, logos, and common non-photo images
+                        if any(skip in img_title.lower() for skip in ['icon', 'logo', 'symbol', 'map', 'range', 'distribution']):
+                            continue
+                        
+                        # Get image info
+                        img_url = f"https://en.wikipedia.org/w/api.php?action=query&titles={quote(img_title)}&prop=imageinfo&iiprop=url&format=json"
+                        img_content, img_status = make_request(img_url)
+                        
+                        if img_content:
+                            try:
+                                img_data = json.loads(img_content)
+                                img_pages = img_data.get('query', {}).get('pages', {})
+                                for _, img_page in img_pages.items():
+                                    imageinfo = img_page.get('imageinfo', [])
+                                    if imageinfo and len(imageinfo) > 0:
+                                        url = imageinfo[0].get('url')
+                                        if url:
+                                            log_message(f"    Found image: {url}")
+                                            return url
+                            except json.JSONDecodeError:
+                                continue
+        
+        except json.JSONDecodeError:
+            log_message(f"    Failed to parse Wikipedia API response")
+            continue
+    
+    log_message(f"    No image found on Wikipedia")
+    return None
+
+
+def download_image(image_url, plant_id):
+    """
+    Download an image to the appropriate plant folder.
+    Returns the relative path to the image for use in imageUrl, or None on failure.
+    """
+    if TEST_MODE:
+        log_message(f"    [TEST MODE] Would download: {image_url}")
+        return f"/images/plants/{plant_id}/{plant_id}-test.jpg"
+    
+    # Create plant image directory
+    plant_dir = os.path.join(IMAGES_BASE_DIR, plant_id)
+    os.makedirs(plant_dir, exist_ok=True)
+    
+    # Generate filename with timestamp
+    timestamp = datetime.now().strftime("%Y-%m-%dT%H-%M-%S-%f")[:-3] + "Z"
+    
+    # Determine file extension from URL
+    url_lower = image_url.lower()
+    if '.jpg' in url_lower or '.jpeg' in url_lower:
+        ext = 'jpg'
+    elif '.png' in url_lower:
+        ext = 'png'
+    elif '.webp' in url_lower:
+        ext = 'webp'
+    else:
+        ext = 'jpg'  # Default to jpg
+    
+    filename = f"{plant_id}-{timestamp}.{ext}"
+    filepath = os.path.join(plant_dir, filename)
+    
+    try:
+        log_message(f"    Downloading to: {filepath}")
+        
+        # Use urlretrieve with custom headers
+        opener = urlopen(Request(image_url, headers={'User-Agent': USER_AGENT}), timeout=TIMEOUT)
+        with open(filepath, 'wb') as f:
+            f.write(opener.read())
+        
+        log_message(f"    Successfully downloaded image")
+        
+        # Return the relative URL path for use in the JSON
+        return f"/images/plants/{plant_id}/{filename}"
+    
+    except Exception as e:
+        log_message(f"    Failed to download image: {type(e).__name__}: {str(e)}")
+        # Clean up partial download
+        if os.path.exists(filepath):
+            os.remove(filepath)
+        return None
+
+
+def update_plant_json(json_path, image_url):
+    """Update a plant JSON file with the imageUrl."""
+    if TEST_MODE:
+        log_message(f"    [TEST MODE] Would update {json_path} with imageUrl: {image_url}")
+        return True
+    
+    try:
+        # Read the JSON file
+        with open(json_path, 'r', encoding='utf-8') as f:
+            plant_data = json.load(f)
+        
+        # Add the imageUrl
+        plant_data['imageUrl'] = image_url
+        
+        # Write back to file
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(plant_data, f, indent=2, ensure_ascii=False)
+            f.write('\n')  # Add trailing newline
+        
+        log_message(f"    Updated {json_path} with imageUrl")
+        return True
+    
+    except Exception as e:
+        log_message(f"    Failed to update JSON: {type(e).__name__}: {str(e)}")
+        return False
+
+
+def get_plants_without_images():
+    """
+    Scan the Plants directory and identify plants without images.
+    Returns a list of (json_path, plant_data) tuples.
+    """
+    plants_without_images = []
+    
+    # Scan all JSON files in the Plants directory
+    for filename in os.listdir(PLANTS_DATA_DIR):
+        if not filename.endswith('.json'):
+            continue
+        
+        json_path = os.path.join(PLANTS_DATA_DIR, filename)
+        
+        try:
+            with open(json_path, 'r', encoding='utf-8') as f:
+                plant_data = json.load(f)
+            
+            # Check if plant already has an image
+            if 'imageUrl' not in plant_data or not plant_data['imageUrl']:
+                plants_without_images.append((json_path, plant_data))
+        
+        except Exception as e:
+            log_message(f"Error reading {json_path}: {type(e).__name__}: {str(e)}")
+            continue
+    
+    return plants_without_images
+
+
+def main():
+    """Main execution function."""
+    print("=" * 70)
+    if TEST_MODE:
+        print("Plant Image Fetcher - Batch Job (TEST MODE)")
+    else:
+        print("Plant Image Fetcher - Batch Job")
+    print("=" * 70)
+    print(f"Started at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    if LIMIT:
+        print(f"Limit: {LIMIT} images")
+    print()
+    
+    log_message(f"Batch job started (version {SCRIPT_VERSION})")
+    if TEST_MODE:
+        log_message("Running in TEST MODE - no files will be modified")
+    if LIMIT:
+        log_message(f"Limit set to {LIMIT} images")
+    
+    # Get plants without images
+    log_message("Scanning for plants without images...")
+    plants_without_images = get_plants_without_images()
+    log_message(f"Found {len(plants_without_images)} plants without images")
+    
+    if not plants_without_images:
+        log_message("No plants need images - exiting")
+        return 0
+    
+    # Process plants (up to limit if specified)
+    plants_to_process = plants_without_images[:LIMIT] if LIMIT else plants_without_images
+    log_message(f"Processing {len(plants_to_process)} plants")
+    
+    success_count = 0
+    failure_count = 0
+    skipped_count = 0
+    
+    for i, (json_path, plant_data) in enumerate(plants_to_process, 1):
+        print()
+        log_message(f"[{i}/{len(plants_to_process)}] Processing: {plant_data.get('commonName', 'Unknown')}")
+        
+        plant_id = plant_data.get('id')
+        scientific_name = plant_data.get('scientificName')
+        common_name = plant_data.get('commonName')
+        
+        if not plant_id or not scientific_name:
+            log_message("  Missing plant ID or scientific name - skipping")
+            skipped_count += 1
+            continue
+        
+        # Check if image already exists (belt and suspenders check)
+        plant_image_dir = os.path.join(IMAGES_BASE_DIR, plant_id)
+        if os.path.exists(plant_image_dir) and os.listdir(plant_image_dir):
+            log_message(f"  Image directory already exists and is not empty - skipping")
+            skipped_count += 1
+            continue
+        
+        # Search for image on Wikipedia
+        image_url = search_wikipedia_image(scientific_name, common_name)
+        
+        if not image_url:
+            log_message(f"  No image found - skipping")
+            failure_count += 1
+            continue
+        
+        # Download the image
+        downloaded_path = download_image(image_url, plant_id)
+        
+        if not downloaded_path:
+            log_message(f"  Failed to download image")
+            failure_count += 1
+            continue
+        
+        # Update the plant JSON file
+        if update_plant_json(json_path, downloaded_path):
+            success_count += 1
+            log_message(f"  ✓ Successfully processed plant")
+        else:
+            failure_count += 1
+            log_message(f"  Failed to update JSON file")
+    
+    # Summary
+    print()
+    print("=" * 70)
+    log_message(f"Batch job completed")
+    log_message(f"Successfully processed: {success_count} plants")
+    log_message(f"Failed: {failure_count} plants")
+    log_message(f"Skipped: {skipped_count} plants")
+    log_message(f"Total plants without images remaining: {len(plants_without_images) - success_count}")
+    
+    return 0 if failure_count < success_count else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

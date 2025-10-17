@@ -1,0 +1,101 @@
+name: Fetch Plant Images
+
+on:
+  # Run daily at 3 AM UTC (after the wildflower data fetch at 2 AM)
+  schedule:
+    - cron: '0 3 * * *'
+
+  # Allow manual trigger for testing
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Maximum number of images to fetch (blank for all)'
+        required: false
+        default: ''
+        type: string
+      test_mode:
+        description: 'Run in test mode (dry run without downloading)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  fetch-images:
+    runs-on: ubuntu-latest
+    name: Fetch Plant Images from Wikipedia
+
+    # Explicitly set permissions for security
+    permissions:
+      contents: write  # Needed to commit and push changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run image fetcher script
+        run: |
+          # Build command with optional parameters
+          CMD="python3 scripts/fetch_plant_images.py"
+
+          if [ "${{ github.event.inputs.test_mode }}" == "true" ]; then
+            echo "Running in test mode (dry run)"
+            CMD="$CMD --test"
+          fi
+
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            echo "Limiting to ${{ github.event.inputs.limit }} images"
+            CMD="$CMD --limit ${{ github.event.inputs.limit }}"
+          else
+            # For scheduled runs, fetch up to 50 images per day to avoid rate limits
+            echo "Limiting to 50 images per day (scheduled run)"
+            CMD="$CMD --limit 50"
+          fi
+
+          echo "Running: $CMD"
+          $CMD
+        continue-on-error: true
+
+      - name: Commit and push downloaded images and updated JSON files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add both images and updated JSON files
+          git add public/images/plants/ src/data/Plants/*.json scripts/fetch_plant_images_log.txt
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Count how many plants were updated
+            UPDATED=$(git diff --staged --name-only src/data/Plants/*.json | wc -l)
+            echo "Committing changes for $UPDATED plant(s)"
+            git commit -m "Add plant images from Wikipedia (${UPDATED} plants)"
+            git push
+          fi
+        continue-on-error: true
+
+      - name: Upload fetch log as artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: plant-images-log-${{ github.run_number }}
+          path: scripts/fetch_plant_images_log.txt
+          retention-days: 30
+
+      - name: Display log summary
+        if: always()
+        run: |
+          if [ -f scripts/fetch_plant_images_log.txt ]; then
+            echo "=== Fetch Log Summary (last 50 lines) ==="
+            tail -50 scripts/fetch_plant_images_log.txt
+          else
+            echo "No log file found"
+          fi
