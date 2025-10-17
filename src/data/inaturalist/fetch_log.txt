@@ -152,3 +152,10 @@
 [2025-10-17 21:48:47] Saved plant data: inaturalist-52821.json
 [2025-10-17 21:48:47] Processed 1 plants successfully, 0 skipped, 0 failures
 [2025-10-17 21:48:47] Batch job completed
+[2025-10-17 21:50:58] Batch job started (test mode)
+[2025-10-17 21:50:58] Limit set to 1 plants
+[2025-10-17 21:50:58] Using mock taxa data for testing
+[2025-10-17 21:50:58] Taxa search result: Successfully loaded test data
+[2025-10-17 21:50:58] Saved plant data: inaturalist-47604.json
+[2025-10-17 21:50:58] Processed 1 plants successfully, 0 skipped, 0 failures
+[2025-10-17 21:50:58] Batch job completed

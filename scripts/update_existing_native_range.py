@@ -78,6 +78,7 @@ def fetch_state_native_range(taxon_id):
     native_states = []
     total_states = len(US_STATE_PLACE_IDS)
     # Calculate max line length for proper clearing: "    [50/50] Checking North Carolina..."
+    # The +3 accounts for the ellipsis "..." at the end of the progress message
     max_state_name_len = max(len(name) for name in US_STATE_PLACE_IDS.keys())
     max_line_len = len(f"    [{total_states}/{total_states}] Checking ") + max_state_name_len + 3
     
