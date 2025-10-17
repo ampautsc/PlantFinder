@@ -198,3 +198,9 @@
 [2025-10-16 21:27:01] Saved plant data: rudbeckia-hirta.json
 [2025-10-16 21:27:02] Processed 3 plants successfully, 0 failures
 [2025-10-16 21:27:02] Batch job completed successfully
+[2025-10-17 15:22:10] Batch job started (normal mode)
+[2025-10-17 15:22:10] Target URL: https://www.wildflower.org/collections/collection.php?start=0&collection=bamona&pagecount=100
+[2025-10-17 15:22:10] Collection fetch result: Failed to fetch first page (Status: 403)
+[2025-10-17 15:22:10] Configuration: collection=bamona, pagecount=100
+[2025-10-17 15:22:10] Total plant links extracted: 0
+[2025-10-17 15:22:10] Batch job completed with errors - could not fetch collection page
