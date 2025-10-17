@@ -25,7 +25,7 @@ The wildflower.org website has implemented strong bot protection systems (likely
 
 Modern bot protection systems can detect automation through multiple sophisticated methods:
 
-- **Browser Fingerprinting**: Analyzing canvas rendering, WebGL, installed fonts, and other browser-specific details
+- **Browser Fingerprinting**: Analyzing canvas rendering, WebGL, installed fonts, and other browser-specific characteristics
 - **JavaScript Challenges**: Requiring JavaScript execution and specific cryptographic responses
 - **TLS Fingerprinting**: Analyzing the unique TLS handshake patterns of different HTTP clients
 - **Behavioral Analysis**: Detecting patterns in timing, mouse movements, and request sequences
@@ -61,12 +61,19 @@ These headers make the request appear more like a real browser.
 ### 2. Session and Cookie Management
 
 ```python
+# Create a cookie jar to store cookies between requests
+# This maintains session state and helps mimic real browser behavior
+# Websites often set session cookies that must be preserved across requests
 cookie_jar = http.cookiejar.CookieJar()
 cookie_processor = HTTPCookieProcessor(cookie_jar)
 opener = build_opener(cookie_processor)
 ```
 
-This maintains state between requests, simulating a browser session.
+This maintains state between requests, simulating a browser session. Cookies are essential for:
+- Tracking user sessions (even automated ones)
+- Storing temporary authentication tokens
+- Maintaining preferences across page loads
+- Appearing more like a legitimate browser to the server
 
 ### 3. Retry Logic with Exponential Backoff
 
@@ -323,3 +330,7 @@ The implementations in this fix are valuable regardless of the final solution:
 - [HTTP User-Agent best practices](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent)
 - [Web scraping ethics and legality](https://benbernardblog.com/web-scraping-and-crawling-are-perfectly-legal-right/)
 - [Cloudflare bot protection](https://developers.cloudflare.com/bots/)
+- [HTTP Retry Strategies - AWS Best Practices](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
+- [Exponential Backoff and Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
+- [Rate Limiting Best Practices](https://cloud.google.com/architecture/rate-limiting-strategies-techniques)
+- [Python urllib documentation](https://docs.python.org/3/library/urllib.request.html)
