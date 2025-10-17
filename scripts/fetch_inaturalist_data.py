@@ -478,17 +478,11 @@ def transform_to_plantfinder_format(taxon_data, state_native_range=None):
         # Try to get the largest available size
         image_url = default_photo.get('large_url') or default_photo.get('medium_url') or default_photo.get('small_url')
     
-    # Use state-level native range if provided, otherwise fall back to regional data
+    # Use state-level native range if provided, otherwise leave empty
+    # We no longer default to "North America" when state-level data is not available
     native_range = []
     if state_native_range:
         native_range = state_native_range
-    else:
-        # Fall back to establishment means or default
-        establishment_means = taxon_data.get('establishment_means', {})
-        if establishment_means:
-            native_range = ["North America"]  # TODO: Parse actual native range from establishment_means
-        else:
-            native_range = ["North America"]  # Default assumption based on search query
     
     # Build PlantFinder format
     # NOTE: Many fields use default values as iNaturalist doesn't provide detailed horticultural data

@@ -151,14 +151,19 @@ def update_plant_file(filepath):
         # Fetch state-level data
         state_native_range = fetch_state_native_range(taxon_id)
         
-        if not state_native_range:
-            print(f"  ⚠ No state-level data found")
-            return False
-        
-        # Update the data
+        # Update the data - clear "North America" default if no state data found
         if 'characteristics' not in plant_data:
             plant_data['characteristics'] = {}
-        plant_data['characteristics']['nativeRange'] = state_native_range
+        
+        if state_native_range:
+            # We found state-level data, use it
+            plant_data['characteristics']['nativeRange'] = state_native_range
+            print(f"  ✓ Updated with {len(state_native_range)} states")
+        else:
+            # No state-level data found - clear the generic "North America" entry
+            # This is more accurate than showing a generic regional range
+            plant_data['characteristics']['nativeRange'] = []
+            print(f"  ✓ Cleared generic 'North America' range (no state-level data available)")
         
         # Update scraper version
         data['scraper_version'] = '1.1.0'
@@ -167,7 +172,6 @@ def update_plant_file(filepath):
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
         
-        print(f"  ✓ Updated with {len(state_native_range)} states")
         return True
         
     except Exception as e:
