@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """
-Batch job to fetch plant images from Wikipedia.
+Batch job to fetch plant images from Wikipedia and iNaturalist.
 This script:
 1. Identifies plants in src/data/Plants that don't have images
 2. Searches Wikipedia for images (prioritizing Commons)
-3. Downloads images to public/images/plants/{plant-id}/
-4. Updates the plant JSON files with imageUrl
+3. Falls back to iNaturalist if Wikipedia doesn't have images
+4. Optimizes/compresses images to reduce file size
+5. Downloads images to public/images/plants/{plant-id}/
+6. Updates the plant JSON files with imageUrl
 
 The script can be run nightly to gradually build up the image library.
 If a plant already has an image, it will be skipped.
@@ -25,14 +27,29 @@ from urllib.request import Request, urlopen, urlretrieve
 from urllib.error import URLError, HTTPError
 from urllib.parse import quote, unquote
 import socket
+from io import BytesIO
+
+# Try to import PIL for image optimization
+try:
+    from PIL import Image
+    PIL_AVAILABLE = True
+except ImportError:
+    PIL_AVAILABLE = False
+    print("WARNING: PIL (Pillow) not available. Image optimization will be skipped.")
+    print("Install with: pip install Pillow")
 
 # Configuration
-SCRIPT_VERSION = "1.0.0"
+SCRIPT_VERSION = "2.0.0"
 PLANTS_DATA_DIR = "src/data/Plants"
 IMAGES_BASE_DIR = "public/images/plants"
 LOG_FILE = "scripts/fetch_plant_images_log.txt"
 TIMEOUT = 30  # Request timeout in seconds
-USER_AGENT = 'PlantFinder-ImageFetch/1.0 (https://github.com/ampautsc/PlantFinder)'
+USER_AGENT = 'PlantFinder-ImageFetch/2.0 (https://github.com/ampautsc/PlantFinder)'
+
+# Image optimization settings
+MAX_IMAGE_WIDTH = 1200  # Maximum width in pixels
+MAX_IMAGE_HEIGHT = 1200  # Maximum height in pixels
+JPEG_QUALITY = 85  # JPEG quality (1-100)
 
 # Parse command line arguments
 TEST_MODE = '--test' in sys.argv
@@ -134,12 +151,12 @@ def search_wikipedia_image(scientific_name, common_name):
                             if len(path_parts) == 2:
                                 # path_parts[0] is like: b/b3/Cornus_florida_Arkansas.jpg
                                 full_image = f"{base}/{path_parts[0]}"
-                                log_message(f"    Found image: {full_image}")
-                                return full_image
+                                log_message(f"    Found image on Wikipedia: {full_image}")
+                                return ('wikipedia', full_image)
                     
                     # If we couldn't parse it as a thumb URL, just use it as-is
-                    log_message(f"    Found image: {thumbnail}")
-                    return thumbnail
+                    log_message(f"    Found image on Wikipedia: {thumbnail}")
+                    return ('wikipedia', thumbnail)
                 
                 # If no thumbnail, try getting images from the page
                 images = page_data.get('images', [])
@@ -164,8 +181,8 @@ def search_wikipedia_image(scientific_name, common_name):
                                     if imageinfo and len(imageinfo) > 0:
                                         url = imageinfo[0].get('url')
                                         if url:
-                                            log_message(f"    Found image: {url}")
-                                            return url
+                                            log_message(f"    Found image on Wikipedia: {url}")
+                                            return ('wikipedia', url)
                             except json.JSONDecodeError:
                                 continue
         
@@ -177,13 +194,153 @@ def search_wikipedia_image(scientific_name, common_name):
     return None
 
 
-def download_image(image_url, plant_id):
+def search_inaturalist_image(scientific_name, common_name):
+    """
+    Search for a plant image on iNaturalist.
+    Returns the URL of the best available image, or None if not found.
+    
+    Strategy:
+    1. Search iNaturalist API for the taxon
+    2. Get observations with photos
+    3. Select high-quality photo from a research-grade observation
+    """
+    log_message(f"  Searching iNaturalist for: {scientific_name} ({common_name})")
+    
+    # Try to find the taxon by scientific name first
+    search_terms = [scientific_name, common_name]
+    
+    for search_term in search_terms:
+        # iNaturalist API endpoint to search for taxon
+        encoded_term = quote(search_term)
+        taxon_url = f"https://api.inaturalist.org/v1/taxa?q={encoded_term}&rank=species"
+        
+        content, status = make_request(taxon_url)
+        if content is None:
+            log_message(f"    Failed to query iNaturalist API (Status: {status})")
+            continue
+        
+        try:
+            data = json.loads(content)
+            results = data.get('results', [])
+            
+            if not results:
+                continue
+            
+            # Get the first matching taxon
+            taxon = results[0]
+            taxon_id = taxon.get('id')
+            
+            if not taxon_id:
+                continue
+            
+            log_message(f"    Found taxon ID: {taxon_id}")
+            
+            # Search for research-grade observations with photos
+            obs_url = f"https://api.inaturalist.org/v1/observations?taxon_id={taxon_id}&quality_grade=research&photos=true&per_page=5&order=desc&order_by=votes"
+            
+            obs_content, obs_status = make_request(obs_url)
+            if obs_content is None:
+                log_message(f"    Failed to query iNaturalist observations (Status: {obs_status})")
+                continue
+            
+            obs_data = json.loads(obs_content)
+            observations = obs_data.get('results', [])
+            
+            if not observations:
+                log_message(f"    No observations found for taxon")
+                continue
+            
+            # Get the best photo from the first observation
+            for obs in observations:
+                photos = obs.get('photos', [])
+                if photos:
+                    # Get the largest available photo (original or large)
+                    photo = photos[0]
+                    # iNaturalist provides multiple sizes, prefer 'original' or 'large'
+                    image_url = photo.get('url', '')
+                    
+                    if image_url:
+                        # Replace 'square' with 'original' or 'large' in the URL
+                        image_url = image_url.replace('/square.', '/original.')
+                        if '/original.' not in image_url:
+                            image_url = image_url.replace('/square.', '/large.')
+                        
+                        log_message(f"    Found image on iNaturalist: {image_url}")
+                        return ('inaturalist', image_url)
+            
+        except json.JSONDecodeError:
+            log_message(f"    Failed to parse iNaturalist API response")
+            continue
+    
+    log_message(f"    No image found on iNaturalist")
+    return None
+
+
+def optimize_image(image_data, target_path):
+    """
+    Optimize an image by resizing and compressing it.
+    Returns True if successful, False otherwise.
+    """
+    if not PIL_AVAILABLE:
+        # If PIL is not available, just write the raw data
+        with open(target_path, 'wb') as f:
+            f.write(image_data)
+        return True
+    
+    try:
+        # Open the image from bytes
+        img = Image.open(BytesIO(image_data))
+        
+        # Convert RGBA to RGB if needed (for JPEG)
+        if img.mode in ('RGBA', 'LA', 'P'):
+            # Create a white background
+            background = Image.new('RGB', img.size, (255, 255, 255))
+            if img.mode == 'P':
+                img = img.convert('RGBA')
+            background.paste(img, mask=img.split()[-1] if img.mode in ('RGBA', 'LA') else None)
+            img = background
+        
+        # Get original dimensions
+        original_width, original_height = img.size
+        
+        # Calculate new dimensions while maintaining aspect ratio
+        if original_width > MAX_IMAGE_WIDTH or original_height > MAX_IMAGE_HEIGHT:
+            # Calculate scaling factor
+            width_scale = MAX_IMAGE_WIDTH / original_width
+            height_scale = MAX_IMAGE_HEIGHT / original_height
+            scale = min(width_scale, height_scale)
+            
+            new_width = int(original_width * scale)
+            new_height = int(original_height * scale)
+            
+            # Resize using high-quality Lanczos resampling
+            img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
+            log_message(f"    Resized from {original_width}x{original_height} to {new_width}x{new_height}")
+        
+        # Save as optimized JPEG
+        img.save(target_path, 'JPEG', quality=JPEG_QUALITY, optimize=True)
+        
+        return True
+    
+    except Exception as e:
+        log_message(f"    Failed to optimize image: {type(e).__name__}: {str(e)}")
+        # Fall back to writing raw data
+        try:
+            with open(target_path, 'wb') as f:
+                f.write(image_data)
+            return True
+        except Exception as e2:
+            log_message(f"    Failed to write raw image data: {type(e2).__name__}: {str(e2)}")
+            return False
+
+
+def download_image(image_url, plant_id, source='wikipedia'):
     """
     Download an image to the appropriate plant folder.
     Returns the relative path to the image for use in imageUrl, or None on failure.
     """
     if TEST_MODE:
-        log_message(f"    [TEST MODE] Would download: {image_url}")
+        log_message(f"    [TEST MODE] Would download from {source}: {image_url}")
         return f"/images/plants/{plant_id}/{plant_id}-test.jpg"
     
     # Create plant image directory
@@ -193,32 +350,34 @@ def download_image(image_url, plant_id):
     # Generate filename with timestamp
     timestamp = datetime.now().strftime("%Y-%m-%dT%H-%M-%S-%f")[:-3] + "Z"
     
-    # Determine file extension from URL
-    url_lower = image_url.lower()
-    if '.jpg' in url_lower or '.jpeg' in url_lower:
-        ext = 'jpg'
-    elif '.png' in url_lower:
-        ext = 'png'
-    elif '.webp' in url_lower:
-        ext = 'webp'
-    else:
-        ext = 'jpg'  # Default to jpg
-    
-    filename = f"{plant_id}-{timestamp}.{ext}"
+    # Always use .jpg extension since we optimize to JPEG
+    filename = f"{plant_id}-{timestamp}.jpg"
     filepath = os.path.join(plant_dir, filename)
     
     try:
-        log_message(f"    Downloading to: {filepath}")
+        log_message(f"    Downloading from {source} to: {filepath}")
         
-        # Use urlretrieve with custom headers
+        # Download image data
         opener = urlopen(Request(image_url, headers={'User-Agent': USER_AGENT}), timeout=TIMEOUT)
-        with open(filepath, 'wb') as f:
-            f.write(opener.read())
+        image_data = opener.read()
         
-        log_message(f"    Successfully downloaded image")
+        # Get original size
+        original_size = len(image_data)
+        log_message(f"    Downloaded {original_size / 1024:.1f} KB")
         
-        # Return the relative URL path for use in the JSON
-        return f"/images/plants/{plant_id}/{filename}"
+        # Optimize and save the image
+        if optimize_image(image_data, filepath):
+            # Get optimized size
+            optimized_size = os.path.getsize(filepath)
+            reduction = ((original_size - optimized_size) / original_size * 100) if original_size > 0 else 0
+            log_message(f"    Optimized to {optimized_size / 1024:.1f} KB ({reduction:.1f}% reduction)")
+            log_message(f"    Successfully processed image from {source}")
+            
+            # Return the relative URL path for use in the JSON
+            return f"/images/plants/{plant_id}/{filename}"
+        else:
+            log_message(f"    Failed to optimize image")
+            return None
     
     except Exception as e:
         log_message(f"    Failed to download image: {type(e).__name__}: {str(e)}")
@@ -340,16 +499,26 @@ def main():
             skipped_count += 1
             continue
         
-        # Search for image on Wikipedia
-        image_url = search_wikipedia_image(scientific_name, common_name)
+        # Try to find image from multiple sources
+        image_result = None
         
-        if not image_url:
-            log_message(f"  No image found - skipping")
+        # 1. Try Wikipedia first
+        image_result = search_wikipedia_image(scientific_name, common_name)
+        
+        # 2. If Wikipedia fails, try iNaturalist
+        if not image_result:
+            image_result = search_inaturalist_image(scientific_name, common_name)
+        
+        if not image_result:
+            log_message(f"  No image found from any source - skipping")
             failure_count += 1
             continue
         
+        # Extract source and URL from result
+        source, image_url = image_result
+        
         # Download the image
-        downloaded_path = download_image(image_url, plant_id)
+        downloaded_path = download_image(image_url, plant_id, source)
         
         if not downloaded_path:
             log_message(f"  Failed to download image")
@@ -359,7 +528,7 @@ def main():
         # Update the plant JSON file
         if update_plant_json(json_path, downloaded_path):
             success_count += 1
-            log_message(f"  ✓ Successfully processed plant")
+            log_message(f"  ✓ Successfully processed plant from {source}")
         else:
             failure_count += 1
             log_message(f"  Failed to update JSON file")

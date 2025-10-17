@@ -25,7 +25,7 @@ on:
 jobs:
   fetch-images:
     runs-on: ubuntu-latest
-    name: Fetch Plant Images from Wikipedia
+    name: Fetch Plant Images from Wikipedia and iNaturalist
 
     # Explicitly set permissions for security
     permissions:
@@ -39,6 +39,11 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install Pillow
 
       - name: Run image fetcher script
         run: |
@@ -77,7 +82,7 @@ jobs:
             # Count how many plants were updated
             UPDATED=$(git diff --staged --name-only src/data/Plants/*.json | wc -l)
             echo "Committing changes for $UPDATED plant(s)"
-            git commit -m "Add plant images from Wikipedia (${UPDATED} plants)"
+            git commit -m "Add plant images from Wikipedia and iNaturalist (${UPDATED} plants)"
             git push
           fi
         continue-on-error: true
