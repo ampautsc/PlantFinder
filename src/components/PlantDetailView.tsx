@@ -72,19 +72,31 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
 
   const handleCancelOffer = async () => {
     try {
-      // In a real implementation, we'd store and use the offer ID
-      // For now, we reload the data
+      if (!userActivity.activeOfferId) {
+        console.error('No active offer ID found');
+        alert('Unable to find active offer to cancel');
+        return;
+      }
+      await mockSeedShareService.cancelOffer(CURRENT_USER_ID, userActivity.activeOfferId);
       await loadSeedShareData();
     } catch (error) {
       console.error('Error canceling offer:', error);
+      alert(error instanceof Error ? error.message : 'Failed to cancel offer');
     }
   };
 
   const handleCancelRequest = async () => {
     try {
+      if (!userActivity.activeRequestId) {
+        console.error('No active request ID found');
+        alert('Unable to find active request to cancel');
+        return;
+      }
+      await mockSeedShareService.cancelRequest(CURRENT_USER_ID, userActivity.activeRequestId);
       await loadSeedShareData();
     } catch (error) {
       console.error('Error canceling request:', error);
+      alert(error instanceof Error ? error.message : 'Failed to cancel request');
     }
   };
 

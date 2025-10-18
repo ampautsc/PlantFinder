@@ -72,8 +72,10 @@ export interface UserPlantSeedShare {
   plantId: string;
   hasActiveOffer: boolean;
   hasActiveRequest: boolean;
+  activeOfferId?: string;
   activeOfferQuantity?: number;
   activeOfferStatus?: SeedShareStatus;
+  activeRequestId?: string;
   activeRequestStatus?: SeedShareStatus;
 }
 

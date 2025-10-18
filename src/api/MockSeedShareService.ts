@@ -135,8 +135,10 @@ export class MockSeedShareService
 
     let hasActiveOffer = false;
     let hasActiveRequest = false;
+    let activeOfferId: string | undefined;
     let activeOfferQuantity: number | undefined;
     let activeOfferStatus: SeedShareStatus | undefined;
+    let activeRequestId: string | undefined;
     let activeRequestStatus: SeedShareStatus | undefined;
 
     // Check for active offer
@@ -147,6 +149,7 @@ export class MockSeedShareService
         offer.status !== 'cancelled'
       ) {
         hasActiveOffer = true;
+        activeOfferId = offer.id;
         activeOfferQuantity = offer.quantity;
         activeOfferStatus = offer.status;
         break;
@@ -161,6 +164,7 @@ export class MockSeedShareService
         request.status !== 'cancelled'
       ) {
         hasActiveRequest = true;
+        activeRequestId = request.id;
         activeRequestStatus = request.status;
         break;
       }
@@ -170,8 +174,10 @@ export class MockSeedShareService
       plantId,
       hasActiveOffer,
       hasActiveRequest,
+      activeOfferId,
       activeOfferQuantity,
       activeOfferStatus,
+      activeRequestId,
       activeRequestStatus,
     };
   }
@@ -188,6 +194,7 @@ export class MockSeedShareService
           plantId: offer.plantId,
           hasActiveOffer: true,
           hasActiveRequest: false,
+          activeOfferId: offer.id,
           activeOfferQuantity: offer.quantity,
           activeOfferStatus: offer.status,
         });
@@ -200,12 +207,14 @@ export class MockSeedShareService
         const existing = plantActivities.get(request.plantId);
         if (existing) {
           existing.hasActiveRequest = true;
+          existing.activeRequestId = request.id;
           existing.activeRequestStatus = request.status;
         } else {
           plantActivities.set(request.plantId, {
             plantId: request.plantId,
             hasActiveOffer: false,
             hasActiveRequest: true,
+            activeRequestId: request.id,
             activeRequestStatus: request.status,
           });
         }
