@@ -78,7 +78,7 @@ function SeedExchangeOverlay({
           onClick={handleOfferButtonClick}
           aria-label="Offer seeds"
         >
-          <span className="button-icon">🌻</span>
+          <span className="button-icon">🍃</span>
           <span className="button-count">{openOffers}</span>
         </button>
       )}
