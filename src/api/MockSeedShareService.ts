@@ -155,12 +155,14 @@ export class MockSeedShareService
     plantIds.forEach((plantId, index) => {
       const randomUser = userIds[index % userIds.length];
       
+      // Generate creation date (0-30 days ago)
+      const now = new Date();
+      const daysAgo = Math.floor(Math.random() * 30);
+      const createdAt = new Date(now.getTime() - daysAgo * 24 * 60 * 60 * 1000);
+      
       if (index % 2 === 0) {
         // Create an offer (even index)
         const quantity = Math.floor(Math.random() * 5) + 1; // 1-5 packets
-        const now = new Date();
-        const daysAgo = Math.floor(Math.random() * 30); // 0-30 days ago
-        const createdAt = new Date(now.getTime() - daysAgo * 24 * 60 * 60 * 1000);
         
         const offer: SeedOffer = {
           id: this.generateOfferId(),
@@ -174,10 +176,6 @@ export class MockSeedShareService
         this.offers.set(offer.id, offer);
       } else {
         // Create a request (odd index)
-        const now = new Date();
-        const daysAgo = Math.floor(Math.random() * 30); // 0-30 days ago
-        const createdAt = new Date(now.getTime() - daysAgo * 24 * 60 * 60 * 1000);
-        
         const request: SeedRequest = {
           id: this.generateRequestId(),
           plantId,
