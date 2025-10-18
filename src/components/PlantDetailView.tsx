@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback } from 'react';
 import { Plant } from '../types/Plant';
 import { mockSeedShareService } from '../api/MockSeedShareService';
 import { PlantSeedShareVolume, UserPlantSeedShare, MatchDetails } from '../types/SeedShare';
-import SeedShareActions from './SeedShareActions';
+import SeedExchangeOverlay from './SeedExchangeOverlay';
 import MatchTracker from './MatchTracker';
 import './PlantDetailView.css';
 
@@ -190,10 +190,36 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
           {plant.imageUrl ? (
             <div className="detail-hero-image">
               <img src={plant.imageUrl} alt={plant.commonName} />
+              <SeedExchangeOverlay
+                hasActiveOffer={userActivity.hasActiveOffer}
+                hasActiveRequest={userActivity.hasActiveRequest}
+                activeOfferQuantity={userActivity.activeOfferQuantity}
+                activeOfferStatus={userActivity.activeOfferStatus}
+                activeRequestStatus={userActivity.activeRequestStatus}
+                openOffers={plantVolume.openOffers}
+                openRequests={plantVolume.openRequests}
+                onOfferClick={handleCreateOffer}
+                onRequestClick={handleCreateRequest}
+                onCancelOffer={handleCancelOffer}
+                onCancelRequest={handleCancelRequest}
+              />
             </div>
           ) : (
             <div className="detail-hero-placeholder">
               <span className="placeholder-icon">🌸</span>
+              <SeedExchangeOverlay
+                hasActiveOffer={userActivity.hasActiveOffer}
+                hasActiveRequest={userActivity.hasActiveRequest}
+                activeOfferQuantity={userActivity.activeOfferQuantity}
+                activeOfferStatus={userActivity.activeOfferStatus}
+                activeRequestStatus={userActivity.activeRequestStatus}
+                openOffers={plantVolume.openOffers}
+                openRequests={plantVolume.openRequests}
+                onOfferClick={handleCreateOffer}
+                onRequestClick={handleCreateRequest}
+                onCancelOffer={handleCancelOffer}
+                onCancelRequest={handleCancelRequest}
+              />
             </div>
           )}
           <div className="detail-title-area">
@@ -298,22 +324,6 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
               )}
             </section>
           )}
-
-          {/* Seed Share Actions */}
-          <SeedShareActions
-            plantId={plant.id}
-            hasActiveOffer={userActivity.hasActiveOffer}
-            hasActiveRequest={userActivity.hasActiveRequest}
-            activeOfferQuantity={userActivity.activeOfferQuantity}
-            activeOfferStatus={userActivity.activeOfferStatus}
-            activeRequestStatus={userActivity.activeRequestStatus}
-            openOffers={plantVolume.openOffers}
-            openRequests={plantVolume.openRequests}
-            onOfferClick={handleCreateOffer}
-            onRequestClick={handleCreateRequest}
-            onCancelOffer={handleCancelOffer}
-            onCancelRequest={handleCancelRequest}
-          />
 
           {/* Match Tracker */}
           {matches.length > 0 && (
