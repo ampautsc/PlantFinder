@@ -45,7 +45,149 @@ export class MockSeedShareService
 
   private seedMockData() {
     // Add some initial offers and requests for demonstration
-    // This will be populated as users interact with the system
+    // Creating a mix of offers and requests across various plants
+    
+    // Plant IDs to use for mock data - expanded list for better coverage
+    const plantIds = [
+      'achillea-millefolium',
+      'acer-rubrum',
+      'actaea-racemosa',
+      'amelanchier-alnifolia',
+      'amsonia-tabernaemontana',
+      'aquilegia-canadensis',
+      'asclepias-incarnata',
+      'asclepias-tuberosa',
+      'baptisia-australis',
+      'coreopsis-lanceolata',
+      'echinacea-purpurea',
+      'helianthus-maximiliani',
+      'liatris-spicata',
+      'lobelia-cardinalis',
+      'monarda-fistulosa',
+      'penstemon-digitalis',
+      'rudbeckia-hirta',
+      'solidago-canadensis',
+      'symphyotrichum-novae-angliae',
+      'zizia-aurea',
+      'allium-schoenoprasum',
+      'amorpha-fruticosa',
+      'anaphalis-margaritacea',
+      'andropogon-gerardii',
+      'angelica-atropurpurea',
+      'aquilegia-chrysantha',
+      'aquilegia-formosa',
+      'arbutus-menziesii',
+      'arctostaphylos-uva-ursi',
+      'asclepias-speciosa',
+      'asclepias-syriaca',
+      'aster-laevis',
+      'astragalus-canadensis',
+      'bouteloua-curtipendula',
+      'bouteloua-gracilis',
+      'ceanothus-americanus',
+      'cercis-canadensis',
+      'chamaecrista-fasciculata',
+      'chelone-glabra',
+      'chrysanthemum-leucanthemum',
+      'coreopsis-tinctoria',
+      'coreopsis-verticillata',
+      'cornus-sericea',
+      'dalea-purpurea',
+      'delphinium-exaltatum',
+      'desmanthus-illinoensis',
+      'desmodium-canadense',
+      'dodecatheon-meadia',
+      'echinacea-pallida',
+      'eryngium-yuccifolium',
+      'eupatorium-maculatum',
+      'eupatorium-perfoliatum',
+      'fragaria-virginiana',
+      'gaillardia-aristata',
+      'geranium-maculatum',
+      'geum-triflorum',
+      'helenium-autumnale',
+      'helianthus-annuus',
+      'helianthus-divaricatus',
+      'helianthus-grosseserratus',
+      'heliopsis-helianthoides',
+      'hibiscus-moscheutos',
+      'hypoxis-hirsuta',
+      'iris-versicolor',
+      'lespedeza-capitata',
+      'liatris-aspera',
+      'liatris-pycnostachya',
+      'lobelia-siphilitica',
+      'lupinus-perennis',
+      'monarda-didyma',
+      'oenothera-biennis',
+      'penstemon-grandiflorus',
+      'penstemon-hirsutus',
+      'phlox-divaricata',
+      'phlox-pilosa',
+      'physostegia-virginiana',
+      'podophyllum-peltatum',
+      'polygonatum-biflorum',
+      'potentilla-fruticosa',
+      'ratibida-pinnata',
+      'rosa-carolina',
+      'rudbeckia-fulgida',
+      'rudbeckia-laciniata',
+      'salvia-azurea',
+      'sanguinaria-canadensis',
+      'schizachyrium-scoparium',
+      'scutellaria-lateriflora',
+      'silene-regia',
+      'silphium-integrifolium',
+      'silphium-laciniatum',
+      'silphium-perfoliatum',
+      'sisyrinchium-angustifolium',
+      'solidago-juncea',
+      'solidago-rigida',
+      'solidago-speciosa',
+      'sorghastrum-nutans',
+      'spiraea-alba',
+    ];
+    
+    // Mock user IDs
+    const userIds = ['user1', 'user2', 'user3'];
+    
+    // Create a mix of offers and requests (approximately 50/50)
+    plantIds.forEach((plantId, index) => {
+      const randomUser = userIds[index % userIds.length];
+      
+      // Generate creation date (0-30 days ago)
+      const now = new Date();
+      const daysAgo = Math.floor(Math.random() * 30);
+      const createdAt = new Date(now.getTime() - daysAgo * 24 * 60 * 60 * 1000);
+      
+      if (index % 2 === 0) {
+        // Create an offer (even index)
+        const quantity = Math.floor(Math.random() * 5) + 1; // 1-5 packets
+        
+        const offer: SeedOffer = {
+          id: this.generateOfferId(),
+          plantId,
+          userId: randomUser,
+          quantity,
+          status: 'open',
+          createdAt,
+          updatedAt: createdAt,
+        };
+        this.offers.set(offer.id, offer);
+      } else {
+        // Create a request (odd index)
+        const request: SeedRequest = {
+          id: this.generateRequestId(),
+          plantId,
+          userId: randomUser,
+          quantity: 1,
+          status: 'open',
+          createdAt,
+          updatedAt: createdAt,
+        };
+        this.requests.set(request.id, request);
+      }
+    });
   }
 
   private generateOfferId(): string {
