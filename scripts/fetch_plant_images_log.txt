@@ -4190,3 +4190,8 @@
 [2025-10-17 21:36:28] Scanning for plants without images...
 [2025-10-17 21:36:29] Found 0 plants without images
 [2025-10-17 21:36:29] No plants need images - exiting
+[2025-10-18 03:16:36] Batch job started (version 2.0.0)
+[2025-10-18 03:16:36] Limit set to 50 images
+[2025-10-18 03:16:36] Scanning for plants without images...
+[2025-10-18 03:16:36] Found 0 plants without images
+[2025-10-18 03:16:36] No plants need images - exiting
