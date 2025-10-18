@@ -248,6 +248,7 @@ body {
   border-radius: 8px;
   overflow: hidden;
   background-color: var(--background-color);
+  position: relative;
 }
 
 .plant-image img {
@@ -267,6 +268,7 @@ body {
   align-items: center;
   justify-content: center;
   border: 2px dashed var(--border-color);
+  position: relative;
 }
 
 .no-image-indicator {

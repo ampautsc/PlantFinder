@@ -1,5 +1,9 @@
-import { useState } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { Plant } from '../types/Plant';
+import { mockSeedShareService } from '../api/MockSeedShareService';
+import { PlantSeedShareVolume, UserPlantSeedShare, MatchDetails } from '../types/SeedShare';
+import SeedShareActions from './SeedShareActions';
+import MatchTracker from './MatchTracker';
 import './PlantDetailView.css';
 
 interface PlantDetailViewProps {
@@ -7,8 +11,102 @@ interface PlantDetailViewProps {
   onClose: () => void;
 }
 
+// Current user ID (in a real app, this would come from authentication)
+const CURRENT_USER_ID = 'current';
+
 function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
   const [expandedSections, setExpandedSections] = useState<Set<string>>(new Set());
+  const [plantVolume, setPlantVolume] = useState<PlantSeedShareVolume>({
+    plantId: plant.id,
+    openOffers: 0,
+    openRequests: 0,
+  });
+  const [userActivity, setUserActivity] = useState<UserPlantSeedShare>({
+    plantId: plant.id,
+    hasActiveOffer: false,
+    hasActiveRequest: false,
+  });
+  const [matches, setMatches] = useState<MatchDetails[]>([]);
+
+  const loadSeedShareData = useCallback(async () => {
+    try {
+      const [volume, activity, userMatches] = await Promise.all([
+        mockSeedShareService.getPlantVolume(plant.id),
+        mockSeedShareService.getUserPlantActivity(CURRENT_USER_ID, plant.id),
+        mockSeedShareService.getUserMatches(CURRENT_USER_ID),
+      ]);
+      setPlantVolume(volume);
+      setUserActivity(activity);
+      setMatches(userMatches);
+    } catch (error) {
+      console.error('Error loading seed share data:', error);
+    }
+  }, [plant.id]);
+
+  // Load seed share data
+  useEffect(() => {
+    loadSeedShareData();
+    // Register plant data with the service for match display
+    mockSeedShareService.registerPlantData(plant.id, plant.commonName, plant.scientificName);
+  }, [plant.id, plant.commonName, plant.scientificName, loadSeedShareData]);
+
+  const handleCreateOffer = async (quantity: number) => {
+    try {
+      await mockSeedShareService.createOffer(CURRENT_USER_ID, plant.id, quantity);
+      await loadSeedShareData();
+    } catch (error) {
+      console.error('Error creating offer:', error);
+      alert(error instanceof Error ? error.message : 'Failed to create offer');
+    }
+  };
+
+  const handleCreateRequest = async () => {
+    try {
+      await mockSeedShareService.createRequest(CURRENT_USER_ID, plant.id);
+      await loadSeedShareData();
+    } catch (error) {
+      console.error('Error creating request:', error);
+      alert(error instanceof Error ? error.message : 'Failed to create request');
+    }
+  };
+
+  const handleCancelOffer = async () => {
+    try {
+      // In a real implementation, we'd store and use the offer ID
+      // For now, we reload the data
+      await loadSeedShareData();
+    } catch (error) {
+      console.error('Error canceling offer:', error);
+    }
+  };
+
+  const handleCancelRequest = async () => {
+    try {
+      await loadSeedShareData();
+    } catch (error) {
+      console.error('Error canceling request:', error);
+    }
+  };
+
+  const handleMarkAsSent = async (matchId: string) => {
+    try {
+      await mockSeedShareService.markAsSent(CURRENT_USER_ID, matchId);
+      await loadSeedShareData();
+    } catch (error) {
+      console.error('Error marking as sent:', error);
+      alert(error instanceof Error ? error.message : 'Failed to mark as sent');
+    }
+  };
+
+  const handleMarkAsReceived = async (matchId: string) => {
+    try {
+      await mockSeedShareService.markAsReceived(CURRENT_USER_ID, matchId);
+      await loadSeedShareData();
+    } catch (error) {
+      console.error('Error marking as received:', error);
+      alert(error instanceof Error ? error.message : 'Failed to mark as received');
+    }
+  };
 
   const toggleSection = (section: string) => {
     const newExpanded = new Set(expandedSections);
@@ -187,6 +285,32 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                 </div>
               )}
             </section>
+          )}
+
+          {/* Seed Share Actions */}
+          <SeedShareActions
+            plantId={plant.id}
+            hasActiveOffer={userActivity.hasActiveOffer}
+            hasActiveRequest={userActivity.hasActiveRequest}
+            activeOfferQuantity={userActivity.activeOfferQuantity}
+            activeOfferStatus={userActivity.activeOfferStatus}
+            activeRequestStatus={userActivity.activeRequestStatus}
+            openOffers={plantVolume.openOffers}
+            openRequests={plantVolume.openRequests}
+            onOfferClick={handleCreateOffer}
+            onRequestClick={handleCreateRequest}
+            onCancelOffer={handleCancelOffer}
+            onCancelRequest={handleCancelRequest}
+          />
+
+          {/* Match Tracker */}
+          {matches.length > 0 && (
+            <MatchTracker
+              userId={CURRENT_USER_ID}
+              matches={matches}
+              onMarkAsSent={handleMarkAsSent}
+              onMarkAsReceived={handleMarkAsReceived}
+            />
           )}
 
           {/* Expandable Sections */}
