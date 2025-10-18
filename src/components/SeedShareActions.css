@@ -51,6 +51,12 @@
   font-size: 32px;
 }
 
+.volume-icon-img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
 .volume-details {
   display: flex;
   flex-direction: column;
@@ -201,12 +207,12 @@
 }
 
 .offer-button {
-  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-  box-shadow: 0 4px 15px rgba(245, 87, 108, 0.4);
+  background: linear-gradient(135deg, #FF8C00 0%, #FFB347 100%);
+  box-shadow: 0 4px 15px rgba(255, 140, 0, 0.4);
 }
 
 .offer-button:hover {
-  box-shadow: 0 6px 20px rgba(245, 87, 108, 0.5);
+  box-shadow: 0 6px 20px rgba(255, 140, 0, 0.5);
 }
 
 .request-button {
@@ -220,6 +226,13 @@
 
 .button-icon {
   font-size: 36px;
+}
+
+.button-icon-img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
 }
 
 .button-content {

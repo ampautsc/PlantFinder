@@ -31,7 +31,7 @@
 }
 
 .badge-item.offer-badge {
-  background: linear-gradient(135deg, rgba(240, 147, 251, 0.95), rgba(245, 87, 108, 0.95));
+  background: linear-gradient(135deg, rgba(255, 140, 0, 0.95), rgba(255, 179, 71, 0.95));
   color: white;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 }
@@ -44,6 +44,13 @@
 
 .badge-icon {
   font-size: 14px;
+}
+
+.badge-icon-img {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.1));
 }
 
 .badge-count {
