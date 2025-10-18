@@ -74,6 +74,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     try {
       if (!userActivity.activeOfferId) {
         console.error('No active offer ID found');
+        alert('Unable to find active offer to cancel');
         return;
       }
       await mockSeedShareService.cancelOffer(CURRENT_USER_ID, userActivity.activeOfferId);
@@ -88,6 +89,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     try {
       if (!userActivity.activeRequestId) {
         console.error('No active request ID found');
+        alert('Unable to find active request to cancel');
         return;
       }
       await mockSeedShareService.cancelRequest(CURRENT_USER_ID, userActivity.activeRequestId);
