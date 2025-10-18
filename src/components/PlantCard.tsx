@@ -46,13 +46,13 @@ function PlantCard({ plant, onClick }: PlantCardProps) {
             <div className="seed-share-badge">
               {plantVolume.openOffers > 0 && (
                 <div className="badge-item offer-badge">
-                  <span className="badge-icon">📦</span>
+                  <span className="badge-icon">🌻</span>
                   <span className="badge-count">{plantVolume.openOffers}</span>
                 </div>
               )}
               {plantVolume.openRequests > 0 && (
                 <div className="badge-item request-badge">
-                  <span className="badge-icon">🙏</span>
+                  <span className="badge-icon">🤲</span>
                   <span className="badge-count">{plantVolume.openRequests}</span>
                 </div>
               )}
@@ -67,13 +67,13 @@ function PlantCard({ plant, onClick }: PlantCardProps) {
             <div className="seed-share-badge">
               {plantVolume.openOffers > 0 && (
                 <div className="badge-item offer-badge">
-                  <span className="badge-icon">📦</span>
+                  <span className="badge-icon">🌻</span>
                   <span className="badge-count">{plantVolume.openOffers}</span>
                 </div>
               )}
               {plantVolume.openRequests > 0 && (
                 <div className="badge-item request-badge">
-                  <span className="badge-icon">🙏</span>
+                  <span className="badge-icon">🤲</span>
                   <span className="badge-count">{plantVolume.openRequests}</span>
                 </div>
               )}

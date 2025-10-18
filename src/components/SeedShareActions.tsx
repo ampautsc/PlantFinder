@@ -50,30 +50,17 @@ function SeedShareActions({
       case 'open':
         return 'Active';
       case 'matched':
-        return 'Matched! 🎉';
+        return 'Matched';
+      case 'confirmed':
+        return 'Confirmed';
       case 'sent':
-        return 'Sent 📦';
+        return 'Shipped';
       case 'received':
+        return 'Received';
       case 'complete':
-        return 'Complete ✅';
+        return 'Complete';
       default:
         return status;
-    }
-  };
-
-  const getStatusColor = (status?: string) => {
-    switch (status) {
-      case 'open':
-        return '#4CAF50';
-      case 'matched':
-        return '#FF9800';
-      case 'sent':
-        return '#2196F3';
-      case 'received':
-      case 'complete':
-        return '#9C27B0';
-      default:
-        return '#757575';
     }
   };
 
@@ -87,14 +74,14 @@ function SeedShareActions({
       {/* Volume Display */}
       <div className="seed-share-volume">
         <div className="volume-item">
-          <span className="volume-icon">📦</span>
+          <span className="volume-icon">🌻</span>
           <div className="volume-details">
             <span className="volume-count">{openOffers}</span>
             <span className="volume-label">Available Packets</span>
           </div>
         </div>
         <div className="volume-item">
-          <span className="volume-icon">🙏</span>
+          <span className="volume-icon">🤲</span>
           <div className="volume-details">
             <span className="volume-count">{openRequests}</span>
             <span className="volume-label">Open Requests</span>
@@ -114,16 +101,13 @@ function SeedShareActions({
               <div className="status-details">
                 <div className="status-info">
                   <span className="status-quantity">{activeOfferQuantity} packet{activeOfferQuantity !== 1 ? 's' : ''}</span>
-                  <span
-                    className="status-state"
-                    style={{ color: getStatusColor(activeOfferStatus) }}
-                  >
+                  <span className="status-state">
                     {getStatusDisplay(activeOfferStatus)}
                   </span>
                 </div>
                 {activeOfferStatus === 'open' && onCancelOffer && (
                   <button className="cancel-button" onClick={onCancelOffer}>
-                    Cancel
+                    ✕
                   </button>
                 )}
               </div>
@@ -138,16 +122,13 @@ function SeedShareActions({
               <div className="status-details">
                 <div className="status-info">
                   <span className="status-quantity">1 packet</span>
-                  <span
-                    className="status-state"
-                    style={{ color: getStatusColor(activeRequestStatus) }}
-                  >
+                  <span className="status-state">
                     {getStatusDisplay(activeRequestStatus)}
                   </span>
                 </div>
                 {activeRequestStatus === 'open' && onCancelRequest && (
                   <button className="cancel-button" onClick={onCancelRequest}>
-                    Cancel
+                    ✕
                   </button>
                 )}
               </div>
@@ -166,7 +147,7 @@ function SeedShareActions({
                 onClick={handleOfferButtonClick}
                 disabled={hasActiveRequest}
               >
-                <span className="button-icon">🎁</span>
+                <span className="button-icon">🌻</span>
                 <div className="button-content">
                   <span className="button-title">Offer Seeds</span>
                   <span className="button-subtitle">Share up to 10 packets</span>
@@ -177,7 +158,7 @@ function SeedShareActions({
                 onClick={onRequestClick}
                 disabled={hasActiveOffer}
               >
-                <span className="button-icon">🌱</span>
+                <span className="button-icon">🤲</span>
                 <div className="button-content">
                   <span className="button-title">Request Seeds</span>
                   <span className="button-subtitle">Get 1 packet</span>
