@@ -49,7 +49,7 @@
 
 .offer-button {
   left: 16px;
-  background: linear-gradient(135deg, #FF6B9D 0%, #FFA07A 100%);
+  background: linear-gradient(135deg, #FF8C00 0%, #FFB347 100%);
 }
 
 .request-button {
@@ -60,6 +60,13 @@
 .button-icon {
   font-size: 32px;
   line-height: 1;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+}
+
+.button-icon-img {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
 }
 
@@ -80,13 +87,13 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 255, 255, 0.98);
+  background: rgba(76, 175, 80, 0.95);
   backdrop-filter: blur(12px);
   padding: 14px 18px;
   border-radius: 0 0 16px 16px;
   box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.15);
   pointer-events: all;
-  border-top: 3px solid #f0f0f0;
+  border-top: 3px solid #4CAF50;
 }
 
 .status-item {
@@ -94,7 +101,7 @@
   align-items: center;
   gap: 10px;
   margin-bottom: 8px;
-  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  background: rgba(255, 255, 255, 0.25);
   padding: 10px 14px;
   border-radius: 16px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
@@ -114,23 +121,23 @@
   font-size: 14px;
   font-weight: 700;
   flex: 1;
-  color: #2c3e50;
+  color: white;
 }
 
 .offer-status {
-  border: 2px solid #FF6B9D;
+  border: 2px solid rgba(255, 255, 255, 0.5);
 }
 
 .offer-status .status-text {
-  color: #E91E63;
+  color: white;
 }
 
 .request-status {
-  border: 2px solid #4FC3F7;
+  border: 2px solid rgba(255, 255, 255, 0.5);
 }
 
 .request-status .status-text {
-  color: #2196F3;
+  color: white;
 }
 
 .status-cancel {
@@ -138,7 +145,7 @@
   height: 28px;
   border-radius: 50%;
   border: 2px solid white;
-  background: linear-gradient(135deg, #FF6B6B 0%, #EE5A6F 100%);
+  background: rgba(0, 0, 0, 0.4);
   color: white;
   font-size: 16px;
   font-weight: 700;
@@ -148,13 +155,13 @@
   justify-content: center;
   transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
   flex-shrink: 0;
-  box-shadow: 0 2px 8px rgba(255, 107, 107, 0.4);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 .status-cancel:hover {
-  background: linear-gradient(135deg, #EE5A6F 0%, #C0392B 100%);
+  background: rgba(0, 0, 0, 0.6);
   transform: scale(1.15) rotate(90deg);
-  box-shadow: 0 4px 12px rgba(255, 107, 107, 0.5);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
 }
 
 /* Quantity Modal */
@@ -189,7 +196,7 @@
   box-shadow: 0 12px 48px rgba(0, 0, 0, 0.3);
   min-width: 300px;
   animation: slideUp 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
-  border: 4px solid #FF6B9D;
+  border: 4px solid #FF8C00;
 }
 
 @keyframes slideUp {
@@ -224,9 +231,9 @@
   width: 56px;
   height: 56px;
   border-radius: 50%;
-  border: 4px solid #FF6B9D;
+  border: 4px solid #FF8C00;
   background: white;
-  color: #FF6B9D;
+  color: #FF8C00;
   font-size: 32px;
   font-weight: 800;
   cursor: pointer;
@@ -234,14 +241,14 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.2);
+  box-shadow: 0 4px 12px rgba(255, 140, 0, 0.2);
 }
 
 .quantity-btn:hover:not(:disabled) {
-  background: linear-gradient(135deg, #FF6B9D 0%, #FFA07A 100%);
+  background: linear-gradient(135deg, #FF8C00 0%, #FFB347 100%);
   color: white;
   transform: scale(1.15);
-  box-shadow: 0 6px 16px rgba(255, 107, 157, 0.4);
+  box-shadow: 0 6px 16px rgba(255, 140, 0, 0.4);
 }
 
 .quantity-btn:disabled {
@@ -257,7 +264,7 @@
   color: #2c3e50;
   min-width: 80px;
   text-align: center;
-  background: linear-gradient(135deg, #FF6B9D 0%, #FFA07A 100%);
+  background: linear-gradient(135deg, #FF8C00 0%, #FFB347 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -281,15 +288,15 @@
 }
 
 .confirm-btn {
-  background: linear-gradient(135deg, #FF6B9D 0%, #FFA07A 100%);
+  background: linear-gradient(135deg, #FF8C00 0%, #FFB347 100%);
   color: white;
-  box-shadow: 0 6px 16px rgba(255, 107, 157, 0.4);
+  box-shadow: 0 6px 16px rgba(255, 140, 0, 0.4);
   border: 3px solid white;
 }
 
 .confirm-btn:hover {
   transform: translateY(-3px) scale(1.02);
-  box-shadow: 0 8px 20px rgba(255, 107, 157, 0.5);
+  box-shadow: 0 8px 20px rgba(255, 140, 0, 0.5);
 }
 
 .cancel-btn {

@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import './SeedExchangeOverlay.css';
+import seedIcon from '../seed_icon.png';
 
 interface SeedExchangeOverlayProps {
   hasActiveOffer: boolean;
@@ -56,9 +57,11 @@ function SeedExchangeOverlay({
       case 'open':
         return 'Active';
       case 'matched':
-        return 'Matched!';
+        return 'Matched';
+      case 'confirmed':
+        return 'Confirmed';
       case 'sent':
-        return 'Sent';
+        return 'Shipped';
       case 'received':
       case 'complete':
         return 'Complete';
@@ -76,7 +79,7 @@ function SeedExchangeOverlay({
           onClick={handleOfferButtonClick}
           aria-label="Offer seeds"
         >
-          <span className="button-icon">🎁</span>
+          <img src={seedIcon} alt="seed" className="button-icon-img" />
           <span className="button-count">{openOffers}</span>
         </button>
       )}
@@ -88,7 +91,7 @@ function SeedExchangeOverlay({
           onClick={handleRequestButtonClick}
           aria-label="Request seeds"
         >
-          <span className="button-icon">🙏</span>
+          <span className="button-icon">🤲</span>
           <span className="button-count">{openRequests}</span>
         </button>
       )}
