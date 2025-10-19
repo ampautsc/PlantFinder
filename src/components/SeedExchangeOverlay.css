@@ -57,11 +57,16 @@
   background: linear-gradient(135deg, #4FC3F7 0%, #66BB6A 100%);
 }
 
+.button-icon {
+  font-size: 32px;
+  line-height: 1;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+}
+
 .button-icon img {
   width: 32px;
   height: 32px;
   object-fit: contain;
-  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
 }
 
 .button-count {
