@@ -86,12 +86,47 @@ export class PlantDataLoader {
       }
       
       const plant: Plant = await response.json();
+      
+      // Validate that the loaded data is a valid Plant object
+      if (!this.isValidPlant(plant)) {
+        console.error(`Invalid plant data for ${id}: missing required properties`);
+        return null;
+      }
+      
       this.cache.set(id, plant);
       return plant;
     } catch (error) {
       console.error(`Error loading plant ${id}:`, error);
       return null;
     }
+  }
+
+  /**
+   * Validate that an object is a valid Plant
+   */
+  private static isValidPlant(plant: unknown): plant is Plant {
+    if (!plant || typeof plant !== 'object') {
+      return false;
+    }
+
+    const p = plant as Record<string, unknown>;
+    
+    return (
+      typeof p.id === 'string' &&
+      typeof p.commonName === 'string' &&
+      typeof p.scientificName === 'string' &&
+      p.requirements !== undefined &&
+      typeof p.requirements === 'object' &&
+      p.requirements !== null &&
+      typeof (p.requirements as Record<string, unknown>).sun === 'string' &&
+      p.characteristics !== undefined &&
+      typeof p.characteristics === 'object' &&
+      p.characteristics !== null &&
+      Array.isArray((p.characteristics as Record<string, unknown>).bloomColor) &&
+      p.relationships !== undefined &&
+      typeof p.relationships === 'object' &&
+      p.relationships !== null
+    );
   }
 
   /**
