@@ -106,53 +106,66 @@ body {
 /* Main Content */
 .main-content {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex: 1;
   overflow: hidden;
 }
 
-/* New Filters Panel - Floating Button Style */
+/* New Filters Panel - Solid Left Toolbar */
 .filters-panel-new {
-  position: fixed;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 90;
+  background-color: #ffffff;
+  border-right: 2px solid #dee2e6;
   display: flex;
-  gap: 0.5rem;
-  padding: 0.5rem;
+  flex-direction: row;
+  width: 180px;
+  min-width: 180px;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  position: relative;
+  transition: width 0.3s ease;
+  box-shadow: 2px 0 4px rgba(0,0,0,0.05);
 }
 
 .filters-panel-new.hidden {
   display: none;
 }
 
+.filters-panel-new.expanded {
+  width: 430px;
+  min-width: 430px;
+}
+
 .filter-buttons {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  padding: 1rem;
+  width: 180px;
+  flex-shrink: 0;
+  background-color: #f8f9fa;
+  border-right: 2px solid #e9ecef;
 }
 
 .filter-icon-btn {
-  width: 56px;
-  height: 56px;
-  border-radius: 50%;
-  background-color: var(--card-background);
-  border: 2px solid var(--border-color);
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  width: 100%;
+  height: 50px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: 2px solid #e9ecef;
   cursor: pointer;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  justify-content: center;
-  transition: all 0.3s ease;
-  padding: 0.25rem;
+  justify-content: flex-start;
+  gap: 0.75rem;
+  transition: all 0.2s ease;
+  padding: 0.5rem 0.875rem;
 }
 
 .filter-icon-btn:hover {
-  transform: scale(1.1);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
-  border-color: var(--primary-color);
+  background-color: #e9ecef;
+  border-color: #adb5bd;
 }
 
 .filter-icon-btn.active {
@@ -162,21 +175,23 @@ body {
 }
 
 .filter-icon-btn.expanded {
+  background-color: var(--secondary-color);
+  color: white;
   border-color: var(--secondary-color);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
 }
 
 .filter-icon {
   font-size: 1.5rem;
   line-height: 1;
+  flex-shrink: 0;
 }
 
 .filter-label {
-  font-size: 0.6rem;
+  font-size: 0.875rem;
   font-weight: 600;
-  margin-top: 0.15rem;
   line-height: 1;
-  text-align: center;
+  text-align: left;
+  white-space: nowrap;
 }
 
 .filter-icon-btn.active .filter-label {
@@ -184,40 +199,41 @@ body {
 }
 
 .clear-filters-icon-btn {
-  width: 56px;
-  height: 56px;
-  border-radius: 50%;
-  background-color: #f44336;
-  border: 2px solid #f44336;
+  width: 100%;
+  height: 50px;
+  border-radius: 4px;
+  background-color: #dc3545;
+  border: 2px solid #dc3545;
   color: white;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.5rem;
-  font-weight: bold;
-  transition: all 0.3s ease;
-  margin-top: 1rem;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  padding: 0.5rem 0.875rem;
+  margin-top: auto;
 }
 
 .clear-filters-icon-btn:hover {
-  transform: scale(1.1);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  background-color: #c82333;
+  border-color: #bd2130;
 }
 
 /* Filter Expansion Panel */
 .filter-expansion {
-  background-color: var(--card-background);
-  border-radius: 12px;
+  width: 250px;
+  flex-shrink: 0;
+  background-color: #ffffff;
+  border-left: 1px solid #e9ecef;
   padding: 1rem;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  min-width: 280px;
-  max-width: 400px;
-  animation: slideIn 0.2s ease-out;
+  animation: slideRight 0.2s ease-out;
+  overflow-y: auto;
 }
 
-@keyframes slideIn {
+@keyframes slideRight {
   from {
     opacity: 0;
     transform: translateX(-10px);
@@ -248,9 +264,9 @@ body {
 
 .filter-chip {
   padding: 0.5rem 1rem;
-  border: 2px solid var(--border-color);
-  border-radius: 20px;
-  background-color: var(--card-background);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  background-color: white;
   cursor: pointer;
   font-size: 0.9rem;
   transition: all 0.2s;
@@ -259,6 +275,7 @@ body {
 
 .filter-chip:hover {
   border-color: var(--primary-color);
+  background-color: #f0f0f0;
 }
 
 .filter-chip:active {
@@ -280,8 +297,8 @@ body {
 .range-input {
   flex: 1;
   padding: 0.5rem;
-  border: 2px solid var(--border-color);
-  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
   font-size: 0.9rem;
 }
 
@@ -462,11 +479,6 @@ body {
     font-size: 2rem;
   }
 
-  .main-content {
-    flex-direction: row;
-    overflow: hidden;
-  }
-
   .filters-panel-new.hidden {
     display: flex;
   }
@@ -478,6 +490,7 @@ body {
   .results-container {
     height: 100%;
     overflow-y: auto;
+    flex: 1;
   }
 
   .results-grid {

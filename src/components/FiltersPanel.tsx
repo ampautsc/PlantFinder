@@ -111,7 +111,7 @@ function FiltersPanel({
   }).length;
 
   return (
-    <div className={`filters-panel-new ${isVisible ? '' : 'hidden'}`}>
+    <div className={`filters-panel-new ${isVisible ? '' : 'hidden'} ${expandedCategory ? 'expanded' : ''}`}>
       <div className="filter-buttons">
         {filterCategories.map(category => (
           <button
@@ -127,7 +127,8 @@ function FiltersPanel({
         
         {activeFilterCount > 0 && (
           <button className="clear-filters-icon-btn" onClick={onClearFilters} title="Clear All">
-            ✕
+            <span>✕</span>
+            <span>Clear All</span>
           </button>
         )}
       </div>
