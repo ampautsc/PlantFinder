@@ -47,27 +47,29 @@ export class MockPlantApi implements IPlantApi {
     // Filter by sun requirements
     if (filters.sun && filters.sun.length > 0) {
       results = results.filter(plant =>
-        filters.sun!.includes(plant.requirements.sun)
+        plant.requirements && filters.sun!.includes(plant.requirements.sun)
       );
     }
 
     // Filter by moisture requirements
     if (filters.moisture && filters.moisture.length > 0) {
       results = results.filter(plant =>
-        filters.moisture!.includes(plant.requirements.moisture)
+        plant.requirements && filters.moisture!.includes(plant.requirements.moisture)
       );
     }
 
     // Filter by soil requirements
     if (filters.soil && filters.soil.length > 0) {
       results = results.filter(plant =>
-        filters.soil!.includes(plant.requirements.soil)
+        plant.requirements && filters.soil!.includes(plant.requirements.soil)
       );
     }
 
     // Filter by bloom color
     if (filters.bloomColor && filters.bloomColor.length > 0) {
       results = results.filter(plant =>
+        plant.characteristics && 
+        plant.characteristics.bloomColor && 
         plant.characteristics.bloomColor.some(color =>
           filters.bloomColor!.includes(color)
         )
@@ -77,6 +79,8 @@ export class MockPlantApi implements IPlantApi {
     // Filter by bloom time
     if (filters.bloomTime && filters.bloomTime.length > 0) {
       results = results.filter(plant =>
+        plant.characteristics && 
+        plant.characteristics.bloomTime && 
         plant.characteristics.bloomTime.some(time =>
           filters.bloomTime!.includes(time)
         )
@@ -86,13 +90,15 @@ export class MockPlantApi implements IPlantApi {
     // Filter by perennial
     if (filters.perennial !== undefined) {
       results = results.filter(plant =>
-        plant.characteristics.perennial === filters.perennial
+        plant.characteristics && plant.characteristics.perennial === filters.perennial
       );
     }
 
     // Filter by native range
     if (filters.nativeRange && filters.nativeRange.length > 0) {
       results = results.filter(plant =>
+        plant.characteristics && 
+        plant.characteristics.nativeRange && 
         filters.nativeRange!.every(range =>
           plant.characteristics.nativeRange.includes(range)
         )
@@ -102,6 +108,8 @@ export class MockPlantApi implements IPlantApi {
     // Filter by hardiness zones
     if (filters.hardinessZones && filters.hardinessZones.length > 0) {
       results = results.filter(plant =>
+        plant.characteristics && 
+        plant.characteristics.hardinessZones && 
         plant.characteristics.hardinessZones.some(zone =>
           filters.hardinessZones!.includes(zone)
         )
@@ -111,30 +119,32 @@ export class MockPlantApi implements IPlantApi {
     // Filter by height
     if (filters.minHeight !== undefined) {
       results = results.filter(plant =>
-        plant.characteristics.height >= filters.minHeight!
+        plant.characteristics && plant.characteristics.height >= filters.minHeight!
       );
     }
     if (filters.maxHeight !== undefined) {
       results = results.filter(plant =>
-        plant.characteristics.height <= filters.maxHeight!
+        plant.characteristics && plant.characteristics.height <= filters.maxHeight!
       );
     }
 
     // Filter by width
     if (filters.minWidth !== undefined) {
       results = results.filter(plant =>
-        plant.characteristics.width >= filters.minWidth!
+        plant.characteristics && plant.characteristics.width >= filters.minWidth!
       );
     }
     if (filters.maxWidth !== undefined) {
       results = results.filter(plant =>
-        plant.characteristics.width <= filters.maxWidth!
+        plant.characteristics && plant.characteristics.width <= filters.maxWidth!
       );
     }
 
     // Filter by host plant relationships
     if (filters.hostPlantTo && filters.hostPlantTo.length > 0) {
       results = results.filter(plant =>
+        plant.relationships && 
+        plant.relationships.hostPlantTo && 
         plant.relationships.hostPlantTo.some(host =>
           filters.hostPlantTo!.some(filter =>
             host.toLowerCase().includes(filter.toLowerCase())
@@ -146,6 +156,8 @@ export class MockPlantApi implements IPlantApi {
     // Filter by food for relationships
     if (filters.foodFor && filters.foodFor.length > 0) {
       results = results.filter(plant =>
+        plant.relationships && 
+        plant.relationships.foodFor && 
         plant.relationships.foodFor.some(food =>
           filters.foodFor!.includes(food)
         )
@@ -155,6 +167,8 @@ export class MockPlantApi implements IPlantApi {
     // Filter by useful for relationships
     if (filters.usefulFor && filters.usefulFor.length > 0) {
       results = results.filter(plant =>
+        plant.relationships && 
+        plant.relationships.usefulFor && 
         plant.relationships.usefulFor.some(use =>
           filters.usefulFor!.some(filter =>
             use.toLowerCase().includes(filter.toLowerCase())
@@ -191,13 +205,31 @@ export class MockPlantApi implements IPlantApi {
     const usefulFor = new Set<string>();
 
     this.plantsCache.forEach(plant => {
-      plant.characteristics.bloomColor.forEach(color => bloomColors.add(color));
-      plant.characteristics.bloomTime.forEach(time => bloomTimes.add(time));
-      plant.characteristics.nativeRange.forEach(range => nativeRanges.add(range));
-      plant.characteristics.hardinessZones.forEach(zone => hardinessZones.add(zone));
-      plant.relationships.hostPlantTo.forEach(host => hostPlantTo.add(host));
-      plant.relationships.foodFor.forEach(food => foodFor.add(food));
-      plant.relationships.usefulFor.forEach(use => usefulFor.add(use));
+      if (plant.characteristics) {
+        if (plant.characteristics.bloomColor) {
+          plant.characteristics.bloomColor.forEach(color => bloomColors.add(color));
+        }
+        if (plant.characteristics.bloomTime) {
+          plant.characteristics.bloomTime.forEach(time => bloomTimes.add(time));
+        }
+        if (plant.characteristics.nativeRange) {
+          plant.characteristics.nativeRange.forEach(range => nativeRanges.add(range));
+        }
+        if (plant.characteristics.hardinessZones) {
+          plant.characteristics.hardinessZones.forEach(zone => hardinessZones.add(zone));
+        }
+      }
+      if (plant.relationships) {
+        if (plant.relationships.hostPlantTo) {
+          plant.relationships.hostPlantTo.forEach(host => hostPlantTo.add(host));
+        }
+        if (plant.relationships.foodFor) {
+          plant.relationships.foodFor.forEach(food => foodFor.add(food));
+        }
+        if (plant.relationships.usefulFor) {
+          plant.relationships.usefulFor.forEach(use => usefulFor.add(use));
+        }
+      }
     });
 
     return {
