@@ -49,6 +49,15 @@
 
 .volume-icon {
   font-size: 32px;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
+.volume-icon img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
 }
 
 .volume-details {
@@ -220,6 +229,15 @@
 
 .button-icon {
   font-size: 36px;
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+
+.button-icon img {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
 }
 
 .button-content {
