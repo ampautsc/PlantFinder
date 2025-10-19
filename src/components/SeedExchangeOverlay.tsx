@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import './SeedExchangeOverlay.css';
-import seedIcon from '../seed_icon.png';
 
 interface SeedExchangeOverlayProps {
   hasActiveOffer: boolean;
@@ -79,7 +78,7 @@ function SeedExchangeOverlay({
           onClick={handleOfferButtonClick}
           aria-label="Offer seeds"
         >
-          <img src={seedIcon} alt="seed" className="exchange-button-icon-img" />
+          <span className="button-icon">🌰</span>
           <span className="button-count">{openOffers}</span>
         </button>
       )}

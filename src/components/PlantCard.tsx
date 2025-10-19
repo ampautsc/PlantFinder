@@ -3,7 +3,6 @@ import { Plant } from '../types/Plant';
 import { mockSeedShareService } from '../api/MockSeedShareService';
 import { PlantSeedShareVolume } from '../types/SeedShare';
 import './SeedShareBadge.css';
-import seedIcon from '../seed_icon.png';
 
 interface PlantCardProps {
   plant: Plant;
@@ -47,7 +46,7 @@ function PlantCard({ plant, onClick }: PlantCardProps) {
             <div className="seed-share-badge">
               {plantVolume.openOffers > 0 && (
                 <div className="badge-item offer-badge">
-                  <img src={seedIcon} alt="seed" className="badge-icon-img" />
+                  <span className="badge-icon">🌰</span>
                   <span className="badge-count">{plantVolume.openOffers}</span>
                 </div>
               )}
@@ -68,7 +67,7 @@ function PlantCard({ plant, onClick }: PlantCardProps) {
             <div className="seed-share-badge">
               {plantVolume.openOffers > 0 && (
                 <div className="badge-item offer-badge">
-                  <img src={seedIcon} alt="seed" className="badge-icon-img" />
+                  <span className="badge-icon">🌰</span>
                   <span className="badge-count">{plantVolume.openOffers}</span>
                 </div>
               )}
