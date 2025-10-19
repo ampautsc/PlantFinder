@@ -31,15 +31,17 @@
 }
 
 .badge-item.offer-badge {
-  background: linear-gradient(135deg, rgba(27, 94, 32, 0.95), rgba(56, 142, 60, 0.95));
+  background: linear-gradient(135deg, rgba(241, 248, 233, 0.95), rgba(249, 251, 231, 0.95));
   color: white;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  border: 2px solid #C5E1A5;
 }
 
 .badge-item.request-badge {
-  background: linear-gradient(135deg, rgba(79, 172, 254, 0.95), rgba(0, 242, 254, 0.95));
+  background: linear-gradient(135deg, rgba(0, 61, 92, 0.95), rgba(0, 61, 92, 0.95));
   color: white;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  border: 2px solid #81D4FA;
 }
 
 .badge-icon {
