@@ -101,7 +101,7 @@ function PlantCard({ plant, onClick }: PlantCardProps) {
         </div>
         <div className="detail-row">
           <span className="detail-label">Size:</span>
-          <span className="detail-value">{plant.characteristics.height}" H × {plant.characteristics.width}" W</span>
+          <span className="detail-value">{`${plant.characteristics.height}" H × ${plant.characteristics.width}" W`}</span>
         </div>
         <div className="detail-row">
           <span className="detail-label">Bloom:</span>

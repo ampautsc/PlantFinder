@@ -272,7 +272,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                 <span className="info-icon">📏</span>
                 <div className="info-details">
                   <span className="info-label">Size</span>
-                  <span className="info-value">{plant.characteristics.height}" H × {plant.characteristics.width}" W</span>
+                  <span className="info-value">{`${plant.characteristics.height}" H × ${plant.characteristics.width}" W`}</span>
                 </div>
               </div>
             </div>
