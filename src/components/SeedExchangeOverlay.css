@@ -52,7 +52,7 @@
   border: 4px solid #A5D6A7;
 }
 
-.request-button {
+.exchange-button.request-button {
   right: 16px;
   background: linear-gradient(135deg, #001932 0%, #002341 100%);
   border: 4px solid #64B5F6;
