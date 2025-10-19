@@ -78,7 +78,7 @@ function SeedExchangeOverlay({
           onClick={handleOfferButtonClick}
           aria-label="Offer seeds"
         >
-          <img src="/milkweed_seed_icon.ico" alt="Seed" className="button-icon" />
+          <span className="button-icon">🌰</span>
           <span className="button-count">{openOffers}</span>
         </button>
       )}
