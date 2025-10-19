@@ -47,10 +47,8 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.volume-icon img {
-  width: 32px;
-  height: 32px;
-  object-fit: contain;
+.volume-icon {
+  font-size: 32px;
 }
 
 .volume-details {
@@ -220,10 +218,8 @@
   box-shadow: 0 6px 20px rgba(79, 172, 254, 0.5);
 }
 
-.button-icon img {
-  width: 36px;
-  height: 36px;
-  object-fit: contain;
+.button-icon {
+  font-size: 36px;
 }
 
 .button-content {
