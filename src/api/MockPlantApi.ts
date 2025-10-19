@@ -1,29 +1,38 @@
 import { IPlantApi } from './PlantApi';
 import { Plant, PlantFilters } from '../types/Plant';
-import { plants } from '../data/Plants';
+import { PlantDataLoader } from './PlantDataLoader';
 
 /**
  * Mock implementation of the Plant API
- * Uses in-memory data for development and testing
+ * Uses dynamically loaded data from public directory
  */
 export class MockPlantApi implements IPlantApi {
-  private plants: Plant[] = plants;
+  private plantsCache: Plant[] | null = null;
 
   async getAllPlants(): Promise<Plant[]> {
+    // Load plants from data loader if not cached
+    if (!this.plantsCache) {
+      this.plantsCache = await PlantDataLoader.getAllPlants();
+    }
     // Simulate network delay
     await this.delay(300);
-    return [...this.plants];
+    return [...this.plantsCache];
   }
 
   async getPlantById(id: string): Promise<Plant | null> {
     await this.delay(200);
-    return this.plants.find(plant => plant.id === id) || null;
+    return await PlantDataLoader.getPlantById(id);
   }
 
   async searchPlants(filters: PlantFilters): Promise<Plant[]> {
     await this.delay(400);
     
-    let results = [...this.plants];
+    // Ensure plants are loaded
+    if (!this.plantsCache) {
+      this.plantsCache = await PlantDataLoader.getAllPlants();
+    }
+    
+    let results = [...this.plantsCache];
 
     // Apply search query
     if (filters.searchQuery) {
@@ -168,6 +177,11 @@ export class MockPlantApi implements IPlantApi {
   }> {
     await this.delay(200);
 
+    // Ensure plants are loaded
+    if (!this.plantsCache) {
+      this.plantsCache = await PlantDataLoader.getAllPlants();
+    }
+
     const bloomColors = new Set<string>();
     const bloomTimes = new Set<string>();
     const nativeRanges = new Set<string>();
@@ -176,7 +190,7 @@ export class MockPlantApi implements IPlantApi {
     const foodFor = new Set<string>();
     const usefulFor = new Set<string>();
 
-    this.plants.forEach(plant => {
+    this.plantsCache.forEach(plant => {
       plant.characteristics.bloomColor.forEach(color => bloomColors.add(color));
       plant.characteristics.bloomTime.forEach(time => bloomTimes.add(time));
       plant.characteristics.nativeRange.forEach(range => nativeRanges.add(range));
