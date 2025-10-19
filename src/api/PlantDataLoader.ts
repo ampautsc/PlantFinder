@@ -32,8 +32,10 @@ export class PlantDataLoader {
         throw new Error(`Failed to fetch plant index: ${response.statusText}`);
       }
       const ids = await response.json();
-      this.plantIdsCache = ids;
-      return ids;
+      // Filter out "index" to prevent trying to load index.json as a plant
+      const filteredIds = ids.filter((id: string) => id !== 'index');
+      this.plantIdsCache = filteredIds;
+      return filteredIds;
     } catch (error) {
       console.error('Error loading plant IDs:', error);
       throw error;
