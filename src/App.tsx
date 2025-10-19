@@ -17,7 +17,6 @@ function App() {
   const [allPlants, setAllPlants] = useState<Plant[]>([]);
   const [loading, setLoading] = useState(true);
   const [filters, setFilters] = useState<PlantFilters>({});
-  const [showFilters] = useState(true);
   const [showFeedbackModal, setShowFeedbackModal] = useState(false);
   const [showAddImageModal, setShowAddImageModal] = useState(false);
   const [selectedPlant, setSelectedPlant] = useState<Plant | null>(null);
@@ -83,7 +82,7 @@ function App() {
           filterOptions={filterOptions}
           onFiltersChange={handleFiltersChange}
           onClearFilters={handleClearFilters}
-          isVisible={showFilters}
+          isVisible={true}
           searchQuery={filters.searchQuery || ''}
           onSearchChange={handleSearchChange}
         />

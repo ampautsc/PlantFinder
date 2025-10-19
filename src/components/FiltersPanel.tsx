@@ -72,7 +72,7 @@ function FiltersPanel({
     setExpandedCategory(newExpandedCategory);
     
     // Update position for expansion panel
-    if (newExpandedCategory && buttonRefs.current[category]) {
+    if (newExpandedCategory) {
       const buttonElement = buttonRefs.current[category];
       if (buttonElement) {
         setExpansionPosition(buttonElement.offsetTop);
