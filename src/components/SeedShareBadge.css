@@ -8,7 +8,7 @@
 }
 
 .badge-item {
-  background: rgba(255, 255, 255, 0.95);
+  background: rgba(197, 225, 165, 0.95);
   backdrop-filter: blur(10px);
   border-radius: 20px;
   padding: 6px 12px;
@@ -31,17 +31,17 @@
 }
 
 .badge-item.offer-badge {
-  background: linear-gradient(135deg, rgba(241, 248, 233, 0.95), rgba(249, 251, 231, 0.95));
+  background: linear-gradient(135deg, rgba(230, 245, 210, 0.95), rgba(240, 250, 220, 0.95));
   color: white;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-  border: 2px solid #C5E1A5;
+  border: 2px solid #A5D6A7;
 }
 
 .badge-item.request-badge {
-  background: linear-gradient(135deg, rgba(0, 61, 92, 0.95), rgba(0, 61, 92, 0.95));
+  background: linear-gradient(135deg, rgba(0, 25, 50, 0.95), rgba(0, 35, 65, 0.95));
   color: white;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-  border: 2px solid #81D4FA;
+  border: 2px solid #64B5F6;
 }
 
 .badge-icon {
