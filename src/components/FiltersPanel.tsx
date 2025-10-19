@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { PlantFilters } from '../types/Plant';
 
 interface FiltersPanelProps {
@@ -15,6 +15,8 @@ interface FiltersPanelProps {
   onFiltersChange: (filters: PlantFilters) => void;
   onClearFilters: () => void;
   isVisible: boolean;
+  searchQuery: string;
+  onSearchChange: (query: string) => void;
 }
 
 type FilterCategory = 'sun' | 'moisture' | 'soil' | 'bloomColor' | 'bloomTime' | 'height' | 'width' | 'perennial' | 'nativeRange' | 'hardinessZones' | 'foodFor' | 'usefulFor';
@@ -25,8 +27,12 @@ function FiltersPanel({
   onFiltersChange,
   onClearFilters,
   isVisible,
+  searchQuery,
+  onSearchChange,
 }: FiltersPanelProps) {
   const [expandedCategory, setExpandedCategory] = useState<FilterCategory | null>(null);
+  const [expansionPosition, setExpansionPosition] = useState<number>(0);
+  const buttonRefs = useRef<{ [key: string]: HTMLButtonElement | null }>({});
 
   const toggleArrayFilter = (key: keyof PlantFilters, value: string) => {
     const currentValues = (filters[key] as string[] | undefined) || [];
@@ -62,7 +68,16 @@ function FiltersPanel({
   };
 
   const toggleCategory = (category: FilterCategory) => {
-    setExpandedCategory(expandedCategory === category ? null : category);
+    const newExpandedCategory = expandedCategory === category ? null : category;
+    setExpandedCategory(newExpandedCategory);
+    
+    // Update position for expansion panel
+    if (newExpandedCategory) {
+      const buttonElement = buttonRefs.current[category];
+      if (buttonElement) {
+        setExpansionPosition(buttonElement.offsetTop);
+      }
+    }
   };
 
   const hasActiveFilters = (category: FilterCategory): boolean => {
@@ -113,9 +128,20 @@ function FiltersPanel({
   return (
     <div className={`filters-panel-new ${isVisible ? '' : 'hidden'} ${expandedCategory ? 'expanded' : ''}`}>
       <div className="filter-buttons">
+        <div className="filter-search-container">
+          <input
+            type="text"
+            className="filter-search-input"
+            placeholder="🔍 Search..."
+            value={searchQuery}
+            onChange={(e) => onSearchChange(e.target.value)}
+          />
+        </div>
+        
         {filterCategories.map(category => (
           <button
             key={category.key}
+            ref={(el) => { buttonRefs.current[category.key] = el; }}
             className={`filter-icon-btn ${hasActiveFilters(category.key) ? 'active' : ''} ${expandedCategory === category.key ? 'expanded' : ''}`}
             onClick={() => toggleCategory(category.key)}
             title={category.label}
@@ -135,7 +161,7 @@ function FiltersPanel({
 
       {/* Expanded filter options */}
       {expandedCategory && (
-        <div className="filter-expansion">
+        <div className="filter-expansion" style={{ top: `${expansionPosition}px` }}>
           {expandedCategory === 'sun' && (
             <div className="filter-options-row">
               {(['full-sun', 'partial-sun', 'partial-shade', 'full-shade'] as const).map(sun => (
