@@ -74,7 +74,7 @@ function SeedShareActions({
       {/* Volume Display */}
       <div className="seed-share-volume">
         <div className="volume-item">
-          <span className="volume-icon">🌰</span>
+          <span className="volume-icon">🌱</span>
           <div className="volume-details">
             <span className="volume-count">{openOffers}</span>
             <span className="volume-label">Available Packets</span>
@@ -147,7 +147,7 @@ function SeedShareActions({
                 onClick={handleOfferButtonClick}
                 disabled={hasActiveRequest}
               >
-                <span className="button-icon">🌰</span>
+                <span className="button-icon">🌱</span>
                 <div className="button-content">
                   <span className="button-title">Offer Seeds</span>
                   <span className="button-subtitle">Share up to 10 packets</span>
