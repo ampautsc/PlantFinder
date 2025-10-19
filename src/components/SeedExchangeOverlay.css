@@ -63,13 +63,6 @@
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
 }
 
-.exchange-button-icon-img {
-  width: 32px;
-  height: 32px;
-  object-fit: contain;
-  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
-}
-
 .button-count {
   font-size: 18px;
   color: white;
@@ -330,11 +323,6 @@
 
   .button-icon {
     font-size: 28px;
-  }
-
-  .exchange-button-icon-img {
-    width: 28px;
-    height: 28px;
   }
 
   .button-count {
