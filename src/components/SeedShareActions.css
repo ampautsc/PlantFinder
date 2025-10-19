@@ -85,6 +85,12 @@
   border: 2px solid #C5E0B4;
 }
 
+.status-badge.request-badge {
+  background: #00B0F0;
+  box-shadow: 0 2px 8px rgba(0, 176, 240, 0.3);
+  border: 2px solid #DEEBF7;
+}
+
 .status-header {
   display: flex;
   align-items: center;
