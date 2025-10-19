@@ -77,10 +77,10 @@
 }
 
 .status-badge {
-  background: #4CAF50;
+  background: #1B5E20;
   border-radius: 12px;
   padding: 16px;
-  box-shadow: 0 2px 8px rgba(76, 175, 80, 0.3);
+  box-shadow: 0 2px 8px rgba(27, 94, 32, 0.3);
   color: white;
 }
 
@@ -201,12 +201,12 @@
 }
 
 .offer-button {
-  background: linear-gradient(135deg, #FF8C00 0%, #FFB347 100%);
-  box-shadow: 0 4px 15px rgba(255, 140, 0, 0.4);
+  background: linear-gradient(135deg, #1B5E20 0%, #388E3C 100%);
+  box-shadow: 0 4px 15px rgba(27, 94, 32, 0.4);
 }
 
 .offer-button:hover {
-  box-shadow: 0 6px 20px rgba(255, 140, 0, 0.5);
+  box-shadow: 0 6px 20px rgba(27, 94, 32, 0.5);
 }
 
 .request-button {
