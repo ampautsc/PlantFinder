@@ -52,56 +52,7 @@ body {
   opacity: 0.9;
 }
 
-/* Search Bar */
-.search-bar {
-  padding: 1rem;
-  background-color: var(--card-background);
-  border-bottom: 1px solid var(--border-color);
-  position: sticky;
-  top: 80px;
-  z-index: 99;
-}
-
-.search-input {
-  width: 100%;
-  padding: 0.75rem;
-  font-size: 1rem;
-  border: 2px solid var(--border-color);
-  border-radius: 8px;
-  outline: none;
-  transition: border-color 0.3s;
-}
-
-.search-input:focus {
-  border-color: var(--primary-color);
-}
-
-/* Filter Toggle Button */
-.filter-toggle-btn {
-  width: 100%;
-  padding: 0.75rem;
-  margin-top: 0.5rem;
-  background-color: var(--secondary-color);
-  color: white;
-  border: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  font-weight: 600;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-  transition: background-color 0.3s;
-}
-
-.filter-toggle-btn:hover {
-  background-color: var(--primary-color);
-}
-
-.filter-toggle-btn:active {
-  transform: scale(0.98);
-}
+/* Search Bar - No longer needed as search moved to filter panel */
 
 /* Main Content */
 .main-content {
@@ -143,6 +94,27 @@ body {
   flex-shrink: 0;
   background-color: #f8f9fa;
   border-right: 2px solid #e9ecef;
+  position: relative;
+}
+
+.filter-search-container {
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+.filter-search-input {
+  width: 100%;
+  padding: 0.625rem;
+  font-size: 0.875rem;
+  border: 2px solid #e9ecef;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.3s;
+  background-color: #ffffff;
+}
+
+.filter-search-input:focus {
+  border-color: var(--primary-color);
 }
 
 .filter-icon-btn {
@@ -222,18 +194,18 @@ body {
 
 /* Filter Expansion Panel */
 .filter-expansion {
-  position: fixed;
+  position: absolute;
   left: 180px;
   top: 0;
-  bottom: 0;
-  width: 250px;
+  width: 280px;
+  max-height: 400px;
   background-color: #ffffff;
-  border-left: 1px solid #e9ecef;
-  border-right: 2px solid #dee2e6;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
   padding: 1rem;
   animation: slideRight 0.2s ease-out;
   overflow-y: auto;
-  box-shadow: 2px 0 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   z-index: 98;
 }
 
@@ -487,10 +459,6 @@ body {
     display: flex;
   }
 
-  .filter-toggle-btn {
-    display: none;
-  }
-
   .results-container {
     height: 100%;
     overflow-y: auto;
@@ -499,10 +467,6 @@ body {
 
   .results-grid {
     grid-template-columns: repeat(2, 1fr);
-  }
-
-  .search-bar {
-    top: 100px;
   }
 }
 

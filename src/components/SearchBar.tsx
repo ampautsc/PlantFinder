@@ -1,11 +1,9 @@
 interface SearchBarProps {
   searchQuery: string;
   onSearchChange: (query: string) => void;
-  onToggleFilters: () => void;
-  activeFilterCount: number;
 }
 
-function SearchBar({ searchQuery, onSearchChange, onToggleFilters, activeFilterCount }: SearchBarProps) {
+function SearchBar({ searchQuery, onSearchChange }: SearchBarProps) {
   return (
     <div className="search-bar">
       <input
@@ -15,9 +13,6 @@ function SearchBar({ searchQuery, onSearchChange, onToggleFilters, activeFilterC
         value={searchQuery}
         onChange={(e) => onSearchChange(e.target.value)}
       />
-      <button className="filter-toggle-btn" onClick={onToggleFilters}>
-        🔍 Filters {activeFilterCount > 0 && `(${activeFilterCount})`}
-      </button>
     </div>
   );
 }

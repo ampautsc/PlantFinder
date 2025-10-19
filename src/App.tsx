@@ -4,7 +4,6 @@ import { Plant, PlantFilters } from './types/Plant';
 import { MockPlantApi } from './api/MockPlantApi';
 import PlantCard from './components/PlantCard';
 import FiltersPanel from './components/FiltersPanel';
-import SearchBar from './components/SearchBar';
 import FeedbackButton from './components/FeedbackButton';
 import FeedbackModal from './components/FeedbackModal';
 import AddPlantImageButton from './components/AddPlantImageButton';
@@ -18,7 +17,7 @@ function App() {
   const [allPlants, setAllPlants] = useState<Plant[]>([]);
   const [loading, setLoading] = useState(true);
   const [filters, setFilters] = useState<PlantFilters>({});
-  const [showFilters, setShowFilters] = useState(false);
+  const [showFilters] = useState(true);
   const [showFeedbackModal, setShowFeedbackModal] = useState(false);
   const [showAddImageModal, setShowAddImageModal] = useState(false);
   const [selectedPlant, setSelectedPlant] = useState<Plant | null>(null);
@@ -71,26 +70,12 @@ function App() {
     setFilters({});
   };
 
-  const activeFilterCount = Object.keys(filters).filter(key => {
-    const value = filters[key as keyof PlantFilters];
-    if (key === 'searchQuery') return false;
-    if (Array.isArray(value)) return value.length > 0;
-    return value !== undefined;
-  }).length;
-
   return (
     <div className="app">
       <header className="header">
         <h1>🌸 PlantFinder</h1>
         <p>Camp Monarch's Wildflower Search</p>
       </header>
-
-      <SearchBar 
-        searchQuery={filters.searchQuery || ''} 
-        onSearchChange={handleSearchChange}
-        onToggleFilters={() => setShowFilters(!showFilters)}
-        activeFilterCount={activeFilterCount}
-      />
 
       <div className="main-content">
         <FiltersPanel
@@ -99,6 +84,8 @@ function App() {
           onFiltersChange={handleFiltersChange}
           onClearFilters={handleClearFilters}
           isVisible={showFilters}
+          searchQuery={filters.searchQuery || ''}
+          onSearchChange={handleSearchChange}
         />
 
         <div className="results-container" ref={resultsContainerRef}>
