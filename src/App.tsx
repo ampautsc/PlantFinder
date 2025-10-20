@@ -72,8 +72,13 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>🌸 PlantFinder</h1>
-        <p>Camp Monarch's Wildflower Search</p>
+        <div className="header-content">
+          <img src="/camp-monarch-logo-gold.png" alt="Camp Monarch" className="header-logo" />
+          <div className="header-text">
+            <h1>PlantFinder</h1>
+            <p>Camp Monarch's Wildflower Search</p>
+          </div>
+        </div>
       </header>
 
       <div className="main-content">

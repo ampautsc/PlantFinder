@@ -17,15 +17,16 @@
 
 /* Container */
 .plant-detail-container {
-  background-color: #fff;
+  background-color: #2a2a2a;
   border-radius: 16px;
   max-width: 800px;
   width: 100%;
   max-height: 90vh;
   overflow-y: auto;
   position: relative;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
   animation: slideUp 0.3s ease-out;
+  border: 1px solid #3a3a3a;
 }
 
 @keyframes slideUp {
@@ -48,22 +49,22 @@
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: rgba(255, 255, 255, 0.95);
-  border: 2px solid #ddd;
+  background-color: rgba(42, 42, 42, 0.95);
+  border: 2px solid #3a3a3a;
   font-size: 1.5rem;
-  color: #666;
+  color: #999;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
   transition: all 0.2s;
   z-index: 10;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 .close-button:hover {
-  background-color: #f5f5f5;
-  color: #333;
+  background-color: #333333;
+  color: #e0e0e0;
   transform: scale(1.05);
 }
 
@@ -83,7 +84,7 @@
   border-radius: 12px;
   overflow: hidden;
   margin-bottom: 1.5rem;
-  background-color: #f5f5f5;
+  background-color: #1a1a1a;
   position: relative;
 }
 
@@ -97,12 +98,13 @@
   width: 100%;
   height: 280px;
   border-radius: 12px;
-  background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+  background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 1.5rem;
   position: relative;
+  border: 2px dashed #3a3a3a;
 }
 
 .placeholder-icon {
@@ -118,7 +120,7 @@
 .detail-common-name {
   font-size: 2rem;
   font-weight: 700;
-  color: #2e7d32;
+  color: #d4a574;
   margin-bottom: 0.5rem;
   line-height: 1.2;
 }
@@ -126,7 +128,7 @@
 .detail-scientific-name {
   font-size: 1.25rem;
   font-style: italic;
-  color: #666;
+  color: #999;
   font-weight: 400;
 }
 
@@ -143,18 +145,19 @@
 .section-title {
   font-size: 1.25rem;
   font-weight: 600;
-  color: #333;
+  color: #d4a574;
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid #e0e0e0;
+  border-bottom: 2px solid #3a3a3a;
 }
 
 /* Essential Information Grid */
 .essential-info {
-  background-color: #f9f9f9;
+  background-color: #222222;
   padding: 1.5rem;
   border-radius: 12px;
   margin-bottom: 2rem;
+  border: 1px solid #3a3a3a;
 }
 
 .info-grid {
@@ -168,9 +171,9 @@
   align-items: center;
   gap: 1rem;
   padding: 0.75rem;
-  background-color: #fff;
+  background-color: #2a2a2a;
   border-radius: 8px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #3a3a3a;
 }
 
 .info-icon {
@@ -186,7 +189,7 @@
 
 .info-label {
   font-size: 0.85rem;
-  color: #888;
+  color: #999;
   text-transform: uppercase;
   font-weight: 500;
   letter-spacing: 0.5px;
@@ -194,7 +197,7 @@
 
 .info-value {
   font-size: 1rem;
-  color: #333;
+  color: #e0e0e0;
   font-weight: 500;
 }
 
@@ -204,7 +207,7 @@
 }
 
 .plant-description {
-  color: #555;
+  color: #bbb;
   font-size: 1rem;
   margin-bottom: 1rem;
 }
@@ -219,7 +222,7 @@
 
 .bloom-label {
   font-weight: 600;
-  color: #666;
+  color: #999;
   font-size: 0.95rem;
 }
 
@@ -230,26 +233,27 @@
 }
 
 .bloom-tag {
-  background-color: #e8f5e9;
-  color: #2e7d32;
+  background-color: #d4a574;
+  color: #1a1a1a;
   padding: 0.35rem 0.75rem;
   border-radius: 16px;
   font-size: 0.9rem;
-  font-weight: 500;
+  font-weight: 600;
   text-transform: capitalize;
 }
 
 .bloom-value {
-  color: #555;
+  color: #bbb;
   font-size: 0.95rem;
   text-transform: capitalize;
 }
 
 /* Wildlife Section */
 .wildlife-section {
-  background-color: #fff8e1;
+  background-color: #2a2515;
   padding: 1.5rem;
   border-radius: 12px;
+  border: 1px solid #3a3a3a;
 }
 
 .wildlife-info {
@@ -270,14 +274,14 @@
 
 .wildlife-label {
   font-weight: 600;
-  color: #666;
+  color: #999;
   display: block;
   margin-bottom: 0.25rem;
   font-size: 0.95rem;
 }
 
 .wildlife-value {
-  color: #555;
+  color: #bbb;
   font-size: 0.95rem;
   text-transform: capitalize;
 }
@@ -288,21 +292,22 @@
 }
 
 .expandable-section {
-  border: 1px solid #e0e0e0;
+  border: 1px solid #3a3a3a;
   border-radius: 8px;
   margin-bottom: 0.75rem;
   overflow: hidden;
   transition: all 0.2s;
+  background-color: #222222;
 }
 
 .expandable-section:hover {
-  border-color: #4CAF50;
+  border-color: #d4a574;
 }
 
 .section-header {
   width: 100%;
   padding: 1rem 1.25rem;
-  background-color: #fff;
+  background-color: #2a2a2a;
   border: none;
   display: flex;
   align-items: center;
@@ -313,11 +318,11 @@
 }
 
 .section-header:hover {
-  background-color: #f9f9f9;
+  background-color: #333333;
 }
 
 .section-header.expanded {
-  background-color: #f5f5f5;
+  background-color: #333333;
 }
 
 .section-header-text {
@@ -325,7 +330,7 @@
   align-items: center;
   gap: 0.75rem;
   font-weight: 600;
-  color: #333;
+  color: #e0e0e0;
 }
 
 .section-icon {
@@ -334,7 +339,7 @@
 
 .expand-icon {
   font-size: 1.5rem;
-  color: #4CAF50;
+  color: #d4a574;
   font-weight: 300;
   transition: transform 0.2s;
 }
@@ -345,8 +350,8 @@
 
 .section-content {
   padding: 1.25rem;
-  background-color: #fafafa;
-  border-top: 1px solid #e8e8e8;
+  background-color: #1a1a1a;
+  border-top: 1px solid #3a3a3a;
   animation: expandDown 0.2s ease-out;
 }
 
@@ -364,7 +369,7 @@
 /* Instruction List */
 .instruction-list {
   padding-left: 1.5rem;
-  color: #555;
+  color: #bbb;
   line-height: 1.8;
 }
 
@@ -391,7 +396,7 @@
 }
 
 .links-list a {
-  color: #2e7d32;
+  color: #d4a574;
   text-decoration: none;
   font-weight: 500;
   display: inline-flex;
@@ -401,14 +406,14 @@
 }
 
 .links-list a:hover {
-  color: #1b5e20;
+  color: #c89656;
   text-decoration: underline;
 }
 
 .links-list a::before {
   content: '→';
   margin-right: 0.5rem;
-  color: #4CAF50;
+  color: #d4a574;
 }
 
 /* Responsive Design */
@@ -479,6 +484,6 @@
 /* Focus Styles for Accessibility */
 .close-button:focus,
 .section-header:focus {
-  outline: 2px solid #4CAF50;
+  outline: 2px solid #d4a574;
   outline-offset: 2px;
 }

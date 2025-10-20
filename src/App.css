@@ -5,13 +5,15 @@
 }
 
 :root {
-  --primary-color: #4CAF50;
-  --secondary-color: #8BC34A;
-  --text-color: #333;
-  --border-color: #ddd;
-  --background-color: #f5f5f5;
-  --card-background: #fff;
-  --shadow: 0 2px 4px rgba(0,0,0,0.1);
+  --primary-color: #d4a574;
+  --secondary-color: #c89656;
+  --text-color: #e0e0e0;
+  --border-color: #3a3a3a;
+  --background-color: #1a1a1a;
+  --card-background: #2a2a2a;
+  --shadow: 0 2px 4px rgba(0,0,0,0.3);
+  --panel-background: #222222;
+  --hover-background: #333333;
 }
 
 body {
@@ -33,23 +35,43 @@ body {
 
 /* Header */
 .header {
-  background-color: var(--primary-color);
+  background-color: #1a1a1a;
   color: white;
   padding: 1rem;
   box-shadow: var(--shadow);
   position: sticky;
   top: 0;
   z-index: 100;
+  border-bottom: 2px solid var(--primary-color);
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header-logo {
+  height: 60px;
+  width: 60px;
+  object-fit: contain;
+}
+
+.header-text {
+  display: flex;
+  flex-direction: column;
 }
 
 .header h1 {
   font-size: 1.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25rem;
+  color: var(--primary-color);
 }
 
 .header p {
   font-size: 0.9rem;
   opacity: 0.9;
+  color: var(--text-color);
 }
 
 /* Search Bar - No longer needed as search moved to filter panel */
@@ -64,8 +86,8 @@ body {
 
 /* New Filters Panel - Solid Left Toolbar */
 .filters-panel-new {
-  background-color: #ffffff;
-  border-right: 2px solid #dee2e6;
+  background-color: var(--panel-background);
+  border-right: 2px solid var(--border-color);
   display: flex;
   flex-direction: row;
   width: 180px;
@@ -75,7 +97,7 @@ body {
   overflow-y: auto;
   overflow-x: hidden;
   position: relative;
-  box-shadow: 2px 0 4px rgba(0,0,0,0.05);
+  box-shadow: 2px 0 4px rgba(0,0,0,0.3);
   flex-shrink: 0;
   flex-grow: 0;
 }
@@ -96,8 +118,8 @@ body {
   width: 100%;
   flex-shrink: 0;
   flex-grow: 0;
-  background-color: #f8f9fa;
-  border-right: 2px solid #e9ecef;
+  background-color: var(--panel-background);
+  border-right: 2px solid var(--border-color);
   position: relative;
   overflow-x: hidden;
 }
@@ -111,11 +133,12 @@ body {
   width: 100%;
   padding: 0.625rem;
   font-size: 0.875rem;
-  border: 2px solid #e9ecef;
+  border: 2px solid var(--border-color);
   border-radius: 6px;
   outline: none;
   transition: border-color 0.3s;
-  background-color: #ffffff;
+  background-color: var(--card-background);
+  color: var(--text-color);
 }
 
 .filter-search-input:focus {
@@ -126,8 +149,8 @@ body {
   width: 100%;
   height: 50px;
   border-radius: 4px;
-  background-color: #ffffff;
-  border: 2px solid #e9ecef;
+  background-color: var(--card-background);
+  border: 2px solid var(--border-color);
   cursor: pointer;
   display: flex;
   flex-direction: row;
@@ -138,23 +161,26 @@ body {
   padding: 0.5rem 0.875rem;
   overflow: hidden;
   min-width: 0;
+  color: var(--text-color);
 }
 
 .filter-icon-btn:hover {
-  background-color: #e9ecef;
-  border-color: #adb5bd;
+  background-color: var(--hover-background);
+  border-color: var(--primary-color);
 }
 
 .filter-icon-btn.active {
   background-color: var(--primary-color);
-  color: white;
+  color: #1a1a1a;
   border-color: var(--primary-color);
+  font-weight: 600;
 }
 
 .filter-icon-btn.expanded {
   background-color: var(--secondary-color);
-  color: white;
+  color: #1a1a1a;
   border-color: var(--secondary-color);
+  font-weight: 600;
 }
 
 .filter-icon {
@@ -174,7 +200,7 @@ body {
 }
 
 .filter-icon-btn.active .filter-label {
-  color: white;
+  color: #1a1a1a;
 }
 
 .clear-filters-icon-btn {
@@ -212,14 +238,14 @@ body {
   min-width: 280px;
   max-width: 280px;
   max-height: 400px;
-  background-color: #ffffff;
-  border: 2px solid #dee2e6;
+  background-color: var(--card-background);
+  border: 2px solid var(--border-color);
   border-radius: 8px;
   padding: 1rem;
   animation: slideRight 0.2s ease-out;
   overflow-y: auto;
   overflow-x: hidden;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
   z-index: 1000;
 }
 
@@ -258,18 +284,19 @@ body {
   padding: 0.5rem 1rem;
   border: 1px solid var(--border-color);
   border-radius: 4px;
-  background-color: white;
+  background-color: var(--card-background);
   cursor: pointer;
   font-size: 0.9rem;
   transition: all 0.2s;
   user-select: none;
   flex-shrink: 0;
   white-space: nowrap;
+  color: var(--text-color);
 }
 
 .filter-chip:hover {
   border-color: var(--primary-color);
-  background-color: #f0f0f0;
+  background-color: var(--hover-background);
 }
 
 .filter-chip:active {
@@ -278,8 +305,9 @@ body {
 
 .filter-chip.selected {
   background-color: var(--primary-color);
-  color: white;
+  color: #1a1a1a;
   border-color: var(--primary-color);
+  font-weight: 600;
 }
 
 .range-inputs {
@@ -294,6 +322,8 @@ body {
   border: 1px solid var(--border-color);
   border-radius: 4px;
   font-size: 0.9rem;
+  background-color: var(--card-background);
+  color: var(--text-color);
 }
 
 .range-input:focus {
@@ -316,7 +346,8 @@ body {
 .results-header {
   margin-bottom: 1rem;
   font-size: 1rem;
-  color: #666;
+  color: var(--text-color);
+  opacity: 0.8;
 }
 
 .results-grid {
@@ -333,11 +364,13 @@ body {
   box-shadow: var(--shadow);
   transition: transform 0.2s, box-shadow 0.2s;
   cursor: pointer;
+  border: 1px solid var(--border-color);
 }
 
 .plant-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  border-color: var(--primary-color);
 }
 
 .plant-card:active {
@@ -370,7 +403,7 @@ body {
   height: 200px;
   margin-bottom: 0.75rem;
   border-radius: 8px;
-  background: linear-gradient(135deg, #f5f5f5 0%, #e0e0e0 100%);
+  background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -379,7 +412,7 @@ body {
 }
 
 .no-image-indicator {
-  color: #999;
+  color: #666;
   font-size: 1rem;
   font-weight: 500;
   text-align: center;
@@ -393,7 +426,7 @@ body {
 
 .plant-card .scientific-name {
   font-style: italic;
-  color: #666;
+  color: #999;
   font-size: 0.85rem;
   margin-bottom: 0;
 }
@@ -403,14 +436,16 @@ body {
   text-align: center;
   padding: 2rem;
   font-size: 1.1rem;
-  color: #666;
+  color: var(--text-color);
+  opacity: 0.8;
 }
 
 /* Empty State */
 .empty-state {
   text-align: center;
   padding: 3rem 1rem;
-  color: #666;
+  color: var(--text-color);
+  opacity: 0.8;
 }
 
 .empty-state h3 {
