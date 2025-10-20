@@ -47,7 +47,7 @@ The Azure Static Web Apps action (`Azure/static-web-apps-deploy@v1`) uses Micros
 4. Set `skip_app_build: true` to skip Oryx build
 
 **Expected Time Savings:**
-- First run (cold cache): ~5-6 minutes (npm install outside Docker + npm caching)
+- First run (cold cache): ~2-3 minutes (npm install outside Docker + npm caching)
 - Subsequent runs (warm cache): ~10-20 seconds (cache hit + build)
 - **Target achieved:** <1 minute for cached builds
 
@@ -146,6 +146,6 @@ The `package-lock.json` is committed, which is good. Ensure:
 - **Con:** Still dependent on GitHub Actions cache availability
 
 ## References
-- [Azure Static Web Apps CI/CD](https://docs.microsoft.com/azure/static-web-apps/github-actions-workflow)
+- [Azure Static Web Apps CI/CD](https://learn.microsoft.com/azure/static-web-apps/github-actions-workflow)
 - [GitHub Actions Setup Node](https://github.com/actions/setup-node)
 - [npm ci documentation](https://docs.npmjs.com/cli/v8/commands/npm-ci)
