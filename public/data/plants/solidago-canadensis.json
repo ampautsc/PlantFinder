@@ -11,16 +11,81 @@
   "characteristics": {
     "height": 48,
     "width": 24,
-    "bloomColor": ["yellow"],
-    "bloomTime": ["late summer", "fall"],
+    "bloomColor": [
+      "yellow"
+    ],
+    "bloomTime": [
+      "late summer",
+      "fall"
+    ],
     "perennial": true,
-    "nativeRange": ["Maine", "New Hampshire", "Vermont", "Massachusetts", "Rhode Island", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Alabama", "Mississippi", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Kansas", "Nebraska", "South Dakota", "North Dakota", "Montana", "Wyoming", "Colorado", "New Mexico", "Arizona", "Idaho", "Washington", "Oregon"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Alabama",
+      "Mississippi",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota",
+      "Montana",
+      "Wyoming",
+      "Colorado",
+      "New Mexico",
+      "Arizona",
+      "Idaho",
+      "Washington",
+      "Oregon"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
   },
   "relationships": {
     "hostPlantTo": [],
-    "foodFor": ["butterflies", "bees", "birds"],
-    "usefulFor": ["pollinator garden", "naturalized areas", "fall color"]
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "birds"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "naturalized areas",
+      "fall color"
+    ]
   },
-  "imageUrl": "/images/plants/solidago-canadensis/solidago-canadensis-2025-10-16T00-21-10-633Z.jpg"
+  "imageUrl": "/images/plants/solidago-canadensis/solidago-canadensis-2025-10-16T00-21-10-633Z.jpg",
+  "thumbnailUrl": "/images/plants/solidago-canadensis/solidago-canadensis-2025-10-16T00-21-10-633Z-thumb.jpg"
 }

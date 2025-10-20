@@ -11,16 +11,68 @@
   "characteristics": {
     "height": 36,
     "width": 18,
-    "bloomColor": ["white"],
-    "bloomTime": ["spring", "early summer"],
+    "bloomColor": [
+      "white"
+    ],
+    "bloomTime": [
+      "spring",
+      "early summer"
+    ],
     "perennial": true,
-    "nativeRange": ["Maine", "Vermont", "New York", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Alabama", "Mississippi", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Louisiana", "Oklahoma", "Texas", "Kansas", "Nebraska", "South Dakota", "North Dakota"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8"]
+    "nativeRange": [
+      "Maine",
+      "Vermont",
+      "New York",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Alabama",
+      "Mississippi",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Louisiana",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
   },
   "relationships": {
     "hostPlantTo": [],
-    "foodFor": ["hummingbirds", "bees"],
-    "usefulFor": ["pollinator garden", "clay soil", "wildlife habitat"]
+    "foodFor": [
+      "hummingbirds",
+      "bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "clay soil",
+      "wildlife habitat"
+    ]
   },
-  "imageUrl": "/images/plants/penstemon-digitalis/penstemon-digitalis-2025-10-16T00-19-42-297Z.jpg"
+  "imageUrl": "/images/plants/penstemon-digitalis/penstemon-digitalis-2025-10-16T00-19-42-297Z.jpg",
+  "thumbnailUrl": "/images/plants/penstemon-digitalis/penstemon-digitalis-2025-10-16T00-19-42-297Z-thumb.jpg"
 }

@@ -11,16 +11,72 @@
   "characteristics": {
     "height": 36,
     "width": 18,
-    "bloomColor": ["red"],
-    "bloomTime": ["summer", "fall"],
+    "bloomColor": [
+      "red"
+    ],
+    "bloomTime": [
+      "summer",
+      "fall"
+    ],
     "perennial": true,
-    "nativeRange": ["Maine", "New Hampshire", "Vermont", "Massachusetts", "Rhode Island", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Florida", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Texas", "Kansas"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
   },
   "relationships": {
     "hostPlantTo": [],
-    "foodFor": ["hummingbirds", "butterflies"],
-    "usefulFor": ["hummingbird garden", "rain garden", "shade garden"]
+    "foodFor": [
+      "hummingbirds",
+      "butterflies"
+    ],
+    "usefulFor": [
+      "hummingbird garden",
+      "rain garden",
+      "shade garden"
+    ]
   },
-  "imageUrl": "/images/plants/lobelia-cardinalis/lobelia-cardinalis-2025-10-16T00-35-09-665Z.jpg"
+  "imageUrl": "/images/plants/lobelia-cardinalis/lobelia-cardinalis-2025-10-16T00-35-09-665Z.jpg",
+  "thumbnailUrl": "/images/plants/lobelia-cardinalis/lobelia-cardinalis-2025-10-16T00-35-09-665Z-thumb.jpg"
 }

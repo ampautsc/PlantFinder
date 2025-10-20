@@ -33,6 +33,7 @@ export interface Plant {
   characteristics: PlantCharacteristics;
   relationships: PlantRelationships;
   imageUrl?: string;
+  thumbnailUrl?: string; // Smaller image for cards (target: ≤25KB)
 }
 
 // Filter criteria interfaces
