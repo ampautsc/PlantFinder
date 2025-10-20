@@ -30,4 +30,7 @@ dist-ssr
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Ignore PNG files except in docs/screenshots directory
 *.png
+!docs/screenshots/*.png
