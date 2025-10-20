@@ -73,7 +73,7 @@ function App() {
     <div className="app">
       <header className="header">
         <div className="header-content">
-          <img src="/camp-monarch-logo-gold.png" alt="Camp Monarch" className="header-logo" />
+          <img src="/images/Camp Monarch_LOGO B1_gold.png" alt="Camp Monarch" className="header-logo" />
           <div className="header-text">
             <h1>PlantFinder</h1>
             <p>Camp Monarch's Wildflower Search</p>
