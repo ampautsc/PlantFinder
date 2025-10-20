@@ -398,51 +398,6 @@ body {
   margin-bottom: 0;
 }
 
-.plant-card .description {
-  font-size: 0.95rem;
-  line-height: 1.5;
-  margin-bottom: 1rem;
-  color: #555;
-}
-
-.plant-details {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  font-size: 0.9rem;
-}
-
-.detail-row {
-  display: flex;
-  gap: 0.5rem;
-}
-
-.detail-label {
-  font-weight: 600;
-  color: #555;
-  min-width: 80px;
-}
-
-.detail-value {
-  color: #666;
-  flex: 1;
-}
-
-.tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.25rem;
-  margin-top: 0.75rem;
-}
-
-.tag {
-  background-color: var(--secondary-color);
-  color: white;
-  padding: 0.25rem 0.5rem;
-  border-radius: 12px;
-  font-size: 0.8rem;
-}
-
 /* Loading State */
 .loading {
   text-align: center;
