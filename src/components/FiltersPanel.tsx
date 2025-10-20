@@ -39,15 +39,17 @@ function FiltersPanel({
 
   // Handle click outside to close expansion panel
   useEffect(() => {
+    if (!expandedCategory) return;
+
     const handleClickOutside = (event: MouseEvent) => {
-      if (expandedCategory) {
-        const target = event.target as Node;
-        const clickedInsideExpansion = expansionPanelRef.current?.contains(target);
-        const clickedInsideFiltersPanel = filtersPanelRef.current?.contains(target);
-        
-        if (!clickedInsideExpansion && !clickedInsideFiltersPanel) {
-          setExpandedCategory(null);
-        }
+      const target = event.target as Element | null;
+      if (!target) return;
+
+      const clickedInsideExpansion = expansionPanelRef.current?.contains(target);
+      const clickedInsideFiltersPanel = filtersPanelRef.current?.contains(target);
+      
+      if (!clickedInsideExpansion && !clickedInsideFiltersPanel) {
+        setExpandedCategory(null);
       }
     };
 
