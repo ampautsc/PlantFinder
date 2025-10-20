@@ -32,7 +32,7 @@ function FiltersPanel({
   onSearchChange,
 }: FiltersPanelProps) {
   const [expandedCategory, setExpandedCategory] = useState<FilterCategory | null>(null);
-  const [expansionPosition, setExpansionPosition] = useState<number>(0);
+  const [expansionPosition, setExpansionPosition] = useState<{ top: number; left: number }>({ top: 0, left: 180 });
   const buttonRefs = useRef<{ [key: string]: HTMLButtonElement | null }>({});
   const expansionPanelRef = useRef<HTMLDivElement | null>(null);
   const filtersPanelRef = useRef<HTMLDivElement | null>(null);
@@ -56,6 +56,24 @@ function FiltersPanel({
     document.addEventListener('mousedown', handleClickOutside);
     return () => {
       document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, [expandedCategory]);
+
+  // Handle window resize and orientation change to reposition expansion panel
+  useEffect(() => {
+    if (!expandedCategory) return;
+
+    const handleResize = () => {
+      const position = calculateExpansionPosition(expandedCategory);
+      setExpansionPosition(position);
+    };
+
+    window.addEventListener('resize', handleResize);
+    window.addEventListener('orientationchange', handleResize);
+    
+    return () => {
+      window.removeEventListener('resize', handleResize);
+      window.removeEventListener('orientationchange', handleResize);
     };
   }, [expandedCategory]);
 
@@ -86,17 +104,63 @@ function FiltersPanel({
     });
   };
 
+  const calculateExpansionPosition = (category: FilterCategory) => {
+    const buttonElement = buttonRefs.current[category];
+    if (!buttonElement) return { top: 0, left: 180 };
+
+    const buttonRect = buttonElement.getBoundingClientRect();
+    const viewportWidth = window.innerWidth;
+    const viewportHeight = window.innerHeight;
+    
+    // Get the filters panel width
+    const filtersPanelWidth = filtersPanelRef.current?.getBoundingClientRect().width || 180;
+    
+    // Expansion panel dimensions (from CSS)
+    const expansionWidth = 280;
+    const expansionMaxHeight = 400;
+    
+    // Calculate horizontal position
+    let left = filtersPanelWidth;
+    
+    // Check if expansion panel would go off-screen to the right
+    if (left + expansionWidth > viewportWidth) {
+      // Try positioning to the left of the filter panel
+      left = Math.max(0, buttonRect.left - expansionWidth);
+      
+      // If still doesn't fit, position at the right edge with some padding
+      if (left < 0) {
+        left = Math.max(10, viewportWidth - expansionWidth - 10);
+      }
+    }
+    
+    // Calculate vertical position
+    let top = buttonRect.top;
+    
+    // Check if expansion panel would go off-screen to the bottom
+    if (top + expansionMaxHeight > viewportHeight) {
+      // Try positioning above the button
+      top = Math.max(10, buttonRect.bottom - expansionMaxHeight);
+      
+      // If still doesn't fit, position at the bottom with some padding
+      if (top < 10) {
+        top = Math.max(10, viewportHeight - expansionMaxHeight - 10);
+      }
+    }
+    
+    // Ensure minimum padding from top
+    top = Math.max(10, top);
+    
+    return { top, left };
+  };
+
   const toggleCategory = (category: FilterCategory) => {
     const newExpandedCategory = expandedCategory === category ? null : category;
     setExpandedCategory(newExpandedCategory);
     
     // Update position for expansion panel
     if (newExpandedCategory) {
-      const buttonElement = buttonRefs.current[category];
-      if (buttonElement) {
-        const rect = buttonElement.getBoundingClientRect();
-        setExpansionPosition(rect.top);
-      }
+      const position = calculateExpansionPosition(category);
+      setExpansionPosition(position);
     }
   };
 
@@ -183,7 +247,7 @@ function FiltersPanel({
 
       {/* Expanded filter options - rendered via portal to document body */}
       {expandedCategory && document.body && createPortal(
-        <div ref={expansionPanelRef} className="filter-expansion" style={{ top: `${expansionPosition}px` }}>
+        <div ref={expansionPanelRef} className="filter-expansion" style={{ top: `${expansionPosition.top}px`, left: `${expansionPosition.left}px` }}>
           {expandedCategory === 'sun' && (
             <div className="filter-options-row">
               {(['full-sun', 'partial-sun', 'partial-shade', 'full-shade'] as const).map(sun => (

@@ -232,8 +232,6 @@ body {
 /* Filter Expansion Panel */
 .filter-expansion {
   position: fixed;
-  left: 180px;
-  top: 0;
   width: 280px;
   min-width: 280px;
   max-width: 280px;
