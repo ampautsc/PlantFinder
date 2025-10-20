@@ -19,9 +19,9 @@ function PlantCard({ plant, onClick }: PlantCardProps) {
 
   return (
     <div className="plant-card" onClick={onClick} role="button" tabIndex={0} onKeyDown={(e) => e.key === 'Enter' && onClick?.()}>
-      {plant.imageUrl ? (
+      {plant.thumbnailUrl || plant.imageUrl ? (
         <div className="plant-image">
-          <img src={plant.imageUrl} alt={plant.commonName} loading="lazy" />
+          <img src={plant.thumbnailUrl || plant.imageUrl} alt={plant.commonName} loading="lazy" />
           {/* Seed Share Badges */}
           {plantVolume && (plantVolume.openOffers > 0 || plantVolume.openRequests > 0) && (
             <div className="seed-share-badge">

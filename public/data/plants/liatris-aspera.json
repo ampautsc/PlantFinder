@@ -11,16 +11,65 @@
   "characteristics": {
     "height": 48,
     "width": 18,
-    "bloomColor": ["purple", "pink"],
-    "bloomTime": ["late summer", "fall"],
+    "bloomColor": [
+      "purple",
+      "pink"
+    ],
+    "bloomTime": [
+      "late summer",
+      "fall"
+    ],
     "perennial": true,
-    "nativeRange": ["Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Kentucky", "Tennessee", "North Carolina", "South Carolina", "Alabama", "Mississippi", "Arkansas", "Louisiana", "Oklahoma", "Texas", "Kansas", "Nebraska", "South Dakota", "North Dakota", "Montana", "Wyoming"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+    "nativeRange": [
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Kentucky",
+      "Tennessee",
+      "North Carolina",
+      "South Carolina",
+      "Alabama",
+      "Mississippi",
+      "Arkansas",
+      "Louisiana",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota",
+      "Montana",
+      "Wyoming"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
   },
   "relationships": {
     "hostPlantTo": [],
-    "foodFor": ["butterflies", "bees", "hummingbirds"],
-    "usefulFor": ["pollinator garden", "prairie restoration", "drought tolerance", "wildlife habitat"]
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "hummingbirds"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "prairie restoration",
+      "drought tolerance",
+      "wildlife habitat"
+    ]
   },
-  "imageUrl": "/images/plants/liatris-aspera/liatris-aspera-2025-10-16T00-22-50-514Z.jpg"
+  "imageUrl": "/images/plants/liatris-aspera/liatris-aspera-2025-10-16T00-22-50-514Z.jpg",
+  "thumbnailUrl": "/images/plants/liatris-aspera/liatris-aspera-2025-10-16T00-22-50-514Z-thumb.jpg"
 }

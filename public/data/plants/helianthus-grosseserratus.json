@@ -11,16 +11,73 @@
   "characteristics": {
     "height": 96,
     "width": 36,
-    "bloomColor": ["yellow"],
-    "bloomTime": ["late summer", "fall"],
+    "bloomColor": [
+      "yellow"
+    ],
+    "bloomTime": [
+      "late summer",
+      "fall"
+    ],
     "perennial": true,
-    "nativeRange": ["New York", "Pennsylvania", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Kentucky", "Tennessee", "North Carolina", "South Carolina", "Georgia", "Alabama", "Mississippi", "Arkansas", "Louisiana", "Oklahoma", "Texas", "Kansas", "Nebraska", "South Dakota", "North Dakota", "Montana", "Wyoming", "Colorado"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+    "nativeRange": [
+      "New York",
+      "Pennsylvania",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Kentucky",
+      "Tennessee",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Alabama",
+      "Mississippi",
+      "Arkansas",
+      "Louisiana",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota",
+      "Montana",
+      "Wyoming",
+      "Colorado"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
   },
   "relationships": {
-    "hostPlantTo": ["Silvery Checkerspot butterfly", "Bordered Patch butterfly"],
-    "foodFor": ["butterflies", "bees", "birds", "goldfinches"],
-    "usefulFor": ["pollinator garden", "rain garden", "wildlife habitat", "naturalized areas", "bird food"]
+    "hostPlantTo": [
+      "Silvery Checkerspot butterfly",
+      "Bordered Patch butterfly"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "birds",
+      "goldfinches"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "rain garden",
+      "wildlife habitat",
+      "naturalized areas",
+      "bird food"
+    ]
   },
-  "imageUrl": "/images/plants/helianthus-grosseserratus/helianthus-grosseserratus-2025-10-16T00-16-52-993Z.jpg"
+  "imageUrl": "/images/plants/helianthus-grosseserratus/helianthus-grosseserratus-2025-10-16T00-16-52-993Z.jpg",
+  "thumbnailUrl": "/images/plants/helianthus-grosseserratus/helianthus-grosseserratus-2025-10-16T00-16-52-993Z-thumb.jpg"
 }

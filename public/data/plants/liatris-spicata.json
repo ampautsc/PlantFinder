@@ -11,16 +11,61 @@
   "characteristics": {
     "height": 36,
     "width": 18,
-    "bloomColor": ["purple"],
-    "bloomTime": ["summer"],
+    "bloomColor": [
+      "purple"
+    ],
+    "bloomTime": [
+      "summer"
+    ],
     "perennial": true,
-    "nativeRange": ["New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Florida", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Iowa", "Missouri", "Arkansas"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+    "nativeRange": [
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Iowa",
+      "Missouri",
+      "Arkansas"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
   },
   "relationships": {
     "hostPlantTo": [],
-    "foodFor": ["butterflies", "bees"],
-    "usefulFor": ["pollinator garden", "cut flower", "wildlife habitat"]
+    "foodFor": [
+      "butterflies",
+      "bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "cut flower",
+      "wildlife habitat"
+    ]
   },
-  "imageUrl": "/images/plants/liatris-spicata/liatris-spicata-2025-10-16T00-34-21-625Z.jpg"
+  "imageUrl": "/images/plants/liatris-spicata/liatris-spicata-2025-10-16T00-34-21-625Z.jpg",
+  "thumbnailUrl": "/images/plants/liatris-spicata/liatris-spicata-2025-10-16T00-34-21-625Z-thumb.jpg"
 }
