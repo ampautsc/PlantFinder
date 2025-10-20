@@ -164,7 +164,7 @@ function FiltersPanel({
       </div>
 
       {/* Expanded filter options - rendered via portal to document body */}
-      {expandedCategory && createPortal(
+      {expandedCategory && document.body && createPortal(
         <div className="filter-expansion" style={{ top: `${expansionPosition}px` }}>
           {expandedCategory === 'sun' && (
             <div className="filter-options-row">
