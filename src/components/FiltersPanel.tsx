@@ -1,4 +1,4 @@
-import { useState, useRef } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { createPortal } from 'react-dom';
 import { PlantFilters } from '../types/Plant';
 
@@ -34,6 +34,28 @@ function FiltersPanel({
   const [expandedCategory, setExpandedCategory] = useState<FilterCategory | null>(null);
   const [expansionPosition, setExpansionPosition] = useState<number>(0);
   const buttonRefs = useRef<{ [key: string]: HTMLButtonElement | null }>({});
+  const expansionPanelRef = useRef<HTMLDivElement | null>(null);
+  const filtersPanelRef = useRef<HTMLDivElement | null>(null);
+
+  // Handle click outside to close expansion panel
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (expandedCategory) {
+        const target = event.target as Node;
+        const clickedInsideExpansion = expansionPanelRef.current?.contains(target);
+        const clickedInsideFiltersPanel = filtersPanelRef.current?.contains(target);
+        
+        if (!clickedInsideExpansion && !clickedInsideFiltersPanel) {
+          setExpandedCategory(null);
+        }
+      }
+    };
+
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, [expandedCategory]);
 
   const toggleArrayFilter = (key: keyof PlantFilters, value: string) => {
     const currentValues = (filters[key] as string[] | undefined) || [];
@@ -45,9 +67,6 @@ function FiltersPanel({
       ...filters,
       [key]: newValues.length > 0 ? newValues : undefined,
     });
-    
-    // Auto-collapse after selection
-    setExpandedCategory(null);
   };
 
   const handleRangeChange = (key: keyof PlantFilters, value: string) => {
@@ -63,9 +82,6 @@ function FiltersPanel({
       ...filters,
       [key]: filters[key] === undefined ? true : undefined,
     });
-    
-    // Auto-collapse after selection
-    setExpandedCategory(null);
   };
 
   const toggleCategory = (category: FilterCategory) => {
@@ -129,7 +145,7 @@ function FiltersPanel({
 
   return (
     <>
-      <div className={`filters-panel-new ${isVisible ? '' : 'hidden'} ${expandedCategory ? 'expanded' : ''}`}>
+      <div ref={filtersPanelRef} className={`filters-panel-new ${isVisible ? '' : 'hidden'} ${expandedCategory ? 'expanded' : ''}`}>
         <div className="filter-buttons">
           <div className="filter-search-container">
             <input
@@ -165,7 +181,7 @@ function FiltersPanel({
 
       {/* Expanded filter options - rendered via portal to document body */}
       {expandedCategory && document.body && createPortal(
-        <div className="filter-expansion" style={{ top: `${expansionPosition}px` }}>
+        <div ref={expansionPanelRef} className="filter-expansion" style={{ top: `${expansionPosition}px` }}>
           {expandedCategory === 'sun' && (
             <div className="filter-options-row">
               {(['full-sun', 'partial-sun', 'partial-shade', 'full-shade'] as const).map(sun => (
