@@ -75,7 +75,8 @@ function FiltersPanel({
     if (newExpandedCategory) {
       const buttonElement = buttonRefs.current[category];
       if (buttonElement) {
-        setExpansionPosition(buttonElement.offsetTop);
+        const rect = buttonElement.getBoundingClientRect();
+        setExpansionPosition(rect.top);
       }
     }
   };
