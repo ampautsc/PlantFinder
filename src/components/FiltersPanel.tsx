@@ -42,7 +42,7 @@ function FiltersPanel({
     if (!expandedCategory) return;
 
     const handleClickOutside = (event: MouseEvent) => {
-      const target = event.target as Element | null;
+      const target = event.target as Node | null;
       if (!target) return;
 
       const clickedInsideExpansion = expansionPanelRef.current?.contains(target);
