@@ -1,4 +1,5 @@
 import { useState, useRef } from 'react';
+import { createPortal } from 'react-dom';
 import { PlantFilters } from '../types/Plant';
 
 interface FiltersPanelProps {
@@ -127,41 +128,43 @@ function FiltersPanel({
   }).length;
 
   return (
-    <div className={`filters-panel-new ${isVisible ? '' : 'hidden'} ${expandedCategory ? 'expanded' : ''}`}>
-      <div className="filter-buttons">
-        <div className="filter-search-container">
-          <input
-            type="text"
-            className="filter-search-input"
-            placeholder="🔍 Search..."
-            value={searchQuery}
-            onChange={(e) => onSearchChange(e.target.value)}
-          />
+    <>
+      <div className={`filters-panel-new ${isVisible ? '' : 'hidden'} ${expandedCategory ? 'expanded' : ''}`}>
+        <div className="filter-buttons">
+          <div className="filter-search-container">
+            <input
+              type="text"
+              className="filter-search-input"
+              placeholder="🔍 Search..."
+              value={searchQuery}
+              onChange={(e) => onSearchChange(e.target.value)}
+            />
+          </div>
+          
+          {filterCategories.map(category => (
+            <button
+              key={category.key}
+              ref={(el) => { buttonRefs.current[category.key] = el; }}
+              className={`filter-icon-btn ${hasActiveFilters(category.key) ? 'active' : ''} ${expandedCategory === category.key ? 'expanded' : ''}`}
+              onClick={() => toggleCategory(category.key)}
+              title={category.label}
+            >
+              <span className="filter-icon">{category.icon}</span>
+              <span className="filter-label">{category.label}</span>
+            </button>
+          ))}
+          
+          {activeFilterCount > 0 && (
+            <button className="clear-filters-icon-btn" onClick={onClearFilters} title="Clear All">
+              <span>✕</span>
+              <span>Clear All</span>
+            </button>
+          )}
         </div>
-        
-        {filterCategories.map(category => (
-          <button
-            key={category.key}
-            ref={(el) => { buttonRefs.current[category.key] = el; }}
-            className={`filter-icon-btn ${hasActiveFilters(category.key) ? 'active' : ''} ${expandedCategory === category.key ? 'expanded' : ''}`}
-            onClick={() => toggleCategory(category.key)}
-            title={category.label}
-          >
-            <span className="filter-icon">{category.icon}</span>
-            <span className="filter-label">{category.label}</span>
-          </button>
-        ))}
-        
-        {activeFilterCount > 0 && (
-          <button className="clear-filters-icon-btn" onClick={onClearFilters} title="Clear All">
-            <span>✕</span>
-            <span>Clear All</span>
-          </button>
-        )}
       </div>
 
-      {/* Expanded filter options */}
-      {expandedCategory && (
+      {/* Expanded filter options - rendered via portal to document body */}
+      {expandedCategory && createPortal(
         <div className="filter-expansion" style={{ top: `${expansionPosition}px` }}>
           {expandedCategory === 'sun' && (
             <div className="filter-options-row">
@@ -345,9 +348,10 @@ function FiltersPanel({
               ))}
             </div>
           )}
-        </div>
+        </div>,
+        document.body
       )}
-    </div>
+    </>
   );
 }
 
