@@ -95,6 +95,10 @@ body {
   color: var(--primary-color);
 }
 
+[data-theme="light"] .header h1 {
+  color: #000000;
+}
+
 .header p {
   font-size: 0.9rem;
   opacity: 0.9;
@@ -449,11 +453,19 @@ body {
   color: var(--primary-color);
 }
 
+[data-theme="light"] .plant-card h2 {
+  color: #000000;
+}
+
 .plant-card .scientific-name {
   font-style: italic;
   color: #999;
   font-size: 0.85rem;
   margin-bottom: 0;
+}
+
+[data-theme="light"] .plant-card .scientific-name {
+  color: #666666;
 }
 
 /* Loading State */
