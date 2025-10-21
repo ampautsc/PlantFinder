@@ -19,13 +19,13 @@
 [data-theme="light"] {
   --primary-color: #c89656;
   --secondary-color: #d4a574;
-  --text-color: #2a2a2a;
-  --border-color: #d0d0d0;
-  --background-color: #f5f5f5;
-  --card-background: #ffffff;
+  --text-color: #1a1a1a;
+  --border-color: #c0a080;
+  --background-color: #f4e9d8;
+  --card-background: #faf5ed;
   --shadow: 0 2px 4px rgba(0,0,0,0.1);
-  --panel-background: #ffffff;
-  --hover-background: #f0f0f0;
+  --panel-background: #faf5ed;
+  --hover-background: #f0e5d3;
 }
 
 body {
