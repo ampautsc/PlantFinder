@@ -32,8 +32,9 @@ function SeedExchangeOverlay({
   const [offerQuantity, setOfferQuantity] = useState(1);
 
   const handleOfferButtonClick = () => {
+    // If user has an active offer, allow them to update quantity
     if (hasActiveOffer) {
-      return; // Already has an offer
+      setOfferQuantity(activeOfferQuantity || 1);
     }
     setShowOfferQuantity(true);
   };
@@ -51,78 +52,72 @@ function SeedExchangeOverlay({
     onRequestClick();
   };
 
-  const getStatusDisplay = (status?: string) => {
-    switch (status) {
-      case 'open':
-        return 'Active';
-      case 'matched':
-        return 'Matched';
-      case 'confirmed':
-        return 'Confirmed';
-      case 'sent':
-        return 'Shipped';
-      case 'received':
-      case 'complete':
-        return 'Complete';
-      default:
-        return status;
-    }
-  };
-
   return (
     <div className="seed-exchange-overlay">
-      {/* Offer Button - Bottom Left */}
-      {!hasActiveOffer && (
-        <button
-          className="exchange-button offer-button"
-          onClick={handleOfferButtonClick}
-          aria-label="Offer seeds"
-        >
-          <span className="button-icon">🫘</span>
-          <span className="button-count">{openOffers}</span>
-        </button>
+      {/* Count Badge - Top Right */}
+      {(openOffers > 0 || openRequests > 0) && (
+        <div className="count-badge">
+          {hasActiveRequest ? (
+            <>
+              <span className="badge-icon">🤲</span>
+              <span className="badge-count">{openRequests}</span>
+            </>
+          ) : (
+            <>
+              <span className="badge-icon">🫘</span>
+              <span className="badge-count">{openOffers}</span>
+            </>
+          )}
+        </div>
       )}
+
+      {/* Offer Button - Bottom Left */}
+      <button
+        className={`exchange-button offer-button ${hasActiveOffer ? 'has-active' : ''}`}
+        onClick={handleOfferButtonClick}
+        aria-label="Offer seeds"
+        disabled={hasActiveRequest}
+      >
+        <span className="button-icon">🫘</span>
+        <span className="button-label">Offer Seeds</span>
+        {hasActiveOffer && activeOfferQuantity && (
+          <span className="button-quantity">{activeOfferQuantity}</span>
+        )}
+      </button>
 
       {/* Request Button - Bottom Right */}
-      {!hasActiveRequest && (
-        <button
-          className="exchange-button request-button"
-          onClick={handleRequestButtonClick}
-          aria-label="Request seeds"
-        >
-          <span className="button-icon">🤲</span>
-          <span className="button-count">{openRequests}</span>
-        </button>
-      )}
+      <button
+        className={`exchange-button request-button ${hasActiveRequest ? 'has-active' : ''}`}
+        onClick={handleRequestButtonClick}
+        aria-label="Request seeds"
+        disabled={hasActiveOffer}
+      >
+        <span className="button-icon">🤲</span>
+        <span className="button-label">Adopt Seeds</span>
+      </button>
 
-      {/* Active Status Bar - Bottom */}
+      {/* Active Status - Bottom Middle */}
       {(hasActiveOffer || hasActiveRequest) && (
-        <div className="active-status-bar">
+        <div className="status-message">
           {hasActiveOffer && (
-            <div className="status-item offer-status">
-              <span className="status-icon">📤</span>
-              <span className="status-text">
-                Your Offer: {activeOfferQuantity} packet{activeOfferQuantity !== 1 ? 's' : ''} • {getStatusDisplay(activeOfferStatus)}
-              </span>
+            <>
+              <span className="status-text">Seeds Offered</span>
               {activeOfferStatus === 'open' && onCancelOffer && (
-                <button className="status-cancel" onClick={onCancelOffer} aria-label="Cancel offer">
-                  ✕
+                <button className="withdraw-button" onClick={onCancelOffer} aria-label="Withdraw offer">
+                  Withdraw
                 </button>
               )}
-            </div>
+            </>
           )}
           {hasActiveRequest && (
-            <div className="status-item request-status">
-              <span className="status-icon">📥</span>
-              <span className="status-text">
-                Your Request: 1 packet • {getStatusDisplay(activeRequestStatus)}
-              </span>
+            <>
+              <span className="status-text">Adoption Offered</span>
               {activeRequestStatus === 'open' && onCancelRequest && (
-                <button className="status-cancel" onClick={onCancelRequest} aria-label="Cancel request">
-                  ✕
+                <button className="withdraw-button" onClick={onCancelRequest} aria-label="Withdraw request">
+                  Withdraw
                 </button>
               )}
-            </div>
+            </>
           )}
         </div>
       )}
@@ -131,7 +126,7 @@ function SeedExchangeOverlay({
       {showOfferQuantity && (
         <div className="quantity-modal" onClick={() => setShowOfferQuantity(false)}>
           <div className="quantity-content" onClick={(e) => e.stopPropagation()}>
-            <h4>How many packets?</h4>
+            <h4>{hasActiveOffer ? 'Update quantity' : 'How many packets?'}</h4>
             <div className="quantity-controls">
               <button
                 className="quantity-btn"
@@ -153,8 +148,16 @@ function SeedExchangeOverlay({
             </div>
             <div className="quantity-actions">
               <button className="confirm-btn" onClick={handleConfirmOffer}>
-                Confirm
+                {hasActiveOffer ? 'Update' : 'Confirm'}
               </button>
+              {hasActiveOffer && onCancelOffer && (
+                <button className="withdraw-action-btn" onClick={() => {
+                  setShowOfferQuantity(false);
+                  onCancelOffer();
+                }}>
+                  Withdraw
+                </button>
+              )}
               <button className="cancel-btn" onClick={() => setShowOfferQuantity(false)}>
                 Cancel
               </button>
