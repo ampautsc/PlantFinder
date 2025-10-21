@@ -1,31 +1,15 @@
-import { useState, useEffect } from 'react';
 import { Plant } from '../types/Plant';
-import { mockSeedShareService } from '../api/MockSeedShareService';
 import { PlantSeedShareVolume, UserPlantSeedShare } from '../types/SeedShare';
 import './SeedShareBadge.css';
 
 interface PlantCardProps {
   plant: Plant;
+  plantVolume: PlantSeedShareVolume | null;
+  userActivity: UserPlantSeedShare | null;
   onClick?: () => void;
 }
 
-// Current user ID (in a real app, this would come from authentication)
-const CURRENT_USER_ID = 'current';
-
-function PlantCard({ plant, onClick }: PlantCardProps) {
-  const [plantVolume, setPlantVolume] = useState<PlantSeedShareVolume | null>(null);
-  const [userActivity, setUserActivity] = useState<UserPlantSeedShare | null>(null);
-
-  useEffect(() => {
-    // Load seed share volume and user activity for this plant
-    Promise.all([
-      mockSeedShareService.getPlantVolume(plant.id),
-      mockSeedShareService.getUserPlantActivity(CURRENT_USER_ID, plant.id)
-    ]).then(([volume, activity]) => {
-      setPlantVolume(volume);
-      setUserActivity(activity);
-    });
-  }, [plant.id]);
+function PlantCard({ plant, plantVolume, userActivity, onClick }: PlantCardProps) {
 
   // Determine what badge to show in top-right corner
   // Priority: offers > requests (can't show both)

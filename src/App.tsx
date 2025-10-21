@@ -2,6 +2,8 @@ import { useState, useEffect, useRef } from 'react';
 import './App.css';
 import { Plant, PlantFilters } from './types/Plant';
 import { MockPlantApi } from './api/MockPlantApi';
+import { mockSeedShareService } from './api/MockSeedShareService';
+import { PlantSeedShareVolume, UserPlantSeedShare } from './types/SeedShare';
 import PlantCard from './components/PlantCard';
 import FiltersPanel from './components/FiltersPanel';
 import FeedbackButton from './components/FeedbackButton';
@@ -13,6 +15,7 @@ import ThemeToggle from './components/ThemeToggle';
 import { useTheme } from './contexts/ThemeContext';
 
 const plantApi = new MockPlantApi();
+const CURRENT_USER_ID = 'current';
 
 function App() {
   const { theme } = useTheme();
@@ -32,15 +35,28 @@ function App() {
     foodFor: [] as string[],
     usefulFor: [] as string[],
   });
+  const [plantVolumes, setPlantVolumes] = useState<Map<string, PlantSeedShareVolume>>(new Map());
+  const [userPlantActivities, setUserPlantActivities] = useState<Map<string, UserPlantSeedShare>>(new Map());
   const resultsContainerRef = useRef<HTMLDivElement>(null);
 
-  // Load all plants and filter options on mount
+  // Load all plants, filter options, and seed share data on mount
   useEffect(() => {
     plantApi.getAllPlants().then(allPlantsData => {
       setAllPlants(allPlantsData);
     });
     plantApi.getFilterOptions().then(options => {
       setFilterOptions(options);
+    });
+    // Load seed share data once for all plants
+    mockSeedShareService.getAllPlantsVolume().then(volumes => {
+      const volumeMap = new Map<string, PlantSeedShareVolume>();
+      volumes.forEach(v => volumeMap.set(v.plantId, v));
+      setPlantVolumes(volumeMap);
+    });
+    mockSeedShareService.getUserAllPlantsActivity(CURRENT_USER_ID).then(activities => {
+      const activityMap = new Map<string, UserPlantSeedShare>();
+      activities.forEach(a => activityMap.set(a.plantId, a));
+      setUserPlantActivities(activityMap);
     });
   }, []);
 
@@ -123,7 +139,9 @@ function App() {
               {plants.map(plant => (
                 <PlantCard 
                   key={plant.id} 
-                  plant={plant} 
+                  plant={plant}
+                  plantVolume={plantVolumes.get(plant.id) || null}
+                  userActivity={userPlantActivities.get(plant.id) || null}
                   onClick={() => setSelectedPlant(plant)}
                 />
               ))}
