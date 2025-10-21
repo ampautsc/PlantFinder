@@ -51,3 +51,37 @@
 .badge-count {
   font-weight: 700;
 }
+
+/* User Status Bar - shown at bottom of plant card */
+.user-status-bar {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.user-status-bar.status-offered {
+  background: rgba(120, 182, 78, 0.2);
+  color: #78B64E;
+  border: 1px solid #78B64E;
+}
+
+.user-status-bar.status-requested {
+  background: rgba(0, 176, 240, 0.2);
+  color: #00B0F0;
+  border: 1px solid #00B0F0;
+}
+
+.user-status-bar.status-matched {
+  background: rgba(255, 193, 7, 0.2);
+  color: #FFC107;
+  border: 1px solid #FFC107;
+}
+
+.status-text {
+  display: inline-block;
+}
