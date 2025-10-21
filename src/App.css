@@ -14,18 +14,26 @@
   --shadow: 0 2px 4px rgba(0,0,0,0.3);
   --panel-background: #222222;
   --hover-background: #333333;
+  --modal-background: #2a2a2a;
+  --modal-text-color: #e0e0e0;
+  --input-background: #1a1a1a;
+  --input-text-color: #e0e0e0;
 }
 
 [data-theme="light"] {
-  --primary-color: #c89656;
-  --secondary-color: #d4a574;
-  --text-color: #2a2a2a;
-  --border-color: #d0d0d0;
-  --background-color: #f5f5f5;
-  --card-background: #ffffff;
+  --primary-color: #faf5ed;
+  --secondary-color: #e8dcc8;
+  --text-color: #1a1a1a;
+  --border-color: #c0a080;
+  --background-color: #f4e9d8;
+  --card-background: #6d563a;
   --shadow: 0 2px 4px rgba(0,0,0,0.1);
-  --panel-background: #ffffff;
-  --hover-background: #f0f0f0;
+  --panel-background: #faf5ed;
+  --hover-background: #5d4830;
+  --modal-background: #6d563a;
+  --modal-text-color: #faf5ed;
+  --input-background: #5d4830;
+  --input-text-color: #faf5ed;
 }
 
 body {
