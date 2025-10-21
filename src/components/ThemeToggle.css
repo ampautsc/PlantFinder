@@ -17,10 +17,10 @@
   background-color: #1a1a1a;
 }
 
-/* Light bulb in dark theme */
+/* Sun in dark theme */
 [data-theme="dark"] .theme-toggle,
 .theme-toggle {
-  background-color: transparent;
+  background-color: #f4e9d8;
 }
 
 .theme-toggle:hover {
@@ -33,7 +33,7 @@
 }
 
 [data-theme="dark"] .theme-toggle:hover {
-  background-color: var(--hover-background);
+  background-color: #e8dcc8;
 }
 
 .theme-toggle:active {
