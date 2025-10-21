@@ -83,8 +83,8 @@ function App() {
           <div className="header-left">
             <img src={logoSrc} alt="Camp Monarch" className="header-logo" />
             <div className="header-text">
-              <h1>PlantFinder</h1>
-              <p>Camp Monarch's Wildflower Search</p>
+              <h1>Camp Monarch</h1>
+              <p>Wildflower Rescue Center</p>
             </div>
           </div>
           <ThemeToggle />
