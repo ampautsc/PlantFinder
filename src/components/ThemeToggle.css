@@ -1,5 +1,4 @@
 .theme-toggle {
-  background-color: transparent;
   border: 2px solid var(--border-color);
   border-radius: 50%;
   width: 48px;
@@ -13,10 +12,28 @@
   padding: 0;
 }
 
+/* Default dark theme or when showing moon (light theme active) */
+[data-theme="light"] .theme-toggle {
+  background-color: #1a1a1a;
+}
+
+/* Light bulb in dark theme */
+[data-theme="dark"] .theme-toggle,
+.theme-toggle {
+  background-color: transparent;
+}
+
 .theme-toggle:hover {
   border-color: var(--primary-color);
-  background-color: var(--hover-background);
   transform: scale(1.1);
+}
+
+[data-theme="light"] .theme-toggle:hover {
+  background-color: #2a2a2a;
+}
+
+[data-theme="dark"] .theme-toggle:hover {
+  background-color: var(--hover-background);
 }
 
 .theme-toggle:active {

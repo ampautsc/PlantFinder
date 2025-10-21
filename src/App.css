@@ -26,14 +26,14 @@
   --text-color: #1a1a1a;
   --border-color: #c0a080;
   --background-color: #f4e9d8;
-  --card-background: #6d563a;
+  --card-background: #e8dcc8;
   --shadow: 0 2px 4px rgba(0,0,0,0.1);
   --panel-background: #faf5ed;
-  --hover-background: #5d4830;
-  --modal-background: #6d563a;
-  --modal-text-color: #faf5ed;
-  --input-background: #5d4830;
-  --input-text-color: #faf5ed;
+  --hover-background: #d4c4b0;
+  --modal-background: #e8dcc8;
+  --modal-text-color: #1a1a1a;
+  --input-background: #d4c4b0;
+  --input-text-color: #1a1a1a;
 }
 
 body {
@@ -93,6 +93,10 @@ body {
   font-size: 1.5rem;
   margin-bottom: 0.25rem;
   color: var(--primary-color);
+}
+
+[data-theme="light"] .header h1 {
+  color: #000000;
 }
 
 .header p {
@@ -449,11 +453,19 @@ body {
   color: var(--primary-color);
 }
 
+[data-theme="light"] .plant-card h2 {
+  color: #000000;
+}
+
 .plant-card .scientific-name {
   font-style: italic;
   color: #999;
   font-size: 0.85rem;
   margin-bottom: 0;
+}
+
+[data-theme="light"] .plant-card .scientific-name {
+  color: #666666;
 }
 
 /* Loading State */
