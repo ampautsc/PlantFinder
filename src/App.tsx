@@ -9,10 +9,13 @@ import FeedbackModal from './components/FeedbackModal';
 import AddPlantImageButton from './components/AddPlantImageButton';
 import AddPlantImageModal from './components/AddPlantImageModal';
 import PlantDetailView from './components/PlantDetailView';
+import ThemeToggle from './components/ThemeToggle';
+import { useTheme } from './contexts/ThemeContext';
 
 const plantApi = new MockPlantApi();
 
 function App() {
+  const { theme } = useTheme();
   const [plants, setPlants] = useState<Plant[]>([]);
   const [allPlants, setAllPlants] = useState<Plant[]>([]);
   const [loading, setLoading] = useState(true);
@@ -69,15 +72,22 @@ function App() {
     setFilters({});
   };
 
+  const logoSrc = theme === 'light' 
+    ? '/images/Camp Monarch_LOGO B1 square.png'
+    : '/images/Camp Monarch_LOGO B1_gold.png';
+
   return (
     <div className="app">
       <header className="header">
         <div className="header-content">
-          <img src="/images/Camp Monarch_LOGO B1_gold.png" alt="Camp Monarch" className="header-logo" />
-          <div className="header-text">
-            <h1>PlantFinder</h1>
-            <p>Camp Monarch's Wildflower Search</p>
+          <div className="header-left">
+            <img src={logoSrc} alt="Camp Monarch" className="header-logo" />
+            <div className="header-text">
+              <h1>PlantFinder</h1>
+              <p>Camp Monarch's Wildflower Search</p>
+            </div>
           </div>
+          <ThemeToggle />
         </div>
       </header>
 
