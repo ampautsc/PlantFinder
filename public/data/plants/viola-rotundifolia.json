@@ -1,0 +1,48 @@
+{
+  "id": "viola-rotundifolia",
+  "commonName": "Roundleaf Yellow Violet",
+  "scientificName": "Viola rotundifolia",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "partial-shade",
+    "moisture": "moist",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 6,
+    "width": 12,
+    "bloomColor": [
+      "yellow"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Fritillary butterflies"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  },
+  "imageUrl": "/images/plants/viola-rotundifolia/viola-rotundifolia-2025-10-17T01-15-49-424Z.jpg",
+  "thumbnailUrl": "/images/plants/viola-rotundifolia/viola-rotundifolia-2025-10-17T01-15-49-424Z-thumb.jpg"
+}

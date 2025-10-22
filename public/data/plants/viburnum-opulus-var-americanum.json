@@ -1,0 +1,47 @@
+{
+  "id": "viburnum-opulus-var-americanum",
+  "commonName": "American Cranberry Bush",
+  "scientificName": "Viburnum opulus var. americanum",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "moist",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 144,
+    "width": 144,
+    "bloomColor": [
+      "white"
+    ],
+    "bloomTime": [
+      "spring",
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "birds",
+      "butterflies"
+    ],
+    "usefulFor": [
+      "native garden",
+      "wildlife habitat"
+    ]
+  },
+  "imageUrl": "/images/plants/viburnum-opulus-var-americanum/viburnum-opulus-var-americanum-2025-10-17T06-26-57-472Z.jpg",
+  "thumbnailUrl": "/images/plants/viburnum-opulus-var-americanum/viburnum-opulus-var-americanum-2025-10-17T06-26-57-472Z-thumb.jpg"
+}
