@@ -116,7 +116,6 @@ function FiltersPanel({
     
     // Get the filters panel dimensions
     const filtersPanelRect = filtersPanelRef.current?.getBoundingClientRect();
-    const filtersPanelWidth = filtersPanelRect?.width || 180;
     const filtersPanelRight = filtersPanelRect?.right || 180;
     
     // Expansion panel dimensions (from CSS)
