@@ -289,15 +289,7 @@ function FiltersPanel({
 
       {/* Expanded filter options - rendered via portal to document body */}
       {expandedCategory && document.body && createPortal(
-        <>
-          {/* Backdrop for mobile - only show on screens < 768px */}
-          {window.innerWidth < 768 && (
-            <div 
-              className="filter-backdrop" 
-              onClick={() => setExpandedCategory(null)}
-            />
-          )}
-          <div ref={expansionPanelRef} className="filter-expansion" style={{ top: `${expansionPosition.top}px`, left: `${expansionPosition.left}px` }}>
+        <div ref={expansionPanelRef} className="filter-expansion" style={{ top: `${expansionPosition.top}px`, left: `${expansionPosition.left}px` }}>
             {expandedCategory === 'sun' && (
             <div className="filter-options-row">
               {(['full-sun', 'partial-sun', 'partial-shade', 'full-shade'] as const).map(sun => (
@@ -480,8 +472,7 @@ function FiltersPanel({
               ))}
             </div>
           )}
-          </div>
-        </>,
+        </div>,
         document.body
       )}
     </>
