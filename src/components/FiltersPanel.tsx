@@ -114,12 +114,31 @@ function FiltersPanel({
     const viewportWidth = window.innerWidth;
     const viewportHeight = window.innerHeight;
     
-    // Get the filters panel width
-    const filtersPanelWidth = filtersPanelRef.current?.getBoundingClientRect().width || 180;
-    
     // Expansion panel dimensions (from CSS)
     const expansionWidth = 280;
     const expansionMaxHeight = 400;
+    
+    // On mobile (< 768px), center the expansion panel as a modal
+    const isMobile = viewportWidth < 768;
+    
+    if (isMobile) {
+      // Center horizontally with padding
+      const left = Math.max(10, (viewportWidth - expansionWidth) / 2);
+      
+      // Position below the button, but ensure it's visible
+      let top = buttonRect.bottom + 10;
+      
+      // If it would go off-screen, position it in the center of viewport
+      if (top + expansionMaxHeight > viewportHeight - 10) {
+        top = Math.max(10, (viewportHeight - expansionMaxHeight) / 2);
+      }
+      
+      return { top, left };
+    }
+    
+    // Desktop positioning (original logic)
+    // Get the filters panel width
+    const filtersPanelWidth = filtersPanelRef.current?.getBoundingClientRect().width || 180;
     
     // Calculate horizontal position
     let left = filtersPanelWidth;
@@ -270,8 +289,16 @@ function FiltersPanel({
 
       {/* Expanded filter options - rendered via portal to document body */}
       {expandedCategory && document.body && createPortal(
-        <div ref={expansionPanelRef} className="filter-expansion" style={{ top: `${expansionPosition.top}px`, left: `${expansionPosition.left}px` }}>
-          {expandedCategory === 'sun' && (
+        <>
+          {/* Backdrop for mobile - only show on screens < 768px */}
+          {window.innerWidth < 768 && (
+            <div 
+              className="filter-backdrop" 
+              onClick={() => setExpandedCategory(null)}
+            />
+          )}
+          <div ref={expansionPanelRef} className="filter-expansion" style={{ top: `${expansionPosition.top}px`, left: `${expansionPosition.left}px` }}>
+            {expandedCategory === 'sun' && (
             <div className="filter-options-row">
               {(['full-sun', 'partial-sun', 'partial-shade', 'full-shade'] as const).map(sun => (
                 <button
@@ -453,7 +480,8 @@ function FiltersPanel({
               ))}
             </div>
           )}
-        </div>,
+          </div>
+        </>,
         document.body
       )}
     </>
