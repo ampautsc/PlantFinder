@@ -12,7 +12,6 @@
   position: absolute;
   top: 16px;
   right: 16px;
-  background: rgba(120, 182, 78, 0.95);
   backdrop-filter: blur(8px);
   border-radius: 24px;
   padding: 8px 16px;
@@ -21,7 +20,16 @@
   gap: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
   pointer-events: all;
+}
+
+.count-badge-offer {
+  background: rgba(120, 182, 78, 0.95);
   border: 3px solid #C5E0B4;
+}
+
+.count-badge-request {
+  background: rgba(0, 176, 240, 0.95);
+  border: 3px solid #DEEBF7;
 }
 
 .badge-icon {

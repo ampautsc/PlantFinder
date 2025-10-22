@@ -56,8 +56,8 @@ function SeedExchangeOverlay({
     <div className="seed-exchange-overlay">
       {/* Count Badge - Top Right */}
       {(openOffers > 0 || openRequests > 0) && (
-        <div className="count-badge">
-          {hasActiveRequest ? (
+        <div className={`count-badge ${openRequests > 0 ? 'count-badge-request' : 'count-badge-offer'}`}>
+          {openRequests > 0 ? (
             <>
               <span className="badge-icon">🤲</span>
               <span className="badge-count">{openRequests}</span>
