@@ -273,7 +273,7 @@ body {
   min-width: 280px;
   max-width: 280px;
   max-height: 400px;
-  background-color: var(--card-background);
+  background-color: #353535;
   border: 2px solid var(--border-color);
   border-radius: 8px;
   padding: 1rem;
@@ -292,6 +292,10 @@ body {
     width: calc(100vw - 20px);
     min-width: auto;
   }
+}
+
+[data-theme="light"] .filter-expansion {
+  background-color: #d4c4b0;
 }
 
 @keyframes slideRight {

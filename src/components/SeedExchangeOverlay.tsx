@@ -56,8 +56,8 @@ function SeedExchangeOverlay({
     <div className="seed-exchange-overlay">
       {/* Count Badge - Top Right */}
       {(openOffers > 0 || openRequests > 0) && (
-        <div className="count-badge">
-          {hasActiveRequest ? (
+        <div className={`count-badge ${openRequests > 0 ? 'count-badge-request' : 'count-badge-offer'}`}>
+          {openRequests > 0 ? (
             <>
               <span className="badge-icon">🤲</span>
               <span className="badge-count">{openRequests}</span>
@@ -71,53 +71,75 @@ function SeedExchangeOverlay({
         </div>
       )}
 
-      {/* Offer Button - Bottom Left */}
-      <button
-        className={`exchange-button offer-button ${hasActiveOffer ? 'has-active' : ''}`}
-        onClick={handleOfferButtonClick}
-        aria-label="Offer seeds"
-        disabled={hasActiveRequest}
-      >
-        <span className="button-icon">🫘</span>
-        <span className="button-label">Offer Seeds</span>
-        {hasActiveOffer && activeOfferQuantity && (
-          <span className="button-quantity">{activeOfferQuantity}</span>
-        )}
-      </button>
+      {/* Show buttons only when no active offer exists */}
+      {!hasActiveOffer && !hasActiveRequest && (
+        <>
+          {/* Offer Button - Bottom Left */}
+          <button
+            className="exchange-button offer-button"
+            onClick={handleOfferButtonClick}
+            aria-label="Offer seeds"
+          >
+            <span className="button-icon">🫘</span>
+            <span className="button-label">Offer Seeds</span>
+          </button>
 
-      {/* Request Button - Bottom Right */}
-      <button
-        className={`exchange-button request-button ${hasActiveRequest ? 'has-active' : ''}`}
-        onClick={handleRequestButtonClick}
-        aria-label="Request seeds"
-        disabled={hasActiveOffer}
-      >
-        <span className="button-icon">🤲</span>
-        <span className="button-label">Adopt Seeds</span>
-      </button>
+          {/* Request Button - Bottom Right */}
+          <button
+            className="exchange-button request-button"
+            onClick={handleRequestButtonClick}
+            aria-label="Request seeds"
+          >
+            <span className="button-icon">🤲</span>
+            <span className="button-label">Adopt Seeds</span>
+          </button>
+        </>
+      )}
 
-      {/* Active Status - Bottom Middle */}
-      {(hasActiveOffer || hasActiveRequest) && (
-        <div className="status-message">
-          {hasActiveOffer && (
-            <>
-              <span className="status-text">Seeds Offered</span>
-              {activeOfferStatus === 'open' && onCancelOffer && (
-                <button className="withdraw-button" onClick={onCancelOffer} aria-label="Withdraw offer">
-                  Withdraw
-                </button>
-              )}
-            </>
+      {/* Full-Width Status Bar - Shown when offer is active */}
+      {hasActiveOffer && (
+        <div
+          className="status-bar status-bar-seed"
+          onClick={handleOfferButtonClick}
+          role="button"
+          tabIndex={0}
+          onKeyDown={(e) => {
+            if (e.key === 'Enter' || e.key === ' ') {
+              e.preventDefault();
+              handleOfferButtonClick();
+            }
+          }}
+          aria-label="Edit seed offer"
+        >
+          <span className="status-bar-text">
+            Seeds Offered {activeOfferQuantity && `(${activeOfferQuantity})`}
+          </span>
+          {activeOfferStatus === 'open' && onCancelOffer && (
+            <button
+              className="withdraw-button"
+              onClick={(e) => {
+                e.stopPropagation();
+                onCancelOffer();
+              }}
+              aria-label="Withdraw offer"
+            >
+              Withdraw
+            </button>
           )}
-          {hasActiveRequest && (
-            <>
-              <span className="status-text">Adoption Offered</span>
-              {activeRequestStatus === 'open' && onCancelRequest && (
-                <button className="withdraw-button" onClick={onCancelRequest} aria-label="Withdraw request">
-                  Withdraw
-                </button>
-              )}
-            </>
+        </div>
+      )}
+
+      {hasActiveRequest && (
+        <div className="status-bar status-bar-adoption">
+          <span className="status-bar-text">Adoption Offered</span>
+          {activeRequestStatus === 'open' && onCancelRequest && (
+            <button
+              className="withdraw-button"
+              onClick={onCancelRequest}
+              aria-label="Withdraw request"
+            >
+              Withdraw
+            </button>
           )}
         </div>
       )}
