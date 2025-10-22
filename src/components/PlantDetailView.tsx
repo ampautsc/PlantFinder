@@ -187,6 +187,10 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
 
         {/* Header / Title Area */}
         <div className="detail-header">
+          <div className="detail-title-area">
+            <h1 className="detail-common-name">{plant.commonName}</h1>
+            <p className="detail-scientific-name">{plant.scientificName}</p>
+          </div>
           {plant.imageUrl ? (
             <div className="detail-hero-image">
               <img src={plant.imageUrl} alt={plant.commonName} />
@@ -222,13 +226,56 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
               />
             </div>
           )}
-          <div className="detail-title-area">
-            <h1 className="detail-common-name">{plant.commonName}</h1>
-            <p className="detail-scientific-name">{plant.scientificName}</p>
-          </div>
         </div>
 
         <div className="detail-content">
+          {/* Description */}
+          <section className="detail-section description-section">
+            <h2 className="section-title">About This Plant</h2>
+            <p className="plant-description">{plant.description}</p>
+            {plant.characteristics.bloomColor.length > 0 && (
+              <div className="bloom-info">
+                <span className="bloom-label">Bloom Colors:</span>
+                <div className="bloom-colors">
+                  {plant.characteristics.bloomColor.map(color => (
+                    <span key={color} className="bloom-tag">{color}</span>
+                  ))}
+                </div>
+              </div>
+            )}
+            {plant.characteristics.bloomTime.length > 0 && (
+              <div className="bloom-info">
+                <span className="bloom-label">Bloom Time:</span>
+                <span className="bloom-value">{plant.characteristics.bloomTime.join(', ')}</span>
+              </div>
+            )}
+          </section>
+
+          {/* Wildlife Benefits */}
+          {(plant.relationships.foodFor.length > 0 || plant.relationships.hostPlantTo.length > 0) && (
+            <section className="detail-section wildlife-section">
+              <h2 className="section-title">Wildlife Benefits</h2>
+              {plant.relationships.foodFor.length > 0 && (
+                <div className="wildlife-info">
+                  <span className="wildlife-icon">🦋</span>
+                  <div>
+                    <span className="wildlife-label">Food For:</span>
+                    <span className="wildlife-value">{plant.relationships.foodFor.join(', ')}</span>
+                  </div>
+                </div>
+              )}
+              {plant.relationships.hostPlantTo.length > 0 && (
+                <div className="wildlife-info">
+                  <span className="wildlife-icon">🐛</span>
+                  <div>
+                    <span className="wildlife-label">Host Plant To:</span>
+                    <span className="wildlife-value">{plant.relationships.hostPlantTo.join(', ')}</span>
+                  </div>
+                </div>
+              )}
+            </section>
+          )}
+
           {/* Essential Information */}
           <section className="detail-section essential-info">
             <h2 className="section-title">Growth Conditions</h2>
@@ -277,53 +324,6 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
               </div>
             </div>
           </section>
-
-          {/* Description */}
-          <section className="detail-section description-section">
-            <h2 className="section-title">About This Plant</h2>
-            <p className="plant-description">{plant.description}</p>
-            {plant.characteristics.bloomColor.length > 0 && (
-              <div className="bloom-info">
-                <span className="bloom-label">Bloom Colors:</span>
-                <div className="bloom-colors">
-                  {plant.characteristics.bloomColor.map(color => (
-                    <span key={color} className="bloom-tag">{color}</span>
-                  ))}
-                </div>
-              </div>
-            )}
-            {plant.characteristics.bloomTime.length > 0 && (
-              <div className="bloom-info">
-                <span className="bloom-label">Bloom Time:</span>
-                <span className="bloom-value">{plant.characteristics.bloomTime.join(', ')}</span>
-              </div>
-            )}
-          </section>
-
-          {/* Wildlife Benefits */}
-          {(plant.relationships.foodFor.length > 0 || plant.relationships.hostPlantTo.length > 0) && (
-            <section className="detail-section wildlife-section">
-              <h2 className="section-title">Wildlife Benefits</h2>
-              {plant.relationships.foodFor.length > 0 && (
-                <div className="wildlife-info">
-                  <span className="wildlife-icon">🦋</span>
-                  <div>
-                    <span className="wildlife-label">Food For:</span>
-                    <span className="wildlife-value">{plant.relationships.foodFor.join(', ')}</span>
-                  </div>
-                </div>
-              )}
-              {plant.relationships.hostPlantTo.length > 0 && (
-                <div className="wildlife-info">
-                  <span className="wildlife-icon">🐛</span>
-                  <div>
-                    <span className="wildlife-label">Host Plant To:</span>
-                    <span className="wildlife-value">{plant.relationships.hostPlantTo.join(', ')}</span>
-                  </div>
-                </div>
-              )}
-            </section>
-          )}
 
           {/* Match Tracker */}
           {matches.length > 0 && (
