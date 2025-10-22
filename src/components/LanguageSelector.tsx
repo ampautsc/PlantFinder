@@ -8,8 +8,8 @@ function LanguageSelector() {
   const dropdownRef = useRef<HTMLDivElement>(null);
 
   const languages = [
-    { code: 'en', name: t('language.english'), flag: '🇺🇸', label: 'EN' },
-    { code: 'es', name: t('language.spanish'), flag: '🇪🇸', label: 'ES' }
+    { code: 'en', name: 'English', flag: '🇺🇸', label: 'English' },
+    { code: 'es', name: 'Español', flag: '🇪🇸', label: 'Español' }
   ];
 
   const currentLanguage = languages.find(lang => lang.code === i18n.language) || languages[0];
@@ -43,7 +43,7 @@ function LanguageSelector() {
         className="language-toggle"
         onClick={() => setIsOpen(!isOpen)}
         aria-label={t('language.select')}
-        title={t('language.select')}
+        title={currentLanguage.name}
       >
         {currentLanguage.label}
       </button>
