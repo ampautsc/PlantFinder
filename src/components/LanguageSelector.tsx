@@ -8,8 +8,8 @@ function LanguageSelector() {
   const dropdownRef = useRef<HTMLDivElement>(null);
 
   const languages = [
-    { code: 'en', name: 'English', flag: '🇺🇸', label: 'English' },
-    { code: 'es', name: 'Español', flag: '🇪🇸', label: 'Español' }
+    { code: 'en', name: 'English', flag: '🇺🇸', label: 'English', abbr: 'EN' },
+    { code: 'es', name: 'Español', flag: '🇪🇸', label: 'Español', abbr: 'ES' }
   ];
 
   const currentLanguage = languages.find(lang => lang.code === i18n.language) || languages[0];
@@ -45,7 +45,7 @@ function LanguageSelector() {
         aria-label={t('language.select')}
         title={currentLanguage.name}
       >
-        {currentLanguage.label}
+        {currentLanguage.abbr}
       </button>
       
       {isOpen && (
