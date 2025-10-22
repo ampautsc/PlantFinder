@@ -78,6 +78,12 @@ body {
   gap: 1rem;
 }
 
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
 .header-logo {
   height: 60px;
   width: 60px;

@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
+import { useTranslation } from 'react-i18next';
 import './App.css';
 import { Plant, PlantFilters } from './types/Plant';
 import { MockPlantApi } from './api/MockPlantApi';
@@ -12,6 +13,7 @@ import AddPlantImageButton from './components/AddPlantImageButton';
 import AddPlantImageModal from './components/AddPlantImageModal';
 import PlantDetailView from './components/PlantDetailView';
 import ThemeToggle from './components/ThemeToggle';
+import LanguageSelector from './components/LanguageSelector';
 import { useTheme } from './contexts/ThemeContext';
 
 const plantApi = new MockPlantApi();
@@ -19,6 +21,7 @@ const CURRENT_USER_ID = 'current';
 
 function App() {
   const { theme } = useTheme();
+  const { t } = useTranslation();
   const [plants, setPlants] = useState<Plant[]>([]);
   const [allPlants, setAllPlants] = useState<Plant[]>([]);
   const [loading, setLoading] = useState(true);
@@ -105,11 +108,14 @@ function App() {
           <div className="header-left">
             <img src={logoSrc} alt="Camp Monarch" className="header-logo" />
             <div className="header-text">
-              <h1>Camp Monarch</h1>
-              <p>Wildflower Rescue Center</p>
+              <h1>{t('header.title')}</h1>
+              <p>{t('header.subtitle')}</p>
             </div>
           </div>
-          <ThemeToggle />
+          <div className="header-controls">
+            <LanguageSelector />
+            <ThemeToggle />
+          </div>
         </div>
       </header>
 
@@ -127,18 +133,18 @@ function App() {
         <div className="results-container" ref={resultsContainerRef}>
           <div className="results-header">
             {loading ? (
-              'Searching...'
+              t('search.searching')
             ) : (
-              `${plants.length} wildflower${plants.length !== 1 ? 's' : ''} found`
+              t('search.results', { count: plants.length })
             )}
           </div>
 
           {loading ? (
-            <div className="loading">Loading plants...</div>
+            <div className="loading">{t('plant.loading')}</div>
           ) : plants.length === 0 ? (
             <div className="empty-state">
-              <h3>No plants found</h3>
-              <p>Try adjusting your filters or search query</p>
+              <h3>{t('search.noResults')}</h3>
+              <p>{t('search.noResultsHint')}</p>
             </div>
           ) : (
             <div className="results-grid">
