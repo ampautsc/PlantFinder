@@ -119,7 +119,8 @@
   "language": {
     "select": "Seleccionar Idioma",
     "english": "Inglés",
-    "spanish": "Español"
+    "spanish": "Español",
+    "german": "Alemán"
   },
   "common": {
     "close": "Cerrar",
