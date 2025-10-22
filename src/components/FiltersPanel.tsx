@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from 'react';
 import { createPortal } from 'react-dom';
+import { useTranslation } from 'react-i18next';
 import { PlantFilters } from '../types/Plant';
 
 interface FiltersPanelProps {
@@ -31,6 +32,7 @@ function FiltersPanel({
   searchQuery,
   onSearchChange,
 }: FiltersPanelProps) {
+  const { t } = useTranslation();
   const [expandedCategory, setExpandedCategory] = useState<FilterCategory | null>(null);
   const [expansionPosition, setExpansionPosition] = useState<{ top: number; left: number }>({ top: 0, left: 180 });
   const buttonRefs = useRef<{ [key: string]: HTMLButtonElement | null }>({});
@@ -164,6 +166,27 @@ function FiltersPanel({
     }
   };
 
+  // Helper function to translate filter values
+  const translateFilterValue = (value: string): string => {
+    // Try to find a translation key for the value
+    const normalizedValue = value.toLowerCase().replace(/\s+/g, '');
+    const translationKeys = [
+      `filters.${normalizedValue}`,
+      `filters.${value.toLowerCase().replace(/\s+/g, '')}`,
+      `filters.${value.replace(/\s+/g, '')}`,
+    ];
+    
+    for (const key of translationKeys) {
+      const translated = t(key);
+      if (translated !== key) {
+        return translated;
+      }
+    }
+    
+    // If no translation found, capitalize the value
+    return value.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+  };
+
   const hasActiveFilters = (category: FilterCategory): boolean => {
     switch (category) {
       case 'sun':
@@ -188,18 +211,18 @@ function FiltersPanel({
   };
 
   const filterCategories = [
-    { key: 'sun' as FilterCategory, icon: '☀️', label: 'Sun' },
-    { key: 'moisture' as FilterCategory, icon: '💧', label: 'Moisture' },
-    { key: 'soil' as FilterCategory, icon: '🌱', label: 'Soil' },
-    { key: 'bloomColor' as FilterCategory, icon: '🎨', label: 'Color' },
-    { key: 'bloomTime' as FilterCategory, icon: '📅', label: 'Bloom' },
-    { key: 'height' as FilterCategory, icon: '📏', label: 'Height' },
-    { key: 'width' as FilterCategory, icon: '↔️', label: 'Width' },
-    { key: 'perennial' as FilterCategory, icon: '🌿', label: 'Type' },
-    { key: 'nativeRange' as FilterCategory, icon: '📍', label: 'Range' },
-    { key: 'hardinessZones' as FilterCategory, icon: '🌡️', label: 'Zones' },
-    { key: 'foodFor' as FilterCategory, icon: '🦋', label: 'Food' },
-    { key: 'usefulFor' as FilterCategory, icon: '🌻', label: 'Use' },
+    { key: 'sun' as FilterCategory, icon: '☀️', label: t('filters.sun') },
+    { key: 'moisture' as FilterCategory, icon: '💧', label: t('filters.moisture') },
+    { key: 'soil' as FilterCategory, icon: '🌱', label: t('filters.soil') },
+    { key: 'bloomColor' as FilterCategory, icon: '🎨', label: t('filters.bloomColor') },
+    { key: 'bloomTime' as FilterCategory, icon: '📅', label: t('filters.bloomTime') },
+    { key: 'height' as FilterCategory, icon: '📏', label: t('filters.height') },
+    { key: 'width' as FilterCategory, icon: '↔️', label: t('filters.width') },
+    { key: 'perennial' as FilterCategory, icon: '🌿', label: t('filters.type') },
+    { key: 'nativeRange' as FilterCategory, icon: '📍', label: t('filters.nativeRange') },
+    { key: 'hardinessZones' as FilterCategory, icon: '🌡️', label: t('filters.hardinessZones') },
+    { key: 'foodFor' as FilterCategory, icon: '🦋', label: t('filters.foodFor') },
+    { key: 'usefulFor' as FilterCategory, icon: '🌻', label: t('filters.usefulFor') },
   ];
 
   const activeFilterCount = Object.keys(filters).filter(key => {
@@ -217,7 +240,7 @@ function FiltersPanel({
             <input
               type="text"
               className="filter-search-input"
-              placeholder="🔍 Search..."
+              placeholder={t('filters.searchPlaceholder')}
               value={searchQuery}
               onChange={(e) => onSearchChange(e.target.value)}
             />
@@ -237,9 +260,9 @@ function FiltersPanel({
           ))}
           
           {activeFilterCount > 0 && (
-            <button className="clear-filters-icon-btn" onClick={onClearFilters} title="Clear All">
+            <button className="clear-filters-icon-btn" onClick={onClearFilters} title={t('filters.clearAll')}>
               <span>✕</span>
-              <span>Clear All</span>
+              <span>{t('filters.clearAll')}</span>
             </button>
           )}
         </div>
@@ -256,7 +279,7 @@ function FiltersPanel({
                   className={`filter-chip ${(filters.sun || []).includes(sun) ? 'selected' : ''}`}
                   onClick={() => toggleArrayFilter('sun', sun)}
                 >
-                  {sun.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}
+                  {t(`filters.${sun.replace(/-/g, '')}`)}
                 </button>
               ))}
             </div>
@@ -270,7 +293,7 @@ function FiltersPanel({
                   className={`filter-chip ${(filters.moisture || []).includes(moisture) ? 'selected' : ''}`}
                   onClick={() => toggleArrayFilter('moisture', moisture)}
                 >
-                  {moisture.charAt(0).toUpperCase() + moisture.slice(1)}
+                  {t(`filters.${moisture}`)}
                 </button>
               ))}
             </div>
@@ -284,7 +307,7 @@ function FiltersPanel({
                   className={`filter-chip ${(filters.soil || []).includes(soil) ? 'selected' : ''}`}
                   onClick={() => toggleArrayFilter('soil', soil)}
                 >
-                  {soil.charAt(0).toUpperCase() + soil.slice(1)}
+                  {t(`filters.${soil}`)}
                 </button>
               ))}
             </div>
@@ -298,7 +321,7 @@ function FiltersPanel({
                   className={`filter-chip ${(filters.bloomColor || []).includes(color) ? 'selected' : ''}`}
                   onClick={() => toggleArrayFilter('bloomColor', color)}
                 >
-                  {color.charAt(0).toUpperCase() + color.slice(1)}
+                  {translateFilterValue(color)}
                 </button>
               ))}
             </div>
@@ -312,7 +335,7 @@ function FiltersPanel({
                   className={`filter-chip ${(filters.bloomTime || []).includes(time) ? 'selected' : ''}`}
                   onClick={() => toggleArrayFilter('bloomTime', time)}
                 >
-                  {time.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}
+                  {translateFilterValue(time)}
                 </button>
               ))}
             </div>
@@ -320,12 +343,12 @@ function FiltersPanel({
 
           {expandedCategory === 'height' && (
             <div className="filter-range-row">
-              <label>Height (inches):</label>
+              <label>{t('filters.heightLabel')}</label>
               <div className="range-inputs">
                 <input
                   type="number"
                   className="range-input"
-                  placeholder="Min"
+                  placeholder={t('filters.min')}
                   value={filters.minHeight || ''}
                   onChange={(e) => handleRangeChange('minHeight', e.target.value)}
                 />
@@ -333,7 +356,7 @@ function FiltersPanel({
                 <input
                   type="number"
                   className="range-input"
-                  placeholder="Max"
+                  placeholder={t('filters.max')}
                   value={filters.maxHeight || ''}
                   onChange={(e) => handleRangeChange('maxHeight', e.target.value)}
                 />
@@ -343,12 +366,12 @@ function FiltersPanel({
 
           {expandedCategory === 'width' && (
             <div className="filter-range-row">
-              <label>Width (inches):</label>
+              <label>{t('filters.widthLabel')}</label>
               <div className="range-inputs">
                 <input
                   type="number"
                   className="range-input"
-                  placeholder="Min"
+                  placeholder={t('filters.min')}
                   value={filters.minWidth || ''}
                   onChange={(e) => handleRangeChange('minWidth', e.target.value)}
                 />
@@ -356,7 +379,7 @@ function FiltersPanel({
                 <input
                   type="number"
                   className="range-input"
-                  placeholder="Max"
+                  placeholder={t('filters.max')}
                   value={filters.maxWidth || ''}
                   onChange={(e) => handleRangeChange('maxWidth', e.target.value)}
                 />
@@ -370,7 +393,7 @@ function FiltersPanel({
                 className={`filter-chip ${filters.perennial === true ? 'selected' : ''}`}
                 onClick={() => toggleBooleanFilter('perennial')}
               >
-                Perennial
+                {t('filters.perennial')}
               </button>
             </div>
           )}
@@ -383,7 +406,7 @@ function FiltersPanel({
                   className={`filter-chip ${(filters.nativeRange || []).includes(range) ? 'selected' : ''}`}
                   onClick={() => toggleArrayFilter('nativeRange', range)}
                 >
-                  {range}
+                  {translateFilterValue(range)}
                 </button>
               ))}
             </div>
@@ -397,7 +420,7 @@ function FiltersPanel({
                   className={`filter-chip ${(filters.hardinessZones || []).includes(zone) ? 'selected' : ''}`}
                   onClick={() => toggleArrayFilter('hardinessZones', zone)}
                 >
-                  Zone {zone}
+                  {t('filters.zone')} {zone}
                 </button>
               ))}
             </div>
@@ -411,7 +434,7 @@ function FiltersPanel({
                   className={`filter-chip ${(filters.foodFor || []).includes(food) ? 'selected' : ''}`}
                   onClick={() => toggleArrayFilter('foodFor', food)}
                 >
-                  {food.charAt(0).toUpperCase() + food.slice(1)}
+                  {translateFilterValue(food)}
                 </button>
               ))}
             </div>
@@ -425,7 +448,7 @@ function FiltersPanel({
                   className={`filter-chip ${(filters.usefulFor || []).includes(use) ? 'selected' : ''}`}
                   onClick={() => toggleArrayFilter('usefulFor', use)}
                 >
-                  {use.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}
+                  {translateFilterValue(use)}
                 </button>
               ))}
             </div>
