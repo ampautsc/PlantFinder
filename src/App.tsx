@@ -35,8 +35,6 @@ function App() {
     nativeRanges: [] as string[],
     hardinessZones: [] as string[],
     hostPlantTo: [] as string[],
-    foodFor: [] as string[],
-    usefulFor: [] as string[],
   });
   const [plantVolumes, setPlantVolumes] = useState<Map<string, PlantSeedShareVolume>>(new Map());
   const [userActivities, setUserActivities] = useState<Map<string, UserPlantSeedShare>>(new Map());

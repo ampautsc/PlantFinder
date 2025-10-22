@@ -11,16 +11,78 @@
   "characteristics": {
     "height": 60,
     "width": 36,
-    "bloomColor": ["pink", "purple"],
-    "bloomTime": ["summer"],
+    "bloomColor": [
+      "pink",
+      "purple"
+    ],
+    "bloomTime": [
+      "summer"
+    ],
     "perennial": true,
-    "nativeRange": ["Maine", "New Hampshire", "Vermont", "Massachusetts", "Rhode Island", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware", "Maryland", "Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Minnesota", "Iowa", "Missouri", "Kentucky", "Tennessee", "Alabama", "Mississippi", "Arkansas", "Louisiana", "Oklahoma", "Kansas", "Nebraska", "South Dakota", "North Dakota"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Kentucky",
+      "Tennessee",
+      "Alabama",
+      "Mississippi",
+      "Arkansas",
+      "Louisiana",
+      "Oklahoma",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
   },
   "relationships": {
-    "hostPlantTo": ["Monarch butterfly", "Queen butterfly", "Milkweed Tussock Moth"],
-    "foodFor": ["butterflies", "bees", "hummingbirds"],
-    "usefulFor": ["pollinator garden", "monarch conservation", "naturalized areas", "wildlife habitat"]
+    "hostPlantTo": [
+      "Monarch butterfly",
+      "Queen butterfly",
+      "Milkweed Tussock Moth"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "hummingbirds"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "monarch conservation",
+      "naturalized areas",
+      "wildlife habitat"
+    ]
   },
   "imageUrl": "/images/plants/asclepias-syriaca/asclepias-syriaca-2025-10-15T21-08-21-710Z.jpeg"
 }
