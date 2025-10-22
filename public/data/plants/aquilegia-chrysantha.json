@@ -1,0 +1,45 @@
+{
+  "id": "aquilegia-chrysantha",
+  "commonName": "Hinckley's Golden Columbine",
+  "scientificName": "Aquilegia chrysantha var. hinckleyana",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 24,
+    "width": 18,
+    "bloomColor": [
+      "white"
+    ],
+    "bloomTime": [
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  },
+  "imageUrl": "/images/plants/aquilegia-chrysantha/aquilegia-chrysantha-2025-10-17T06-26-55-545Z.jpg",
+  "thumbnailUrl": "/images/plants/aquilegia-chrysantha/aquilegia-chrysantha-2025-10-17T06-26-55-545Z-thumb.jpg"
+}

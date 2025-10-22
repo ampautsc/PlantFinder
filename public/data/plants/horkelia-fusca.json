@@ -1,0 +1,47 @@
+{
+  "id": "horkelia-fusca",
+  "commonName": "Pinewoods Horkelia",
+  "scientificName": "Horkelia fusca",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 24,
+    "width": 18,
+    "bloomColor": [
+      "white"
+    ],
+    "bloomTime": [
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  },
+  "imageUrl": "/images/plants/horkelia-fusca/horkelia-fusca-2025-10-17T06-25-13-411Z.jpg",
+  "thumbnailUrl": "/images/plants/horkelia-fusca/horkelia-fusca-2025-10-17T06-25-13-411Z-thumb.jpg"
+}

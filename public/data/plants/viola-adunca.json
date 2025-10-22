@@ -1,0 +1,50 @@
+{
+  "id": "viola-adunca",
+  "commonName": "Hooked-spur Violet",
+  "scientificName": "Viola adunca",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "partial-shade",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 6,
+    "width": 12,
+    "bloomColor": [
+      "blue",
+      "purple"
+    ],
+    "bloomTime": [
+      "spring",
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Fritillary butterflies"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  },
+  "imageUrl": "/images/plants/viola-adunca/viola-adunca-2025-10-17T01-13-47-003Z.jpg",
+  "thumbnailUrl": "/images/plants/viola-adunca/viola-adunca-2025-10-17T01-13-47-003Z-thumb.jpg"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "asclepias-tuberosa",
+  "commonName": "Butterfly Weed",
+  "scientificName": "Asclepias tuberosa",
+  "description": "Brilliant orange flowers that are a magnet for butterflies, especially monarchs. Essential host plant for monarch caterpillars. Extremely drought tolerant once established with a deep taproot. Non-milky sap unlike other milkweeds.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "dry",
+    "soil": "sand"
+  },
+  "characteristics": {
+    "height": 24,
+    "width": 18,
+    "bloomColor": [
+      "orange"
+    ],
+    "bloomTime": [
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "Colorado",
+      "New Mexico",
+      "Arizona"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Monarch butterfly",
+      "Queen butterfly"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "monarch conservation",
+      "drought tolerance"
+    ]
+  },
+  "imageUrl": "/images/plants/asclepias-tuberosa/asclepias-tuberosa-2025-10-15T21-06-49-817Z.jpeg"
+}

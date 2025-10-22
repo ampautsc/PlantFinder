@@ -1,0 +1,49 @@
+{
+  "id": "viola-pedata",
+  "commonName": "Birdfoot Violet",
+  "scientificName": "Viola pedata",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "dry",
+    "soil": "sandy"
+  },
+  "characteristics": {
+    "height": 6,
+    "width": 8,
+    "bloomColor": [
+      "purple",
+      "blue"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Fritillary butterflies"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  },
+  "imageUrl": "/images/plants/viola-pedata/viola-pedata-2025-10-17T01-14-56-081Z.jpg",
+  "thumbnailUrl": "/images/plants/viola-pedata/viola-pedata-2025-10-17T01-14-56-081Z-thumb.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "symphyotrichum-ciliolatum",
+  "commonName": "Lindley's Aster",
+  "scientificName": "Symphyotrichum ciliolatum",
+  "description": "A native plant species. This plant adds natural beauty to native gardens.",
+  "requirements": {
+    "sun": "partial-shade",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 36,
+    "width": 24,
+    "bloomColor": [
+      "blue",
+      "purple"
+    ],
+    "bloomTime": [
+      "late summer",
+      "fall"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "United States"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "native garden"
+    ]
+  },
+  "imageUrl": "/images/plants/symphyotrichum-ciliolatum/symphyotrichum-ciliolatum-2025-10-17T01-13-57-264Z.jpg",
+  "thumbnailUrl": "/images/plants/symphyotrichum-ciliolatum/symphyotrichum-ciliolatum-2025-10-17T01-13-57-264Z-thumb.jpg"
+}
