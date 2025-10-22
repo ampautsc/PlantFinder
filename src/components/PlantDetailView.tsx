@@ -193,9 +193,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
           </div>
           {plant.imageUrl ? (
             <div className="detail-hero-image">
-              <a href={plant.imageUrl} target="_blank" rel="noopener noreferrer" title="Click to view full-size image">
-                <img src={plant.imageUrl} alt={plant.commonName} />
-              </a>
+              <img src={plant.imageUrl} alt={plant.commonName} />
               <SeedExchangeOverlay
                 hasActiveOffer={userActivity.hasActiveOffer}
                 hasActiveRequest={userActivity.hasActiveRequest}
