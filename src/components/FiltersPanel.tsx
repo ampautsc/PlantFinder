@@ -114,43 +114,42 @@ function FiltersPanel({
     const viewportWidth = window.innerWidth;
     const viewportHeight = window.innerHeight;
     
-    // Get the filters panel width
-    const filtersPanelWidth = filtersPanelRef.current?.getBoundingClientRect().width || 180;
+    // Get the filters panel dimensions
+    const filtersPanelRect = filtersPanelRef.current?.getBoundingClientRect();
+    const filtersPanelWidth = filtersPanelRect?.width || 180;
+    const filtersPanelRight = filtersPanelRect?.right || 180;
     
     // Expansion panel dimensions (from CSS)
     const expansionWidth = 280;
     const expansionMaxHeight = 400;
+    const spacing = 10; // Spacing between filter panel and expansion
     
     // Calculate horizontal position
-    let left = filtersPanelWidth;
+    // Position to the right of the filter panel with spacing
+    let left = filtersPanelRight + spacing;
     
     // Check if expansion panel would go off-screen to the right
     if (left + expansionWidth > viewportWidth) {
       // Try positioning to the left of the filter panel
-      left = Math.max(0, buttonRect.left - expansionWidth);
+      left = Math.max(spacing, buttonRect.left - expansionWidth - spacing);
       
-      // If still doesn't fit, position at the right edge with some padding
-      if (left < 0) {
-        left = Math.max(10, viewportWidth - expansionWidth - 10);
+      // If still doesn't fit, position at the right edge with padding
+      if (left < spacing) {
+        left = Math.max(spacing, viewportWidth - expansionWidth - spacing);
       }
     }
     
-    // Calculate vertical position
+    // Calculate vertical position aligned with the button
     let top = buttonRect.top;
     
     // Check if expansion panel would go off-screen to the bottom
     if (top + expansionMaxHeight > viewportHeight) {
-      // Try positioning above the button
-      top = Math.max(10, buttonRect.bottom - expansionMaxHeight);
-      
-      // If still doesn't fit, position at the bottom with some padding
-      if (top < 10) {
-        top = Math.max(10, viewportHeight - expansionMaxHeight - 10);
-      }
+      // Try positioning so bottom aligns with viewport
+      top = Math.max(spacing, viewportHeight - expansionMaxHeight - spacing);
     }
     
-    // Ensure minimum padding from top
-    top = Math.max(10, top);
+    // Ensure minimum padding from top and that it doesn't go above the header
+    top = Math.max(spacing, top);
     
     return { top, left };
   };
