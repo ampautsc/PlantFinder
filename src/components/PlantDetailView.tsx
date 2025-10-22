@@ -16,7 +16,6 @@ const CURRENT_USER_ID = 'current';
 
 function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
   const [expandedSections, setExpandedSections] = useState<Set<string>>(new Set());
-  const [imageError, setImageError] = useState(false);
   const [plantVolume, setPlantVolume] = useState<PlantSeedShareVolume>({
     plantId: plant.id,
     openOffers: 0,
@@ -49,8 +48,6 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     loadSeedShareData();
     // Register plant data with the service for match display
     mockSeedShareService.registerPlantData(plant.id, plant.commonName, plant.scientificName);
-    // Reset image error state when plant changes
-    setImageError(false);
   }, [plant.id, plant.commonName, plant.scientificName, loadSeedShareData]);
 
   const handleCreateOffer = async (quantity: number) => {
@@ -194,14 +191,9 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
             <h1 className="detail-common-name">{plant.commonName}</h1>
             <p className="detail-scientific-name">{plant.scientificName}</p>
           </div>
-          {plant.imageUrl && !imageError ? (
+          {plant.thumbnailUrl || plant.imageUrl ? (
             <div className="detail-hero-image">
-              <img 
-                src={plant.imageUrl} 
-                alt={plant.commonName} 
-                loading="lazy"
-                onError={() => setImageError(true)}
-              />
+              <img src={plant.thumbnailUrl || plant.imageUrl} alt={plant.commonName} />
               <SeedExchangeOverlay
                 hasActiveOffer={userActivity.hasActiveOffer}
                 hasActiveRequest={userActivity.hasActiveRequest}
