@@ -120,7 +120,8 @@
     "select": "Select Language",
     "english": "English",
     "spanish": "Spanish",
-    "german": "German"
+    "german": "German",
+    "hindi": "Hindi"
   },
   "common": {
     "close": "Close",
