@@ -11,8 +11,6 @@ interface FiltersPanelProps {
     nativeRanges: string[];
     hardinessZones: string[];
     hostPlantTo: string[];
-    foodFor: string[];
-    usefulFor: string[];
   };
   onFiltersChange: (filters: PlantFilters) => void;
   onClearFilters: () => void;
@@ -21,7 +19,7 @@ interface FiltersPanelProps {
   onSearchChange: (query: string) => void;
 }
 
-type FilterCategory = 'sun' | 'moisture' | 'soil' | 'bloomColor' | 'bloomTime' | 'height' | 'width' | 'perennial' | 'nativeRange' | 'hardinessZones' | 'foodFor' | 'usefulFor';
+type FilterCategory = 'sun' | 'moisture' | 'soil' | 'bloomColor' | 'bloomTime' | 'nativeRange' | 'hardinessZones';
 
 function FiltersPanel({
   filters,
@@ -91,21 +89,6 @@ function FiltersPanel({
     });
   };
 
-  const handleRangeChange = (key: keyof PlantFilters, value: string) => {
-    const numValue = value === '' ? undefined : parseInt(value);
-    onFiltersChange({
-      ...filters,
-      [key]: numValue,
-    });
-  };
-
-  const toggleBooleanFilter = (key: keyof PlantFilters) => {
-    onFiltersChange({
-      ...filters,
-      [key]: filters[key] === undefined ? true : undefined,
-    });
-  };
-
   const calculateExpansionPosition = (category: FilterCategory) => {
     const buttonElement = buttonRefs.current[category];
     if (!buttonElement) return { top: 0, left: 180 };
@@ -116,7 +99,6 @@ function FiltersPanel({
     
     // Get the filters panel dimensions
     const filtersPanelRect = filtersPanelRef.current?.getBoundingClientRect();
-    const filtersPanelWidth = filtersPanelRect?.width || 180;
     const filtersPanelRight = filtersPanelRect?.right || 180;
     
     // Expansion panel dimensions (from CSS)
@@ -195,33 +177,20 @@ function FiltersPanel({
       case 'bloomTime':
       case 'nativeRange':
       case 'hardinessZones':
-      case 'foodFor':
-      case 'usefulFor':
         return ((filters[category] as string[] | undefined) || []).length > 0;
-      case 'height':
-        return filters.minHeight !== undefined || filters.maxHeight !== undefined;
-      case 'width':
-        return filters.minWidth !== undefined || filters.maxWidth !== undefined;
-      case 'perennial':
-        return filters.perennial === true;
       default:
         return false;
     }
   };
 
   const filterCategories = [
+    { key: 'hardinessZones' as FilterCategory, icon: '🌡️', label: t('filters.hardinessZones') },
+    { key: 'nativeRange' as FilterCategory, icon: '📍', label: t('filters.nativeRange') },
     { key: 'sun' as FilterCategory, icon: '☀️', label: t('filters.sun') },
     { key: 'moisture' as FilterCategory, icon: '💧', label: t('filters.moisture') },
     { key: 'soil' as FilterCategory, icon: '🌱', label: t('filters.soil') },
     { key: 'bloomColor' as FilterCategory, icon: '🎨', label: t('filters.bloomColor') },
     { key: 'bloomTime' as FilterCategory, icon: '📅', label: t('filters.bloomTime') },
-    { key: 'height' as FilterCategory, icon: '📏', label: t('filters.height') },
-    { key: 'width' as FilterCategory, icon: '↔️', label: t('filters.width') },
-    { key: 'perennial' as FilterCategory, icon: '🌿', label: t('filters.type') },
-    { key: 'nativeRange' as FilterCategory, icon: '📍', label: t('filters.nativeRange') },
-    { key: 'hardinessZones' as FilterCategory, icon: '🌡️', label: t('filters.hardinessZones') },
-    { key: 'foodFor' as FilterCategory, icon: '🦋', label: t('filters.foodFor') },
-    { key: 'usefulFor' as FilterCategory, icon: '🌻', label: t('filters.usefulFor') },
   ];
 
   const activeFilterCount = Object.keys(filters).filter(key => {
@@ -340,63 +309,6 @@ function FiltersPanel({
             </div>
           )}
 
-          {expandedCategory === 'height' && (
-            <div className="filter-range-row">
-              <label>{t('filters.heightLabel')}</label>
-              <div className="range-inputs">
-                <input
-                  type="number"
-                  className="range-input"
-                  placeholder={t('filters.min')}
-                  value={filters.minHeight || ''}
-                  onChange={(e) => handleRangeChange('minHeight', e.target.value)}
-                />
-                <span>-</span>
-                <input
-                  type="number"
-                  className="range-input"
-                  placeholder={t('filters.max')}
-                  value={filters.maxHeight || ''}
-                  onChange={(e) => handleRangeChange('maxHeight', e.target.value)}
-                />
-              </div>
-            </div>
-          )}
-
-          {expandedCategory === 'width' && (
-            <div className="filter-range-row">
-              <label>{t('filters.widthLabel')}</label>
-              <div className="range-inputs">
-                <input
-                  type="number"
-                  className="range-input"
-                  placeholder={t('filters.min')}
-                  value={filters.minWidth || ''}
-                  onChange={(e) => handleRangeChange('minWidth', e.target.value)}
-                />
-                <span>-</span>
-                <input
-                  type="number"
-                  className="range-input"
-                  placeholder={t('filters.max')}
-                  value={filters.maxWidth || ''}
-                  onChange={(e) => handleRangeChange('maxWidth', e.target.value)}
-                />
-              </div>
-            </div>
-          )}
-
-          {expandedCategory === 'perennial' && (
-            <div className="filter-options-row">
-              <button
-                className={`filter-chip ${filters.perennial === true ? 'selected' : ''}`}
-                onClick={() => toggleBooleanFilter('perennial')}
-              >
-                {t('filters.perennial')}
-              </button>
-            </div>
-          )}
-
           {expandedCategory === 'nativeRange' && (
             <div className="filter-options-row">
               {filterOptions.nativeRanges.map(range => (
@@ -425,33 +337,7 @@ function FiltersPanel({
             </div>
           )}
 
-          {expandedCategory === 'foodFor' && (
-            <div className="filter-options-row">
-              {filterOptions.foodFor.map(food => (
-                <button
-                  key={food}
-                  className={`filter-chip ${(filters.foodFor || []).includes(food) ? 'selected' : ''}`}
-                  onClick={() => toggleArrayFilter('foodFor', food)}
-                >
-                  {translateFilterValue(food)}
-                </button>
-              ))}
-            </div>
-          )}
 
-          {expandedCategory === 'usefulFor' && (
-            <div className="filter-options-row">
-              {filterOptions.usefulFor.map(use => (
-                <button
-                  key={use}
-                  className={`filter-chip ${(filters.usefulFor || []).includes(use) ? 'selected' : ''}`}
-                  onClick={() => toggleArrayFilter('usefulFor', use)}
-                >
-                  {translateFilterValue(use)}
-                </button>
-              ))}
-            </div>
-          )}
         </div>,
         document.body
       )}

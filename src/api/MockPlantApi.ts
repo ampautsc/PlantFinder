@@ -87,13 +87,6 @@ export class MockPlantApi implements IPlantApi {
       );
     }
 
-    // Filter by perennial
-    if (filters.perennial !== undefined) {
-      results = results.filter(plant =>
-        plant.characteristics && plant.characteristics.perennial === filters.perennial
-      );
-    }
-
     // Filter by native range
     if (filters.nativeRange && filters.nativeRange.length > 0) {
       results = results.filter(plant =>
@@ -116,30 +109,6 @@ export class MockPlantApi implements IPlantApi {
       );
     }
 
-    // Filter by height
-    if (filters.minHeight !== undefined) {
-      results = results.filter(plant =>
-        plant.characteristics && plant.characteristics.height >= filters.minHeight!
-      );
-    }
-    if (filters.maxHeight !== undefined) {
-      results = results.filter(plant =>
-        plant.characteristics && plant.characteristics.height <= filters.maxHeight!
-      );
-    }
-
-    // Filter by width
-    if (filters.minWidth !== undefined) {
-      results = results.filter(plant =>
-        plant.characteristics && plant.characteristics.width >= filters.minWidth!
-      );
-    }
-    if (filters.maxWidth !== undefined) {
-      results = results.filter(plant =>
-        plant.characteristics && plant.characteristics.width <= filters.maxWidth!
-      );
-    }
-
     // Filter by host plant relationships
     if (filters.hostPlantTo && filters.hostPlantTo.length > 0) {
       results = results.filter(plant =>
@@ -148,30 +117,6 @@ export class MockPlantApi implements IPlantApi {
         plant.relationships.hostPlantTo.some(host =>
           filters.hostPlantTo!.some(filter =>
             host.toLowerCase().includes(filter.toLowerCase())
-          )
-        )
-      );
-    }
-
-    // Filter by food for relationships
-    if (filters.foodFor && filters.foodFor.length > 0) {
-      results = results.filter(plant =>
-        plant.relationships && 
-        plant.relationships.foodFor && 
-        plant.relationships.foodFor.some(food =>
-          filters.foodFor!.includes(food)
-        )
-      );
-    }
-
-    // Filter by useful for relationships
-    if (filters.usefulFor && filters.usefulFor.length > 0) {
-      results = results.filter(plant =>
-        plant.relationships && 
-        plant.relationships.usefulFor && 
-        plant.relationships.usefulFor.some(use =>
-          filters.usefulFor!.some(filter =>
-            use.toLowerCase().includes(filter.toLowerCase())
           )
         )
       );
@@ -186,8 +131,6 @@ export class MockPlantApi implements IPlantApi {
     nativeRanges: string[];
     hardinessZones: string[];
     hostPlantTo: string[];
-    foodFor: string[];
-    usefulFor: string[];
   }> {
     await this.delay(200);
 
@@ -201,8 +144,6 @@ export class MockPlantApi implements IPlantApi {
     const nativeRanges = new Set<string>();
     const hardinessZones = new Set<string>();
     const hostPlantTo = new Set<string>();
-    const foodFor = new Set<string>();
-    const usefulFor = new Set<string>();
 
     this.plantsCache.forEach(plant => {
       if (plant.characteristics) {
@@ -223,12 +164,6 @@ export class MockPlantApi implements IPlantApi {
         if (plant.relationships.hostPlantTo) {
           plant.relationships.hostPlantTo.forEach(host => hostPlantTo.add(host));
         }
-        if (plant.relationships.foodFor) {
-          plant.relationships.foodFor.forEach(food => foodFor.add(food));
-        }
-        if (plant.relationships.usefulFor) {
-          plant.relationships.usefulFor.forEach(use => usefulFor.add(use));
-        }
       }
     });
 
@@ -238,8 +173,6 @@ export class MockPlantApi implements IPlantApi {
       nativeRanges: Array.from(nativeRanges).sort(),
       hardinessZones: Array.from(hardinessZones).sort((a, b) => parseInt(a) - parseInt(b)),
       hostPlantTo: Array.from(hostPlantTo).sort(),
-      foodFor: Array.from(foodFor).sort(),
-      usefulFor: Array.from(usefulFor).sort(),
     };
   }
 
