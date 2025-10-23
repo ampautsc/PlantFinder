@@ -11,7 +11,8 @@ function LanguageSelector() {
     { code: 'en', name: 'English', flag: '🇺🇸', label: 'English', abbr: 'EN' },
     { code: 'es', name: 'Español', flag: '🇪🇸', label: 'Español', abbr: 'ES' },
     { code: 'de', name: 'Deutsch', flag: '🇩🇪', label: 'Deutsch', abbr: 'DE' },
-    { code: 'ja', name: '日本語', flag: '🇯🇵', label: '日本語', abbr: 'JA' }
+    { code: 'ja', name: '日本語', flag: '🇯🇵', label: '日本語', abbr: 'JA' },
+    { code: 'zh', name: '简体中文', flag: '🇨🇳', label: '简体中文', abbr: '中文' }
   ];
 
   const currentLanguage = languages.find(lang => lang.code === i18n.language) || languages[0];

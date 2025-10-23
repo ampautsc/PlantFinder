@@ -22,6 +22,16 @@ Camp Monarch's Plant Finder - A mobile-first web application for discovering nat
 - Collapsible filter panel on mobile devices
 - Optimized for performance with lazy-loaded data
 
+### Internationalization
+- Multi-language support with i18next integration
+- Supported languages:
+  - **English** (en)
+  - **Spanish / Español** (es)
+  - **German / Deutsch** (de)
+  - **Chinese (Simplified) / 简体中文** (zh)
+- Language selector with persistent storage
+- Complete UI translations including filters, plant details, and feedback forms
+
 ### User Feedback
 - Built-in feedback mechanism for users to submit bug reports, feature requests, and general feedback
 - Feedback is automatically stored in the repository for review
@@ -53,6 +63,7 @@ Camp Monarch's Plant Finder - A mobile-first web application for discovering nat
 - **React 18** - UI framework
 - **TypeScript** - Type-safe development
 - **Vite** - Fast build tool and dev server
+- **i18next** - Internationalization framework
 - **CSS3** - Mobile-first responsive styling
 - **Azure Static Web Apps** - Deployment platform
 
