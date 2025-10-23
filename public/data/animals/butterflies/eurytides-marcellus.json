@@ -1,0 +1,53 @@
+{
+  "id": "eurytides-marcellus",
+  "commonName": "Zebra Swallowtail",
+  "scientificName": "Eurytides marcellus",
+  "description": "Zebra Swallowtail is a beautiful native butterfly. Caterpillars require Asimina triloba as their sole host plant. Important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "medium"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Asimina triloba"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "woodlands",
+      "meadows",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Delaware",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Florida",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas",
+    "Kansas",
+    "Nebraska"
+  ]
+}
