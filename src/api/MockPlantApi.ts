@@ -122,6 +122,32 @@ export class MockPlantApi implements IPlantApi {
       );
     }
 
+    // Filter by food for relationships
+    if (filters.foodFor && filters.foodFor.length > 0) {
+      results = results.filter(plant =>
+        plant.relationships && 
+        plant.relationships.foodFor && 
+        plant.relationships.foodFor.some(food =>
+          filters.foodFor!.some(filter =>
+            food.toLowerCase().includes(filter.toLowerCase())
+          )
+        )
+      );
+    }
+
+    // Filter by shelter for relationships
+    if (filters.shelterFor && filters.shelterFor.length > 0) {
+      results = results.filter(plant =>
+        plant.relationships && 
+        plant.relationships.shelterFor && 
+        plant.relationships.shelterFor.some(shelter =>
+          filters.shelterFor!.some(filter =>
+            shelter.toLowerCase().includes(filter.toLowerCase())
+          )
+        )
+      );
+    }
+
     return results;
   }
 
@@ -131,6 +157,8 @@ export class MockPlantApi implements IPlantApi {
     nativeRanges: string[];
     hardinessZones: string[];
     hostPlantTo: string[];
+    foodFor: string[];
+    shelterFor: string[];
   }> {
     await this.delay(200);
 
@@ -144,6 +172,8 @@ export class MockPlantApi implements IPlantApi {
     const nativeRanges = new Set<string>();
     const hardinessZones = new Set<string>();
     const hostPlantTo = new Set<string>();
+    const foodFor = new Set<string>();
+    const shelterFor = new Set<string>();
 
     this.plantsCache.forEach(plant => {
       if (plant.characteristics) {
@@ -164,6 +194,12 @@ export class MockPlantApi implements IPlantApi {
         if (plant.relationships.hostPlantTo) {
           plant.relationships.hostPlantTo.forEach(host => hostPlantTo.add(host));
         }
+        if (plant.relationships.foodFor) {
+          plant.relationships.foodFor.forEach(food => foodFor.add(food));
+        }
+        if (plant.relationships.shelterFor) {
+          plant.relationships.shelterFor.forEach(shelter => shelterFor.add(shelter));
+        }
       }
     });
 
@@ -173,6 +209,8 @@ export class MockPlantApi implements IPlantApi {
       nativeRanges: Array.from(nativeRanges).sort(),
       hardinessZones: Array.from(hardinessZones).sort((a, b) => parseInt(a) - parseInt(b)),
       hostPlantTo: Array.from(hostPlantTo).sort(),
+      foodFor: Array.from(foodFor).sort(),
+      shelterFor: Array.from(shelterFor).sort(),
     };
   }
 

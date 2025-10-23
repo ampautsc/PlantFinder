@@ -11,6 +11,8 @@ interface FiltersPanelProps {
     nativeRanges: string[];
     hardinessZones: string[];
     hostPlantTo: string[];
+    foodFor: string[];
+    shelterFor: string[];
   };
   onFiltersChange: (filters: PlantFilters) => void;
   onClearFilters: () => void;
@@ -19,7 +21,7 @@ interface FiltersPanelProps {
   onSearchChange: (query: string) => void;
 }
 
-type FilterCategory = 'sun' | 'moisture' | 'soil' | 'bloomColor' | 'bloomTime' | 'nativeRange' | 'hardinessZones';
+type FilterCategory = 'wildlife' | 'sun' | 'moisture' | 'soil' | 'bloomColor' | 'bloomTime' | 'nativeRange' | 'hardinessZones';
 
 function FiltersPanel({
   filters,
@@ -222,6 +224,12 @@ function FiltersPanel({
 
   const hasActiveFilters = (category: FilterCategory): boolean => {
     switch (category) {
+      case 'wildlife':
+        return (
+          ((filters.hostPlantTo as string[] | undefined) || []).length > 0 ||
+          ((filters.foodFor as string[] | undefined) || []).length > 0 ||
+          ((filters.shelterFor as string[] | undefined) || []).length > 0
+        );
       case 'sun':
       case 'moisture':
       case 'soil':
@@ -236,6 +244,7 @@ function FiltersPanel({
   };
 
   const filterCategories = [
+    { key: 'wildlife' as FilterCategory, icon: '🦋', label: t('filters.wildlife') },
     { key: 'hardinessZones' as FilterCategory, icon: '🌡️', label: t('filters.hardinessZones') },
     { key: 'nativeRange' as FilterCategory, icon: '📍', label: t('filters.nativeRange') },
     { key: 'sun' as FilterCategory, icon: '☀️', label: t('filters.sun') },
@@ -291,6 +300,53 @@ function FiltersPanel({
       {/* Expanded filter options - rendered via portal to document body */}
       {expandedCategory && document.body && createPortal(
         <div ref={expansionPanelRef} className="filter-expansion" style={{ top: `${expansionPosition.top}px`, left: `${expansionPosition.left}px` }}>
+          {expandedCategory === 'wildlife' && (
+            <div className="filter-options-column">
+              <div className="filter-section">
+                <div className="filter-section-title">{t('filters.hostPlantTo')}</div>
+                <div className="filter-options-row">
+                  {filterOptions.hostPlantTo.map(host => (
+                    <button
+                      key={host}
+                      className={`filter-chip ${(filters.hostPlantTo || []).includes(host) ? 'selected' : ''}`}
+                      onClick={() => toggleArrayFilter('hostPlantTo', host)}
+                    >
+                      {translateFilterValue(host)}
+                    </button>
+                  ))}
+                </div>
+              </div>
+              <div className="filter-section">
+                <div className="filter-section-title">{t('filters.foodFor')}</div>
+                <div className="filter-options-row">
+                  {filterOptions.foodFor.map(food => (
+                    <button
+                      key={food}
+                      className={`filter-chip ${(filters.foodFor || []).includes(food) ? 'selected' : ''}`}
+                      onClick={() => toggleArrayFilter('foodFor', food)}
+                    >
+                      {translateFilterValue(food)}
+                    </button>
+                  ))}
+                </div>
+              </div>
+              <div className="filter-section">
+                <div className="filter-section-title">{t('filters.shelterFor')}</div>
+                <div className="filter-options-row">
+                  {filterOptions.shelterFor.map(shelter => (
+                    <button
+                      key={shelter}
+                      className={`filter-chip ${(filters.shelterFor || []).includes(shelter) ? 'selected' : ''}`}
+                      onClick={() => toggleArrayFilter('shelterFor', shelter)}
+                    >
+                      {translateFilterValue(shelter)}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            </div>
+          )}
+
           {expandedCategory === 'sun' && (
             <div className="filter-options-row">
               {(['full-sun', 'partial-sun', 'partial-shade', 'full-shade'] as const).map(sun => (
