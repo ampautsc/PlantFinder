@@ -6425,3 +6425,215 @@
 [2025-10-23 01:27:55] Failed: 4 plants
 [2025-10-23 01:27:55] Skipped: 0 plants
 [2025-10-23 01:27:55] Total plants without images remaining: 4
+[2025-10-23 19:46:29] Batch job started (version 2.0.0)
+[2025-10-23 19:46:29] Limit set to 23 images
+[2025-10-23 19:46:29] Scanning for plants without images...
+[2025-10-23 19:46:29] Found 22 plants without images
+[2025-10-23 19:46:29] Processing 22 plants
+[2025-10-23 19:46:29] [1/22] Processing: Hinckley's Golden Columbine
+[2025-10-23 19:46:29]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-23 19:46:30]     No image found on Wikipedia
+[2025-10-23 19:46:30]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-10-23 19:46:30]     No image found on iNaturalist
+[2025-10-23 19:46:30]   No image found from any source - skipping
+[2025-10-23 19:46:30] [2/22] Processing: White Ash
+[2025-10-23 19:46:30]   Searching Wikipedia for: Fraxinus americana (White Ash)
+[2025-10-23 19:46:30]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/d/d9/Fraxinus_americana_002.jpg
+[2025-10-23 19:46:30]     Downloading from wikipedia to: public/images/plants/fraxinus-americana/fraxinus-americana-2025-10-23T19-46-30-816Z.jpg
+[2025-10-23 19:46:31]     Downloaded 3410.5 KB
+[2025-10-23 19:46:31]     Resized from 1944x2592 to 900x1200
+[2025-10-23 19:46:31]     Optimized to 465.7 KB (86.3% reduction)
+[2025-10-23 19:46:31]     Successfully processed image from wikipedia
+[2025-10-23 19:46:31]     Updated public/data/plants/fraxinus-americana.json with imageUrl
+[2025-10-23 19:46:31]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:31] [3/22] Processing: Meadow Parsnip
+[2025-10-23 19:46:31]   Searching Wikipedia for: Thaspium trifoliatum (Meadow Parsnip)
+[2025-10-23 19:46:31]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/0/02/Thaspium_trifoliatum.jpg
+[2025-10-23 19:46:31]     Downloading from wikipedia to: public/images/plants/thaspium-trifoliatum/thaspium-trifoliatum-2025-10-23T19-46-31-375Z.jpg
+[2025-10-23 19:46:31]     Downloaded 1456.2 KB
+[2025-10-23 19:46:31]     Resized from 3096x2442 to 1200x946
+[2025-10-23 19:46:31]     Optimized to 194.4 KB (86.7% reduction)
+[2025-10-23 19:46:31]     Successfully processed image from wikipedia
+[2025-10-23 19:46:31]     Updated public/data/plants/thaspium-trifoliatum.json with imageUrl
+[2025-10-23 19:46:31]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:31] [4/22] Processing: American Cranberry Bush
+[2025-10-23 19:46:31]   Searching Wikipedia for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-10-23 19:46:32]     No image found on Wikipedia
+[2025-10-23 19:46:32]   Searching iNaturalist for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-10-23 19:46:32]     No image found on iNaturalist
+[2025-10-23 19:46:32]   No image found from any source - skipping
+[2025-10-23 19:46:32] [5/22] Processing: Tulip Tree
+[2025-10-23 19:46:32]   Searching Wikipedia for: Liriodendron tulipifera (Tulip Tree)
+[2025-10-23 19:46:32]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/3/37/Liriodendron_tulipifera_%28arbre%29_-_Laeken.JPG
+[2025-10-23 19:46:32]     Downloading from wikipedia to: public/images/plants/liriodendron-tulipifera/liriodendron-tulipifera-2025-10-23T19-46-32-564Z.jpg
+[2025-10-23 19:46:32]     Downloaded 1802.0 KB
+[2025-10-23 19:46:32]     Resized from 1152x1728 to 800x1200
+[2025-10-23 19:46:32]     Optimized to 341.7 KB (81.0% reduction)
+[2025-10-23 19:46:32]     Successfully processed image from wikipedia
+[2025-10-23 19:46:32]     Updated public/data/plants/liriodendron-tulipifera.json with imageUrl
+[2025-10-23 19:46:32]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:32] [6/22] Processing: Pussy Willow
+[2025-10-23 19:46:32]   Searching Wikipedia for: Salix discolor (Pussy Willow)
+[2025-10-23 19:46:32]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/1/15/Salix_discolor_%28USDA%29.jpg
+[2025-10-23 19:46:32]     Downloading from wikipedia to: public/images/plants/salix-discolor/salix-discolor-2025-10-23T19-46-32-942Z.jpg
+[2025-10-23 19:46:33]     Downloaded 314.8 KB
+[2025-10-23 19:46:33]     Resized from 1039x1618 to 770x1200
+[2025-10-23 19:46:33]     Optimized to 161.9 KB (48.6% reduction)
+[2025-10-23 19:46:33]     Successfully processed image from wikipedia
+[2025-10-23 19:46:33]     Updated public/data/plants/salix-discolor.json with imageUrl
+[2025-10-23 19:46:33]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:33] [7/22] Processing: Blackseed Plantain
+[2025-10-23 19:46:33]   Searching Wikipedia for: Plantago rugelii (Blackseed Plantain)
+[2025-10-23 19:46:33]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/c/cf/Plantago_rugelii_%284496564189%29.jpg
+[2025-10-23 19:46:33]     Downloading from wikipedia to: public/images/plants/plantago-rugelii/plantago-rugelii-2025-10-23T19-46-33-268Z.jpg
+[2025-10-23 19:46:33]     Downloaded 2760.2 KB
+[2025-10-23 19:46:33]     Resized from 1783x1815 to 1178x1200
+[2025-10-23 19:46:33]     Optimized to 332.4 KB (88.0% reduction)
+[2025-10-23 19:46:33]     Successfully processed image from wikipedia
+[2025-10-23 19:46:33]     Updated public/data/plants/plantago-rugelii.json with imageUrl
+[2025-10-23 19:46:33]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:33] [8/22] Processing: Chokecherry
+[2025-10-23 19:46:33]   Searching Wikipedia for: Prunus virginiana (Chokecherry)
+[2025-10-23 19:46:33]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/e/e5/Prunus_virginiana_flowers.jpg
+[2025-10-23 19:46:33]     Downloading from wikipedia to: public/images/plants/prunus-virginiana/prunus-virginiana-2025-10-23T19-46-33-771Z.jpg
+[2025-10-23 19:46:34]     Downloaded 2183.2 KB
+[2025-10-23 19:46:34]     Resized from 1902x2199 to 1037x1200
+[2025-10-23 19:46:34]     Optimized to 264.2 KB (87.9% reduction)
+[2025-10-23 19:46:34]     Successfully processed image from wikipedia
+[2025-10-23 19:46:34]     Updated public/data/plants/prunus-virginiana.json with imageUrl
+[2025-10-23 19:46:34]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:34] [9/22] Processing: Hackberry
+[2025-10-23 19:46:34]   Searching Wikipedia for: Celtis occidentalis (Hackberry)
+[2025-10-23 19:46:34]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/8/82/Celtis_occidentalis_20090606.jpg
+[2025-10-23 19:46:34]     Downloading from wikipedia to: public/images/plants/celtis-occidentalis/celtis-occidentalis-2025-10-23T19-46-34-235Z.jpg
+[2025-10-23 19:46:34]     Downloaded 3828.1 KB
+[2025-10-23 19:46:34]     Resized from 2112x2816 to 900x1200
+[2025-10-23 19:46:34]     Optimized to 356.4 KB (90.7% reduction)
+[2025-10-23 19:46:34]     Successfully processed image from wikipedia
+[2025-10-23 19:46:34]     Updated public/data/plants/celtis-occidentalis.json with imageUrl
+[2025-10-23 19:46:34]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:34] [10/22] Processing: Blunt-leaf Rabbit-tobacco
+[2025-10-23 19:46:34]   Searching Wikipedia for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-10-23 19:46:34]     No image found on Wikipedia
+[2025-10-23 19:46:34]   Searching iNaturalist for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-10-23 19:46:35]     No image found on iNaturalist
+[2025-10-23 19:46:35]   No image found from any source - skipping
+[2025-10-23 19:46:35] [11/22] Processing: Partridge Pea
+[2025-10-23 19:46:35]   Searching Wikipedia for: Chamaecrista fasciculata (Partridge Pea)
+[2025-10-23 19:46:35]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/6/67/Partridge.jpg
+[2025-10-23 19:46:35]     Downloading from wikipedia to: public/images/plants/chamaecrista-fasciculata/chamaecrista-fasciculata-2025-10-23T19-46-35-432Z.jpg
+[2025-10-23 19:46:35]     Downloaded 425.3 KB
+[2025-10-23 19:46:35]     Optimized to 102.4 KB (75.9% reduction)
+[2025-10-23 19:46:35]     Successfully processed image from wikipedia
+[2025-10-23 19:46:35]     Updated public/data/plants/chamaecrista-fasciculata.json with imageUrl
+[2025-10-23 19:46:35]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:35] [12/22] Processing: Virginia Snakeroot
+[2025-10-23 19:46:35]   Searching Wikipedia for: Aristolochia serpentaria (Virginia Snakeroot)
+[2025-10-23 19:46:35]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/2/26/Aristolochia_serpentaria.jpg
+[2025-10-23 19:46:35]     Downloading from wikipedia to: public/images/plants/aristolochia-serpentaria/aristolochia-serpentaria-2025-10-23T19-46-35-740Z.jpg
+[2025-10-23 19:46:36]     Downloaded 23271.3 KB
+[2025-10-23 19:46:37]     Resized from 5484x3656 to 1200x800
+[2025-10-23 19:46:37]     Optimized to 168.8 KB (99.3% reduction)
+[2025-10-23 19:46:37]     Successfully processed image from wikipedia
+[2025-10-23 19:46:37]     Updated public/data/plants/aristolochia-serpentaria.json with imageUrl
+[2025-10-23 19:46:37]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:37] [13/22] Processing: Woolly Pipevine
+[2025-10-23 19:46:37]   Searching Wikipedia for: Aristolochia tomentosa (Woolly Pipevine)
+[2025-10-23 19:46:37]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/2/2b/AristolochiaTomentosa.jpg
+[2025-10-23 19:46:37]     Downloading from wikipedia to: public/images/plants/aristolochia-tomentosa/aristolochia-tomentosa-2025-10-23T19-46-37-303Z.jpg
+[2025-10-23 19:46:37]     Downloaded 2828.9 KB
+[2025-10-23 19:46:37]     Resized from 2816x2112 to 1200x900
+[2025-10-23 19:46:37]     Optimized to 236.6 KB (91.6% reduction)
+[2025-10-23 19:46:37]     Successfully processed image from wikipedia
+[2025-10-23 19:46:37]     Updated public/data/plants/aristolochia-tomentosa.json with imageUrl
+[2025-10-23 19:46:37]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:37] [14/22] Processing: Smallflower False Foxglove
+[2025-10-23 19:46:37]   Searching Wikipedia for: Agalinis paupercula var. borealis (Smallflower False Foxglove)
+[2025-10-23 19:46:37]     No image found on Wikipedia
+[2025-10-23 19:46:37]   Searching iNaturalist for: Agalinis paupercula var. borealis (Smallflower False Foxglove)
+[2025-10-23 19:46:38]     No image found on iNaturalist
+[2025-10-23 19:46:38]   No image found from any source - skipping
+[2025-10-23 19:46:38] [15/22] Processing: Hoptree
+[2025-10-23 19:46:38]   Searching Wikipedia for: Ptelea trifoliata (Hoptree)
+[2025-10-23 19:46:38]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/d/d8/Ptelea_trifoliata_Arkansas.jpg
+[2025-10-23 19:46:38]     Downloading from wikipedia to: public/images/plants/ptelea-trifoliata/ptelea-trifoliata-2025-10-23T19-46-38-478Z.jpg
+[2025-10-23 19:46:39]     Downloaded 25221.2 KB
+[2025-10-23 19:46:40]     Resized from 6000x4000 to 1200x800
+[2025-10-23 19:46:40]     Optimized to 149.6 KB (99.4% reduction)
+[2025-10-23 19:46:40]     Successfully processed image from wikipedia
+[2025-10-23 19:46:40]     Updated public/data/plants/ptelea-trifoliata.json with imageUrl
+[2025-10-23 19:46:40]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:40] [16/22] Processing: Sassafras
+[2025-10-23 19:46:40]   Searching Wikipedia for: Sassafras albidum (Sassafras)
+[2025-10-23 19:46:40]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/a/a8/Sassafras7.jpg
+[2025-10-23 19:46:40]     Downloading from wikipedia to: public/images/plants/sassafras-albidum/sassafras-albidum-2025-10-23T19-46-40-182Z.jpg
+[2025-10-23 19:46:40]     Downloaded 253.5 KB
+[2025-10-23 19:46:40]     Optimized to 111.6 KB (56.0% reduction)
+[2025-10-23 19:46:40]     Successfully processed image from wikipedia
+[2025-10-23 19:46:40]     Updated public/data/plants/sassafras-albidum.json with imageUrl
+[2025-10-23 19:46:40]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:40] [17/22] Processing: Sugarberry
+[2025-10-23 19:46:40]   Searching Wikipedia for: Celtis laevigata (Sugarberry)
+[2025-10-23 19:46:40]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/1/11/Sugarberry_Celtis_laevigata_2009-04-05.jpg
+[2025-10-23 19:46:40]     Downloading from wikipedia to: public/images/plants/celtis-laevigata/celtis-laevigata-2025-10-23T19-46-40-435Z.jpg
+[2025-10-23 19:46:40]     Downloaded 4033.3 KB
+[2025-10-23 19:46:40]     Resized from 3872x2592 to 1200x803
+[2025-10-23 19:46:40]     Optimized to 399.6 KB (90.1% reduction)
+[2025-10-23 19:46:40]     Successfully processed image from wikipedia
+[2025-10-23 19:46:40]     Updated public/data/plants/celtis-laevigata.json with imageUrl
+[2025-10-23 19:46:40]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:40] [18/22] Processing: Leadplant
+[2025-10-23 19:46:40]   Searching Wikipedia for: Amorpha canescens (Leadplant)
+[2025-10-23 19:46:41]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/d/df/Amorpha_canescens_-_Floraison-3.jpg
+[2025-10-23 19:46:41]     Downloading from wikipedia to: public/images/plants/amorpha-canescens/amorpha-canescens-2025-10-23T19-46-41-004Z.jpg
+[2025-10-23 19:46:41]     Downloaded 17518.0 KB
+[2025-10-23 19:46:42]     Resized from 3168x4752 to 800x1200
+[2025-10-23 19:46:42]     Optimized to 349.7 KB (98.0% reduction)
+[2025-10-23 19:46:42]     Successfully processed image from wikipedia
+[2025-10-23 19:46:42]     Updated public/data/plants/amorpha-canescens.json with imageUrl
+[2025-10-23 19:46:42]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:42] [19/22] Processing: Spicebush
+[2025-10-23 19:46:42]   Searching Wikipedia for: Lindera benzoin (Spicebush)
+[2025-10-23 19:46:42]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/6/69/Spicebush_%284506720062%29.jpg
+[2025-10-23 19:46:42]     Downloading from wikipedia to: public/images/plants/lindera-benzoin/lindera-benzoin-2025-10-23T19-46-42-292Z.jpg
+[2025-10-23 19:46:42]     Downloaded 153.0 KB
+[2025-10-23 19:46:42]     Resized from 816x1224 to 800x1200
+[2025-10-23 19:46:42]     Optimized to 106.7 KB (30.2% reduction)
+[2025-10-23 19:46:42]     Successfully processed image from wikipedia
+[2025-10-23 19:46:42]     Updated public/data/plants/lindera-benzoin.json with imageUrl
+[2025-10-23 19:46:42]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:42] [20/22] Processing: Prairie Crabapple
+[2025-10-23 19:46:42]   Searching Wikipedia for: Malus ioensis (Prairie Crabapple)
+[2025-10-23 19:46:42]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/f/f9/Pyrus_ioensis_139-8488.jpg
+[2025-10-23 19:46:42]     Downloading from wikipedia to: public/images/plants/malus-ioensis/malus-ioensis-2025-10-23T19-46-42-569Z.jpg
+[2025-10-23 19:46:42]     Downloaded 1578.7 KB
+[2025-10-23 19:46:42]     Resized from 2147x3531 to 729x1200
+[2025-10-23 19:46:42]     Optimized to 184.6 KB (88.3% reduction)
+[2025-10-23 19:46:42]     Successfully processed image from wikipedia
+[2025-10-23 19:46:42]     Updated public/data/plants/malus-ioensis.json with imageUrl
+[2025-10-23 19:46:42]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:42] [21/22] Processing: Yellow Pimpernel
+[2025-10-23 19:46:42]   Searching Wikipedia for: Taenidia integerrima (Yellow Pimpernel)
+[2025-10-23 19:46:43]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/d/da/Taenidia_integerrima_Kentucky.jpg
+[2025-10-23 19:46:43]     Downloading from wikipedia to: public/images/plants/taenidia-integerrima/taenidia-integerrima-2025-10-23T19-46-43-085Z.jpg
+[2025-10-23 19:46:43]     Downloaded 2032.7 KB
+[2025-10-23 19:46:43]     Resized from 2512x2960 to 1018x1200
+[2025-10-23 19:46:43]     Optimized to 199.6 KB (90.2% reduction)
+[2025-10-23 19:46:43]     Successfully processed image from wikipedia
+[2025-10-23 19:46:43]     Updated public/data/plants/taenidia-integerrima.json with imageUrl
+[2025-10-23 19:46:43]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:43] [22/22] Processing: Pawpaw
+[2025-10-23 19:46:43]   Searching Wikipedia for: Asimina triloba (Pawpaw)
+[2025-10-23 19:46:43]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/1/15/Asimina_triloba3.jpg
+[2025-10-23 19:46:43]     Downloading from wikipedia to: public/images/plants/asimina-triloba/asimina-triloba-2025-10-23T19-46-43-632Z.jpg
+[2025-10-23 19:46:43]     Downloaded 1902.0 KB
+[2025-10-23 19:46:43]     Resized from 2700x1776 to 1200x789
+[2025-10-23 19:46:43]     Optimized to 157.4 KB (91.7% reduction)
+[2025-10-23 19:46:43]     Successfully processed image from wikipedia
+[2025-10-23 19:46:43]     Updated public/data/plants/asimina-triloba.json with imageUrl
+[2025-10-23 19:46:43]   ✓ Successfully processed plant from wikipedia
+[2025-10-23 19:46:43] Batch job completed
+[2025-10-23 19:46:43] Successfully processed: 18 plants
+[2025-10-23 19:46:43] Failed: 4 plants
+[2025-10-23 19:46:43] Skipped: 0 plants
+[2025-10-23 19:46:43] Total plants without images remaining: 4

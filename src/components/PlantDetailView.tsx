@@ -4,6 +4,7 @@ import { mockSeedShareService } from '../api/MockSeedShareService';
 import { PlantSeedShareVolume, UserPlantSeedShare, MatchDetails } from '../types/SeedShare';
 import SeedExchangeOverlay from './SeedExchangeOverlay';
 import MatchTracker from './MatchTracker';
+import { getButterflyThumbnail } from '../data/butterflyThumbnails';
 import './PlantDetailView.css';
 
 interface PlantDetailViewProps {
@@ -269,7 +270,24 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                   <span className="wildlife-icon">🐛</span>
                   <div>
                     <span className="wildlife-label">Host Plant To:</span>
-                    <span className="wildlife-value">{plant.relationships.hostPlantTo.join(', ')}</span>
+                    <div className="host-species-list">
+                      {plant.relationships.hostPlantTo.map(species => {
+                        const thumbnail = getButterflyThumbnail(species);
+                        return (
+                          <div key={species} className="host-species-item">
+                            {thumbnail && (
+                              <img 
+                                src={thumbnail.thumbnailUrl} 
+                                alt={thumbnail.commonName}
+                                className="host-species-thumbnail"
+                                title={species}
+                              />
+                            )}
+                            <span className="host-species-name">{species}</span>
+                          </div>
+                        );
+                      })}
+                    </div>
                   </div>
                 </div>
               )}
