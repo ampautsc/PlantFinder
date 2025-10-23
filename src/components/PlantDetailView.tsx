@@ -271,22 +271,35 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                   <div>
                     <span className="wildlife-label">Host Plant To:</span>
                     <div className="host-species-list">
-                      {plant.relationships.hostPlantTo.map(species => {
-                        const thumbnail = getButterflyThumbnail(species);
-                        return (
-                          <div key={species} className="host-species-item">
-                            {thumbnail && (
+                      {(() => {
+                        // Deduplicate butterflies by their common name
+                        const speciesMap = new Map<string, { commonName: string; thumbnail: ReturnType<typeof getButterflyThumbnail> }>();
+                        
+                        plant.relationships.hostPlantTo.forEach(species => {
+                          const thumbnail = getButterflyThumbnail(species);
+                          const commonName = thumbnail?.commonName || species;
+                          
+                          // Only add if we haven't seen this common name before
+                          if (!speciesMap.has(commonName)) {
+                            speciesMap.set(commonName, { commonName, thumbnail });
+                          }
+                        });
+                        
+                        // Convert to array and render
+                        return Array.from(speciesMap.values()).map(({ commonName, thumbnail }) => (
+                          <div key={commonName} className="host-species-item">
+                            {thumbnail && thumbnail.thumbnailUrl && (
                               <img 
                                 src={thumbnail.thumbnailUrl} 
-                                alt={thumbnail.commonName}
+                                alt={commonName}
                                 className="host-species-thumbnail"
-                                title={species}
+                                title={commonName}
                               />
                             )}
-                            <span className="host-species-name">{species}</span>
+                            <span className="host-species-name">{commonName}</span>
                           </div>
-                        );
-                      })}
+                        ));
+                      })()}
                     </div>
                   </div>
                 </div>
