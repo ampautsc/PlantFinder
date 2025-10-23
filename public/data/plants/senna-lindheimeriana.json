@@ -42,7 +42,9 @@
       "pollinator garden",
       "native garden"
     ],
-    "shelterFor": []
+    "shelterFor": [
+      "ground-nesting birds"
+    ]
   },
   "imageUrl": "/images/plants/senna-lindheimeriana/senna-lindheimeriana-2025-10-23T01-27-34-748Z.jpg",
   "thumbnailUrl": "/images/plants/senna-lindheimeriana/senna-lindheimeriana-2025-10-23T01-27-34-748Z-thumb.jpg"

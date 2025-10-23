@@ -65,7 +65,10 @@
       "bees",
       "native bees"
     ],
-    "shelterFor": [],
+    "shelterFor": [
+      "amphibians",
+      "ground-nesting birds"
+    ],
     "usefulFor": [
       "pollinator garden",
       "meadow restoration",

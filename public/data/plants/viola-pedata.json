@@ -45,7 +45,9 @@
       "pollinator garden",
       "native garden"
     ],
-    "shelterFor": []
+    "shelterFor": [
+      "beneficial insects"
+    ]
   },
   "imageUrl": "/images/plants/viola-pedata/viola-pedata-2025-10-23T01-27-11-774Z.jpg",
   "thumbnailUrl": "/images/plants/viola-pedata/viola-pedata-2025-10-23T01-27-11-774Z-thumb.jpg"

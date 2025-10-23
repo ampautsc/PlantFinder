@@ -45,7 +45,9 @@
       "pollinator garden",
       "native garden"
     ],
-    "shelterFor": []
+    "shelterFor": [
+      "beneficial insects"
+    ]
   },
   "imageUrl": "/images/plants/viola-purpurea/viola-purpurea-2025-10-23T01-26-21-911Z.jpg",
   "thumbnailUrl": "/images/plants/viola-purpurea/viola-purpurea-2025-10-23T01-26-21-911Z-thumb.jpg"

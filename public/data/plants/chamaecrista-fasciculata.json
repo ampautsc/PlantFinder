@@ -73,7 +73,9 @@
       "butterflies",
       "bees"
     ],
-    "shelterFor": [],
+    "shelterFor": [
+      "ground-nesting birds"
+    ],
     "usefulFor": [
       "pollinator garden",
       "prairie restoration",

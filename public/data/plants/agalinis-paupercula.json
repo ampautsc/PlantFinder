@@ -41,7 +41,9 @@
       "pollinator garden",
       "native garden"
     ],
-    "shelterFor": []
+    "shelterFor": [
+      "ground-nesting birds"
+    ]
   },
   "imageUrl": "/images/plants/agalinis-paupercula/agalinis-paupercula-2025-10-17T06-26-54-935Z.jpg",
   "thumbnailUrl": "/images/plants/agalinis-paupercula/agalinis-paupercula-2025-10-17T06-26-54-935Z-thumb.jpg"

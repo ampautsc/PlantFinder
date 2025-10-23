@@ -47,7 +47,10 @@
       "native garden",
       "wetland"
     ],
-    "shelterFor": []
+    "shelterFor": [
+      "amphibians",
+      "beneficial insects"
+    ]
   },
   "imageUrl": "/images/plants/viola-nephrophylla/viola-nephrophylla-2025-10-23T01-26-02-587Z.jpg",
   "thumbnailUrl": "/images/plants/viola-nephrophylla/viola-nephrophylla-2025-10-23T01-26-02-587Z-thumb.jpg"

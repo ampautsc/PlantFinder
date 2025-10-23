@@ -84,7 +84,10 @@
       "woodland garden",
       "spring color"
     ],
-    "shelterFor": []
+    "shelterFor": [
+      "amphibians",
+      "ground-nesting birds"
+    ]
   },
   "imageUrl": "/images/plants/zizia-aurea/zizia-aurea-2025-10-23T01-26-11-194Z.jpg",
   "thumbnailUrl": "/images/plants/zizia-aurea/zizia-aurea-2025-10-23T01-26-11-194Z-thumb.jpg"

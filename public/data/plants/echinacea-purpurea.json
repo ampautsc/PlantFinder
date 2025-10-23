@@ -11,16 +11,64 @@
   "characteristics": {
     "height": 36,
     "width": 24,
-    "bloomColor": ["purple", "pink"],
-    "bloomTime": ["summer", "fall"],
+    "bloomColor": [
+      "purple",
+      "pink"
+    ],
+    "bloomTime": [
+      "summer",
+      "fall"
+    ],
     "perennial": true,
-    "nativeRange": ["Virginia", "West Virginia", "North Carolina", "South Carolina", "Georgia", "Florida", "Alabama", "Mississippi", "Louisiana", "Tennessee", "Kentucky", "Ohio", "Indiana", "Illinois", "Michigan", "Wisconsin", "Iowa", "Missouri", "Arkansas", "Oklahoma", "Texas", "Kansas"],
-    "hardinessZones": ["3", "4", "5", "6", "7", "8", "9"]
+    "nativeRange": [
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
   },
   "relationships": {
     "hostPlantTo": [],
-    "foodFor": ["butterflies", "bees", "birds"],
-    "usefulFor": ["pollinator garden", "drought tolerance", "medicinal"]
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "birds"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "drought tolerance",
+      "medicinal"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
+    ]
   },
   "imageUrl": "/images/plants/echinacea-purpurea/echinacea-purpurea-2025-10-15T17-34-31-903Z.jpeg"
 }

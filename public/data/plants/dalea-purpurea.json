@@ -49,7 +49,9 @@
       "pollinator garden",
       "native garden"
     ],
-    "shelterFor": []
+    "shelterFor": [
+      "ground-nesting birds"
+    ]
   },
   "imageUrl": "/images/plants/dalea-purpurea/dalea-purpurea-2025-10-17T01-15-42-003Z.jpg",
   "thumbnailUrl": "/images/plants/dalea-purpurea/dalea-purpurea-2025-10-17T01-15-42-003Z-thumb.jpg"
