@@ -1,0 +1,86 @@
+{
+  "id": "chamaecrista-fasciculata",
+  "commonName": "Partridge Pea",
+  "scientificName": "Chamaecrista fasciculata",
+  "description": "Charming annual or short-lived perennial with bright yellow flowers and sensitive leaves. Host plant for Cloudless Sulphur butterfly. Nitrogen-fixing plant that improves soil. Seeds important food for gamebirds.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "dry",
+    "soil": "sand"
+  },
+  "characteristics": {
+    "height": 24,
+    "width": 18,
+    "bloomColor": [
+      "yellow"
+    ],
+    "bloomTime": [
+      "summer",
+      "fall"
+    ],
+    "perennial": false,
+    "nativeRange": [
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota"
+    ],
+    "hardinessZones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Phoebis sennae"
+    ],
+    "foodFor": [
+      "birds",
+      "butterflies",
+      "bees"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "prairie restoration",
+      "nitrogen fixing",
+      "erosion control"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "papilio-glaucus",
+  "commonName": "Eastern Tiger Swallowtail",
+  "scientificName": "Papilio glaucus",
+  "description": "Eastern Tiger Swallowtail is a beautiful native butterfly. Caterpillars feed on Ptelea trifoliata, Liriodendron tulipifera, Fraxinus species. Important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "medium"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Ptelea trifoliata",
+      "Liriodendron tulipifera",
+      "Fraxinus species",
+      "Malus species",
+      "Prunus species"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "woodlands",
+      "meadows",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Delaware",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Florida",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas"
+  ]
+}

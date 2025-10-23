@@ -69,7 +69,8 @@
   },
   "relationships": {
     "hostPlantTo": [
-      "Black Swallowtail butterfly"
+      "Black Swallowtail butterfly",
+      "Papilio polyxenes asterius"
     ],
     "foodFor": [
       "butterflies",
@@ -82,6 +83,10 @@
       "rain garden",
       "woodland garden",
       "spring color"
+    ],
+    "shelterFor": [
+      "amphibians",
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/zizia-aurea/zizia-aurea-2025-10-23T01-26-11-194Z.jpg",

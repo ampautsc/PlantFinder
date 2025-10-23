@@ -1,0 +1,80 @@
+{
+  "id": "plantago-rugelii",
+  "commonName": "Blackseed Plantain",
+  "scientificName": "Plantago rugelii",
+  "description": "Native plantain with broad leaves and tall flower spikes. Host plant for Buckeye butterfly. Tolerates a wide range of conditions. Seeds are important food for birds.",
+  "requirements": {
+    "sun": "partial-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 12,
+    "width": 12,
+    "bloomColor": [
+      "green",
+      "white"
+    ],
+    "bloomTime": [
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Junonia coenia"
+    ],
+    "foodFor": [
+      "birds"
+    ],
+    "shelterFor": [],
+    "usefulFor": [
+      "wildlife habitat",
+      "meadow restoration",
+      "erosion control"
+    ]
+  }
+}

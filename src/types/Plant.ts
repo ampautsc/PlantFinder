@@ -18,8 +18,9 @@ export interface PlantCharacteristics {
 
 // Plant Relationships
 export interface PlantRelationships {
-  hostPlantTo: string[]; // butterflies, moths, etc.
+  hostPlantTo: string[]; // butterflies, moths, etc. (scientific names preferred)
   foodFor: string[]; // birds, pollinators, etc.
+  shelterFor: string[]; // wildlife that uses plant for shelter (birds, toads, etc.)
   usefulFor: string[]; // erosion control, wildlife habitat, etc.
 }
 
@@ -52,6 +53,7 @@ export interface PlantFilters {
   maxWidth?: number;
   hostPlantTo?: string[];
   foodFor?: string[];
+  shelterFor?: string[];
   usefulFor?: string[];
   searchQuery?: string;
 }

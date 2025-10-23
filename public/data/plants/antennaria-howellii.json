@@ -29,7 +29,9 @@
     ]
   },
   "relationships": {
-    "hostPlantTo": [],
+    "hostPlantTo": [
+      "Vanessa virginiensis"
+    ],
     "foodFor": [
       "butterflies",
       "bees",
@@ -38,6 +40,9 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/antennaria-howellii/antennaria-howellii-2025-10-23T01-27-54-443Z.jpg",

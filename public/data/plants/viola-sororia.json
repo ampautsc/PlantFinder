@@ -71,7 +71,9 @@
     "hostPlantTo": [
       "Great Spangled Fritillary",
       "Variegated Fritillary",
-      "Meadow Fritillary"
+      "Meadow Fritillary",
+      "Speyeria cybele",
+      "Speyeria idalia"
     ],
     "foodFor": [
       "bees",
@@ -82,6 +84,9 @@
       "shade garden",
       "woodland garden",
       "ground cover"
+    ],
+    "shelterFor": [
+      "beneficial insects"
     ]
   },
   "imageUrl": "/images/plants/viola-sororia/viola-sororia-2025-10-23T01-26-38-674Z.jpg",

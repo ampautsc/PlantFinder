@@ -55,7 +55,8 @@
   },
   "relationships": {
     "hostPlantTo": [
-      "Monarch butterfly"
+      "Monarch butterfly",
+      "Danaus plexippus"
     ],
     "foodFor": [
       "butterflies",
@@ -66,6 +67,9 @@
       "pollinator garden",
       "native garden",
       "monarch conservation"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/asclepias-speciosa/asclepias-speciosa-2025-10-17T01-15-11-060Z.jpg",

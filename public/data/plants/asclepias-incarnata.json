@@ -73,7 +73,8 @@
   "relationships": {
     "hostPlantTo": [
       "Monarch butterfly",
-      "Queen butterfly"
+      "Queen butterfly",
+      "Danaus plexippus"
     ],
     "foodFor": [
       "butterflies",
@@ -83,6 +84,10 @@
       "pollinator garden",
       "rain garden",
       "monarch conservation"
+    ],
+    "shelterFor": [
+      "amphibians",
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/asclepias-incarnata/asclepias-incarnata-2025-10-23T01-27-52-515Z.jpg",

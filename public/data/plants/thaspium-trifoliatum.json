@@ -1,0 +1,78 @@
+{
+  "id": "thaspium-trifoliatum",
+  "commonName": "Meadow Parsnip",
+  "scientificName": "Thaspium trifoliatum",
+  "description": "Native wildflower in the carrot family with yellow flower clusters. Host plant for Black Swallowtail butterfly. Prefers moist meadows and woodland edges. Important spring nectar source.",
+  "requirements": {
+    "sun": "partial-sun",
+    "moisture": "moist",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 36,
+    "width": 18,
+    "bloomColor": [
+      "yellow"
+    ],
+    "bloomTime": [
+      "spring",
+      "early summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Vermont",
+      "Massachusetts",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Alabama",
+      "Mississippi",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma"
+    ],
+    "hardinessZones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Papilio polyxenes asterius"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "shelterFor": [
+      "amphibians",
+      "ground-nesting birds"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "meadow restoration",
+      "woodland garden"
+    ]
+  }
+}

@@ -67,7 +67,8 @@
   "relationships": {
     "hostPlantTo": [
       "American Lady",
-      "Painted Lady"
+      "Painted Lady",
+      "Vanessa virginiensis"
     ],
     "foodFor": [
       "butterflies",
@@ -78,6 +79,9 @@
       "rock garden",
       "dry shade",
       "erosion control"
+    ],
+    "shelterFor": [
+      "beneficial insects"
     ]
   },
   "imageUrl": "/images/plants/antennaria-plantaginifolia/antennaria-plantaginifolia-2025-10-23T01-27-39-034Z.jpg",

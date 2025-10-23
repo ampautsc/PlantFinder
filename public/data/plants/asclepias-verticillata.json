@@ -71,7 +71,8 @@
   "relationships": {
     "hostPlantTo": [
       "Monarch butterfly",
-      "Queen butterfly"
+      "Queen butterfly",
+      "Danaus plexippus"
     ],
     "foodFor": [
       "butterflies",
@@ -83,6 +84,9 @@
       "monarch conservation",
       "drought tolerance",
       "rock gardens"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/asclepias-verticillata/asclepias-verticillata-2025-10-23T01-26-46-388Z.jpg",

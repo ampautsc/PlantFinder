@@ -34,7 +34,9 @@
   },
   "relationships": {
     "hostPlantTo": [
-      "Fritillary butterflies"
+      "Fritillary butterflies",
+      "Speyeria cybele",
+      "Speyeria idalia"
     ],
     "foodFor": [
       "butterflies",
@@ -44,6 +46,10 @@
       "pollinator garden",
       "native garden",
       "wetland"
+    ],
+    "shelterFor": [
+      "amphibians",
+      "beneficial insects"
     ]
   },
   "imageUrl": "/images/plants/viola-nephrophylla/viola-nephrophylla-2025-10-23T01-26-02-587Z.jpg",
