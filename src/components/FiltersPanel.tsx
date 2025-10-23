@@ -124,13 +124,39 @@ function FiltersPanel({
     // Calculate vertical position aligned with the button
     let top = buttonRect.top;
     
+    // CRITICAL: Ensure the expansion panel NEVER covers the button
+    // Check if positioning at buttonRect.top would cause overlap with the button
+    const buttonBottom = buttonRect.bottom;
+    const buttonTop = buttonRect.top;
+    
     // Check if expansion panel would go off-screen to the bottom
     if (top + expansionMaxHeight > viewportHeight) {
-      // Try positioning so bottom aligns with viewport
-      top = Math.max(spacing, viewportHeight - expansionMaxHeight - spacing);
+      // Try positioning above the button first to avoid covering it
+      const topAboveButton = buttonTop - expansionMaxHeight - spacing;
+      
+      // If there's enough space above the button, use that position
+      if (topAboveButton >= spacing) {
+        top = topAboveButton;
+      } else {
+        // Not enough space above; position below the button to avoid covering it
+        top = buttonBottom + spacing;
+        
+        // If positioning below would go off-screen, position at the bottom edge
+        // but still ensure we don't cover the button
+        if (top + expansionMaxHeight > viewportHeight) {
+          // Position at bottom edge, allowing off-screen if necessary
+          // because the requirement is: never cover button > never go off-screen
+          top = Math.max(buttonBottom + spacing, viewportHeight - expansionMaxHeight - spacing);
+          
+          // Final check: if this still overlaps the button, force it below
+          if (top < buttonBottom + spacing) {
+            top = buttonBottom + spacing;
+          }
+        }
+      }
     }
     
-    // Ensure minimum padding from top and that it doesn't go above the header
+    // Ensure minimum padding from top
     top = Math.max(spacing, top);
     
     return { top, left };
