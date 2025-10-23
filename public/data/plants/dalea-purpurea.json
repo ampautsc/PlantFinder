@@ -37,7 +37,9 @@
     ]
   },
   "relationships": {
-    "hostPlantTo": [],
+    "hostPlantTo": [
+      "Zerene cesonia"
+    ],
     "foodFor": [
       "butterflies",
       "bees",
@@ -46,7 +48,8 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
-    ]
+    ],
+    "shelterFor": []
   },
   "imageUrl": "/images/plants/dalea-purpurea/dalea-purpurea-2025-10-17T01-15-42-003Z.jpg",
   "thumbnailUrl": "/images/plants/dalea-purpurea/dalea-purpurea-2025-10-17T01-15-42-003Z-thumb.jpg"

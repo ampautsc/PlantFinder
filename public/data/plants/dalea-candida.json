@@ -63,7 +63,9 @@
     ]
   },
   "relationships": {
-    "hostPlantTo": [],
+    "hostPlantTo": [
+      "Zerene cesonia"
+    ],
     "foodFor": [
       "butterflies",
       "bees",
@@ -72,7 +74,8 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
-    ]
+    ],
+    "shelterFor": []
   },
   "imageUrl": "/images/plants/dalea-candida/dalea-candida-2025-10-17T01-13-30-834Z.jpg",
   "thumbnailUrl": "/images/plants/dalea-candida/dalea-candida-2025-10-17T01-13-30-834Z-thumb.jpg"

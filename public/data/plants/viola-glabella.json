@@ -32,7 +32,9 @@
   },
   "relationships": {
     "hostPlantTo": [
-      "Fritillary butterflies"
+      "Fritillary butterflies",
+      "Speyeria cybele",
+      "Speyeria idalia"
     ],
     "foodFor": [
       "butterflies",
@@ -41,7 +43,8 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
-    ]
+    ],
+    "shelterFor": []
   },
   "imageUrl": "/images/plants/viola-glabella/viola-glabella-2025-10-23T01-27-33-362Z.jpg",
   "thumbnailUrl": "/images/plants/viola-glabella/viola-glabella-2025-10-23T01-27-33-362Z-thumb.jpg"

@@ -1,30 +1,26 @@
 {
-  "id": "viola-sororia",
-  "commonName": "Common Blue Violet",
-  "scientificName": "Viola sororia",
-  "description": "Essential host plant for fritillary butterflies. Forms dense colonies with heart-shaped leaves and blue-purple flowers. Tolerates shade and spreads by rhizomes and seed. Important early spring nectar source.",
+  "id": "celtis-occidentalis",
+  "commonName": "Hackberry",
+  "scientificName": "Celtis occidentalis",
+  "description": "Tough native tree with cork-like bark and small sweet berries. Obligate host plant for Hackberry Emperor butterfly. Extremely adaptable and urban-tolerant. Berries attract many bird species throughout winter.",
   "requirements": {
-    "sun": "partial-shade",
+    "sun": "full-sun",
     "moisture": "medium",
     "soil": "loam"
   },
   "characteristics": {
-    "height": 8,
-    "width": 12,
+    "height": 600,
+    "width": 480,
     "bloomColor": [
-      "purple",
-      "blue"
+      "green"
     ],
     "bloomTime": [
       "spring"
     ],
     "perennial": true,
     "nativeRange": [
-      "Maine",
-      "New Hampshire",
       "Vermont",
       "Massachusetts",
-      "Rhode Island",
       "Connecticut",
       "New York",
       "New Jersey",
@@ -36,7 +32,6 @@
       "North Carolina",
       "South Carolina",
       "Georgia",
-      "Florida",
       "Alabama",
       "Mississippi",
       "Louisiana",
@@ -64,29 +59,27 @@
       "5",
       "6",
       "7",
-      "8"
+      "8",
+      "9"
     ]
   },
   "relationships": {
     "hostPlantTo": [
-      "Great Spangled Fritillary",
-      "Variegated Fritillary",
-      "Meadow Fritillary",
-      "Speyeria cybele",
-      "Speyeria idalia"
+      "Asterocampa celtis"
     ],
     "foodFor": [
-      "bees",
+      "birds",
       "butterflies"
     ],
-    "usefulFor": [
-      "pollinator garden",
-      "shade garden",
-      "woodland garden",
-      "ground cover"
+    "shelterFor": [
+      "songbirds",
+      "cavity-nesting birds"
     ],
-    "shelterFor": []
-  },
-  "imageUrl": "/images/plants/viola-sororia/viola-sororia-2025-10-23T01-26-38-674Z.jpg",
-  "thumbnailUrl": "/images/plants/viola-sororia/viola-sororia-2025-10-23T01-26-38-674Z-thumb.jpg"
+    "usefulFor": [
+      "wildlife habitat",
+      "shade tree",
+      "urban tolerant",
+      "native tree"
+    ]
+  }
 }

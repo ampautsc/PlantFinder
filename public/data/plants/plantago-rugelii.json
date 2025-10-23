@@ -1,21 +1,22 @@
 {
-  "id": "antennaria-plantaginifolia",
-  "commonName": "Plantain-leaved Pussytoes",
-  "scientificName": "Antennaria plantaginifolia",
-  "description": "Low-growing native groundcover and essential host plant for American lady butterfly. Forms dense mats of silvery-green leaves. White fuzzy flowers resemble cat paws. Excellent for erosion control and dry shade.",
+  "id": "plantago-rugelii",
+  "commonName": "Blackseed Plantain",
+  "scientificName": "Plantago rugelii",
+  "description": "Native plantain with broad leaves and tall flower spikes. Host plant for Buckeye butterfly. Tolerates a wide range of conditions. Seeds are important food for birds.",
   "requirements": {
-    "sun": "partial-shade",
-    "moisture": "dry",
-    "soil": "sand"
+    "sun": "partial-sun",
+    "moisture": "medium",
+    "soil": "loam"
   },
   "characteristics": {
-    "height": 6,
-    "width": 18,
+    "height": 12,
+    "width": 12,
     "bloomColor": [
+      "green",
       "white"
     ],
     "bloomTime": [
-      "spring"
+      "summer"
     ],
     "perennial": true,
     "nativeRange": [
@@ -51,9 +52,7 @@
       "Missouri",
       "Arkansas",
       "Oklahoma",
-      "Texas",
-      "Kansas",
-      "Nebraska"
+      "Texas"
     ],
     "hardinessZones": [
       "3",
@@ -66,22 +65,16 @@
   },
   "relationships": {
     "hostPlantTo": [
-      "American Lady",
-      "Painted Lady",
-      "Vanessa virginiensis"
+      "Junonia coenia"
     ],
     "foodFor": [
-      "butterflies",
-      "native bees"
+      "birds"
     ],
+    "shelterFor": [],
     "usefulFor": [
-      "ground cover",
-      "rock garden",
-      "dry shade",
+      "wildlife habitat",
+      "meadow restoration",
       "erosion control"
-    ],
-    "shelterFor": []
-  },
-  "imageUrl": "/images/plants/antennaria-plantaginifolia/antennaria-plantaginifolia-2025-10-23T01-27-39-034Z.jpg",
-  "thumbnailUrl": "/images/plants/antennaria-plantaginifolia/antennaria-plantaginifolia-2025-10-23T01-27-39-034Z-thumb.jpg"
+    ]
+  }
 }

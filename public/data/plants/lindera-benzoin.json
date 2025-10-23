@@ -1,28 +1,27 @@
 {
-  "id": "zizia-aurea",
-  "commonName": "Golden Alexander",
-  "scientificName": "Zizia aurea",
-  "description": "Bright yellow umbel flowers bloom in spring, resembling Queen Anne's Lace. One of the first native spring bloomers, providing early nectar for pollinators. Host plant for Black Swallowtail butterflies. Prefers moist conditions and tolerates some shade.",
+  "id": "lindera-benzoin",
+  "commonName": "Spicebush",
+  "scientificName": "Lindera benzoin",
+  "description": "Aromatic native shrub with early spring yellow flowers. Essential host plant for Spicebush Swallowtail butterfly. Bright red berries in fall attract birds. All parts are fragrant when crushed. Excellent four-season interest.",
   "requirements": {
-    "sun": "partial-sun",
+    "sun": "partial-shade",
     "moisture": "moist",
     "soil": "loam"
   },
   "characteristics": {
-    "height": 30,
-    "width": 18,
+    "height": 96,
+    "width": 96,
     "bloomColor": [
       "yellow"
     ],
     "bloomTime": [
-      "spring",
-      "early summer"
+      "early spring"
     ],
     "perennial": true,
     "nativeRange": [
       "Maine",
-      "Vermont",
       "New Hampshire",
+      "Vermont",
       "Massachusetts",
       "Rhode Island",
       "Connecticut",
@@ -47,45 +46,39 @@
       "Illinois",
       "Michigan",
       "Wisconsin",
-      "Minnesota",
       "Iowa",
       "Missouri",
       "Arkansas",
       "Oklahoma",
       "Texas",
-      "Kansas",
-      "Nebraska",
-      "South Dakota",
-      "North Dakota"
+      "Kansas"
     ],
     "hardinessZones": [
-      "3",
       "4",
       "5",
       "6",
       "7",
-      "8"
+      "8",
+      "9"
     ]
   },
   "relationships": {
     "hostPlantTo": [
-      "Black Swallowtail butterfly",
-      "Papilio polyxenes asterius"
+      "Papilio troilus"
     ],
     "foodFor": [
+      "birds",
       "butterflies",
-      "bees",
-      "native bees",
-      "beneficial insects"
+      "bees"
+    ],
+    "shelterFor": [
+      "songbirds"
     ],
     "usefulFor": [
-      "pollinator garden",
-      "rain garden",
+      "wildlife habitat",
       "woodland garden",
-      "spring color"
-    ],
-    "shelterFor": []
-  },
-  "imageUrl": "/images/plants/zizia-aurea/zizia-aurea-2025-10-23T01-26-11-194Z.jpg",
-  "thumbnailUrl": "/images/plants/zizia-aurea/zizia-aurea-2025-10-23T01-26-11-194Z-thumb.jpg"
+      "fall color",
+      "fragrant"
+    ]
+  }
 }

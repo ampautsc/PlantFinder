@@ -1,0 +1,67 @@
+{
+  "id": "celtis-laevigata",
+  "commonName": "Sugarberry",
+  "scientificName": "Celtis laevigata",
+  "description": "Southern relative of hackberry with smooth bark and sweet berries. Host plant for Hackberry Emperor butterfly. Tolerates flooding and drought. Important wildlife tree providing food and shelter.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 720,
+    "width": 480,
+    "bloomColor": [
+      "green"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Indiana",
+      "Illinois",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas"
+    ],
+    "hardinessZones": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Asterocampa celtis"
+    ],
+    "foodFor": [
+      "birds",
+      "butterflies"
+    ],
+    "shelterFor": [
+      "songbirds",
+      "cavity-nesting birds"
+    ],
+    "usefulFor": [
+      "wildlife habitat",
+      "shade tree",
+      "flood tolerant",
+      "native tree"
+    ]
+  }
+}

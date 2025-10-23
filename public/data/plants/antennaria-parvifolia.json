@@ -29,7 +29,9 @@
     ]
   },
   "relationships": {
-    "hostPlantTo": [],
+    "hostPlantTo": [
+      "Vanessa virginiensis"
+    ],
     "foodFor": [
       "butterflies",
       "bees",
@@ -38,7 +40,8 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
-    ]
+    ],
+    "shelterFor": []
   },
   "imageUrl": "/images/plants/antennaria-parvifolia/antennaria-parvifolia-2025-10-23T01-26-01-437Z.jpg",
   "thumbnailUrl": "/images/plants/antennaria-parvifolia/antennaria-parvifolia-2025-10-23T01-26-01-437Z-thumb.jpg"

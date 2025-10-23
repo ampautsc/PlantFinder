@@ -32,7 +32,9 @@
   },
   "relationships": {
     "hostPlantTo": [
-      "Fritillary butterflies"
+      "Fritillary butterflies",
+      "Speyeria cybele",
+      "Speyeria idalia"
     ],
     "foodFor": [
       "butterflies",
@@ -41,7 +43,8 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
-    ]
+    ],
+    "shelterFor": []
   },
   "imageUrl": "/images/plants/viola-nuttallii/viola-nuttallii-2025-10-23T01-27-17-026Z.jpg",
   "thumbnailUrl": "/images/plants/viola-nuttallii/viola-nuttallii-2025-10-23T01-27-17-026Z-thumb.jpg"

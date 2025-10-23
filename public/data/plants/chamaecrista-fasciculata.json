@@ -1,27 +1,25 @@
 {
-  "id": "antennaria-plantaginifolia",
-  "commonName": "Plantain-leaved Pussytoes",
-  "scientificName": "Antennaria plantaginifolia",
-  "description": "Low-growing native groundcover and essential host plant for American lady butterfly. Forms dense mats of silvery-green leaves. White fuzzy flowers resemble cat paws. Excellent for erosion control and dry shade.",
+  "id": "chamaecrista-fasciculata",
+  "commonName": "Partridge Pea",
+  "scientificName": "Chamaecrista fasciculata",
+  "description": "Charming annual or short-lived perennial with bright yellow flowers and sensitive leaves. Host plant for Cloudless Sulphur butterfly. Nitrogen-fixing plant that improves soil. Seeds important food for gamebirds.",
   "requirements": {
-    "sun": "partial-shade",
+    "sun": "full-sun",
     "moisture": "dry",
     "soil": "sand"
   },
   "characteristics": {
-    "height": 6,
+    "height": 24,
     "width": 18,
     "bloomColor": [
-      "white"
+      "yellow"
     ],
     "bloomTime": [
-      "spring"
+      "summer",
+      "fall"
     ],
-    "perennial": true,
+    "perennial": false,
     "nativeRange": [
-      "Maine",
-      "New Hampshire",
-      "Vermont",
       "Massachusetts",
       "Rhode Island",
       "Connecticut",
@@ -53,35 +51,34 @@
       "Oklahoma",
       "Texas",
       "Kansas",
-      "Nebraska"
+      "Nebraska",
+      "South Dakota",
+      "North Dakota"
     ],
     "hardinessZones": [
-      "3",
       "4",
       "5",
       "6",
       "7",
-      "8"
+      "8",
+      "9"
     ]
   },
   "relationships": {
     "hostPlantTo": [
-      "American Lady",
-      "Painted Lady",
-      "Vanessa virginiensis"
+      "Phoebis sennae"
     ],
     "foodFor": [
+      "birds",
       "butterflies",
-      "native bees"
+      "bees"
     ],
+    "shelterFor": [],
     "usefulFor": [
-      "ground cover",
-      "rock garden",
-      "dry shade",
+      "pollinator garden",
+      "prairie restoration",
+      "nitrogen fixing",
       "erosion control"
-    ],
-    "shelterFor": []
-  },
-  "imageUrl": "/images/plants/antennaria-plantaginifolia/antennaria-plantaginifolia-2025-10-23T01-27-39-034Z.jpg",
-  "thumbnailUrl": "/images/plants/antennaria-plantaginifolia/antennaria-plantaginifolia-2025-10-23T01-27-39-034Z-thumb.jpg"
+    ]
+  }
 }

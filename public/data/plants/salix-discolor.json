@@ -1,0 +1,82 @@
+{
+  "id": "salix-discolor",
+  "commonName": "Pussy Willow",
+  "scientificName": "Salix discolor",
+  "description": "Native willow with distinctive fuzzy catkins in early spring. Host plant for Red-spotted Purple and Viceroy butterflies. Important early spring nectar source. Thrives in wet areas.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "wet",
+    "soil": "clay"
+  },
+  "characteristics": {
+    "height": 180,
+    "width": 120,
+    "bloomColor": [
+      "yellow",
+      "gray"
+    ],
+    "bloomTime": [
+      "early spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota",
+      "Montana",
+      "Wyoming",
+      "Colorado"
+    ],
+    "hardinessZones": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Limenitis arthemis astyanax",
+      "Limenitis archippus"
+    ],
+    "foodFor": [
+      "birds",
+      "butterflies",
+      "bees"
+    ],
+    "shelterFor": [
+      "songbirds"
+    ],
+    "usefulFor": [
+      "wildlife habitat",
+      "wetland restoration",
+      "early spring interest"
+    ]
+  }
+}

@@ -32,7 +32,8 @@
   },
   "relationships": {
     "hostPlantTo": [
-      "Giant Swallowtail"
+      "Giant Swallowtail",
+      "Heraclides cresphontes"
     ],
     "foodFor": [
       "butterflies",
@@ -41,7 +42,8 @@
     "usefulFor": [
       "native garden",
       "wildlife habitat"
-    ]
+    ],
+    "shelterFor": []
   },
   "imageUrl": "/images/plants/zanthoxylum-americanum/zanthoxylum-americanum-2025-10-23T01-27-45-854Z.jpg",
   "thumbnailUrl": "/images/plants/zanthoxylum-americanum/zanthoxylum-americanum-2025-10-23T01-27-45-854Z-thumb.jpg"

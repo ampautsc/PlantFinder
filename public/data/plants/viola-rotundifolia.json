@@ -32,7 +32,9 @@
   },
   "relationships": {
     "hostPlantTo": [
-      "Fritillary butterflies"
+      "Fritillary butterflies",
+      "Speyeria cybele",
+      "Speyeria idalia"
     ],
     "foodFor": [
       "butterflies",
@@ -41,7 +43,8 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
-    ]
+    ],
+    "shelterFor": []
   },
   "imageUrl": "/images/plants/viola-rotundifolia/viola-rotundifolia-2025-10-23T01-27-53-074Z.jpg",
   "thumbnailUrl": "/images/plants/viola-rotundifolia/viola-rotundifolia-2025-10-23T01-27-53-074Z-thumb.jpg"

@@ -1,0 +1,72 @@
+{
+  "id": "taenidia-integerrima",
+  "commonName": "Yellow Pimpernel",
+  "scientificName": "Taenidia integerrima",
+  "description": "Delicate native wildflower in the carrot family with yellow umbel flowers. Host plant for Black Swallowtail butterfly. Prefers dry, rocky or sandy soils. Important early spring nectar source.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "dry",
+    "soil": "sand"
+  },
+  "characteristics": {
+    "height": 30,
+    "width": 18,
+    "bloomColor": [
+      "yellow"
+    ],
+    "bloomTime": [
+      "spring",
+      "early summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Alabama",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas"
+    ],
+    "hardinessZones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Papilio polyxenes asterius"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "shelterFor": [],
+    "usefulFor": [
+      "pollinator garden",
+      "dry garden",
+      "prairie restoration"
+    ]
+  }
+}

@@ -1,15 +1,15 @@
 {
-  "id": "zizia-aurea",
-  "commonName": "Golden Alexander",
-  "scientificName": "Zizia aurea",
-  "description": "Bright yellow umbel flowers bloom in spring, resembling Queen Anne's Lace. One of the first native spring bloomers, providing early nectar for pollinators. Host plant for Black Swallowtail butterflies. Prefers moist conditions and tolerates some shade.",
+  "id": "thaspium-trifoliatum",
+  "commonName": "Meadow Parsnip",
+  "scientificName": "Thaspium trifoliatum",
+  "description": "Native wildflower in the carrot family with yellow flower clusters. Host plant for Black Swallowtail butterfly. Prefers moist meadows and woodland edges. Important spring nectar source.",
   "requirements": {
     "sun": "partial-sun",
     "moisture": "moist",
     "soil": "loam"
   },
   "characteristics": {
-    "height": 30,
+    "height": 36,
     "width": 18,
     "bloomColor": [
       "yellow"
@@ -20,11 +20,8 @@
     ],
     "perennial": true,
     "nativeRange": [
-      "Maine",
       "Vermont",
-      "New Hampshire",
       "Massachusetts",
-      "Rhode Island",
       "Connecticut",
       "New York",
       "New Jersey",
@@ -36,10 +33,8 @@
       "North Carolina",
       "South Carolina",
       "Georgia",
-      "Florida",
       "Alabama",
       "Mississippi",
-      "Louisiana",
       "Tennessee",
       "Kentucky",
       "Ohio",
@@ -51,15 +46,9 @@
       "Iowa",
       "Missouri",
       "Arkansas",
-      "Oklahoma",
-      "Texas",
-      "Kansas",
-      "Nebraska",
-      "South Dakota",
-      "North Dakota"
+      "Oklahoma"
     ],
     "hardinessZones": [
-      "3",
       "4",
       "5",
       "6",
@@ -69,23 +58,18 @@
   },
   "relationships": {
     "hostPlantTo": [
-      "Black Swallowtail butterfly",
       "Papilio polyxenes asterius"
     ],
     "foodFor": [
       "butterflies",
       "bees",
-      "native bees",
-      "beneficial insects"
+      "native bees"
     ],
+    "shelterFor": [],
     "usefulFor": [
       "pollinator garden",
-      "rain garden",
-      "woodland garden",
-      "spring color"
-    ],
-    "shelterFor": []
-  },
-  "imageUrl": "/images/plants/zizia-aurea/zizia-aurea-2025-10-23T01-26-11-194Z.jpg",
-  "thumbnailUrl": "/images/plants/zizia-aurea/zizia-aurea-2025-10-23T01-26-11-194Z-thumb.jpg"
+      "meadow restoration",
+      "woodland garden"
+    ]
+  }
 }

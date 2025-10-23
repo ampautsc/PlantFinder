@@ -1,0 +1,77 @@
+{
+  "id": "asimina-triloba",
+  "commonName": "Pawpaw",
+  "scientificName": "Asimina triloba",
+  "description": "North America's largest native tree fruit. Tropical-looking foliage with unique maroon flowers. Obligate host plant for Zebra Swallowtail butterfly. Fruit is edible with custard-like texture. Prefers rich, moist soils in woodland settings.",
+  "requirements": {
+    "sun": "partial-shade",
+    "moisture": "moist",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 180,
+    "width": 96,
+    "bloomColor": [
+      "maroon",
+      "purple"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska"
+    ],
+    "hardinessZones": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Eurytides marcellus"
+    ],
+    "foodFor": [
+      "birds",
+      "mammals"
+    ],
+    "shelterFor": [
+      "songbirds"
+    ],
+    "usefulFor": [
+      "wildlife habitat",
+      "edible fruit",
+      "woodland garden"
+    ]
+  }
+}
