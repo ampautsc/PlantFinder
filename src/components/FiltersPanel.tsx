@@ -104,7 +104,8 @@ function FiltersPanel({
     // Expansion panel dimensions (from CSS)
     const expansionWidth = 280;
     const expansionMaxHeight = 400;
-    const spacing = 10; // Spacing between filter panel and expansion
+    const spacing = 10; // Spacing between elements
+    const minSafeSpacing = 5; // Minimum spacing to ensure no visual overlap
     
     // Calculate horizontal position
     // Position to the right of the filter panel with spacing
@@ -121,43 +122,68 @@ function FiltersPanel({
       }
     }
     
-    // Calculate vertical position aligned with the button
-    let top = buttonRect.top;
+    // ENHANCED VERTICAL POSITIONING ALGORITHM
+    // Priority: Never cover button > Make panel scrollable > Optimize position
     
-    // CRITICAL: Ensure the expansion panel NEVER covers the button
-    // Check if positioning at buttonRect.top would cause overlap with the button
-    const buttonBottom = buttonRect.bottom;
     const buttonTop = buttonRect.top;
+    const buttonBottom = buttonRect.bottom;
+    const buttonHeight = buttonRect.height;
     
-    // Check if expansion panel would go off-screen to the bottom
-    if (top + expansionMaxHeight > viewportHeight) {
-      // Try positioning above the button first to avoid covering it
-      const topAboveButton = buttonTop - expansionMaxHeight - spacing;
+    // Calculate available space in different regions
+    const spaceAboveButton = buttonTop - spacing;
+    const spaceBelowButton = viewportHeight - buttonBottom - spacing;
+    
+    // Strategy 1: Try to position below the button (most intuitive for users)
+    let top = buttonBottom + spacing;
+    
+    // Check if positioning below would cause panel to overlap with button
+    // This can happen if button is very close to bottom of viewport
+    if (top < buttonBottom + minSafeSpacing) {
+      top = buttonBottom + minSafeSpacing;
+    }
+    
+    // Strategy 2: If not enough space below, try positioning above
+    if (spaceBelowButton < expansionMaxHeight && spaceAboveButton >= expansionMaxHeight) {
+      // There's enough space above the button for the full panel
+      top = buttonTop - expansionMaxHeight - spacing;
+    } else if (spaceBelowButton < expansionMaxHeight && spaceAboveButton < expansionMaxHeight) {
+      // Not enough space either above or below for full panel
+      // Choose the side with more space and make the panel scrollable
       
-      // If there's enough space above the button, use that position
-      if (topAboveButton >= spacing) {
-        top = topAboveButton;
+      if (spaceAboveButton > spaceBelowButton && spaceAboveButton > buttonHeight + spacing * 2) {
+        // More space above the button - position above
+        // Position as high as possible while staying on screen
+        top = Math.max(spacing, buttonTop - spaceAboveButton);
+        // Panel height will be limited by CSS max-height and overflow-y: auto
       } else {
-        // Not enough space above; position below the button to avoid covering it
+        // More space below the button (or equal) - position below
+        // This ensures we never cover the button (primary requirement)
         top = buttonBottom + spacing;
-        
-        // If positioning below would go off-screen, position at the bottom edge
-        // but still ensure we don't cover the button
-        if (top + expansionMaxHeight > viewportHeight) {
-          // Position at bottom edge, allowing off-screen if necessary
-          // because the requirement is: never cover button > never go off-screen
-          top = Math.max(buttonBottom + spacing, viewportHeight - expansionMaxHeight - spacing);
-          
-          // Final check: if this still overlaps the button, force it below
-          if (top < buttonBottom + spacing) {
-            top = buttonBottom + spacing;
-          }
-        }
+        // Panel will be scrollable due to CSS max-height and overflow-y: auto
       }
     }
     
-    // Ensure minimum padding from top
-    top = Math.max(spacing, top);
+    // CRITICAL SAFEGUARDS: Ensure panel never overlaps the button
+    // Check if the calculated position would cause overlap
+    if (top < buttonBottom && top + expansionMaxHeight > buttonTop) {
+      // Panel would overlap button - force it below the button
+      top = buttonBottom + minSafeSpacing;
+    }
+    
+    // Ensure the panel doesn't go above the viewport
+    if (top < spacing) {
+      // If button is at the very top, position below it
+      if (buttonTop < spacing + buttonHeight) {
+        top = buttonBottom + spacing;
+      } else {
+        top = spacing;
+      }
+    }
+    
+    // Final validation: If panel would still cover button, force it below
+    if (top < buttonBottom + minSafeSpacing) {
+      top = buttonBottom + minSafeSpacing;
+    }
     
     return { top, left };
   };
