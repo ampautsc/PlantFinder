@@ -1,0 +1,7 @@
+symbol,country,state,state_fip,county,county_fip
+ASSY,United States,Alabama,01,,
+ASSY,Canada,Manitoba,03,,
+ASSY,United States,Arkansas,05,,
+ASSY,United States,Arkansas,05,Benton,007
+ASSY,United States,Connecticut,09,,
+ASSY,United States,Connecticut,09,Fairfield,001

@@ -181,3 +181,33 @@ I have verified:
 3. Specify what you want to accomplish
 
 Please provide more details so I can assist you effectively!
+
+---
+
+## UPDATE: Distribution Data Fetcher Implemented
+
+Based on user feedback requesting distribution data (Symbol, Country, State, State FIP, County, County FIP), I have implemented a solution:
+
+### New Script: `fetch_usda_distribution.py`
+
+This script can:
+- ✅ Parse CSV files downloaded from USDA PLANTS
+- ✅ Process distribution data for multiple plant symbols
+- ✅ Save data in JSON or CSV format
+- ✅ Work with test/mock data for development
+- ✅ Handle both state-level and county-level geographic data
+
+### Usage Examples
+
+```bash
+# Parse downloaded CSV file from USDA PLANTS
+python3 scripts/fetch_usda_distribution.py --csv-file usda_distribution.csv
+
+# Test with mock data
+python3 scripts/fetch_usda_distribution.py --test --symbol ASSY
+
+# Output as CSV
+python3 scripts/fetch_usda_distribution.py --csv-file data.csv --output csv
+```
+
+See `scripts/README.md` for complete documentation.

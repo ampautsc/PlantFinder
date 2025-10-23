@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2025-10-23T23:01:22.766007",
+  "script_version": "1.0.0",
+  "source": "usda-plants",
+  "symbol": "ASSY",
+  "distribution_count": 6,
+  "distribution": [
+    {
+      "symbol": "ASSY",
+      "country": "United States",
+      "state": "Alabama",
+      "state_fip": "01",
+      "county": "",
+      "county_fip": ""
+    },
+    {
+      "symbol": "ASSY",
+      "country": "Canada",
+      "state": "Manitoba",
+      "state_fip": "03",
+      "county": "",
+      "county_fip": ""
+    },
+    {
+      "symbol": "ASSY",
+      "country": "United States",
+      "state": "Arkansas",
+      "state_fip": "05",
+      "county": "",
+      "county_fip": ""
+    },
+    {
+      "symbol": "ASSY",
+      "country": "United States",
+      "state": "Arkansas",
+      "state_fip": "05",
+      "county": "Benton",
+      "county_fip": "007"
+    },
+    {
+      "symbol": "ASSY",
+      "country": "United States",
+      "state": "Connecticut",
+      "state_fip": "09",
+      "county": "",
+      "county_fip": ""
+    },
+    {
+      "symbol": "ASSY",
+      "country": "United States",
+      "state": "Connecticut",
+      "state_fip": "09",
+      "county": "Fairfield",
+      "county_fip": "001"
+    }
+  ]
+}

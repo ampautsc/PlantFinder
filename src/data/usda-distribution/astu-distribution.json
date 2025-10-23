@@ -1,0 +1,33 @@
+{
+  "fetched_at": "2025-10-23T23:01:23.766509",
+  "script_version": "1.0.0",
+  "source": "usda-plants",
+  "symbol": "ASTU",
+  "distribution_count": 3,
+  "distribution": [
+    {
+      "symbol": "ASTU",
+      "country": "United States",
+      "state": "Alabama",
+      "state_fip": "01",
+      "county": "",
+      "county_fip": ""
+    },
+    {
+      "symbol": "ASTU",
+      "country": "United States",
+      "state": "Arizona",
+      "state_fip": "04",
+      "county": "",
+      "county_fip": ""
+    },
+    {
+      "symbol": "ASTU",
+      "country": "United States",
+      "state": "Arkansas",
+      "state_fip": "05",
+      "county": "",
+      "county_fip": ""
+    }
+  ]
+}

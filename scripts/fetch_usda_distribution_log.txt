@@ -1,0 +1,20 @@
+[2025-10-23T22:58:01.999867] Batch job started (test mode)
+[2025-10-23T22:58:01.999913] Processing 1 plant symbol(s)...
+[2025-10-23T22:58:01.999943] 🧪 TEST MODE: Using mock data for ASSY
+[2025-10-23T22:58:02.000127] ✓ Saved JSON: src/data/usda-distribution/assy-distribution.json
+[2025-10-23T22:58:02.000147] ✓ Successfully processed ASSY
+[2025-10-23T22:58:09.389189] Batch job started (test mode)
+[2025-10-23T22:58:09.389236] Processing 1 plant symbol(s)...
+[2025-10-23T22:58:09.389281] 🧪 TEST MODE: Using mock data for ASSY
+[2025-10-23T22:58:09.389461] ✓ Saved CSV: src/data/usda-distribution/assy-distribution.csv
+[2025-10-23T22:58:09.389487] ✓ Successfully processed ASSY
+[2025-10-23T22:58:40.351353] ✓ Saved JSON: src/data/usda-distribution/assy-distribution.json
+[2025-10-23T22:58:40.351526] ✓ Saved JSON: src/data/usda-distribution/astu-distribution.json
+[2025-10-23T23:01:22.765894] Batch job started (test mode)
+[2025-10-23T23:01:22.765940] Processing 2 plant symbol(s)...
+[2025-10-23T23:01:22.765973] 🧪 TEST MODE: Using mock data for ASSY
+[2025-10-23T23:01:22.766203] ✓ Saved JSON: src/data/usda-distribution/assy-distribution.json
+[2025-10-23T23:01:22.766232] ✓ Successfully processed ASSY
+[2025-10-23T23:01:23.766430] 🧪 TEST MODE: Using mock data for ASTU
+[2025-10-23T23:01:23.766804] ✓ Saved JSON: src/data/usda-distribution/astu-distribution.json
+[2025-10-23T23:01:23.766840] ✓ Successfully processed ASTU

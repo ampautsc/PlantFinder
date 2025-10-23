@@ -1,0 +1,40 @@
+Symbol,Country,State,State FIP,County,County FIP
+ASSY,United States,Alabama,01,,
+ASSY,Canada,Manitoba,03,,
+ASSY,Canada,New Brunswick,04,,
+ASSY,United States,Arkansas,05,,
+ASSY,United States,Arkansas,05,Benton,007
+ASSY,United States,Arkansas,05,Carroll,015
+ASSY,United States,Arkansas,05,Craighead,031
+ASSY,United States,Arkansas,05,Crawford,033
+ASSY,United States,Arkansas,05,Independence,063
+ASSY,United States,Arkansas,05,Mississippi,093
+ASSY,United States,Arkansas,05,Washington,143
+ASSY,Canada,Nova Scotia,07,,
+ASSY,Canada,Ontario,08,,
+ASSY,Canada,Prince Edward Island,09,,
+ASSY,United States,Connecticut,09,,
+ASSY,United States,Connecticut,09,Fairfield,001
+ASSY,United States,Connecticut,09,Hartford,003
+ASSY,United States,Connecticut,09,Litchfield,005
+ASSY,United States,Connecticut,09,Middlesex,007
+ASSY,United States,Connecticut,09,New Haven,009
+ASSY,United States,Connecticut,09,New London,011
+ASSY,United States,Connecticut,09,Tolland,013
+ASSY,United States,Connecticut,09,Windham,015
+ASSY,Canada,Quebec,10,,
+ASSY,United States,Delaware,10,,
+ASSY,United States,Delaware,10,New Castle,003
+ASSY,Canada,Saskatchewan,11,,
+ASSY,United States,District of Columbia,11,,
+ASSY,United States,District of Columbia,11,District of Columbia,001
+ASSY,United States,Georgia,13,,
+ASSY,United States,Illinois,17,,
+ASTU,United States,Alabama,01,,
+ASTU,United States,Arizona,04,,
+ASTU,United States,Arkansas,05,,
+ASTU,United States,California,06,,
+ASTU,United States,Connecticut,09,,
+ASTU,United States,Delaware,10,,
+ASTU,United States,Florida,12,,
+ASTU,United States,Georgia,13,,

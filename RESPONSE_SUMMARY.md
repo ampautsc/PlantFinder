@@ -103,3 +103,35 @@ If you want me to create a USDA data scraper, I can:
 ⏳ **Awaiting clarification** on actual data needs
 
 Please review the documentation and test script, then provide more details about what you're trying to accomplish.
+
+---
+
+## UPDATE: Distribution Data Solution Implemented
+
+Based on user feedback requesting distribution data, I have created a comprehensive solution:
+
+### ✓ New Script: `fetch_usda_distribution.py`
+
+**Features:**
+- Parse CSV files downloaded from USDA PLANTS database
+- Process distribution data (Symbol, Country, State, State FIP, County, County FIP)
+- Support for both JSON and CSV output formats
+- Test mode with mock data
+- Batch processing for multiple plant symbols
+- Comprehensive logging
+
+**Quick Start:**
+
+```bash
+# Download CSV from USDA PLANTS website, then:
+python3 scripts/fetch_usda_distribution.py --csv-file usda_distribution.csv
+
+# Or test with mock data:
+python3 scripts/fetch_usda_distribution.py --test --symbol ASSY
+```
+
+**Output Location:** `src/data/usda-distribution/`
+
+**Documentation:** See `scripts/README.md` for complete details
+
+**Sample Data:** Included at `scripts/sample_usda_distribution.csv`

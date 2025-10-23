@@ -5,8 +5,9 @@ This directory contains batch job scripts for the PlantFinder application.
 ## Table of Contents
 
 1. [iNaturalist Data Scraper](#inaturalist-data-scraper) - Fetches plant data from iNaturalist API ⭐ NEW
-2. [Plant Image Fetcher](#plant-image-fetcher) - Downloads plant images from Wikipedia
-3. [Wildflower Data Scraper](#wildflower-data-scraper) - Scrapes plant data from wildflower.org (deprecated - see iNaturalist)
+2. [USDA Distribution Data Fetcher](#usda-distribution-data-fetcher) - Fetches/processes distribution data from USDA PLANTS ⭐ NEW
+3. [Plant Image Fetcher](#plant-image-fetcher) - Downloads plant images from Wikipedia
+4. [Wildflower Data Scraper](#wildflower-data-scraper) - Scrapes plant data from wildflower.org (deprecated - see iNaturalist)
 
 ---
 
@@ -219,6 +220,193 @@ Log file: src/data/inaturalist/fetch_log.txt
 - Data includes observation counts which indicate plant popularity/commonality
 - Wikipedia descriptions are included when available
 - Photos are from community contributions (various licenses - check individual photos)
+
+---
+
+## USDA Distribution Data Fetcher
+
+**⭐ NEW**: Fetch and process detailed geographic distribution data from USDA PLANTS!
+
+### Overview
+
+The `fetch_usda_distribution.py` script processes distribution data from the [USDA PLANTS Database](https://plants.usda.gov/). The script can work with CSV files downloaded from USDA PLANTS or use test mode with mock data.
+
+This script:
+
+1. **Parses CSV files** downloaded from USDA PLANTS database
+2. **Organizes distribution data** by plant symbol
+3. **Saves structured data** in JSON or CSV format
+4. **Supports batch processing** for multiple plant symbols
+5. **Includes test mode** with mock data for development
+
+### Features
+
+- **CSV Parsing**: Process CSV files downloaded from USDA PLANTS website
+- **Multiple Output Formats**: Save as JSON or CSV
+- **Detailed Geographic Data**: Country, state, state FIP codes, county, county FIP codes
+- **Test Mode**: Use mock data for development without accessing USDA
+- **Batch Processing**: Process multiple plant symbols at once
+- **Comprehensive Logging**: Timestamped logs of all operations
+
+### Distribution Data Format
+
+Distribution data includes the following fields:
+
+- **Symbol**: USDA plant symbol (e.g., "ASSY", "ASTU")
+- **Country**: United States or Canada
+- **State**: State or province name
+- **State FIP**: Federal Information Processing Standard code for state
+- **County**: County name (if available)
+- **County FIP**: Federal Information Processing Standard code for county (if available)
+
+Example data:
+```
+Symbol  Country        State        State FIP  County      County FIP
+ASSY    United States  Alabama      01                     
+ASSY    United States  Arkansas     05         Benton      007
+ASSY    Canada         Manitoba     03                     
+```
+
+### Usage
+
+#### Test Mode (Mock Data)
+
+Test the script with mock data without accessing USDA:
+
+```bash
+# Test with single symbol
+python3 scripts/fetch_usda_distribution.py --test --symbol ASSY
+
+# Test with multiple symbols
+python3 scripts/fetch_usda_distribution.py --test --symbols ASSY,ASTU
+
+# Test with CSV output
+python3 scripts/fetch_usda_distribution.py --test --symbol ASSY --output csv
+```
+
+#### Parse Downloaded CSV File
+
+The recommended approach is to download distribution data from USDA PLANTS as CSV and parse it:
+
+```bash
+# Parse CSV file and save as JSON
+python3 scripts/fetch_usda_distribution.py --csv-file usda_distribution.csv
+
+# Parse CSV file and save as CSV (reformatted)
+python3 scripts/fetch_usda_distribution.py --csv-file usda_distribution.csv --output csv
+```
+
+#### Fetch Multiple Symbols
+
+```bash
+# Process multiple plant symbols
+python3 scripts/fetch_usda_distribution.py --symbols ASSY,ASTU,ASVI
+
+# Limit number of symbols to process
+python3 scripts/fetch_usda_distribution.py --symbols ASSY,ASTU,ASVI --limit 2
+```
+
+### Output
+
+The script creates output in the `src/data/usda-distribution/` directory:
+
+#### JSON Format
+
+```json
+{
+  "fetched_at": "2025-10-23T22:58:01.999971",
+  "script_version": "1.0.0",
+  "source": "usda-plants",
+  "symbol": "ASSY",
+  "distribution_count": 31,
+  "distribution": [
+    {
+      "symbol": "ASSY",
+      "country": "United States",
+      "state": "Alabama",
+      "state_fip": "01",
+      "county": "",
+      "county_fip": ""
+    },
+    {
+      "symbol": "ASSY",
+      "country": "United States",
+      "state": "Arkansas",
+      "state_fip": "05",
+      "county": "Benton",
+      "county_fip": "007"
+    }
+  ]
+}
+```
+
+#### CSV Format
+
+```csv
+symbol,country,state,state_fip,county,county_fip
+ASSY,United States,Alabama,01,,
+ASSY,United States,Arkansas,05,Benton,007
+```
+
+### How to Get Distribution Data from USDA PLANTS
+
+Since the USDA PLANTS website uses JavaScript and doesn't provide a public API, the recommended workflow is:
+
+1. **Visit USDA PLANTS**: Go to https://plants.usda.gov/
+2. **Search for a plant**: Use the plant profile search
+3. **Export distribution data**: Look for export/download options for distribution data
+4. **Save as CSV**: Download the distribution data as a CSV file
+5. **Process with script**: Run the script with `--csv-file` option
+
+The blob URL mentioned in the issue (`blob:https://plants.usda.gov/...`) was likely generated when downloading data from the website's export feature.
+
+### Example Workflow
+
+```bash
+# 1. Download distribution data from USDA PLANTS website
+#    Save as: usda_distribution.csv
+
+# 2. Process the downloaded CSV file
+python3 scripts/fetch_usda_distribution.py --csv-file usda_distribution.csv
+
+# 3. Check the output
+ls -l src/data/usda-distribution/
+
+# 4. View the data for a specific plant
+cat src/data/usda-distribution/assy-distribution.json
+```
+
+### Sample Data
+
+A sample CSV file is included at `scripts/sample_usda_distribution.csv` for testing:
+
+```bash
+# Process the sample file
+python3 scripts/fetch_usda_distribution.py --csv-file scripts/sample_usda_distribution.csv
+```
+
+### Configuration
+
+Key configuration constants in the script:
+
+- `OUTPUT_DIR`: Directory where data is saved (`src/data/usda-distribution`)
+- `LOG_FILE`: Log file path (`scripts/fetch_usda_distribution_log.txt`)
+- `TIMEOUT`: Request timeout in seconds (30)
+- `RATE_LIMIT_DELAY`: Delay between requests (1.0 seconds)
+
+### Exit Codes
+
+- `0`: Success - Data processed and saved successfully
+- `1`: Failure - Error occurred during processing
+
+### Notes
+
+- The USDA PLANTS website is JavaScript-heavy and doesn't provide a public API
+- Live web scraping is not fully implemented due to technical limitations
+- **Recommended approach**: Download CSV files from USDA and process them with this script
+- Test mode is available for development without needing real data
+- Distribution data includes both state-level and county-level geographic information
+- Supports both US states and Canadian provinces
 
 ---
 
