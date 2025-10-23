@@ -66,8 +66,6 @@
   },
   "relationships": {
     "hostPlantTo": [
-      "American Lady",
-      "Painted Lady",
       "Vanessa virginiensis"
     ],
     "foodFor": [

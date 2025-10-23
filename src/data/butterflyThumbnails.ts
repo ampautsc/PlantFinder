@@ -116,7 +116,7 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
     commonName: 'American Painted Lady',
     thumbnailUrl: '/images/animals/butterflies/vanessa-virginiensis/vanessa-virginiensis-2025-10-23T19-42-42-166Z-thumb.jpg'
   },
-  'American Lady': {
+  'American Painted Lady': {
     id: 'vanessa-virginiensis',
     commonName: 'American Painted Lady',
     thumbnailUrl: '/images/animals/butterflies/vanessa-virginiensis/vanessa-virginiensis-2025-10-23T19-42-42-166Z-thumb.jpg'
@@ -167,12 +167,7 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
     id: 'junonia-coenia',  // Using Buckeye as similar crescent butterfly
     commonName: 'Buckeye',
     thumbnailUrl: '/images/animals/butterflies/junonia-coenia/junonia-coenia-2025-10-23T19-42-22-450Z-thumb.jpg'
-  },
-  'Painted Lady': {
-    id: 'vanessa-virginiensis',
-    commonName: 'American Painted Lady',
-    thumbnailUrl: '/images/animals/butterflies/vanessa-virginiensis/vanessa-virginiensis-2025-10-23T19-42-42-166Z-thumb.jpg'
-  },
+  }
 };
 
 /**
