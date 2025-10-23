@@ -5,6 +5,7 @@ import es from './locales/es.json';
 import de from './locales/de.json';
 import ja from './locales/ja.json';
 import zh from './locales/zh.json';
+import hi from './locales/hi.json';
 
 // Get the saved language from localStorage or default to 'en'
 const savedLanguage = localStorage.getItem('language') || 'en';
@@ -27,6 +28,9 @@ i18n
       },
       zh: {
         translation: zh
+      },
+      hi: {
+        translation: hi
       }
     },
     lng: savedLanguage,

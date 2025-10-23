@@ -121,7 +121,9 @@
     "english": "英语",
     "spanish": "西班牙语",
     "german": "德语",
-    "chinese": "简体中文"
+    "japanese": "日语",
+    "chinese": "简体中文",
+    "hindi": "印地语"
   },
   "common": {
     "close": "关闭",
