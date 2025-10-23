@@ -11,7 +11,7 @@ Usage:
     python3 scripts/fetch_usda_distribution.py --symbols ASSY,ASTU,ASVI --limit 10
     python3 scripts/fetch_usda_distribution.py --test
 
-The script fetches distribution data from the USDA PLANTS website and saves it in JSON or CSV format.
+The script fetches distribution data from the USDA PLANTS API and saves it in JSON or CSV format.
 """
 
 import sys
@@ -22,11 +22,10 @@ import argparse
 import requests
 from datetime import datetime
 from typing import Dict, List, Optional, Any
-from bs4 import BeautifulSoup
 import time
 
 # Script version
-SCRIPT_VERSION = "1.0.0"
+SCRIPT_VERSION = "2.0.0"
 
 # Configuration
 OUTPUT_DIR = "src/data/usda-distribution"
@@ -35,9 +34,9 @@ TIMEOUT = 30
 RATE_LIMIT_DELAY = 1.0  # seconds between requests
 USER_AGENT = "PlantFinder/1.0 (https://github.com/ampautsc/PlantFinder; Educational Research)"
 
-# USDA PLANTS base URLs
-BASE_URL = "https://plants.usda.gov"
-PROFILE_URL = f"{BASE_URL}/home/plantProfile"
+# USDA PLANTS API URLs (discovered from config.json)
+API_BASE_URL = "https://plantsservices.sc.egov.usda.gov/api/"
+PLANT_PROFILE_URL = f"{API_BASE_URL}PlantProfile"
 
 # Test mode mock data
 MOCK_DISTRIBUTION_DATA = {
