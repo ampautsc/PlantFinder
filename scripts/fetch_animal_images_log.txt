@@ -1,0 +1,217 @@
+[2025-10-23 19:41:51] Batch job started (version 1.0.0)
+[2025-10-23 19:41:51] TEST MODE enabled
+[2025-10-23 19:41:51] Limit set to 2 images
+[2025-10-23 19:41:51] Scanning for animals without images...
+[2025-10-23 19:41:51] Found 16 animals without images
+[2025-10-23 19:41:51] Processing 2 animals
+[2025-10-23 19:41:51] [1/2]
+[2025-10-23 19:41:51] Processing: Hackberry Emperor (Asterocampa celtis)
+[2025-10-23 19:41:51]   Searching Wikipedia for: Asterocampa celtis (Hackberry Emperor)
+[2025-10-23 19:41:51]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/0/0f/Hackberry_Emperor%2C_Megan_McCarty46.jpg
+[2025-10-23 19:41:51]   TEST MODE: Would download to: public/images/animals/butterflies/asterocampa-celtis/asterocampa-celtis-2025-10-23T19-41-51-603Z.jpg
+[2025-10-23 19:41:51]   TEST MODE: Would create thumbnail: public/images/animals/butterflies/asterocampa-celtis/asterocampa-celtis-2025-10-23T19-41-51-603Z-thumb.jpg
+[2025-10-23 19:41:52] [2/2]
+[2025-10-23 19:41:52] Processing: Pipevine Swallowtail (Battus philenor)
+[2025-10-23 19:41:52]   Searching Wikipedia for: Battus philenor (Pipevine Swallowtail)
+[2025-10-23 19:41:52]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/d/d6/Battus_philenor_02.jpg
+[2025-10-23 19:41:52]   TEST MODE: Would download to: public/images/animals/butterflies/battus-philenor/battus-philenor-2025-10-23T19-41-52-704Z.jpg
+[2025-10-23 19:41:52]   TEST MODE: Would create thumbnail: public/images/animals/butterflies/battus-philenor/battus-philenor-2025-10-23T19-41-52-704Z-thumb.jpg
+[2025-10-23 19:41:52] Batch job completed
+[2025-10-23 19:41:52] Successfully processed: 2 animals
+[2025-10-23 19:41:52] Failed: 0 animals
+[2025-10-23 19:41:52] Total animals with images: 0/16
+[2025-10-23 19:42:12] Batch job started (version 1.0.0)
+[2025-10-23 19:42:12] Scanning for animals without images...
+[2025-10-23 19:42:12] Found 16 animals without images
+[2025-10-23 19:42:12] Processing 16 animals
+[2025-10-23 19:42:12] [1/16]
+[2025-10-23 19:42:12] Processing: Hackberry Emperor (Asterocampa celtis)
+[2025-10-23 19:42:12]   Searching Wikipedia for: Asterocampa celtis (Hackberry Emperor)
+[2025-10-23 19:42:12]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/0/0f/Hackberry_Emperor%2C_Megan_McCarty46.jpg
+[2025-10-23 19:42:12]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/0/0f/Hackberry_Emperor%2C_Megan_McCarty46.jpg
+[2025-10-23 19:42:12]     Downloaded 273614 bytes
+[2025-10-23 19:42:12]     Saved optimized image: 240189 bytes (12.2% reduction)
+[2025-10-23 19:42:12]       Created thumbnail (7681 bytes)
+[2025-10-23 19:42:12]     Updated asterocampa-celtis.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:12]   ✓ Successfully processed Hackberry Emperor
+[2025-10-23 19:42:13] [2/16]
+[2025-10-23 19:42:13] Processing: Pipevine Swallowtail (Battus philenor)
+[2025-10-23 19:42:13]   Searching Wikipedia for: Battus philenor (Pipevine Swallowtail)
+[2025-10-23 19:42:14]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/d/d6/Battus_philenor_02.jpg
+[2025-10-23 19:42:14]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/d/d6/Battus_philenor_02.jpg
+[2025-10-23 19:42:14]     Downloaded 1335565 bytes
+[2025-10-23 19:42:14]       Resized from 1200x1600 to 900x1200
+[2025-10-23 19:42:14]     Saved optimized image: 217171 bytes (83.7% reduction)
+[2025-10-23 19:42:14]       Created thumbnail (7781 bytes)
+[2025-10-23 19:42:14]     Updated battus-philenor.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:14]   ✓ Successfully processed Pipevine Swallowtail
+[2025-10-23 19:42:15] [3/16]
+[2025-10-23 19:42:15] Processing: Monarch (Danaus plexippus)
+[2025-10-23 19:42:15]   Searching Wikipedia for: Danaus plexippus (Monarch)
+[2025-10-23 19:42:15]     No image found on Wikipedia
+[2025-10-23 19:42:15]   Searching iNaturalist for: Danaus plexippus (Monarch)
+[2025-10-23 19:42:15]     Found taxon ID: 48662
+[2025-10-23 19:42:16]     Found image on iNaturalist: https://static.inaturalist.org/photos/345693191/original.jpeg
+[2025-10-23 19:42:16]   Downloading from inaturalist: https://static.inaturalist.org/photos/345693191/original.jpeg
+[2025-10-23 19:42:17]     Downloaded 66790 bytes
+[2025-10-23 19:42:17]     Saved optimized image: 21544 bytes (67.7% reduction)
+[2025-10-23 19:42:17]       Created thumbnail (3940 bytes)
+[2025-10-23 19:42:17]     Updated danaus-plexippus.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:17]   ✓ Successfully processed Monarch
+[2025-10-23 19:42:18] [4/16]
+[2025-10-23 19:42:18] Processing: Zebra Swallowtail (Eurytides marcellus)
+[2025-10-23 19:42:18]   Searching Wikipedia for: Eurytides marcellus (Zebra Swallowtail)
+[2025-10-23 19:42:18]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/e/e5/Zebra_Swallowtail%2C_Megan_McCarty69.jpg
+[2025-10-23 19:42:18]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/e/e5/Zebra_Swallowtail%2C_Megan_McCarty69.jpg
+[2025-10-23 19:42:18]     Downloaded 743737 bytes
+[2025-10-23 19:42:18]       Resized from 2037x2021 to 1200x1190
+[2025-10-23 19:42:18]     Saved optimized image: 192208 bytes (74.2% reduction)
+[2025-10-23 19:42:18]       Created thumbnail (5760 bytes)
+[2025-10-23 19:42:18]     Updated eurytides-marcellus.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:18]   ✓ Successfully processed Zebra Swallowtail
+[2025-10-23 19:42:19] [5/16]
+[2025-10-23 19:42:19] Processing: Giant Swallowtail (Heraclides cresphontes)
+[2025-10-23 19:42:19]   Searching Wikipedia for: Heraclides cresphontes (Giant Swallowtail)
+[2025-10-23 19:42:19]     No image found on Wikipedia
+[2025-10-23 19:42:19]   Searching iNaturalist for: Heraclides cresphontes (Giant Swallowtail)
+[2025-10-23 19:42:19]     Found taxon ID: 85024
+[2025-10-23 19:42:20]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/71623293/original.gif
+[2025-10-23 19:42:20]   Downloading from inaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/71623293/original.gif
+[2025-10-23 19:42:21]     Downloaded 13502534 bytes
+[2025-10-23 19:42:21]     Saved optimized image: 63274 bytes (99.5% reduction)
+[2025-10-23 19:42:21]       Created thumbnail (10509 bytes)
+[2025-10-23 19:42:21]     Updated heraclides-cresphontes.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:21]   ✓ Successfully processed Giant Swallowtail
+[2025-10-23 19:42:22] [6/16]
+[2025-10-23 19:42:22] Processing: Buckeye (Junonia coenia)
+[2025-10-23 19:42:22]   Searching Wikipedia for: Junonia coenia (Buckeye)
+[2025-10-23 19:42:22]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/e/e6/Common_buckeye_%2835663%29.jpg
+[2025-10-23 19:42:22]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/e/e6/Common_buckeye_%2835663%29.jpg
+[2025-10-23 19:42:23]     Downloaded 12190944 bytes
+[2025-10-23 19:42:23]       Resized from 4245x3149 to 1200x890
+[2025-10-23 19:42:23]     Saved optimized image: 205744 bytes (98.3% reduction)
+[2025-10-23 19:42:23]       Created thumbnail (5684 bytes)
+[2025-10-23 19:42:23]     Updated junonia-coenia.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:23]   ✓ Successfully processed Buckeye
+[2025-10-23 19:42:24] [7/16]
+[2025-10-23 19:42:24] Processing: Viceroy (Limenitis archippus)
+[2025-10-23 19:42:24]   Searching Wikipedia for: Limenitis archippus (Viceroy)
+[2025-10-23 19:42:24]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/9/93/Group_shot_after_appointment_of_Executive_Council_members_-_1_Feb_2023.jpg
+[2025-10-23 19:42:24]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/9/93/Group_shot_after_appointment_of_Executive_Council_members_-_1_Feb_2023.jpg
+[2025-10-23 19:42:24]     Downloaded 1779301 bytes
+[2025-10-23 19:42:24]       Resized from 2048x1365 to 1200x799
+[2025-10-23 19:42:24]     Saved optimized image: 171155 bytes (90.4% reduction)
+[2025-10-23 19:42:24]       Created thumbnail (5644 bytes)
+[2025-10-23 19:42:24]     Updated limenitis-archippus.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:24]   ✓ Successfully processed Viceroy
+[2025-10-23 19:42:25] [8/16]
+[2025-10-23 19:42:25] Processing: Red-spotted Purple (Limenitis arthemis astyanax)
+[2025-10-23 19:42:25]   Searching Wikipedia for: Limenitis arthemis astyanax (Red-spotted Purple)
+[2025-10-23 19:42:26]     No image found on Wikipedia
+[2025-10-23 19:42:26]   Searching iNaturalist for: Limenitis arthemis astyanax (Red-spotted Purple)
+[2025-10-23 19:42:27]     No image found on iNaturalist
+[2025-10-23 19:42:27]   ✗ No image found for Red-spotted Purple
+[2025-10-23 19:42:28] [9/16]
+[2025-10-23 19:42:28] Processing: Eastern Tiger Swallowtail (Papilio glaucus)
+[2025-10-23 19:42:28]   Searching Wikipedia for: Papilio glaucus (Eastern Tiger Swallowtail)
+[2025-10-23 19:42:28]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/9/90/Pristine_Eastern_Tiger_Swallowtail.jpg
+[2025-10-23 19:42:28]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/9/90/Pristine_Eastern_Tiger_Swallowtail.jpg
+[2025-10-23 19:42:28]     Downloaded 482209 bytes
+[2025-10-23 19:42:28]       Resized from 2899x1932 to 1200x799
+[2025-10-23 19:42:28]     Saved optimized image: 178512 bytes (63.0% reduction)
+[2025-10-23 19:42:28]       Created thumbnail (6406 bytes)
+[2025-10-23 19:42:28]     Updated papilio-glaucus.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:28]   ✓ Successfully processed Eastern Tiger Swallowtail
+[2025-10-23 19:42:29] [10/16]
+[2025-10-23 19:42:29] Processing: Black Swallowtail (Papilio polyxenes asterius)
+[2025-10-23 19:42:29]   Searching Wikipedia for: Papilio polyxenes asterius (Black Swallowtail)
+[2025-10-23 19:42:29]     No image found on Wikipedia
+[2025-10-23 19:42:29]   Searching iNaturalist for: Papilio polyxenes asterius (Black Swallowtail)
+[2025-10-23 19:42:30]     Found taxon ID: 58523
+[2025-10-23 19:42:31]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/399318090/original.jpeg
+[2025-10-23 19:42:31]   Downloading from inaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/399318090/original.jpeg
+[2025-10-23 19:42:31]     Downloaded 502832 bytes
+[2025-10-23 19:42:31]       Resized from 2048x1366 to 1200x800
+[2025-10-23 19:42:31]     Saved optimized image: 119404 bytes (76.3% reduction)
+[2025-10-23 19:42:31]       Created thumbnail (4012 bytes)
+[2025-10-23 19:42:31]     Updated papilio-polyxenes-asterius.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:31]   ✓ Successfully processed Black Swallowtail
+[2025-10-23 19:42:32] [11/16]
+[2025-10-23 19:42:32] Processing: Spicebush Swallowtail (Papilio troilus)
+[2025-10-23 19:42:32]   Searching Wikipedia for: Papilio troilus (Spicebush Swallowtail)
+[2025-10-23 19:42:32]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/6/60/Spicebush02.jpg
+[2025-10-23 19:42:32]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/6/60/Spicebush02.jpg
+[2025-10-23 19:42:32]     Downloaded 1868679 bytes
+[2025-10-23 19:42:32]       Resized from 1633x1306 to 1200x959
+[2025-10-23 19:42:32]     Saved optimized image: 127686 bytes (93.2% reduction)
+[2025-10-23 19:42:32]       Created thumbnail (5607 bytes)
+[2025-10-23 19:42:32]     Updated papilio-troilus.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:32]   ✓ Successfully processed Spicebush Swallowtail
+[2025-10-23 19:42:33] [12/16]
+[2025-10-23 19:42:33] Processing: Cloudless Sulphur (Phoebis sennae)
+[2025-10-23 19:42:33]   Searching Wikipedia for: Phoebis sennae (Cloudless Sulphur)
+[2025-10-23 19:42:34]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/f/ff/Cloudless_sulphur_%28Phoebis_sennae_sennae%29_male_underside.JPG
+[2025-10-23 19:42:34]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/f/ff/Cloudless_sulphur_%28Phoebis_sennae_sennae%29_male_underside.JPG
+[2025-10-23 19:42:34]     Downloaded 1258360 bytes
+[2025-10-23 19:42:34]       Resized from 2821x1880 to 1200x799
+[2025-10-23 19:42:34]     Saved optimized image: 185893 bytes (85.2% reduction)
+[2025-10-23 19:42:34]       Created thumbnail (7638 bytes)
+[2025-10-23 19:42:34]     Updated phoebis-sennae.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:34]   ✓ Successfully processed Cloudless Sulphur
+[2025-10-23 19:42:35] [13/16]
+[2025-10-23 19:42:35] Processing: Great Spangled Fritillary (Speyeria cybele)
+[2025-10-23 19:42:35]   Searching Wikipedia for: Speyeria cybele (Great Spangled Fritillary)
+[2025-10-23 19:42:35]     No image found on Wikipedia
+[2025-10-23 19:42:35]   Searching iNaturalist for: Speyeria cybele (Great Spangled Fritillary)
+[2025-10-23 19:42:35]     Found taxon ID: 1456562
+[2025-10-23 19:42:36]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/158772770/original.jpg
+[2025-10-23 19:42:36]   Downloading from inaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/158772770/original.jpg
+[2025-10-23 19:42:36]     Downloaded 2148836 bytes
+[2025-10-23 19:42:37]       Resized from 2048x1536 to 1200x900
+[2025-10-23 19:42:37]     Saved optimized image: 448864 bytes (79.1% reduction)
+[2025-10-23 19:42:37]       Created thumbnail (8264 bytes)
+[2025-10-23 19:42:37]     Updated speyeria-cybele.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:37]   ✓ Successfully processed Great Spangled Fritillary
+[2025-10-23 19:42:38] [14/16]
+[2025-10-23 19:42:38] Processing: Regal Fritillary (Speyeria idalia)
+[2025-10-23 19:42:38]   Searching Wikipedia for: Speyeria idalia (Regal Fritillary)
+[2025-10-23 19:42:38]     No image found on Wikipedia
+[2025-10-23 19:42:38]   Searching iNaturalist for: Speyeria idalia (Regal Fritillary)
+[2025-10-23 19:42:38]     Found taxon ID: 1456600
+[2025-10-23 19:42:39]     Found image on iNaturalist: https://static.inaturalist.org/photos/254774607/original.jpg
+[2025-10-23 19:42:39]   Downloading from inaturalist: https://static.inaturalist.org/photos/254774607/original.jpg
+[2025-10-23 19:42:39]     Downloaded 1809941 bytes
+[2025-10-23 19:42:39]       Resized from 2048x1365 to 1200x799
+[2025-10-23 19:42:39]     Saved optimized image: 126890 bytes (93.0% reduction)
+[2025-10-23 19:42:39]       Created thumbnail (5719 bytes)
+[2025-10-23 19:42:39]     Updated speyeria-idalia.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:39]   ✓ Successfully processed Regal Fritillary
+[2025-10-23 19:42:40] [15/16]
+[2025-10-23 19:42:40] Processing: American Painted Lady (Vanessa virginiensis)
+[2025-10-23 19:42:40]   Searching Wikipedia for: Vanessa virginiensis (American Painted Lady)
+[2025-10-23 19:42:41]     No image found on Wikipedia
+[2025-10-23 19:42:41]   Searching iNaturalist for: Vanessa virginiensis (American Painted Lady)
+[2025-10-23 19:42:41]     Found taxon ID: 48549
+[2025-10-23 19:42:42]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/4871987/original.jpg
+[2025-10-23 19:42:42]   Downloading from inaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/4871987/original.jpg
+[2025-10-23 19:42:42]     Downloaded 559601 bytes
+[2025-10-23 19:42:42]       Resized from 2000x1250 to 1200x750
+[2025-10-23 19:42:42]     Saved optimized image: 131326 bytes (76.5% reduction)
+[2025-10-23 19:42:42]       Created thumbnail (4766 bytes)
+[2025-10-23 19:42:42]     Updated vanessa-virginiensis.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:42]   ✓ Successfully processed American Painted Lady
+[2025-10-23 19:42:43] [16/16]
+[2025-10-23 19:42:43] Processing: Southern Dogface (Zerene cesonia)
+[2025-10-23 19:42:43]   Searching Wikipedia for: Zerene cesonia (Southern Dogface)
+[2025-10-23 19:42:43]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/e/ea/DOGFACE%2C_SOUTHERN_%28Zerene_cesonia%29_%2811-7-2014%29_harshaw_creek_crossing_rabbit_brush%2C_santa_cruz_co%2C_az_%2815114922694%29.jpg
+[2025-10-23 19:42:43]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/e/ea/DOGFACE%2C_SOUTHERN_%28Zerene_cesonia%29_%2811-7-2014%29_harshaw_creek_crossing_rabbit_brush%2C_santa_cruz_co%2C_az_%2815114922694%29.jpg
+[2025-10-23 19:42:43]     Downloaded 1180593 bytes
+[2025-10-23 19:42:43]       Resized from 2362x2452 to 1155x1200
+[2025-10-23 19:42:43]     Saved optimized image: 255106 bytes (78.4% reduction)
+[2025-10-23 19:42:43]       Created thumbnail (7448 bytes)
+[2025-10-23 19:42:43]     Updated zerene-cesonia.json with imageUrl and thumbnailUrl
+[2025-10-23 19:42:43]   ✓ Successfully processed Southern Dogface
+[2025-10-23 19:42:43] Batch job completed
+[2025-10-23 19:42:43] Successfully processed: 15 animals
+[2025-10-23 19:42:43] Failed: 1 animals
+[2025-10-23 19:42:43] Total animals with images: 15/16

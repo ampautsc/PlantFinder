@@ -24,4 +24,5 @@ export interface Animal {
   relationships: AnimalRelationships;
   nativeRange: string[]; // US states where native
   imageUrl?: string;
+  thumbnailUrl?: string; // Smaller image for use in plant details (target: ≤25KB)
 }
