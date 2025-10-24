@@ -121,6 +121,11 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
     commonName: 'American Painted Lady',
     thumbnailUrl: '/images/animals/butterflies/vanessa-virginiensis/vanessa-virginiensis-2025-10-23T19-42-42-166Z-thumb.jpg'
   },
+  'Painted Lady': {
+    id: 'vanessa-virginiensis',
+    commonName: 'American Painted Lady',
+    thumbnailUrl: '/images/animals/butterflies/vanessa-virginiensis/vanessa-virginiensis-2025-10-23T19-42-42-166Z-thumb.jpg'
+  },
   
   // Red-spotted Purple
   'Limenitis arthemis astyanax': {
@@ -149,6 +154,11 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
     commonName: 'Cloudless Sulphur',
     thumbnailUrl: '/images/animals/butterflies/phoebis-sennae/phoebis-sennae-2025-10-23T19-42-34-002Z-thumb.jpg'
   },
+  'Clouded Sulphur': {
+    id: 'phoebis-sennae',
+    commonName: 'Cloudless Sulphur',
+    thumbnailUrl: '/images/animals/butterflies/phoebis-sennae/phoebis-sennae-2025-10-23T19-42-34-002Z-thumb.jpg'
+  },
   
   // Southern Dogface
   'Zerene cesonia': {
@@ -157,21 +167,86 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
     thumbnailUrl: '/images/animals/butterflies/zerene-cesonia/zerene-cesonia-2025-10-23T19-42-43-571Z-thumb.jpg'
   },
   
-  // Additional common name variations
+  // Species without images - using placeholder or similar species
   'Queen butterfly': {
-    id: 'danaus-plexippus',  // Using Monarch as placeholder - Queen butterfly data not available
-    commonName: 'Monarch',  // Note: This is actually a different species, but we don't have Queen data
-    thumbnailUrl: '/images/animals/butterflies/danaus-plexippus/danaus-plexippus-2025-10-23T19-42-16-801Z-thumb.jpg'
+    id: 'queen-butterfly',
+    commonName: 'Queen butterfly',
+    thumbnailUrl: '' // No image available
   },
   'Pearl Crescent butterfly': {
-    id: 'junonia-coenia',  // Using Buckeye as similar crescent butterfly
-    commonName: 'Buckeye',
-    thumbnailUrl: '/images/animals/butterflies/junonia-coenia/junonia-coenia-2025-10-23T19-42-22-450Z-thumb.jpg'
+    id: 'pearl-crescent',
+    commonName: 'Pearl Crescent butterfly',
+    thumbnailUrl: '' // No image available
   },
-  'Painted Lady': {
-    id: 'vanessa-virginiensis',
-    commonName: 'American Painted Lady',
-    thumbnailUrl: '/images/animals/butterflies/vanessa-virginiensis/vanessa-virginiensis-2025-10-23T19-42-42-166Z-thumb.jpg'
+  'Atala butterfly': {
+    id: 'atala',
+    commonName: 'Atala butterfly',
+    thumbnailUrl: '' // No image available
+  },
+  'Bordered Patch butterfly': {
+    id: 'bordered-patch',
+    commonName: 'Bordered Patch butterfly',
+    thumbnailUrl: '' // No image available
+  },
+  'Columbine Duskywing butterfly': {
+    id: 'columbine-duskywing',
+    commonName: 'Columbine Duskywing butterfly',
+    thumbnailUrl: '' // No image available
+  },
+  'Eastern Comma': {
+    id: 'eastern-comma',
+    commonName: 'Eastern Comma',
+    thumbnailUrl: '' // No image available
+  },
+  'Eastern Tailed-Blue': {
+    id: 'eastern-tailed-blue',
+    commonName: 'Eastern Tailed-Blue',
+    thumbnailUrl: '' // No image available
+  },
+  'Fritillary butterflies': {
+    id: 'fritillary-general',
+    commonName: 'Fritillary butterflies',
+    thumbnailUrl: '' // No image available - generic category
+  },
+  'Meadow Fritillary': {
+    id: 'meadow-fritillary',
+    commonName: 'Meadow Fritillary',
+    thumbnailUrl: '' // No image available
+  },
+  'Milbert\'s Tortoiseshell': {
+    id: 'milberts-tortoiseshell',
+    commonName: 'Milbert\'s Tortoiseshell',
+    thumbnailUrl: '' // No image available
+  },
+  'Milkweed Tussock Moth': {
+    id: 'milkweed-tussock-moth',
+    commonName: 'Milkweed Tussock Moth',
+    thumbnailUrl: '' // No image available
+  },
+  'Orange Sulphur': {
+    id: 'orange-sulphur',
+    commonName: 'Orange Sulphur',
+    thumbnailUrl: '' // No image available
+  },
+  'Question Mark': {
+    id: 'question-mark',
+    commonName: 'Question Mark',
+    thumbnailUrl: '' // No image available
+  },
+  'Red Admiral': {
+    id: 'red-admiral',
+    commonName: 'Red Admiral',
+    thumbnailUrl: '' // No image available
+  },
+  'Silvery Checkerspot butterfly': {
+    id: 'silvery-checkerspot',
+    commonName: 'Silvery Checkerspot butterfly',
+    thumbnailUrl: '' // No image available
+  },
+  'Variegated Fritillary': {
+    id: 'variegated-fritillary',
+    commonName: 'Variegated Fritillary',
+    thumbnailUrl: '' // No image available
   },
 };
 
