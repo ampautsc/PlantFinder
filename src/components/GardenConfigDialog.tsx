@@ -58,7 +58,7 @@ function GardenConfigDialog({
         <div className="garden-config-header">
           <h2 className="garden-config-title">
             <img 
-              src="/images/Camp Monarch_LOGO B1_gold_square.png" 
+              src="/images/Camp%20Monarch_LOGO%20B1_gold_square.png" 
               alt="Garden" 
             />
             {plantName} in Your Garden

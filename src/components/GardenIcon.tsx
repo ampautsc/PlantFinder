@@ -41,7 +41,7 @@ function GardenIcon({ isInGarden, onAddToGarden, onOpenConfig }: GardenIconProps
     if (!showConfetti) return null;
     
     const confettiPieces = [];
-    for (let i = 0; i < 50; i++) {
+    for (let i = 0; i < 30; i++) {
       const left = Math.random() * 100;
       const animationDelay = Math.random() * 0.3;
       const animationDuration = 1.5 + Math.random();
@@ -73,8 +73,8 @@ function GardenIcon({ isInGarden, onAddToGarden, onOpenConfig }: GardenIconProps
         >
           <img
             src={isInGarden 
-              ? '/images/Camp Monarch_LOGO B1_gold_square.png'
-              : '/images/Camp Monarch_LOGO B1 square.png'
+              ? '/images/Camp%20Monarch_LOGO%20B1_gold_square.png'
+              : '/images/Camp%20Monarch_LOGO%20B1%20square.png'
             }
             alt="Garden icon"
           />

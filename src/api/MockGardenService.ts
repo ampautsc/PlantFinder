@@ -19,9 +19,9 @@ export class MockGardenService implements IGardenApi {
     try {
       const stored = localStorage.getItem(STORAGE_KEY);
       if (stored) {
-        const data = JSON.parse(stored);
+        const data = JSON.parse(stored) as Record<string, Omit<GardenPlant, 'addedAt' | 'updatedAt'> & { addedAt: string; updatedAt: string }>;
         // Convert stored data back to Map with Date objects
-        Object.entries(data).forEach(([plantId, plant]: [string, any]) => {
+        Object.entries(data).forEach(([plantId, plant]) => {
           this.gardenPlants.set(plantId, {
             ...plant,
             addedAt: new Date(plant.addedAt),
