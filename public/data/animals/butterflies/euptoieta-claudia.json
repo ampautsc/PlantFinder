@@ -1,0 +1,60 @@
+{
+  "id": "euptoieta-claudia",
+  "commonName": "Variegated Fritillary",
+  "scientificName": "Euptoieta claudia",
+  "description": "Variegated Fritillary is a native butterfly found across North America. Caterpillars feed on various violet species and passionflower. Important pollinator and migratory species.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "medium"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Viola sororia",
+      "Viola pubescens"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "meadows",
+      "fields",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Massachusetts",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Delaware",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Florida",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas"
+  ],
+  "imageUrl": "/images/animals/butterflies/euptoieta-claudia/euptoieta-claudia-2025-10-24T22-31-04-584Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/euptoieta-claudia/euptoieta-claudia-2025-10-24T22-31-04-584Z-thumb.jpg"
+}

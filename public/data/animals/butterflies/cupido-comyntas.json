@@ -1,0 +1,64 @@
+{
+  "id": "cupido-comyntas",
+  "commonName": "Eastern Tailed-Blue",
+  "scientificName": "Cupido comyntas",
+  "description": "Eastern Tailed-Blue is a small native butterfly found across eastern North America. Caterpillars feed on various legume species. One of the most common blue butterflies in gardens.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "small"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Chamaecrista fasciculata",
+      "Trifolium repens"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "meadows",
+      "fields",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Delaware",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Florida",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas"
+  ],
+  "imageUrl": "/images/animals/butterflies/cupido-comyntas/cupido-comyntas-2025-10-24T22-31-00-443Z.jpeg",
+  "thumbnailUrl": "/images/animals/butterflies/cupido-comyntas/cupido-comyntas-2025-10-24T22-31-00-443Z-thumb.jpg"
+}

@@ -174,34 +174,34 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
     thumbnailUrl: '/images/animals/butterflies/danaus-gilippus/danaus-gilippus-2025-10-24T19-40-52-321Z-thumb.jpg'
   },
   'Pearl Crescent butterfly': {
-    id: 'pearl-crescent',
+    id: 'phyciodes-tharos',
     commonName: 'Pearl Crescent butterfly',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/phyciodes-tharos/phyciodes-tharos-2025-10-24T22-31-06-822Z-thumb.jpg'
   },
   'Atala butterfly': {
-    id: 'atala',
+    id: 'eumaeus-atala',
     commonName: 'Atala butterfly',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/eumaeus-atala/eumaeus-atala-2025-10-24T22-31-03-341Z-thumb.jpg'
   },
   'Bordered Patch butterfly': {
-    id: 'bordered-patch',
+    id: 'chlosyne-lacinia',
     commonName: 'Bordered Patch butterfly',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/chlosyne-lacinia/chlosyne-lacinia-2025-10-24T22-30-51-673Z-thumb.jpg'
   },
   'Columbine Duskywing butterfly': {
-    id: 'columbine-duskywing',
+    id: 'erynnis-lucilius',
     commonName: 'Columbine Duskywing butterfly',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/erynnis-lucilius/erynnis-lucilius-2025-10-24T22-31-01-955Z-thumb.jpg'
   },
   'Eastern Comma': {
-    id: 'eastern-comma',
+    id: 'polygonia-comma',
     commonName: 'Eastern Comma',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/polygonia-comma/polygonia-comma-2025-10-24T22-31-08-358Z-thumb.jpg'
   },
   'Eastern Tailed-Blue': {
-    id: 'eastern-tailed-blue',
+    id: 'cupido-comyntas',
     commonName: 'Eastern Tailed-Blue',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/cupido-comyntas/cupido-comyntas-2025-10-24T22-31-00-443Z-thumb.jpg'
   },
   'Fritillary butterflies': {
     id: 'fritillary-general',
@@ -209,14 +209,14 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
     thumbnailUrl: '/images/animals/butterflies/speyeria-cybele/speyeria-cybele-2025-10-23T19-42-36-578Z-thumb.jpg' // Using Great Spangled Fritillary as representative
   },
   'Meadow Fritillary': {
-    id: 'meadow-fritillary',
+    id: 'boloria-bellona',
     commonName: 'Meadow Fritillary',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/boloria-bellona/boloria-bellona-2025-10-24T22-30-50-353Z-thumb.jpg'
   },
   'Milbert\'s Tortoiseshell': {
-    id: 'milberts-tortoiseshell',
+    id: 'aglais-milberti',
     commonName: 'Milbert\'s Tortoiseshell',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/aglais-milberti/aglais-milberti-2025-10-24T22-30-48-875Z-thumb.jpg'
   },
   'Milkweed Tussock Moth': {
     id: 'euchaetes-egle',
@@ -224,29 +224,29 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
     thumbnailUrl: '/images/animals/butterflies/euchaetes-egle/euchaetes-egle-2025-10-24T19-40-54-086Z-thumb.jpg'
   },
   'Orange Sulphur': {
-    id: 'orange-sulphur',
+    id: 'colias-eurytheme',
     commonName: 'Orange Sulphur',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/colias-eurytheme/colias-eurytheme-2025-10-24T22-30-54-332Z-thumb.jpg'
   },
   'Question Mark': {
-    id: 'question-mark',
+    id: 'polygonia-interrogationis',
     commonName: 'Question Mark',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/polygonia-interrogationis/polygonia-interrogationis-2025-10-24T22-31-09-699Z-thumb.jpg'
   },
   'Red Admiral': {
-    id: 'red-admiral',
+    id: 'vanessa-atalanta',
     commonName: 'Red Admiral',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/vanessa-atalanta/vanessa-atalanta-2025-10-24T22-31-11-130Z-thumb.jpg'
   },
   'Silvery Checkerspot butterfly': {
-    id: 'silvery-checkerspot',
+    id: 'chlosyne-nycteis',
     commonName: 'Silvery Checkerspot butterfly',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/chlosyne-nycteis/chlosyne-nycteis-2025-10-24T22-30-53-005Z-thumb.jpg'
   },
   'Variegated Fritillary': {
-    id: 'variegated-fritillary',
+    id: 'euptoieta-claudia',
     commonName: 'Variegated Fritillary',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/euptoieta-claudia/euptoieta-claudia-2025-10-24T22-31-04-584Z-thumb.jpg'
   },
   
   // Additional scientific name mappings for existing butterflies
@@ -319,6 +319,73 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
     id: 'zerene-cesonia',
     commonName: 'Southern Dogface',
     thumbnailUrl: '/images/animals/butterflies/zerene-cesonia/zerene-cesonia-2025-10-23T19-42-43-571Z-thumb.jpg'
+  },
+  
+  // Scientific name mappings for newly added butterflies
+  'Eumaeus atala': {
+    id: 'eumaeus-atala',
+    commonName: 'Atala butterfly',
+    thumbnailUrl: '/images/animals/butterflies/eumaeus-atala/eumaeus-atala-2025-10-24T22-31-03-341Z-thumb.jpg'
+  },
+  'Phyciodes tharos': {
+    id: 'phyciodes-tharos',
+    commonName: 'Pearl Crescent butterfly',
+    thumbnailUrl: '/images/animals/butterflies/phyciodes-tharos/phyciodes-tharos-2025-10-24T22-31-06-822Z-thumb.jpg'
+  },
+  'Chlosyne lacinia': {
+    id: 'chlosyne-lacinia',
+    commonName: 'Bordered Patch butterfly',
+    thumbnailUrl: '/images/animals/butterflies/chlosyne-lacinia/chlosyne-lacinia-2025-10-24T22-30-51-673Z-thumb.jpg'
+  },
+  'Erynnis lucilius': {
+    id: 'erynnis-lucilius',
+    commonName: 'Columbine Duskywing butterfly',
+    thumbnailUrl: '/images/animals/butterflies/erynnis-lucilius/erynnis-lucilius-2025-10-24T22-31-01-955Z-thumb.jpg'
+  },
+  'Polygonia comma': {
+    id: 'polygonia-comma',
+    commonName: 'Eastern Comma',
+    thumbnailUrl: '/images/animals/butterflies/polygonia-comma/polygonia-comma-2025-10-24T22-31-08-358Z-thumb.jpg'
+  },
+  'Cupido comyntas': {
+    id: 'cupido-comyntas',
+    commonName: 'Eastern Tailed-Blue',
+    thumbnailUrl: '/images/animals/butterflies/cupido-comyntas/cupido-comyntas-2025-10-24T22-31-00-443Z-thumb.jpg'
+  },
+  'Boloria bellona': {
+    id: 'boloria-bellona',
+    commonName: 'Meadow Fritillary',
+    thumbnailUrl: '/images/animals/butterflies/boloria-bellona/boloria-bellona-2025-10-24T22-30-50-353Z-thumb.jpg'
+  },
+  'Aglais milberti': {
+    id: 'aglais-milberti',
+    commonName: 'Milbert\'s Tortoiseshell',
+    thumbnailUrl: '/images/animals/butterflies/aglais-milberti/aglais-milberti-2025-10-24T22-30-48-875Z-thumb.jpg'
+  },
+  'Colias eurytheme': {
+    id: 'colias-eurytheme',
+    commonName: 'Orange Sulphur',
+    thumbnailUrl: '/images/animals/butterflies/colias-eurytheme/colias-eurytheme-2025-10-24T22-30-54-332Z-thumb.jpg'
+  },
+  'Polygonia interrogationis': {
+    id: 'polygonia-interrogationis',
+    commonName: 'Question Mark',
+    thumbnailUrl: '/images/animals/butterflies/polygonia-interrogationis/polygonia-interrogationis-2025-10-24T22-31-09-699Z-thumb.jpg'
+  },
+  'Vanessa atalanta': {
+    id: 'vanessa-atalanta',
+    commonName: 'Red Admiral',
+    thumbnailUrl: '/images/animals/butterflies/vanessa-atalanta/vanessa-atalanta-2025-10-24T22-31-11-130Z-thumb.jpg'
+  },
+  'Chlosyne nycteis': {
+    id: 'chlosyne-nycteis',
+    commonName: 'Silvery Checkerspot butterfly',
+    thumbnailUrl: '/images/animals/butterflies/chlosyne-nycteis/chlosyne-nycteis-2025-10-24T22-30-53-005Z-thumb.jpg'
+  },
+  'Euptoieta claudia': {
+    id: 'euptoieta-claudia',
+    commonName: 'Variegated Fritillary',
+    thumbnailUrl: '/images/animals/butterflies/euptoieta-claudia/euptoieta-claudia-2025-10-24T22-31-04-584Z-thumb.jpg'
   },
 };
 
