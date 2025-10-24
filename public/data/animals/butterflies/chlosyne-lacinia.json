@@ -1,0 +1,35 @@
+{
+  "id": "chlosyne-lacinia",
+  "commonName": "Bordered Patch butterfly",
+  "scientificName": "Chlosyne lacinia",
+  "description": "Bordered Patch butterfly is a native butterfly found in southern United States. Caterpillars feed on various sunflower family plants. An important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "small"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Helianthus annuus"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "meadows",
+      "fields",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Texas",
+    "Arizona",
+    "New Mexico",
+    "California",
+    "Florida"
+  ],
+  "imageUrl": "/images/animals/butterflies/chlosyne-lacinia/chlosyne-lacinia-2025-10-24T22-30-51-673Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/chlosyne-lacinia/chlosyne-lacinia-2025-10-24T22-30-51-673Z-thumb.jpg"
+}

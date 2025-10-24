@@ -1,0 +1,48 @@
+{
+  "id": "aglais-milberti",
+  "commonName": "Milbert's Tortoiseshell",
+  "scientificName": "Aglais milberti",
+  "description": "Milbert's Tortoiseshell is a native butterfly found in northern regions. Caterpillars feed on stinging nettle. Prefers moist areas near streams and meadows.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "medium"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Urtica dioica",
+      "Boehmeria cylindrica"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "meadows",
+      "wetlands",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Connecticut",
+    "New York",
+    "Pennsylvania",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Montana",
+    "Wyoming",
+    "Colorado",
+    "Idaho",
+    "Washington",
+    "Oregon",
+    "California"
+  ],
+  "imageUrl": "/images/animals/butterflies/aglais-milberti/aglais-milberti-2025-10-24T22-30-48-875Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/aglais-milberti/aglais-milberti-2025-10-24T22-30-48-875Z-thumb.jpg"
+}

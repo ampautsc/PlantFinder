@@ -1,0 +1,30 @@
+{
+  "id": "eumaeus-atala",
+  "commonName": "Atala butterfly",
+  "scientificName": "Eumaeus atala",
+  "description": "Atala butterfly is a beautiful native butterfly found in Florida. Caterpillars feed on Zamia pumila (Coontie). This rare butterfly has made a remarkable recovery from near extinction.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "small"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Zamia pumila"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "tropical hammocks",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Florida"
+  ],
+  "imageUrl": "/images/animals/butterflies/eumaeus-atala/eumaeus-atala-2025-10-24T22-31-03-341Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/eumaeus-atala/eumaeus-atala-2025-10-24T22-31-03-341Z-thumb.jpg"
+}
