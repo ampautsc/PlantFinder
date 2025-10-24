@@ -318,7 +318,7 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
   'Southern Dogface': {
     id: 'zerene-cesonia',
     commonName: 'Southern Dogface',
-    thumbnailUrl: '/images/animals/butterflies/zerene-cesonia/zerene-cesonia-2025-10-24T19-42-43-571Z-thumb.jpg'
+    thumbnailUrl: '/images/animals/butterflies/zerene-cesonia/zerene-cesonia-2025-10-23T19-42-43-571Z-thumb.jpg'
   },
   
   // Scientific name mappings for newly added butterflies
