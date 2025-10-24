@@ -58,6 +58,9 @@ function App() {
         volumeMap.set(volume.plantId, volume);
       });
       setPlantVolumes(volumeMap);
+      
+      // Set seed share volumes in plant API for prioritization
+      plantApi.setSeedShareVolumes(volumes);
     });
     
     mockSeedShareService.getUserAllPlantsActivity(CURRENT_USER_ID).then(activities => {
