@@ -1,0 +1,35 @@
+{
+  "scraped_at": "2025-10-24T22:36:03.387156+00:00",
+  "scraper_version": "1.0.0",
+  "source": "usda",
+  "usda_symbol": "COSES",
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
+  },
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=COSES",
+      "fetched_at": "2025-10-24T22:36:03.482208+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
+    },
+    "plant_guide_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_coses.pdf",
+      "size_bytes": 96296,
+      "stored_at": "src/data/usda/usda-coses-plantguide.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    },
+    "fact_sheet_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/factsheet/pdf/fs_coses.pdf",
+      "size_bytes": 54329,
+      "stored_at": "src/data/usda/usda-coses-factsheet.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    }
+  }
+}

@@ -26,11 +26,6 @@ dist-ssr
 # Data fetched by batch jobs (gitignored - not for source control)
 /data/
 
-# USDA data files (PDFs and fetched data - not for source control)
-src/data/usda/*.pdf
-src/data/usda/usda-*.json
-!src/data/usda/README.md
-
 # Python
 __pycache__/
 *.py[cod]

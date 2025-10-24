@@ -1,0 +1,29 @@
+{
+  "scraped_at": "2025-10-24T22:48:02.853820+00:00",
+  "scraper_version": "1.0.0",
+  "source": "usda",
+  "usda_symbol": "SAAL5",
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
+  },
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=SAAL5",
+      "fetched_at": "2025-10-24T22:48:02.948994+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
+    },
+    "plant_guide_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_saal5.pdf",
+      "size_bytes": 100163,
+      "stored_at": "src/data/usda/usda-saal5-plantguide.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    }
+  }
+}

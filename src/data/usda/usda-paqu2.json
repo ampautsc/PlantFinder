@@ -1,0 +1,29 @@
+{
+  "scraped_at": "2025-10-24T22:44:25.616141+00:00",
+  "scraper_version": "1.0.0",
+  "source": "usda",
+  "usda_symbol": "PAQU2",
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
+  },
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=PAQU2",
+      "fetched_at": "2025-10-24T22:44:25.710767+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
+    },
+    "fact_sheet_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/factsheet/pdf/fs_paqu2.pdf",
+      "size_bytes": 54944,
+      "stored_at": "src/data/usda/usda-paqu2-factsheet.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    }
+  }
+}

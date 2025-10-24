@@ -1,0 +1,23 @@
+{
+  "scraped_at": "2025-10-24T22:32:06.777596+00:00",
+  "scraper_version": "1.0.0",
+  "source": "usda",
+  "usda_symbol": "BAMO",
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
+  },
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=BAMO",
+      "fetched_at": "2025-10-24T22:32:06.871949+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
+    }
+  }
+}

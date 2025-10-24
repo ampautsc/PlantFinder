@@ -1,0 +1,29 @@
+{
+  "scraped_at": "2025-10-24T22:33:31.261820+00:00",
+  "scraper_version": "1.0.0",
+  "source": "usda",
+  "usda_symbol": "CEHE",
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
+  },
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=CEHE",
+      "fetched_at": "2025-10-24T22:33:31.356724+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
+    },
+    "plant_guide_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_cehe.pdf",
+      "size_bytes": 127266,
+      "stored_at": "src/data/usda/usda-cehe-plantguide.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    }
+  }
+}

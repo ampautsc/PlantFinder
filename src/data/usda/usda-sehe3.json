@@ -1,0 +1,29 @@
+{
+  "scraped_at": "2025-10-24T22:48:20.914495+00:00",
+  "scraper_version": "1.0.0",
+  "source": "usda",
+  "usda_symbol": "SEHE3",
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
+  },
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=SEHE3",
+      "fetched_at": "2025-10-24T22:48:21.009530+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
+    },
+    "fact_sheet_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/factsheet/pdf/fs_sehe3.pdf",
+      "size_bytes": 65137,
+      "stored_at": "src/data/usda/usda-sehe3-factsheet.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    }
+  }
+}
