@@ -288,7 +288,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                         // Convert to array and render
                         return Array.from(speciesMap.values()).map(({ commonName, thumbnail }) => (
                           <div key={commonName} className="host-species-item">
-                            {thumbnail && thumbnail.thumbnailUrl && thumbnail.thumbnailUrl.trim() !== '' && (
+                            {thumbnail && thumbnail.thumbnailUrl && (
                               <img 
                                 src={thumbnail.thumbnailUrl} 
                                 alt={commonName}

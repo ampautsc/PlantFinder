@@ -1,0 +1,64 @@
+{
+  "id": "euchaetes-egle",
+  "commonName": "Milkweed Tussock Moth",
+  "scientificName": "Euchaetes egle",
+  "description": "Milkweed Tussock Moth is a native moth whose caterpillars feed exclusively on milkweed plants. The caterpillars are easily identified by their tufts of black, white, and orange hairs. They feed on various milkweed species including Asclepias syriaca.",
+  "type": "moth",
+  "characteristics": {
+    "flightSeason": [
+      "summer",
+      "fall"
+    ],
+    "size": "small"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Asclepias syriaca",
+      "Asclepias tuberosa",
+      "Asclepias incarnata"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "meadows",
+      "fields",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Delaware",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Florida",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas"
+  ],
+  "imageUrl": "/images/animals/butterflies/euchaetes-egle/euchaetes-egle-2025-10-24T19-40-54-086Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/euchaetes-egle/euchaetes-egle-2025-10-24T19-40-54-086Z-thumb.jpg"
+}

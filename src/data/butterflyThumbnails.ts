@@ -169,9 +169,9 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
   
   // Species without images - using placeholder or similar species
   'Queen butterfly': {
-    id: 'queen-butterfly',
+    id: 'danaus-gilippus',
     commonName: 'Queen butterfly',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/danaus-gilippus/danaus-gilippus-2025-10-24T19-40-52-321Z-thumb.jpg'
   },
   'Pearl Crescent butterfly': {
     id: 'pearl-crescent',
@@ -219,9 +219,9 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
     thumbnailUrl: '' // No image available
   },
   'Milkweed Tussock Moth': {
-    id: 'milkweed-tussock-moth',
+    id: 'euchaetes-egle',
     commonName: 'Milkweed Tussock Moth',
-    thumbnailUrl: '' // No image available
+    thumbnailUrl: '/images/animals/butterflies/euchaetes-egle/euchaetes-egle-2025-10-24T19-40-54-086Z-thumb.jpg'
   },
   'Orange Sulphur': {
     id: 'orange-sulphur',
