@@ -25,5 +25,10 @@
       "stored_at": "src/data/usda/usda-aruv-factsheet.pdf",
       "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
     }
-  }
+  },
+  "extracted_data": {
+    "factsheet_text": "Plant Fact Sheet\nBEARBERRY trailing stems will layer, sending out small roots\nperiodically. The finely textured velvety branches\nArctostaphylos uva-ursi (L.) are initially white to pale green, becoming smooth\nand red-brown with maturity. The small solitary\nSpreng\nthree scaled buds are dark brown.\nPlant Symbol = ARUV\nThe simple leaves of this broadleaf evergreen are\nalternately arranged on branches. Each leaf is held\nContributed by: USDA NRCS Plant Materials\nby a twisted leaf stalk, vertically. The leathery dark\nProgram\ngreen leaves are an inch long and have rounded tips\ntapering back to the base. In fall, the leaves begin\nchanging from a dark green to a reddish-green to\npurple.\nTerminal clusters of small urn-shaped flowers bloom\nfrom May to June. The perfect flowers are white to\npink, and bear round, fleshy or mealy, bright red to\npink fruits called drupes. This smooth, glossy\nskinned fruit will range from 1/4 to 1/2 inch in\ndiameter. The fruit will persist on the plant into early\nwint",
+    "factsheet_pages": 2
+  },
+  "data_extracted_at": "2025-10-24T23:08:25.853789+00:00"
 }

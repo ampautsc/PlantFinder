@@ -25,5 +25,10 @@
       "stored_at": "src/data/usda/usda-amals-factsheet.pdf",
       "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
     }
-  }
+  },
+  "extracted_data": {
+    "factsheet_text": "Plant Fact Sheet\nPACIFIC several species of song and game birds. These shrubs\nare often used as cover for small mammals and birds.\nSERVICEBERRY\nStreambank and Riparian Restoration: Pacific\nAmelanchier alnifolia (Nutt.) serviceberry is an excellent candidate for streambank\nand riparian restoration as it suckers readily and\nNutt. ex M. Roemer var.\ntolerates many types of soils.\nsemiintegrifolia (Hook.) C.L.\nStatus\nHitchc.\nPlease consult the PLANTS Web site and your State\nPlant Symbol = AMALS Department of Natural Resources for this plant\u2019s\ncurrent status (e.g. threatened or endangered species,\nstate noxious status, and wetland indicator values).\nContributed by: USDA NRCS Corvallis Plant\nMaterials Center\nDescription\nPacific serviceberry occurs west of the Cascade and\nSierra Nevada Mountain ranges, from British\nColumbia south to central California. It may be\nfound in open woods, along canyons, or on hillsides,\nfrom near sea level to subalpine altitudes. This\nspecies is a thicket-forming sh",
+    "factsheet_pages": 3
+  },
+  "data_extracted_at": "2025-10-24T23:08:25.469126+00:00"
 }

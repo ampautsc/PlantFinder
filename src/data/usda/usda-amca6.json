@@ -25,5 +25,10 @@
       "stored_at": "src/data/usda/usda-amca6-factsheet.pdf",
       "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
     }
-  }
+  },
+  "extracted_data": {
+    "factsheet_text": "Plant Fact Sheet\nLEADPLANT Landscaping and restoration: Leadplant is an ideal\nornamental species because it has showy flowers, is\nAmorpha canescens Pursh drought tolerant, and shade tolerant. It also forms nodules\non its roots to fix nitrogen and can be used for prairie\nPlant Symbol = AMCA6\nrestorations.\nContributed by: USDA NRCS Kansas Plant Materials Wildlife and livestock: It is a floral food resource for\nCenter pollinating insects, including solitary bees. It is very\npalatable to livestock and wildlife, including cattle, sheep,\nhorses, elk, and deer.\nStatus\nPlease consult the PLANTS Web site and your State\nDepartment of Natural Resources for this plant\u2019s current\nstatus (e.g., threatened or endangered species, state\nnoxious status, and wetland indicator values).\nDescription and Adaptation\nFigure 1. Leadplant showing purple flowers and gray lead-colored\nleaves. Photo by Alan Shadow (2006) USDA NRCS.\nAlternate Names\nLead-plant, leadplant amorpha, downy indigobush, prairie\nshoestrings,",
+    "factsheet_pages": 2
+  },
+  "data_extracted_at": "2025-10-24T23:08:25.665303+00:00"
 }

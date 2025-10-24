@@ -25,5 +25,10 @@
       "stored_at": "src/data/usda/usda-bati-factsheet.pdf",
       "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
     }
-  }
+  },
+  "extracted_data": {
+    "factsheet_text": "Plant Fact Sheet\nHORSEFLY WEED\nLandscape and Wildlife: This plant is not\nBaptisia tinctoria (L.) R. Br. particularly suitable for a formal garden but is at\nhome in a meadow garden or sunny informal area.\nPlant Symbol = BATI\nBees are best adapted to pollinate the flowers. The\ndusky-winged butterfly (Thanaos brizo) and Io moth\nContributed by: USDA NRCS National Plant (Automeris io) larvae and caterpillars feed on the\nMaterials Center, Beltsville, Maryland leaves. It is also a larval and/or nectar source for the\nFrosted Elfin (Callophrys irus). It is the only known\nfood of the larval stage of the wild indigo dusky\nwinged butterfly (Erynnis baptisiae).\nStatus\nHorsefly weed is rare in some parts of its range; is\nthreatened in Kentucky and endangered in Maine.\nPlease consult the PLANTS Web site and your State\nDepartment of Natural Resources for this plant\u2019s\ncurrent status (e.g. threatened or endangered species,\nstate noxious status, and wetland indicator values).\nDescription and Adaptation\nG",
+    "factsheet_pages": 2
+  },
+  "data_extracted_at": "2025-10-24T23:08:26.085297+00:00"
 }
