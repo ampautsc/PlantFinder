@@ -215,3 +215,35 @@
 [2025-10-23 19:42:43] Successfully processed: 15 animals
 [2025-10-23 19:42:43] Failed: 1 animals
 [2025-10-23 19:42:43] Total animals with images: 15/16
+[2025-10-24 19:40:51] Batch job started (version 1.0.0)
+[2025-10-24 19:40:51] Limit set to 2 images
+[2025-10-24 19:40:51] Scanning for animals without images...
+[2025-10-24 19:40:51] Found 2 animals without images
+[2025-10-24 19:40:51] Processing 2 animals
+[2025-10-24 19:40:51] [1/2]
+[2025-10-24 19:40:51] Processing: Queen butterfly (Danaus gilippus)
+[2025-10-24 19:40:51]   Searching Wikipedia for: Danaus gilippus (Queen butterfly)
+[2025-10-24 19:40:51]     No image found on Wikipedia
+[2025-10-24 19:40:51]   Searching iNaturalist for: Danaus gilippus (Queen butterfly)
+[2025-10-24 19:40:51]     Found taxon ID: 51743
+[2025-10-24 19:40:52]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/462120729/original.jpeg
+[2025-10-24 19:40:52]   Downloading from inaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/462120729/original.jpeg
+[2025-10-24 19:40:52]     Downloaded 854932 bytes
+[2025-10-24 19:40:52]     Saved optimized image: 854932 bytes (0.0% reduction)
+[2025-10-24 19:40:52]       Cannot create thumbnail without PIL
+[2025-10-24 19:40:52]     Updated danaus-gilippus.json with imageUrl and thumbnailUrl
+[2025-10-24 19:40:52]   ✓ Successfully processed Queen butterfly
+[2025-10-24 19:40:53] [2/2]
+[2025-10-24 19:40:53] Processing: Milkweed Tussock Moth (Euchaetes egle)
+[2025-10-24 19:40:53]   Searching Wikipedia for: Euchaetes egle (Milkweed Tussock Moth)
+[2025-10-24 19:40:54]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/8/8e/Euchaetes_eglePCCA20060825-6935B.jpg
+[2025-10-24 19:40:54]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/8/8e/Euchaetes_eglePCCA20060825-6935B.jpg
+[2025-10-24 19:40:54]     Downloaded 38659 bytes
+[2025-10-24 19:40:54]     Saved optimized image: 38659 bytes (0.0% reduction)
+[2025-10-24 19:40:54]       Cannot create thumbnail without PIL
+[2025-10-24 19:40:54]     Updated euchaetes-egle.json with imageUrl and thumbnailUrl
+[2025-10-24 19:40:54]   ✓ Successfully processed Milkweed Tussock Moth
+[2025-10-24 19:40:54] Batch job completed
+[2025-10-24 19:40:54] Successfully processed: 2 animals
+[2025-10-24 19:40:54] Failed: 0 animals
+[2025-10-24 19:40:54] Total animals with images: 18/18

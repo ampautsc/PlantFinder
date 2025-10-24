@@ -1,0 +1,44 @@
+{
+  "id": "danaus-gilippus",
+  "commonName": "Queen butterfly",
+  "scientificName": "Danaus gilippus",
+  "description": "Queen butterfly is a beautiful native butterfly closely related to the Monarch. Caterpillars feed on various milkweed species including Asclepias tuberosa, Asclepias syriaca, Asclepias incarnata, and Asclepias verticillata. Important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "medium"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Asclepias tuberosa",
+      "Asclepias syriaca",
+      "Asclepias incarnata",
+      "Asclepias verticillata"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "meadows",
+      "gardens",
+      "open areas"
+    ]
+  },
+  "nativeRange": [
+    "Florida",
+    "Georgia",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Texas",
+    "Oklahoma",
+    "Arkansas",
+    "Arizona",
+    "New Mexico",
+    "California"
+  ],
+  "imageUrl": "/images/animals/butterflies/danaus-gilippus/danaus-gilippus-2025-10-24T19-40-52-321Z.jpeg",
+  "thumbnailUrl": "/images/animals/butterflies/danaus-gilippus/danaus-gilippus-2025-10-24T19-40-52-321Z-thumb.jpg"
+}
