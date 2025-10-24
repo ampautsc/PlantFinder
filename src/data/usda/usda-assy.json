@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-24T17:22:28.331071+00:00",
+  "scraped_at": "2025-10-24T17:27:53.760965+00:00",
   "scraper_version": "1.0.0",
   "source": "usda",
   "usda_symbol": "ASSY",
@@ -13,7 +13,7 @@
   "raw_data": {
     "profile_page": {
       "url": "https://plants.usda.gov/home/plantProfile?symbol=ASSY",
-      "fetched_at": "2025-10-24T17:22:29.125226+00:00",
+      "fetched_at": "2025-10-24T17:27:54.243012+00:00",
       "status_code": 200,
       "html_length": 7611,
       "html_stored": false,
