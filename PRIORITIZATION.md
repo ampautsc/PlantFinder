@@ -4,27 +4,27 @@ This document describes how plants are prioritized in the PlantFinder applicatio
 
 ## Overview
 
-Plants in the wildflower list are automatically sorted by priority to highlight the most important plants for Monarch butterfly conservation and seed sharing community.
+Plants in the wildflower list are automatically sorted by priority to highlight plants based on their ecological value and seed sharing community engagement.
 
 ## Priority Ranking
 
-Plants are prioritized in the following order:
+Plants are prioritized based on a point system:
 
-1. **Monarch butterfly host plants** (highest priority)
-   - Asclepias species (milkweeds) and other plants that Monarch caterpillars feed on
-   - These are essential for Monarch conservation
+1. **Host plant species** - 3 points per species hosted
+   - Each butterfly, moth, or other insect species that uses the plant as a host
+   - Example: A plant hosting Monarch and Queen butterflies gets 6 points (2 species × 3 points)
 
-2. **Seeds offered**
+2. **Food/shelter groups** - 1 point per group
+   - Each category in the `foodFor` array (bees, butterflies, birds, etc.)
+   - Example: A plant providing food for "butterflies" and "bees" gets 2 points (2 groups × 1 point)
+
+3. **Seeds offered** - 100 points per seed packet
    - Plants with seeds available through the seed share program
-   - More seed packets available = higher priority
+   - Example: 3 seed packets available = 300 points
 
-3. **Adoption requests**
+4. **Adoption requests** - 10 points per request
    - Plants that people are requesting through the seed share program
-   - More requests = higher priority
-
-4. **Nectar sources**
-   - Plants that provide nectar for adult butterflies and pollinators
-   - Important for feeding adult Monarchs and other beneficial insects
+   - Example: 2 requests = 20 points
 
 ## How It Works
 
@@ -32,27 +32,30 @@ Each plant receives a priority score based on the above factors:
 
 ```
 Priority Score = 
-  (Is Monarch Host? × 1000) +
+  (Hosted Species Count × 3) +
+  (Food/Shelter Groups Count × 1) +
   (Seeds Offered × 100) +
-  (Adoption Requests × 10) +
-  (Is Nectar Source? × 1)
+  (Adoption Requests × 10)
 ```
 
 Plants are then sorted from highest to lowest priority score.
 
 ### Example Scores
 
-- **Butterfly Weed** with 2 seeds offered: 
-  - Monarch host (1000) + 2 seeds (200) + nectar (1) = **1,201 points**
+- **Butterfly Weed** (2 hosted species, 2 food groups) with 3 seeds offered:
+  - Host species (6) + Food groups (2) + Seeds (300) = **308 points**
 
-- **Swamp Milkweed** with 1 adoption request:
-  - Monarch host (1000) + 1 request (10) + nectar (1) = **1,011 points**
+- **Swamp Milkweed** (2 hosted species, 2 food groups) with 1 adoption request:
+  - Host species (6) + Food groups (2) + Request (10) = **18 points**
 
-- **Black-Eyed Susan** with 5 seeds offered:
-  - 5 seeds (500) + nectar (1) = **501 points**
+- **Black-Eyed Susan** (0 host species, 2 food groups) with 2 seeds offered:
+  - Food groups (2) + Seeds (200) = **202 points**
 
-- **Regular nectar plant** with no seeds/requests:
-  - Nectar (1) = **1 point**
+- **Common Milkweed** (2 hosted species, 2 food groups, no seeds/requests):
+  - Host species (6) + Food groups (2) = **8 points**
+
+- **Regular plant** with no relationships or seed activity:
+  - **0 points**
 
 ## Customizing Priority Weights
 
@@ -64,42 +67,52 @@ The prioritization system is easily customizable. To adjust how plants are ranke
 
 ```typescript
 export const DEFAULT_PRIORITIZATION_CONFIG: PlantPrioritizationConfig = {
-  monarchHostPlantWeight: 1000,    // Adjust Monarch host priority
-  seedsOfferedWeight: 100,         // Adjust seeds offered priority
-  adoptionRequestWeight: 10,       // Adjust adoption request priority
-  nectarSourceWeight: 1,           // Adjust nectar source priority
+  pointsPerHostedSpecies: 3,       // Points per species hosted
+  pointsPerFoodOrShelterGroup: 1,  // Points per food/shelter group
+  seedsOfferedWeight: 100,         // Seeds offered multiplier
+  adoptionRequestWeight: 10,       // Adoption request multiplier
 };
 ```
 
 ### Example Customizations
 
-**Prioritize seed sharing more than Monarch hosts:**
+**Increase host plant priority:**
 ```typescript
 {
-  monarchHostPlantWeight: 100,
-  seedsOfferedWeight: 1000,  // Now seeds are highest priority
+  pointsPerHostedSpecies: 10,      // Now 10 points per species
+  pointsPerFoodOrShelterGroup: 1,
+  seedsOfferedWeight: 100,
   adoptionRequestWeight: 10,
-  nectarSourceWeight: 1,
+}
+```
+
+**Prioritize seed sharing over ecology:**
+```typescript
+{
+  pointsPerHostedSpecies: 1,
+  pointsPerFoodOrShelterGroup: 1,
+  seedsOfferedWeight: 1000,  // Seeds now highest priority
+  adoptionRequestWeight: 100,
 }
 ```
 
 **Equal priority for all factors:**
 ```typescript
 {
-  monarchHostPlantWeight: 1,
+  pointsPerHostedSpecies: 1,
+  pointsPerFoodOrShelterGroup: 1,
   seedsOfferedWeight: 1,
   adoptionRequestWeight: 1,
-  nectarSourceWeight: 1,
 }
 ```
 
 **Disable prioritization (alphabetical only):**
 ```typescript
 {
-  monarchHostPlantWeight: 0,
+  pointsPerHostedSpecies: 0,
+  pointsPerFoodOrShelterGroup: 0,
   seedsOfferedWeight: 0,
   adoptionRequestWeight: 0,
-  nectarSourceWeight: 0,
 }
 ```
 
@@ -112,7 +125,7 @@ The prioritization system is implemented in:
 - **Configuration**: `/src/config/plantPrioritization.ts`
   - Defines priority weights
   - Scoring calculation functions
-  - Helper functions to identify Monarch hosts and nectar sources
+  - Helper functions to count hosted species and food/shelter groups
 
 - **API Integration**: `/src/api/MockPlantApi.ts`
   - `setSeedShareVolumes()`: Loads seed share data for scoring
@@ -123,16 +136,17 @@ The prioritization system is implemented in:
   - Loads seed share data on startup
   - Passes data to plant API for prioritization
 
-### Plant Identification
+### Plant Scoring
 
-**Monarch Host Plants:**
-- Identified by checking if "monarch" appears in the `hostPlantTo` array
-- Example: `hostPlantTo: ["Monarch butterfly", "Queen butterfly"]`
+**Hosted Species Count:**
+- Counts the number of entries in `hostPlantTo` array
+- Each species (Monarch butterfly, Queen butterfly, etc.) = 1 count
+- Example: `hostPlantTo: ["Monarch butterfly", "Queen butterfly"]` = 2 species
 
-**Nectar Sources:**
-- Identified by checking if "nectar" appears in the plant description
-- Or if "pollinator" appears in the `usefulFor` array
-- Example: `description: "...excellent nectar source..."`
+**Food/Shelter Groups Count:**
+- Counts the number of entries in `foodFor` array
+- Each group (butterflies, bees, birds, etc.) = 1 count
+- Example: `foodFor: ["butterflies", "bees"]` = 2 groups
 
 ### Sorting Behavior
 
@@ -164,6 +178,7 @@ Potential improvements to the prioritization system:
 4. **Rarity priority**: Highlight rare or endangered species
 5. **Conservation status**: Integrate with conservation databases
 6. **Dynamic weights**: Adjust priorities based on community needs
+7. **Monarch-specific boost**: Add extra points for plants specifically listed as Monarch hosts
 
 ## Questions?
 

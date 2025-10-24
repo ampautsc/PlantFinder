@@ -9,10 +9,16 @@
 
 export interface PlantPrioritizationConfig {
   /**
-   * Weight for plants that are Monarch butterfly host plants
-   * These are essential for Monarch conservation (milkweeds)
+   * Points per species hosted (e.g., per butterfly/moth species)
+   * Applied to hostPlantTo relationships
    */
-  monarchHostPlantWeight: number;
+  pointsPerHostedSpecies: number;
+
+  /**
+   * Points per group provided food or shelter
+   * Applied to foodFor groups (e.g., "butterflies", "bees", "birds")
+   */
+  pointsPerFoodOrShelterGroup: number;
 
   /**
    * Weight for plants with seeds offered through the seed share program
@@ -25,46 +31,40 @@ export interface PlantPrioritizationConfig {
    * Higher priority if someone is requesting seeds for this plant
    */
   adoptionRequestWeight: number;
-
-  /**
-   * Weight for plants that are nectar sources
-   * Important for adult butterflies and other pollinators
-   */
-  nectarSourceWeight: number;
 }
 
 /**
  * Default prioritization weights
  * 
- * Priority order (as specified):
- * 1. Monarch host plants (highest)
- * 2. Seeds offered
- * 3. Adoption offered
- * 4. Nectar source
+ * Priority scoring:
+ * - 3 points per species hosted (hostPlantTo)
+ * - 1 point per food/shelter group (foodFor)
+ * - Seeds offered and adoption requests use multiplier weights
  */
 export const DEFAULT_PRIORITIZATION_CONFIG: PlantPrioritizationConfig = {
-  monarchHostPlantWeight: 1000,    // Highest priority
-  seedsOfferedWeight: 100,         // Second priority
-  adoptionRequestWeight: 10,       // Third priority
-  nectarSourceWeight: 1,           // Fourth priority (base scoring)
+  pointsPerHostedSpecies: 3,       // 3 points per butterfly/moth species hosted
+  pointsPerFoodOrShelterGroup: 1,  // 1 point per food/shelter group (bees, birds, etc.)
+  seedsOfferedWeight: 100,         // Seeds offered multiplier
+  adoptionRequestWeight: 10,       // Adoption request multiplier
 };
 
 /**
  * Calculate priority score for a plant
  */
 export function calculatePlantPriorityScore(
-  isMonarchHost: boolean,
+  hostedSpeciesCount: number,
+  foodOrShelterGroupsCount: number,
   seedsOffered: number,
   adoptionRequests: number,
-  isNectarSource: boolean,
   config: PlantPrioritizationConfig = DEFAULT_PRIORITIZATION_CONFIG
 ): number {
   let score = 0;
 
-  // Add points for Monarch host plant
-  if (isMonarchHost) {
-    score += config.monarchHostPlantWeight;
-  }
+  // Add points per hosted species (e.g., Monarch, Queen butterfly, etc.)
+  score += hostedSpeciesCount * config.pointsPerHostedSpecies;
+
+  // Add points per food/shelter group (e.g., butterflies, bees, birds, etc.)
+  score += foodOrShelterGroupsCount * config.pointsPerFoodOrShelterGroup;
 
   // Add points for seeds offered (proportional to quantity)
   score += seedsOffered * config.seedsOfferedWeight;
@@ -72,48 +72,33 @@ export function calculatePlantPriorityScore(
   // Add points for adoption requests (proportional to quantity)
   score += adoptionRequests * config.adoptionRequestWeight;
 
-  // Add points for nectar source
-  if (isNectarSource) {
-    score += config.nectarSourceWeight;
-  }
-
   return score;
 }
 
 /**
- * Check if a plant is a Monarch butterfly host plant
+ * Count the number of species a plant hosts
+ * Each entry in hostPlantTo array represents a species
  */
-export function isMonarchHostPlant(plant: { 
+export function getHostedSpeciesCount(plant: { 
   relationships?: { hostPlantTo?: string[] } 
-}): boolean {
+}): number {
   if (!plant.relationships?.hostPlantTo) {
-    return false;
+    return 0;
   }
   
-  return plant.relationships.hostPlantTo.some(host =>
-    host.toLowerCase().includes('monarch')
-  );
+  return plant.relationships.hostPlantTo.length;
 }
 
 /**
- * Check if a plant is mentioned as a nectar source
+ * Count the number of food/shelter groups a plant supports
+ * Each entry in foodFor array represents a group (bees, butterflies, birds, etc.)
  */
-export function isNectarSource(plant: {
-  description?: string;
-  relationships?: { usefulFor?: string[] }
-}): boolean {
-  // Check description for nectar mentions
-  if (plant.description && plant.description.toLowerCase().includes('nectar')) {
-    return true;
+export function getFoodOrShelterGroupsCount(plant: {
+  relationships?: { foodFor?: string[] }
+}): number {
+  if (!plant.relationships?.foodFor) {
+    return 0;
   }
   
-  // Check if it's useful for pollinator conservation
-  if (plant.relationships?.usefulFor) {
-    return plant.relationships.usefulFor.some(use =>
-      use.toLowerCase().includes('pollinator') ||
-      use.toLowerCase().includes('nectar')
-    );
-  }
-  
-  return false;
+  return plant.relationships.foodFor.length;
 }

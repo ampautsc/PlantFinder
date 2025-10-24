@@ -4,8 +4,8 @@ import { PlantDataLoader } from './PlantDataLoader';
 import { PlantSeedShareVolume } from '../types/SeedShare';
 import {
   calculatePlantPriorityScore,
-  isMonarchHostPlant,
-  isNectarSource,
+  getHostedSpeciesCount,
+  getFoodOrShelterGroupsCount,
 } from '../config/plantPrioritization';
 
 /**
@@ -148,7 +148,7 @@ export class MockPlantApi implements IPlantApi {
 
   /**
    * Sort plants by priority score
-   * Prioritizes: 1) Monarch hosts, 2) Seeds offered, 3) Adoption requests, 4) Nectar sources
+   * Prioritizes based on: hosted species count, food/shelter groups, seeds offered, adoption requests
    */
   private sortByPriority(plants: Plant[]): Plant[] {
     return plants.sort((a, b) => {
@@ -172,14 +172,14 @@ export class MockPlantApi implements IPlantApi {
     const volume = this.seedShareVolumes.get(plant.id);
     const seedsOffered = volume?.openOffers || 0;
     const adoptionRequests = volume?.openRequests || 0;
-    const isMonarch = isMonarchHostPlant(plant);
-    const isNectar = isNectarSource(plant);
+    const hostedSpecies = getHostedSpeciesCount(plant);
+    const foodShelterGroups = getFoodOrShelterGroupsCount(plant);
 
     return calculatePlantPriorityScore(
-      isMonarch,
+      hostedSpecies,
+      foodShelterGroups,
       seedsOffered,
-      adoptionRequests,
-      isNectar
+      adoptionRequests
     );
   }
 
