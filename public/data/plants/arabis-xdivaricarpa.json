@@ -1,7 +1,7 @@
 {
   "id": "arabis-xdivaricarpa",
   "commonName": "Spreadingpod Rockcress",
-  "scientificName": "Arabis \u00d7divaricarpa",
+  "scientificName": "Arabis ×divaricarpa",
   "description": "A native plant species. This plant adds natural beauty to native gardens.",
   "requirements": {
     "sun": "full-sun",
@@ -44,5 +44,6 @@
     ]
   },
   "imageUrl": "/images/plants/arabis-xdivaricarpa/arabis-xdivaricarpa-2025-10-23T01-27-09-006Z.jpg",
-  "thumbnailUrl": "/images/plants/arabis-xdivaricarpa/arabis-xdivaricarpa-2025-10-23T01-27-09-006Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/arabis-xdivaricarpa/arabis-xdivaricarpa-2025-10-23T01-27-09-006Z-thumb.jpg",
+  "usdaPlantId": "ARDI2"
 }

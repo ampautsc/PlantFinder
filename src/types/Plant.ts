@@ -35,6 +35,7 @@ export interface Plant {
   relationships: PlantRelationships;
   imageUrl?: string;
   thumbnailUrl?: string; // Smaller image for cards (target: ≤25KB)
+  usdaPlantId?: string; // USDA PLANTS Database identifier
 }
 
 // Filter criteria interfaces
