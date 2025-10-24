@@ -206,7 +206,7 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
   'Fritillary butterflies': {
     id: 'fritillary-general',
     commonName: 'Fritillary butterflies',
-    thumbnailUrl: '' // No image available - generic category
+    thumbnailUrl: '/images/animals/butterflies/speyeria-cybele/speyeria-cybele-2025-10-23T19-42-36-578Z-thumb.jpg' // Using Great Spangled Fritillary as representative
   },
   'Meadow Fritillary': {
     id: 'meadow-fritillary',
@@ -247,6 +247,78 @@ const butterflyThumbnailMap: Record<string, ButterflyThumbnail> = {
     id: 'variegated-fritillary',
     commonName: 'Variegated Fritillary',
     thumbnailUrl: '' // No image available
+  },
+  
+  // Additional scientific name mappings for existing butterflies
+  'Danaus gilippus': {
+    id: 'danaus-gilippus',
+    commonName: 'Queen butterfly',
+    thumbnailUrl: '/images/animals/butterflies/danaus-gilippus/danaus-gilippus-2025-10-24T19-40-52-321Z-thumb.jpg'
+  },
+  'Euchaetes egle': {
+    id: 'euchaetes-egle',
+    commonName: 'Milkweed Tussock Moth',
+    thumbnailUrl: '/images/animals/butterflies/euchaetes-egle/euchaetes-egle-2025-10-24T19-40-54-086Z-thumb.jpg'
+  },
+  'Zebra Swallowtail': {
+    id: 'eurytides-marcellus',
+    commonName: 'Zebra Swallowtail',
+    thumbnailUrl: '/images/animals/butterflies/eurytides-marcellus/eurytides-marcellus-2025-10-23T19-42-18-234Z-thumb.jpg'
+  },
+  'Pipevine Swallowtail': {
+    id: 'battus-philenor',
+    commonName: 'Pipevine Swallowtail',
+    thumbnailUrl: '/images/animals/butterflies/battus-philenor/battus-philenor-2025-10-23T19-42-14-009Z-thumb.jpg'
+  },
+  'Spicebush Swallowtail': {
+    id: 'papilio-troilus',
+    commonName: 'Spicebush Swallowtail',
+    thumbnailUrl: '/images/animals/butterflies/papilio-troilus/papilio-troilus-2025-10-23T19-42-32-574Z-thumb.jpg'
+  },
+  'Eastern Tiger Swallowtail': {
+    id: 'papilio-glaucus',
+    commonName: 'Eastern Tiger Swallowtail',
+    thumbnailUrl: '/images/animals/butterflies/papilio-glaucus/papilio-glaucus-2025-10-23T19-42-28-276Z-thumb.jpg'
+  },
+  'Black Swallowtail': {
+    id: 'papilio-polyxenes-asterius',
+    commonName: 'Black Swallowtail',
+    thumbnailUrl: '/images/animals/butterflies/papilio-polyxenes-asterius/papilio-polyxenes-asterius-2025-10-23T19-42-31-093Z-thumb.jpg'
+  },
+  'Regal Fritillary': {
+    id: 'speyeria-idalia',
+    commonName: 'Regal Fritillary',
+    thumbnailUrl: '/images/animals/butterflies/speyeria-idalia/speyeria-idalia-2025-10-23T19-42-39-517Z-thumb.jpg'
+  },
+  'Buckeye': {
+    id: 'junonia-coenia',
+    commonName: 'Buckeye',
+    thumbnailUrl: '/images/animals/butterflies/junonia-coenia/junonia-coenia-2025-10-23T19-42-22-450Z-thumb.jpg'
+  },
+  'Red-spotted Purple': {
+    id: 'limenitis-arthemis-astyanax',
+    commonName: 'Red-spotted Purple',
+    thumbnailUrl: '/images/animals/butterflies/limenitis-arthemis-astyanax/limenitis-arthemis-astyanax-2025-10-23T19-43-41-140Z-thumb.jpg'
+  },
+  'Viceroy': {
+    id: 'limenitis-archippus',
+    commonName: 'Viceroy',
+    thumbnailUrl: '/images/animals/butterflies/limenitis-archippus/limenitis-archippus-2025-10-23T19-42-24-564Z-thumb.jpg'
+  },
+  'Hackberry Emperor': {
+    id: 'asterocampa-celtis',
+    commonName: 'Hackberry Emperor',
+    thumbnailUrl: '/images/animals/butterflies/asterocampa-celtis/asterocampa-celtis-2025-10-23T19-42-12-683Z-thumb.jpg'
+  },
+  'Cloudless Sulphur': {
+    id: 'phoebis-sennae',
+    commonName: 'Cloudless Sulphur',
+    thumbnailUrl: '/images/animals/butterflies/phoebis-sennae/phoebis-sennae-2025-10-23T19-42-34-002Z-thumb.jpg'
+  },
+  'Southern Dogface': {
+    id: 'zerene-cesonia',
+    commonName: 'Southern Dogface',
+    thumbnailUrl: '/images/animals/butterflies/zerene-cesonia/zerene-cesonia-2025-10-23T19-42-43-571Z-thumb.jpg'
   },
 };
 
