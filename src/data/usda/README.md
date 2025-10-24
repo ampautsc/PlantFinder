@@ -132,7 +132,34 @@ Since USDA Plants Database doesn't provide a public API, data is collected throu
 
 ## Usage
 
-### Adding New Plants
+### Batch Fetch All Plants
+
+Fetch data for all PlantFinder plants with USDA IDs:
+
+```bash
+# Fetch all plants (with confirmation prompt)
+python3 scripts/batch_fetch_usda_data.py
+
+# Fetch all plants without confirmation
+python3 scripts/batch_fetch_usda_data.py --yes
+
+# Fetch limited number for testing
+python3 scripts/batch_fetch_usda_data.py --yes --limit 10
+```
+
+The batch script:
+- Automatically reads all plant files from `public/data/plants/`
+- Extracts USDA Plant IDs from each file
+- Fetches data for each plant (with resume capability)
+- Includes rate limiting (2-second delays)
+- Shows progress indicators
+
+**Latest batch fetch:** 352 plants fetched successfully
+- 345 JSON metadata files created
+- 61 PDFs downloaded (28 Plant Guides + 33 Fact Sheets)
+- See `USDA_BATCH_FETCH_RESULTS.md` for details
+
+### Fetch Individual Plants
 
 Run the fetch script with USDA plant symbols:
 
