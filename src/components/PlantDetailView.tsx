@@ -1,9 +1,13 @@
 import { useState, useEffect, useCallback } from 'react';
 import { Plant } from '../types/Plant';
 import { mockSeedShareService } from '../api/MockSeedShareService';
+import { mockGardenService } from '../api/MockGardenService';
 import { PlantSeedShareVolume, UserPlantSeedShare, MatchDetails } from '../types/SeedShare';
+import { GardenPlant } from '../types/Garden';
 import SeedExchangeOverlay from './SeedExchangeOverlay';
 import MatchTracker from './MatchTracker';
+import GardenIcon from './GardenIcon';
+import GardenConfigDialog from './GardenConfigDialog';
 import { getButterflyThumbnail } from '../data/butterflyThumbnails';
 import './PlantDetailView.css';
 
@@ -28,6 +32,8 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     hasActiveRequest: false,
   });
   const [matches, setMatches] = useState<MatchDetails[]>([]);
+  const [gardenPlant, setGardenPlant] = useState<GardenPlant | null>(null);
+  const [showGardenConfig, setShowGardenConfig] = useState(false);
 
   const loadSeedShareData = useCallback(async () => {
     try {
@@ -44,12 +50,22 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     }
   }, [plant.id]);
 
-  // Load seed share data
+  const loadGardenData = useCallback(async () => {
+    try {
+      const gardenData = await mockGardenService.getGardenPlant(plant.id);
+      setGardenPlant(gardenData);
+    } catch (error) {
+      console.error('Error loading garden data:', error);
+    }
+  }, [plant.id]);
+
+  // Load seed share data and garden data
   useEffect(() => {
     loadSeedShareData();
+    loadGardenData();
     // Register plant data with the service for match display
     mockSeedShareService.registerPlantData(plant.id, plant.commonName, plant.scientificName);
-  }, [plant.id, plant.commonName, plant.scientificName, loadSeedShareData]);
+  }, [plant.id, plant.commonName, plant.scientificName, loadSeedShareData, loadGardenData]);
 
   const handleCreateOffer = async (quantity: number) => {
     try {
@@ -118,6 +134,36 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     } catch (error) {
       console.error('Error marking as received:', error);
       alert(error instanceof Error ? error.message : 'Failed to mark as received');
+    }
+  };
+
+  const handleAddToGarden = async () => {
+    try {
+      await mockGardenService.addToGarden(plant.id);
+      await loadGardenData();
+    } catch (error) {
+      console.error('Error adding to garden:', error);
+      alert(error instanceof Error ? error.message : 'Failed to add to garden');
+    }
+  };
+
+  const handleUpdateGardenPlant = async (updates: Partial<Omit<GardenPlant, 'plantId' | 'addedAt'>>) => {
+    try {
+      await mockGardenService.updateGardenPlant(plant.id, updates);
+      await loadGardenData();
+    } catch (error) {
+      console.error('Error updating garden plant:', error);
+      alert(error instanceof Error ? error.message : 'Failed to update garden plant');
+    }
+  };
+
+  const handleRemoveFromGarden = async () => {
+    try {
+      await mockGardenService.removeFromGarden(plant.id);
+      await loadGardenData();
+    } catch (error) {
+      console.error('Error removing from garden:', error);
+      alert(error instanceof Error ? error.message : 'Failed to remove from garden');
     }
   };
 
@@ -195,6 +241,11 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
           {plant.imageUrl ? (
             <div className="detail-hero-image">
               <img src={plant.imageUrl} alt={plant.commonName} />
+              <GardenIcon
+                isInGarden={!!gardenPlant}
+                onAddToGarden={handleAddToGarden}
+                onOpenConfig={() => setShowGardenConfig(true)}
+              />
               <SeedExchangeOverlay
                 hasActiveOffer={userActivity.hasActiveOffer}
                 hasActiveRequest={userActivity.hasActiveRequest}
@@ -212,6 +263,11 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
           ) : (
             <div className="detail-hero-placeholder">
               <span className="placeholder-icon">🌸</span>
+              <GardenIcon
+                isInGarden={!!gardenPlant}
+                onAddToGarden={handleAddToGarden}
+                onOpenConfig={() => setShowGardenConfig(true)}
+              />
               <SeedExchangeOverlay
                 hasActiveOffer={userActivity.hasActiveOffer}
                 hasActiveRequest={userActivity.hasActiveRequest}
@@ -507,6 +563,17 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
           </div>
         </div>
       </div>
+      
+      {/* Garden Config Dialog */}
+      {showGardenConfig && gardenPlant && (
+        <GardenConfigDialog
+          gardenPlant={gardenPlant}
+          plantName={plant.commonName}
+          onSave={handleUpdateGardenPlant}
+          onRemove={handleRemoveFromGarden}
+          onClose={() => setShowGardenConfig(false)}
+        />
+      )}
     </div>
   );
 }
