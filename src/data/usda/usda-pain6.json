@@ -31,5 +31,21 @@
       "stored_at": "src/data/usda/usda-pain6-factsheet.pdf",
       "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
     }
-  }
+  },
+  "extracted_data": {
+    "source_type": "plant_guide_pdf",
+    "pdf_pages": 3,
+    "common_name": "PASSIONFLOWER",
+    "scientific_name": "Data current status",
+    "family_common": "Passionflower",
+    "family_scientific": "Passifloraceae",
+    "description": "Passionflower Family (Passifloraceae).\nPurple passionflower is a native, perennial vine. The\n\u00a9 Charles S. Lewallen slightly pubescent vines climb with tendrils that arise\nOklahoma Biological Survey from the axils of the leaves. The vines can range\nfrom 2 to 6 m long. The alternate leaves (6 to 15 cm\nlong and wide) are palmate with 3 lobes and finely\nAlternate Names\nserrated margins. The spectacular flowers are pale-\nWild passionflower, maypop, apricot vine, old field\nlavender or, rarely, white, ",
+    "distribution": "",
+    "uses": "The Houma, Cherokee and other\ninterestingly arranged and add to the exotic beauty of\nNative American tribes used purple passionflower for\nthe flower. The unique appearance of the flowers\nfood, drink, and medicinal purposes. Captain Smith,\nwas purported, by early Spanish explorers, to\nin 1612, reported that Native Americans in Virginia\nrepresent the sufferings of Christ (for a detailed\nplanted the vines for the fruits. The fruits were eaten\ndescription see Coffey 1993). The plants bloom from\neith",
+    "wildlife_value": "Purple passionflowers attract butterflies.\nPassiflora incarnata L.",
+    "ethnobotanic_uses": "The Houma, Cherokee and other\ninterestingly arranged and add to the exotic beauty of\nNative American tribes used purple passionflower for\nthe flower. The unique appearance of the flowers\nfood, drink, and medicinal purposes. Captain Smith,\nwas purported, by early Spanish explorers, to\nin 1612, reported that Native Americans in Virginia\nrepresent the sufferings of Christ (for a detailed\nplanted the ",
+    "management": "//www.floridata.com/ref/p/passiflo.cfm. (19 June\nTo control the spread of purple passionflower, 2001).\nremove the suckers regularly. The vines may be\ntrained onto a trellis, fence or tree trunk. Garrett, J.T. & M.T. Garrett 1996. Medicine of the\nCherokee: the way of right relationship. Bear &",
+    "full_text_excerpt": "Plant Guide\nPURPLE tonic.\u201d The plant was also used as a sedative to treat\nnervous conditions and hysteria.\nPASSIONFLOWER\nWildlife: Purple passionflowers attract butterflies.\nPassiflora incarnata L.\nStatus\nPlant Symbol = PAIN6\nPlease consult the PLANTS Web site and your State\nDepartment of Natural Resources for this plant\u2019s\nContributed by: USDA NRCS National Plant Data current status (e.g. threatened or endangered species,\nCenter state noxious status, and wetland indicator values).\nConsidered rare in some states.\nWeediness\nThis plant may become invasive in some regions or\nhabitats and may displace desirable vegetation if not\nproperly managed. Please consult with your local\nNRCS Field Office, Cooperative Extension Service\noffice, or state natural resource or agriculture\ndepartment regarding its status and use. Weed and\ninvasive information is also available from the\nPLANTS Web site.\nDescription\nGeneral: Passionflower Family (Passifloraceae).\nPurple passionflower is a native, perennial vine. The\n\u00a9 Charles S. Lewallen slightly pubescent vines climb with tendrils that arise\nOklahoma Biological Survey from the axils of the leaves. The vines can range\nfrom 2 to 6 m long. The alternate leaves (6 to 15 cm\nlong and wide) are palmate with 3 lobes and finely\nAlternate Names\nserrated margins. The spectacular flowers are pale-\nWild passionflower, maypop, apricot vine, old field\nlavender or, rarely, white, with five petals (3 to 4 cm\napricot, Holy-Trinity flower, mayapple, molly-pop,\nlong, 4 to 7 mm wide) and five sepals (2.5 to 3.5 cm\npassion vine, pop-apple, granadilla, maycock,\nlong). The complex flower has a \u201ccrown\u201d or corona\nmaracoc, maracock, white sarsaparilla.\nof numerous fringelike segments that arise from\nabove the petals. The corona is white or lavender\nUses\nwith purple bands. The reproductive parts are\nEthnobotanic: The Houma, Cherokee and other\ninterestingly arranged and add to the exotic beauty of\nNative American tribes used purple passionflower for\nthe flower. The u"
+  },
+  "data_extracted_at": "2025-10-24T23:07:32.678791+00:00"
 }

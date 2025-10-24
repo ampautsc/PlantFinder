@@ -25,5 +25,17 @@
       "stored_at": "src/data/usda/usda-moca6-plantguide.pdf",
       "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
     }
-  }
+  },
+  "extracted_data": {
+    "source_type": "plant_guide_pdf",
+    "pdf_pages": 2,
+    "scientific_name": "Morella californica",
+    "distribution": "Pacific waxmyrtle occurs in canyons\nand hill slopes of the coastal region from the Santa\nMonica Mountains of Los Angeles County northward\nto Del Norte County, and north to Washington\n(McMinn 1939).",
+    "adaptation": "",
+    "uses": "",
+    "ethnobotanic_uses": "Wax from the pulp of the fruit was as ripe in the autumn in a cold frame. Stored seeds\nused to make aromatic candles. The wax was also will germinate faster if they go through a three-month\nused in making soups. A gray-brown and a maroon- period of cold stratification and then are sown in a\npurple dye was obtained from the fresh or dried cold frame. As soon as the seeds are ripe, place them\nberrie",
+    "management": "//plant-materials.nrcs.usda.gov/>\nPlant Fact Sheet/Guide Coordination Page <http://plant-materials.nrcs.usda.gov/intranet/pfs.html>\nNational Plant Data Center <http://npdc.usda.gov>",
+    "full_text_excerpt": "Plant Guide\nPACIFIC Status\nPlease consult the PLANTS Web site and your State\nWAXMYRTLE Department of Natural Resources for this plant\u2019s\ncurrent status, such as, state noxious status, and\nMorella californica (Cham. & wetland indicator values.\nSchlecht.) Wilbur\nDescription\nPlant Symbol = MOCA6 General: Pacific waxmyrtle (Myrica californica) is a\nlarge evergreen shrub or small tree, ten to thirty-five\nfeet high. The leaves are alternate, simple, five to ten\nContributed by: USDA NRCS National Plant Data\ncentimeters long with resin dots, and are slightly\nCenter\nsticky and fragrant when crushed. The fruit are\npurplish, single seeded berries, coated with a white\nwax, ripening in the early autumn and usually falling\nduring the winter. The bark is smooth, compact, dark\ngray or light brown on the surface and dark red-\nbrown internally (Sargent 1961).\nDistribution: Pacific waxmyrtle occurs in canyons\nand hill slopes of the coastal region from the Santa\nMonica Mountains of Los Angeles County northward\nto Del Norte County, and north to Washington\n(McMinn 1939). For current distribution, please\nconsult the Plant profile page for this species on the\nPLANTS Web site.\nBrother Alfred Brousseau\n\u00a9 St. Mary\u2019s College Adaptation\n@ Calflora\nMyrica californica thrives in wet soil conditions and\nis drought tolerant. It grows best in full sun in an\nAlternative Names open position and can tolerate light shaded areas.\nCalifornia bayberry, California wax myrtle, bayberry, This species prefers a peaty soil or lime free loamy\npacific bayberry, western bayberry, Myrica soil.\ncalifornica (MYCA13)\nEstablishment\nUses Propagation from Seed: Seeds are best sown as soon\nEthnobotanic: Wax from the pulp of the fruit was as ripe in the autumn in a cold frame. Stored seeds\nused to make aromatic candles. The wax was also will germinate faster if they go through a three-month\nused in making soups. A gray-brown and a maroon- period of cold stratification and then are sown in a\npurple dye was obtained from the "
+  },
+  "data_extracted_at": "2025-10-24T23:07:32.400385+00:00"
 }

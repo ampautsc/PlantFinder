@@ -25,5 +25,18 @@
       "stored_at": "src/data/usda/usda-cehe-plantguide.pdf",
       "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
     }
-  }
+  },
+  "extracted_data": {
+    "source_type": "plant_guide_pdf",
+    "pdf_pages": 2,
+    "scientific_name": "Ceanothus herbaceum",
+    "family_common": "Buckthorn",
+    "family_scientific": "Rhamnaceae",
+    "distribution": "",
+    "uses": "The root of Jersey tea was used by the",
+    "ethnobotanic_uses": "The root of Jersey tea was used by the\nCultivars, Improved, and Selected Materials (and\nChippewa for a cough remedy. They would grate\narea of origin)\napproximately 5 inches of the root and mix it with\nThese materials are readily available from commercial\nwater. The Lakota used the leaves of the plant to brew\nplant sources. Contact your local Natural Resources\ntea.\nConservation Service (formerly So",
+    "management": "The root of Jersey tea was used by the",
+    "full_text_excerpt": "Plant Guide\nJERSEY TEA leaves are serrated with rounded teeth along the\nmargins. Veins arise unevenly just above the leaf base.\nCeanothus herbaceus Raf. The upper leaf surface is almost smooth. The lower\nleaf surface has long, soft, unmated hairs. The stalk of\nPlant Symbol = CEHE\nthe inflorescence is 1-2 cm long and is racemose with\nflowers maturing from the bottom upwards. The\nContributed by: USDA NRCS National Plant Data flowers are white and have 5 petals (1.5 mm long), 5\nCenter stamens, and 3 lobed ovaries. The fruits or capsules\nare 3-4.5 mm wide and open at maturity to release the\nseeds. The seeds are 2 mm long, brownish in color,\nand have a glossy surface.\nDistribution: For current distribution, please consult\nthe Plant Profile page for this species on the PLANTS\nWeb site.\nHabitat: Jersey tea is found on rocky and open wooded\nhillsides and in prairies.\nEstablishment\nJersey tea is a drought tolerant species that grows best\nin well-drained soils and in full sun. Jersey tea is\ndifficult to transplant, therefore propagation by seed is\nrecommended. Seeds can be planted in the late fall or\nearly winter. To plant seeds in the spring, soak the\nseeds overnight in warm water and stratify.\nManagement\nPlease consult your local land management agency, as\nthis plant is listed as threatened in many states.\n\u00a9 Thomas G. Barnes\nWildflowers and Ferns of Kentucky\nPests and Potential Problems\nAlternative Names\nJersey tea is susceptible to leaf spot and powdery\nred root, grub root\nmildew, however no serious insect or disease problems\nexist.\nUses\nEthnobotanic: The root of Jersey tea was used by the\nCultivars, Improved, and Selected Materials (and\nChippewa for a cough remedy. They would grate\narea of origin)\napproximately 5 inches of the root and mix it with\nThese materials are readily available from commercial\nwater. The Lakota used the leaves of the plant to brew\nplant sources. Contact your local Natural Resources\ntea.\nConservation Service (formerly Soil Conservation\nService) offi"
+  },
+  "data_extracted_at": "2025-10-24T23:07:29.154591+00:00"
 }

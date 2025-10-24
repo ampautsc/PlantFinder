@@ -31,5 +31,18 @@
       "stored_at": "src/data/usda/usda-ecpu-factsheet.pdf",
       "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
     }
-  }
+  },
+  "extracted_data": {
+    "source_type": "plant_guide_pdf",
+    "pdf_pages": 4,
+    "common_name": "CONEFLOWER",
+    "scientific_name": "Echinacea purpurea",
+    "family_common": "Sunflower",
+    "family_scientific": "Asteraceae",
+    "uses": "Purple coneflower (Echinacea\ncurrent status, such as, state noxious status and\npurpurea) was and still is a widely used medicinal\nwetland indicator values.\nplant of the Plains Indians. It was used as a painkiller\nand for a variety of ailments, including toothache,\nDescription\ncoughs, colds, sore throats, and snake bite (Kindscher\nGeneral: Sunflower Family (Asteraceae). Echinacea\n1992). The Choctaw use purple coneflower as a\npurpurea is a perennial herb 1.5-6 dm (0.5-2 ft) tall,\ncough medicine an",
+    "ethnobotanic_uses": "Purple coneflower (Echinacea\ncurrent status, such as, state noxious status and\npurpurea) was and still is a widely used medicinal\nwetland indicator values.\nplant of the Plains Indians. It was used as a painkiller\nand for a variety of ailments, including toothache,\nDescription\ncoughs, colds, sore throats, and snake bite (Kindscher\nGeneral: Sunflower Family (Asteraceae). Echinacea\n1992). The Choctaw",
+    "management": "//plants.usda.gov> or the Plant Materials\nUniversity Press of Kansas. 1402 pp.\nProgram Web site <http://Plant-Materials.nrcs.usda.gov>\nMcGregor, R.L. 1968. The taxonomy of the genus\nThe U.S. Department of Agriculture (USDA) prohibits\nEchinacea (Compositae). University of Kansas discrimination in all its programs and activities on the basis of\nScience Bulletin 48(4):113-142. race, color, national o",
+    "full_text_excerpt": "Plant Guide\nEASTERN PURPLE 1986). The Delaware used an infusion of coneflower\nroot for gonorrhea and found it to be highly effective.\nCONEFLOWER\nThe purple coneflower was the only native prairie\nEchinacea purpurea (L.) plant popularized as a medicine by folk practitioners\nand doctors. It was used extensively as a folk remedy\nMoench.\n(Kindscher 1992). Purple coneflower root was used\nPlant Symbol = ECPU by early settlers as an aid in nearly every kind of\nsickness. If a cow or a horse did not eat well, people\nadministered Echinacea in its feed.\nContributed By: USDA NRCS National Plant Data\nCenter\nEchinacea is widely used as an herbal remedy today.\nA purple coneflower product containing the juice of\nthe fresh aerial parts of Echinacea purpurea was\nfound to make mouse cells 50-80 percent resistant to\ninfluenza, herpes, and vesicular somatitis viruses.\nThis product was available in Germany in 1978\n(Wacker and Hilbig 1978). Perhaps the most\nimportant finding so far is the discovery of immuno-\nstimulatory properties in Echinacea purpurea and E.\nangustifolia (Wagner and Proksch 1985, Wagner et\nal. 1985). Stimulation of the immune system appears\nto be strongly influenced by dose level. Recent\npharmacological studies indicate that a 10-mg/kg\ndaily dose of the polysaccharide over a ten-day\nperiod is effective as an immuno-stimulant.\nIncreases in the daily dosage beyond this level,\nhowever, resulted in \u201cmarkedly decreased\npharmacological activity\u201d (Wagner and Proksch\n1985, Wagner et al. 1985). Other research has shown\nthat the purple coneflower produces an anti-\ninflammatory effect and has therapeutic value in\nurology, gynecology, internal medicine, and\ndermatology (Wagner and Proksch 1985).\nOrnamental: The purple coneflower is often grown\nsimply for its ornamental value, especially for its\nFrom TAMU-BWG Digital Library - Vascular Plant Images showy flowers. The best possibility for obtaining a\nnew cultivar is in the hybrids between Echinacea\npurpurea and E. angustifolia var. an"
+  },
+  "data_extracted_at": "2025-10-24T23:07:30.145522+00:00"
 }

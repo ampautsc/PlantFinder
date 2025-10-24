@@ -25,5 +25,16 @@
       "stored_at": "src/data/usda/usda-frchs2-plantguide.pdf",
       "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
     }
-  }
+  },
+  "extracted_data": {
+    "source_type": "plant_guide_pdf",
+    "pdf_pages": 2,
+    "common_name": "STRAWBERRY",
+    "scientific_name": "Fragaria chiloensis",
+    "wildlife_value": "The Portola woodrat and the valley quail eat",
+    "ethnobotanic_uses": "This strawberry produces many more squirrels, raccoons, and other wildlife.\nfruits than the wood strawberry and has a great\nflavor. It was gathered and eaten raw by the Makah,",
+    "management": "The Portola woodrat and the valley quail eat",
+    "full_text_excerpt": "Plant Guide\nSANDWICH BEACH current status, such as, state noxious status and\nwetland indicator values.\nSTRAWBERRY\nDescription\nFragaria chiloensis (L.) P. General: This herbaceous perennial plant spreads by\nseed and also by short rhizomes and leafless stolons.\nMill. ssp. sandwicensis (Dcne.)\nThe toothed leaves are leathery, basal with a petiole\ngenerally 2-20 cm. They appear in leaflets of 3 and\nStaudt\nare glabrous (not hairy) above. The flowers have 5\nPlant Symbol = FRCHS2 white petals that are 10-18 mm, with numerous pistils\nand 20-35 stamens. The five bractlets are unlobed.\nContributed By: USDA NRCS National Plant Data The red fleshy fruit is covered with achenes.\nCenter & East Bay Regional Parks Botanic Garden\nDistribution\nThis plant is found below 200 m, in dune and\ngrassland communities of coastal California. It is\nfound from Alaska to coastal South America and\nHawaii. For current distribution, please consult the\nPlant Profile page for this species on the PLANTS\nWeb site.\nEstablishment\nDig up plantlets or runners and plant them in pots in\nsummer. Be sure to cover the stems and roots with\nsoil. Place the pots in a hothouse to establish good,\nstrong roots. Water the plants or runners and keep\nAlfred Brousseau them moist. Plant the plants outdoors in the ground\n\u00a9 Brother Eric Vogel, St. Mary\u2019s College\nin the fall or winter after the rains have started. They\n@ CalPhotos\nshould be planted in full sun in a light, loose soil,\nAlternative Names about ten inches apart. It will not take long for the\nBeach strawberry. This subspecies is recognized as plants to make a complete ground cover. Lightly\nhaving three related subspecies: chiloensis, lucida, fertilize the plants during the growing season. Note\nand pacifica. that those plants that have bigger flowers usually\nhave less fruit and those with smaller flowers have\nUse more fruit. Protect the plants from gophers, deer,\nEthnobotanic: This strawberry produces many more squirrels, raccoons, and other wildlife.\nfruits than t"
+  },
+  "data_extracted_at": "2025-10-24T23:07:30.888262+00:00"
 }
