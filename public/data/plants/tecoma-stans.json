@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "songbirds"
     ]
   },
-  "imageUrl": "/images/plants/tecoma-stans/tecoma-stans-2025-10-17T01-15-21-121Z.jpg",
-  "thumbnailUrl": "/images/plants/tecoma-stans/tecoma-stans-2025-10-17T01-15-21-121Z-thumb.jpg"
+  "imageUrl": "/images/plants/tecoma-stans/tecoma-stans-2025-10-23T01-27-30-170Z.jpg",
+  "thumbnailUrl": "/images/plants/tecoma-stans/tecoma-stans-2025-10-23T01-27-30-170Z-thumb.jpg",
+  "usdaPlantId": "TEST"
 }

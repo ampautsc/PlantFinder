@@ -62,8 +62,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/cleome-serrulata/cleome-serrulata-2025-10-17T02-27-39-019Z.jpg",
-  "thumbnailUrl": "/images/plants/cleome-serrulata/cleome-serrulata-2025-10-17T02-27-39-019Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/cleome-serrulata/cleome-serrulata-2025-10-17T02-27-39-019Z-thumb.jpg",
+  "usdaPlantId": "CLSE"
 }

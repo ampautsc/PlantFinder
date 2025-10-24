@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/baptisia-tinctoria/baptisia-tinctoria-2025-10-17T01-14-47-763Z.jpg",
-  "thumbnailUrl": "/images/plants/baptisia-tinctoria/baptisia-tinctoria-2025-10-17T01-14-47-763Z-thumb.jpg"
+  "imageUrl": "/images/plants/baptisia-tinctoria/baptisia-tinctoria-2025-10-23T01-27-07-336Z.jpg",
+  "thumbnailUrl": "/images/plants/baptisia-tinctoria/baptisia-tinctoria-2025-10-23T01-27-07-336Z-thumb.jpg",
+  "usdaPlantId": "BATI"
 }

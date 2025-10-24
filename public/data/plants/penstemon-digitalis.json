@@ -71,8 +71,12 @@
       "pollinator garden",
       "clay soil",
       "wildlife habitat"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/penstemon-digitalis/penstemon-digitalis-2025-10-16T00-19-42-297Z.jpg",
-  "thumbnailUrl": "/images/plants/penstemon-digitalis/penstemon-digitalis-2025-10-16T00-19-42-297Z-thumb.jpg"
+  "imageUrl": "/images/plants/penstemon-digitalis/penstemon-digitalis-2025-10-23T01-27-12-506Z.jpg",
+  "thumbnailUrl": "/images/plants/penstemon-digitalis/penstemon-digitalis-2025-10-23T01-27-12-506Z-thumb.jpg",
+  "usdaPlantId": "PEDI"
 }

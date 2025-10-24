@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/chenopodium-album/chenopodium-album-2025-10-17T01-13-25-844Z.jpg",
-  "thumbnailUrl": "/images/plants/chenopodium-album/chenopodium-album-2025-10-17T01-13-25-844Z-thumb.jpg"
+  "imageUrl": "/images/plants/chenopodium-album/chenopodium-album-2025-10-23T01-25-48-562Z.jpg",
+  "thumbnailUrl": "/images/plants/chenopodium-album/chenopodium-album-2025-10-23T01-25-48-562Z-thumb.jpg",
+  "usdaPlantId": "CHALS2"
 }

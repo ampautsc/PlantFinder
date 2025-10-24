@@ -1,0 +1,76 @@
+{
+  "id": "aristolochia-serpentaria",
+  "commonName": "Virginia Snakeroot",
+  "scientificName": "Aristolochia serpentaria",
+  "description": "Low-growing woodland plant with heart-shaped leaves. Host plant for Pipevine Swallowtail butterfly. Small, inconspicuous flowers hidden near the ground. Prefers rich, moist woodland soils. Historically used medicinally.",
+  "requirements": {
+    "sun": "partial-shade",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 18,
+    "width": 12,
+    "bloomColor": [
+      "brown",
+      "purple"
+    ],
+    "bloomTime": [
+      "spring",
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas"
+    ],
+    "hardinessZones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Battus philenor"
+    ],
+    "foodFor": [
+      "butterflies"
+    ],
+    "shelterFor": [],
+    "usefulFor": [
+      "woodland garden",
+      "pollinator garden",
+      "shade garden"
+    ]
+  },
+  "imageUrl": "/images/plants/aristolochia-serpentaria/aristolochia-serpentaria-2025-10-23T19-46-35-740Z.jpg",
+  "thumbnailUrl": "/images/plants/aristolochia-serpentaria/aristolochia-serpentaria-2025-10-23T19-46-35-740Z-thumb.jpg",
+  "usdaPlantId": "ARSE3"
+}

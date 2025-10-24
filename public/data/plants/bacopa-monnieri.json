@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/bacopa-monnieri/bacopa-monnieri-2025-10-17T01-14-12-041Z.jpg",
-  "thumbnailUrl": "/images/plants/bacopa-monnieri/bacopa-monnieri-2025-10-17T01-14-12-041Z-thumb.jpg"
+  "imageUrl": "/images/plants/bacopa-monnieri/bacopa-monnieri-2025-10-23T01-26-31-974Z.jpg",
+  "thumbnailUrl": "/images/plants/bacopa-monnieri/bacopa-monnieri-2025-10-23T01-26-31-974Z-thumb.jpg",
+  "usdaPlantId": "BAMO"
 }

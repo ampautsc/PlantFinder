@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/camissonia-contorta/camissonia-contorta-2025-10-17T01-14-07-493Z.jpg",
-  "thumbnailUrl": "/images/plants/camissonia-contorta/camissonia-contorta-2025-10-17T01-14-07-493Z-thumb.jpg"
+  "imageUrl": "/images/plants/camissonia-contorta/camissonia-contorta-2025-10-23T01-26-24-421Z.jpg",
+  "thumbnailUrl": "/images/plants/camissonia-contorta/camissonia-contorta-2025-10-23T01-26-24-421Z-thumb.jpg",
+  "usdaPlantId": "CACO34"
 }

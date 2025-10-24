@@ -71,8 +71,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/mentzelia-multiflora/mentzelia-multiflora-2025-10-17T01-14-17-109Z.jpg",
-  "thumbnailUrl": "/images/plants/mentzelia-multiflora/mentzelia-multiflora-2025-10-17T01-14-17-109Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/mentzelia-multiflora/mentzelia-multiflora-2025-10-17T01-14-17-109Z-thumb.jpg",
+  "usdaPlantId": "MEMUM2"
 }

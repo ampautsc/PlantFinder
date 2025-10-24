@@ -41,8 +41,13 @@
       "native garden",
       "wildlife habitat",
       "wetland"
+    ],
+    "shelterFor": [
+      "amphibians",
+      "beneficial insects"
     ]
   },
-  "imageUrl": "/images/plants/vaccinium-oxycoccos/vaccinium-oxycoccos-2025-10-17T01-14-31-523Z.jpg",
-  "thumbnailUrl": "/images/plants/vaccinium-oxycoccos/vaccinium-oxycoccos-2025-10-17T01-14-31-523Z-thumb.jpg"
+  "imageUrl": "/images/plants/vaccinium-oxycoccos/vaccinium-oxycoccos-2025-10-23T01-26-48-179Z.jpg",
+  "thumbnailUrl": "/images/plants/vaccinium-oxycoccos/vaccinium-oxycoccos-2025-10-23T01-26-48-179Z-thumb.jpg",
+  "usdaPlantId": "VAOX"
 }

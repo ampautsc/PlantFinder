@@ -11,6 +11,8 @@ interface FiltersPanelProps {
     nativeRanges: string[];
     hardinessZones: string[];
     hostPlantTo: string[];
+    foodFor: string[];
+    shelterFor: string[];
   };
   onFiltersChange: (filters: PlantFilters) => void;
   onClearFilters: () => void;
@@ -19,7 +21,7 @@ interface FiltersPanelProps {
   onSearchChange: (query: string) => void;
 }
 
-type FilterCategory = 'sun' | 'moisture' | 'soil' | 'bloomColor' | 'bloomTime' | 'nativeRange' | 'hardinessZones';
+type FilterCategory = 'wildlife' | 'sun' | 'moisture' | 'soil' | 'bloomColor' | 'bloomTime' | 'nativeRange' | 'hardinessZones';
 
 function FiltersPanel({
   filters,
@@ -104,7 +106,8 @@ function FiltersPanel({
     // Expansion panel dimensions (from CSS)
     const expansionWidth = 280;
     const expansionMaxHeight = 400;
-    const spacing = 10; // Spacing between filter panel and expansion
+    const spacing = 10; // Spacing between elements
+    const minSafeSpacing = 5; // Minimum spacing to ensure no visual overlap
     
     // Calculate horizontal position
     // Position to the right of the filter panel with spacing
@@ -121,17 +124,68 @@ function FiltersPanel({
       }
     }
     
-    // Calculate vertical position aligned with the button
-    let top = buttonRect.top;
+    // ENHANCED VERTICAL POSITIONING ALGORITHM
+    // Priority: Never cover button > Make panel scrollable > Optimize position
     
-    // Check if expansion panel would go off-screen to the bottom
-    if (top + expansionMaxHeight > viewportHeight) {
-      // Try positioning so bottom aligns with viewport
-      top = Math.max(spacing, viewportHeight - expansionMaxHeight - spacing);
+    const buttonTop = buttonRect.top;
+    const buttonBottom = buttonRect.bottom;
+    const buttonHeight = buttonRect.height;
+    
+    // Calculate available space in different regions
+    const spaceAboveButton = buttonTop - spacing;
+    const spaceBelowButton = viewportHeight - buttonBottom - spacing;
+    
+    // Strategy 1: Try to position below the button (most intuitive for users)
+    let top = buttonBottom + spacing;
+    
+    // Check if positioning below would cause panel to overlap with button
+    // This can happen if button is very close to bottom of viewport
+    if (top < buttonBottom + minSafeSpacing) {
+      top = buttonBottom + minSafeSpacing;
     }
     
-    // Ensure minimum padding from top and that it doesn't go above the header
-    top = Math.max(spacing, top);
+    // Strategy 2: If not enough space below, try positioning above
+    if (spaceBelowButton < expansionMaxHeight && spaceAboveButton >= expansionMaxHeight) {
+      // There's enough space above the button for the full panel
+      top = buttonTop - expansionMaxHeight - spacing;
+    } else if (spaceBelowButton < expansionMaxHeight && spaceAboveButton < expansionMaxHeight) {
+      // Not enough space either above or below for full panel
+      // Choose the side with more space and make the panel scrollable
+      
+      if (spaceAboveButton > spaceBelowButton && spaceAboveButton > buttonHeight + spacing * 2) {
+        // More space above the button - position above
+        // Position as high as possible while staying on screen
+        top = Math.max(spacing, buttonTop - spaceAboveButton);
+        // Panel height will be limited by CSS max-height and overflow-y: auto
+      } else {
+        // More space below the button (or equal) - position below
+        // This ensures we never cover the button (primary requirement)
+        top = buttonBottom + spacing;
+        // Panel will be scrollable due to CSS max-height and overflow-y: auto
+      }
+    }
+    
+    // CRITICAL SAFEGUARDS: Ensure panel never overlaps the button
+    // Check if the calculated position would cause overlap
+    if (top < buttonBottom && top + expansionMaxHeight > buttonTop) {
+      // Panel would overlap button - force it below the button
+      top = buttonBottom + minSafeSpacing;
+    }
+    
+    // Ensure the panel doesn't go above the viewport
+    if (top < spacing) {
+      // If button is at the very top, position below it
+      if (buttonTop < spacing + buttonHeight) {
+        top = buttonBottom + spacing;
+      } else {
+        top = spacing;
+      }
+    }
+    
+    // Final validation: If panel would still cover button, force it below
+    if (top < buttonBottom + minSafeSpacing) {
+      top = buttonBottom + minSafeSpacing;
+    }
     
     return { top, left };
   };
@@ -170,6 +224,12 @@ function FiltersPanel({
 
   const hasActiveFilters = (category: FilterCategory): boolean => {
     switch (category) {
+      case 'wildlife':
+        return (
+          ((filters.hostPlantTo as string[] | undefined) || []).length > 0 ||
+          ((filters.foodFor as string[] | undefined) || []).length > 0 ||
+          ((filters.shelterFor as string[] | undefined) || []).length > 0
+        );
       case 'sun':
       case 'moisture':
       case 'soil':
@@ -184,6 +244,7 @@ function FiltersPanel({
   };
 
   const filterCategories = [
+    { key: 'wildlife' as FilterCategory, icon: '🦋', label: t('filters.wildlife') },
     { key: 'hardinessZones' as FilterCategory, icon: '🌡️', label: t('filters.hardinessZones') },
     { key: 'nativeRange' as FilterCategory, icon: '📍', label: t('filters.nativeRange') },
     { key: 'sun' as FilterCategory, icon: '☀️', label: t('filters.sun') },
@@ -239,6 +300,53 @@ function FiltersPanel({
       {/* Expanded filter options - rendered via portal to document body */}
       {expandedCategory && document.body && createPortal(
         <div ref={expansionPanelRef} className="filter-expansion" style={{ top: `${expansionPosition.top}px`, left: `${expansionPosition.left}px` }}>
+          {expandedCategory === 'wildlife' && (
+            <div className="filter-options-column">
+              <div className="filter-section">
+                <div className="filter-section-title">{t('filters.hostPlantTo')}</div>
+                <div className="filter-options-row">
+                  {filterOptions.hostPlantTo.map(host => (
+                    <button
+                      key={host}
+                      className={`filter-chip ${(filters.hostPlantTo || []).includes(host) ? 'selected' : ''}`}
+                      onClick={() => toggleArrayFilter('hostPlantTo', host)}
+                    >
+                      {translateFilterValue(host)}
+                    </button>
+                  ))}
+                </div>
+              </div>
+              <div className="filter-section">
+                <div className="filter-section-title">{t('filters.foodFor')}</div>
+                <div className="filter-options-row">
+                  {filterOptions.foodFor.map(food => (
+                    <button
+                      key={food}
+                      className={`filter-chip ${(filters.foodFor || []).includes(food) ? 'selected' : ''}`}
+                      onClick={() => toggleArrayFilter('foodFor', food)}
+                    >
+                      {translateFilterValue(food)}
+                    </button>
+                  ))}
+                </div>
+              </div>
+              <div className="filter-section">
+                <div className="filter-section-title">{t('filters.shelterFor')}</div>
+                <div className="filter-options-row">
+                  {filterOptions.shelterFor.map(shelter => (
+                    <button
+                      key={shelter}
+                      className={`filter-chip ${(filters.shelterFor || []).includes(shelter) ? 'selected' : ''}`}
+                      onClick={() => toggleArrayFilter('shelterFor', shelter)}
+                    >
+                      {translateFilterValue(shelter)}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            </div>
+          )}
+
           {expandedCategory === 'sun' && (
             <div className="filter-options-row">
               {(['full-sun', 'partial-sun', 'partial-shade', 'full-shade'] as const).map(sun => (

@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/humulus-lupulus/humulus-lupulus-2025-10-17T01-13-30-248Z.jpg",
-  "thumbnailUrl": "/images/plants/humulus-lupulus/humulus-lupulus-2025-10-17T01-13-30-248Z-thumb.jpg"
+  "imageUrl": "/images/plants/humulus-lupulus/humulus-lupulus-2025-10-23T01-25-52-534Z.jpg",
+  "thumbnailUrl": "/images/plants/humulus-lupulus/humulus-lupulus-2025-10-23T01-25-52-534Z-thumb.jpg",
+  "usdaPlantId": "HULUP"
 }

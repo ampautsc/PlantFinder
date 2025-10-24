@@ -41,8 +41,12 @@
       "pollinator garden",
       "native garden",
       "wildlife habitat"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/symphoricarpos-albus/symphoricarpos-albus-2025-10-17T01-14-01-218Z.jpg",
-  "thumbnailUrl": "/images/plants/symphoricarpos-albus/symphoricarpos-albus-2025-10-17T01-14-01-218Z-thumb.jpg"
+  "imageUrl": "/images/plants/symphoricarpos-albus/symphoricarpos-albus-2025-10-23T01-26-20-201Z.jpg",
+  "thumbnailUrl": "/images/plants/symphoricarpos-albus/symphoricarpos-albus-2025-10-23T01-26-20-201Z-thumb.jpg",
+  "usdaPlantId": "SYALL"
 }

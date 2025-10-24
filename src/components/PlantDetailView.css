@@ -304,6 +304,48 @@
   opacity: 0.9;
 }
 
+/* Host Species List with Thumbnails */
+.host-species-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.host-species-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.5rem;
+  background-color: var(--background-color);
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  transition: all 0.2s;
+}
+
+.host-species-item:hover {
+  background-color: var(--hover-background);
+  border-color: var(--primary-color);
+  transform: translateX(4px);
+}
+
+.host-species-thumbnail {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 2px solid var(--border-color);
+  flex-shrink: 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.host-species-name {
+  color: var(--text-color);
+  font-size: 0.95rem;
+  opacity: 0.9;
+  flex: 1;
+}
+
 /* Expandable Sections */
 .expandable-sections {
   margin-top: 2rem;

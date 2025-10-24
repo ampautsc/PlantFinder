@@ -1,0 +1,88 @@
+{
+  "id": "celtis-occidentalis",
+  "commonName": "Hackberry",
+  "scientificName": "Celtis occidentalis",
+  "description": "Tough native tree with cork-like bark and small sweet berries. Obligate host plant for Hackberry Emperor butterfly. Extremely adaptable and urban-tolerant. Berries attract many bird species throughout winter.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 600,
+    "width": 480,
+    "bloomColor": [
+      "green"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Vermont",
+      "Massachusetts",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Asterocampa celtis"
+    ],
+    "foodFor": [
+      "birds",
+      "butterflies"
+    ],
+    "shelterFor": [
+      "songbirds",
+      "cavity-nesting birds"
+    ],
+    "usefulFor": [
+      "wildlife habitat",
+      "shade tree",
+      "urban tolerant",
+      "native tree"
+    ]
+  },
+  "imageUrl": "/images/plants/celtis-occidentalis/celtis-occidentalis-2025-10-23T19-46-34-235Z.jpg",
+  "thumbnailUrl": "/images/plants/celtis-occidentalis/celtis-occidentalis-2025-10-23T19-46-34-235Z-thumb.jpg",
+  "usdaPlantId": "CEOC"
+}

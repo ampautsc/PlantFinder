@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/eriogonum-giganteum/eriogonum-giganteum-2025-10-17T01-13-38-536Z.jpg",
-  "thumbnailUrl": "/images/plants/eriogonum-giganteum/eriogonum-giganteum-2025-10-17T01-13-38-536Z-thumb.jpg"
+  "imageUrl": "/images/plants/eriogonum-giganteum/eriogonum-giganteum-2025-10-23T01-26-01-212Z.jpg",
+  "thumbnailUrl": "/images/plants/eriogonum-giganteum/eriogonum-giganteum-2025-10-23T01-26-01-212Z-thumb.jpg",
+  "usdaPlantId": "ERGIG"
 }

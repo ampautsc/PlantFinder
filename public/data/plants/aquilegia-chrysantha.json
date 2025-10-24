@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/aquilegia-chrysantha/aquilegia-chrysantha-2025-10-17T06-26-55-545Z.jpg",
-  "thumbnailUrl": "/images/plants/aquilegia-chrysantha/aquilegia-chrysantha-2025-10-17T06-26-55-545Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/aquilegia-chrysantha/aquilegia-chrysantha-2025-10-17T06-26-55-545Z-thumb.jpg",
+  "usdaPlantId": "AQCHR"
 }

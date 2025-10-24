@@ -47,8 +47,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/mertensia-ciliata/mertensia-ciliata-2025-10-17T01-15-40-447Z.jpg",
-  "thumbnailUrl": "/images/plants/mertensia-ciliata/mertensia-ciliata-2025-10-17T01-15-40-447Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/mertensia-ciliata/mertensia-ciliata-2025-10-17T01-15-40-447Z-thumb.jpg",
+  "usdaPlantId": "MECIS"
 }

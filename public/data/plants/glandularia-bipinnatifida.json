@@ -73,8 +73,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/glandularia-bipinnatifida/glandularia-bipinnatifida-2025-10-17T03-22-53-685Z.jpg",
-  "thumbnailUrl": "/images/plants/glandularia-bipinnatifida/glandularia-bipinnatifida-2025-10-17T03-22-53-685Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/glandularia-bipinnatifida/glandularia-bipinnatifida-2025-10-17T03-22-53-685Z-thumb.jpg",
+  "usdaPlantId": "GLBIC"
 }

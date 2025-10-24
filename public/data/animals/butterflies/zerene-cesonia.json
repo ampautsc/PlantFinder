@@ -1,0 +1,45 @@
+{
+  "id": "zerene-cesonia",
+  "commonName": "Southern Dogface",
+  "scientificName": "Zerene cesonia",
+  "description": "Southern Dogface is a beautiful native butterfly. Caterpillars feed on Amorpha canescens, Amorpha fruticosa, Dalea species. Important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "medium"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Amorpha canescens",
+      "Amorpha fruticosa",
+      "Dalea species"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "woodlands",
+      "meadows",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Texas",
+    "Oklahoma",
+    "Arkansas",
+    "Louisiana",
+    "Mississippi",
+    "Alabama",
+    "Georgia",
+    "Florida",
+    "South Carolina",
+    "North Carolina",
+    "Arizona",
+    "New Mexico",
+    "California"
+  ],
+  "imageUrl": "/images/animals/butterflies/zerene-cesonia/zerene-cesonia-2025-10-23T19-42-43-571Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/zerene-cesonia/zerene-cesonia-2025-10-23T19-42-43-571Z-thumb.jpg"
+}

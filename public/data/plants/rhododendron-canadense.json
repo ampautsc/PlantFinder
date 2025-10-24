@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/rhododendron-canadense/rhododendron-canadense-2025-10-17T01-13-41-563Z.jpg",
-  "thumbnailUrl": "/images/plants/rhododendron-canadense/rhododendron-canadense-2025-10-17T01-13-41-563Z-thumb.jpg"
+  "imageUrl": "/images/plants/rhododendron-canadense/rhododendron-canadense-2025-10-23T01-26-03-154Z.jpg",
+  "thumbnailUrl": "/images/plants/rhododendron-canadense/rhododendron-canadense-2025-10-23T01-26-03-154Z-thumb.jpg",
+  "usdaPlantId": "RHCA6"
 }

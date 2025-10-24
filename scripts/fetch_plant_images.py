@@ -40,7 +40,7 @@ except ImportError:
 
 # Configuration
 SCRIPT_VERSION = "2.0.0"
-PLANTS_DATA_DIR = "src/data/Plants"
+PLANTS_DATA_DIR = "public/data/plants"
 IMAGES_BASE_DIR = "public/images/plants"
 LOG_FILE = "scripts/fetch_plant_images_log.txt"
 TIMEOUT = 30  # Request timeout in seconds
@@ -423,7 +423,7 @@ def get_plants_without_images():
     
     # Scan all JSON files in the Plants directory
     for filename in os.listdir(PLANTS_DATA_DIR):
-        if not filename.endswith('.json'):
+        if not filename.endswith('.json') or filename == 'index.json':
             continue
         
         json_path = os.path.join(PLANTS_DATA_DIR, filename)
@@ -432,8 +432,17 @@ def get_plants_without_images():
             with open(json_path, 'r', encoding='utf-8') as f:
                 plant_data = json.load(f)
             
-            # Check if plant already has an image
-            if 'imageUrl' not in plant_data or not plant_data['imageUrl']:
+            # Check if plant already has an image URL and if the file exists
+            has_image_url = 'imageUrl' in plant_data and plant_data['imageUrl']
+            
+            if has_image_url:
+                # Check if the actual image file exists
+                image_path = os.path.join('public', plant_data['imageUrl'].lstrip('/'))
+                if not os.path.exists(image_path):
+                    # Image URL exists but file is missing - need to fetch
+                    plants_without_images.append((json_path, plant_data))
+            else:
+                # No image URL at all - need to fetch
                 plants_without_images.append((json_path, plant_data))
         
         except Exception as e:

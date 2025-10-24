@@ -41,8 +41,13 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "amphibians",
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/symphyotrichum-lanceolatum-var-lanceolatum/symphyotrichum-lanceolatum-var-lanceolatum-2025-10-17T03-22-42-104Z.jpg",
-  "thumbnailUrl": "/images/plants/symphyotrichum-lanceolatum-var-lanceolatum/symphyotrichum-lanceolatum-var-lanceolatum-2025-10-17T03-22-42-104Z-thumb.jpg"
+  "imageUrl": "/images/plants/symphyotrichum-lanceolatum-var-lanceolatum/symphyotrichum-lanceolatum-var-lanceolatum-2025-10-23T01-26-23-046Z.jpg",
+  "thumbnailUrl": "/images/plants/symphyotrichum-lanceolatum-var-lanceolatum/symphyotrichum-lanceolatum-var-lanceolatum-2025-10-23T01-26-23-046Z-thumb.jpg",
+  "usdaPlantId": "SYLAL6"
 }

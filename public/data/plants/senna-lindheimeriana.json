@@ -31,7 +31,9 @@
     ]
   },
   "relationships": {
-    "hostPlantTo": [],
+    "hostPlantTo": [
+      "Phoebis sennae"
+    ],
     "foodFor": [
       "butterflies",
       "bees"
@@ -39,8 +41,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/senna-lindheimeriana/senna-lindheimeriana-2025-10-17T01-15-28-245Z.jpg",
-  "thumbnailUrl": "/images/plants/senna-lindheimeriana/senna-lindheimeriana-2025-10-17T01-15-28-245Z-thumb.jpg"
+  "imageUrl": "/images/plants/senna-lindheimeriana/senna-lindheimeriana-2025-10-23T01-27-34-748Z.jpg",
+  "thumbnailUrl": "/images/plants/senna-lindheimeriana/senna-lindheimeriana-2025-10-23T01-27-34-748Z-thumb.jpg",
+  "usdaPlantId": "SELI4"
 }

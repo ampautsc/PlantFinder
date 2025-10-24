@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/ledum-groenlandicum/ledum-groenlandicum-2025-10-17T02-23-26-329Z.jpg",
-  "thumbnailUrl": "/images/plants/ledum-groenlandicum/ledum-groenlandicum-2025-10-17T02-23-26-329Z-thumb.jpg"
+  "imageUrl": "/images/plants/ledum-groenlandicum/ledum-groenlandicum-2025-10-23T01-25-28-831Z.jpg",
+  "thumbnailUrl": "/images/plants/ledum-groenlandicum/ledum-groenlandicum-2025-10-23T01-25-28-831Z-thumb.jpg",
+  "usdaPlantId": "LEGR"
 }

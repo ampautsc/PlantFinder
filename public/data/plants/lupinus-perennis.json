@@ -52,8 +52,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/lupinus-perennis/lupinus-perennis-2025-10-17T01-15-04-062Z.jpg",
-  "thumbnailUrl": "/images/plants/lupinus-perennis/lupinus-perennis-2025-10-17T01-15-04-062Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/lupinus-perennis/lupinus-perennis-2025-10-17T01-15-04-062Z-thumb.jpg",
+  "usdaPlantId": "LUPEP3"
 }

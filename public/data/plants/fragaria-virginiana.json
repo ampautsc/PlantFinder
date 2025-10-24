@@ -41,8 +41,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/fragaria-virginiana/fragaria-virginiana-2025-10-17T01-14-48-096Z.jpg",
-  "thumbnailUrl": "/images/plants/fragaria-virginiana/fragaria-virginiana-2025-10-17T01-14-48-096Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/fragaria-virginiana/fragaria-virginiana-2025-10-17T01-14-48-096Z-thumb.jpg",
+  "usdaPlantId": "FRVIV"
 }

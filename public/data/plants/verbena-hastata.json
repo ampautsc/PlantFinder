@@ -46,8 +46,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/verbena-hastata/verbena-hastata-2025-10-17T01-13-52-716Z.jpg",
-  "thumbnailUrl": "/images/plants/verbena-hastata/verbena-hastata-2025-10-17T01-13-52-716Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/verbena-hastata/verbena-hastata-2025-10-17T01-13-52-716Z-thumb.jpg",
+  "usdaPlantId": "VEHAS"
 }

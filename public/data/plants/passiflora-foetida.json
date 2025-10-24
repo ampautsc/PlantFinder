@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/passiflora-foetida/passiflora-foetida-2025-10-17T01-15-29-453Z.jpg",
-  "thumbnailUrl": "/images/plants/passiflora-foetida/passiflora-foetida-2025-10-17T01-15-29-453Z-thumb.jpg"
+  "imageUrl": "/images/plants/passiflora-foetida/passiflora-foetida-2025-10-23T01-27-34-971Z.jpg",
+  "thumbnailUrl": "/images/plants/passiflora-foetida/passiflora-foetida-2025-10-23T01-27-34-971Z-thumb.jpg",
+  "usdaPlantId": "PAFOL"
 }

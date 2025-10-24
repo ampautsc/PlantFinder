@@ -29,7 +29,9 @@
     ]
   },
   "relationships": {
-    "hostPlantTo": [],
+    "hostPlantTo": [
+      "Junonia coenia"
+    ],
     "foodFor": [
       "butterflies",
       "bees",
@@ -38,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/agalinis-paupercula/agalinis-paupercula-2025-10-17T06-26-54-935Z.jpg",
-  "thumbnailUrl": "/images/plants/agalinis-paupercula/agalinis-paupercula-2025-10-17T06-26-54-935Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/agalinis-paupercula/agalinis-paupercula-2025-10-17T06-26-54-935Z-thumb.jpg",
+  "usdaPlantId": "AGPAP3"
 }

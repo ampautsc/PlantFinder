@@ -51,8 +51,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/pycnanthemum-tenuifolium/pycnanthemum-tenuifolium-2025-10-17T01-14-31-156Z.jpg",
-  "thumbnailUrl": "/images/plants/pycnanthemum-tenuifolium/pycnanthemum-tenuifolium-2025-10-17T01-14-31-156Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/pycnanthemum-tenuifolium/pycnanthemum-tenuifolium-2025-10-17T01-14-31-156Z-thumb.jpg",
+  "usdaPlantId": "PYTE"
 }

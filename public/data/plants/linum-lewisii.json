@@ -73,8 +73,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/linum-lewisii/linum-lewisii-2025-10-17T01-13-45-892Z.jpg",
-  "thumbnailUrl": "/images/plants/linum-lewisii/linum-lewisii-2025-10-17T01-13-45-892Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/linum-lewisii/linum-lewisii-2025-10-17T01-13-45-892Z-thumb.jpg",
+  "usdaPlantId": "LILEL4"
 }

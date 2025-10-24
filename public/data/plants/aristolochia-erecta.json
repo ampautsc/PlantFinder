@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/aristolochia-erecta/aristolochia-erecta-2025-10-17T03-22-58-057Z.jpg",
-  "thumbnailUrl": "/images/plants/aristolochia-erecta/aristolochia-erecta-2025-10-17T03-22-58-057Z-thumb.jpg"
+  "imageUrl": "/images/plants/aristolochia-erecta/aristolochia-erecta-2025-10-23T01-27-47-005Z.jpg",
+  "thumbnailUrl": "/images/plants/aristolochia-erecta/aristolochia-erecta-2025-10-23T01-27-47-005Z-thumb.jpg",
+  "usdaPlantId": "ARER"
 }

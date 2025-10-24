@@ -45,8 +45,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/helianthus-maximiliani/helianthus-maximiliani-2025-10-17T01-14-45-785Z.jpg",
-  "thumbnailUrl": "/images/plants/helianthus-maximiliani/helianthus-maximiliani-2025-10-17T01-14-45-785Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/helianthus-maximiliani/helianthus-maximiliani-2025-10-17T01-14-45-785Z-thumb.jpg",
+  "usdaPlantId": "HEMA2"
 }

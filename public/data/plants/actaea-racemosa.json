@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/actaea-racemosa/actaea-racemosa-2025-10-17T03-22-21-398Z.jpg",
-  "thumbnailUrl": "/images/plants/actaea-racemosa/actaea-racemosa-2025-10-17T03-22-21-398Z-thumb.jpg"
+  "imageUrl": "/images/plants/actaea-racemosa/actaea-racemosa-2025-10-23T01-26-34-215Z.jpg",
+  "thumbnailUrl": "/images/plants/actaea-racemosa/actaea-racemosa-2025-10-23T01-26-34-215Z-thumb.jpg",
+  "usdaPlantId": "ACRAR"
 }

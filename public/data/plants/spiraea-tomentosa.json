@@ -40,8 +40,13 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "amphibians",
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/spiraea-tomentosa/spiraea-tomentosa-2025-10-17T01-15-22-623Z.jpg",
-  "thumbnailUrl": "/images/plants/spiraea-tomentosa/spiraea-tomentosa-2025-10-17T01-15-22-623Z-thumb.jpg"
+  "imageUrl": "/images/plants/spiraea-tomentosa/spiraea-tomentosa-2025-10-23T01-27-30-526Z.jpg",
+  "thumbnailUrl": "/images/plants/spiraea-tomentosa/spiraea-tomentosa-2025-10-23T01-27-30-526Z-thumb.jpg",
+  "usdaPlantId": "SPTO2"
 }

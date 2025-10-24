@@ -1,0 +1,69 @@
+{
+  "id": "aristolochia-tomentosa",
+  "commonName": "Woolly Pipevine",
+  "scientificName": "Aristolochia tomentosa",
+  "description": "Large-leaved climbing vine with unique pipe-shaped flowers. Essential host plant for Pipevine Swallowtail butterfly. Fuzzy, woolly leaves and stems. Thrives in moist, shaded woodland edges and streambanks.",
+  "requirements": {
+    "sun": "partial-shade",
+    "moisture": "moist",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 360,
+    "width": 72,
+    "bloomColor": [
+      "yellow",
+      "green"
+    ],
+    "bloomTime": [
+      "spring",
+      "early summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Indiana",
+      "Illinois",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas"
+    ],
+    "hardinessZones": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Battus philenor"
+    ],
+    "foodFor": [
+      "butterflies"
+    ],
+    "shelterFor": [
+      "songbirds"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "wildlife habitat",
+      "vine"
+    ]
+  },
+  "imageUrl": "/images/plants/aristolochia-tomentosa/aristolochia-tomentosa-2025-10-23T19-46-37-303Z.jpg",
+  "thumbnailUrl": "/images/plants/aristolochia-tomentosa/aristolochia-tomentosa-2025-10-23T19-46-37-303Z-thumb.jpg",
+  "usdaPlantId": "ARTO3"
+}

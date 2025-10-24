@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/abutilon-incanum/abutilon-incanum-2025-10-17T01-15-44-032Z.jpg",
-  "thumbnailUrl": "/images/plants/abutilon-incanum/abutilon-incanum-2025-10-17T01-15-44-032Z-thumb.jpg"
+  "imageUrl": "/images/plants/abutilon-incanum/abutilon-incanum-2025-10-23T01-27-48-026Z.jpg",
+  "thumbnailUrl": "/images/plants/abutilon-incanum/abutilon-incanum-2025-10-23T01-27-48-026Z-thumb.jpg",
+  "usdaPlantId": "ABIN"
 }

@@ -29,5 +29,7 @@ export interface IPlantApi {
     nativeRanges: string[];
     hardinessZones: string[];
     hostPlantTo: string[];
+    foodFor: string[];
+    shelterFor: string[];
   }>;
 }

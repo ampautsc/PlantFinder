@@ -41,8 +41,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/geranium-erianthum/geranium-erianthum-2025-10-17T01-15-40-016Z.jpg",
-  "thumbnailUrl": "/images/plants/geranium-erianthum/geranium-erianthum-2025-10-17T01-15-40-016Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/geranium-erianthum/geranium-erianthum-2025-10-17T01-15-40-016Z-thumb.jpg",
+  "usdaPlantId": "GEER2"
 }

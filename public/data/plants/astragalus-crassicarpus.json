@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/astragalus-crassicarpus/astragalus-crassicarpus-2025-10-17T01-14-08-700Z.jpg",
-  "thumbnailUrl": "/images/plants/astragalus-crassicarpus/astragalus-crassicarpus-2025-10-17T01-14-08-700Z-thumb.jpg"
+  "imageUrl": "/images/plants/astragalus-crassicarpus/astragalus-crassicarpus-2025-10-23T01-26-26-721Z.jpg",
+  "thumbnailUrl": "/images/plants/astragalus-crassicarpus/astragalus-crassicarpus-2025-10-23T01-26-26-721Z-thumb.jpg",
+  "usdaPlantId": "ASCRT"
 }

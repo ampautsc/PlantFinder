@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/dryas-octopetala/dryas-octopetala-2025-10-17T01-15-44-669Z.jpg",
-  "thumbnailUrl": "/images/plants/dryas-octopetala/dryas-octopetala-2025-10-17T01-15-44-669Z-thumb.jpg"
+  "imageUrl": "/images/plants/dryas-octopetala/dryas-octopetala-2025-10-23T01-27-48-290Z.jpg",
+  "thumbnailUrl": "/images/plants/dryas-octopetala/dryas-octopetala-2025-10-23T01-27-48-290Z-thumb.jpg",
+  "usdaPlantId": "DROCP8"
 }

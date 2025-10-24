@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/amphicarpaea-bracteata/amphicarpaea-bracteata-2025-10-17T01-13-36-508Z.jpg",
-  "thumbnailUrl": "/images/plants/amphicarpaea-bracteata/amphicarpaea-bracteata-2025-10-17T01-13-36-508Z-thumb.jpg"
+  "imageUrl": "/images/plants/amphicarpaea-bracteata/amphicarpaea-bracteata-2025-10-23T01-25-59-948Z.jpg",
+  "thumbnailUrl": "/images/plants/amphicarpaea-bracteata/amphicarpaea-bracteata-2025-10-23T01-25-59-948Z-thumb.jpg",
+  "usdaPlantId": "AMBRC"
 }

@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/cornus-racemosa/cornus-racemosa-2025-10-17T01-15-34-495Z.jpg",
-  "thumbnailUrl": "/images/plants/cornus-racemosa/cornus-racemosa-2025-10-17T01-15-34-495Z-thumb.jpg"
+  "imageUrl": "/images/plants/cornus-racemosa/cornus-racemosa-2025-10-23T01-27-39-568Z.jpg",
+  "thumbnailUrl": "/images/plants/cornus-racemosa/cornus-racemosa-2025-10-23T01-27-39-568Z-thumb.jpg",
+  "usdaPlantId": "CORA6"
 }

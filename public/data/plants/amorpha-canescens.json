@@ -1,0 +1,72 @@
+{
+  "id": "amorpha-canescens",
+  "commonName": "Leadplant",
+  "scientificName": "Amorpha canescens",
+  "description": "Silver-leaved prairie shrub with spikes of purple flowers. Host plant for Southern Dogface butterfly. Deep taproot makes it extremely drought tolerant. Nitrogen-fixing plant important for prairie ecosystems.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "dry",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 36,
+    "width": 30,
+    "bloomColor": [
+      "purple"
+    ],
+    "bloomTime": [
+      "summer"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Michigan",
+      "Indiana",
+      "Illinois",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota",
+      "Montana",
+      "Wyoming",
+      "Colorado",
+      "New Mexico"
+    ],
+    "hardinessZones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Zerene cesonia"
+    ],
+    "foodFor": [
+      "butterflies",
+      "bees",
+      "native bees"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
+    ],
+    "usefulFor": [
+      "pollinator garden",
+      "prairie restoration",
+      "drought tolerance",
+      "nitrogen fixing"
+    ]
+  },
+  "imageUrl": "/images/plants/amorpha-canescens/amorpha-canescens-2025-10-23T19-46-41-004Z.jpg",
+  "thumbnailUrl": "/images/plants/amorpha-canescens/amorpha-canescens-2025-10-23T19-46-41-004Z-thumb.jpg",
+  "usdaPlantId": "AMCA6"
+}

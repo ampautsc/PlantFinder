@@ -64,8 +64,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/eutrochium-fistulosum/eutrochium-fistulosum-2025-10-17T01-14-04-111Z.jpg",
-  "thumbnailUrl": "/images/plants/eutrochium-fistulosum/eutrochium-fistulosum-2025-10-17T01-14-04-111Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/eutrochium-fistulosum/eutrochium-fistulosum-2025-10-17T01-14-04-111Z-thumb.jpg",
+  "usdaPlantId": "EUFI14"
 }

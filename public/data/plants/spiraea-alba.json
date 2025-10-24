@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/spiraea-alba/spiraea-alba-2025-10-17T01-14-16-859Z.jpg",
-  "thumbnailUrl": "/images/plants/spiraea-alba/spiraea-alba-2025-10-17T01-14-16-859Z-thumb.jpg"
+  "imageUrl": "/images/plants/spiraea-alba/spiraea-alba-2025-10-23T01-26-37-491Z.jpg",
+  "thumbnailUrl": "/images/plants/spiraea-alba/spiraea-alba-2025-10-23T01-26-37-491Z-thumb.jpg",
+  "usdaPlantId": "SPALL"
 }

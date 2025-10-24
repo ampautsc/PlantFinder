@@ -63,8 +63,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/vernonia-gigantea/vernonia-gigantea-2025-10-17T01-14-28-241Z.jpg",
-  "thumbnailUrl": "/images/plants/vernonia-gigantea/vernonia-gigantea-2025-10-17T01-14-28-241Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/vernonia-gigantea/vernonia-gigantea-2025-10-17T01-14-28-241Z-thumb.jpg",
+  "usdaPlantId": "VEGIO"
 }

@@ -74,8 +74,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/ratibida-columnifera/ratibida-columnifera-2025-10-17T01-13-48-381Z.jpg",
-  "thumbnailUrl": "/images/plants/ratibida-columnifera/ratibida-columnifera-2025-10-17T01-13-48-381Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/ratibida-columnifera/ratibida-columnifera-2025-10-17T01-13-48-381Z-thumb.jpg",
+  "usdaPlantId": "RACO3"
 }

@@ -72,8 +72,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/machaeranthera-tanacetifolia/machaeranthera-tanacetifolia-2025-10-17T01-15-32-298Z.jpg",
-  "thumbnailUrl": "/images/plants/machaeranthera-tanacetifolia/machaeranthera-tanacetifolia-2025-10-17T01-15-32-298Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/machaeranthera-tanacetifolia/machaeranthera-tanacetifolia-2025-10-17T01-15-32-298Z-thumb.jpg",
+  "usdaPlantId": "MATA2"
 }

@@ -71,8 +71,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/helianthus-annuus/helianthus-annuus-2025-10-17T01-13-28-002Z.jpg",
-  "thumbnailUrl": "/images/plants/helianthus-annuus/helianthus-annuus-2025-10-17T01-13-28-002Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/helianthus-annuus/helianthus-annuus-2025-10-17T01-13-28-002Z-thumb.jpg",
+  "usdaPlantId": "HEAN3"
 }

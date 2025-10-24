@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/rhamnus-alnifolia/rhamnus-alnifolia-2025-10-17T01-14-51-695Z.jpg",
-  "thumbnailUrl": "/images/plants/rhamnus-alnifolia/rhamnus-alnifolia-2025-10-17T01-14-51-695Z-thumb.jpg"
+  "imageUrl": "/images/plants/rhamnus-alnifolia/rhamnus-alnifolia-2025-10-23T01-27-10-166Z.jpg",
+  "thumbnailUrl": "/images/plants/rhamnus-alnifolia/rhamnus-alnifolia-2025-10-23T01-27-10-166Z-thumb.jpg",
+  "usdaPlantId": "RHAL"
 }

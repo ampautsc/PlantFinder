@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/eriogonum-nudum/eriogonum-nudum-2025-10-17T01-14-15-299Z.jpg",
-  "thumbnailUrl": "/images/plants/eriogonum-nudum/eriogonum-nudum-2025-10-17T01-14-15-299Z-thumb.jpg"
+  "imageUrl": "/images/plants/eriogonum-nudum/eriogonum-nudum-2025-10-23T01-26-35-106Z.jpg",
+  "thumbnailUrl": "/images/plants/eriogonum-nudum/eriogonum-nudum-2025-10-23T01-26-35-106Z-thumb.jpg",
+  "usdaPlantId": "ERNUW"
 }

@@ -41,8 +41,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/cornus-canadensis/cornus-canadensis-2025-10-17T01-15-45-016Z.jpg",
-  "thumbnailUrl": "/images/plants/cornus-canadensis/cornus-canadensis-2025-10-17T01-15-45-016Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/cornus-canadensis/cornus-canadensis-2025-10-17T01-15-45-016Z-thumb.jpg",
+  "usdaPlantId": "COCA13"
 }

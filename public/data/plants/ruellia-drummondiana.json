@@ -39,7 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/ruellia-drummondiana/ruellia-drummondiana-2025-10-17T01-14-33-816Z.png"
+  "imageUrl": "/images/plants/ruellia-drummondiana/ruellia-drummondiana-2025-10-23T01-26-53-414Z.jpg",
+  "thumbnailUrl": "/images/plants/ruellia-drummondiana/ruellia-drummondiana-2025-10-23T01-26-53-414Z-thumb.jpg",
+  "usdaPlantId": "RUDR"
 }

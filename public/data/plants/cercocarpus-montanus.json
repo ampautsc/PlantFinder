@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/cercocarpus-montanus/cercocarpus-montanus-2025-10-17T01-14-56-942Z.jpg",
-  "thumbnailUrl": "/images/plants/cercocarpus-montanus/cercocarpus-montanus-2025-10-17T01-14-56-942Z-thumb.jpg"
+  "imageUrl": "/images/plants/cercocarpus-montanus/cercocarpus-montanus-2025-10-23T01-27-12-304Z.jpg",
+  "thumbnailUrl": "/images/plants/cercocarpus-montanus/cercocarpus-montanus-2025-10-23T01-27-12-304Z-thumb.jpg",
+  "usdaPlantId": "CEMOP"
 }

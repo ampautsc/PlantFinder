@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/rhododendron-occidentale/rhododendron-occidentale-2025-10-17T01-13-57-591Z.jpg",
-  "thumbnailUrl": "/images/plants/rhododendron-occidentale/rhododendron-occidentale-2025-10-17T01-13-57-591Z-thumb.jpg"
+  "imageUrl": "/images/plants/rhododendron-occidentale/rhododendron-occidentale-2025-10-23T01-26-17-172Z.jpg",
+  "thumbnailUrl": "/images/plants/rhododendron-occidentale/rhododendron-occidentale-2025-10-23T01-26-17-172Z-thumb.jpg",
+  "usdaPlantId": "RHOCS"
 }

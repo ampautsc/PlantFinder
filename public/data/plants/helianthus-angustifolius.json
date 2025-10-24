@@ -60,8 +60,12 @@
       "pollinator garden",
       "rain garden",
       "wildlife habitat"
+    ],
+    "shelterFor": [
+      "songbirds"
     ]
   },
-  "imageUrl": "/images/plants/helianthus-angustifolius/helianthus-angustifolius-2025-10-16T00-17-20-849Z.jpg",
-  "thumbnailUrl": "/images/plants/helianthus-angustifolius/helianthus-angustifolius-2025-10-16T00-17-20-849Z-thumb.jpg"
+  "imageUrl": "/images/plants/helianthus-angustifolius/helianthus-angustifolius-2025-10-23T01-27-24-152Z.jpg",
+  "thumbnailUrl": "/images/plants/helianthus-angustifolius/helianthus-angustifolius-2025-10-23T01-27-24-152Z-thumb.jpg",
+  "usdaPlantId": "HEAN2"
 }

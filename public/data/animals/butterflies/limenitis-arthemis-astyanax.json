@@ -1,0 +1,65 @@
+{
+  "id": "limenitis-arthemis-astyanax",
+  "commonName": "Red-spotted Purple",
+  "scientificName": "Limenitis arthemis astyanax",
+  "description": "Red-spotted Purple is a beautiful native butterfly. Caterpillars feed on Salix species, Prunus species, Malus species. Important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "medium"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Salix species",
+      "Prunus species",
+      "Malus species"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "woodlands",
+      "meadows",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Delaware",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Florida",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas"
+  ],
+  "imageUrl": "/images/animals/butterflies/limenitis-arthemis-astyanax/limenitis-arthemis-astyanax-2025-10-23T19-43-41-140Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/limenitis-arthemis-astyanax/limenitis-arthemis-astyanax-2025-10-23T19-43-41-140Z-thumb.jpg"
+}

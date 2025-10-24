@@ -75,8 +75,13 @@
       "hummingbird garden",
       "rain garden",
       "shade garden"
+    ],
+    "shelterFor": [
+      "amphibians",
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/lobelia-cardinalis/lobelia-cardinalis-2025-10-16T00-35-09-665Z.jpg",
-  "thumbnailUrl": "/images/plants/lobelia-cardinalis/lobelia-cardinalis-2025-10-16T00-35-09-665Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/lobelia-cardinalis/lobelia-cardinalis-2025-10-16T00-35-09-665Z-thumb.jpg",
+  "usdaPlantId": "LOCA2"
 }

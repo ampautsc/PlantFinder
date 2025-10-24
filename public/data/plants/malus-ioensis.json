@@ -1,0 +1,68 @@
+{
+  "id": "malus-ioensis",
+  "commonName": "Prairie Crabapple",
+  "scientificName": "Malus ioensis",
+  "description": "Native crabapple with fragrant pink-white flowers. Host plant for Eastern Tiger Swallowtail and Red-spotted Purple butterflies. Small red fruits persist into winter, providing food for birds.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 240,
+    "width": 180,
+    "bloomColor": [
+      "pink",
+      "white"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska",
+      "South Dakota"
+    ],
+    "hardinessZones": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Papilio glaucus",
+      "Limenitis arthemis astyanax"
+    ],
+    "foodFor": [
+      "birds",
+      "butterflies",
+      "bees"
+    ],
+    "shelterFor": [
+      "songbirds"
+    ],
+    "usefulFor": [
+      "wildlife habitat",
+      "pollinator garden",
+      "fragrant",
+      "spring color"
+    ]
+  },
+  "imageUrl": "/images/plants/malus-ioensis/malus-ioensis-2025-10-23T19-46-42-569Z.jpg",
+  "thumbnailUrl": "/images/plants/malus-ioensis/malus-ioensis-2025-10-23T19-46-42-569Z-thumb.jpg",
+  "usdaPlantId": "MAIOT8"
+}

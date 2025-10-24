@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/hedysarum-boreale/hedysarum-boreale-2025-10-17T06-26-55-769Z.jpg",
-  "thumbnailUrl": "/images/plants/hedysarum-boreale/hedysarum-boreale-2025-10-17T06-26-55-769Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/hedysarum-boreale/hedysarum-boreale-2025-10-17T06-26-55-769Z-thumb.jpg",
+  "usdaPlantId": "HEBOM"
 }

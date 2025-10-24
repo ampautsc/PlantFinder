@@ -41,8 +41,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/chilopsis-linearis/chilopsis-linearis-2025-10-17T03-22-59-894Z.jpg",
-  "thumbnailUrl": "/images/plants/chilopsis-linearis/chilopsis-linearis-2025-10-17T03-22-59-894Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/chilopsis-linearis/chilopsis-linearis-2025-10-17T03-22-59-894Z-thumb.jpg",
+  "usdaPlantId": "CHLIL2"
 }

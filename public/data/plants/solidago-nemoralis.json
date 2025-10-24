@@ -50,8 +50,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/solidago-nemoralis/solidago-nemoralis-2025-10-17T01-14-01-774Z.jpg",
-  "thumbnailUrl": "/images/plants/solidago-nemoralis/solidago-nemoralis-2025-10-17T01-14-01-774Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/solidago-nemoralis/solidago-nemoralis-2025-10-17T01-14-01-774Z-thumb.jpg",
+  "usdaPlantId": "SONEN"
 }

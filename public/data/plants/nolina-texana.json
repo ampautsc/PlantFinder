@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/nolina-texana/nolina-texana-2025-10-17T01-13-28-456Z.jpg",
-  "thumbnailUrl": "/images/plants/nolina-texana/nolina-texana-2025-10-17T01-13-28-456Z-thumb.jpg"
+  "imageUrl": "/images/plants/nolina-texana/nolina-texana-2025-10-23T01-25-51-658Z.jpg",
+  "thumbnailUrl": "/images/plants/nolina-texana/nolina-texana-2025-10-23T01-25-51-658Z-thumb.jpg",
+  "usdaPlantId": "NOTE"
 }

@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/cardamine-concatenata/cardamine-concatenata-2025-10-17T01-13-50-440Z.jpg",
-  "thumbnailUrl": "/images/plants/cardamine-concatenata/cardamine-concatenata-2025-10-17T01-13-50-440Z-thumb.jpg"
+  "imageUrl": "/images/plants/cardamine-concatenata/cardamine-concatenata-2025-10-23T01-26-10-860Z.jpg",
+  "thumbnailUrl": "/images/plants/cardamine-concatenata/cardamine-concatenata-2025-10-23T01-26-10-860Z-thumb.jpg",
+  "usdaPlantId": "CACO26"
 }

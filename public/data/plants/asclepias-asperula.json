@@ -77,8 +77,12 @@
       "pollinator garden",
       "native garden",
       "monarch conservation"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/asclepias-asperula/asclepias-asperula-2025-10-17T01-14-53-294Z.jpg",
-  "thumbnailUrl": "/images/plants/asclepias-asperula/asclepias-asperula-2025-10-17T01-14-53-294Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/asclepias-asperula/asclepias-asperula-2025-10-17T01-14-53-294Z-thumb.jpg",
+  "usdaPlantId": "ASASC"
 }

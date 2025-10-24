@@ -1,0 +1,87 @@
+{
+  "id": "sassafras-albidum",
+  "commonName": "Sassafras",
+  "scientificName": "Sassafras albidum",
+  "description": "Aromatic tree with mitten-shaped leaves in three forms. Host plant for Spicebush Swallowtail butterfly. Brilliant fall colors of orange, red, and purple. Blue berries on red stems attract birds. All parts aromatic.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 480,
+    "width": 240,
+    "bloomColor": [
+      "yellow"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Maine",
+      "Vermont",
+      "New Hampshire",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Iowa",
+      "Missouri",
+      "Arkansas",
+      "Oklahoma",
+      "Texas",
+      "Kansas",
+      "Nebraska"
+    ],
+    "hardinessZones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Papilio troilus"
+    ],
+    "foodFor": [
+      "birds",
+      "butterflies"
+    ],
+    "shelterFor": [
+      "songbirds"
+    ],
+    "usefulFor": [
+      "wildlife habitat",
+      "fall color",
+      "fragrant",
+      "native tree"
+    ]
+  },
+  "imageUrl": "/images/plants/sassafras-albidum/sassafras-albidum-2025-10-23T19-46-40-182Z.jpg",
+  "thumbnailUrl": "/images/plants/sassafras-albidum/sassafras-albidum-2025-10-23T19-46-40-182Z-thumb.jpg",
+  "usdaPlantId": "SAAL5"
+}

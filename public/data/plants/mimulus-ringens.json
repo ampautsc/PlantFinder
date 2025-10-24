@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/mimulus-ringens/mimulus-ringens-2025-10-17T01-14-05-758Z.jpg",
-  "thumbnailUrl": "/images/plants/mimulus-ringens/mimulus-ringens-2025-10-17T01-14-05-758Z-thumb.jpg"
+  "imageUrl": "/images/plants/mimulus-ringens/mimulus-ringens-2025-10-23T01-26-23-927Z.jpg",
+  "thumbnailUrl": "/images/plants/mimulus-ringens/mimulus-ringens-2025-10-23T01-26-23-927Z-thumb.jpg",
+  "usdaPlantId": "MIRIR"
 }

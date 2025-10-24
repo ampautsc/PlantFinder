@@ -66,7 +66,12 @@
       "woodland garden",
       "spring ephemeral",
       "shade garden"
+    ],
+    "shelterFor": [
+      "amphibians"
     ]
   },
-  "imageUrl": "/images/plants/mertensia-virginica/mertensia-virginica-2025-10-15T21-16-57-870Z.jpeg"
+  "imageUrl": "/images/plants/mertensia-virginica/mertensia-virginica-2025-10-23T01-26-55-904Z.jpg",
+  "thumbnailUrl": "/images/plants/mertensia-virginica/mertensia-virginica-2025-10-23T01-26-55-904Z-thumb.jpg",
+  "usdaPlantId": "MEVI3"
 }

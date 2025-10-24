@@ -70,7 +70,8 @@
     "hostPlantTo": [
       "Monarch butterfly",
       "Queen butterfly",
-      "Milkweed Tussock Moth"
+      "Milkweed Tussock Moth",
+      "Danaus plexippus"
     ],
     "foodFor": [
       "butterflies",
@@ -82,7 +83,12 @@
       "monarch conservation",
       "naturalized areas",
       "wildlife habitat"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/asclepias-syriaca/asclepias-syriaca-2025-10-15T21-08-21-710Z.jpeg"
+  "imageUrl": "/images/plants/asclepias-syriaca/asclepias-syriaca-2025-10-23T01-26-04-798Z.jpg",
+  "thumbnailUrl": "/images/plants/asclepias-syriaca/asclepias-syriaca-2025-10-23T01-26-04-798Z-thumb.jpg",
+  "usdaPlantId": "ASSY"
 }

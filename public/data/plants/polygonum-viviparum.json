@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/polygonum-viviparum/polygonum-viviparum-2025-10-17T03-22-56-637Z.jpg",
-  "thumbnailUrl": "/images/plants/polygonum-viviparum/polygonum-viviparum-2025-10-17T03-22-56-637Z-thumb.jpg"
+  "imageUrl": "/images/plants/polygonum-viviparum/polygonum-viviparum-2025-10-23T01-27-32-433Z.jpg",
+  "thumbnailUrl": "/images/plants/polygonum-viviparum/polygonum-viviparum-2025-10-23T01-27-32-433Z-thumb.jpg",
+  "usdaPlantId": "POVI3"
 }

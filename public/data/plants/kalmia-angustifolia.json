@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/kalmia-angustifolia/kalmia-angustifolia-2025-10-17T01-14-03-346Z.jpg",
-  "thumbnailUrl": "/images/plants/kalmia-angustifolia/kalmia-angustifolia-2025-10-17T01-14-03-346Z-thumb.jpg"
+  "imageUrl": "/images/plants/kalmia-angustifolia/kalmia-angustifolia-2025-10-23T01-26-21-122Z.jpg",
+  "thumbnailUrl": "/images/plants/kalmia-angustifolia/kalmia-angustifolia-2025-10-23T01-26-21-122Z-thumb.jpg",
+  "usdaPlantId": "KAAN"
 }

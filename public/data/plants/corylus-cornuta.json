@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/corylus-cornuta/corylus-cornuta-2025-10-17T01-15-32-610Z.jpg",
-  "thumbnailUrl": "/images/plants/corylus-cornuta/corylus-cornuta-2025-10-17T01-15-32-610Z-thumb.jpg"
+  "imageUrl": "/images/plants/corylus-cornuta/corylus-cornuta-2025-10-23T01-27-38-437Z.jpg",
+  "thumbnailUrl": "/images/plants/corylus-cornuta/corylus-cornuta-2025-10-23T01-27-38-437Z-thumb.jpg",
+  "usdaPlantId": "COCOC2"
 }

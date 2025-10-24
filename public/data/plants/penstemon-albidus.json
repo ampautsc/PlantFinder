@@ -47,8 +47,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/penstemon-albidus/penstemon-albidus-2025-10-17T01-13-59-855Z.jpg",
-  "thumbnailUrl": "/images/plants/penstemon-albidus/penstemon-albidus-2025-10-17T01-13-59-855Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/penstemon-albidus/penstemon-albidus-2025-10-17T01-13-59-855Z-thumb.jpg",
+  "usdaPlantId": "PEAL2"
 }

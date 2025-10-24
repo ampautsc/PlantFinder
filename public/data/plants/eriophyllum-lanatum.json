@@ -62,8 +62,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/eriophyllum-lanatum/eriophyllum-lanatum-2025-10-17T01-13-29-748Z.jpg",
-  "thumbnailUrl": "/images/plants/eriophyllum-lanatum/eriophyllum-lanatum-2025-10-17T01-13-29-748Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/eriophyllum-lanatum/eriophyllum-lanatum-2025-10-17T01-13-29-748Z-thumb.jpg",
+  "usdaPlantId": "ERLAO"
 }

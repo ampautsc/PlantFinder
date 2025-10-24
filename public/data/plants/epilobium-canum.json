@@ -42,8 +42,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/epilobium-canum/epilobium-canum-2025-10-17T01-13-25-306Z.jpg",
-  "thumbnailUrl": "/images/plants/epilobium-canum/epilobium-canum-2025-10-17T01-13-25-306Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/epilobium-canum/epilobium-canum-2025-10-17T01-13-25-306Z-thumb.jpg",
+  "usdaPlantId": "EPCAL"
 }

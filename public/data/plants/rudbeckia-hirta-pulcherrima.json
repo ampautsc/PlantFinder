@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/rudbeckia-hirta-pulcherrima/rudbeckia-hirta-pulcherrima-2025-10-17T01-13-41-049Z.jpg",
-  "thumbnailUrl": "/images/plants/rudbeckia-hirta-pulcherrima/rudbeckia-hirta-pulcherrima-2025-10-17T01-13-41-049Z-thumb.jpg"
+  "imageUrl": "/images/plants/rudbeckia-hirta-pulcherrima/rudbeckia-hirta-pulcherrima-2025-10-23T01-26-03-026Z.jpg",
+  "thumbnailUrl": "/images/plants/rudbeckia-hirta-pulcherrima/rudbeckia-hirta-pulcherrima-2025-10-23T01-26-03-026Z-thumb.jpg",
+  "usdaPlantId": "RUHIP"
 }

@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/coursetia-glandulosa/coursetia-glandulosa-2025-10-17T01-15-47-165Z.jpg",
-  "thumbnailUrl": "/images/plants/coursetia-glandulosa/coursetia-glandulosa-2025-10-17T01-15-47-165Z-thumb.jpg"
+  "imageUrl": "/images/plants/coursetia-glandulosa/coursetia-glandulosa-2025-10-23T01-27-51-024Z.jpg",
+  "thumbnailUrl": "/images/plants/coursetia-glandulosa/coursetia-glandulosa-2025-10-23T01-27-51-024Z-thumb.jpg",
+  "usdaPlantId": "COGL8"
 }

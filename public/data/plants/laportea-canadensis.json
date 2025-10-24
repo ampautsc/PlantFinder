@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/laportea-canadensis/laportea-canadensis-2025-10-17T01-13-22-897Z.jpg",
-  "thumbnailUrl": "/images/plants/laportea-canadensis/laportea-canadensis-2025-10-17T01-13-22-897Z-thumb.jpg"
+  "imageUrl": "/images/plants/laportea-canadensis/laportea-canadensis-2025-10-23T01-25-47-266Z.jpg",
+  "thumbnailUrl": "/images/plants/laportea-canadensis/laportea-canadensis-2025-10-23T01-25-47-266Z-thumb.jpg",
+  "usdaPlantId": "LACA3"
 }

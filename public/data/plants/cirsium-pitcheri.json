@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/cirsium-pitcheri/cirsium-pitcheri-2025-10-17T01-13-56-770Z.jpg",
-  "thumbnailUrl": "/images/plants/cirsium-pitcheri/cirsium-pitcheri-2025-10-17T01-13-56-770Z-thumb.jpg"
+  "imageUrl": "/images/plants/cirsium-pitcheri/cirsium-pitcheri-2025-10-23T01-26-16-632Z.jpg",
+  "thumbnailUrl": "/images/plants/cirsium-pitcheri/cirsium-pitcheri-2025-10-23T01-26-16-632Z-thumb.jpg",
+  "usdaPlantId": "CIPI"
 }

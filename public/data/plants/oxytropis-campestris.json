@@ -41,8 +41,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/oxytropis-campestris/oxytropis-campestris-2025-10-17T01-14-24-888Z.jpg",
-  "thumbnailUrl": "/images/plants/oxytropis-campestris/oxytropis-campestris-2025-10-17T01-14-24-888Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/oxytropis-campestris/oxytropis-campestris-2025-10-17T01-14-24-888Z-thumb.jpg",
+  "usdaPlantId": "OXCAW"
 }

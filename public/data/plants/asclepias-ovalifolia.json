@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/asclepias-ovalifolia/asclepias-ovalifolia-2025-10-17T02-37-30-618Z.jpg",
-  "thumbnailUrl": "/images/plants/asclepias-ovalifolia/asclepias-ovalifolia-2025-10-17T02-37-30-618Z-thumb.jpg"
+  "imageUrl": "/images/plants/asclepias-ovalifolia/asclepias-ovalifolia-2025-10-23T01-26-07-337Z.jpg",
+  "thumbnailUrl": "/images/plants/asclepias-ovalifolia/asclepias-ovalifolia-2025-10-23T01-26-07-337Z-thumb.jpg",
+  "usdaPlantId": "ASOV"
 }

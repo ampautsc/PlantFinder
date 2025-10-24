@@ -64,8 +64,12 @@
       "pollinator garden",
       "cut flower",
       "wildlife habitat"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/liatris-spicata/liatris-spicata-2025-10-16T00-34-21-625Z.jpg",
-  "thumbnailUrl": "/images/plants/liatris-spicata/liatris-spicata-2025-10-16T00-34-21-625Z-thumb.jpg"
+  "imageUrl": "/images/plants/liatris-spicata/liatris-spicata-2025-10-23T01-27-07-093Z.jpg",
+  "thumbnailUrl": "/images/plants/liatris-spicata/liatris-spicata-2025-10-23T01-27-07-093Z-thumb.jpg",
+  "usdaPlantId": "LISPS"
 }

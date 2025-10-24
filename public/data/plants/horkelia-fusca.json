@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/horkelia-fusca/horkelia-fusca-2025-10-17T06-25-13-411Z.jpg",
-  "thumbnailUrl": "/images/plants/horkelia-fusca/horkelia-fusca-2025-10-17T06-25-13-411Z-thumb.jpg"
+  "imageUrl": "/images/plants/horkelia-fusca/horkelia-fusca-2025-10-23T01-26-49-149Z.jpg",
+  "thumbnailUrl": "/images/plants/horkelia-fusca/horkelia-fusca-2025-10-23T01-26-49-149Z-thumb.jpg",
+  "usdaPlantId": "HOFUT"
 }

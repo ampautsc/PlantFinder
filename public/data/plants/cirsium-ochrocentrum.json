@@ -71,8 +71,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/cirsium-ochrocentrum/cirsium-ochrocentrum-2025-10-17T01-15-14-491Z.jpg",
-  "thumbnailUrl": "/images/plants/cirsium-ochrocentrum/cirsium-ochrocentrum-2025-10-17T01-15-14-491Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/cirsium-ochrocentrum/cirsium-ochrocentrum-2025-10-17T01-15-14-491Z-thumb.jpg",
+  "usdaPlantId": "CIOCO2"
 }

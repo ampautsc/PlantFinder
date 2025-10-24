@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/acaciella-angustissima/acaciella-angustissima-2025-10-17T01-14-39-014Z.jpg",
-  "thumbnailUrl": "/images/plants/acaciella-angustissima/acaciella-angustissima-2025-10-17T01-14-39-014Z-thumb.jpg"
+  "imageUrl": "/images/plants/acaciella-angustissima/acaciella-angustissima-2025-10-23T01-26-56-966Z.jpg",
+  "thumbnailUrl": "/images/plants/acaciella-angustissima/acaciella-angustissima-2025-10-23T01-26-56-966Z-thumb.jpg",
+  "usdaPlantId": "ACANH2"
 }

@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/cardamine-diphylla/cardamine-diphylla-2025-10-17T01-13-54-998Z.jpg",
-  "thumbnailUrl": "/images/plants/cardamine-diphylla/cardamine-diphylla-2025-10-17T01-13-54-998Z-thumb.jpg"
+  "imageUrl": "/images/plants/cardamine-diphylla/cardamine-diphylla-2025-10-23T01-26-15-208Z.jpg",
+  "thumbnailUrl": "/images/plants/cardamine-diphylla/cardamine-diphylla-2025-10-23T01-26-15-208Z-thumb.jpg",
+  "usdaPlantId": "CADI10"
 }

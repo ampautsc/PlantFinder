@@ -29,7 +29,9 @@
     ]
   },
   "relationships": {
-    "hostPlantTo": [],
+    "hostPlantTo": [
+      "Zerene cesonia"
+    ],
     "foodFor": [
       "butterflies",
       "bees",
@@ -38,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/amorpha-fruticosa/amorpha-fruticosa-2025-10-17T01-15-18-324Z.jpg",
-  "thumbnailUrl": "/images/plants/amorpha-fruticosa/amorpha-fruticosa-2025-10-17T01-15-18-324Z-thumb.jpg"
+  "imageUrl": "/images/plants/amorpha-fruticosa/amorpha-fruticosa-2025-10-23T01-27-27-232Z.jpg",
+  "thumbnailUrl": "/images/plants/amorpha-fruticosa/amorpha-fruticosa-2025-10-23T01-27-27-232Z-thumb.jpg",
+  "usdaPlantId": "AMFR"
 }

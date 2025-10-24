@@ -33,7 +33,9 @@
   },
   "relationships": {
     "hostPlantTo": [
-      "Fritillary butterflies"
+      "Fritillary butterflies",
+      "Speyeria cybele",
+      "Speyeria idalia"
     ],
     "foodFor": [
       "butterflies",
@@ -42,8 +44,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "beneficial insects"
     ]
   },
-  "imageUrl": "/images/plants/viola-purpurea/viola-purpurea-2025-10-17T01-14-04-872Z.jpg",
-  "thumbnailUrl": "/images/plants/viola-purpurea/viola-purpurea-2025-10-17T01-14-04-872Z-thumb.jpg"
+  "imageUrl": "/images/plants/viola-purpurea/viola-purpurea-2025-10-23T01-26-21-911Z.jpg",
+  "thumbnailUrl": "/images/plants/viola-purpurea/viola-purpurea-2025-10-23T01-26-21-911Z-thumb.jpg",
+  "usdaPlantId": "VIPUV2"
 }

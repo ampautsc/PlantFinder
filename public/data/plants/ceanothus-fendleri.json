@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/ceanothus-fendleri/ceanothus-fendleri-2025-10-17T01-14-45-325Z.jpg",
-  "thumbnailUrl": "/images/plants/ceanothus-fendleri/ceanothus-fendleri-2025-10-17T01-14-45-325Z-thumb.jpg"
+  "imageUrl": "/images/plants/ceanothus-fendleri/ceanothus-fendleri-2025-10-23T01-27-01-758Z.jpg",
+  "thumbnailUrl": "/images/plants/ceanothus-fendleri/ceanothus-fendleri-2025-10-23T01-27-01-758Z-thumb.jpg",
+  "usdaPlantId": "CEFE"
 }

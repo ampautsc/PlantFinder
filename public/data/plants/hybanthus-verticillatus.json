@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/hybanthus-verticillatus/hybanthus-verticillatus-2025-10-17T03-22-16-046Z.jpg",
-  "thumbnailUrl": "/images/plants/hybanthus-verticillatus/hybanthus-verticillatus-2025-10-17T03-22-16-046Z-thumb.jpg"
+  "imageUrl": "/images/plants/hybanthus-verticillatus/hybanthus-verticillatus-2025-10-23T01-26-42-373Z.jpg",
+  "thumbnailUrl": "/images/plants/hybanthus-verticillatus/hybanthus-verticillatus-2025-10-23T01-26-42-373Z-thumb.jpg",
+  "usdaPlantId": "HYVE"
 }

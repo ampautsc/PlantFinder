@@ -4,6 +4,7 @@ import { mockSeedShareService } from '../api/MockSeedShareService';
 import { PlantSeedShareVolume, UserPlantSeedShare, MatchDetails } from '../types/SeedShare';
 import SeedExchangeOverlay from './SeedExchangeOverlay';
 import MatchTracker from './MatchTracker';
+import { getButterflyThumbnail } from '../data/butterflyThumbnails';
 import './PlantDetailView.css';
 
 interface PlantDetailViewProps {
@@ -269,7 +270,37 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                   <span className="wildlife-icon">🐛</span>
                   <div>
                     <span className="wildlife-label">Host Plant To:</span>
-                    <span className="wildlife-value">{plant.relationships.hostPlantTo.join(', ')}</span>
+                    <div className="host-species-list">
+                      {(() => {
+                        // Deduplicate butterflies by their common name
+                        const speciesMap = new Map<string, { commonName: string; thumbnail: ReturnType<typeof getButterflyThumbnail> }>();
+                        
+                        plant.relationships.hostPlantTo.forEach(species => {
+                          const thumbnail = getButterflyThumbnail(species);
+                          const commonName = thumbnail?.commonName || species;
+                          
+                          // Only add if we haven't seen this common name before
+                          if (!speciesMap.has(commonName)) {
+                            speciesMap.set(commonName, { commonName, thumbnail });
+                          }
+                        });
+                        
+                        // Convert to array and render
+                        return Array.from(speciesMap.values()).map(({ commonName, thumbnail }) => (
+                          <div key={commonName} className="host-species-item">
+                            {thumbnail && thumbnail.thumbnailUrl && (
+                              <img 
+                                src={thumbnail.thumbnailUrl} 
+                                alt={commonName}
+                                className="host-species-thumbnail"
+                                title={commonName}
+                              />
+                            )}
+                            <span className="host-species-name">{commonName}</span>
+                          </div>
+                        ));
+                      })()}
+                    </div>
                   </div>
                 </div>
               )}

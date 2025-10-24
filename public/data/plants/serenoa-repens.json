@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/serenoa-repens/serenoa-repens-2025-10-17T03-23-02-404Z.jpg",
-  "thumbnailUrl": "/images/plants/serenoa-repens/serenoa-repens-2025-10-17T03-23-02-404Z-thumb.jpg"
+  "imageUrl": "/images/plants/serenoa-repens/serenoa-repens-2025-10-23T01-26-59-340Z.jpg",
+  "thumbnailUrl": "/images/plants/serenoa-repens/serenoa-repens-2025-10-23T01-26-59-340Z-thumb.jpg",
+  "usdaPlantId": "SERE2"
 }

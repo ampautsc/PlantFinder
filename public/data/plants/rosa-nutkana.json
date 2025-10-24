@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/rosa-nutkana/rosa-nutkana-2025-10-17T01-14-01-506Z.jpg",
-  "thumbnailUrl": "/images/plants/rosa-nutkana/rosa-nutkana-2025-10-17T01-14-01-506Z-thumb.jpg"
+  "imageUrl": "/images/plants/rosa-nutkana/rosa-nutkana-2025-10-23T01-26-20-469Z.jpg",
+  "thumbnailUrl": "/images/plants/rosa-nutkana/rosa-nutkana-2025-10-23T01-26-20-469Z-thumb.jpg",
+  "usdaPlantId": "RONUS"
 }

@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/ruellia-nudiflora/ruellia-nudiflora-2025-10-17T01-15-12-861Z.jpg",
-  "thumbnailUrl": "/images/plants/ruellia-nudiflora/ruellia-nudiflora-2025-10-17T01-15-12-861Z-thumb.jpg"
+  "imageUrl": "/images/plants/ruellia-nudiflora/ruellia-nudiflora-2025-10-23T01-27-21-371Z.jpg",
+  "thumbnailUrl": "/images/plants/ruellia-nudiflora/ruellia-nudiflora-2025-10-23T01-27-21-371Z-thumb.jpg",
+  "usdaPlantId": "RUNUR"
 }

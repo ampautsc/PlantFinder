@@ -1,0 +1,66 @@
+{
+  "id": "danaus-plexippus",
+  "commonName": "Monarch",
+  "scientificName": "Danaus plexippus",
+  "description": "Monarch is a beautiful native butterfly. Caterpillars feed on Asclepias tuberosa, Asclepias syriaca, Asclepias incarnata. Important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "summer",
+      "fall"
+    ],
+    "size": "medium"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Asclepias tuberosa",
+      "Asclepias syriaca",
+      "Asclepias incarnata",
+      "Asclepias speciosa",
+      "Asclepias verticillata"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "woodlands",
+      "meadows",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Delaware",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Florida",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas"
+  ],
+  "imageUrl": "/images/animals/butterflies/danaus-plexippus/danaus-plexippus-2025-10-23T19-42-16-801Z.jpeg",
+  "thumbnailUrl": "/images/animals/butterflies/danaus-plexippus/danaus-plexippus-2025-10-23T19-42-16-801Z-thumb.jpg"
+}

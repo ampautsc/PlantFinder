@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/desmodium-glutinosum/desmodium-glutinosum-2025-10-17T02-27-42-171Z.jpg",
-  "thumbnailUrl": "/images/plants/desmodium-glutinosum/desmodium-glutinosum-2025-10-17T02-27-42-171Z-thumb.jpg"
+  "imageUrl": "/images/plants/desmodium-glutinosum/desmodium-glutinosum-2025-10-23T01-25-59-027Z.jpg",
+  "thumbnailUrl": "/images/plants/desmodium-glutinosum/desmodium-glutinosum-2025-10-23T01-25-59-027Z-thumb.jpg",
+  "usdaPlantId": "DEGL5"
 }

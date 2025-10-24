@@ -39,8 +39,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/passiflora-tenuiloba/passiflora-tenuiloba-2025-10-17T03-23-01-235Z.jpg",
-  "thumbnailUrl": "/images/plants/passiflora-tenuiloba/passiflora-tenuiloba-2025-10-17T03-23-01-235Z-thumb.jpg"
+  "imageUrl": "/images/plants/passiflora-tenuiloba/passiflora-tenuiloba-2025-10-23T01-27-02-595Z.jpg",
+  "thumbnailUrl": "/images/plants/passiflora-tenuiloba/passiflora-tenuiloba-2025-10-23T01-27-02-595Z-thumb.jpg",
+  "usdaPlantId": "PATE9"
 }

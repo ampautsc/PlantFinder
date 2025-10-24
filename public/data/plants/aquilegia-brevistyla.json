@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/aquilegia-brevistyla/aquilegia-brevistyla-2025-10-17T01-14-29-040Z.jpg",
-  "thumbnailUrl": "/images/plants/aquilegia-brevistyla/aquilegia-brevistyla-2025-10-17T01-14-29-040Z-thumb.jpg"
+  "imageUrl": "/images/plants/aquilegia-brevistyla/aquilegia-brevistyla-2025-10-23T01-26-47-958Z.jpg",
+  "thumbnailUrl": "/images/plants/aquilegia-brevistyla/aquilegia-brevistyla-2025-10-23T01-26-47-958Z-thumb.jpg",
+  "usdaPlantId": "AQBR"
 }

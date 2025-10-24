@@ -72,7 +72,8 @@
   "relationships": {
     "hostPlantTo": [
       "Monarch butterfly",
-      "Queen butterfly"
+      "Queen butterfly",
+      "Danaus plexippus"
     ],
     "foodFor": [
       "butterflies",
@@ -82,7 +83,12 @@
       "pollinator garden",
       "monarch conservation",
       "drought tolerance"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/asclepias-tuberosa/asclepias-tuberosa-2025-10-15T21-06-49-817Z.jpeg"
+  "imageUrl": "/images/plants/asclepias-tuberosa/asclepias-tuberosa-2025-10-23T01-25-54-748Z.jpg",
+  "thumbnailUrl": "/images/plants/asclepias-tuberosa/asclepias-tuberosa-2025-10-23T01-25-54-748Z-thumb.jpg",
+  "usdaPlantId": "ASTUT2"
 }

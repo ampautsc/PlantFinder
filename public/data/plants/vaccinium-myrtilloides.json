@@ -40,8 +40,13 @@
     "usefulFor": [
       "native garden",
       "wildlife habitat"
+    ],
+    "shelterFor": [
+      "amphibians",
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/vaccinium-myrtilloides/vaccinium-myrtilloides-2025-10-17T01-14-21-826Z.jpg",
-  "thumbnailUrl": "/images/plants/vaccinium-myrtilloides/vaccinium-myrtilloides-2025-10-17T01-14-21-826Z-thumb.jpg"
+  "imageUrl": "/images/plants/vaccinium-myrtilloides/vaccinium-myrtilloides-2025-10-23T01-26-41-098Z.jpg",
+  "thumbnailUrl": "/images/plants/vaccinium-myrtilloides/vaccinium-myrtilloides-2025-10-23T01-26-41-098Z-thumb.jpg",
+  "usdaPlantId": "VAMY"
 }

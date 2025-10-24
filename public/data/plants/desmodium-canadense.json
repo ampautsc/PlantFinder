@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/desmodium-canadense/desmodium-canadense-2025-10-17T01-15-38-492Z.jpg",
-  "thumbnailUrl": "/images/plants/desmodium-canadense/desmodium-canadense-2025-10-17T01-15-38-492Z-thumb.jpg"
+  "imageUrl": "/images/plants/desmodium-canadense/desmodium-canadense-2025-10-23T01-27-45-172Z.jpg",
+  "thumbnailUrl": "/images/plants/desmodium-canadense/desmodium-canadense-2025-10-23T01-27-45-172Z-thumb.jpg",
+  "usdaPlantId": "DECA7"
 }

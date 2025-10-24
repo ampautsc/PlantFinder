@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/ceanothus-sanguineus/ceanothus-sanguineus-2025-10-17T01-15-46-272Z.jpg",
-  "thumbnailUrl": "/images/plants/ceanothus-sanguineus/ceanothus-sanguineus-2025-10-17T01-15-46-272Z-thumb.jpg"
+  "imageUrl": "/images/plants/ceanothus-sanguineus/ceanothus-sanguineus-2025-10-23T01-27-49-735Z.jpg",
+  "thumbnailUrl": "/images/plants/ceanothus-sanguineus/ceanothus-sanguineus-2025-10-23T01-27-49-735Z-thumb.jpg",
+  "usdaPlantId": "CESA"
 }

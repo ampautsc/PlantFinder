@@ -40,8 +40,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/polemonium-acutiflorum/polemonium-acutiflorum-2025-10-17T01-15-42-694Z.jpg",
-  "thumbnailUrl": "/images/plants/polemonium-acutiflorum/polemonium-acutiflorum-2025-10-17T01-15-42-694Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/polemonium-acutiflorum/polemonium-acutiflorum-2025-10-17T01-15-42-694Z-thumb.jpg",
+  "usdaPlantId": "POAC"
 }

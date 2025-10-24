@@ -80,8 +80,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
   "imageUrl": "/images/plants/geranium-maculatum/geranium-maculatum-2025-10-17T01-14-14-983Z.jpg",
-  "thumbnailUrl": "/images/plants/geranium-maculatum/geranium-maculatum-2025-10-17T01-14-14-983Z-thumb.jpg"
+  "thumbnailUrl": "/images/plants/geranium-maculatum/geranium-maculatum-2025-10-17T01-14-14-983Z-thumb.jpg",
+  "usdaPlantId": "GEMA"
 }

@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/ambrosia-trifida/ambrosia-trifida-2025-10-17T01-13-23-386Z.jpg",
-  "thumbnailUrl": "/images/plants/ambrosia-trifida/ambrosia-trifida-2025-10-17T01-13-23-386Z-thumb.jpg"
+  "imageUrl": "/images/plants/ambrosia-trifida/ambrosia-trifida-2025-10-23T01-25-47-440Z.jpg",
+  "thumbnailUrl": "/images/plants/ambrosia-trifida/ambrosia-trifida-2025-10-23T01-25-47-440Z-thumb.jpg",
+  "usdaPlantId": "AMTRT2"
 }

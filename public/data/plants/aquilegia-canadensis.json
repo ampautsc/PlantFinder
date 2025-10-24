@@ -78,7 +78,12 @@
       "shade garden",
       "woodland garden",
       "hummingbird garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/aquilegia-canadensis/aquilegia-canadensis-2025-10-15T19-51-18-713Z.jpeg"
+  "imageUrl": "/images/plants/aquilegia-canadensis/aquilegia-canadensis-2025-10-23T01-27-09-949Z.jpg",
+  "thumbnailUrl": "/images/plants/aquilegia-canadensis/aquilegia-canadensis-2025-10-23T01-27-09-949Z-thumb.jpg",
+  "usdaPlantId": "AQCA"
 }

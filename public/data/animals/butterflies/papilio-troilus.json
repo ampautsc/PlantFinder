@@ -1,0 +1,64 @@
+{
+  "id": "papilio-troilus",
+  "commonName": "Spicebush Swallowtail",
+  "scientificName": "Papilio troilus",
+  "description": "Spicebush Swallowtail is a beautiful native butterfly. Caterpillars feed on Lindera benzoin, Sassafras albidum. Important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "medium"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Lindera benzoin",
+      "Sassafras albidum"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "woodlands",
+      "meadows",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Delaware",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Florida",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas"
+  ],
+  "imageUrl": "/images/animals/butterflies/papilio-troilus/papilio-troilus-2025-10-23T19-42-32-574Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/papilio-troilus/papilio-troilus-2025-10-23T19-42-32-574Z-thumb.jpg"
+}

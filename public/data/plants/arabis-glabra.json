@@ -38,8 +38,12 @@
     "usefulFor": [
       "pollinator garden",
       "native garden"
+    ],
+    "shelterFor": [
+      "ground-nesting birds"
     ]
   },
-  "imageUrl": "/images/plants/arabis-glabra/arabis-glabra-2025-10-17T06-25-21-587Z.jpg",
-  "thumbnailUrl": "/images/plants/arabis-glabra/arabis-glabra-2025-10-17T06-25-21-587Z-thumb.jpg"
+  "imageUrl": "/images/plants/arabis-glabra/arabis-glabra-2025-10-23T01-27-28-244Z.jpg",
+  "thumbnailUrl": "/images/plants/arabis-glabra/arabis-glabra-2025-10-23T01-27-28-244Z-thumb.jpg",
+  "usdaPlantId": "ARGL"
 }

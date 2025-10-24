@@ -1,0 +1,89 @@
+{
+  "id": "prunus-virginiana",
+  "commonName": "Chokecherry",
+  "scientificName": "Prunus virginiana",
+  "description": "Native cherry with white flower clusters and dark fruit. Host plant for Eastern Tiger Swallowtail, Red-spotted Purple, and Viceroy butterflies. Fruit attracts many bird species. Adaptable shrub or small tree.",
+  "requirements": {
+    "sun": "full-sun",
+    "moisture": "medium",
+    "soil": "loam"
+  },
+  "characteristics": {
+    "height": 240,
+    "width": 120,
+    "bloomColor": [
+      "white"
+    ],
+    "bloomTime": [
+      "spring"
+    ],
+    "perennial": true,
+    "nativeRange": [
+      "Maine",
+      "New Hampshire",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "West Virginia",
+      "North Carolina",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Indiana",
+      "Illinois",
+      "Michigan",
+      "Wisconsin",
+      "Minnesota",
+      "Iowa",
+      "Missouri",
+      "Kansas",
+      "Nebraska",
+      "South Dakota",
+      "North Dakota",
+      "Montana",
+      "Wyoming",
+      "Colorado",
+      "New Mexico"
+    ],
+    "hardinessZones": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "relationships": {
+    "hostPlantTo": [
+      "Papilio glaucus",
+      "Limenitis arthemis astyanax",
+      "Limenitis archippus"
+    ],
+    "foodFor": [
+      "birds",
+      "butterflies",
+      "bees",
+      "mammals"
+    ],
+    "shelterFor": [
+      "songbirds"
+    ],
+    "usefulFor": [
+      "wildlife habitat",
+      "pollinator garden",
+      "edible fruit"
+    ]
+  },
+  "imageUrl": "/images/plants/prunus-virginiana/prunus-virginiana-2025-10-23T19-46-33-771Z.jpg",
+  "thumbnailUrl": "/images/plants/prunus-virginiana/prunus-virginiana-2025-10-23T19-46-33-771Z-thumb.jpg",
+  "usdaPlantId": "PRVIV"
+}
