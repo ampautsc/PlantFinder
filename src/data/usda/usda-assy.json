@@ -1,252 +1,29 @@
 {
-  "scraped_at": "2025-10-24T16:12:54.280385Z",
+  "scraped_at": "2025-10-24T17:22:28.331071+00:00",
   "scraper_version": "1.0.0",
   "source": "usda",
   "usda_symbol": "ASSY",
-  "plant_data": {
-    "commonName": "Common Milkweed",
-    "scientificName": "Asclepias syriaca",
-    "family": "Apocynaceae",
-    "description": "The most widespread milkweed species with large, fragrant pink-purple flower clusters. Essential host plant for monarch butterflies. Spreads aggressively via rhizomes to form colonies. Has broad, fuzzy leaves and white milky sap. Toxic to livestock due to cardiac glycosides. Seed pods contain silky seeds that disperse on the wind.",
-    "requirements": {
-      "sun": "full-sun",
-      "moisture": "medium",
-      "soil": "loam",
-      "phRange": {
-        "min": 4.5,
-        "max": 7.5,
-        "optimal": [
-          6.0,
-          7.0
-        ]
-      },
-      "droughtTolerance": "medium",
-      "shadeTolerance": "intolerant",
-      "floodTolerance": "low",
-      "fireTolerance": "high",
-      "salinityTolerance": "none"
-    },
-    "characteristics": {
-      "height": 60,
-      "heightRange": {
-        "min": 36,
-        "max": 72,
-        "typical": 60
-      },
-      "width": 36,
-      "bloomColor": [
-        "pink",
-        "purple"
-      ],
-      "bloomTime": [
-        "summer"
-      ],
-      "bloomPeriodDetailed": "June-August",
-      "fruitPeriod": "August-October",
-      "perennial": true,
-      "growthHabit": "forb",
-      "growthRate": "aggressive",
-      "nativeRange": [
-        "Maine",
-        "New Hampshire",
-        "Vermont",
-        "Massachusetts",
-        "Rhode Island",
-        "Connecticut",
-        "New York",
-        "New Jersey",
-        "Pennsylvania",
-        "Delaware",
-        "Maryland",
-        "Virginia",
-        "West Virginia",
-        "North Carolina",
-        "South Carolina",
-        "Georgia",
-        "Ohio",
-        "Indiana",
-        "Illinois",
-        "Michigan",
-        "Wisconsin",
-        "Minnesota",
-        "Iowa",
-        "Missouri",
-        "Kentucky",
-        "Tennessee",
-        "Alabama",
-        "Mississippi",
-        "Arkansas",
-        "Louisiana",
-        "Oklahoma",
-        "Kansas",
-        "Nebraska",
-        "South Dakota",
-        "North Dakota"
-      ],
-      "hardinessZones": [
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9"
-      ]
-    },
-    "relationships": {
-      "hostPlantTo": [
-        "Danaus plexippus (Monarch butterfly)",
-        "Danaus gilippus (Queen butterfly)",
-        "Euchaetes egle (Milkweed Tussock Moth)"
-      ],
-      "foodFor": [
-        "butterflies",
-        "bees",
-        "hummingbirds"
-      ],
-      "usefulFor": [
-        "pollinator garden",
-        "monarch conservation",
-        "naturalized areas",
-        "wildlife habitat",
-        "erosion control",
-        "prairie restoration"
-      ],
-      "shelterFor": [
-        "ground-nesting birds",
-        "beneficial insects"
-      ]
-    },
-    "toxicity": {
-      "livestock": true,
-      "pets": true,
-      "humans": false,
-      "notes": "Contains cardiac glycosides in milky sap. Toxic to livestock and pets. Young shoots, flower buds, and immature seed pods are edible for humans when properly prepared (boiled to remove toxins)."
-    },
-    "propagation": {
-      "methods": [
-        "seed",
-        "rhizome cuttings",
-        "root division"
-      ],
-      "difficulty": "easy",
-      "seedsPerPound": 115000,
-      "seedsPerPod": 150,
-      "seedTreatment": "Cold stratification 30-60 days",
-      "commercialAvailability": "widely available",
-      "bestPlantingSeason": [
-        "fall",
-        "spring"
-      ]
-    },
-    "management": {
-      "maintenanceLevel": "very low",
-      "invasiveness": {
-        "rating": "medium",
-        "notes": "Spreads aggressively via rhizomes in garden settings",
-        "containment": "May need root barriers in formal landscapes"
-      },
-      "establishmentDifficulty": "easy"
-    },
-    "ethnobotanicUses": [
-      "fiber (seed floss for textiles, insulation, life jacket stuffing)",
-      "food (young shoots, flower buds, immature pods after proper preparation)",
-      "medicine (traditional respiratory and skin treatments)",
-      "rubber (latex contains rubber compounds)"
-    ],
-    "companionPlants": [
-      "andropogon-gerardii",
-      "rudbeckia-hirta",
-      "echinacea-purpurea",
-      "solidago-spp",
-      "schizachyrium-scoparium",
-      "monarda-fistulosa",
-      "asclepias-tuberosa"
-    ],
-    "plantCommunity": [
-      "tallgrass prairie",
-      "old field succession"
-    ]
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
   },
-  "extra": {
-    "usdaGrowthForm": "Multiple stems",
-    "temperatureMinimum_F": -40,
-    "temperatureMaximum_F": 100,
-    "precipitationMinimum_inches": 15,
-    "precipitationMaximum_inches": 45,
-    "frostFreeDaysMinimum": 120,
-    "heatZones": [
-      "9",
-      "8",
-      "7",
-      "6",
-      "5",
-      "4",
-      "3",
-      "2",
-      "1"
-    ],
-    "federalConservationStatus": "none",
-    "nectarValue": "very high",
-    "wildlifeSupportedCount": "450+ insect species",
-    "specificWildlifeSupported": [
-      "Labidomera clivicollis (Milkweed Leaf Beetle)",
-      "Oncopeltus fasciatus (Large Milkweed Bug)",
-      "Lygaeus kalmii (Small Milkweed Bug)",
-      "Tetraopes tetrophthalmus (Red Milkweed Beetle)",
-      "Tetraopes tetraophthalmus (Swamp Milkweed Beetle)"
-    ],
-    "livestockForageValue": "none",
-    "palatability": {
-      "grazingAnimals": "not palatable (toxic)",
-      "wildlife": "avoided by most herbivores"
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=ASSY",
+      "fetched_at": "2025-10-24T17:22:29.125226+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
     },
-    "physicalCharacteristics": {
-      "leafArrangement": "opposite",
-      "leafShape": "oblong to ovate",
-      "leafSize": "4-10 inches long, 2-5 inches wide",
-      "leafTexture": "thick, leathery with velvety underside",
-      "flowerType": "complex umbels",
-      "flowerClusterSize": "2-6 inch diameter",
-      "flowerFragrance": "sweet, especially in evening",
-      "fruitType": "follicle (pod)",
-      "fruitSize": "3-5 inches long",
-      "fruitShape": "spindle-shaped with warty exterior",
-      "rootSystem": "deep taproot with extensive lateral rhizomes",
-      "rootDepth": "6-12 feet",
-      "stemType": "herbaceous, hollow",
-      "stemFeatures": "contains milky latex sap"
-    },
-    "habitatTypes": [
-      "old fields",
-      "roadsides",
-      "prairies",
-      "meadows",
-      "open woodlands",
-      "disturbed areas",
-      "fence rows",
-      "railroad rights-of-way"
-    ],
-    "reclamationPotential": "medium",
-    "vegetativeSpreadRate": "rapid",
-    "seedlingVigor": "medium",
-    "commercialProducts": [
-      "milkweed floss for insulation",
-      "seeds for restoration projects",
-      "cut flowers"
-    ]
-  },
-  "metadata": {
-    "source": "usda",
-    "usdaSymbol": "ASSY",
-    "dataCollectionMethod": "manual extraction from USDA resources",
-    "primaryReferences": [
-      "https://plants.usda.gov/home/plantProfile?symbol=ASSY",
-      "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_assy.pdf",
-      "https://plants.usda.gov/DocumentLibrary/factsheet/pdf/fs_assy.pdf"
-    ],
-    "lastUpdated": "2025-10-24T16:12:54.280431Z",
-    "dataQuality": "high",
-    "completeness": "comprehensive"
+    "plant_guide_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_assy.pdf",
+      "size_bytes": 106814,
+      "stored_at": "src/data/usda/usda-assy-plantguide.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    }
   }
 }

@@ -5,11 +5,36 @@ This directory contains plant data sourced from the USDA Plants Database (https:
 ## Purpose
 
 This is a **source data store** that:
-- Preserves data from USDA in a structured format
+- Fetches and preserves raw data from USDA in original format
+- Makes actual HTTP requests to USDA website (not hardcoded data)
+- Downloads PDFs for offline processing
 - Can be updated via batch jobs or GitHub Actions
-- Serves as input for selective extraction into deployment packages
+- Serves as input for future data extraction and transformation
 - Maintains data lineage and traceability
-- Supports merging with data from other sources (iNaturalist, etc.)
+
+## Important Limitations
+
+**USDA Plants Database does NOT provide a public REST API**
+
+The current scraper has these limitations:
+1. **HTML Pages are JavaScript-rendered**: Most plant data is loaded dynamically and not available in the raw HTML
+2. **Limited HTML Parsing**: Only page title and meta tags can be extracted from HTML
+3. **PDFs are Main Data Source**: Plant Guide PDFs contain the most comprehensive data
+4. **Manual USDA Symbols Needed**: Cannot search by scientific name - must provide USDA symbols
+5. **Browser Automation Needed for Full Data**: Complete extraction requires Playwright/Selenium
+
+### What IS Fetched
+- ✅ Plant profile HTML page (limited data extractable)
+- ✅ Plant Guide PDF (comprehensive data, needs PDF parsing)
+- ✅ Fact Sheet PDF (brief data, when available)
+- ✅ Metadata about all fetches (URLs, timestamps, file sizes)
+
+### What IS NOT Fetched (Yet)
+- ❌ Structured plant data from JavaScript-rendered pages
+- ❌ Parsed/extracted content from PDFs
+- ❌ Plant characteristics tables
+- ❌ Distribution maps
+- ❌ Associated species data
 
 ## File Naming Convention
 
@@ -22,7 +47,7 @@ This is a **source data store** that:
 
 ## Data Structure
 
-Each USDA data file follows this structure:
+Each USDA data file contains fetched metadata and references to raw data:
 
 ```json
 {
@@ -30,110 +55,107 @@ Each USDA data file follows this structure:
   "scraper_version": "1.0.0",
   "source": "usda",
   "usda_symbol": "ASSY",
-  "plant_data": {
-    // Standard fields matching PlantFinder data model
-    "commonName": "...",
-    "scientificName": "...",
-    "family": "...",
-    "description": "...",
-    "requirements": { ... },
-    "characteristics": { ... },
-    "relationships": { ... },
-    "toxicity": { ... },
-    "propagation": { ... },
-    "management": { ... },
-    "ethnobotanicUses": [ ... ],
-    "companionPlants": [ ... ]
+  "data": {
+    // Parsed/extracted data (limited without browser automation)
+    "profile": {
+      "title": "...",
+      "meta_description": "...",
+      "note": "..."
+    }
   },
-  "extra": {
-    // USDA-specific or non-standard fields that don't fit the standard model
-    "usdaGrowthForm": "...",
-    "temperatureMinimum_F": ...,
-    "physicalCharacteristics": { ... },
-    "habitatTypes": [ ... ],
-    // ... any other USDA-specific data
-  },
-  "metadata": {
-    "source": "usda",
-    "usdaSymbol": "ASSY",
-    "dataCollectionMethod": "...",
-    "primaryReferences": [ ... ],
-    "lastUpdated": "ISO 8601 timestamp",
-    "dataQuality": "high|medium|low",
-    "completeness": "comprehensive|partial|minimal"
+  "raw_data": {
+    // References to raw data files
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=ASSY",
+      "fetched_at": "timestamp",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON"
+    },
+    "plant_guide_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/...",
+      "size_bytes": 106814,
+      "stored_at": "src/data/usda/usda-assy-plantguide.pdf",
+      "note": "PDF stored separately, use PDF parser to extract"
+    },
+    "fact_sheet_pdf": {
+      // Similar structure if available
+    }
   }
 }
 ```
 
+**Note**: Raw data is stored in original format (HTML, PDF) to avoid data loss during transformation. Future processing can extract structured data from these files.
+
 ## Data Sections
 
-### `plant_data`
-Contains standard fields that map to the PlantFinder data model:
+The JSON file contains two main sections:
 
-- **Basic Info**: commonName, scientificName, family, description
-- **Requirements**: sun, moisture, soil, pH range, tolerances (drought, shade, flood, fire, salinity)
-- **Characteristics**: height, width, bloom colors/time, growth habit/rate, native range, hardiness zones
-- **Relationships**: host plants, food sources, wildlife value, garden uses
-- **Safety**: toxicity information for livestock, pets, humans
-- **Propagation**: methods, difficulty, seed information
-- **Management**: maintenance level, invasiveness, establishment
-- **Cultural**: ethnobotanic uses
-- **Ecology**: companion plants, plant communities
+### `data`
+Contains any parsed/extracted data from the HTML (limited without browser automation):
+- Page title
+- Meta description (if available)
+- Notes about extraction limitations
 
-### `extra`
-Contains USDA-specific data or fields that don't fit the standard model:
+### `raw_data`
+Contains metadata about the raw files that were downloaded:
+- **profile_page**: Information about the HTML page fetch
+- **plant_guide_pdf**: Information about the Plant Guide PDF (if available)
+- **fact_sheet_pdf**: Information about the Fact Sheet PDF (if available)
 
-- Detailed physical characteristics (leaf, flower, fruit, root descriptions)
-- USDA-specific classifications and terminology
-- Precise environmental ranges (temperature, precipitation)
-- Wildlife details beyond standard categories
-- Habitat types and associations
-- Commercial product information
-- Any other USDA-specific metadata
-
-This allows preserving all USDA data without forcing it into a predefined schema.
-
-### `metadata`
-Contains information about the data itself:
-
-- Source and collection method
-- References to original USDA resources
-- Data quality and completeness assessments
-- Timestamps for tracking updates
+Each entry includes:
+- URL of the source
+- Fetch timestamp
+- File size and storage location
+- Notes about the data format and extraction recommendations
 
 ## Data Collection Methods
 
 Since USDA Plants Database doesn't provide a public API, data is collected through:
 
-1. **Manual Extraction** - For high-priority species
-   - Review USDA plant profile pages
-   - Extract data from Plant Guide PDFs
-   - Extract data from Fact Sheet PDFs
+1. **Web Scraping** - Using `scripts/fetch_usda_data.py`
+   - Fetches plant profile HTML pages
+   - Downloads Plant Guide PDFs (when available)
+   - Downloads Fact Sheet PDFs (when available)
+   - Stores raw data in original format
    
-2. **Web Scraping** - For bulk updates (future)
-   - Use browser automation (Playwright/Selenium)
-   - Parse JavaScript-rendered pages
-   - Extract structured data
-
-3. **PDF Parsing** - For detailed information (future)
-   - Download Plant Guide and Fact Sheet PDFs
-   - Extract text and structured data
-   - OCR if needed for older documents
+2. **PDF Parsing** - For detailed information (future enhancement)
+   - Plant Guide PDFs are already downloaded
+   - Can extract text and structured data using PDF parsing libraries
+   - Would provide most comprehensive data
+   
+3. **Browser Automation** - For full data extraction (future enhancement)
+   - USDA pages are JavaScript-rendered
+   - Current scraper gets limited HTML data
+   - Full extraction would require Playwright/Selenium
 
 ## Usage
 
 ### Adding New Plants
 
-Run the fetch script:
+Run the fetch script with USDA plant symbols:
 
 ```bash
-python3 scripts/fetch_usda_data.py
+# Fetch single plant
+python3 scripts/fetch_usda_data.py ASSY
+
+# Fetch multiple plants
+python3 scripts/fetch_usda_data.py ASSY ASTU ECPU
+
+# Specify custom output directory
+python3 scripts/fetch_usda_data.py ASSY --output-dir data/usda
+
+# Quiet mode (suppress output)
+python3 scripts/fetch_usda_data.py ASSY --quiet
 ```
 
-Currently, the script contains manually-curated data. In the future, it can be extended to:
-- Accept command-line arguments for specific plants
-- Scrape data from USDA website automatically
-- Parse PDF documents for additional details
+The script will:
+1. Fetch the plant profile HTML page
+2. Download Plant Guide PDF (if available)
+3. Download Fact Sheet PDF (if available)
+4. Save metadata JSON file with fetch information
+5. Store PDFs separately for later parsing
 
 ### Updating Existing Plants
 
@@ -155,23 +177,25 @@ This allows:
 
 ## Data Quality
 
-### High Quality
-- Manually reviewed and curated
-- Cross-referenced with USDA resources
-- All major fields populated
-- Includes comprehensive extra data
+The current implementation:
 
-### Medium Quality
-- Programmatically extracted
-- Basic validation performed
-- Some fields may be missing
-- Limited extra data
+### Raw Data Quality: High
+- ✅ Authentic HTTP requests to USDA
+- ✅ PDFs downloaded directly from source
+- ✅ Timestamps and metadata tracked
+- ✅ Original format preserved
 
-### Low Quality
-- Automated extraction only
-- Minimal validation
-- Many missing fields
-- No extra data
+### Extracted Data Quality: Low (Currently)
+- ⚠️ HTML parsing extracts minimal data
+- ⚠️ PDF content not yet parsed
+- ⚠️ No structured plant characteristics yet
+- ⚠️ Browser automation not implemented
+
+### Future Improvements Needed
+1. **PDF Parsing**: Extract structured data from Plant Guide PDFs
+2. **Browser Automation**: Use Playwright/Selenium for JavaScript-rendered content
+3. **Data Transformation**: Convert extracted data to PlantFinder schema
+4. **Quality Validation**: Cross-reference with other sources
 
 ## References
 
