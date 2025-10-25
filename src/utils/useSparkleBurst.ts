@@ -3,16 +3,16 @@
  * Used for celebration effects when adding plants to the garden.
  * 
  * @param el - The HTML element to center the burst animation on
- * @param n - Number of sparkle particles to create (default: 600)
+ * @param n - Number of sparkle particles to create (default: 60)
  */
-export function sparkleBurst(el: HTMLElement, n = 600) {
+export function sparkleBurst(el: HTMLElement, n = 60) {
   const rect = el.getBoundingClientRect();
   const cx = rect.left + rect.width / 2;
   const cy = rect.top + rect.height / 2;
   const TAU = Math.PI * 2;
   
   // Constants for sparkle appearance and behavior
-  const DOT_SIZE = 24;
+  const DOT_SIZE = 120;
   const DOT_RADIUS = DOT_SIZE / 2;
   const PLANT_GREEN_WEIGHT = 0.6; // 60% chance of plant green colors
   const PLANT_GREEN_COUNT = 4; // Number of plant green color variants
