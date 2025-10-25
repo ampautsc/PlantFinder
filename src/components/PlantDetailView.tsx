@@ -225,6 +225,20 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     return plant.characteristics.perennial ? 'Perennial' : 'Annual';
   };
 
+  const handleButterflyClick = (butterflyId: string | undefined) => {
+    if (!butterflyId) return;
+    
+    // Convert butterfly ID (e.g., "papilio-polyxenes-asterius") to scientific name for search
+    // The ID is the scientific name in kebab-case format
+    const scientificName = butterflyId.split('-').map((word, index) => 
+      index === 0 ? word.charAt(0).toUpperCase() + word.slice(1) : word
+    ).join(' ');
+    
+    // Open iNaturalist taxa search in a new window
+    const url = `https://www.inaturalist.org/taxa/search?q=${encodeURIComponent(scientificName)}`;
+    window.open(url, '_blank', 'noopener,noreferrer');
+  };
+
   return (
     <div className="plant-detail-overlay" onClick={onClose}>
       <div className="plant-detail-container" onClick={(e) => e.stopPropagation()}>
@@ -343,7 +357,12 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                         
                         // Convert to array and render
                         return Array.from(speciesMap.values()).map(({ commonName, thumbnail }) => (
-                          <div key={commonName} className="host-species-item">
+                          <button
+                            key={commonName}
+                            className="host-species-item"
+                            onClick={() => handleButterflyClick(thumbnail?.id)}
+                            aria-label={`View ${commonName} on iNaturalist`}
+                          >
                             {thumbnail && thumbnail.thumbnailUrl && (
                               <img 
                                 src={thumbnail.thumbnailUrl} 
@@ -353,7 +372,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                               />
                             )}
                             <span className="host-species-name">{commonName}</span>
-                          </div>
+                          </button>
                         ));
                       })()}
                     </div>

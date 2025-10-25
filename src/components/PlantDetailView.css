@@ -321,12 +321,27 @@
   border-radius: 8px;
   border: 1px solid var(--border-color);
   transition: all 0.2s;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  font: inherit;
+  color: inherit;
 }
 
 .host-species-item:hover {
   background-color: var(--hover-background);
   border-color: var(--primary-color);
   transform: translateX(4px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.host-species-item:focus {
+  outline: 2px solid var(--primary-color);
+  outline-offset: 2px;
+}
+
+.host-species-item:active {
+  transform: translateX(2px);
 }
 
 .host-species-thumbnail {
