@@ -7,6 +7,7 @@ import {
   getHostedSpeciesCount,
   getFoodOrShelterGroupsCount,
 } from '../config/plantPrioritization';
+import { stateNamesToFips } from '../utils/fipsUtils';
 
 /**
  * Mock implementation of the Plant API
@@ -105,7 +106,7 @@ export class MockPlantApi implements IPlantApi {
       );
     }
 
-    // Filter by native range
+    // Filter by native range (DEPRECATED - use stateFips/countyFips instead)
     if (filters.nativeRange && filters.nativeRange.length > 0) {
       results = results.filter(plant =>
         plant.characteristics && 
@@ -114,6 +115,39 @@ export class MockPlantApi implements IPlantApi {
           plant.characteristics.nativeRange.includes(range)
         )
       );
+    }
+
+    // Filter by state FIPS codes (NEW)
+    if (filters.stateFips && filters.stateFips.length > 0) {
+      results = results.filter(plant => {
+        // Use distribution data if available
+        if (plant.distribution?.statesFips) {
+          return filters.stateFips!.some(stateFips =>
+            plant.distribution!.statesFips!.includes(stateFips)
+          );
+        }
+        // Fallback to legacy nativeRange using state names
+        if (plant.characteristics?.nativeRange) {
+          const plantStateFips = stateNamesToFips(plant.characteristics.nativeRange);
+          return filters.stateFips!.some(stateFips =>
+            plantStateFips.includes(stateFips)
+          );
+        }
+        return false;
+      });
+    }
+
+    // Filter by county FIPS codes (NEW)
+    if (filters.countyFips && filters.countyFips.length > 0) {
+      results = results.filter(plant => {
+        // Only use distribution data for county-level filtering
+        if (plant.distribution?.fipsCodes) {
+          return filters.countyFips!.some(countyFips =>
+            plant.distribution!.fipsCodes.includes(countyFips)
+          );
+        }
+        return false;
+      });
     }
 
     // Filter by hardiness zones
