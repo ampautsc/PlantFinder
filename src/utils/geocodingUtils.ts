@@ -6,6 +6,8 @@
  * - https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.html
  */
 
+import { FIPS_TO_STATE } from './fipsUtils';
+
 export interface GeocodingResult {
   address: string;
   countyFips: string;
@@ -60,14 +62,24 @@ export async function geocodeAddress(address: string): Promise<GeocodingResult |
     // County FIPS is state FIPS (2 digits) + county FIPS (3 digits)
     const stateFips = county.STATE;
     const countyFips = county.COUNTY;
+    
+    // Validate FIPS format (state should be 2 digits, county should be 3 digits)
+    if (!stateFips || !countyFips || stateFips.length !== 2 || countyFips.length !== 3) {
+      console.warn('Invalid FIPS format in geocoding result:', { stateFips, countyFips });
+      return null;
+    }
+    
     const fullCountyFips = stateFips + countyFips;
 
+    // Get state name from FIPS-to-state mapping
+    const stateName = FIPS_TO_STATE[stateFips] || stateFips;
+    
     return {
       address: match.matchedAddress,
       countyFips: fullCountyFips,
       stateFips: stateFips,
       county: county.NAME,
-      state: county.STATE,
+      state: stateName,
     };
   } catch (error) {
     console.error('Error geocoding address:', error);

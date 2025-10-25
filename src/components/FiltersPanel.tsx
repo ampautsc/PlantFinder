@@ -44,6 +44,14 @@ function FiltersPanel({
   const [locationInput, setLocationInput] = useState<string>(filters.location || '');
   const [geocodingStatus, setGeocodingStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
 
+  // Sync locationInput with filters.location when filters change externally
+  useEffect(() => {
+    setLocationInput(filters.location || '');
+    if (!filters.location) {
+      setGeocodingStatus('idle');
+    }
+  }, [filters.location]);
+
   // Handle click outside to close expansion panel
   useEffect(() => {
     if (!expandedCategory) return;
