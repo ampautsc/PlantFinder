@@ -7,18 +7,16 @@ interface GardenIconProps {
   isInGarden: boolean;
   onAddToGarden: () => void;
   onRemoveFromGarden: () => void;
-  plantName: string;
 }
 
-function GardenIcon({ isInGarden, onAddToGarden, onRemoveFromGarden, plantName }: GardenIconProps) {
+function GardenIcon({ isInGarden, onAddToGarden, onRemoveFromGarden }: GardenIconProps) {
   const [celebrating, setCelebrating] = useState(false);
   const buttonRef = useRef<HTMLButtonElement>(null);
 
   const handleClick = () => {
     if (isInGarden) {
-      if (window.confirm(`Are you sure you want to remove ${plantName} from your garden?`)) {
-        onRemoveFromGarden();
-      }
+      // Simply toggle off without confirmation
+      onRemoveFromGarden();
     } else {
       // Trigger celebration with synchronized audio and visual effects
       setCelebrating(true);

@@ -4,6 +4,7 @@ import './App.css';
 import { Plant, PlantFilters } from './types/Plant';
 import { MockPlantApi } from './api/MockPlantApi';
 import { mockSeedShareService } from './api/MockSeedShareService';
+import { mockGardenService } from './api/MockGardenService';
 import { PlantSeedShareVolume, UserPlantSeedShare } from './types/SeedShare';
 import PlantCard from './components/PlantCard';
 import FiltersPanel from './components/FiltersPanel';
@@ -41,8 +42,23 @@ function App() {
   });
   const [plantVolumes, setPlantVolumes] = useState<Map<string, PlantSeedShareVolume>>(new Map());
   const [userActivities, setUserActivities] = useState<Map<string, UserPlantSeedShare>>(new Map());
+  const [gardenPlants, setGardenPlants] = useState<Set<string>>(new Set());
   const resultsContainerRef = useRef<HTMLDivElement>(null);
   const hasDetectedLocation = useRef(false);
+
+  // Load garden data
+  const loadGardenData = async () => {
+    try {
+      const allGardenPlants = await mockGardenService.getAllGardenPlants();
+      const gardenSet = new Set<string>();
+      allGardenPlants.forEach(plant => {
+        gardenSet.add(plant.plantId);
+      });
+      setGardenPlants(gardenSet);
+    } catch (error) {
+      console.error('Error loading garden data:', error);
+    }
+  };
 
   // Auto-detect location from IP on mount
   useEffect(() => {
@@ -96,6 +112,9 @@ function App() {
       });
       setUserActivities(activityMap);
     });
+
+    // Load garden data
+    loadGardenData();
   }, []);
 
   // Load plants based on filters
@@ -113,6 +132,25 @@ function App() {
       resultsContainerRef.current.scrollTop = 0;
     }
   }, [plants]);
+
+  const handleAddToGarden = async (plantId: string) => {
+    try {
+      await mockGardenService.addToGarden(plantId);
+      await loadGardenData();
+    } catch (error) {
+      console.error('Error adding to garden:', error);
+    }
+  };
+
+  const handleRemoveFromGarden = async (plantId: string) => {
+    try {
+      await mockGardenService.removeFromGarden(plantId);
+      await loadGardenData();
+    } catch (error) {
+      console.error('Error removing from garden:', error);
+    }
+  };
+
 
   const handleSearchChange = (query: string) => {
     setFilters(prev => ({ ...prev, searchQuery: query }));
@@ -183,6 +221,9 @@ function App() {
                   plant={plant} 
                   plantVolume={plantVolumes.get(plant.id) || null}
                   userActivity={userActivities.get(plant.id) || null}
+                  isInGarden={gardenPlants.has(plant.id)}
+                  onAddToGarden={() => handleAddToGarden(plant.id)}
+                  onRemoveFromGarden={() => handleRemoveFromGarden(plant.id)}
                   onClick={() => setSelectedPlant(plant)}
                 />
               ))}
