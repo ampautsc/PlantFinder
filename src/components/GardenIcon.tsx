@@ -6,16 +6,19 @@ import { playBonusSound } from '../utils/playBonusSound';
 interface GardenIconProps {
   isInGarden: boolean;
   onAddToGarden: () => void;
-  onOpenConfig: () => void;
+  onRemoveFromGarden: () => void;
+  plantName: string;
 }
 
-function GardenIcon({ isInGarden, onAddToGarden, onOpenConfig }: GardenIconProps) {
+function GardenIcon({ isInGarden, onAddToGarden, onRemoveFromGarden, plantName }: GardenIconProps) {
   const [celebrating, setCelebrating] = useState(false);
   const buttonRef = useRef<HTMLButtonElement>(null);
 
   const handleClick = () => {
     if (isInGarden) {
-      onOpenConfig();
+      if (window.confirm(`Are you sure you want to remove ${plantName} from your garden?`)) {
+        onRemoveFromGarden();
+      }
     } else {
       // Trigger celebration with synchronized audio and visual effects
       setCelebrating(true);
@@ -46,8 +49,8 @@ function GardenIcon({ isInGarden, onAddToGarden, onOpenConfig }: GardenIconProps
         ref={buttonRef}
         className={`garden-icon-button ${isInGarden ? 'in-garden' : ''} ${celebrating ? 'celebrating' : ''}`}
         onClick={handleClick}
-        aria-label={isInGarden ? 'Configure garden plant' : 'Add to garden'}
-        title={isInGarden ? 'Configure this plant in your garden' : 'Add this plant to your garden'}
+        aria-label={isInGarden ? 'Remove from garden' : 'Add to garden'}
+        title={isInGarden ? 'Remove this plant from your garden' : 'Add this plant to your garden'}
       >
         <img
           src={isInGarden 

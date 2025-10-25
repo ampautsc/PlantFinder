@@ -7,7 +7,6 @@ import { GardenPlant } from '../types/Garden';
 import SeedExchangeOverlay from './SeedExchangeOverlay';
 import MatchTracker from './MatchTracker';
 import GardenIcon from './GardenIcon';
-import GardenConfigDialog from './GardenConfigDialog';
 import { getButterflyThumbnail } from '../data/butterflyThumbnails';
 import './PlantDetailView.css';
 
@@ -33,7 +32,6 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
   });
   const [matches, setMatches] = useState<MatchDetails[]>([]);
   const [gardenPlant, setGardenPlant] = useState<GardenPlant | null>(null);
-  const [showGardenConfig, setShowGardenConfig] = useState(false);
 
   const loadSeedShareData = useCallback(async () => {
     try {
@@ -147,16 +145,6 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     }
   };
 
-  const handleUpdateGardenPlant = async (updates: Partial<Omit<GardenPlant, 'plantId' | 'addedAt'>>) => {
-    try {
-      await mockGardenService.updateGardenPlant(plant.id, updates);
-      await loadGardenData();
-    } catch (error) {
-      console.error('Error updating garden plant:', error);
-      alert(error instanceof Error ? error.message : 'Failed to update garden plant');
-    }
-  };
-
   const handleRemoveFromGarden = async () => {
     try {
       await mockGardenService.removeFromGarden(plant.id);
@@ -253,7 +241,8 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
               <GardenIcon
                 isInGarden={!!gardenPlant}
                 onAddToGarden={handleAddToGarden}
-                onOpenConfig={() => setShowGardenConfig(true)}
+                onRemoveFromGarden={handleRemoveFromGarden}
+                plantName={plant.commonName}
               />
               <SeedExchangeOverlay
                 hasActiveOffer={userActivity.hasActiveOffer}
@@ -275,7 +264,8 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
               <GardenIcon
                 isInGarden={!!gardenPlant}
                 onAddToGarden={handleAddToGarden}
-                onOpenConfig={() => setShowGardenConfig(true)}
+                onRemoveFromGarden={handleRemoveFromGarden}
+                plantName={plant.commonName}
               />
               <SeedExchangeOverlay
                 hasActiveOffer={userActivity.hasActiveOffer}
@@ -574,16 +564,6 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
         </div>
       </div>
       
-      {/* Garden Config Dialog */}
-      {showGardenConfig && gardenPlant && (
-        <GardenConfigDialog
-          gardenPlant={gardenPlant}
-          plantName={plant.commonName}
-          onSave={handleUpdateGardenPlant}
-          onRemove={handleRemoveFromGarden}
-          onClose={() => setShowGardenConfig(false)}
-        />
-      )}
     </div>
   );
 }
