@@ -1,0 +1,625 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+COTIT,Canada,Alberta,01,,
+COTIT,United States,Alabama,01,,
+COTIT,United States,Alabama,01,Colbert,033
+COTIT,United States,Alabama,01,Franklin,059
+COTIT,United States,Alabama,01,Lee,081
+COTIT,United States,Alabama,01,Mobile,097
+COTIT,United States,Alabama,01,Tuscaloosa,125
+COTIT,Canada,Manitoba,03,,
+COTIT,United States,Arizona,04,,
+COTIT,United States,Arizona,04,Coconino,005
+COTIT,United States,Arizona,04,Navajo,017
+COTIT,United States,Arizona,04,Yavapai,025
+COTIT,United States,Arkansas,05,,
+COTIT,United States,Arkansas,05,Arkansas,001
+COTIT,United States,Arkansas,05,Ashley,003
+COTIT,United States,Arkansas,05,Baxter,005
+COTIT,United States,Arkansas,05,Benton,007
+COTIT,United States,Arkansas,05,Bradley,011
+COTIT,United States,Arkansas,05,Calhoun,013
+COTIT,United States,Arkansas,05,Clark,019
+COTIT,United States,Arkansas,05,Clay,021
+COTIT,United States,Arkansas,05,Cleburne,023
+COTIT,United States,Arkansas,05,Cleveland,025
+COTIT,United States,Arkansas,05,Columbia,027
+COTIT,United States,Arkansas,05,Conway,029
+COTIT,United States,Arkansas,05,Craighead,031
+COTIT,United States,Arkansas,05,Crawford,033
+COTIT,United States,Arkansas,05,Crittenden,035
+COTIT,United States,Arkansas,05,Dallas,039
+COTIT,United States,Arkansas,05,Desha,041
+COTIT,United States,Arkansas,05,Drew,043
+COTIT,United States,Arkansas,05,Faulkner,045
+COTIT,United States,Arkansas,05,Franklin,047
+COTIT,United States,Arkansas,05,Garland,051
+COTIT,United States,Arkansas,05,Greene,055
+COTIT,United States,Arkansas,05,Hempstead,057
+COTIT,United States,Arkansas,05,Hot Spring,059
+COTIT,United States,Arkansas,05,Howard,061
+COTIT,United States,Arkansas,05,Jackson,067
+COTIT,United States,Arkansas,05,Jefferson,069
+COTIT,United States,Arkansas,05,Johnson,071
+COTIT,United States,Arkansas,05,Lawrence,075
+COTIT,United States,Arkansas,05,Lee,077
+COTIT,United States,Arkansas,05,Lincoln,079
+COTIT,United States,Arkansas,05,Logan,083
+COTIT,United States,Arkansas,05,Lonoke,085
+COTIT,United States,Arkansas,05,Mississippi,093
+COTIT,United States,Arkansas,05,Monroe,095
+COTIT,United States,Arkansas,05,Montgomery,097
+COTIT,United States,Arkansas,05,Nevada,099
+COTIT,United States,Arkansas,05,Newton,101
+COTIT,United States,Arkansas,05,Ouachita,103
+COTIT,United States,Arkansas,05,Perry,105
+COTIT,United States,Arkansas,05,Phillips,107
+COTIT,United States,Arkansas,05,Pike,109
+COTIT,United States,Arkansas,05,Poinsett,111
+COTIT,United States,Arkansas,05,Polk,113
+COTIT,United States,Arkansas,05,Pope,115
+COTIT,United States,Arkansas,05,Prairie,117
+COTIT,United States,Arkansas,05,Pulaski,119
+COTIT,United States,Arkansas,05,Randolph,121
+COTIT,United States,Arkansas,05,Saline,125
+COTIT,United States,Arkansas,05,Scott,127
+COTIT,United States,Arkansas,05,Searcy,129
+COTIT,United States,Arkansas,05,Sebastian,131
+COTIT,United States,Arkansas,05,Sevier,133
+COTIT,United States,Arkansas,05,St. Francis,123
+COTIT,United States,Arkansas,05,Union,139
+COTIT,United States,Arkansas,05,Van Buren,141
+COTIT,United States,Arkansas,05,Washington,143
+COTIT,United States,Arkansas,05,White,145
+COTIT,United States,Arkansas,05,Woodruff,147
+COTIT,United States,Arkansas,05,Yell,149
+COTIT,United States,California,06,,
+COTIT,United States,California,06,Alameda,001
+COTIT,United States,California,06,Fresno,019
+COTIT,United States,California,06,Madera,039
+COTIT,United States,California,06,Merced,047
+COTIT,United States,California,06,San Joaquin,077
+COTIT,United States,California,06,Santa Cruz,087
+COTIT,United States,California,06,Shasta,089
+COTIT,United States,California,06,Stanislaus,099
+COTIT,United States,California,06,Tulare,107
+COTIT,Canada,Ontario,08,,
+COTIT,United States,Colorado,08,,
+COTIT,United States,Colorado,08,Alamosa,003
+COTIT,United States,Colorado,08,Arapahoe,005
+COTIT,United States,Colorado,08,Boulder,013
+COTIT,United States,Colorado,08,El Paso,041
+COTIT,United States,Colorado,08,Jefferson,059
+COTIT,United States,Colorado,08,Mesa,077
+COTIT,United States,Colorado,08,Phillips,095
+COTIT,United States,Colorado,08,Sedgwick,115
+COTIT,United States,Colorado,08,Washington,121
+COTIT,United States,Connecticut,09,,
+COTIT,United States,Connecticut,09,Fairfield,001
+COTIT,United States,Connecticut,09,New Haven,009
+COTIT,Canada,Quebec,10,,
+COTIT,United States,Delaware,10,,
+COTIT,Canada,Saskatchewan,11,,
+COTIT,United States,District of Columbia,11,,
+COTIT,United States,District of Columbia,11,District of Columbia,001
+COTIT,United States,Florida,12,,
+COTIT,United States,Florida,12,Escambia,033
+COTIT,United States,Florida,12,Highlands,055
+COTIT,United States,Florida,12,Hillsborough,057
+COTIT,United States,Florida,12,Lake,069
+COTIT,United States,Florida,12,Leon,073
+COTIT,United States,Florida,12,Madison,079
+COTIT,United States,Georgia,13,,
+COTIT,United States,Hawaii,15,,
+COTIT,United States,Idaho,16,,
+COTIT,United States,Idaho,16,Payette,075
+COTIT,United States,Idaho,16,Washington,087
+COTIT,United States,Illinois,17,,
+COTIT,United States,Illinois,17,Alexander,003
+COTIT,United States,Illinois,17,Boone,007
+COTIT,United States,Illinois,17,Champaign,019
+COTIT,United States,Illinois,17,Cook,031
+COTIT,United States,Illinois,17,DeKalb,037
+COTIT,United States,Illinois,17,Gallatin,059
+COTIT,United States,Illinois,17,Hamilton,065
+COTIT,United States,Illinois,17,Hancock,067
+COTIT,United States,Illinois,17,Hardin,069
+COTIT,United States,Illinois,17,Henry,073
+COTIT,United States,Illinois,17,Jackson,077
+COTIT,United States,Illinois,17,Lake,097
+COTIT,United States,Illinois,17,Madison,119
+COTIT,United States,Illinois,17,McDonough,109
+COTIT,United States,Illinois,17,McHenry,111
+COTIT,United States,Illinois,17,Ogle,141
+COTIT,United States,Illinois,17,Peoria,143
+COTIT,United States,Illinois,17,Pope,151
+COTIT,United States,Illinois,17,Pulaski,153
+COTIT,United States,Illinois,17,Putnam,155
+COTIT,United States,Illinois,17,Rock Island,161
+COTIT,United States,Illinois,17,Saline,165
+COTIT,United States,Illinois,17,Tazewell,179
+COTIT,United States,Illinois,17,Union,181
+COTIT,United States,Illinois,17,White,193
+COTIT,United States,Illinois,17,Will,197
+COTIT,United States,Illinois,17,Williamson,199
+COTIT,United States,Indiana,18,,
+COTIT,United States,Iowa,19,,
+COTIT,United States,Iowa,19,Ida,093
+COTIT,United States,Iowa,19,Washington,183
+COTIT,United States,Kansas,20,,
+COTIT,United States,Kansas,20,Allen,001
+COTIT,United States,Kansas,20,Anderson,003
+COTIT,United States,Kansas,20,Barber,007
+COTIT,United States,Kansas,20,Barton,009
+COTIT,United States,Kansas,20,Bourbon,011
+COTIT,United States,Kansas,20,Brown,013
+COTIT,United States,Kansas,20,Butler,015
+COTIT,United States,Kansas,20,Chase,017
+COTIT,United States,Kansas,20,Chautauqua,019
+COTIT,United States,Kansas,20,Cherokee,021
+COTIT,United States,Kansas,20,Clark,025
+COTIT,United States,Kansas,20,Clay,027
+COTIT,United States,Kansas,20,Cloud,029
+COTIT,United States,Kansas,20,Coffey,031
+COTIT,United States,Kansas,20,Comanche,033
+COTIT,United States,Kansas,20,Cowley,035
+COTIT,United States,Kansas,20,Crawford,037
+COTIT,United States,Kansas,20,Douglas,045
+COTIT,United States,Kansas,20,Edwards,047
+COTIT,United States,Kansas,20,Ellis,051
+COTIT,United States,Kansas,20,Ellsworth,053
+COTIT,United States,Kansas,20,Ford,057
+COTIT,United States,Kansas,20,Franklin,059
+COTIT,United States,Kansas,20,Gove,063
+COTIT,United States,Kansas,20,Harper,077
+COTIT,United States,Kansas,20,Harvey,079
+COTIT,United States,Kansas,20,Haskell,081
+COTIT,United States,Kansas,20,Kingman,095
+COTIT,United States,Kansas,20,Kiowa,097
+COTIT,United States,Kansas,20,Labette,099
+COTIT,United States,Kansas,20,Lincoln,105
+COTIT,United States,Kansas,20,Linn,107
+COTIT,United States,Kansas,20,Lyon,111
+COTIT,United States,Kansas,20,Marion,115
+COTIT,United States,Kansas,20,Marshall,117
+COTIT,United States,Kansas,20,McPherson,113
+COTIT,United States,Kansas,20,Meade,119
+COTIT,United States,Kansas,20,Miami,121
+COTIT,United States,Kansas,20,Montgomery,125
+COTIT,United States,Kansas,20,Neosho,133
+COTIT,United States,Kansas,20,Pawnee,145
+COTIT,United States,Kansas,20,Phillips,147
+COTIT,United States,Kansas,20,Pottawatomie,149
+COTIT,United States,Kansas,20,Pratt,151
+COTIT,United States,Kansas,20,Reno,155
+COTIT,United States,Kansas,20,Republic,157
+COTIT,United States,Kansas,20,Rice,159
+COTIT,United States,Kansas,20,Riley,161
+COTIT,United States,Kansas,20,Rooks,163
+COTIT,United States,Kansas,20,Rush,165
+COTIT,United States,Kansas,20,Russell,167
+COTIT,United States,Kansas,20,Saline,169
+COTIT,United States,Kansas,20,Sedgwick,173
+COTIT,United States,Kansas,20,Seward,175
+COTIT,United States,Kansas,20,Sheridan,179
+COTIT,United States,Kansas,20,Stafford,185
+COTIT,United States,Kansas,20,Stanton,187
+COTIT,United States,Kansas,20,Stevens,189
+COTIT,United States,Kansas,20,Sumner,191
+COTIT,United States,Kansas,20,Washington,201
+COTIT,United States,Kansas,20,Wichita,203
+COTIT,United States,Kansas,20,Wilson,205
+COTIT,United States,Kansas,20,Woodson,207
+COTIT,United States,Kentucky,21,,
+COTIT,United States,Kentucky,21,Butler,031
+COTIT,United States,Kentucky,21,Calloway,035
+COTIT,United States,Kentucky,21,Graves,083
+COTIT,United States,Kentucky,21,Hardin,093
+COTIT,United States,Kentucky,21,Hickman,105
+COTIT,United States,Kentucky,21,Hopkins,107
+COTIT,United States,Kentucky,21,Larue,123
+COTIT,United States,Kentucky,21,Lewis,135
+COTIT,United States,Kentucky,21,Madison,151
+COTIT,United States,Kentucky,21,Marshall,157
+COTIT,United States,Kentucky,21,Mason,161
+COTIT,United States,Kentucky,21,McCreary,147
+COTIT,United States,Kentucky,21,Rockcastle,203
+COTIT,United States,Kentucky,21,Rowan,205
+COTIT,United States,Kentucky,21,Warren,227
+COTIT,United States,Kentucky,21,Whitley,235
+COTIT,United States,Louisiana,22,,
+COTIT,United States,Louisiana,22,Acadia,001
+COTIT,United States,Louisiana,22,Allen,003
+COTIT,United States,Louisiana,22,Ascension,005
+COTIT,United States,Louisiana,22,Avoyelles,009
+COTIT,United States,Louisiana,22,Beauregard,011
+COTIT,United States,Louisiana,22,Bienville,013
+COTIT,United States,Louisiana,22,Bossier,015
+COTIT,United States,Louisiana,22,Caddo,017
+COTIT,United States,Louisiana,22,Calcasieu,019
+COTIT,United States,Louisiana,22,Caldwell,021
+COTIT,United States,Louisiana,22,Cameron,023
+COTIT,United States,Louisiana,22,Claiborne,027
+COTIT,United States,Louisiana,22,De Soto,031
+COTIT,United States,Louisiana,22,East Baton Rouge,033
+COTIT,United States,Louisiana,22,East Feliciana,037
+COTIT,United States,Louisiana,22,Evangeline,039
+COTIT,United States,Louisiana,22,Franklin,041
+COTIT,United States,Louisiana,22,Grant,043
+COTIT,United States,Louisiana,22,Iberville,047
+COTIT,United States,Louisiana,22,Jackson,049
+COTIT,United States,Louisiana,22,Jefferson,051
+COTIT,United States,Louisiana,22,Lafayette,055
+COTIT,United States,Louisiana,22,LaSalle,059
+COTIT,United States,Louisiana,22,Lincoln,061
+COTIT,United States,Louisiana,22,Livingston,063
+COTIT,United States,Louisiana,22,Madison,065
+COTIT,United States,Louisiana,22,Morehouse,067
+COTIT,United States,Louisiana,22,Natchitoches,069
+COTIT,United States,Louisiana,22,Orleans,071
+COTIT,United States,Louisiana,22,Ouachita,073
+COTIT,United States,Louisiana,22,Rapides,079
+COTIT,United States,Louisiana,22,Red River,081
+COTIT,United States,Louisiana,22,Richland,083
+COTIT,United States,Louisiana,22,Sabine,085
+COTIT,United States,Louisiana,22,St. Charles,089
+COTIT,United States,Louisiana,22,St. Helena,091
+COTIT,United States,Louisiana,22,St. James,093
+COTIT,United States,Louisiana,22,St. Martin,099
+COTIT,United States,Louisiana,22,St. Tammany,103
+COTIT,United States,Louisiana,22,Tangipahoa,105
+COTIT,United States,Louisiana,22,Tensas,107
+COTIT,United States,Louisiana,22,Union,111
+COTIT,United States,Louisiana,22,Vermilion,113
+COTIT,United States,Louisiana,22,Vernon,115
+COTIT,United States,Louisiana,22,Washington,117
+COTIT,United States,Louisiana,22,Webster,119
+COTIT,United States,Louisiana,22,West Baton Rouge,121
+COTIT,United States,Louisiana,22,West Carroll,123
+COTIT,United States,Louisiana,22,West Feliciana,125
+COTIT,United States,Louisiana,22,Winn,127
+COTIT,United States,Maine,23,,
+COTIT,United States,Maine,23,Cumberland,005
+COTIT,United States,Maine,23,Penobscot,019
+COTIT,United States,Maine,23,York,031
+COTIT,United States,Maryland,24,,
+COTIT,United States,Massachusetts,25,,
+COTIT,United States,Massachusetts,25,Berkshire,003
+COTIT,United States,Massachusetts,25,Dukes,007
+COTIT,United States,Massachusetts,25,Essex,009
+COTIT,United States,Massachusetts,25,Hampshire,015
+COTIT,United States,Massachusetts,25,Nantucket,019
+COTIT,United States,Michigan,26,,
+COTIT,United States,Michigan,26,Isabella,073
+COTIT,United States,Michigan,26,Kalamazoo,077
+COTIT,United States,Michigan,26,Lenawee,091
+COTIT,United States,Michigan,26,Wayne,163
+COTIT,United States,Minnesota,27,,
+COTIT,United States,Minnesota,27,Blue Earth,013
+COTIT,United States,Minnesota,27,Dakota,037
+COTIT,United States,Minnesota,27,Hennepin,053
+COTIT,United States,Mississippi,28,,
+COTIT,United States,Mississippi,28,Benton,009
+COTIT,United States,Mississippi,28,Bolivar,011
+COTIT,United States,Mississippi,28,Clarke,023
+COTIT,United States,Mississippi,28,Coahoma,027
+COTIT,United States,Mississippi,28,DeSoto,033
+COTIT,United States,Mississippi,28,Forrest,035
+COTIT,United States,Mississippi,28,Jasper,061
+COTIT,United States,Mississippi,28,Lafayette,071
+COTIT,United States,Mississippi,28,Lauderdale,075
+COTIT,United States,Mississippi,28,Marshall,093
+COTIT,United States,Mississippi,28,Newton,101
+COTIT,United States,Mississippi,28,Panola,107
+COTIT,United States,Mississippi,28,Pearl River,109
+COTIT,United States,Mississippi,28,Pontotoc,115
+COTIT,United States,Mississippi,28,Prentiss,117
+COTIT,United States,Mississippi,28,Tallahatchie,135
+COTIT,United States,Mississippi,28,Tunica,143
+COTIT,United States,Mississippi,28,Union,145
+COTIT,United States,Missouri,29,,
+COTIT,United States,Missouri,29,Barry,009
+COTIT,United States,Missouri,29,Boone,019
+COTIT,United States,Missouri,29,Butler,023
+COTIT,United States,Missouri,29,Cass,037
+COTIT,United States,Missouri,29,Cole,051
+COTIT,United States,Missouri,29,Dallas,059
+COTIT,United States,Missouri,29,Douglas,067
+COTIT,United States,Missouri,29,Howell,091
+COTIT,United States,Missouri,29,Jackson,095
+COTIT,United States,Missouri,29,Jasper,097
+COTIT,United States,Missouri,29,Laclede,105
+COTIT,United States,Missouri,29,New Madrid,143
+COTIT,United States,Missouri,29,Newton,145
+COTIT,United States,Missouri,29,Oregon,149
+COTIT,United States,Missouri,29,Pemiscot,155
+COTIT,United States,Missouri,29,Phelps,161
+COTIT,United States,Missouri,29,Ripley,181
+COTIT,United States,Missouri,29,Schuyler,197
+COTIT,United States,Missouri,29,Scott,201
+COTIT,United States,Missouri,29,St. Louis,189
+COTIT,United States,Missouri,29,Stone,209
+COTIT,United States,Missouri,29,Webster,225
+COTIT,United States,Missouri,29,Wright,229
+COTIT,United States,Montana,30,,
+COTIT,United States,Nebraska,31,,
+COTIT,United States,Nebraska,31,Adams,001
+COTIT,United States,Nebraska,31,Banner,007
+COTIT,United States,Nebraska,31,Boone,011
+COTIT,United States,Nebraska,31,Buffalo,019
+COTIT,United States,Nebraska,31,Chase,029
+COTIT,United States,Nebraska,31,Cherry,031
+COTIT,United States,Nebraska,31,Clay,035
+COTIT,United States,Nebraska,31,Custer,041
+COTIT,United States,Nebraska,31,Dawson,047
+COTIT,United States,Nebraska,31,Deuel,049
+COTIT,United States,Nebraska,31,Douglas,055
+COTIT,United States,Nebraska,31,Dundy,057
+COTIT,United States,Nebraska,31,Fillmore,059
+COTIT,United States,Nebraska,31,Franklin,061
+COTIT,United States,Nebraska,31,Furnas,065
+COTIT,United States,Nebraska,31,Hall,079
+COTIT,United States,Nebraska,31,Hamilton,081
+COTIT,United States,Nebraska,31,Harlan,083
+COTIT,United States,Nebraska,31,Hayes,085
+COTIT,United States,Nebraska,31,Hitchcock,087
+COTIT,United States,Nebraska,31,Holt,089
+COTIT,United States,Nebraska,31,Howard,093
+COTIT,United States,Nebraska,31,Kearney,099
+COTIT,United States,Nebraska,31,Kimball,105
+COTIT,United States,Nebraska,31,Lancaster,109
+COTIT,United States,Nebraska,31,Logan,113
+COTIT,United States,Nebraska,31,Merrick,121
+COTIT,United States,Nebraska,31,Otoe,131
+COTIT,United States,Nebraska,31,Phelps,137
+COTIT,United States,Nebraska,31,Platte,141
+COTIT,United States,Nebraska,31,Polk,143
+COTIT,United States,Nebraska,31,Richardson,147
+COTIT,United States,Nebraska,31,Rock,149
+COTIT,United States,Nebraska,31,Saline,151
+COTIT,United States,Nebraska,31,Saunders,155
+COTIT,United States,Nebraska,31,Seward,159
+COTIT,United States,Nebraska,31,Sherman,163
+COTIT,United States,Nebraska,31,Valley,175
+COTIT,United States,Nebraska,31,Webster,181
+COTIT,United States,Nebraska,31,Wheeler,183
+COTIT,United States,Nebraska,31,York,185
+COTIT,United States,New Jersey,34,,
+COTIT,United States,New Mexico,35,,
+COTIT,United States,New Mexico,35,Cibola,006
+COTIT,United States,New Mexico,35,McKinley,031
+COTIT,United States,New Mexico,35,Valencia,061
+COTIT,United States,New York,36,,
+COTIT,United States,New York,36,Albany,001
+COTIT,United States,New York,36,Cattaraugus,009
+COTIT,United States,New York,36,Monroe,055
+COTIT,United States,New York,36,Ontario,069
+COTIT,United States,New York,36,Rockland,087
+COTIT,United States,New York,36,Saratoga,091
+COTIT,United States,New York,36,Ulster,111
+COTIT,United States,North Carolina,37,,
+COTIT,United States,North Carolina,37,Anson,007
+COTIT,United States,North Carolina,37,Ashe,009
+COTIT,United States,North Carolina,37,Beaufort,013
+COTIT,United States,North Carolina,37,Buncombe,021
+COTIT,United States,North Carolina,37,Burke,023
+COTIT,United States,North Carolina,37,Cabarrus,025
+COTIT,United States,North Carolina,37,Cleveland,045
+COTIT,United States,North Carolina,37,Columbus,047
+COTIT,United States,North Carolina,37,Cumberland,051
+COTIT,United States,North Carolina,37,Duplin,061
+COTIT,United States,North Carolina,37,Edgecombe,065
+COTIT,United States,North Carolina,37,Franklin,069
+COTIT,United States,North Carolina,37,Gaston,071
+COTIT,United States,North Carolina,37,Granville,077
+COTIT,United States,North Carolina,37,Guilford,081
+COTIT,United States,North Carolina,37,Halifax,083
+COTIT,United States,North Carolina,37,Harnett,085
+COTIT,United States,North Carolina,37,Henderson,089
+COTIT,United States,North Carolina,37,Hoke,093
+COTIT,United States,North Carolina,37,Johnston,101
+COTIT,United States,North Carolina,37,Jones,103
+COTIT,United States,North Carolina,37,Lee,105
+COTIT,United States,North Carolina,37,Macon,113
+COTIT,United States,North Carolina,37,Mecklenburg,119
+COTIT,United States,North Carolina,37,Pamlico,137
+COTIT,United States,North Carolina,37,Pasquotank,139
+COTIT,United States,North Carolina,37,Pitt,147
+COTIT,United States,North Carolina,37,Randolph,151
+COTIT,United States,North Carolina,37,Richmond,153
+COTIT,United States,North Carolina,37,Rowan,159
+COTIT,United States,North Carolina,37,Stanly,167
+COTIT,United States,North Carolina,37,Stokes,169
+COTIT,United States,North Carolina,37,Union,179
+COTIT,United States,North Carolina,37,Warren,185
+COTIT,United States,North Carolina,37,Washington,187
+COTIT,United States,North Carolina,37,Wayne,191
+COTIT,United States,North Carolina,37,Wilson,195
+COTIT,United States,North Dakota,38,,
+COTIT,United States,North Dakota,38,Adams,001
+COTIT,United States,North Dakota,38,Bowman,011
+COTIT,United States,North Dakota,38,Cass,017
+COTIT,United States,North Dakota,38,Divide,023
+COTIT,United States,North Dakota,38,Golden Valley,033
+COTIT,United States,North Dakota,38,Grant,037
+COTIT,United States,North Dakota,38,Hettinger,041
+COTIT,United States,North Dakota,38,Richland,077
+COTIT,United States,North Dakota,38,Slope,087
+COTIT,United States,Ohio,39,,
+COTIT,United States,Ohio,39,Ashtabula,007
+COTIT,United States,Ohio,39,Crawford,033
+COTIT,United States,Ohio,39,Cuyahoga,035
+COTIT,United States,Ohio,39,Fairfield,045
+COTIT,United States,Ohio,39,Franklin,049
+COTIT,United States,Ohio,39,Hamilton,061
+COTIT,United States,Ohio,39,Highland,071
+COTIT,United States,Ohio,39,Huron,077
+COTIT,United States,Ohio,39,Jackson,079
+COTIT,United States,Ohio,39,Lake,085
+COTIT,United States,Ohio,39,Lucas,095
+COTIT,United States,Ohio,39,Montgomery,113
+COTIT,United States,Ohio,39,Pickaway,129
+COTIT,United States,Ohio,39,Seneca,147
+COTIT,United States,Oklahoma,40,,
+COTIT,United States,Oklahoma,40,Alfalfa,003
+COTIT,United States,Oklahoma,40,Atoka,005
+COTIT,United States,Oklahoma,40,Beckham,009
+COTIT,United States,Oklahoma,40,Bryan,013
+COTIT,United States,Oklahoma,40,Caddo,015
+COTIT,United States,Oklahoma,40,Carter,019
+COTIT,United States,Oklahoma,40,Cherokee,021
+COTIT,United States,Oklahoma,40,Choctaw,023
+COTIT,United States,Oklahoma,40,Cleveland,027
+COTIT,United States,Oklahoma,40,Coal,029
+COTIT,United States,Oklahoma,40,Comanche,031
+COTIT,United States,Oklahoma,40,Delaware,041
+COTIT,United States,Oklahoma,40,Ellis,045
+COTIT,United States,Oklahoma,40,Garfield,047
+COTIT,United States,Oklahoma,40,Grant,053
+COTIT,United States,Oklahoma,40,Haskell,061
+COTIT,United States,Oklahoma,40,Jackson,065
+COTIT,United States,Oklahoma,40,Jefferson,067
+COTIT,United States,Oklahoma,40,Johnston,069
+COTIT,United States,Oklahoma,40,Kay,071
+COTIT,United States,Oklahoma,40,Kingfisher,073
+COTIT,United States,Oklahoma,40,Kiowa,075
+COTIT,United States,Oklahoma,40,Latimer,077
+COTIT,United States,Oklahoma,40,Le Flore,079
+COTIT,United States,Oklahoma,40,Lincoln,081
+COTIT,United States,Oklahoma,40,Marshall,095
+COTIT,United States,Oklahoma,40,Mayes,097
+COTIT,United States,Oklahoma,40,McCurtain,089
+COTIT,United States,Oklahoma,40,Murray,099
+COTIT,United States,Oklahoma,40,Muskogee,101
+COTIT,United States,Oklahoma,40,Oklahoma,109
+COTIT,United States,Oklahoma,40,Payne,119
+COTIT,United States,Oklahoma,40,Pittsburg,121
+COTIT,United States,Oklahoma,40,Pottawatomie,125
+COTIT,United States,Oklahoma,40,Pushmataha,127
+COTIT,United States,Oklahoma,40,Rogers,131
+COTIT,United States,Oklahoma,40,Sequoyah,135
+COTIT,United States,Oklahoma,40,Tillman,141
+COTIT,United States,Oklahoma,40,Tulsa,143
+COTIT,United States,Oklahoma,40,Washington,147
+COTIT,United States,Oklahoma,40,Woods,151
+COTIT,United States,Oregon,41,,
+COTIT,United States,Pennsylvania,42,,
+COTIT,United States,Pennsylvania,42,Allegheny,003
+COTIT,United States,Pennsylvania,42,Beaver,007
+COTIT,United States,Pennsylvania,42,Bedford,009
+COTIT,United States,Pennsylvania,42,Berks,011
+COTIT,United States,Pennsylvania,42,Blair,013
+COTIT,United States,Pennsylvania,42,Bucks,017
+COTIT,United States,Pennsylvania,42,Chester,029
+COTIT,United States,Pennsylvania,42,Erie,049
+COTIT,United States,Pennsylvania,42,Fayette,051
+COTIT,United States,Pennsylvania,42,Lehigh,077
+COTIT,United States,Pennsylvania,42,Monroe,089
+COTIT,United States,Pennsylvania,42,Montgomery,091
+COTIT,United States,Pennsylvania,42,Northampton,095
+COTIT,United States,Pennsylvania,42,Philadelphia,101
+COTIT,United States,Pennsylvania,42,Washington,125
+COTIT,United States,Pennsylvania,42,Westmoreland,129
+COTIT,United States,Rhode Island,44,,
+COTIT,United States,Rhode Island,44,Providence,007
+COTIT,United States,South Carolina,45,,
+COTIT,United States,South Carolina,45,Abbeville,001
+COTIT,United States,South Carolina,45,Cherokee,021
+COTIT,United States,South Carolina,45,Chester,023
+COTIT,United States,South Carolina,45,Dillon,033
+COTIT,United States,South Carolina,45,Edgefield,037
+COTIT,United States,South Carolina,45,Fairfield,039
+COTIT,United States,South Carolina,45,Greenwood,047
+COTIT,United States,South Carolina,45,Lancaster,057
+COTIT,United States,South Carolina,45,Laurens,059
+COTIT,United States,South Carolina,45,McCormick,065
+COTIT,United States,South Carolina,45,Oconee,073
+COTIT,United States,South Carolina,45,Pickens,077
+COTIT,United States,South Carolina,45,Richland,079
+COTIT,United States,South Carolina,45,Saluda,081
+COTIT,United States,South Carolina,45,Union,087
+COTIT,United States,South Carolina,45,York,091
+COTIT,United States,South Dakota,46,,
+COTIT,United States,Tennessee,47,,
+COTIT,United States,Tennessee,47,Anderson,001
+COTIT,United States,Tennessee,47,Blount,009
+COTIT,United States,Tennessee,47,Bradley,011
+COTIT,United States,Tennessee,47,Campbell,013
+COTIT,United States,Tennessee,47,Cumberland,035
+COTIT,United States,Tennessee,47,Davidson,037
+COTIT,United States,Tennessee,47,Fayette,047
+COTIT,United States,Tennessee,47,Fentress,049
+COTIT,United States,Tennessee,47,Hardin,071
+COTIT,United States,Tennessee,47,Hawkins,073
+COTIT,United States,Tennessee,47,Haywood,075
+COTIT,United States,Tennessee,47,Henderson,077
+COTIT,United States,Tennessee,47,Knox,093
+COTIT,United States,Tennessee,47,Lauderdale,097
+COTIT,United States,Tennessee,47,Lawrence,099
+COTIT,United States,Tennessee,47,Lincoln,103
+COTIT,United States,Tennessee,47,Loudon,105
+COTIT,United States,Tennessee,47,Marshall,117
+COTIT,United States,Tennessee,47,Montgomery,125
+COTIT,United States,Tennessee,47,Morgan,129
+COTIT,United States,Tennessee,47,Obion,131
+COTIT,United States,Tennessee,47,Rhea,143
+COTIT,United States,Tennessee,47,Roane,145
+COTIT,United States,Tennessee,47,Rutherford,149
+COTIT,United States,Tennessee,47,Shelby,157
+COTIT,United States,Tennessee,47,Stewart,161
+COTIT,United States,Tennessee,47,Sumner,165
+COTIT,United States,Tennessee,47,Tipton,167
+COTIT,United States,Tennessee,47,Van Buren,175
+COTIT,United States,Tennessee,47,Wayne,181
+COTIT,United States,Tennessee,47,Weakley,183
+COTIT,United States,Texas,48,,
+COTIT,United States,Texas,48,Aransas,007
+COTIT,United States,Texas,48,Austin,015
+COTIT,United States,Texas,48,Bexar,029
+COTIT,United States,Texas,48,Burnet,053
+COTIT,United States,Texas,48,Harris,201
+COTIT,United States,Texas,48,Llano,299
+COTIT,United States,Texas,48,Robertson,395
+COTIT,United States,Vermont,50,,
+COTIT,United States,Virginia,51,,
+COTIT,United States,Virginia,51,Accomack,001
+COTIT,United States,Virginia,51,Brunswick,025
+COTIT,United States,Virginia,51,Carroll,035
+COTIT,United States,Virginia,51,Chesapeake ,550
+COTIT,United States,Virginia,51,Chesterfield,041
+COTIT,United States,Virginia,51,Clarke,043
+COTIT,United States,Virginia,51,Culpeper,047
+COTIT,United States,Virginia,51,Dinwiddie,053
+COTIT,United States,Virginia,51,Fairfax,059
+COTIT,United States,Virginia,51,Fauquier,061
+COTIT,United States,Virginia,51,Gloucester,073
+COTIT,United States,Virginia,51,Halifax,083
+COTIT,United States,Virginia,51,Hampton ,650
+COTIT,United States,Virginia,51,Henrico,087
+COTIT,United States,Virginia,51,Loudoun,107
+COTIT,United States,Virginia,51,Mecklenburg,117
+COTIT,United States,Virginia,51,Newport News ,700
+COTIT,United States,Virginia,51,Pittsylvania,143
+COTIT,United States,Virginia,51,Prince Edward,147
+COTIT,United States,Virginia,51,Prince George,149
+COTIT,United States,Virginia,51,Southampton,175
+COTIT,United States,Virginia,51,Suffolk ,800
+COTIT,United States,Virginia,51,Virginia Beach ,810
+COTIT,United States,Virginia,51,Warren,187
+COTIT,United States,Virginia,51,York,199
+COTIT,United States,Washington,53,,
+COTIT,United States,West Virginia,54,,
+COTIT,United States,West Virginia,54,Fayette,019
+COTIT,United States,West Virginia,54,Jefferson,037
+COTIT,United States,West Virginia,54,Monongalia,061
+COTIT,United States,Wisconsin,55,,
+COTIT,United States,Wisconsin,55,Columbia,021
+COTIT,United States,Wisconsin,55,Dane,025
+COTIT,United States,Wisconsin,55,Iowa,049
+COTIT,United States,Wisconsin,55,Jefferson,055
+COTIT,United States,Wisconsin,55,Kenosha,059
+COTIT,United States,Wisconsin,55,Milwaukee,079
+COTIT,United States,Wisconsin,55,Washburn,129
+COTIT,United States,Wyoming,56,,
+COTIT,United States,Wyoming,56,Campbell,005
+COTIT,United States,Wyoming,56,Goshen,015

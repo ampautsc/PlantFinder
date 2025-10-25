@@ -1,0 +1,1037 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+MIRIR,Canada,Alberta,01,,
+MIRIR,United States,Alabama,01,,
+MIRIR,Canada,Manitoba,03,,
+MIRIR,Canada,New Brunswick,04,,
+MIRIR,United States,Arkansas,05,,
+MIRIR,United States,Arkansas,05,Baxter,005
+MIRIR,United States,Arkansas,05,Fulton,049
+MIRIR,United States,Arkansas,05,Sharp,135
+MIRIR,United States,California,06,,
+MIRIR,United States,California,06,Stanislaus,099
+MIRIR,Canada,Nova Scotia,07,,
+MIRIR,Canada,Ontario,08,,
+MIRIR,United States,Colorado,08,,
+MIRIR,Canada,Prince Edward Island,09,,
+MIRIR,United States,Connecticut,09,,
+MIRIR,United States,Connecticut,09,Fairfield,001
+MIRIR,United States,Connecticut,09,Hartford,003
+MIRIR,United States,Connecticut,09,Litchfield,005
+MIRIR,United States,Connecticut,09,Middlesex,007
+MIRIR,United States,Connecticut,09,New Haven,009
+MIRIR,United States,Connecticut,09,New London,011
+MIRIR,United States,Connecticut,09,Tolland,013
+MIRIR,United States,Connecticut,09,Windham,015
+MIRIR,Canada,Quebec,10,,
+MIRIR,United States,Delaware,10,,
+MIRIR,United States,Delaware,10,Kent,001
+MIRIR,United States,Delaware,10,New Castle,003
+MIRIR,Canada,Saskatchewan,11,,
+MIRIR,United States,District of Columbia,11,,
+MIRIR,United States,District of Columbia,11,District of Columbia,001
+MIRIR,United States,Georgia,13,,
+MIRIR,United States,Georgia,13,Cherokee,057
+MIRIR,United States,Georgia,13,Clarke,059
+MIRIR,United States,Georgia,13,Elbert,105
+MIRIR,United States,Georgia,13,Fulton,121
+MIRIR,United States,Georgia,13,Gilmer,123
+MIRIR,United States,Georgia,13,Gordon,129
+MIRIR,United States,Georgia,13,Hall,139
+MIRIR,United States,Georgia,13,Meriwether,199
+MIRIR,United States,Georgia,13,Morgan,211
+MIRIR,United States,Georgia,13,Murray,213
+MIRIR,United States,Georgia,13,Oconee,219
+MIRIR,United States,Georgia,13,Rabun,241
+MIRIR,United States,Georgia,13,Spalding,255
+MIRIR,United States,Georgia,13,Troup,285
+MIRIR,United States,Georgia,13,White,311
+MIRIR,United States,Georgia,13,Wilkes,317
+MIRIR,United States,Idaho,16,,
+MIRIR,United States,Idaho,16,Ada,001
+MIRIR,United States,Idaho,16,Canyon,027
+MIRIR,United States,Illinois,17,,
+MIRIR,United States,Illinois,17,Adams,001
+MIRIR,United States,Illinois,17,Alexander,003
+MIRIR,United States,Illinois,17,Bond,005
+MIRIR,United States,Illinois,17,Boone,007
+MIRIR,United States,Illinois,17,Brown,009
+MIRIR,United States,Illinois,17,Bureau,011
+MIRIR,United States,Illinois,17,Calhoun,013
+MIRIR,United States,Illinois,17,Carroll,015
+MIRIR,United States,Illinois,17,Cass,017
+MIRIR,United States,Illinois,17,Champaign,019
+MIRIR,United States,Illinois,17,Christian,021
+MIRIR,United States,Illinois,17,Clark,023
+MIRIR,United States,Illinois,17,Clay,025
+MIRIR,United States,Illinois,17,Coles,029
+MIRIR,United States,Illinois,17,Cook,031
+MIRIR,United States,Illinois,17,Crawford,033
+MIRIR,United States,Illinois,17,Cumberland,035
+MIRIR,United States,Illinois,17,De Witt,039
+MIRIR,United States,Illinois,17,DeKalb,037
+MIRIR,United States,Illinois,17,Douglas,041
+MIRIR,United States,Illinois,17,DuPage,043
+MIRIR,United States,Illinois,17,Edgar,045
+MIRIR,United States,Illinois,17,Edwards,047
+MIRIR,United States,Illinois,17,Effingham,049
+MIRIR,United States,Illinois,17,Fayette,051
+MIRIR,United States,Illinois,17,Ford,053
+MIRIR,United States,Illinois,17,Fulton,057
+MIRIR,United States,Illinois,17,Greene,061
+MIRIR,United States,Illinois,17,Grundy,063
+MIRIR,United States,Illinois,17,Hamilton,065
+MIRIR,United States,Illinois,17,Hancock,067
+MIRIR,United States,Illinois,17,Hardin,069
+MIRIR,United States,Illinois,17,Henderson,071
+MIRIR,United States,Illinois,17,Henry,073
+MIRIR,United States,Illinois,17,Iroquois,075
+MIRIR,United States,Illinois,17,Jackson,077
+MIRIR,United States,Illinois,17,Jasper,079
+MIRIR,United States,Illinois,17,Jersey,083
+MIRIR,United States,Illinois,17,Jo Daviess,085
+MIRIR,United States,Illinois,17,Kane,089
+MIRIR,United States,Illinois,17,Kankakee,091
+MIRIR,United States,Illinois,17,Kendall,093
+MIRIR,United States,Illinois,17,Knox,095
+MIRIR,United States,Illinois,17,Lake,097
+MIRIR,United States,Illinois,17,LaSalle,099
+MIRIR,United States,Illinois,17,Lawrence,101
+MIRIR,United States,Illinois,17,Lee,103
+MIRIR,United States,Illinois,17,Livingston,105
+MIRIR,United States,Illinois,17,Logan,107
+MIRIR,United States,Illinois,17,Macon,115
+MIRIR,United States,Illinois,17,Macoupin,117
+MIRIR,United States,Illinois,17,Madison,119
+MIRIR,United States,Illinois,17,Marion,121
+MIRIR,United States,Illinois,17,Marshall,123
+MIRIR,United States,Illinois,17,Mason,125
+MIRIR,United States,Illinois,17,Massac,127
+MIRIR,United States,Illinois,17,McDonough,109
+MIRIR,United States,Illinois,17,McHenry,111
+MIRIR,United States,Illinois,17,McLean,113
+MIRIR,United States,Illinois,17,Menard,129
+MIRIR,United States,Illinois,17,Mercer,131
+MIRIR,United States,Illinois,17,Morgan,137
+MIRIR,United States,Illinois,17,Moultrie,139
+MIRIR,United States,Illinois,17,Ogle,141
+MIRIR,United States,Illinois,17,Peoria,143
+MIRIR,United States,Illinois,17,Piatt,147
+MIRIR,United States,Illinois,17,Pike,149
+MIRIR,United States,Illinois,17,Pope,151
+MIRIR,United States,Illinois,17,Putnam,155
+MIRIR,United States,Illinois,17,Richland,159
+MIRIR,United States,Illinois,17,Rock Island,161
+MIRIR,United States,Illinois,17,Sangamon,167
+MIRIR,United States,Illinois,17,Schuyler,169
+MIRIR,United States,Illinois,17,Scott,171
+MIRIR,United States,Illinois,17,Shelby,173
+MIRIR,United States,Illinois,17,St. Clair,163
+MIRIR,United States,Illinois,17,Stark,175
+MIRIR,United States,Illinois,17,Tazewell,179
+MIRIR,United States,Illinois,17,Union,181
+MIRIR,United States,Illinois,17,Vermilion,183
+MIRIR,United States,Illinois,17,Wabash,185
+MIRIR,United States,Illinois,17,Wayne,191
+MIRIR,United States,Illinois,17,Whiteside,195
+MIRIR,United States,Illinois,17,Will,197
+MIRIR,United States,Illinois,17,Winnebago,201
+MIRIR,United States,Illinois,17,Woodford,203
+MIRIR,United States,Indiana,18,,
+MIRIR,United States,Indiana,18,Allen,003
+MIRIR,United States,Indiana,18,Blackford,009
+MIRIR,United States,Indiana,18,Boone,011
+MIRIR,United States,Indiana,18,Brown,013
+MIRIR,United States,Indiana,18,Carroll,015
+MIRIR,United States,Indiana,18,Cass,017
+MIRIR,United States,Indiana,18,Clark,019
+MIRIR,United States,Indiana,18,Clay,021
+MIRIR,United States,Indiana,18,Clinton,023
+MIRIR,United States,Indiana,18,Crawford,025
+MIRIR,United States,Indiana,18,Daviess,027
+MIRIR,United States,Indiana,18,Dearborn,029
+MIRIR,United States,Indiana,18,Decatur,031
+MIRIR,United States,Indiana,18,DeKalb,033
+MIRIR,United States,Indiana,18,Delaware,035
+MIRIR,United States,Indiana,18,Elkhart,039
+MIRIR,United States,Indiana,18,Fayette,041
+MIRIR,United States,Indiana,18,Fountain,045
+MIRIR,United States,Indiana,18,Fulton,049
+MIRIR,United States,Indiana,18,Gibson,051
+MIRIR,United States,Indiana,18,Grant,053
+MIRIR,United States,Indiana,18,Greene,055
+MIRIR,United States,Indiana,18,Hamilton,057
+MIRIR,United States,Indiana,18,Hendricks,063
+MIRIR,United States,Indiana,18,Henry,065
+MIRIR,United States,Indiana,18,Howard,067
+MIRIR,United States,Indiana,18,Huntington,069
+MIRIR,United States,Indiana,18,Jasper,073
+MIRIR,United States,Indiana,18,Jefferson,077
+MIRIR,United States,Indiana,18,Jennings,079
+MIRIR,United States,Indiana,18,Johnson,081
+MIRIR,United States,Indiana,18,Knox,083
+MIRIR,United States,Indiana,18,Kosciusko,085
+MIRIR,United States,Indiana,18,Lagrange,087
+MIRIR,United States,Indiana,18,Lake,089
+MIRIR,United States,Indiana,18,LaPorte,091
+MIRIR,United States,Indiana,18,Lawrence,093
+MIRIR,United States,Indiana,18,Madison,095
+MIRIR,United States,Indiana,18,Marion,097
+MIRIR,United States,Indiana,18,Marshall,099
+MIRIR,United States,Indiana,18,Miami,103
+MIRIR,United States,Indiana,18,Montgomery,107
+MIRIR,United States,Indiana,18,Newton,111
+MIRIR,United States,Indiana,18,Noble,113
+MIRIR,United States,Indiana,18,Owen,119
+MIRIR,United States,Indiana,18,Parke,121
+MIRIR,United States,Indiana,18,Porter,127
+MIRIR,United States,Indiana,18,Pulaski,131
+MIRIR,United States,Indiana,18,Putnam,133
+MIRIR,United States,Indiana,18,Randolph,135
+MIRIR,United States,Indiana,18,Shelby,145
+MIRIR,United States,Indiana,18,St. Joseph,141
+MIRIR,United States,Indiana,18,Starke,149
+MIRIR,United States,Indiana,18,Steuben,151
+MIRIR,United States,Indiana,18,Sullivan,153
+MIRIR,United States,Indiana,18,Switzerland,155
+MIRIR,United States,Indiana,18,Tippecanoe,157
+MIRIR,United States,Indiana,18,Tipton,159
+MIRIR,United States,Indiana,18,Vermillion,165
+MIRIR,United States,Indiana,18,Vigo,167
+MIRIR,United States,Indiana,18,Wabash,169
+MIRIR,United States,Indiana,18,Warren,171
+MIRIR,United States,Indiana,18,Warrick,173
+MIRIR,United States,Indiana,18,Washington,175
+MIRIR,United States,Indiana,18,Wayne,177
+MIRIR,United States,Indiana,18,Wells,179
+MIRIR,United States,Indiana,18,White,181
+MIRIR,United States,Indiana,18,Whitley,183
+MIRIR,United States,Iowa,19,,
+MIRIR,United States,Iowa,19,Carroll,027
+MIRIR,United States,Iowa,19,Cass,029
+MIRIR,United States,Iowa,19,Fremont,071
+MIRIR,United States,Iowa,19,Greene,073
+MIRIR,United States,Iowa,19,Guthrie,077
+MIRIR,United States,Iowa,19,Lyon,119
+MIRIR,United States,Iowa,19,Madison,121
+MIRIR,United States,Iowa,19,Osceola,143
+MIRIR,United States,Iowa,19,Ringgold,159
+MIRIR,United States,Iowa,19,Shelby,165
+MIRIR,United States,Iowa,19,Story,169
+MIRIR,United States,Iowa,19,Washington,183
+MIRIR,United States,Iowa,19,Webster,187
+MIRIR,United States,Kansas,20,,
+MIRIR,United States,Kansas,20,Anderson,003
+MIRIR,United States,Kansas,20,Atchison,005
+MIRIR,United States,Kansas,20,Brown,013
+MIRIR,United States,Kansas,20,Clay,027
+MIRIR,United States,Kansas,20,Cloud,029
+MIRIR,United States,Kansas,20,Doniphan,043
+MIRIR,United States,Kansas,20,Douglas,045
+MIRIR,United States,Kansas,20,Jefferson,087
+MIRIR,United States,Kansas,20,Johnson,091
+MIRIR,United States,Kansas,20,Leavenworth,103
+MIRIR,United States,Kansas,20,Lincoln,105
+MIRIR,United States,Kansas,20,Lyon,111
+MIRIR,United States,Kansas,20,Miami,121
+MIRIR,United States,Kansas,20,Osage,139
+MIRIR,United States,Kansas,20,Pottawatomie,149
+MIRIR,United States,Kansas,20,Republic,157
+MIRIR,United States,Kansas,20,Riley,161
+MIRIR,United States,Kansas,20,Shawnee,177
+MIRIR,United States,Kansas,20,Wabaunsee,197
+MIRIR,United States,Kentucky,21,,
+MIRIR,United States,Kentucky,21,Bath,011
+MIRIR,United States,Kentucky,21,Bell,013
+MIRIR,United States,Kentucky,21,Boone,015
+MIRIR,United States,Kentucky,21,Boyd,019
+MIRIR,United States,Kentucky,21,Boyle,021
+MIRIR,United States,Kentucky,21,Bracken,023
+MIRIR,United States,Kentucky,21,Breathitt,025
+MIRIR,United States,Kentucky,21,Bullitt,029
+MIRIR,United States,Kentucky,21,Calloway,035
+MIRIR,United States,Kentucky,21,Campbell,037
+MIRIR,United States,Kentucky,21,Carter,043
+MIRIR,United States,Kentucky,21,Casey,045
+MIRIR,United States,Kentucky,21,Estill,065
+MIRIR,United States,Kentucky,21,Franklin,073
+MIRIR,United States,Kentucky,21,Greenup,089
+MIRIR,United States,Kentucky,21,Hardin,093
+MIRIR,United States,Kentucky,21,Jackson,109
+MIRIR,United States,Kentucky,21,Jefferson,111
+MIRIR,United States,Kentucky,21,Johnson,115
+MIRIR,United States,Kentucky,21,Kenton,117
+MIRIR,United States,Kentucky,21,Knox,121
+MIRIR,United States,Kentucky,21,Letcher,133
+MIRIR,United States,Kentucky,21,Lewis,135
+MIRIR,United States,Kentucky,21,Madison,151
+MIRIR,United States,Kentucky,21,McCreary,147
+MIRIR,United States,Kentucky,21,Menifee,165
+MIRIR,United States,Kentucky,21,Mercer,167
+MIRIR,United States,Kentucky,21,Montgomery,173
+MIRIR,United States,Kentucky,21,Oldham,185
+MIRIR,United States,Kentucky,21,Perry,193
+MIRIR,United States,Kentucky,21,Powell,197
+MIRIR,United States,Kentucky,21,Rockcastle,203
+MIRIR,United States,Kentucky,21,Rowan,205
+MIRIR,United States,Kentucky,21,Whitley,235
+MIRIR,United States,Kentucky,21,Wolfe,237
+MIRIR,United States,Louisiana,22,,
+MIRIR,United States,Louisiana,22,Concordia,029
+MIRIR,United States,Louisiana,22,East Baton Rouge,033
+MIRIR,United States,Louisiana,22,East Feliciana,037
+MIRIR,United States,Louisiana,22,St. Charles,089
+MIRIR,United States,Louisiana,22,St. Mary,101
+MIRIR,United States,Louisiana,22,Tensas,107
+MIRIR,United States,Maine,23,,
+MIRIR,United States,Maryland,24,,
+MIRIR,United States,Massachusetts,25,,
+MIRIR,United States,Massachusetts,25,Barnstable,001
+MIRIR,United States,Massachusetts,25,Berkshire,003
+MIRIR,United States,Massachusetts,25,Bristol,005
+MIRIR,United States,Massachusetts,25,Dukes,007
+MIRIR,United States,Massachusetts,25,Essex,009
+MIRIR,United States,Massachusetts,25,Franklin,011
+MIRIR,United States,Massachusetts,25,Hampden,013
+MIRIR,United States,Massachusetts,25,Hampshire,015
+MIRIR,United States,Massachusetts,25,Middlesex,017
+MIRIR,United States,Massachusetts,25,Norfolk,021
+MIRIR,United States,Massachusetts,25,Plymouth,023
+MIRIR,United States,Massachusetts,25,Suffolk,025
+MIRIR,United States,Massachusetts,25,Worcester,027
+MIRIR,United States,Michigan,26,,
+MIRIR,United States,Michigan,26,Alcona,001
+MIRIR,United States,Michigan,26,Allegan,005
+MIRIR,United States,Michigan,26,Alpena,007
+MIRIR,United States,Michigan,26,Arenac,011
+MIRIR,United States,Michigan,26,Baraga,013
+MIRIR,United States,Michigan,26,Bay,017
+MIRIR,United States,Michigan,26,Benzie,019
+MIRIR,United States,Michigan,26,Berrien,021
+MIRIR,United States,Michigan,26,Branch,023
+MIRIR,United States,Michigan,26,Calhoun,025
+MIRIR,United States,Michigan,26,Cass,027
+MIRIR,United States,Michigan,26,Charlevoix,029
+MIRIR,United States,Michigan,26,Cheboygan,031
+MIRIR,United States,Michigan,26,Chippewa,033
+MIRIR,United States,Michigan,26,Clare,035
+MIRIR,United States,Michigan,26,Crawford,039
+MIRIR,United States,Michigan,26,Delta,041
+MIRIR,United States,Michigan,26,Eaton,045
+MIRIR,United States,Michigan,26,Emmet,047
+MIRIR,United States,Michigan,26,Genesee,049
+MIRIR,United States,Michigan,26,Gogebic,053
+MIRIR,United States,Michigan,26,Grand Traverse,055
+MIRIR,United States,Michigan,26,Gratiot,057
+MIRIR,United States,Michigan,26,Hillsdale,059
+MIRIR,United States,Michigan,26,Houghton,061
+MIRIR,United States,Michigan,26,Ingham,065
+MIRIR,United States,Michigan,26,Ionia,067
+MIRIR,United States,Michigan,26,Iosco,069
+MIRIR,United States,Michigan,26,Iron,071
+MIRIR,United States,Michigan,26,Isabella,073
+MIRIR,United States,Michigan,26,Jackson,075
+MIRIR,United States,Michigan,26,Kalamazoo,077
+MIRIR,United States,Michigan,26,Kent,081
+MIRIR,United States,Michigan,26,Keweenaw,083
+MIRIR,United States,Michigan,26,Leelanau,089
+MIRIR,United States,Michigan,26,Lenawee,091
+MIRIR,United States,Michigan,26,Livingston,093
+MIRIR,United States,Michigan,26,Mackinac,097
+MIRIR,United States,Michigan,26,Macomb,099
+MIRIR,United States,Michigan,26,Manistee,101
+MIRIR,United States,Michigan,26,Marquette,103
+MIRIR,United States,Michigan,26,Mason,105
+MIRIR,United States,Michigan,26,Menominee,109
+MIRIR,United States,Michigan,26,Midland,111
+MIRIR,United States,Michigan,26,Missaukee,113
+MIRIR,United States,Michigan,26,Monroe,115
+MIRIR,United States,Michigan,26,Montcalm,117
+MIRIR,United States,Michigan,26,Montmorency,119
+MIRIR,United States,Michigan,26,Muskegon,121
+MIRIR,United States,Michigan,26,Oakland,125
+MIRIR,United States,Michigan,26,Oceana,127
+MIRIR,United States,Michigan,26,Ogemaw,129
+MIRIR,United States,Michigan,26,Ontonagon,131
+MIRIR,United States,Michigan,26,Osceola,133
+MIRIR,United States,Michigan,26,Otsego,137
+MIRIR,United States,Michigan,26,Ottawa,139
+MIRIR,United States,Michigan,26,Presque Isle,141
+MIRIR,United States,Michigan,26,Roscommon,143
+MIRIR,United States,Michigan,26,Saginaw,145
+MIRIR,United States,Michigan,26,Sanilac,151
+MIRIR,United States,Michigan,26,Schoolcraft,153
+MIRIR,United States,Michigan,26,Shiawassee,155
+MIRIR,United States,Michigan,26,St. Clair,147
+MIRIR,United States,Michigan,26,St. Joseph,149
+MIRIR,United States,Michigan,26,Tuscola,157
+MIRIR,United States,Michigan,26,Van Buren,159
+MIRIR,United States,Michigan,26,Washtenaw,161
+MIRIR,United States,Michigan,26,Wayne,163
+MIRIR,United States,Minnesota,27,,
+MIRIR,United States,Minnesota,27,Aitkin,001
+MIRIR,United States,Minnesota,27,Anoka,003
+MIRIR,United States,Minnesota,27,Beltrami,007
+MIRIR,United States,Minnesota,27,Benton,009
+MIRIR,United States,Minnesota,27,Big Stone,011
+MIRIR,United States,Minnesota,27,Blue Earth,013
+MIRIR,United States,Minnesota,27,Brown,015
+MIRIR,United States,Minnesota,27,Carlton,017
+MIRIR,United States,Minnesota,27,Carver,019
+MIRIR,United States,Minnesota,27,Cass,021
+MIRIR,United States,Minnesota,27,Chippewa,023
+MIRIR,United States,Minnesota,27,Chisago,025
+MIRIR,United States,Minnesota,27,Clay,027
+MIRIR,United States,Minnesota,27,Clearwater,029
+MIRIR,United States,Minnesota,27,Cook,031
+MIRIR,United States,Minnesota,27,Crow Wing,035
+MIRIR,United States,Minnesota,27,Dakota,037
+MIRIR,United States,Minnesota,27,Fillmore,045
+MIRIR,United States,Minnesota,27,Goodhue,049
+MIRIR,United States,Minnesota,27,Hennepin,053
+MIRIR,United States,Minnesota,27,Houston,055
+MIRIR,United States,Minnesota,27,Hubbard,057
+MIRIR,United States,Minnesota,27,Isanti,059
+MIRIR,United States,Minnesota,27,Itasca,061
+MIRIR,United States,Minnesota,27,Jackson,063
+MIRIR,United States,Minnesota,27,Kanabec,065
+MIRIR,United States,Minnesota,27,Kandiyohi,067
+MIRIR,United States,Minnesota,27,Kittson,069
+MIRIR,United States,Minnesota,27,Koochiching,071
+MIRIR,United States,Minnesota,27,Lac qui Parle,073
+MIRIR,United States,Minnesota,27,Lake,075
+MIRIR,United States,Minnesota,27,Lake of the Woods,077
+MIRIR,United States,Minnesota,27,Lyon,083
+MIRIR,United States,Minnesota,27,Martin,091
+MIRIR,United States,Minnesota,27,Meeker,093
+MIRIR,United States,Minnesota,27,Mille Lacs,095
+MIRIR,United States,Minnesota,27,Morrison,097
+MIRIR,United States,Minnesota,27,Mower,099
+MIRIR,United States,Minnesota,27,Nicollet,103
+MIRIR,United States,Minnesota,27,Norman,107
+MIRIR,United States,Minnesota,27,Olmsted,109
+MIRIR,United States,Minnesota,27,Pennington,113
+MIRIR,United States,Minnesota,27,Pine,115
+MIRIR,United States,Minnesota,27,Pipestone,117
+MIRIR,United States,Minnesota,27,Polk,119
+MIRIR,United States,Minnesota,27,Pope,121
+MIRIR,United States,Minnesota,27,Ramsey,123
+MIRIR,United States,Minnesota,27,Red Lake,125
+MIRIR,United States,Minnesota,27,Redwood,127
+MIRIR,United States,Minnesota,27,Rice,131
+MIRIR,United States,Minnesota,27,Rock,133
+MIRIR,United States,Minnesota,27,Roseau,135
+MIRIR,United States,Minnesota,27,Scott,139
+MIRIR,United States,Minnesota,27,Sherburne,141
+MIRIR,United States,Minnesota,27,St. Louis,137
+MIRIR,United States,Minnesota,27,Stearns,145
+MIRIR,United States,Minnesota,27,Steele,147
+MIRIR,United States,Minnesota,27,Swift,151
+MIRIR,United States,Minnesota,27,Todd,153
+MIRIR,United States,Minnesota,27,Traverse,155
+MIRIR,United States,Minnesota,27,Wabasha,157
+MIRIR,United States,Minnesota,27,Waseca,161
+MIRIR,United States,Minnesota,27,Washington,163
+MIRIR,United States,Minnesota,27,Wilkin,167
+MIRIR,United States,Minnesota,27,Winona,169
+MIRIR,United States,Minnesota,27,Wright,171
+MIRIR,United States,Mississippi,28,,
+MIRIR,United States,Mississippi,28,Benton,009
+MIRIR,United States,Mississippi,28,Choctaw,019
+MIRIR,United States,Mississippi,28,Marshall,093
+MIRIR,United States,Missouri,29,,
+MIRIR,United States,Missouri,29,Adair,001
+MIRIR,United States,Missouri,29,Andrew,003
+MIRIR,United States,Missouri,29,Atchison,005
+MIRIR,United States,Missouri,29,Barton,011
+MIRIR,United States,Missouri,29,Boone,019
+MIRIR,United States,Missouri,29,Buchanan,021
+MIRIR,United States,Missouri,29,Butler,023
+MIRIR,United States,Missouri,29,Callaway,027
+MIRIR,United States,Missouri,29,Camden,029
+MIRIR,United States,Missouri,29,Carroll,033
+MIRIR,United States,Missouri,29,Carter,035
+MIRIR,United States,Missouri,29,Clark,045
+MIRIR,United States,Missouri,29,Clay,047
+MIRIR,United States,Missouri,29,Cooper,053
+MIRIR,United States,Missouri,29,Crawford,055
+MIRIR,United States,Missouri,29,Dade,057
+MIRIR,United States,Missouri,29,Daviess,061
+MIRIR,United States,Missouri,29,Dent,065
+MIRIR,United States,Missouri,29,Douglas,067
+MIRIR,United States,Missouri,29,Franklin,071
+MIRIR,United States,Missouri,29,Gentry,075
+MIRIR,United States,Missouri,29,Greene,077
+MIRIR,United States,Missouri,29,Grundy,079
+MIRIR,United States,Missouri,29,Harrison,081
+MIRIR,United States,Missouri,29,Hickory,085
+MIRIR,United States,Missouri,29,Holt,087
+MIRIR,United States,Missouri,29,Howell,091
+MIRIR,United States,Missouri,29,Iron,093
+MIRIR,United States,Missouri,29,Jackson,095
+MIRIR,United States,Missouri,29,Jasper,097
+MIRIR,United States,Missouri,29,Jefferson,099
+MIRIR,United States,Missouri,29,Johnson,101
+MIRIR,United States,Missouri,29,Laclede,105
+MIRIR,United States,Missouri,29,Lafayette,107
+MIRIR,United States,Missouri,29,Lawrence,109
+MIRIR,United States,Missouri,29,Lincoln,113
+MIRIR,United States,Missouri,29,Livingston,117
+MIRIR,United States,Missouri,29,Madison,123
+MIRIR,United States,Missouri,29,Marion,127
+MIRIR,United States,Missouri,29,Moniteau,135
+MIRIR,United States,Missouri,29,New Madrid,143
+MIRIR,United States,Missouri,29,Newton,145
+MIRIR,United States,Missouri,29,Nodaway,147
+MIRIR,United States,Missouri,29,Oregon,149
+MIRIR,United States,Missouri,29,Osage,151
+MIRIR,United States,Missouri,29,Pemiscot,155
+MIRIR,United States,Missouri,29,Perry,157
+MIRIR,United States,Missouri,29,Phelps,161
+MIRIR,United States,Missouri,29,Polk,167
+MIRIR,United States,Missouri,29,Ray,177
+MIRIR,United States,Missouri,29,Reynolds,179
+MIRIR,United States,Missouri,29,Saline,195
+MIRIR,United States,Missouri,29,Scott,201
+MIRIR,United States,Missouri,29,Shannon,203
+MIRIR,United States,Missouri,29,St. Francois,187
+MIRIR,United States,Missouri,29,St. Louis,189
+MIRIR,United States,Missouri,29,Ste. Genevieve,186
+MIRIR,United States,Missouri,29,Sullivan,211
+MIRIR,United States,Missouri,29,Texas,215
+MIRIR,United States,Missouri,29,Washington,221
+MIRIR,United States,Missouri,29,Webster,225
+MIRIR,United States,Missouri,29,Wright,229
+MIRIR,United States,Montana,30,,
+MIRIR,United States,Nebraska,31,,
+MIRIR,United States,Nebraska,31,Boyd,015
+MIRIR,United States,Nebraska,31,Brown,017
+MIRIR,United States,Nebraska,31,Buffalo,019
+MIRIR,United States,Nebraska,31,Butler,023
+MIRIR,United States,Nebraska,31,Cass,025
+MIRIR,United States,Nebraska,31,Cherry,031
+MIRIR,United States,Nebraska,31,Colfax,037
+MIRIR,United States,Nebraska,31,Cuming,039
+MIRIR,United States,Nebraska,31,Dodge,053
+MIRIR,United States,Nebraska,31,Douglas,055
+MIRIR,United States,Nebraska,31,Furnas,065
+MIRIR,United States,Nebraska,31,Greeley,077
+MIRIR,United States,Nebraska,31,Hall,079
+MIRIR,United States,Nebraska,31,Holt,089
+MIRIR,United States,Nebraska,31,Lancaster,109
+MIRIR,United States,Nebraska,31,Nance,125
+MIRIR,United States,Nebraska,31,Otoe,131
+MIRIR,United States,Nebraska,31,Pawnee,133
+MIRIR,United States,Nebraska,31,Pierce,139
+MIRIR,United States,Nebraska,31,Richardson,147
+MIRIR,United States,Nebraska,31,Sarpy,153
+MIRIR,United States,Nebraska,31,Saunders,155
+MIRIR,United States,Nebraska,31,Seward,159
+MIRIR,United States,Nebraska,31,Sheridan,161
+MIRIR,United States,Nebraska,31,Sherman,163
+MIRIR,United States,Nebraska,31,Stanton,167
+MIRIR,United States,Nebraska,31,Thomas,171
+MIRIR,United States,New Hampshire,33,,
+MIRIR,United States,New Hampshire,33,Belknap,001
+MIRIR,United States,New Hampshire,33,Carroll,003
+MIRIR,United States,New Hampshire,33,Cheshire,005
+MIRIR,United States,New Hampshire,33,Coos,007
+MIRIR,United States,New Hampshire,33,Grafton,009
+MIRIR,United States,New Hampshire,33,Hillsborough,011
+MIRIR,United States,New Hampshire,33,Merrimack,013
+MIRIR,United States,New Hampshire,33,Rockingham,015
+MIRIR,United States,New Hampshire,33,Strafford,017
+MIRIR,United States,New Hampshire,33,Sullivan,019
+MIRIR,United States,New Jersey,34,,
+MIRIR,United States,New Jersey,34,Atlantic,001
+MIRIR,United States,New Jersey,34,Bergen,003
+MIRIR,United States,New Jersey,34,Camden,007
+MIRIR,United States,New Jersey,34,Cape May,009
+MIRIR,United States,New Jersey,34,Cumberland,011
+MIRIR,United States,New Jersey,34,Essex,013
+MIRIR,United States,New Jersey,34,Gloucester,015
+MIRIR,United States,New Jersey,34,Hunterdon,019
+MIRIR,United States,New Jersey,34,Mercer,021
+MIRIR,United States,New Jersey,34,Middlesex,023
+MIRIR,United States,New Jersey,34,Monmouth,025
+MIRIR,United States,New Jersey,34,Morris,027
+MIRIR,United States,New Jersey,34,Ocean,029
+MIRIR,United States,New Jersey,34,Passaic,031
+MIRIR,United States,New Jersey,34,Somerset,035
+MIRIR,United States,New Jersey,34,Sussex,037
+MIRIR,United States,New Jersey,34,Warren,041
+MIRIR,United States,New York,36,,
+MIRIR,United States,New York,36,Albany,001
+MIRIR,United States,New York,36,Bronx,005
+MIRIR,United States,New York,36,Broome,007
+MIRIR,United States,New York,36,Cattaraugus,009
+MIRIR,United States,New York,36,Chautauqua,013
+MIRIR,United States,New York,36,Chenango,017
+MIRIR,United States,New York,36,Columbia,021
+MIRIR,United States,New York,36,Cortland,023
+MIRIR,United States,New York,36,Delaware,025
+MIRIR,United States,New York,36,Dutchess,027
+MIRIR,United States,New York,36,Erie,029
+MIRIR,United States,New York,36,Essex,031
+MIRIR,United States,New York,36,Franklin,033
+MIRIR,United States,New York,36,Greene,039
+MIRIR,United States,New York,36,Hamilton,041
+MIRIR,United States,New York,36,Herkimer,043
+MIRIR,United States,New York,36,Jefferson,045
+MIRIR,United States,New York,36,Kings,047
+MIRIR,United States,New York,36,Lewis,049
+MIRIR,United States,New York,36,Madison,053
+MIRIR,United States,New York,36,Monroe,055
+MIRIR,United States,New York,36,Nassau,059
+MIRIR,United States,New York,36,Oneida,065
+MIRIR,United States,New York,36,Onondaga,067
+MIRIR,United States,New York,36,Ontario,069
+MIRIR,United States,New York,36,Orange,071
+MIRIR,United States,New York,36,Oswego,075
+MIRIR,United States,New York,36,Otsego,077
+MIRIR,United States,New York,36,Putnam,079
+MIRIR,United States,New York,36,Rensselaer,083
+MIRIR,United States,New York,36,Rockland,087
+MIRIR,United States,New York,36,Saratoga,091
+MIRIR,United States,New York,36,Schenectady,093
+MIRIR,United States,New York,36,Schoharie,095
+MIRIR,United States,New York,36,St. Lawrence,089
+MIRIR,United States,New York,36,Steuben,101
+MIRIR,United States,New York,36,Suffolk,103
+MIRIR,United States,New York,36,Sullivan,105
+MIRIR,United States,New York,36,Tioga,107
+MIRIR,United States,New York,36,Tompkins,109
+MIRIR,United States,New York,36,Ulster,111
+MIRIR,United States,New York,36,Warren,113
+MIRIR,United States,New York,36,Washington,115
+MIRIR,United States,New York,36,Westchester,119
+MIRIR,United States,New York,36,Yates,123
+MIRIR,United States,North Carolina,37,,
+MIRIR,United States,North Carolina,37,Alamance,001
+MIRIR,United States,North Carolina,37,Alexander,003
+MIRIR,United States,North Carolina,37,Alleghany,005
+MIRIR,United States,North Carolina,37,Ashe,009
+MIRIR,United States,North Carolina,37,Avery,011
+MIRIR,United States,North Carolina,37,Buncombe,021
+MIRIR,United States,North Carolina,37,Burke,023
+MIRIR,United States,North Carolina,37,Cabarrus,025
+MIRIR,United States,North Carolina,37,Caldwell,027
+MIRIR,United States,North Carolina,37,Caswell,033
+MIRIR,United States,North Carolina,37,Catawba,035
+MIRIR,United States,North Carolina,37,Chatham,037
+MIRIR,United States,North Carolina,37,Cherokee,039
+MIRIR,United States,North Carolina,37,Chowan,041
+MIRIR,United States,North Carolina,37,Clay,043
+MIRIR,United States,North Carolina,37,Cleveland,045
+MIRIR,United States,North Carolina,37,Craven,049
+MIRIR,United States,North Carolina,37,Davidson,057
+MIRIR,United States,North Carolina,37,Davie,059
+MIRIR,United States,North Carolina,37,Forsyth,067
+MIRIR,United States,North Carolina,37,Gaston,071
+MIRIR,United States,North Carolina,37,Graham,075
+MIRIR,United States,North Carolina,37,Granville,077
+MIRIR,United States,North Carolina,37,Greene,079
+MIRIR,United States,North Carolina,37,Guilford,081
+MIRIR,United States,North Carolina,37,Haywood,087
+MIRIR,United States,North Carolina,37,Henderson,089
+MIRIR,United States,North Carolina,37,Iredell,097
+MIRIR,United States,North Carolina,37,Jackson,099
+MIRIR,United States,North Carolina,37,Lee,105
+MIRIR,United States,North Carolina,37,Lincoln,109
+MIRIR,United States,North Carolina,37,Macon,113
+MIRIR,United States,North Carolina,37,Madison,115
+MIRIR,United States,North Carolina,37,McDowell,111
+MIRIR,United States,North Carolina,37,Mecklenburg,119
+MIRIR,United States,North Carolina,37,Mitchell,121
+MIRIR,United States,North Carolina,37,Onslow,133
+MIRIR,United States,North Carolina,37,Orange,135
+MIRIR,United States,North Carolina,37,Person,145
+MIRIR,United States,North Carolina,37,Polk,149
+MIRIR,United States,North Carolina,37,Randolph,151
+MIRIR,United States,North Carolina,37,Rockingham,157
+MIRIR,United States,North Carolina,37,Rowan,159
+MIRIR,United States,North Carolina,37,Rutherford,161
+MIRIR,United States,North Carolina,37,Stokes,169
+MIRIR,United States,North Carolina,37,Swain,173
+MIRIR,United States,North Carolina,37,Transylvania,175
+MIRIR,United States,North Carolina,37,Wake,183
+MIRIR,United States,North Carolina,37,Warren,185
+MIRIR,United States,North Carolina,37,Watauga,189
+MIRIR,United States,North Carolina,37,Wilkes,193
+MIRIR,United States,North Carolina,37,Yadkin,197
+MIRIR,United States,North Carolina,37,Yancey,199
+MIRIR,United States,North Dakota,38,,
+MIRIR,United States,North Dakota,38,Barnes,003
+MIRIR,United States,North Dakota,38,Cass,017
+MIRIR,United States,North Dakota,38,Eddy,027
+MIRIR,United States,North Dakota,38,Grand Forks,035
+MIRIR,United States,North Dakota,38,Griggs,039
+MIRIR,United States,North Dakota,38,Pembina,067
+MIRIR,United States,North Dakota,38,Ransom,073
+MIRIR,United States,North Dakota,38,Richland,077
+MIRIR,United States,North Dakota,38,Rolette,079
+MIRIR,United States,North Dakota,38,Stutsman,093
+MIRIR,United States,North Dakota,38,Walsh,099
+MIRIR,United States,Ohio,39,,
+MIRIR,United States,Ohio,39,Ashland,005
+MIRIR,United States,Ohio,39,Belmont,013
+MIRIR,United States,Ohio,39,Clermont,025
+MIRIR,United States,Ohio,39,Columbiana,029
+MIRIR,United States,Ohio,39,Cuyahoga,035
+MIRIR,United States,Ohio,39,Erie,043
+MIRIR,United States,Ohio,39,Fairfield,045
+MIRIR,United States,Ohio,39,Fayette,047
+MIRIR,United States,Ohio,39,Franklin,049
+MIRIR,United States,Ohio,39,Gallia,053
+MIRIR,United States,Ohio,39,Geauga,055
+MIRIR,United States,Ohio,39,Greene,057
+MIRIR,United States,Ohio,39,Guernsey,059
+MIRIR,United States,Ohio,39,Hamilton,061
+MIRIR,United States,Ohio,39,Henry,069
+MIRIR,United States,Ohio,39,Highland,071
+MIRIR,United States,Ohio,39,Hocking,073
+MIRIR,United States,Ohio,39,Holmes,075
+MIRIR,United States,Ohio,39,Huron,077
+MIRIR,United States,Ohio,39,Licking,089
+MIRIR,United States,Ohio,39,Logan,091
+MIRIR,United States,Ohio,39,Lucas,095
+MIRIR,United States,Ohio,39,Madison,097
+MIRIR,United States,Ohio,39,Mercer,107
+MIRIR,United States,Ohio,39,Miami,109
+MIRIR,United States,Ohio,39,Montgomery,113
+MIRIR,United States,Ohio,39,Muskingum,119
+MIRIR,United States,Ohio,39,Ottawa,123
+MIRIR,United States,Ohio,39,Pickaway,129
+MIRIR,United States,Ohio,39,Portage,133
+MIRIR,United States,Ohio,39,Richland,139
+MIRIR,United States,Ohio,39,Ross,141
+MIRIR,United States,Ohio,39,Sandusky,143
+MIRIR,United States,Ohio,39,Stark,151
+MIRIR,United States,Ohio,39,Union,159
+MIRIR,United States,Ohio,39,Wood,173
+MIRIR,United States,Ohio,39,Wyandot,175
+MIRIR,United States,Oklahoma,40,,
+MIRIR,United States,Oklahoma,40,Oklahoma,109
+MIRIR,United States,Oregon,41,,
+MIRIR,United States,Oregon,41,Columbia,009
+MIRIR,United States,Pennsylvania,42,,
+MIRIR,United States,Pennsylvania,42,Adams,001
+MIRIR,United States,Pennsylvania,42,Allegheny,003
+MIRIR,United States,Pennsylvania,42,Armstrong,005
+MIRIR,United States,Pennsylvania,42,Beaver,007
+MIRIR,United States,Pennsylvania,42,Bedford,009
+MIRIR,United States,Pennsylvania,42,Berks,011
+MIRIR,United States,Pennsylvania,42,Blair,013
+MIRIR,United States,Pennsylvania,42,Bradford,015
+MIRIR,United States,Pennsylvania,42,Bucks,017
+MIRIR,United States,Pennsylvania,42,Butler,019
+MIRIR,United States,Pennsylvania,42,Cambria,021
+MIRIR,United States,Pennsylvania,42,Cameron,023
+MIRIR,United States,Pennsylvania,42,Carbon,025
+MIRIR,United States,Pennsylvania,42,Centre,027
+MIRIR,United States,Pennsylvania,42,Chester,029
+MIRIR,United States,Pennsylvania,42,Clarion,031
+MIRIR,United States,Pennsylvania,42,Clearfield,033
+MIRIR,United States,Pennsylvania,42,Clinton,035
+MIRIR,United States,Pennsylvania,42,Columbia,037
+MIRIR,United States,Pennsylvania,42,Crawford,039
+MIRIR,United States,Pennsylvania,42,Cumberland,041
+MIRIR,United States,Pennsylvania,42,Dauphin,043
+MIRIR,United States,Pennsylvania,42,Delaware,045
+MIRIR,United States,Pennsylvania,42,Elk,047
+MIRIR,United States,Pennsylvania,42,Erie,049
+MIRIR,United States,Pennsylvania,42,Fayette,051
+MIRIR,United States,Pennsylvania,42,Forest,053
+MIRIR,United States,Pennsylvania,42,Franklin,055
+MIRIR,United States,Pennsylvania,42,Fulton,057
+MIRIR,United States,Pennsylvania,42,Greene,059
+MIRIR,United States,Pennsylvania,42,Huntingdon,061
+MIRIR,United States,Pennsylvania,42,Indiana,063
+MIRIR,United States,Pennsylvania,42,Jefferson,065
+MIRIR,United States,Pennsylvania,42,Juniata,067
+MIRIR,United States,Pennsylvania,42,Lackawanna,069
+MIRIR,United States,Pennsylvania,42,Lancaster,071
+MIRIR,United States,Pennsylvania,42,Lawrence,073
+MIRIR,United States,Pennsylvania,42,Lebanon,075
+MIRIR,United States,Pennsylvania,42,Lehigh,077
+MIRIR,United States,Pennsylvania,42,Luzerne,079
+MIRIR,United States,Pennsylvania,42,Lycoming,081
+MIRIR,United States,Pennsylvania,42,McKean,083
+MIRIR,United States,Pennsylvania,42,Mercer,085
+MIRIR,United States,Pennsylvania,42,Mifflin,087
+MIRIR,United States,Pennsylvania,42,Monroe,089
+MIRIR,United States,Pennsylvania,42,Montgomery,091
+MIRIR,United States,Pennsylvania,42,Montour,093
+MIRIR,United States,Pennsylvania,42,Northampton,095
+MIRIR,United States,Pennsylvania,42,Northumberland,097
+MIRIR,United States,Pennsylvania,42,Perry,099
+MIRIR,United States,Pennsylvania,42,Philadelphia,101
+MIRIR,United States,Pennsylvania,42,Pike,103
+MIRIR,United States,Pennsylvania,42,Potter,105
+MIRIR,United States,Pennsylvania,42,Schuylkill,107
+MIRIR,United States,Pennsylvania,42,Snyder,109
+MIRIR,United States,Pennsylvania,42,Somerset,111
+MIRIR,United States,Pennsylvania,42,Sullivan,113
+MIRIR,United States,Pennsylvania,42,Susquehanna,115
+MIRIR,United States,Pennsylvania,42,Tioga,117
+MIRIR,United States,Pennsylvania,42,Union,119
+MIRIR,United States,Pennsylvania,42,Venango,121
+MIRIR,United States,Pennsylvania,42,Warren,123
+MIRIR,United States,Pennsylvania,42,Washington,125
+MIRIR,United States,Pennsylvania,42,Wayne,127
+MIRIR,United States,Pennsylvania,42,Westmoreland,129
+MIRIR,United States,Pennsylvania,42,Wyoming,131
+MIRIR,United States,Pennsylvania,42,York,133
+MIRIR,United States,Rhode Island,44,,
+MIRIR,United States,Rhode Island,44,Newport,005
+MIRIR,United States,Rhode Island,44,Providence,007
+MIRIR,United States,Rhode Island,44,Washington,009
+MIRIR,United States,South Carolina,45,,
+MIRIR,United States,South Carolina,45,Chester,023
+MIRIR,United States,South Carolina,45,Darlington,031
+MIRIR,United States,South Carolina,45,Fairfield,039
+MIRIR,United States,South Carolina,45,Greenville,045
+MIRIR,United States,South Carolina,45,Greenwood,047
+MIRIR,United States,South Carolina,45,Newberry,071
+MIRIR,United States,South Carolina,45,Oconee,073
+MIRIR,United States,South Carolina,45,Pickens,077
+MIRIR,United States,South Carolina,45,Spartanburg,083
+MIRIR,United States,South Carolina,45,York,091
+MIRIR,United States,South Dakota,46,,
+MIRIR,United States,South Dakota,46,Brookings,011
+MIRIR,United States,South Dakota,46,Clay,027
+MIRIR,United States,South Dakota,46,Codington,029
+MIRIR,United States,South Dakota,46,Day,037
+MIRIR,United States,South Dakota,46,Lincoln,083
+MIRIR,United States,South Dakota,46,Marshall,091
+MIRIR,United States,South Dakota,46,Minnehaha,099
+MIRIR,United States,South Dakota,46,Union,127
+MIRIR,United States,Tennessee,47,,
+MIRIR,United States,Tennessee,47,Benton,005
+MIRIR,United States,Tennessee,47,Bledsoe,007
+MIRIR,United States,Tennessee,47,Blount,009
+MIRIR,United States,Tennessee,47,Campbell,013
+MIRIR,United States,Tennessee,47,Carroll,017
+MIRIR,United States,Tennessee,47,Carter,019
+MIRIR,United States,Tennessee,47,Claiborne,025
+MIRIR,United States,Tennessee,47,Cocke,029
+MIRIR,United States,Tennessee,47,Coffee,031
+MIRIR,United States,Tennessee,47,Cumberland,035
+MIRIR,United States,Tennessee,47,Dickson,043
+MIRIR,United States,Tennessee,47,Fentress,049
+MIRIR,United States,Tennessee,47,Grainger,057
+MIRIR,United States,Tennessee,47,Hardin,071
+MIRIR,United States,Tennessee,47,Henry,079
+MIRIR,United States,Tennessee,47,Johnson,091
+MIRIR,United States,Tennessee,47,Knox,093
+MIRIR,United States,Tennessee,47,Loudon,105
+MIRIR,United States,Tennessee,47,Monroe,123
+MIRIR,United States,Tennessee,47,Morgan,129
+MIRIR,United States,Tennessee,47,Overton,133
+MIRIR,United States,Tennessee,47,Polk,139
+MIRIR,United States,Tennessee,47,Putnam,141
+MIRIR,United States,Tennessee,47,Roane,145
+MIRIR,United States,Tennessee,47,Scott,151
+MIRIR,United States,Tennessee,47,Sevier,155
+MIRIR,United States,Tennessee,47,Unicoi,171
+MIRIR,United States,Tennessee,47,Warren,177
+MIRIR,United States,Tennessee,47,Washington,179
+MIRIR,United States,Tennessee,47,White,185
+MIRIR,United States,Texas,48,,
+MIRIR,United States,Vermont,50,,
+MIRIR,United States,Virginia,51,,
+MIRIR,United States,Virginia,51,Accomack,001
+MIRIR,United States,Virginia,51,Albemarle,003
+MIRIR,United States,Virginia,51,Amelia,007
+MIRIR,United States,Virginia,51,Amherst,009
+MIRIR,United States,Virginia,51,Appomattox,011
+MIRIR,United States,Virginia,51,Arlington,013
+MIRIR,United States,Virginia,51,Augusta,015
+MIRIR,United States,Virginia,51,Bath,017
+MIRIR,United States,Virginia,51,Bedford,019
+MIRIR,United States,Virginia,51,Bland,021
+MIRIR,United States,Virginia,51,Botetourt,023
+MIRIR,United States,Virginia,51,Brunswick,025
+MIRIR,United States,Virginia,51,Buchanan,027
+MIRIR,United States,Virginia,51,Buckingham,029
+MIRIR,United States,Virginia,51,Campbell,031
+MIRIR,United States,Virginia,51,Caroline,033
+MIRIR,United States,Virginia,51,Carroll,035
+MIRIR,United States,Virginia,51,Charlotte,037
+MIRIR,United States,Virginia,51,Chesterfield,041
+MIRIR,United States,Virginia,51,Clarke,043
+MIRIR,United States,Virginia,51,Craig,045
+MIRIR,United States,Virginia,51,Culpeper,047
+MIRIR,United States,Virginia,51,Cumberland,049
+MIRIR,United States,Virginia,51,Dickenson,051
+MIRIR,United States,Virginia,51,Dinwiddie,053
+MIRIR,United States,Virginia,51,Essex,057
+MIRIR,United States,Virginia,51,Fairfax,059
+MIRIR,United States,Virginia,51,Fauquier,061
+MIRIR,United States,Virginia,51,Floyd,063
+MIRIR,United States,Virginia,51,Fluvanna,065
+MIRIR,United States,Virginia,51,Franklin,067
+MIRIR,United States,Virginia,51,Frederick,069
+MIRIR,United States,Virginia,51,Giles,071
+MIRIR,United States,Virginia,51,Gloucester,073
+MIRIR,United States,Virginia,51,Goochland,075
+MIRIR,United States,Virginia,51,Grayson,077
+MIRIR,United States,Virginia,51,Greene,079
+MIRIR,United States,Virginia,51,Greensville,081
+MIRIR,United States,Virginia,51,Halifax,083
+MIRIR,United States,Virginia,51,Hanover,085
+MIRIR,United States,Virginia,51,Henry,089
+MIRIR,United States,Virginia,51,Highland,091
+MIRIR,United States,Virginia,51,James City,095
+MIRIR,United States,Virginia,51,King and Queen,097
+MIRIR,United States,Virginia,51,King George,099
+MIRIR,United States,Virginia,51,Lee,105
+MIRIR,United States,Virginia,51,Loudoun,107
+MIRIR,United States,Virginia,51,Louisa,109
+MIRIR,United States,Virginia,51,Lunenburg,111
+MIRIR,United States,Virginia,51,Madison,113
+MIRIR,United States,Virginia,51,Mathews,115
+MIRIR,United States,Virginia,51,Mecklenburg,117
+MIRIR,United States,Virginia,51,Middlesex,119
+MIRIR,United States,Virginia,51,Montgomery,121
+MIRIR,United States,Virginia,51,Nelson,125
+MIRIR,United States,Virginia,51,Northampton,131
+MIRIR,United States,Virginia,51,Nottoway,135
+MIRIR,United States,Virginia,51,Orange,137
+MIRIR,United States,Virginia,51,Page,139
+MIRIR,United States,Virginia,51,Patrick,141
+MIRIR,United States,Virginia,51,Pittsylvania,143
+MIRIR,United States,Virginia,51,Prince Edward,147
+MIRIR,United States,Virginia,51,Prince George,149
+MIRIR,United States,Virginia,51,Prince William,153
+MIRIR,United States,Virginia,51,Pulaski,155
+MIRIR,United States,Virginia,51,Rappahannock,157
+MIRIR,United States,Virginia,51,Richmond,159
+MIRIR,United States,Virginia,51,Roanoke,161
+MIRIR,United States,Virginia,51,Rockbridge,163
+MIRIR,United States,Virginia,51,Rockingham,165
+MIRIR,United States,Virginia,51,Russell,167
+MIRIR,United States,Virginia,51,Scott,169
+MIRIR,United States,Virginia,51,Shenandoah,171
+MIRIR,United States,Virginia,51,Smyth,173
+MIRIR,United States,Virginia,51,Southampton,175
+MIRIR,United States,Virginia,51,Spotsylvania,177
+MIRIR,United States,Virginia,51,Stafford,179
+MIRIR,United States,Virginia,51,Sussex,183
+MIRIR,United States,Virginia,51,Tazewell,185
+MIRIR,United States,Virginia,51,Warren,187
+MIRIR,United States,Virginia,51,Washington,191
+MIRIR,United States,Virginia,51,Wise,195
+MIRIR,United States,Virginia,51,Wythe,197
+MIRIR,United States,Virginia,51,York,199
+MIRIR,United States,Washington,53,,
+MIRIR,United States,Washington,53,Franklin,021
+MIRIR,United States,Washington,53,Wahkiakum,069
+MIRIR,United States,West Virginia,54,,
+MIRIR,United States,West Virginia,54,Barbour,001
+MIRIR,United States,West Virginia,54,Berkeley,003
+MIRIR,United States,West Virginia,54,Braxton,007
+MIRIR,United States,West Virginia,54,Brooke,009
+MIRIR,United States,West Virginia,54,Calhoun,013
+MIRIR,United States,West Virginia,54,Clay,015
+MIRIR,United States,West Virginia,54,Fayette,019
+MIRIR,United States,West Virginia,54,Grant,023
+MIRIR,United States,West Virginia,54,Greenbrier,025
+MIRIR,United States,West Virginia,54,Hampshire,027
+MIRIR,United States,West Virginia,54,Hancock,029
+MIRIR,United States,West Virginia,54,Hardy,031
+MIRIR,United States,West Virginia,54,Harrison,033
+MIRIR,United States,West Virginia,54,Kanawha,039
+MIRIR,United States,West Virginia,54,Lewis,041
+MIRIR,United States,West Virginia,54,Marion,049
+MIRIR,United States,West Virginia,54,Mason,053
+MIRIR,United States,West Virginia,54,McDowell,047
+MIRIR,United States,West Virginia,54,Mineral,057
+MIRIR,United States,West Virginia,54,Monongalia,061
+MIRIR,United States,West Virginia,54,Monroe,063
+MIRIR,United States,West Virginia,54,Nicholas,067
+MIRIR,United States,West Virginia,54,Ohio,069
+MIRIR,United States,West Virginia,54,Pendleton,071
+MIRIR,United States,West Virginia,54,Pocahontas,075
+MIRIR,United States,West Virginia,54,Preston,077
+MIRIR,United States,West Virginia,54,Putnam,079
+MIRIR,United States,West Virginia,54,Raleigh,081
+MIRIR,United States,West Virginia,54,Randolph,083
+MIRIR,United States,West Virginia,54,Ritchie,085
+MIRIR,United States,West Virginia,54,Taylor,091
+MIRIR,United States,West Virginia,54,Tucker,093
+MIRIR,United States,West Virginia,54,Upshur,097
+MIRIR,United States,West Virginia,54,Wayne,099
+MIRIR,United States,West Virginia,54,Webster,101
+MIRIR,United States,West Virginia,54,Wetzel,103
+MIRIR,United States,West Virginia,54,Wirt,105
+MIRIR,United States,West Virginia,54,Wood,107
+MIRIR,United States,West Virginia,54,Wyoming,109
+MIRIR,United States,Wisconsin,55,,
+MIRIR,United States,Wisconsin,55,Adams,001
+MIRIR,United States,Wisconsin,55,Ashland,003
+MIRIR,United States,Wisconsin,55,Barron,005
+MIRIR,United States,Wisconsin,55,Bayfield,007
+MIRIR,United States,Wisconsin,55,Brown,009
+MIRIR,United States,Wisconsin,55,Buffalo,011
+MIRIR,United States,Wisconsin,55,Burnett,013
+MIRIR,United States,Wisconsin,55,Calumet,015
+MIRIR,United States,Wisconsin,55,Chippewa,017
+MIRIR,United States,Wisconsin,55,Clark,019
+MIRIR,United States,Wisconsin,55,Columbia,021
+MIRIR,United States,Wisconsin,55,Crawford,023
+MIRIR,United States,Wisconsin,55,Dane,025
+MIRIR,United States,Wisconsin,55,Dodge,027
+MIRIR,United States,Wisconsin,55,Door,029
+MIRIR,United States,Wisconsin,55,Douglas,031
+MIRIR,United States,Wisconsin,55,Dunn,033
+MIRIR,United States,Wisconsin,55,Eau Claire,035
+MIRIR,United States,Wisconsin,55,Florence,037
+MIRIR,United States,Wisconsin,55,Fond du Lac,039
+MIRIR,United States,Wisconsin,55,Forest,041
+MIRIR,United States,Wisconsin,55,Grant,043
+MIRIR,United States,Wisconsin,55,Green,045
+MIRIR,United States,Wisconsin,55,Green Lake,047
+MIRIR,United States,Wisconsin,55,Iowa,049
+MIRIR,United States,Wisconsin,55,Iron,051
+MIRIR,United States,Wisconsin,55,Jackson,053
+MIRIR,United States,Wisconsin,55,Jefferson,055
+MIRIR,United States,Wisconsin,55,Kenosha,059
+MIRIR,United States,Wisconsin,55,La Crosse,063
+MIRIR,United States,Wisconsin,55,Lafayette,065
+MIRIR,United States,Wisconsin,55,Langlade,067
+MIRIR,United States,Wisconsin,55,Lincoln,069
+MIRIR,United States,Wisconsin,55,Manitowoc,071
+MIRIR,United States,Wisconsin,55,Marathon,073
+MIRIR,United States,Wisconsin,55,Marinette,075
+MIRIR,United States,Wisconsin,55,Marquette,077
+MIRIR,United States,Wisconsin,55,Milwaukee,079
+MIRIR,United States,Wisconsin,55,Oconto,083
+MIRIR,United States,Wisconsin,55,Oneida,085
+MIRIR,United States,Wisconsin,55,Outagamie,087
+MIRIR,United States,Wisconsin,55,Ozaukee,089
+MIRIR,United States,Wisconsin,55,Pepin,091
+MIRIR,United States,Wisconsin,55,Pierce,093
+MIRIR,United States,Wisconsin,55,Polk,095
+MIRIR,United States,Wisconsin,55,Portage,097
+MIRIR,United States,Wisconsin,55,Price,099
+MIRIR,United States,Wisconsin,55,Racine,101
+MIRIR,United States,Wisconsin,55,Richland,103
+MIRIR,United States,Wisconsin,55,Rock,105
+MIRIR,United States,Wisconsin,55,Sauk,111
+MIRIR,United States,Wisconsin,55,Sawyer,113
+MIRIR,United States,Wisconsin,55,Shawano,115
+MIRIR,United States,Wisconsin,55,Sheboygan,117
+MIRIR,United States,Wisconsin,55,St. Croix,109
+MIRIR,United States,Wisconsin,55,Taylor,119
+MIRIR,United States,Wisconsin,55,Trempealeau,121
+MIRIR,United States,Wisconsin,55,Vernon,123
+MIRIR,United States,Wisconsin,55,Vilas,125
+MIRIR,United States,Wisconsin,55,Walworth,127
+MIRIR,United States,Wisconsin,55,Washburn,129
+MIRIR,United States,Wisconsin,55,Washington,131
+MIRIR,United States,Wisconsin,55,Waukesha,133
+MIRIR,United States,Wisconsin,55,Waupaca,135
+MIRIR,United States,Wisconsin,55,Waushara,137
+MIRIR,United States,Wisconsin,55,Winnebago,139
+MIRIR,United States,Wisconsin,55,Wood,141

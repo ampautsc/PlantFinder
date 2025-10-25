@@ -1,0 +1,451 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+BATI,Canada,Ontario,08,,
+BATI,United States,Connecticut,09,,
+BATI,United States,Connecticut,09,Fairfield,001
+BATI,United States,Connecticut,09,Hartford,003
+BATI,United States,Connecticut,09,Litchfield,005
+BATI,United States,Connecticut,09,Middlesex,007
+BATI,United States,Connecticut,09,New Haven,009
+BATI,United States,Connecticut,09,New London,011
+BATI,United States,Connecticut,09,Tolland,013
+BATI,United States,Connecticut,09,Windham,015
+BATI,United States,Delaware,10,,
+BATI,United States,Delaware,10,New Castle,003
+BATI,United States,Delaware,10,Sussex,005
+BATI,United States,District of Columbia,11,,
+BATI,United States,District of Columbia,11,District of Columbia,001
+BATI,United States,Georgia,13,,
+BATI,United States,Georgia,13,Effingham,103
+BATI,United States,Georgia,13,Fannin,111
+BATI,United States,Georgia,13,Long,183
+BATI,United States,Georgia,13,Lowndes,185
+BATI,United States,Georgia,13,Lumpkin,187
+BATI,United States,Georgia,13,Rabun,241
+BATI,United States,Georgia,13,Stephens,257
+BATI,United States,Georgia,13,Telfair,271
+BATI,United States,Georgia,13,Towns,281
+BATI,United States,Georgia,13,Union,291
+BATI,United States,Georgia,13,White,311
+BATI,United States,Illinois,17,,
+BATI,United States,Illinois,17,Cook,031
+BATI,United States,Indiana,18,,
+BATI,United States,Indiana,18,Jasper,073
+BATI,United States,Indiana,18,Lagrange,087
+BATI,United States,Indiana,18,Lake,089
+BATI,United States,Indiana,18,Pulaski,131
+BATI,United States,Indiana,18,Starke,149
+BATI,United States,Indiana,18,Steuben,151
+BATI,United States,Iowa,19,,
+BATI,United States,Kentucky,21,,
+BATI,United States,Kentucky,21,Bell,013
+BATI,United States,Kentucky,21,Harlan,095
+BATI,United States,Kentucky,21,Letcher,133
+BATI,United States,Kentucky,21,McCreary,147
+BATI,United States,Kentucky,21,Todd,219
+BATI,United States,Kentucky,21,Wayne,231
+BATI,United States,Kentucky,21,Whitley,235
+BATI,United States,Maine,23,,
+BATI,United States,Maine,23,York,031
+BATI,United States,Maryland,24,,
+BATI,United States,Massachusetts,25,,
+BATI,United States,Massachusetts,25,Barnstable,001
+BATI,United States,Massachusetts,25,Berkshire,003
+BATI,United States,Massachusetts,25,Bristol,005
+BATI,United States,Massachusetts,25,Dukes,007
+BATI,United States,Massachusetts,25,Essex,009
+BATI,United States,Massachusetts,25,Franklin,011
+BATI,United States,Massachusetts,25,Hampden,013
+BATI,United States,Massachusetts,25,Hampshire,015
+BATI,United States,Massachusetts,25,Middlesex,017
+BATI,United States,Massachusetts,25,Nantucket,019
+BATI,United States,Massachusetts,25,Norfolk,021
+BATI,United States,Massachusetts,25,Plymouth,023
+BATI,United States,Massachusetts,25,Suffolk,025
+BATI,United States,Massachusetts,25,Worcester,027
+BATI,United States,Michigan,26,,
+BATI,United States,Michigan,26,Calhoun,025
+BATI,United States,Michigan,26,Cass,027
+BATI,United States,Michigan,26,Hillsdale,059
+BATI,United States,Michigan,26,Ingham,065
+BATI,United States,Michigan,26,Jackson,075
+BATI,United States,Michigan,26,Kalamazoo,077
+BATI,United States,Michigan,26,Livingston,093
+BATI,United States,Michigan,26,Monroe,115
+BATI,United States,Michigan,26,Oakland,125
+BATI,United States,Michigan,26,St. Clair,147
+BATI,United States,Michigan,26,Washtenaw,161
+BATI,United States,Michigan,26,Wayne,163
+BATI,United States,Minnesota,27,,
+BATI,United States,Minnesota,27,Wabasha,157
+BATI,United States,New Hampshire,33,,
+BATI,United States,New Hampshire,33,Cheshire,005
+BATI,United States,New Hampshire,33,Hillsborough,011
+BATI,United States,New Hampshire,33,Rockingham,015
+BATI,United States,New Hampshire,33,Strafford,017
+BATI,United States,New Jersey,34,,
+BATI,United States,New Jersey,34,Atlantic,001
+BATI,United States,New Jersey,34,Bergen,003
+BATI,United States,New Jersey,34,Burlington,005
+BATI,United States,New Jersey,34,Camden,007
+BATI,United States,New Jersey,34,Cape May,009
+BATI,United States,New Jersey,34,Cumberland,011
+BATI,United States,New Jersey,34,Essex,013
+BATI,United States,New Jersey,34,Gloucester,015
+BATI,United States,New Jersey,34,Hunterdon,019
+BATI,United States,New Jersey,34,Mercer,021
+BATI,United States,New Jersey,34,Middlesex,023
+BATI,United States,New Jersey,34,Monmouth,025
+BATI,United States,New Jersey,34,Morris,027
+BATI,United States,New Jersey,34,Ocean,029
+BATI,United States,New Jersey,34,Passaic,031
+BATI,United States,New Jersey,34,Somerset,035
+BATI,United States,New Jersey,34,Sussex,037
+BATI,United States,New Jersey,34,Union,039
+BATI,United States,New York,36,,
+BATI,United States,New York,36,Albany,001
+BATI,United States,New York,36,Bronx,005
+BATI,United States,New York,36,Cattaraugus,009
+BATI,United States,New York,36,Columbia,021
+BATI,United States,New York,36,Dutchess,027
+BATI,United States,New York,36,Kings,047
+BATI,United States,New York,36,Monroe,055
+BATI,United States,New York,36,Nassau,059
+BATI,United States,New York,36,Orange,071
+BATI,United States,New York,36,Oswego,075
+BATI,United States,New York,36,Putnam,079
+BATI,United States,New York,36,Queens,081
+BATI,United States,New York,36,Rensselaer,083
+BATI,United States,New York,36,Richmond,085
+BATI,United States,New York,36,Rockland,087
+BATI,United States,New York,36,Suffolk,103
+BATI,United States,New York,36,Sullivan,105
+BATI,United States,New York,36,Ulster,111
+BATI,United States,New York,36,Washington,115
+BATI,United States,New York,36,Westchester,119
+BATI,United States,North Carolina,37,,
+BATI,United States,North Carolina,37,Alamance,001
+BATI,United States,North Carolina,37,Alexander,003
+BATI,United States,North Carolina,37,Alleghany,005
+BATI,United States,North Carolina,37,Anson,007
+BATI,United States,North Carolina,37,Ashe,009
+BATI,United States,North Carolina,37,Avery,011
+BATI,United States,North Carolina,37,Beaufort,013
+BATI,United States,North Carolina,37,Bertie,015
+BATI,United States,North Carolina,37,Bladen,017
+BATI,United States,North Carolina,37,Brunswick,019
+BATI,United States,North Carolina,37,Buncombe,021
+BATI,United States,North Carolina,37,Burke,023
+BATI,United States,North Carolina,37,Caldwell,027
+BATI,United States,North Carolina,37,Caswell,033
+BATI,United States,North Carolina,37,Catawba,035
+BATI,United States,North Carolina,37,Chatham,037
+BATI,United States,North Carolina,37,Cherokee,039
+BATI,United States,North Carolina,37,Clay,043
+BATI,United States,North Carolina,37,Columbus,047
+BATI,United States,North Carolina,37,Craven,049
+BATI,United States,North Carolina,37,Cumberland,051
+BATI,United States,North Carolina,37,Davidson,057
+BATI,United States,North Carolina,37,Davie,059
+BATI,United States,North Carolina,37,Durham,063
+BATI,United States,North Carolina,37,Edgecombe,065
+BATI,United States,North Carolina,37,Forsyth,067
+BATI,United States,North Carolina,37,Franklin,069
+BATI,United States,North Carolina,37,Gaston,071
+BATI,United States,North Carolina,37,Gates,073
+BATI,United States,North Carolina,37,Graham,075
+BATI,United States,North Carolina,37,Granville,077
+BATI,United States,North Carolina,37,Greene,079
+BATI,United States,North Carolina,37,Guilford,081
+BATI,United States,North Carolina,37,Halifax,083
+BATI,United States,North Carolina,37,Harnett,085
+BATI,United States,North Carolina,37,Haywood,087
+BATI,United States,North Carolina,37,Henderson,089
+BATI,United States,North Carolina,37,Hertford,091
+BATI,United States,North Carolina,37,Hoke,093
+BATI,United States,North Carolina,37,Iredell,097
+BATI,United States,North Carolina,37,Jackson,099
+BATI,United States,North Carolina,37,Johnston,101
+BATI,United States,North Carolina,37,Jones,103
+BATI,United States,North Carolina,37,Lee,105
+BATI,United States,North Carolina,37,Lenoir,107
+BATI,United States,North Carolina,37,Lincoln,109
+BATI,United States,North Carolina,37,Macon,113
+BATI,United States,North Carolina,37,Martin,117
+BATI,United States,North Carolina,37,McDowell,111
+BATI,United States,North Carolina,37,Mecklenburg,119
+BATI,United States,North Carolina,37,Mitchell,121
+BATI,United States,North Carolina,37,Montgomery,123
+BATI,United States,North Carolina,37,Moore,125
+BATI,United States,North Carolina,37,Nash,127
+BATI,United States,North Carolina,37,New Hanover,129
+BATI,United States,North Carolina,37,Northampton,131
+BATI,United States,North Carolina,37,Onslow,133
+BATI,United States,North Carolina,37,Orange,135
+BATI,United States,North Carolina,37,Pender,141
+BATI,United States,North Carolina,37,Person,145
+BATI,United States,North Carolina,37,Pitt,147
+BATI,United States,North Carolina,37,Polk,149
+BATI,United States,North Carolina,37,Randolph,151
+BATI,United States,North Carolina,37,Richmond,153
+BATI,United States,North Carolina,37,Robeson,155
+BATI,United States,North Carolina,37,Rockingham,157
+BATI,United States,North Carolina,37,Sampson,163
+BATI,United States,North Carolina,37,Scotland,165
+BATI,United States,North Carolina,37,Stanly,167
+BATI,United States,North Carolina,37,Stokes,169
+BATI,United States,North Carolina,37,Surry,171
+BATI,United States,North Carolina,37,Swain,173
+BATI,United States,North Carolina,37,Transylvania,175
+BATI,United States,North Carolina,37,Union,179
+BATI,United States,North Carolina,37,Wake,183
+BATI,United States,North Carolina,37,Warren,185
+BATI,United States,North Carolina,37,Washington,187
+BATI,United States,North Carolina,37,Wayne,191
+BATI,United States,North Carolina,37,Wilkes,193
+BATI,United States,North Carolina,37,Wilson,195
+BATI,United States,North Carolina,37,Yancey,199
+BATI,United States,Ohio,39,,
+BATI,United States,Ohio,39,Ashtabula,007
+BATI,United States,Ohio,39,Cuyahoga,035
+BATI,United States,Ohio,39,Fairfield,045
+BATI,United States,Ohio,39,Geauga,055
+BATI,United States,Ohio,39,Lake,085
+BATI,United States,Ohio,39,Lorain,093
+BATI,United States,Ohio,39,Portage,133
+BATI,United States,Ohio,39,Scioto,145
+BATI,United States,Ohio,39,Stark,151
+BATI,United States,Ohio,39,Summit,153
+BATI,United States,Ohio,39,Trumbull,155
+BATI,United States,Pennsylvania,42,,
+BATI,United States,Pennsylvania,42,Adams,001
+BATI,United States,Pennsylvania,42,Allegheny,003
+BATI,United States,Pennsylvania,42,Armstrong,005
+BATI,United States,Pennsylvania,42,Beaver,007
+BATI,United States,Pennsylvania,42,Bedford,009
+BATI,United States,Pennsylvania,42,Berks,011
+BATI,United States,Pennsylvania,42,Blair,013
+BATI,United States,Pennsylvania,42,Bucks,017
+BATI,United States,Pennsylvania,42,Butler,019
+BATI,United States,Pennsylvania,42,Cambria,021
+BATI,United States,Pennsylvania,42,Cameron,023
+BATI,United States,Pennsylvania,42,Carbon,025
+BATI,United States,Pennsylvania,42,Centre,027
+BATI,United States,Pennsylvania,42,Chester,029
+BATI,United States,Pennsylvania,42,Clarion,031
+BATI,United States,Pennsylvania,42,Clearfield,033
+BATI,United States,Pennsylvania,42,Clinton,035
+BATI,United States,Pennsylvania,42,Columbia,037
+BATI,United States,Pennsylvania,42,Crawford,039
+BATI,United States,Pennsylvania,42,Cumberland,041
+BATI,United States,Pennsylvania,42,Dauphin,043
+BATI,United States,Pennsylvania,42,Delaware,045
+BATI,United States,Pennsylvania,42,Elk,047
+BATI,United States,Pennsylvania,42,Erie,049
+BATI,United States,Pennsylvania,42,Fayette,051
+BATI,United States,Pennsylvania,42,Forest,053
+BATI,United States,Pennsylvania,42,Franklin,055
+BATI,United States,Pennsylvania,42,Fulton,057
+BATI,United States,Pennsylvania,42,Huntingdon,061
+BATI,United States,Pennsylvania,42,Indiana,063
+BATI,United States,Pennsylvania,42,Jefferson,065
+BATI,United States,Pennsylvania,42,Juniata,067
+BATI,United States,Pennsylvania,42,Lackawanna,069
+BATI,United States,Pennsylvania,42,Lancaster,071
+BATI,United States,Pennsylvania,42,Lebanon,075
+BATI,United States,Pennsylvania,42,Lehigh,077
+BATI,United States,Pennsylvania,42,Luzerne,079
+BATI,United States,Pennsylvania,42,Lycoming,081
+BATI,United States,Pennsylvania,42,Mercer,085
+BATI,United States,Pennsylvania,42,Mifflin,087
+BATI,United States,Pennsylvania,42,Monroe,089
+BATI,United States,Pennsylvania,42,Montgomery,091
+BATI,United States,Pennsylvania,42,Montour,093
+BATI,United States,Pennsylvania,42,Northampton,095
+BATI,United States,Pennsylvania,42,Northumberland,097
+BATI,United States,Pennsylvania,42,Perry,099
+BATI,United States,Pennsylvania,42,Philadelphia,101
+BATI,United States,Pennsylvania,42,Pike,103
+BATI,United States,Pennsylvania,42,Schuylkill,107
+BATI,United States,Pennsylvania,42,Snyder,109
+BATI,United States,Pennsylvania,42,Somerset,111
+BATI,United States,Pennsylvania,42,Union,119
+BATI,United States,Pennsylvania,42,Venango,121
+BATI,United States,Pennsylvania,42,Warren,123
+BATI,United States,Pennsylvania,42,Wayne,127
+BATI,United States,Pennsylvania,42,Westmoreland,129
+BATI,United States,Pennsylvania,42,York,133
+BATI,United States,Rhode Island,44,,
+BATI,United States,Rhode Island,44,Kent,003
+BATI,United States,Rhode Island,44,Newport,005
+BATI,United States,Rhode Island,44,Providence,007
+BATI,United States,Rhode Island,44,Washington,009
+BATI,United States,South Carolina,45,,
+BATI,United States,South Carolina,45,Aiken,003
+BATI,United States,South Carolina,45,Allendale,005
+BATI,United States,South Carolina,45,Bamberg,009
+BATI,United States,South Carolina,45,Barnwell,011
+BATI,United States,South Carolina,45,Berkeley,015
+BATI,United States,South Carolina,45,Calhoun,017
+BATI,United States,South Carolina,45,Charleston,019
+BATI,United States,South Carolina,45,Chesterfield,025
+BATI,United States,South Carolina,45,Darlington,031
+BATI,United States,South Carolina,45,Dillon,033
+BATI,United States,South Carolina,45,Florence,041
+BATI,United States,South Carolina,45,Georgetown,043
+BATI,United States,South Carolina,45,Greenville,045
+BATI,United States,South Carolina,45,Greenwood,047
+BATI,United States,South Carolina,45,Hampton,049
+BATI,United States,South Carolina,45,Horry,051
+BATI,United States,South Carolina,45,Kershaw,055
+BATI,United States,South Carolina,45,Lee,061
+BATI,United States,South Carolina,45,Lexington,063
+BATI,United States,South Carolina,45,Marion,067
+BATI,United States,South Carolina,45,Marlboro,069
+BATI,United States,South Carolina,45,Oconee,073
+BATI,United States,South Carolina,45,Orangeburg,075
+BATI,United States,South Carolina,45,Pickens,077
+BATI,United States,South Carolina,45,Richland,079
+BATI,United States,South Carolina,45,Saluda,081
+BATI,United States,South Carolina,45,Sumter,085
+BATI,United States,South Carolina,45,York,091
+BATI,United States,Tennessee,47,,
+BATI,United States,Tennessee,47,Bledsoe,007
+BATI,United States,Tennessee,47,Blount,009
+BATI,United States,Tennessee,47,Cocke,029
+BATI,United States,Tennessee,47,Coffee,031
+BATI,United States,Tennessee,47,Cumberland,035
+BATI,United States,Tennessee,47,Fentress,049
+BATI,United States,Tennessee,47,Grundy,061
+BATI,United States,Tennessee,47,Maury,119
+BATI,United States,Tennessee,47,Monroe,123
+BATI,United States,Tennessee,47,Morgan,129
+BATI,United States,Tennessee,47,Polk,139
+BATI,United States,Tennessee,47,Sequatchie,153
+BATI,United States,Tennessee,47,Sevier,155
+BATI,United States,Tennessee,47,Unicoi,171
+BATI,United States,Tennessee,47,Van Buren,175
+BATI,United States,Tennessee,47,Warren,177
+BATI,United States,Tennessee,47,Washington,179
+BATI,United States,Vermont,50,,
+BATI,United States,Vermont,50,Bennington,003
+BATI,United States,Vermont,50,Windham,025
+BATI,United States,Virginia,51,,
+BATI,United States,Virginia,51,Accomack,001
+BATI,United States,Virginia,51,Albemarle,003
+BATI,United States,Virginia,51,Alleghany,005
+BATI,United States,Virginia,51,Amelia,007
+BATI,United States,Virginia,51,Amherst,009
+BATI,United States,Virginia,51,Appomattox,011
+BATI,United States,Virginia,51,Arlington,013
+BATI,United States,Virginia,51,Augusta,015
+BATI,United States,Virginia,51,Bath,017
+BATI,United States,Virginia,51,Bedford,019
+BATI,United States,Virginia,51,Bland,021
+BATI,United States,Virginia,51,Botetourt,023
+BATI,United States,Virginia,51,Brunswick,025
+BATI,United States,Virginia,51,Buckingham,029
+BATI,United States,Virginia,51,Campbell,031
+BATI,United States,Virginia,51,Caroline,033
+BATI,United States,Virginia,51,Carroll,035
+BATI,United States,Virginia,51,Charles City,036
+BATI,United States,Virginia,51,Charlotte,037
+BATI,United States,Virginia,51,Chesterfield,041
+BATI,United States,Virginia,51,Clarke,043
+BATI,United States,Virginia,51,Craig,045
+BATI,United States,Virginia,51,Culpeper,047
+BATI,United States,Virginia,51,Cumberland,049
+BATI,United States,Virginia,51,Dinwiddie,053
+BATI,United States,Virginia,51,Essex,057
+BATI,United States,Virginia,51,Fairfax,059
+BATI,United States,Virginia,51,Fauquier,061
+BATI,United States,Virginia,51,Fluvanna,065
+BATI,United States,Virginia,51,Franklin,067
+BATI,United States,Virginia,51,Frederick,069
+BATI,United States,Virginia,51,Giles,071
+BATI,United States,Virginia,51,Gloucester,073
+BATI,United States,Virginia,51,Grayson,077
+BATI,United States,Virginia,51,Greene,079
+BATI,United States,Virginia,51,Greensville,081
+BATI,United States,Virginia,51,Halifax,083
+BATI,United States,Virginia,51,Hanover,085
+BATI,United States,Virginia,51,Henrico,087
+BATI,United States,Virginia,51,Henry,089
+BATI,United States,Virginia,51,Highland,091
+BATI,United States,Virginia,51,Isle of Wight,093
+BATI,United States,Virginia,51,James City,095
+BATI,United States,Virginia,51,King and Queen,097
+BATI,United States,Virginia,51,King George,099
+BATI,United States,Virginia,51,King William,101
+BATI,United States,Virginia,51,Lancaster,103
+BATI,United States,Virginia,51,Loudoun,107
+BATI,United States,Virginia,51,Louisa,109
+BATI,United States,Virginia,51,Lunenburg,111
+BATI,United States,Virginia,51,Madison,113
+BATI,United States,Virginia,51,Mecklenburg,117
+BATI,United States,Virginia,51,Montgomery,121
+BATI,United States,Virginia,51,Nelson,125
+BATI,United States,Virginia,51,New Kent,127
+BATI,United States,Virginia,51,Newport News ,700
+BATI,United States,Virginia,51,Northampton,131
+BATI,United States,Virginia,51,Northumberland,133
+BATI,United States,Virginia,51,Nottoway,135
+BATI,United States,Virginia,51,Orange,137
+BATI,United States,Virginia,51,Page,139
+BATI,United States,Virginia,51,Patrick,141
+BATI,United States,Virginia,51,Pittsylvania,143
+BATI,United States,Virginia,51,Powhatan,145
+BATI,United States,Virginia,51,Prince Edward,147
+BATI,United States,Virginia,51,Prince George,149
+BATI,United States,Virginia,51,Prince William,153
+BATI,United States,Virginia,51,Pulaski,155
+BATI,United States,Virginia,51,Rappahannock,157
+BATI,United States,Virginia,51,Richmond,159
+BATI,United States,Virginia,51,Roanoke,161
+BATI,United States,Virginia,51,Rockbridge,163
+BATI,United States,Virginia,51,Rockingham,165
+BATI,United States,Virginia,51,Scott,169
+BATI,United States,Virginia,51,Shenandoah,171
+BATI,United States,Virginia,51,Smyth,173
+BATI,United States,Virginia,51,Southampton,175
+BATI,United States,Virginia,51,Spotsylvania,177
+BATI,United States,Virginia,51,Suffolk ,800
+BATI,United States,Virginia,51,Surry,181
+BATI,United States,Virginia,51,Sussex,183
+BATI,United States,Virginia,51,Tazewell,185
+BATI,United States,Virginia,51,Virginia Beach ,810
+BATI,United States,Virginia,51,Warren,187
+BATI,United States,Virginia,51,Washington,191
+BATI,United States,Virginia,51,Westmoreland,193
+BATI,United States,Virginia,51,Wise,195
+BATI,United States,Virginia,51,Wythe,197
+BATI,United States,Virginia,51,York,199
+BATI,United States,West Virginia,54,,
+BATI,United States,West Virginia,54,Barbour,001
+BATI,United States,West Virginia,54,Berkeley,003
+BATI,United States,West Virginia,54,Braxton,007
+BATI,United States,West Virginia,54,Calhoun,013
+BATI,United States,West Virginia,54,Fayette,019
+BATI,United States,West Virginia,54,Grant,023
+BATI,United States,West Virginia,54,Greenbrier,025
+BATI,United States,West Virginia,54,Hampshire,027
+BATI,United States,West Virginia,54,Hardy,031
+BATI,United States,West Virginia,54,Harrison,033
+BATI,United States,West Virginia,54,Kanawha,039
+BATI,United States,West Virginia,54,Marion,049
+BATI,United States,West Virginia,54,McDowell,047
+BATI,United States,West Virginia,54,Mineral,057
+BATI,United States,West Virginia,54,Monongalia,061
+BATI,United States,West Virginia,54,Morgan,065
+BATI,United States,West Virginia,54,Nicholas,067
+BATI,United States,West Virginia,54,Pendleton,071
+BATI,United States,West Virginia,54,Pocahontas,075
+BATI,United States,West Virginia,54,Preston,077
+BATI,United States,West Virginia,54,Raleigh,081
+BATI,United States,West Virginia,54,Randolph,083
+BATI,United States,West Virginia,54,Summers,089
+BATI,United States,West Virginia,54,Tucker,093
+BATI,United States,West Virginia,54,Upshur,097
+BATI,United States,West Virginia,54,Wyoming,109
+BATI,United States,Wisconsin,55,,
+BATI,United States,Wisconsin,55,Columbia,021

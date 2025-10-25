@@ -1,0 +1,908 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VEST,United States,Alabama,01,,
+VEST,United States,Alabama,01,Bibb,007
+VEST,United States,Alabama,01,Hale,065
+VEST,United States,Arizona,04,,
+VEST,United States,Arizona,04,Coconino,005
+VEST,United States,Arkansas,05,,
+VEST,United States,Arkansas,05,Baxter,005
+VEST,United States,Arkansas,05,Benton,007
+VEST,United States,Arkansas,05,Boone,009
+VEST,United States,Arkansas,05,Carroll,015
+VEST,United States,Arkansas,05,Clay,021
+VEST,United States,Arkansas,05,Cleburne,023
+VEST,United States,Arkansas,05,Conway,029
+VEST,United States,Arkansas,05,Craighead,031
+VEST,United States,Arkansas,05,Crawford,033
+VEST,United States,Arkansas,05,Faulkner,045
+VEST,United States,Arkansas,05,Franklin,047
+VEST,United States,Arkansas,05,Fulton,049
+VEST,United States,Arkansas,05,Greene,055
+VEST,United States,Arkansas,05,Hot Spring,059
+VEST,United States,Arkansas,05,Independence,063
+VEST,United States,Arkansas,05,Izard,065
+VEST,United States,Arkansas,05,Jackson,067
+VEST,United States,Arkansas,05,Jefferson,069
+VEST,United States,Arkansas,05,Johnson,071
+VEST,United States,Arkansas,05,Lawrence,075
+VEST,United States,Arkansas,05,Little River,081
+VEST,United States,Arkansas,05,Logan,083
+VEST,United States,Arkansas,05,Madison,087
+VEST,United States,Arkansas,05,Marion,089
+VEST,United States,Arkansas,05,Mississippi,093
+VEST,United States,Arkansas,05,Montgomery,097
+VEST,United States,Arkansas,05,Newton,101
+VEST,United States,Arkansas,05,Phillips,107
+VEST,United States,Arkansas,05,Pope,115
+VEST,United States,Arkansas,05,Pulaski,119
+VEST,United States,Arkansas,05,Randolph,121
+VEST,United States,Arkansas,05,Scott,127
+VEST,United States,Arkansas,05,Searcy,129
+VEST,United States,Arkansas,05,Sharp,135
+VEST,United States,Arkansas,05,Stone,137
+VEST,United States,Arkansas,05,Van Buren,141
+VEST,United States,Arkansas,05,Washington,143
+VEST,Canada,Ontario,08,,
+VEST,United States,Colorado,08,,
+VEST,United States,Colorado,08,Baca,009
+VEST,United States,Colorado,08,Boulder,013
+VEST,United States,Colorado,08,Cheyenne,017
+VEST,United States,Colorado,08,Denver,031
+VEST,United States,Colorado,08,El Paso,041
+VEST,United States,Colorado,08,Jefferson,059
+VEST,United States,Colorado,08,Kit Carson,063
+VEST,United States,Colorado,08,Las Animas,071
+VEST,United States,Colorado,08,Logan,075
+VEST,United States,Colorado,08,Sedgwick,115
+VEST,United States,Colorado,08,Teller,119
+VEST,United States,Colorado,08,Washington,121
+VEST,United States,Colorado,08,Weld,123
+VEST,United States,Colorado,08,Yuma,125
+VEST,United States,Connecticut,09,,
+VEST,United States,Connecticut,09,Fairfield,001
+VEST,United States,Connecticut,09,Litchfield,005
+VEST,United States,Connecticut,09,New Haven,009
+VEST,United States,Connecticut,09,Windham,015
+VEST,Canada,Quebec,10,,
+VEST,United States,Delaware,10,,
+VEST,United States,Georgia,13,,
+VEST,United States,Georgia,13,Douglas,097
+VEST,United States,Idaho,16,,
+VEST,United States,Idaho,16,Blaine,013
+VEST,United States,Idaho,16,Washington,087
+VEST,United States,Illinois,17,,
+VEST,United States,Illinois,17,Adams,001
+VEST,United States,Illinois,17,Alexander,003
+VEST,United States,Illinois,17,Bond,005
+VEST,United States,Illinois,17,Boone,007
+VEST,United States,Illinois,17,Brown,009
+VEST,United States,Illinois,17,Bureau,011
+VEST,United States,Illinois,17,Calhoun,013
+VEST,United States,Illinois,17,Carroll,015
+VEST,United States,Illinois,17,Cass,017
+VEST,United States,Illinois,17,Champaign,019
+VEST,United States,Illinois,17,Christian,021
+VEST,United States,Illinois,17,Clark,023
+VEST,United States,Illinois,17,Clay,025
+VEST,United States,Illinois,17,Clinton,027
+VEST,United States,Illinois,17,Coles,029
+VEST,United States,Illinois,17,Cook,031
+VEST,United States,Illinois,17,Crawford,033
+VEST,United States,Illinois,17,De Witt,039
+VEST,United States,Illinois,17,DeKalb,037
+VEST,United States,Illinois,17,Douglas,041
+VEST,United States,Illinois,17,DuPage,043
+VEST,United States,Illinois,17,Edgar,045
+VEST,United States,Illinois,17,Edwards,047
+VEST,United States,Illinois,17,Effingham,049
+VEST,United States,Illinois,17,Fayette,051
+VEST,United States,Illinois,17,Ford,053
+VEST,United States,Illinois,17,Franklin,055
+VEST,United States,Illinois,17,Fulton,057
+VEST,United States,Illinois,17,Gallatin,059
+VEST,United States,Illinois,17,Greene,061
+VEST,United States,Illinois,17,Grundy,063
+VEST,United States,Illinois,17,Hamilton,065
+VEST,United States,Illinois,17,Hancock,067
+VEST,United States,Illinois,17,Henderson,071
+VEST,United States,Illinois,17,Henry,073
+VEST,United States,Illinois,17,Iroquois,075
+VEST,United States,Illinois,17,Jackson,077
+VEST,United States,Illinois,17,Jasper,079
+VEST,United States,Illinois,17,Jefferson,081
+VEST,United States,Illinois,17,Jersey,083
+VEST,United States,Illinois,17,Jo Daviess,085
+VEST,United States,Illinois,17,Johnson,087
+VEST,United States,Illinois,17,Kane,089
+VEST,United States,Illinois,17,Kankakee,091
+VEST,United States,Illinois,17,Kendall,093
+VEST,United States,Illinois,17,Knox,095
+VEST,United States,Illinois,17,Lake,097
+VEST,United States,Illinois,17,LaSalle,099
+VEST,United States,Illinois,17,Lawrence,101
+VEST,United States,Illinois,17,Lee,103
+VEST,United States,Illinois,17,Livingston,105
+VEST,United States,Illinois,17,Logan,107
+VEST,United States,Illinois,17,Macon,115
+VEST,United States,Illinois,17,Macoupin,117
+VEST,United States,Illinois,17,Madison,119
+VEST,United States,Illinois,17,Marion,121
+VEST,United States,Illinois,17,Marshall,123
+VEST,United States,Illinois,17,Mason,125
+VEST,United States,Illinois,17,Massac,127
+VEST,United States,Illinois,17,McDonough,109
+VEST,United States,Illinois,17,McHenry,111
+VEST,United States,Illinois,17,McLean,113
+VEST,United States,Illinois,17,Menard,129
+VEST,United States,Illinois,17,Mercer,131
+VEST,United States,Illinois,17,Monroe,133
+VEST,United States,Illinois,17,Montgomery,135
+VEST,United States,Illinois,17,Morgan,137
+VEST,United States,Illinois,17,Moultrie,139
+VEST,United States,Illinois,17,Ogle,141
+VEST,United States,Illinois,17,Peoria,143
+VEST,United States,Illinois,17,Perry,145
+VEST,United States,Illinois,17,Piatt,147
+VEST,United States,Illinois,17,Pike,149
+VEST,United States,Illinois,17,Pope,151
+VEST,United States,Illinois,17,Pulaski,153
+VEST,United States,Illinois,17,Putnam,155
+VEST,United States,Illinois,17,Randolph,157
+VEST,United States,Illinois,17,Richland,159
+VEST,United States,Illinois,17,Rock Island,161
+VEST,United States,Illinois,17,Saline,165
+VEST,United States,Illinois,17,Sangamon,167
+VEST,United States,Illinois,17,Schuyler,169
+VEST,United States,Illinois,17,Scott,171
+VEST,United States,Illinois,17,Shelby,173
+VEST,United States,Illinois,17,St. Clair,163
+VEST,United States,Illinois,17,Stark,175
+VEST,United States,Illinois,17,Stephenson,177
+VEST,United States,Illinois,17,Tazewell,179
+VEST,United States,Illinois,17,Union,181
+VEST,United States,Illinois,17,Vermilion,183
+VEST,United States,Illinois,17,Wabash,185
+VEST,United States,Illinois,17,Warren,187
+VEST,United States,Illinois,17,Washington,189
+VEST,United States,Illinois,17,Wayne,191
+VEST,United States,Illinois,17,White,193
+VEST,United States,Illinois,17,Whiteside,195
+VEST,United States,Illinois,17,Will,197
+VEST,United States,Illinois,17,Williamson,199
+VEST,United States,Illinois,17,Winnebago,201
+VEST,United States,Illinois,17,Woodford,203
+VEST,United States,Indiana,18,,
+VEST,United States,Indiana,18,Carroll,015
+VEST,United States,Indiana,18,Clark,019
+VEST,United States,Indiana,18,Clay,021
+VEST,United States,Indiana,18,Daviess,027
+VEST,United States,Indiana,18,Delaware,035
+VEST,United States,Indiana,18,Elkhart,039
+VEST,United States,Indiana,18,Fountain,045
+VEST,United States,Indiana,18,Fulton,049
+VEST,United States,Indiana,18,Gibson,051
+VEST,United States,Indiana,18,Greene,055
+VEST,United States,Indiana,18,Hamilton,057
+VEST,United States,Indiana,18,Harrison,061
+VEST,United States,Indiana,18,Hendricks,063
+VEST,United States,Indiana,18,Henry,065
+VEST,United States,Indiana,18,Howard,067
+VEST,United States,Indiana,18,Huntington,069
+VEST,United States,Indiana,18,Jasper,073
+VEST,United States,Indiana,18,Jefferson,077
+VEST,United States,Indiana,18,Jennings,079
+VEST,United States,Indiana,18,Knox,083
+VEST,United States,Indiana,18,Kosciusko,085
+VEST,United States,Indiana,18,Lagrange,087
+VEST,United States,Indiana,18,Lake,089
+VEST,United States,Indiana,18,LaPorte,091
+VEST,United States,Indiana,18,Lawrence,093
+VEST,United States,Indiana,18,Marion,097
+VEST,United States,Indiana,18,Marshall,099
+VEST,United States,Indiana,18,Martin,101
+VEST,United States,Indiana,18,Miami,103
+VEST,United States,Indiana,18,Monroe,105
+VEST,United States,Indiana,18,Montgomery,107
+VEST,United States,Indiana,18,Newton,111
+VEST,United States,Indiana,18,Orange,117
+VEST,United States,Indiana,18,Owen,119
+VEST,United States,Indiana,18,Parke,121
+VEST,United States,Indiana,18,Pike,125
+VEST,United States,Indiana,18,Porter,127
+VEST,United States,Indiana,18,Posey,129
+VEST,United States,Indiana,18,Pulaski,131
+VEST,United States,Indiana,18,Putnam,133
+VEST,United States,Indiana,18,St. Joseph,141
+VEST,United States,Indiana,18,Starke,149
+VEST,United States,Indiana,18,Steuben,151
+VEST,United States,Indiana,18,Sullivan,153
+VEST,United States,Indiana,18,Tippecanoe,157
+VEST,United States,Indiana,18,Tipton,159
+VEST,United States,Indiana,18,Vermillion,165
+VEST,United States,Indiana,18,Vigo,167
+VEST,United States,Indiana,18,Wabash,169
+VEST,United States,Indiana,18,Warren,171
+VEST,United States,Indiana,18,Wayne,177
+VEST,United States,Indiana,18,White,181
+VEST,United States,Iowa,19,,
+VEST,United States,Iowa,19,Adair,001
+VEST,United States,Iowa,19,Adams,003
+VEST,United States,Iowa,19,Audubon,009
+VEST,United States,Iowa,19,Benton,011
+VEST,United States,Iowa,19,Cass,029
+VEST,United States,Iowa,19,Cherokee,035
+VEST,United States,Iowa,19,Clayton,043
+VEST,United States,Iowa,19,Crawford,047
+VEST,United States,Iowa,19,Delaware,055
+VEST,United States,Iowa,19,Fremont,071
+VEST,United States,Iowa,19,Guthrie,077
+VEST,United States,Iowa,19,Harrison,085
+VEST,United States,Iowa,19,Ida,093
+VEST,United States,Iowa,19,Iowa,095
+VEST,United States,Iowa,19,Linn,113
+VEST,United States,Iowa,19,Lyon,119
+VEST,United States,Iowa,19,Madison,121
+VEST,United States,Iowa,19,Mahaska,123
+VEST,United States,Iowa,19,Marion,125
+VEST,United States,Iowa,19,Mills,129
+VEST,United States,Iowa,19,Monona,133
+VEST,United States,Iowa,19,O'Brien,141
+VEST,United States,Iowa,19,Osceola,143
+VEST,United States,Iowa,19,Page,145
+VEST,United States,Iowa,19,Plymouth,149
+VEST,United States,Iowa,19,Pottawattamie,155
+VEST,United States,Iowa,19,Poweshiek,157
+VEST,United States,Iowa,19,Ringgold,159
+VEST,United States,Iowa,19,Shelby,165
+VEST,United States,Iowa,19,Sioux,167
+VEST,United States,Iowa,19,Taylor,173
+VEST,United States,Iowa,19,Union,175
+VEST,United States,Iowa,19,Warren,181
+VEST,United States,Iowa,19,Woodbury,193
+VEST,United States,Kansas,20,,
+VEST,United States,Kansas,20,Allen,001
+VEST,United States,Kansas,20,Anderson,003
+VEST,United States,Kansas,20,Atchison,005
+VEST,United States,Kansas,20,Barber,007
+VEST,United States,Kansas,20,Barton,009
+VEST,United States,Kansas,20,Bourbon,011
+VEST,United States,Kansas,20,Brown,013
+VEST,United States,Kansas,20,Butler,015
+VEST,United States,Kansas,20,Chase,017
+VEST,United States,Kansas,20,Chautauqua,019
+VEST,United States,Kansas,20,Cherokee,021
+VEST,United States,Kansas,20,Cheyenne,023
+VEST,United States,Kansas,20,Clark,025
+VEST,United States,Kansas,20,Clay,027
+VEST,United States,Kansas,20,Cloud,029
+VEST,United States,Kansas,20,Coffey,031
+VEST,United States,Kansas,20,Comanche,033
+VEST,United States,Kansas,20,Cowley,035
+VEST,United States,Kansas,20,Crawford,037
+VEST,United States,Kansas,20,Decatur,039
+VEST,United States,Kansas,20,Dickinson,041
+VEST,United States,Kansas,20,Doniphan,043
+VEST,United States,Kansas,20,Douglas,045
+VEST,United States,Kansas,20,Edwards,047
+VEST,United States,Kansas,20,Elk,049
+VEST,United States,Kansas,20,Ellis,051
+VEST,United States,Kansas,20,Ellsworth,053
+VEST,United States,Kansas,20,Finney,055
+VEST,United States,Kansas,20,Ford,057
+VEST,United States,Kansas,20,Franklin,059
+VEST,United States,Kansas,20,Geary,061
+VEST,United States,Kansas,20,Gove,063
+VEST,United States,Kansas,20,Graham,065
+VEST,United States,Kansas,20,Gray,069
+VEST,United States,Kansas,20,Greeley,071
+VEST,United States,Kansas,20,Greenwood,073
+VEST,United States,Kansas,20,Hamilton,075
+VEST,United States,Kansas,20,Harper,077
+VEST,United States,Kansas,20,Harvey,079
+VEST,United States,Kansas,20,Hodgeman,083
+VEST,United States,Kansas,20,Jackson,085
+VEST,United States,Kansas,20,Jefferson,087
+VEST,United States,Kansas,20,Jewell,089
+VEST,United States,Kansas,20,Johnson,091
+VEST,United States,Kansas,20,Kearny,093
+VEST,United States,Kansas,20,Kingman,095
+VEST,United States,Kansas,20,Kiowa,097
+VEST,United States,Kansas,20,Labette,099
+VEST,United States,Kansas,20,Lane,101
+VEST,United States,Kansas,20,Leavenworth,103
+VEST,United States,Kansas,20,Lincoln,105
+VEST,United States,Kansas,20,Linn,107
+VEST,United States,Kansas,20,Logan,109
+VEST,United States,Kansas,20,Lyon,111
+VEST,United States,Kansas,20,Marion,115
+VEST,United States,Kansas,20,Marshall,117
+VEST,United States,Kansas,20,McPherson,113
+VEST,United States,Kansas,20,Meade,119
+VEST,United States,Kansas,20,Miami,121
+VEST,United States,Kansas,20,Mitchell,123
+VEST,United States,Kansas,20,Montgomery,125
+VEST,United States,Kansas,20,Morris,127
+VEST,United States,Kansas,20,Morton,129
+VEST,United States,Kansas,20,Nemaha,131
+VEST,United States,Kansas,20,Neosho,133
+VEST,United States,Kansas,20,Ness,135
+VEST,United States,Kansas,20,Norton,137
+VEST,United States,Kansas,20,Osage,139
+VEST,United States,Kansas,20,Osborne,141
+VEST,United States,Kansas,20,Ottawa,143
+VEST,United States,Kansas,20,Pawnee,145
+VEST,United States,Kansas,20,Phillips,147
+VEST,United States,Kansas,20,Pottawatomie,149
+VEST,United States,Kansas,20,Pratt,151
+VEST,United States,Kansas,20,Rawlins,153
+VEST,United States,Kansas,20,Reno,155
+VEST,United States,Kansas,20,Republic,157
+VEST,United States,Kansas,20,Rice,159
+VEST,United States,Kansas,20,Riley,161
+VEST,United States,Kansas,20,Rooks,163
+VEST,United States,Kansas,20,Rush,165
+VEST,United States,Kansas,20,Russell,167
+VEST,United States,Kansas,20,Saline,169
+VEST,United States,Kansas,20,Scott,171
+VEST,United States,Kansas,20,Sedgwick,173
+VEST,United States,Kansas,20,Shawnee,177
+VEST,United States,Kansas,20,Sheridan,179
+VEST,United States,Kansas,20,Sherman,181
+VEST,United States,Kansas,20,Smith,183
+VEST,United States,Kansas,20,Stafford,185
+VEST,United States,Kansas,20,Sumner,191
+VEST,United States,Kansas,20,Thomas,193
+VEST,United States,Kansas,20,Trego,195
+VEST,United States,Kansas,20,Wabaunsee,197
+VEST,United States,Kansas,20,Wallace,199
+VEST,United States,Kansas,20,Washington,201
+VEST,United States,Kansas,20,Wichita,203
+VEST,United States,Kansas,20,Wilson,205
+VEST,United States,Kansas,20,Woodson,207
+VEST,United States,Kansas,20,Wyandotte,209
+VEST,United States,Kentucky,21,,
+VEST,United States,Kentucky,21,Ballard,007
+VEST,United States,Kentucky,21,Barren,009
+VEST,United States,Kentucky,21,Carlisle,039
+VEST,United States,Kentucky,21,Christian,047
+VEST,United States,Kentucky,21,Fayette,067
+VEST,United States,Kentucky,21,Fulton,075
+VEST,United States,Kentucky,21,Graves,083
+VEST,United States,Kentucky,21,Grayson,085
+VEST,United States,Kentucky,21,Hickman,105
+VEST,United States,Kentucky,21,Jefferson,111
+VEST,United States,Kentucky,21,Lincoln,137
+VEST,United States,Kentucky,21,Oldham,185
+VEST,United States,Kentucky,21,Trigg,221
+VEST,United States,Massachusetts,25,,
+VEST,United States,Massachusetts,25,Barnstable,001
+VEST,United States,Massachusetts,25,Berkshire,003
+VEST,United States,Massachusetts,25,Bristol,005
+VEST,United States,Massachusetts,25,Essex,009
+VEST,United States,Massachusetts,25,Hampshire,015
+VEST,United States,Massachusetts,25,Middlesex,017
+VEST,United States,Michigan,26,,
+VEST,United States,Michigan,26,Alcona,001
+VEST,United States,Michigan,26,Alpena,007
+VEST,United States,Michigan,26,Antrim,009
+VEST,United States,Michigan,26,Barry,015
+VEST,United States,Michigan,26,Benzie,019
+VEST,United States,Michigan,26,Berrien,021
+VEST,United States,Michigan,26,Calhoun,025
+VEST,United States,Michigan,26,Charlevoix,029
+VEST,United States,Michigan,26,Cheboygan,031
+VEST,United States,Michigan,26,Clinton,037
+VEST,United States,Michigan,26,Crawford,039
+VEST,United States,Michigan,26,Dickinson,043
+VEST,United States,Michigan,26,Emmet,047
+VEST,United States,Michigan,26,Grand Traverse,055
+VEST,United States,Michigan,26,Gratiot,057
+VEST,United States,Michigan,26,Hillsdale,059
+VEST,United States,Michigan,26,Iosco,069
+VEST,United States,Michigan,26,Isabella,073
+VEST,United States,Michigan,26,Kalamazoo,077
+VEST,United States,Michigan,26,Kalkaska,079
+VEST,United States,Michigan,26,Kent,081
+VEST,United States,Michigan,26,Lake,085
+VEST,United States,Michigan,26,Lapeer,087
+VEST,United States,Michigan,26,Leelanau,089
+VEST,United States,Michigan,26,Lenawee,091
+VEST,United States,Michigan,26,Livingston,093
+VEST,United States,Michigan,26,Macomb,099
+VEST,United States,Michigan,26,Manistee,101
+VEST,United States,Michigan,26,Menominee,109
+VEST,United States,Michigan,26,Missaukee,113
+VEST,United States,Michigan,26,Muskegon,121
+VEST,United States,Michigan,26,Newaygo,123
+VEST,United States,Michigan,26,Oakland,125
+VEST,United States,Michigan,26,Oceana,127
+VEST,United States,Michigan,26,Oscoda,135
+VEST,United States,Michigan,26,Otsego,137
+VEST,United States,Michigan,26,St. Joseph,149
+VEST,United States,Michigan,26,Van Buren,159
+VEST,United States,Michigan,26,Washtenaw,161
+VEST,United States,Michigan,26,Wayne,163
+VEST,United States,Michigan,26,Wexford,165
+VEST,United States,Minnesota,27,,
+VEST,United States,Minnesota,27,Anoka,003
+VEST,United States,Minnesota,27,Benton,009
+VEST,United States,Minnesota,27,Big Stone,011
+VEST,United States,Minnesota,27,Blue Earth,013
+VEST,United States,Minnesota,27,Brown,015
+VEST,United States,Minnesota,27,Chippewa,023
+VEST,United States,Minnesota,27,Chisago,025
+VEST,United States,Minnesota,27,Clay,027
+VEST,United States,Minnesota,27,Cottonwood,033
+VEST,United States,Minnesota,27,Dakota,037
+VEST,United States,Minnesota,27,Faribault,043
+VEST,United States,Minnesota,27,Fillmore,045
+VEST,United States,Minnesota,27,Goodhue,049
+VEST,United States,Minnesota,27,Hennepin,053
+VEST,United States,Minnesota,27,Houston,055
+VEST,United States,Minnesota,27,Jackson,063
+VEST,United States,Minnesota,27,Kandiyohi,067
+VEST,United States,Minnesota,27,Lac qui Parle,073
+VEST,United States,Minnesota,27,Le Sueur,079
+VEST,United States,Minnesota,27,Lincoln,081
+VEST,United States,Minnesota,27,Lyon,083
+VEST,United States,Minnesota,27,Martin,091
+VEST,United States,Minnesota,27,Morrison,097
+VEST,United States,Minnesota,27,Mower,099
+VEST,United States,Minnesota,27,Murray,101
+VEST,United States,Minnesota,27,Nobles,105
+VEST,United States,Minnesota,27,Norman,107
+VEST,United States,Minnesota,27,Pipestone,117
+VEST,United States,Minnesota,27,Pope,121
+VEST,United States,Minnesota,27,Ramsey,123
+VEST,United States,Minnesota,27,Redwood,127
+VEST,United States,Minnesota,27,Renville,129
+VEST,United States,Minnesota,27,Rock,133
+VEST,United States,Minnesota,27,Scott,139
+VEST,United States,Minnesota,27,Sherburne,141
+VEST,United States,Minnesota,27,St. Louis,137
+VEST,United States,Minnesota,27,Stearns,145
+VEST,United States,Minnesota,27,Traverse,155
+VEST,United States,Minnesota,27,Wabasha,157
+VEST,United States,Minnesota,27,Washington,163
+VEST,United States,Minnesota,27,Watonwan,165
+VEST,United States,Minnesota,27,Wilkin,167
+VEST,United States,Minnesota,27,Wright,171
+VEST,United States,Minnesota,27,Yellow Medicine,173
+VEST,United States,Mississippi,28,,
+VEST,United States,Mississippi,28,Tishomingo,141
+VEST,United States,Missouri,29,,
+VEST,United States,Missouri,29,Adair,001
+VEST,United States,Missouri,29,Andrew,003
+VEST,United States,Missouri,29,Atchison,005
+VEST,United States,Missouri,29,Barry,009
+VEST,United States,Missouri,29,Barton,011
+VEST,United States,Missouri,29,Bates,013
+VEST,United States,Missouri,29,Benton,015
+VEST,United States,Missouri,29,Bollinger,017
+VEST,United States,Missouri,29,Boone,019
+VEST,United States,Missouri,29,Buchanan,021
+VEST,United States,Missouri,29,Butler,023
+VEST,United States,Missouri,29,Caldwell,025
+VEST,United States,Missouri,29,Callaway,027
+VEST,United States,Missouri,29,Camden,029
+VEST,United States,Missouri,29,Cape Girardeau,031
+VEST,United States,Missouri,29,Carroll,033
+VEST,United States,Missouri,29,Carter,035
+VEST,United States,Missouri,29,Cass,037
+VEST,United States,Missouri,29,Cedar,039
+VEST,United States,Missouri,29,Chariton,041
+VEST,United States,Missouri,29,Christian,043
+VEST,United States,Missouri,29,Clark,045
+VEST,United States,Missouri,29,Clay,047
+VEST,United States,Missouri,29,Clinton,049
+VEST,United States,Missouri,29,Cole,051
+VEST,United States,Missouri,29,Cooper,053
+VEST,United States,Missouri,29,Crawford,055
+VEST,United States,Missouri,29,Dade,057
+VEST,United States,Missouri,29,Dallas,059
+VEST,United States,Missouri,29,Daviess,061
+VEST,United States,Missouri,29,DeKalb,063
+VEST,United States,Missouri,29,Dent,065
+VEST,United States,Missouri,29,Douglas,067
+VEST,United States,Missouri,29,Dunklin,069
+VEST,United States,Missouri,29,Franklin,071
+VEST,United States,Missouri,29,Gasconade,073
+VEST,United States,Missouri,29,Gentry,075
+VEST,United States,Missouri,29,Greene,077
+VEST,United States,Missouri,29,Grundy,079
+VEST,United States,Missouri,29,Harrison,081
+VEST,United States,Missouri,29,Henry,083
+VEST,United States,Missouri,29,Hickory,085
+VEST,United States,Missouri,29,Holt,087
+VEST,United States,Missouri,29,Howard,089
+VEST,United States,Missouri,29,Howell,091
+VEST,United States,Missouri,29,Iron,093
+VEST,United States,Missouri,29,Jackson,095
+VEST,United States,Missouri,29,Jasper,097
+VEST,United States,Missouri,29,Jefferson,099
+VEST,United States,Missouri,29,Johnson,101
+VEST,United States,Missouri,29,Laclede,105
+VEST,United States,Missouri,29,Lafayette,107
+VEST,United States,Missouri,29,Lawrence,109
+VEST,United States,Missouri,29,Lewis,111
+VEST,United States,Missouri,29,Lincoln,113
+VEST,United States,Missouri,29,Linn,115
+VEST,United States,Missouri,29,Livingston,117
+VEST,United States,Missouri,29,Madison,123
+VEST,United States,Missouri,29,Maries,125
+VEST,United States,Missouri,29,Marion,127
+VEST,United States,Missouri,29,McDonald,119
+VEST,United States,Missouri,29,Mercer,129
+VEST,United States,Missouri,29,Miller,131
+VEST,United States,Missouri,29,Mississippi,133
+VEST,United States,Missouri,29,Moniteau,135
+VEST,United States,Missouri,29,Monroe,137
+VEST,United States,Missouri,29,Montgomery,139
+VEST,United States,Missouri,29,New Madrid,143
+VEST,United States,Missouri,29,Newton,145
+VEST,United States,Missouri,29,Nodaway,147
+VEST,United States,Missouri,29,Oregon,149
+VEST,United States,Missouri,29,Osage,151
+VEST,United States,Missouri,29,Ozark,153
+VEST,United States,Missouri,29,Pemiscot,155
+VEST,United States,Missouri,29,Perry,157
+VEST,United States,Missouri,29,Pettis,159
+VEST,United States,Missouri,29,Phelps,161
+VEST,United States,Missouri,29,Pike,163
+VEST,United States,Missouri,29,Platte,165
+VEST,United States,Missouri,29,Polk,167
+VEST,United States,Missouri,29,Pulaski,169
+VEST,United States,Missouri,29,Putnam,171
+VEST,United States,Missouri,29,Ralls,173
+VEST,United States,Missouri,29,Randolph,175
+VEST,United States,Missouri,29,Ray,177
+VEST,United States,Missouri,29,Reynolds,179
+VEST,United States,Missouri,29,Ripley,181
+VEST,United States,Missouri,29,Saline,195
+VEST,United States,Missouri,29,Schuyler,197
+VEST,United States,Missouri,29,Scott,201
+VEST,United States,Missouri,29,Shannon,203
+VEST,United States,Missouri,29,Shelby,205
+VEST,United States,Missouri,29,St. Charles,183
+VEST,United States,Missouri,29,St. Clair,185
+VEST,United States,Missouri,29,St. Francois,187
+VEST,United States,Missouri,29,St. Louis,189
+VEST,United States,Missouri,29,Ste. Genevieve,186
+VEST,United States,Missouri,29,Stoddard,207
+VEST,United States,Missouri,29,Stone,209
+VEST,United States,Missouri,29,Sullivan,211
+VEST,United States,Missouri,29,Taney,213
+VEST,United States,Missouri,29,Texas,215
+VEST,United States,Missouri,29,Vernon,217
+VEST,United States,Missouri,29,Warren,219
+VEST,United States,Missouri,29,Washington,221
+VEST,United States,Missouri,29,Wayne,223
+VEST,United States,Missouri,29,Webster,225
+VEST,United States,Missouri,29,Wright,229
+VEST,United States,Montana,30,,
+VEST,United States,Montana,30,Big Horn,003
+VEST,United States,Nebraska,31,,
+VEST,United States,Nebraska,31,Adams,001
+VEST,United States,Nebraska,31,Antelope,003
+VEST,United States,Nebraska,31,Arthur,005
+VEST,United States,Nebraska,31,Banner,007
+VEST,United States,Nebraska,31,Blaine,009
+VEST,United States,Nebraska,31,Boone,011
+VEST,United States,Nebraska,31,Box Butte,013
+VEST,United States,Nebraska,31,Boyd,015
+VEST,United States,Nebraska,31,Brown,017
+VEST,United States,Nebraska,31,Buffalo,019
+VEST,United States,Nebraska,31,Cass,025
+VEST,United States,Nebraska,31,Cedar,027
+VEST,United States,Nebraska,31,Chase,029
+VEST,United States,Nebraska,31,Cherry,031
+VEST,United States,Nebraska,31,Cheyenne,033
+VEST,United States,Nebraska,31,Colfax,037
+VEST,United States,Nebraska,31,Cuming,039
+VEST,United States,Nebraska,31,Custer,041
+VEST,United States,Nebraska,31,Dawes,045
+VEST,United States,Nebraska,31,Dawson,047
+VEST,United States,Nebraska,31,Deuel,049
+VEST,United States,Nebraska,31,Dodge,053
+VEST,United States,Nebraska,31,Douglas,055
+VEST,United States,Nebraska,31,Dundy,057
+VEST,United States,Nebraska,31,Franklin,061
+VEST,United States,Nebraska,31,Furnas,065
+VEST,United States,Nebraska,31,Gage,067
+VEST,United States,Nebraska,31,Garden,069
+VEST,United States,Nebraska,31,Garfield,071
+VEST,United States,Nebraska,31,Gosper,073
+VEST,United States,Nebraska,31,Grant,075
+VEST,United States,Nebraska,31,Greeley,077
+VEST,United States,Nebraska,31,Hall,079
+VEST,United States,Nebraska,31,Hamilton,081
+VEST,United States,Nebraska,31,Harlan,083
+VEST,United States,Nebraska,31,Hayes,085
+VEST,United States,Nebraska,31,Hitchcock,087
+VEST,United States,Nebraska,31,Holt,089
+VEST,United States,Nebraska,31,Hooker,091
+VEST,United States,Nebraska,31,Howard,093
+VEST,United States,Nebraska,31,Jefferson,095
+VEST,United States,Nebraska,31,Johnson,097
+VEST,United States,Nebraska,31,Kearney,099
+VEST,United States,Nebraska,31,Keith,101
+VEST,United States,Nebraska,31,Keya Paha,103
+VEST,United States,Nebraska,31,Kimball,105
+VEST,United States,Nebraska,31,Lancaster,109
+VEST,United States,Nebraska,31,Lincoln,111
+VEST,United States,Nebraska,31,Loup,115
+VEST,United States,Nebraska,31,Madison,119
+VEST,United States,Nebraska,31,McPherson,117
+VEST,United States,Nebraska,31,Merrick,121
+VEST,United States,Nebraska,31,Morrill,123
+VEST,United States,Nebraska,31,Nance,125
+VEST,United States,Nebraska,31,Nemaha,127
+VEST,United States,Nebraska,31,Otoe,131
+VEST,United States,Nebraska,31,Pawnee,133
+VEST,United States,Nebraska,31,Phelps,137
+VEST,United States,Nebraska,31,Pierce,139
+VEST,United States,Nebraska,31,Platte,141
+VEST,United States,Nebraska,31,Red Willow,145
+VEST,United States,Nebraska,31,Richardson,147
+VEST,United States,Nebraska,31,Saline,151
+VEST,United States,Nebraska,31,Sarpy,153
+VEST,United States,Nebraska,31,Saunders,155
+VEST,United States,Nebraska,31,Scotts Bluff,157
+VEST,United States,Nebraska,31,Sheridan,161
+VEST,United States,Nebraska,31,Sherman,163
+VEST,United States,Nebraska,31,Sioux,165
+VEST,United States,Nebraska,31,Thayer,169
+VEST,United States,Nebraska,31,Thomas,171
+VEST,United States,Nebraska,31,Valley,175
+VEST,United States,Nebraska,31,Washington,177
+VEST,United States,Nebraska,31,Webster,181
+VEST,United States,Nebraska,31,Wheeler,183
+VEST,United States,Nebraska,31,York,185
+VEST,United States,Nevada,32,,
+VEST,United States,Nevada,32,Elko,007
+VEST,United States,New Jersey,34,,
+VEST,United States,New Jersey,34,Cape May,009
+VEST,United States,New Jersey,34,Hudson,017
+VEST,United States,New Jersey,34,Hunterdon,019
+VEST,United States,New Jersey,34,Monmouth,025
+VEST,United States,New Jersey,34,Warren,041
+VEST,United States,New Mexico,35,,
+VEST,United States,New Mexico,35,San Miguel,047
+VEST,United States,New Mexico,35,Taos,055
+VEST,United States,New York,36,,
+VEST,United States,New York,36,Albany,001
+VEST,United States,New York,36,Cayuga,011
+VEST,United States,New York,36,Erie,029
+VEST,United States,New York,36,Lewis,049
+VEST,United States,New York,36,Onondaga,067
+VEST,United States,New York,36,Queens,081
+VEST,United States,New York,36,Rockland,087
+VEST,United States,New York,36,Seneca,099
+VEST,United States,New York,36,Suffolk,103
+VEST,United States,New York,36,Tompkins,109
+VEST,United States,New York,36,Ulster,111
+VEST,United States,New York,36,Washington,115
+VEST,United States,North Carolina,37,,
+VEST,United States,North Carolina,37,Onslow,133
+VEST,United States,North Dakota,38,,
+VEST,United States,North Dakota,38,Barnes,003
+VEST,United States,North Dakota,38,Cass,017
+VEST,United States,North Dakota,38,Dickey,021
+VEST,United States,North Dakota,38,Emmons,029
+VEST,United States,North Dakota,38,McLean,055
+VEST,United States,North Dakota,38,Ransom,073
+VEST,United States,North Dakota,38,Richland,077
+VEST,United States,North Dakota,38,Sargent,081
+VEST,United States,North Dakota,38,Stutsman,093
+VEST,United States,Ohio,39,,
+VEST,United States,Ohio,39,Ashtabula,007
+VEST,United States,Ohio,39,Belmont,013
+VEST,United States,Ohio,39,Butler,017
+VEST,United States,Ohio,39,Champaign,021
+VEST,United States,Ohio,39,Clark,023
+VEST,United States,Ohio,39,Clermont,025
+VEST,United States,Ohio,39,Crawford,033
+VEST,United States,Ohio,39,Cuyahoga,035
+VEST,United States,Ohio,39,Delaware,041
+VEST,United States,Ohio,39,Franklin,049
+VEST,United States,Ohio,39,Fulton,051
+VEST,United States,Ohio,39,Hamilton,061
+VEST,United States,Ohio,39,Highland,071
+VEST,United States,Ohio,39,Holmes,075
+VEST,United States,Ohio,39,Huron,077
+VEST,United States,Ohio,39,Lake,085
+VEST,United States,Ohio,39,Licking,089
+VEST,United States,Ohio,39,Lucas,095
+VEST,United States,Ohio,39,Madison,097
+VEST,United States,Ohio,39,Mahoning,099
+VEST,United States,Ohio,39,Miami,109
+VEST,United States,Ohio,39,Montgomery,113
+VEST,United States,Ohio,39,Pickaway,129
+VEST,United States,Ohio,39,Preble,135
+VEST,United States,Ohio,39,Ross,141
+VEST,United States,Ohio,39,Sandusky,143
+VEST,United States,Ohio,39,Stark,151
+VEST,United States,Ohio,39,Trumbull,155
+VEST,United States,Ohio,39,Tuscarawas,157
+VEST,United States,Ohio,39,Warren,165
+VEST,United States,Ohio,39,Wood,173
+VEST,United States,Oklahoma,40,,
+VEST,United States,Oklahoma,40,Adair,001
+VEST,United States,Oklahoma,40,Alfalfa,003
+VEST,United States,Oklahoma,40,Beaver,007
+VEST,United States,Oklahoma,40,Beckham,009
+VEST,United States,Oklahoma,40,Bryan,013
+VEST,United States,Oklahoma,40,Caddo,015
+VEST,United States,Oklahoma,40,Carter,019
+VEST,United States,Oklahoma,40,Cherokee,021
+VEST,United States,Oklahoma,40,Cleveland,027
+VEST,United States,Oklahoma,40,Comanche,031
+VEST,United States,Oklahoma,40,Craig,035
+VEST,United States,Oklahoma,40,Custer,039
+VEST,United States,Oklahoma,40,Delaware,041
+VEST,United States,Oklahoma,40,Dewey,043
+VEST,United States,Oklahoma,40,Ellis,045
+VEST,United States,Oklahoma,40,Garfield,047
+VEST,United States,Oklahoma,40,Garvin,049
+VEST,United States,Oklahoma,40,Grady,051
+VEST,United States,Oklahoma,40,Greer,055
+VEST,United States,Oklahoma,40,Harper,059
+VEST,United States,Oklahoma,40,Kay,071
+VEST,United States,Oklahoma,40,Latimer,077
+VEST,United States,Oklahoma,40,Le Flore,079
+VEST,United States,Oklahoma,40,Logan,083
+VEST,United States,Oklahoma,40,Marshall,095
+VEST,United States,Oklahoma,40,Mayes,097
+VEST,United States,Oklahoma,40,McClain,087
+VEST,United States,Oklahoma,40,Murray,099
+VEST,United States,Oklahoma,40,Muskogee,101
+VEST,United States,Oklahoma,40,Nowata,105
+VEST,United States,Oklahoma,40,Oklahoma,109
+VEST,United States,Oklahoma,40,Osage,113
+VEST,United States,Oklahoma,40,Ottawa,115
+VEST,United States,Oklahoma,40,Pittsburg,121
+VEST,United States,Oklahoma,40,Pontotoc,123
+VEST,United States,Oklahoma,40,Pottawatomie,125
+VEST,United States,Oklahoma,40,Tulsa,143
+VEST,United States,Oklahoma,40,Woods,151
+VEST,United States,Pennsylvania,42,,
+VEST,United States,Pennsylvania,42,Allegheny,003
+VEST,United States,Pennsylvania,42,Beaver,007
+VEST,United States,Pennsylvania,42,Berks,011
+VEST,United States,Pennsylvania,42,Centre,027
+VEST,United States,Pennsylvania,42,Clinton,035
+VEST,United States,Pennsylvania,42,Cumberland,041
+VEST,United States,Pennsylvania,42,Dauphin,043
+VEST,United States,Pennsylvania,42,Delaware,045
+VEST,United States,Pennsylvania,42,Erie,049
+VEST,United States,Pennsylvania,42,Fayette,051
+VEST,United States,Pennsylvania,42,Lackawanna,069
+VEST,United States,Pennsylvania,42,Lancaster,071
+VEST,United States,Pennsylvania,42,Lehigh,077
+VEST,United States,Pennsylvania,42,Montour,093
+VEST,United States,Pennsylvania,42,Northampton,095
+VEST,United States,Pennsylvania,42,Philadelphia,101
+VEST,United States,Pennsylvania,42,Westmoreland,129
+VEST,United States,Pennsylvania,42,York,133
+VEST,United States,South Dakota,46,,
+VEST,United States,South Dakota,46,Bennett,007
+VEST,United States,South Dakota,46,Bon Homme,009
+VEST,United States,South Dakota,46,Brookings,011
+VEST,United States,South Dakota,46,Brule,015
+VEST,United States,South Dakota,46,Buffalo,017
+VEST,United States,South Dakota,46,Charles Mix,023
+VEST,United States,South Dakota,46,Clay,027
+VEST,United States,South Dakota,46,Codington,029
+VEST,United States,South Dakota,46,Custer,033
+VEST,United States,South Dakota,46,Douglas,043
+VEST,United States,South Dakota,46,Fall River,047
+VEST,United States,South Dakota,46,Faulk,049
+VEST,United States,South Dakota,46,Grant,051
+VEST,United States,South Dakota,46,Gregory,053
+VEST,United States,South Dakota,46,Hamlin,057
+VEST,United States,South Dakota,46,Hutchinson,067
+VEST,United States,South Dakota,46,Jackson,071
+VEST,United States,South Dakota,46,Jones,075
+VEST,United States,South Dakota,46,Lake,079
+VEST,United States,South Dakota,46,Lawrence,081
+VEST,United States,South Dakota,46,Lincoln,083
+VEST,United States,South Dakota,46,Lyman,085
+VEST,United States,South Dakota,46,Marshall,091
+VEST,United States,South Dakota,46,Meade,093
+VEST,United States,South Dakota,46,Mellette,095
+VEST,United States,South Dakota,46,Pennington,103
+VEST,United States,South Dakota,46,Roberts,109
+VEST,United States,South Dakota,46,Sanborn,111
+VEST,United States,South Dakota,46,Spink,115
+VEST,United States,South Dakota,46,Stanley,117
+VEST,United States,South Dakota,46,Sully,119
+VEST,United States,South Dakota,46,Todd,121
+VEST,United States,South Dakota,46,Tripp,123
+VEST,United States,South Dakota,46,Turner,125
+VEST,United States,South Dakota,46,Union,127
+VEST,United States,South Dakota,46,Yankton,135
+VEST,United States,Tennessee,47,,
+VEST,United States,Tennessee,47,Carroll,017
+VEST,United States,Tennessee,47,Dyer,045
+VEST,United States,Tennessee,47,Henry,079
+VEST,United States,Tennessee,47,Obion,131
+VEST,United States,Tennessee,47,Pickett,137
+VEST,United States,Tennessee,47,Shelby,157
+VEST,United States,Tennessee,47,Tipton,167
+VEST,United States,Tennessee,47,Weakley,183
+VEST,United States,Texas,48,,
+VEST,United States,Texas,48,Cooke,097
+VEST,United States,Texas,48,Dallas,113
+VEST,United States,Texas,48,Gonzales,177
+VEST,United States,Texas,48,Grayson,181
+VEST,United States,Texas,48,Hemphill,211
+VEST,United States,Texas,48,Mason,319
+VEST,United States,Texas,48,Wheeler,483
+VEST,United States,Utah,49,,
+VEST,United States,Vermont,50,,
+VEST,United States,Vermont,50,Franklin,011
+VEST,United States,Washington,53,,
+VEST,United States,Washington,53,Pend Oreille,051
+VEST,United States,Washington,53,Stevens,065
+VEST,United States,West Virginia,54,,
+VEST,United States,West Virginia,54,Pocahontas,075
+VEST,United States,Wisconsin,55,,
+VEST,United States,Wisconsin,55,Adams,001
+VEST,United States,Wisconsin,55,Brown,009
+VEST,United States,Wisconsin,55,Buffalo,011
+VEST,United States,Wisconsin,55,Chippewa,017
+VEST,United States,Wisconsin,55,Clark,019
+VEST,United States,Wisconsin,55,Columbia,021
+VEST,United States,Wisconsin,55,Crawford,023
+VEST,United States,Wisconsin,55,Dane,025
+VEST,United States,Wisconsin,55,Dodge,027
+VEST,United States,Wisconsin,55,Door,029
+VEST,United States,Wisconsin,55,Dunn,033
+VEST,United States,Wisconsin,55,Eau Claire,035
+VEST,United States,Wisconsin,55,Grant,043
+VEST,United States,Wisconsin,55,Green,045
+VEST,United States,Wisconsin,55,Green Lake,047
+VEST,United States,Wisconsin,55,Iowa,049
+VEST,United States,Wisconsin,55,Jefferson,055
+VEST,United States,Wisconsin,55,Kenosha,059
+VEST,United States,Wisconsin,55,La Crosse,063
+VEST,United States,Wisconsin,55,Lafayette,065
+VEST,United States,Wisconsin,55,Lincoln,069
+VEST,United States,Wisconsin,55,Manitowoc,071
+VEST,United States,Wisconsin,55,Marinette,075
+VEST,United States,Wisconsin,55,Menominee,078
+VEST,United States,Wisconsin,55,Milwaukee,079
+VEST,United States,Wisconsin,55,Monroe,081
+VEST,United States,Wisconsin,55,Oconto,083
+VEST,United States,Wisconsin,55,Oneida,085
+VEST,United States,Wisconsin,55,Outagamie,087
+VEST,United States,Wisconsin,55,Pepin,091
+VEST,United States,Wisconsin,55,Pierce,093
+VEST,United States,Wisconsin,55,Polk,095
+VEST,United States,Wisconsin,55,Portage,097
+VEST,United States,Wisconsin,55,Racine,101
+VEST,United States,Wisconsin,55,Richland,103
+VEST,United States,Wisconsin,55,Rock,105
+VEST,United States,Wisconsin,55,Sauk,111
+VEST,United States,Wisconsin,55,Sawyer,113
+VEST,United States,Wisconsin,55,Sheboygan,117
+VEST,United States,Wisconsin,55,St. Croix,109
+VEST,United States,Wisconsin,55,Trempealeau,121
+VEST,United States,Wisconsin,55,Vernon,123
+VEST,United States,Wisconsin,55,Walworth,127
+VEST,United States,Wisconsin,55,Washburn,129
+VEST,United States,Wisconsin,55,Washington,131
+VEST,United States,Wisconsin,55,Waukesha,133
+VEST,United States,Wisconsin,55,Waupaca,135
+VEST,United States,Wisconsin,55,Waushara,137
+VEST,United States,Wisconsin,55,Wood,141
+VEST,United States,Wyoming,56,,
+VEST,United States,Wyoming,56,Albany,001
+VEST,United States,Wyoming,56,Crook,011
+VEST,United States,Wyoming,56,Goshen,015
+VEST,United States,Wyoming,56,Laramie,021
+VEST,United States,Wyoming,56,Natrona,025
+VEST,United States,Wyoming,56,Park,029
+VEST,United States,Wyoming,56,Platte,031
+VEST,United States,Wyoming,56,Washakie,043

@@ -1,0 +1,421 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SEHE3,Canada,Ontario,08,,
+SEHE3,United States,Connecticut,09,,
+SEHE3,United States,Connecticut,09,Fairfield,001
+SEHE3,United States,Connecticut,09,Hartford,003
+SEHE3,United States,Connecticut,09,Litchfield,005
+SEHE3,United States,Connecticut,09,Middlesex,007
+SEHE3,United States,Connecticut,09,New Haven,009
+SEHE3,United States,Connecticut,09,New London,011
+SEHE3,United States,Connecticut,09,Tolland,013
+SEHE3,United States,Connecticut,09,Windham,015
+SEHE3,United States,Delaware,10,,
+SEHE3,United States,Delaware,10,Kent,001
+SEHE3,United States,District of Columbia,11,,
+SEHE3,United States,District of Columbia,11,District of Columbia,001
+SEHE3,United States,Georgia,13,,
+SEHE3,United States,Georgia,13,Fulton,121
+SEHE3,United States,Illinois,17,,
+SEHE3,United States,Illinois,17,Alexander,003
+SEHE3,United States,Illinois,17,Champaign,019
+SEHE3,United States,Illinois,17,Clark,023
+SEHE3,United States,Illinois,17,Clay,025
+SEHE3,United States,Illinois,17,Cook,031
+SEHE3,United States,Illinois,17,Crawford,033
+SEHE3,United States,Illinois,17,DuPage,043
+SEHE3,United States,Illinois,17,Effingham,049
+SEHE3,United States,Illinois,17,Fulton,057
+SEHE3,United States,Illinois,17,Gallatin,059
+SEHE3,United States,Illinois,17,Hancock,067
+SEHE3,United States,Illinois,17,Hardin,069
+SEHE3,United States,Illinois,17,Henderson,071
+SEHE3,United States,Illinois,17,Jackson,077
+SEHE3,United States,Illinois,17,Kane,089
+SEHE3,United States,Illinois,17,Kankakee,091
+SEHE3,United States,Illinois,17,Kendall,093
+SEHE3,United States,Illinois,17,Marshall,123
+SEHE3,United States,Illinois,17,Mason,125
+SEHE3,United States,Illinois,17,McLean,113
+SEHE3,United States,Illinois,17,Ogle,141
+SEHE3,United States,Illinois,17,Peoria,143
+SEHE3,United States,Illinois,17,Piatt,147
+SEHE3,United States,Illinois,17,Pulaski,153
+SEHE3,United States,Illinois,17,Putnam,155
+SEHE3,United States,Illinois,17,Richland,159
+SEHE3,United States,Illinois,17,Saline,165
+SEHE3,United States,Illinois,17,Shelby,173
+SEHE3,United States,Illinois,17,St. Clair,163
+SEHE3,United States,Illinois,17,Tazewell,179
+SEHE3,United States,Illinois,17,Union,181
+SEHE3,United States,Illinois,17,Vermilion,183
+SEHE3,United States,Illinois,17,Wayne,191
+SEHE3,United States,Illinois,17,Winnebago,201
+SEHE3,United States,Illinois,17,Woodford,203
+SEHE3,United States,Indiana,18,,
+SEHE3,United States,Indiana,18,Adams,001
+SEHE3,United States,Indiana,18,Blackford,009
+SEHE3,United States,Indiana,18,Brown,013
+SEHE3,United States,Indiana,18,Carroll,015
+SEHE3,United States,Indiana,18,Cass,017
+SEHE3,United States,Indiana,18,Clark,019
+SEHE3,United States,Indiana,18,Clay,021
+SEHE3,United States,Indiana,18,Crawford,025
+SEHE3,United States,Indiana,18,DeKalb,033
+SEHE3,United States,Indiana,18,Delaware,035
+SEHE3,United States,Indiana,18,Elkhart,039
+SEHE3,United States,Indiana,18,Fayette,041
+SEHE3,United States,Indiana,18,Floyd,043
+SEHE3,United States,Indiana,18,Fountain,045
+SEHE3,United States,Indiana,18,Fulton,049
+SEHE3,United States,Indiana,18,Greene,055
+SEHE3,United States,Indiana,18,Hamilton,057
+SEHE3,United States,Indiana,18,Hancock,059
+SEHE3,United States,Indiana,18,Harrison,061
+SEHE3,United States,Indiana,18,Hendricks,063
+SEHE3,United States,Indiana,18,Henry,065
+SEHE3,United States,Indiana,18,Howard,067
+SEHE3,United States,Indiana,18,Huntington,069
+SEHE3,United States,Indiana,18,Jackson,071
+SEHE3,United States,Indiana,18,Jasper,073
+SEHE3,United States,Indiana,18,Jay,075
+SEHE3,United States,Indiana,18,Jefferson,077
+SEHE3,United States,Indiana,18,Jennings,079
+SEHE3,United States,Indiana,18,Knox,083
+SEHE3,United States,Indiana,18,Kosciusko,085
+SEHE3,United States,Indiana,18,Lagrange,087
+SEHE3,United States,Indiana,18,Lake,089
+SEHE3,United States,Indiana,18,Lawrence,093
+SEHE3,United States,Indiana,18,Madison,095
+SEHE3,United States,Indiana,18,Marion,097
+SEHE3,United States,Indiana,18,Martin,101
+SEHE3,United States,Indiana,18,Miami,103
+SEHE3,United States,Indiana,18,Monroe,105
+SEHE3,United States,Indiana,18,Montgomery,107
+SEHE3,United States,Indiana,18,Morgan,109
+SEHE3,United States,Indiana,18,Newton,111
+SEHE3,United States,Indiana,18,Noble,113
+SEHE3,United States,Indiana,18,Orange,117
+SEHE3,United States,Indiana,18,Owen,119
+SEHE3,United States,Indiana,18,Parke,121
+SEHE3,United States,Indiana,18,Perry,123
+SEHE3,United States,Indiana,18,Pulaski,131
+SEHE3,United States,Indiana,18,Putnam,133
+SEHE3,United States,Indiana,18,Randolph,135
+SEHE3,United States,Indiana,18,Scott,143
+SEHE3,United States,Indiana,18,Shelby,145
+SEHE3,United States,Indiana,18,St. Joseph,141
+SEHE3,United States,Indiana,18,Starke,149
+SEHE3,United States,Indiana,18,Steuben,151
+SEHE3,United States,Indiana,18,Sullivan,153
+SEHE3,United States,Indiana,18,Tippecanoe,157
+SEHE3,United States,Indiana,18,Vigo,167
+SEHE3,United States,Indiana,18,Warren,171
+SEHE3,United States,Indiana,18,Washington,175
+SEHE3,United States,Indiana,18,Wayne,177
+SEHE3,United States,Indiana,18,Wells,179
+SEHE3,United States,Indiana,18,White,181
+SEHE3,United States,Indiana,18,Whitley,183
+SEHE3,United States,Kentucky,21,,
+SEHE3,United States,Kentucky,21,Adair,001
+SEHE3,United States,Kentucky,21,Bath,011
+SEHE3,United States,Kentucky,21,Boyle,021
+SEHE3,United States,Kentucky,21,Bullitt,029
+SEHE3,United States,Kentucky,21,Clay,051
+SEHE3,United States,Kentucky,21,Edmonson,061
+SEHE3,United States,Kentucky,21,Fleming,069
+SEHE3,United States,Kentucky,21,Franklin,073
+SEHE3,United States,Kentucky,21,Knott,119
+SEHE3,United States,Kentucky,21,Leslie,131
+SEHE3,United States,Kentucky,21,Lewis,135
+SEHE3,United States,Kentucky,21,Oldham,185
+SEHE3,United States,Kentucky,21,Pulaski,199
+SEHE3,United States,Kentucky,21,Todd,219
+SEHE3,United States,Kentucky,21,Whitley,235
+SEHE3,United States,Maine,23,,
+SEHE3,United States,Maryland,24,,
+SEHE3,United States,Massachusetts,25,,
+SEHE3,United States,Massachusetts,25,Berkshire,003
+SEHE3,United States,Massachusetts,25,Essex,009
+SEHE3,United States,Massachusetts,25,Franklin,011
+SEHE3,United States,Massachusetts,25,Hampden,013
+SEHE3,United States,Massachusetts,25,Hampshire,015
+SEHE3,United States,Massachusetts,25,Middlesex,017
+SEHE3,United States,Massachusetts,25,Norfolk,021
+SEHE3,United States,Massachusetts,25,Plymouth,023
+SEHE3,United States,Massachusetts,25,Suffolk,025
+SEHE3,United States,Massachusetts,25,Worcester,027
+SEHE3,United States,Michigan,26,,
+SEHE3,United States,Michigan,26,Barry,015
+SEHE3,United States,Michigan,26,Berrien,021
+SEHE3,United States,Michigan,26,Cass,027
+SEHE3,United States,Michigan,26,Eaton,045
+SEHE3,United States,Michigan,26,Genesee,049
+SEHE3,United States,Michigan,26,Ingham,065
+SEHE3,United States,Michigan,26,Ionia,067
+SEHE3,United States,Michigan,26,Jackson,075
+SEHE3,United States,Michigan,26,Kalamazoo,077
+SEHE3,United States,Michigan,26,Kent,081
+SEHE3,United States,Michigan,26,Lenawee,091
+SEHE3,United States,Michigan,26,Livingston,093
+SEHE3,United States,Michigan,26,St. Joseph,149
+SEHE3,United States,Michigan,26,Van Buren,159
+SEHE3,United States,Michigan,26,Washtenaw,161
+SEHE3,United States,Michigan,26,Wayne,163
+SEHE3,United States,New Hampshire,33,,
+SEHE3,United States,New Hampshire,33,Belknap,001
+SEHE3,United States,New Hampshire,33,Carroll,003
+SEHE3,United States,New Hampshire,33,Cheshire,005
+SEHE3,United States,New Hampshire,33,Hillsborough,011
+SEHE3,United States,New Hampshire,33,Merrimack,013
+SEHE3,United States,New Jersey,34,,
+SEHE3,United States,New Jersey,34,Atlantic,001
+SEHE3,United States,New Jersey,34,Bergen,003
+SEHE3,United States,New Jersey,34,Burlington,005
+SEHE3,United States,New Jersey,34,Camden,007
+SEHE3,United States,New Jersey,34,Cape May,009
+SEHE3,United States,New Jersey,34,Cumberland,011
+SEHE3,United States,New Jersey,34,Essex,013
+SEHE3,United States,New Jersey,34,Gloucester,015
+SEHE3,United States,New Jersey,34,Hunterdon,019
+SEHE3,United States,New Jersey,34,Mercer,021
+SEHE3,United States,New Jersey,34,Middlesex,023
+SEHE3,United States,New Jersey,34,Monmouth,025
+SEHE3,United States,New Jersey,34,Morris,027
+SEHE3,United States,New Jersey,34,Passaic,031
+SEHE3,United States,New Jersey,34,Somerset,035
+SEHE3,United States,New Jersey,34,Sussex,037
+SEHE3,United States,New Jersey,34,Union,039
+SEHE3,United States,New Jersey,34,Warren,041
+SEHE3,United States,New York,36,,
+SEHE3,United States,New York,36,Albany,001
+SEHE3,United States,New York,36,Bronx,005
+SEHE3,United States,New York,36,Cayuga,011
+SEHE3,United States,New York,36,Columbia,021
+SEHE3,United States,New York,36,Dutchess,027
+SEHE3,United States,New York,36,Erie,029
+SEHE3,United States,New York,36,Greene,039
+SEHE3,United States,New York,36,Herkimer,043
+SEHE3,United States,New York,36,Kings,047
+SEHE3,United States,New York,36,Madison,053
+SEHE3,United States,New York,36,Nassau,059
+SEHE3,United States,New York,36,Oneida,065
+SEHE3,United States,New York,36,Ontario,069
+SEHE3,United States,New York,36,Orange,071
+SEHE3,United States,New York,36,Queens,081
+SEHE3,United States,New York,36,Rensselaer,083
+SEHE3,United States,New York,36,Richmond,085
+SEHE3,United States,New York,36,Saratoga,091
+SEHE3,United States,New York,36,Ulster,111
+SEHE3,United States,New York,36,Washington,115
+SEHE3,United States,New York,36,Wayne,117
+SEHE3,United States,New York,36,Westchester,119
+SEHE3,United States,North Carolina,37,,
+SEHE3,United States,North Carolina,37,Buncombe,021
+SEHE3,United States,North Carolina,37,Burke,023
+SEHE3,United States,North Carolina,37,Cabarrus,025
+SEHE3,United States,North Carolina,37,Cherokee,039
+SEHE3,United States,North Carolina,37,Davie,059
+SEHE3,United States,North Carolina,37,Durham,063
+SEHE3,United States,North Carolina,37,Guilford,081
+SEHE3,United States,North Carolina,37,Henderson,089
+SEHE3,United States,North Carolina,37,Iredell,097
+SEHE3,United States,North Carolina,37,Lincoln,109
+SEHE3,United States,North Carolina,37,Mecklenburg,119
+SEHE3,United States,North Carolina,37,Mitchell,121
+SEHE3,United States,North Carolina,37,Montgomery,123
+SEHE3,United States,North Carolina,37,Moore,125
+SEHE3,United States,North Carolina,37,Orange,135
+SEHE3,United States,North Carolina,37,Person,145
+SEHE3,United States,North Carolina,37,Polk,149
+SEHE3,United States,North Carolina,37,Randolph,151
+SEHE3,United States,North Carolina,37,Transylvania,175
+SEHE3,United States,North Carolina,37,Wake,183
+SEHE3,United States,North Carolina,37,Wilkes,193
+SEHE3,United States,Ohio,39,,
+SEHE3,United States,Ohio,39,Adams,001
+SEHE3,United States,Ohio,39,Ashland,005
+SEHE3,United States,Ohio,39,Ashtabula,007
+SEHE3,United States,Ohio,39,Athens,009
+SEHE3,United States,Ohio,39,Auglaize,011
+SEHE3,United States,Ohio,39,Brown,015
+SEHE3,United States,Ohio,39,Carroll,019
+SEHE3,United States,Ohio,39,Champaign,021
+SEHE3,United States,Ohio,39,Clark,023
+SEHE3,United States,Ohio,39,Clermont,025
+SEHE3,United States,Ohio,39,Clinton,027
+SEHE3,United States,Ohio,39,Coshocton,031
+SEHE3,United States,Ohio,39,Darke,037
+SEHE3,United States,Ohio,39,Defiance,039
+SEHE3,United States,Ohio,39,Delaware,041
+SEHE3,United States,Ohio,39,Erie,043
+SEHE3,United States,Ohio,39,Fairfield,045
+SEHE3,United States,Ohio,39,Franklin,049
+SEHE3,United States,Ohio,39,Gallia,053
+SEHE3,United States,Ohio,39,Highland,071
+SEHE3,United States,Ohio,39,Hocking,073
+SEHE3,United States,Ohio,39,Holmes,075
+SEHE3,United States,Ohio,39,Jackson,079
+SEHE3,United States,Ohio,39,Lake,085
+SEHE3,United States,Ohio,39,Licking,089
+SEHE3,United States,Ohio,39,Lorain,093
+SEHE3,United States,Ohio,39,Madison,097
+SEHE3,United States,Ohio,39,Meigs,105
+SEHE3,United States,Ohio,39,Mercer,107
+SEHE3,United States,Ohio,39,Miami,109
+SEHE3,United States,Ohio,39,Montgomery,113
+SEHE3,United States,Ohio,39,Morgan,115
+SEHE3,United States,Ohio,39,Portage,133
+SEHE3,United States,Ohio,39,Preble,135
+SEHE3,United States,Ohio,39,Ross,141
+SEHE3,United States,Ohio,39,Sandusky,143
+SEHE3,United States,Ohio,39,Scioto,145
+SEHE3,United States,Ohio,39,Shelby,149
+SEHE3,United States,Ohio,39,Stark,151
+SEHE3,United States,Ohio,39,Summit,153
+SEHE3,United States,Ohio,39,Tuscarawas,157
+SEHE3,United States,Ohio,39,Vinton,163
+SEHE3,United States,Ohio,39,Wayne,169
+SEHE3,United States,Pennsylvania,42,,
+SEHE3,United States,Pennsylvania,42,Adams,001
+SEHE3,United States,Pennsylvania,42,Allegheny,003
+SEHE3,United States,Pennsylvania,42,Armstrong,005
+SEHE3,United States,Pennsylvania,42,Beaver,007
+SEHE3,United States,Pennsylvania,42,Bedford,009
+SEHE3,United States,Pennsylvania,42,Berks,011
+SEHE3,United States,Pennsylvania,42,Blair,013
+SEHE3,United States,Pennsylvania,42,Bucks,017
+SEHE3,United States,Pennsylvania,42,Butler,019
+SEHE3,United States,Pennsylvania,42,Cameron,023
+SEHE3,United States,Pennsylvania,42,Carbon,025
+SEHE3,United States,Pennsylvania,42,Centre,027
+SEHE3,United States,Pennsylvania,42,Chester,029
+SEHE3,United States,Pennsylvania,42,Clearfield,033
+SEHE3,United States,Pennsylvania,42,Clinton,035
+SEHE3,United States,Pennsylvania,42,Crawford,039
+SEHE3,United States,Pennsylvania,42,Cumberland,041
+SEHE3,United States,Pennsylvania,42,Dauphin,043
+SEHE3,United States,Pennsylvania,42,Delaware,045
+SEHE3,United States,Pennsylvania,42,Erie,049
+SEHE3,United States,Pennsylvania,42,Fayette,051
+SEHE3,United States,Pennsylvania,42,Franklin,055
+SEHE3,United States,Pennsylvania,42,Fulton,057
+SEHE3,United States,Pennsylvania,42,Greene,059
+SEHE3,United States,Pennsylvania,42,Huntingdon,061
+SEHE3,United States,Pennsylvania,42,Indiana,063
+SEHE3,United States,Pennsylvania,42,Juniata,067
+SEHE3,United States,Pennsylvania,42,Lackawanna,069
+SEHE3,United States,Pennsylvania,42,Lancaster,071
+SEHE3,United States,Pennsylvania,42,Lawrence,073
+SEHE3,United States,Pennsylvania,42,Lebanon,075
+SEHE3,United States,Pennsylvania,42,Lehigh,077
+SEHE3,United States,Pennsylvania,42,Luzerne,079
+SEHE3,United States,Pennsylvania,42,Lycoming,081
+SEHE3,United States,Pennsylvania,42,Mercer,085
+SEHE3,United States,Pennsylvania,42,Mifflin,087
+SEHE3,United States,Pennsylvania,42,Montgomery,091
+SEHE3,United States,Pennsylvania,42,Northampton,095
+SEHE3,United States,Pennsylvania,42,Northumberland,097
+SEHE3,United States,Pennsylvania,42,Perry,099
+SEHE3,United States,Pennsylvania,42,Philadelphia,101
+SEHE3,United States,Pennsylvania,42,Schuylkill,107
+SEHE3,United States,Pennsylvania,42,Snyder,109
+SEHE3,United States,Pennsylvania,42,Union,119
+SEHE3,United States,Pennsylvania,42,Venango,121
+SEHE3,United States,Pennsylvania,42,Westmoreland,129
+SEHE3,United States,Pennsylvania,42,Wyoming,131
+SEHE3,United States,Pennsylvania,42,York,133
+SEHE3,United States,Rhode Island,44,,
+SEHE3,United States,Rhode Island,44,Newport,005
+SEHE3,United States,Rhode Island,44,Providence,007
+SEHE3,United States,Rhode Island,44,Washington,009
+SEHE3,United States,South Carolina,45,,
+SEHE3,United States,Tennessee,47,,
+SEHE3,United States,Tennessee,47,Blount,009
+SEHE3,United States,Tennessee,47,Carter,019
+SEHE3,United States,Tennessee,47,Coffee,031
+SEHE3,United States,Tennessee,47,Dickson,043
+SEHE3,United States,Tennessee,47,Hawkins,073
+SEHE3,United States,Tennessee,47,Haywood,075
+SEHE3,United States,Tennessee,47,Knox,093
+SEHE3,United States,Tennessee,47,Loudon,105
+SEHE3,United States,Tennessee,47,Maury,119
+SEHE3,United States,Tennessee,47,Obion,131
+SEHE3,United States,Tennessee,47,Rutherford,149
+SEHE3,United States,Tennessee,47,Scott,151
+SEHE3,United States,Tennessee,47,Sullivan,163
+SEHE3,United States,Tennessee,47,Union,173
+SEHE3,United States,Tennessee,47,Warren,177
+SEHE3,United States,Vermont,50,,
+SEHE3,United States,Vermont,50,Addison,001
+SEHE3,United States,Vermont,50,Orange,017
+SEHE3,United States,Vermont,50,Rutland,021
+SEHE3,United States,Virginia,51,,
+SEHE3,United States,Virginia,51,Albemarle,003
+SEHE3,United States,Virginia,51,Alleghany,005
+SEHE3,United States,Virginia,51,Amelia,007
+SEHE3,United States,Virginia,51,Amherst,009
+SEHE3,United States,Virginia,51,Arlington,013
+SEHE3,United States,Virginia,51,Augusta,015
+SEHE3,United States,Virginia,51,Bath,017
+SEHE3,United States,Virginia,51,Bedford,019
+SEHE3,United States,Virginia,51,Buckingham,029
+SEHE3,United States,Virginia,51,Charlotte,037
+SEHE3,United States,Virginia,51,Chesterfield,041
+SEHE3,United States,Virginia,51,Craig,045
+SEHE3,United States,Virginia,51,Culpeper,047
+SEHE3,United States,Virginia,51,Dinwiddie,053
+SEHE3,United States,Virginia,51,Fairfax,059
+SEHE3,United States,Virginia,51,Fauquier,061
+SEHE3,United States,Virginia,51,Fluvanna,065
+SEHE3,United States,Virginia,51,Frederick,069
+SEHE3,United States,Virginia,51,Giles,071
+SEHE3,United States,Virginia,51,Halifax,083
+SEHE3,United States,Virginia,51,Hanover,085
+SEHE3,United States,Virginia,51,Henrico,087
+SEHE3,United States,Virginia,51,James City,095
+SEHE3,United States,Virginia,51,Loudoun,107
+SEHE3,United States,Virginia,51,Louisa,109
+SEHE3,United States,Virginia,51,Madison,113
+SEHE3,United States,Virginia,51,Mecklenburg,117
+SEHE3,United States,Virginia,51,Montgomery,121
+SEHE3,United States,Virginia,51,Orange,137
+SEHE3,United States,Virginia,51,Page,139
+SEHE3,United States,Virginia,51,Pittsylvania,143
+SEHE3,United States,Virginia,51,Prince William,153
+SEHE3,United States,Virginia,51,Pulaski,155
+SEHE3,United States,Virginia,51,Rappahannock,157
+SEHE3,United States,Virginia,51,Rockbridge,163
+SEHE3,United States,Virginia,51,Rockingham,165
+SEHE3,United States,Virginia,51,Russell,167
+SEHE3,United States,Virginia,51,Scott,169
+SEHE3,United States,Virginia,51,Shenandoah,171
+SEHE3,United States,Virginia,51,Smyth,173
+SEHE3,United States,Virginia,51,Washington,191
+SEHE3,United States,Virginia,51,Westmoreland,193
+SEHE3,United States,Virginia,51,Wythe,197
+SEHE3,United States,West Virginia,54,,
+SEHE3,United States,West Virginia,54,Braxton,007
+SEHE3,United States,West Virginia,54,Fayette,019
+SEHE3,United States,West Virginia,54,Grant,023
+SEHE3,United States,West Virginia,54,Greenbrier,025
+SEHE3,United States,West Virginia,54,Hampshire,027
+SEHE3,United States,West Virginia,54,Hardy,031
+SEHE3,United States,West Virginia,54,Jackson,035
+SEHE3,United States,West Virginia,54,Jefferson,037
+SEHE3,United States,West Virginia,54,Kanawha,039
+SEHE3,United States,West Virginia,54,Lincoln,043
+SEHE3,United States,West Virginia,54,Mercer,055
+SEHE3,United States,West Virginia,54,Mineral,057
+SEHE3,United States,West Virginia,54,Pendleton,071
+SEHE3,United States,West Virginia,54,Randolph,083
+SEHE3,United States,West Virginia,54,Summers,089
+SEHE3,United States,West Virginia,54,Tucker,093
+SEHE3,United States,West Virginia,54,Wyoming,109
+SEHE3,United States,Wisconsin,55,,
+SEHE3,United States,Wisconsin,55,Dane,025
+SEHE3,United States,Wisconsin,55,Grant,043
+SEHE3,United States,Wisconsin,55,Green,045
+SEHE3,United States,Wisconsin,55,Iowa,049
+SEHE3,United States,Wisconsin,55,Richland,103
+SEHE3,United States,Wisconsin,55,Rock,105

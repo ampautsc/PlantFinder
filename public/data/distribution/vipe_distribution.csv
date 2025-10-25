@@ -1,0 +1,869 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VIPE,United States,Alabama,01,,
+VIPE,United States,Alabama,01,Bibb,007
+VIPE,United States,Alabama,01,Calhoun,015
+VIPE,United States,Alabama,01,Clay,027
+VIPE,United States,Alabama,01,Coosa,037
+VIPE,United States,Alabama,01,Elmore,051
+VIPE,United States,Alabama,01,Escambia,053
+VIPE,United States,Alabama,01,Fayette,057
+VIPE,United States,Alabama,01,Hale,065
+VIPE,United States,Alabama,01,Jackson,071
+VIPE,United States,Alabama,01,Lawrence,079
+VIPE,United States,Alabama,01,Lee,081
+VIPE,United States,Alabama,01,Madison,089
+VIPE,United States,Alabama,01,Morgan,103
+VIPE,United States,Alabama,01,Pickens,107
+VIPE,United States,Alabama,01,Randolph,111
+VIPE,United States,Alabama,01,Shelby,117
+VIPE,United States,Alabama,01,St. Clair,115
+VIPE,United States,Alabama,01,Tuscaloosa,125
+VIPE,United States,Alabama,01,Washington,129
+VIPE,United States,Arkansas,05,,
+VIPE,United States,Arkansas,05,Arkansas,001
+VIPE,United States,Arkansas,05,Baxter,005
+VIPE,United States,Arkansas,05,Benton,007
+VIPE,United States,Arkansas,05,Boone,009
+VIPE,United States,Arkansas,05,Bradley,011
+VIPE,United States,Arkansas,05,Calhoun,013
+VIPE,United States,Arkansas,05,Carroll,015
+VIPE,United States,Arkansas,05,Clark,019
+VIPE,United States,Arkansas,05,Clay,021
+VIPE,United States,Arkansas,05,Cleburne,023
+VIPE,United States,Arkansas,05,Columbia,027
+VIPE,United States,Arkansas,05,Conway,029
+VIPE,United States,Arkansas,05,Craighead,031
+VIPE,United States,Arkansas,05,Crawford,033
+VIPE,United States,Arkansas,05,Drew,043
+VIPE,United States,Arkansas,05,Faulkner,045
+VIPE,United States,Arkansas,05,Franklin,047
+VIPE,United States,Arkansas,05,Fulton,049
+VIPE,United States,Arkansas,05,Garland,051
+VIPE,United States,Arkansas,05,Greene,055
+VIPE,United States,Arkansas,05,Hempstead,057
+VIPE,United States,Arkansas,05,Hot Spring,059
+VIPE,United States,Arkansas,05,Howard,061
+VIPE,United States,Arkansas,05,Independence,063
+VIPE,United States,Arkansas,05,Izard,065
+VIPE,United States,Arkansas,05,Jefferson,069
+VIPE,United States,Arkansas,05,Johnson,071
+VIPE,United States,Arkansas,05,Lafayette,073
+VIPE,United States,Arkansas,05,Lincoln,079
+VIPE,United States,Arkansas,05,Logan,083
+VIPE,United States,Arkansas,05,Madison,087
+VIPE,United States,Arkansas,05,Marion,089
+VIPE,United States,Arkansas,05,Miller,091
+VIPE,United States,Arkansas,05,Montgomery,097
+VIPE,United States,Arkansas,05,Newton,101
+VIPE,United States,Arkansas,05,Ouachita,103
+VIPE,United States,Arkansas,05,Perry,105
+VIPE,United States,Arkansas,05,Pike,109
+VIPE,United States,Arkansas,05,Poinsett,111
+VIPE,United States,Arkansas,05,Polk,113
+VIPE,United States,Arkansas,05,Pope,115
+VIPE,United States,Arkansas,05,Pulaski,119
+VIPE,United States,Arkansas,05,Randolph,121
+VIPE,United States,Arkansas,05,Saline,125
+VIPE,United States,Arkansas,05,Scott,127
+VIPE,United States,Arkansas,05,Searcy,129
+VIPE,United States,Arkansas,05,Sebastian,131
+VIPE,United States,Arkansas,05,Sevier,133
+VIPE,United States,Arkansas,05,Sharp,135
+VIPE,United States,Arkansas,05,Stone,137
+VIPE,United States,Arkansas,05,Union,139
+VIPE,United States,Arkansas,05,Van Buren,141
+VIPE,United States,Arkansas,05,Washington,143
+VIPE,United States,Arkansas,05,White,145
+VIPE,United States,Arkansas,05,Yell,149
+VIPE,Canada,Ontario,08,,
+VIPE,United States,Connecticut,09,,
+VIPE,United States,Connecticut,09,Fairfield,001
+VIPE,United States,Connecticut,09,Hartford,003
+VIPE,United States,Connecticut,09,Litchfield,005
+VIPE,United States,Connecticut,09,Middlesex,007
+VIPE,United States,Connecticut,09,New Haven,009
+VIPE,United States,Connecticut,09,New London,011
+VIPE,United States,Connecticut,09,Tolland,013
+VIPE,United States,Connecticut,09,Windham,015
+VIPE,United States,Delaware,10,,
+VIPE,United States,Delaware,10,Kent,001
+VIPE,United States,Delaware,10,New Castle,003
+VIPE,United States,Delaware,10,Sussex,005
+VIPE,United States,District of Columbia,11,,
+VIPE,United States,District of Columbia,11,District of Columbia,001
+VIPE,United States,Georgia,13,,
+VIPE,United States,Georgia,13,Bartow,015
+VIPE,United States,Georgia,13,Burke,033
+VIPE,United States,Georgia,13,Catoosa,047
+VIPE,United States,Georgia,13,Chattahoochee,053
+VIPE,United States,Georgia,13,Chattooga,055
+VIPE,United States,Georgia,13,Clarke,059
+VIPE,United States,Georgia,13,Cobb,067
+VIPE,United States,Georgia,13,Crawford,079
+VIPE,United States,Georgia,13,Dade,083
+VIPE,United States,Georgia,13,DeKalb,089
+VIPE,United States,Georgia,13,Dougherty,095
+VIPE,United States,Georgia,13,Elbert,105
+VIPE,United States,Georgia,13,Emanuel,107
+VIPE,United States,Georgia,13,Floyd,115
+VIPE,United States,Georgia,13,Forsyth,117
+VIPE,United States,Georgia,13,Gordon,129
+VIPE,United States,Georgia,13,Gwinnett,135
+VIPE,United States,Georgia,13,Hall,139
+VIPE,United States,Georgia,13,Haralson,143
+VIPE,United States,Georgia,13,Harris,145
+VIPE,United States,Georgia,13,Irwin,155
+VIPE,United States,Georgia,13,Jackson,157
+VIPE,United States,Georgia,13,Jasper,159
+VIPE,United States,Georgia,13,Lincoln,181
+VIPE,United States,Georgia,13,Madison,195
+VIPE,United States,Georgia,13,Meriwether,199
+VIPE,United States,Georgia,13,Murray,213
+VIPE,United States,Georgia,13,Muscogee,215
+VIPE,United States,Georgia,13,Oglethorpe,221
+VIPE,United States,Georgia,13,Paulding,223
+VIPE,United States,Georgia,13,Pickens,227
+VIPE,United States,Georgia,13,Rabun,241
+VIPE,United States,Georgia,13,Randolph,243
+VIPE,United States,Georgia,13,Richmond,245
+VIPE,United States,Georgia,13,Spalding,255
+VIPE,United States,Georgia,13,Taylor,269
+VIPE,United States,Georgia,13,Turner,287
+VIPE,United States,Georgia,13,Union,291
+VIPE,United States,Georgia,13,Upson,293
+VIPE,United States,Georgia,13,Walker,295
+VIPE,United States,Georgia,13,Walton,297
+VIPE,United States,Georgia,13,White,311
+VIPE,United States,Georgia,13,Whitfield,313
+VIPE,United States,Georgia,13,Wilkes,317
+VIPE,United States,Illinois,17,,
+VIPE,United States,Illinois,17,Adams,001
+VIPE,United States,Illinois,17,Boone,007
+VIPE,United States,Illinois,17,Brown,009
+VIPE,United States,Illinois,17,Calhoun,013
+VIPE,United States,Illinois,17,Carroll,015
+VIPE,United States,Illinois,17,Cass,017
+VIPE,United States,Illinois,17,Champaign,019
+VIPE,United States,Illinois,17,Cook,031
+VIPE,United States,Illinois,17,DeKalb,037
+VIPE,United States,Illinois,17,DuPage,043
+VIPE,United States,Illinois,17,Edwards,047
+VIPE,United States,Illinois,17,Effingham,049
+VIPE,United States,Illinois,17,Fayette,051
+VIPE,United States,Illinois,17,Fulton,057
+VIPE,United States,Illinois,17,Gallatin,059
+VIPE,United States,Illinois,17,Greene,061
+VIPE,United States,Illinois,17,Hancock,067
+VIPE,United States,Illinois,17,Hardin,069
+VIPE,United States,Illinois,17,Henderson,071
+VIPE,United States,Illinois,17,Henry,073
+VIPE,United States,Illinois,17,Iroquois,075
+VIPE,United States,Illinois,17,Jackson,077
+VIPE,United States,Illinois,17,Jersey,083
+VIPE,United States,Illinois,17,Jo Daviess,085
+VIPE,United States,Illinois,17,Kane,089
+VIPE,United States,Illinois,17,Kankakee,091
+VIPE,United States,Illinois,17,Knox,095
+VIPE,United States,Illinois,17,Lake,097
+VIPE,United States,Illinois,17,LaSalle,099
+VIPE,United States,Illinois,17,Lawrence,101
+VIPE,United States,Illinois,17,Lee,103
+VIPE,United States,Illinois,17,Livingston,105
+VIPE,United States,Illinois,17,Macon,115
+VIPE,United States,Illinois,17,Macoupin,117
+VIPE,United States,Illinois,17,Mason,125
+VIPE,United States,Illinois,17,McDonough,109
+VIPE,United States,Illinois,17,McHenry,111
+VIPE,United States,Illinois,17,McLean,113
+VIPE,United States,Illinois,17,Menard,129
+VIPE,United States,Illinois,17,Mercer,131
+VIPE,United States,Illinois,17,Monroe,133
+VIPE,United States,Illinois,17,Moultrie,139
+VIPE,United States,Illinois,17,Ogle,141
+VIPE,United States,Illinois,17,Peoria,143
+VIPE,United States,Illinois,17,Pike,149
+VIPE,United States,Illinois,17,Pope,151
+VIPE,United States,Illinois,17,Randolph,157
+VIPE,United States,Illinois,17,Richland,159
+VIPE,United States,Illinois,17,Rock Island,161
+VIPE,United States,Illinois,17,Saline,165
+VIPE,United States,Illinois,17,Schuyler,169
+VIPE,United States,Illinois,17,Scott,171
+VIPE,United States,Illinois,17,Shelby,173
+VIPE,United States,Illinois,17,St. Clair,163
+VIPE,United States,Illinois,17,Stark,175
+VIPE,United States,Illinois,17,Stephenson,177
+VIPE,United States,Illinois,17,Tazewell,179
+VIPE,United States,Illinois,17,Union,181
+VIPE,United States,Illinois,17,Wabash,185
+VIPE,United States,Illinois,17,Whiteside,195
+VIPE,United States,Illinois,17,Will,197
+VIPE,United States,Illinois,17,Winnebago,201
+VIPE,United States,Indiana,18,,
+VIPE,United States,Indiana,18,Cass,017
+VIPE,United States,Indiana,18,Elkhart,039
+VIPE,United States,Indiana,18,Floyd,043
+VIPE,United States,Indiana,18,Fountain,045
+VIPE,United States,Indiana,18,Fulton,049
+VIPE,United States,Indiana,18,Harrison,061
+VIPE,United States,Indiana,18,Jasper,073
+VIPE,United States,Indiana,18,Jay,075
+VIPE,United States,Indiana,18,Kosciusko,085
+VIPE,United States,Indiana,18,Lagrange,087
+VIPE,United States,Indiana,18,Lake,089
+VIPE,United States,Indiana,18,LaPorte,091
+VIPE,United States,Indiana,18,Lawrence,093
+VIPE,United States,Indiana,18,Marshall,099
+VIPE,United States,Indiana,18,Newton,111
+VIPE,United States,Indiana,18,Noble,113
+VIPE,United States,Indiana,18,Perry,123
+VIPE,United States,Indiana,18,Porter,127
+VIPE,United States,Indiana,18,Pulaski,131
+VIPE,United States,Indiana,18,St. Joseph,141
+VIPE,United States,Indiana,18,Starke,149
+VIPE,United States,Indiana,18,Steuben,151
+VIPE,United States,Indiana,18,Tippecanoe,157
+VIPE,United States,Indiana,18,Warren,171
+VIPE,United States,Indiana,18,White,181
+VIPE,United States,Iowa,19,,
+VIPE,United States,Iowa,19,Adair,001
+VIPE,United States,Iowa,19,Greene,073
+VIPE,United States,Iowa,19,Guthrie,077
+VIPE,United States,Iowa,19,Madison,121
+VIPE,United States,Kansas,20,,
+VIPE,United States,Kansas,20,Chautauqua,019
+VIPE,United States,Kansas,20,Cherokee,021
+VIPE,United States,Kansas,20,Douglas,045
+VIPE,United States,Kansas,20,Franklin,059
+VIPE,United States,Kansas,20,Greenwood,073
+VIPE,United States,Kansas,20,Labette,099
+VIPE,United States,Kansas,20,Lyon,111
+VIPE,United States,Kansas,20,McPherson,113
+VIPE,United States,Kansas,20,Montgomery,125
+VIPE,United States,Kansas,20,Neosho,133
+VIPE,United States,Kansas,20,Wilson,205
+VIPE,United States,Kansas,20,Woodson,207
+VIPE,United States,Kentucky,21,,
+VIPE,United States,Kentucky,21,Barren,009
+VIPE,United States,Kentucky,21,Bath,011
+VIPE,United States,Kentucky,21,Bell,013
+VIPE,United States,Kentucky,21,Boyle,021
+VIPE,United States,Kentucky,21,Breckinridge,027
+VIPE,United States,Kentucky,21,Bullitt,029
+VIPE,United States,Kentucky,21,Caldwell,033
+VIPE,United States,Kentucky,21,Calloway,035
+VIPE,United States,Kentucky,21,Casey,045
+VIPE,United States,Kentucky,21,Edmonson,061
+VIPE,United States,Kentucky,21,Elliott,063
+VIPE,United States,Kentucky,21,Estill,065
+VIPE,United States,Kentucky,21,Floyd,071
+VIPE,United States,Kentucky,21,Garrard,079
+VIPE,United States,Kentucky,21,Hardin,093
+VIPE,United States,Kentucky,21,Harlan,095
+VIPE,United States,Kentucky,21,Hart,099
+VIPE,United States,Kentucky,21,Jackson,109
+VIPE,United States,Kentucky,21,Jefferson,111
+VIPE,United States,Kentucky,21,Johnson,115
+VIPE,United States,Kentucky,21,Larue,123
+VIPE,United States,Kentucky,21,Laurel,125
+VIPE,United States,Kentucky,21,Lee,129
+VIPE,United States,Kentucky,21,Leslie,131
+VIPE,United States,Kentucky,21,Letcher,133
+VIPE,United States,Kentucky,21,Lewis,135
+VIPE,United States,Kentucky,21,Lincoln,137
+VIPE,United States,Kentucky,21,Madison,151
+VIPE,United States,Kentucky,21,McCreary,147
+VIPE,United States,Kentucky,21,Meade,163
+VIPE,United States,Kentucky,21,Montgomery,173
+VIPE,United States,Kentucky,21,Oldham,185
+VIPE,United States,Kentucky,21,Pike,195
+VIPE,United States,Kentucky,21,Powell,197
+VIPE,United States,Kentucky,21,Pulaski,199
+VIPE,United States,Kentucky,21,Rockcastle,203
+VIPE,United States,Kentucky,21,Rowan,205
+VIPE,United States,Kentucky,21,Russell,207
+VIPE,United States,Kentucky,21,Todd,219
+VIPE,United States,Kentucky,21,Trigg,221
+VIPE,United States,Kentucky,21,Warren,227
+VIPE,United States,Kentucky,21,Whitley,235
+VIPE,United States,Louisiana,22,,
+VIPE,United States,Louisiana,22,Allen,003
+VIPE,United States,Louisiana,22,Beauregard,011
+VIPE,United States,Louisiana,22,Bienville,013
+VIPE,United States,Louisiana,22,Bossier,015
+VIPE,United States,Louisiana,22,Caddo,017
+VIPE,United States,Louisiana,22,Calcasieu,019
+VIPE,United States,Louisiana,22,Caldwell,021
+VIPE,United States,Louisiana,22,Catahoula,025
+VIPE,United States,Louisiana,22,De Soto,031
+VIPE,United States,Louisiana,22,East Baton Rouge,033
+VIPE,United States,Louisiana,22,East Feliciana,037
+VIPE,United States,Louisiana,22,Evangeline,039
+VIPE,United States,Louisiana,22,Grant,043
+VIPE,United States,Louisiana,22,Jackson,049
+VIPE,United States,Louisiana,22,Jefferson Davis,053
+VIPE,United States,Louisiana,22,Lafourche,057
+VIPE,United States,Louisiana,22,LaSalle,059
+VIPE,United States,Louisiana,22,Lincoln,061
+VIPE,United States,Louisiana,22,Morehouse,067
+VIPE,United States,Louisiana,22,Natchitoches,069
+VIPE,United States,Louisiana,22,Ouachita,073
+VIPE,United States,Louisiana,22,Rapides,079
+VIPE,United States,Louisiana,22,Sabine,085
+VIPE,United States,Louisiana,22,St. Helena,091
+VIPE,United States,Louisiana,22,St. Tammany,103
+VIPE,United States,Louisiana,22,Tangipahoa,105
+VIPE,United States,Louisiana,22,Union,111
+VIPE,United States,Louisiana,22,Vernon,115
+VIPE,United States,Louisiana,22,Washington,117
+VIPE,United States,Louisiana,22,Webster,119
+VIPE,United States,Louisiana,22,Winn,127
+VIPE,United States,Maine,23,,
+VIPE,United States,Maryland,24,,
+VIPE,United States,Massachusetts,25,,
+VIPE,United States,Massachusetts,25,Barnstable,001
+VIPE,United States,Massachusetts,25,Bristol,005
+VIPE,United States,Massachusetts,25,Dukes,007
+VIPE,United States,Massachusetts,25,Essex,009
+VIPE,United States,Massachusetts,25,Franklin,011
+VIPE,United States,Massachusetts,25,Hampden,013
+VIPE,United States,Massachusetts,25,Hampshire,015
+VIPE,United States,Massachusetts,25,Middlesex,017
+VIPE,United States,Massachusetts,25,Nantucket,019
+VIPE,United States,Massachusetts,25,Norfolk,021
+VIPE,United States,Massachusetts,25,Plymouth,023
+VIPE,United States,Massachusetts,25,Suffolk,025
+VIPE,United States,Massachusetts,25,Worcester,027
+VIPE,United States,Michigan,26,,
+VIPE,United States,Michigan,26,Alcona,001
+VIPE,United States,Michigan,26,Allegan,005
+VIPE,United States,Michigan,26,Barry,015
+VIPE,United States,Michigan,26,Berrien,021
+VIPE,United States,Michigan,26,Calhoun,025
+VIPE,United States,Michigan,26,Cass,027
+VIPE,United States,Michigan,26,Clare,035
+VIPE,United States,Michigan,26,Crawford,039
+VIPE,United States,Michigan,26,Eaton,045
+VIPE,United States,Michigan,26,Ionia,067
+VIPE,United States,Michigan,26,Iosco,069
+VIPE,United States,Michigan,26,Jackson,075
+VIPE,United States,Michigan,26,Kalamazoo,077
+VIPE,United States,Michigan,26,Kalkaska,079
+VIPE,United States,Michigan,26,Kent,081
+VIPE,United States,Michigan,26,Lake,085
+VIPE,United States,Michigan,26,Livingston,093
+VIPE,United States,Michigan,26,Manistee,101
+VIPE,United States,Michigan,26,Mecosta,107
+VIPE,United States,Michigan,26,Menominee,109
+VIPE,United States,Michigan,26,Montcalm,117
+VIPE,United States,Michigan,26,Muskegon,121
+VIPE,United States,Michigan,26,Newaygo,123
+VIPE,United States,Michigan,26,Oakland,125
+VIPE,United States,Michigan,26,Oceana,127
+VIPE,United States,Michigan,26,Osceola,133
+VIPE,United States,Michigan,26,Oscoda,135
+VIPE,United States,Michigan,26,Otsego,137
+VIPE,United States,Michigan,26,Roscommon,143
+VIPE,United States,Michigan,26,St. Joseph,149
+VIPE,United States,Michigan,26,Van Buren,159
+VIPE,United States,Michigan,26,Washtenaw,161
+VIPE,United States,Michigan,26,Wayne,163
+VIPE,United States,Minnesota,27,,
+VIPE,United States,Minnesota,27,Anoka,003
+VIPE,United States,Minnesota,27,Carlton,017
+VIPE,United States,Minnesota,27,Dakota,037
+VIPE,United States,Minnesota,27,Fillmore,045
+VIPE,United States,Minnesota,27,Goodhue,049
+VIPE,United States,Minnesota,27,Hennepin,053
+VIPE,United States,Minnesota,27,Houston,055
+VIPE,United States,Minnesota,27,Isanti,059
+VIPE,United States,Minnesota,27,Mower,099
+VIPE,United States,Minnesota,27,Olmsted,109
+VIPE,United States,Minnesota,27,Ramsey,123
+VIPE,United States,Minnesota,27,Sherburne,141
+VIPE,United States,Minnesota,27,Wabasha,157
+VIPE,United States,Minnesota,27,Washington,163
+VIPE,United States,Minnesota,27,Winona,169
+VIPE,United States,Mississippi,28,,
+VIPE,United States,Mississippi,28,Adams,001
+VIPE,United States,Mississippi,28,Amite,005
+VIPE,United States,Mississippi,28,Clarke,023
+VIPE,United States,Mississippi,28,Covington,031
+VIPE,United States,Mississippi,28,Hinds,049
+VIPE,United States,Mississippi,28,Jefferson Davis,065
+VIPE,United States,Mississippi,28,Jones,067
+VIPE,United States,Mississippi,28,Lafayette,071
+VIPE,United States,Mississippi,28,Lamar,073
+VIPE,United States,Mississippi,28,Lauderdale,075
+VIPE,United States,Mississippi,28,Lawrence,077
+VIPE,United States,Mississippi,28,Lee,081
+VIPE,United States,Mississippi,28,Marion,091
+VIPE,United States,Mississippi,28,Newton,101
+VIPE,United States,Mississippi,28,Noxubee,103
+VIPE,United States,Mississippi,28,Perry,111
+VIPE,United States,Mississippi,28,Pike,113
+VIPE,United States,Mississippi,28,Smith,129
+VIPE,United States,Mississippi,28,Tippah,139
+VIPE,United States,Mississippi,28,Tishomingo,141
+VIPE,United States,Mississippi,28,Wayne,153
+VIPE,United States,Missouri,29,,
+VIPE,United States,Missouri,29,Adair,001
+VIPE,United States,Missouri,29,Audrain,007
+VIPE,United States,Missouri,29,Barry,009
+VIPE,United States,Missouri,29,Barton,011
+VIPE,United States,Missouri,29,Benton,015
+VIPE,United States,Missouri,29,Bollinger,017
+VIPE,United States,Missouri,29,Boone,019
+VIPE,United States,Missouri,29,Butler,023
+VIPE,United States,Missouri,29,Callaway,027
+VIPE,United States,Missouri,29,Camden,029
+VIPE,United States,Missouri,29,Cape Girardeau,031
+VIPE,United States,Missouri,29,Carter,035
+VIPE,United States,Missouri,29,Cedar,039
+VIPE,United States,Missouri,29,Christian,043
+VIPE,United States,Missouri,29,Clark,045
+VIPE,United States,Missouri,29,Cole,051
+VIPE,United States,Missouri,29,Cooper,053
+VIPE,United States,Missouri,29,Crawford,055
+VIPE,United States,Missouri,29,Dade,057
+VIPE,United States,Missouri,29,Dallas,059
+VIPE,United States,Missouri,29,Dent,065
+VIPE,United States,Missouri,29,Douglas,067
+VIPE,United States,Missouri,29,Franklin,071
+VIPE,United States,Missouri,29,Gasconade,073
+VIPE,United States,Missouri,29,Greene,077
+VIPE,United States,Missouri,29,Harrison,081
+VIPE,United States,Missouri,29,Henry,083
+VIPE,United States,Missouri,29,Hickory,085
+VIPE,United States,Missouri,29,Howard,089
+VIPE,United States,Missouri,29,Howell,091
+VIPE,United States,Missouri,29,Iron,093
+VIPE,United States,Missouri,29,Jasper,097
+VIPE,United States,Missouri,29,Jefferson,099
+VIPE,United States,Missouri,29,Johnson,101
+VIPE,United States,Missouri,29,Knox,103
+VIPE,United States,Missouri,29,Laclede,105
+VIPE,United States,Missouri,29,Lawrence,109
+VIPE,United States,Missouri,29,Lewis,111
+VIPE,United States,Missouri,29,Lincoln,113
+VIPE,United States,Missouri,29,Linn,115
+VIPE,United States,Missouri,29,Macon,121
+VIPE,United States,Missouri,29,Madison,123
+VIPE,United States,Missouri,29,Maries,125
+VIPE,United States,Missouri,29,Marion,127
+VIPE,United States,Missouri,29,McDonald,119
+VIPE,United States,Missouri,29,Miller,131
+VIPE,United States,Missouri,29,Moniteau,135
+VIPE,United States,Missouri,29,Monroe,137
+VIPE,United States,Missouri,29,Montgomery,139
+VIPE,United States,Missouri,29,Morgan,141
+VIPE,United States,Missouri,29,Newton,145
+VIPE,United States,Missouri,29,Nodaway,147
+VIPE,United States,Missouri,29,Oregon,149
+VIPE,United States,Missouri,29,Osage,151
+VIPE,United States,Missouri,29,Ozark,153
+VIPE,United States,Missouri,29,Perry,157
+VIPE,United States,Missouri,29,Phelps,161
+VIPE,United States,Missouri,29,Pike,163
+VIPE,United States,Missouri,29,Platte,165
+VIPE,United States,Missouri,29,Polk,167
+VIPE,United States,Missouri,29,Pulaski,169
+VIPE,United States,Missouri,29,Putnam,171
+VIPE,United States,Missouri,29,Ralls,173
+VIPE,United States,Missouri,29,Randolph,175
+VIPE,United States,Missouri,29,Reynolds,179
+VIPE,United States,Missouri,29,Ripley,181
+VIPE,United States,Missouri,29,Saline,195
+VIPE,United States,Missouri,29,Schuyler,197
+VIPE,United States,Missouri,29,Scott,201
+VIPE,United States,Missouri,29,Shannon,203
+VIPE,United States,Missouri,29,Shelby,205
+VIPE,United States,Missouri,29,St. Charles,183
+VIPE,United States,Missouri,29,St. Clair,185
+VIPE,United States,Missouri,29,St. Francois,187
+VIPE,United States,Missouri,29,St. Louis,189
+VIPE,United States,Missouri,29,Ste. Genevieve,186
+VIPE,United States,Missouri,29,Stoddard,207
+VIPE,United States,Missouri,29,Stone,209
+VIPE,United States,Missouri,29,Sullivan,211
+VIPE,United States,Missouri,29,Taney,213
+VIPE,United States,Missouri,29,Texas,215
+VIPE,United States,Missouri,29,Vernon,217
+VIPE,United States,Missouri,29,Warren,219
+VIPE,United States,Missouri,29,Washington,221
+VIPE,United States,Missouri,29,Wayne,223
+VIPE,United States,Missouri,29,Webster,225
+VIPE,United States,Missouri,29,Wright,229
+VIPE,United States,Nebraska,31,,
+VIPE,United States,New Hampshire,33,,
+VIPE,United States,New Hampshire,33,Hillsborough,011
+VIPE,United States,New Hampshire,33,Rockingham,015
+VIPE,United States,New Jersey,34,,
+VIPE,United States,New Jersey,34,Atlantic,001
+VIPE,United States,New Jersey,34,Burlington,005
+VIPE,United States,New Jersey,34,Camden,007
+VIPE,United States,New Jersey,34,Cape May,009
+VIPE,United States,New Jersey,34,Cumberland,011
+VIPE,United States,New Jersey,34,Essex,013
+VIPE,United States,New Jersey,34,Gloucester,015
+VIPE,United States,New Jersey,34,Hunterdon,019
+VIPE,United States,New Jersey,34,Mercer,021
+VIPE,United States,New Jersey,34,Middlesex,023
+VIPE,United States,New Jersey,34,Monmouth,025
+VIPE,United States,New Jersey,34,Morris,027
+VIPE,United States,New Jersey,34,Ocean,029
+VIPE,United States,New Jersey,34,Salem,033
+VIPE,United States,New Jersey,34,Somerset,035
+VIPE,United States,New Jersey,34,Sussex,037
+VIPE,United States,New Jersey,34,Union,039
+VIPE,United States,New Jersey,34,Warren,041
+VIPE,United States,New York,36,,
+VIPE,United States,New York,36,Albany,001
+VIPE,United States,New York,36,Bronx,005
+VIPE,United States,New York,36,Erie,029
+VIPE,United States,New York,36,Kings,047
+VIPE,United States,New York,36,Nassau,059
+VIPE,United States,New York,36,New York,061
+VIPE,United States,New York,36,Queens,081
+VIPE,United States,New York,36,Richmond,085
+VIPE,United States,New York,36,Suffolk,103
+VIPE,United States,New York,36,Westchester,119
+VIPE,United States,North Carolina,37,,
+VIPE,United States,North Carolina,37,Alamance,001
+VIPE,United States,North Carolina,37,Alexander,003
+VIPE,United States,North Carolina,37,Alleghany,005
+VIPE,United States,North Carolina,37,Anson,007
+VIPE,United States,North Carolina,37,Ashe,009
+VIPE,United States,North Carolina,37,Avery,011
+VIPE,United States,North Carolina,37,Bertie,015
+VIPE,United States,North Carolina,37,Bladen,017
+VIPE,United States,North Carolina,37,Buncombe,021
+VIPE,United States,North Carolina,37,Burke,023
+VIPE,United States,North Carolina,37,Caldwell,027
+VIPE,United States,North Carolina,37,Catawba,035
+VIPE,United States,North Carolina,37,Cherokee,039
+VIPE,United States,North Carolina,37,Cleveland,045
+VIPE,United States,North Carolina,37,Cumberland,051
+VIPE,United States,North Carolina,37,Forsyth,067
+VIPE,United States,North Carolina,37,Franklin,069
+VIPE,United States,North Carolina,37,Gaston,071
+VIPE,United States,North Carolina,37,Guilford,081
+VIPE,United States,North Carolina,37,Harnett,085
+VIPE,United States,North Carolina,37,Haywood,087
+VIPE,United States,North Carolina,37,Henderson,089
+VIPE,United States,North Carolina,37,Hertford,091
+VIPE,United States,North Carolina,37,Hoke,093
+VIPE,United States,North Carolina,37,Iredell,097
+VIPE,United States,North Carolina,37,Jackson,099
+VIPE,United States,North Carolina,37,Johnston,101
+VIPE,United States,North Carolina,37,Jones,103
+VIPE,United States,North Carolina,37,Lee,105
+VIPE,United States,North Carolina,37,Lincoln,109
+VIPE,United States,North Carolina,37,Macon,113
+VIPE,United States,North Carolina,37,Madison,115
+VIPE,United States,North Carolina,37,Mecklenburg,119
+VIPE,United States,North Carolina,37,Mitchell,121
+VIPE,United States,North Carolina,37,Montgomery,123
+VIPE,United States,North Carolina,37,Moore,125
+VIPE,United States,North Carolina,37,Nash,127
+VIPE,United States,North Carolina,37,Onslow,133
+VIPE,United States,North Carolina,37,Orange,135
+VIPE,United States,North Carolina,37,Pamlico,137
+VIPE,United States,North Carolina,37,Polk,149
+VIPE,United States,North Carolina,37,Randolph,151
+VIPE,United States,North Carolina,37,Richmond,153
+VIPE,United States,North Carolina,37,Robeson,155
+VIPE,United States,North Carolina,37,Rockingham,157
+VIPE,United States,North Carolina,37,Rowan,159
+VIPE,United States,North Carolina,37,Rutherford,161
+VIPE,United States,North Carolina,37,Scotland,165
+VIPE,United States,North Carolina,37,Stanly,167
+VIPE,United States,North Carolina,37,Stokes,169
+VIPE,United States,North Carolina,37,Surry,171
+VIPE,United States,North Carolina,37,Swain,173
+VIPE,United States,North Carolina,37,Transylvania,175
+VIPE,United States,North Carolina,37,Union,179
+VIPE,United States,North Carolina,37,Wake,183
+VIPE,United States,North Carolina,37,Warren,185
+VIPE,United States,North Carolina,37,Wilkes,193
+VIPE,United States,North Carolina,37,Wilson,195
+VIPE,United States,North Carolina,37,Yancey,199
+VIPE,United States,Ohio,39,,
+VIPE,United States,Ohio,39,Adams,001
+VIPE,United States,Ohio,39,Carroll,019
+VIPE,United States,Ohio,39,Fulton,051
+VIPE,United States,Ohio,39,Henry,069
+VIPE,United States,Ohio,39,Lawrence,087
+VIPE,United States,Ohio,39,Lucas,095
+VIPE,United States,Ohio,39,Scioto,145
+VIPE,United States,Oklahoma,40,,
+VIPE,United States,Oklahoma,40,Adair,001
+VIPE,United States,Oklahoma,40,Cherokee,021
+VIPE,United States,Oklahoma,40,Cleveland,027
+VIPE,United States,Oklahoma,40,Delaware,041
+VIPE,United States,Oklahoma,40,Haskell,061
+VIPE,United States,Oklahoma,40,Latimer,077
+VIPE,United States,Oklahoma,40,Le Flore,079
+VIPE,United States,Oklahoma,40,Mayes,097
+VIPE,United States,Oklahoma,40,McCurtain,089
+VIPE,United States,Oklahoma,40,Muskogee,101
+VIPE,United States,Oklahoma,40,Nowata,105
+VIPE,United States,Oklahoma,40,Ottawa,115
+VIPE,United States,Oklahoma,40,Pittsburg,121
+VIPE,United States,Oklahoma,40,Pushmataha,127
+VIPE,United States,Oklahoma,40,Rogers,131
+VIPE,United States,Oklahoma,40,Sequoyah,135
+VIPE,United States,Pennsylvania,42,,
+VIPE,United States,Pennsylvania,42,Adams,001
+VIPE,United States,Pennsylvania,42,Bedford,009
+VIPE,United States,Pennsylvania,42,Berks,011
+VIPE,United States,Pennsylvania,42,Blair,013
+VIPE,United States,Pennsylvania,42,Bucks,017
+VIPE,United States,Pennsylvania,42,Carbon,025
+VIPE,United States,Pennsylvania,42,Chester,029
+VIPE,United States,Pennsylvania,42,Cumberland,041
+VIPE,United States,Pennsylvania,42,Dauphin,043
+VIPE,United States,Pennsylvania,42,Delaware,045
+VIPE,United States,Pennsylvania,42,Franklin,055
+VIPE,United States,Pennsylvania,42,Fulton,057
+VIPE,United States,Pennsylvania,42,Huntingdon,061
+VIPE,United States,Pennsylvania,42,Juniata,067
+VIPE,United States,Pennsylvania,42,Lancaster,071
+VIPE,United States,Pennsylvania,42,Lebanon,075
+VIPE,United States,Pennsylvania,42,Lehigh,077
+VIPE,United States,Pennsylvania,42,Monroe,089
+VIPE,United States,Pennsylvania,42,Montgomery,091
+VIPE,United States,Pennsylvania,42,Northampton,095
+VIPE,United States,Pennsylvania,42,Perry,099
+VIPE,United States,Pennsylvania,42,Philadelphia,101
+VIPE,United States,Pennsylvania,42,Pike,103
+VIPE,United States,Pennsylvania,42,Snyder,109
+VIPE,United States,Pennsylvania,42,York,133
+VIPE,United States,Rhode Island,44,,
+VIPE,United States,Rhode Island,44,Kent,003
+VIPE,United States,Rhode Island,44,Providence,007
+VIPE,United States,Rhode Island,44,Washington,009
+VIPE,United States,South Carolina,45,,
+VIPE,United States,South Carolina,45,Abbeville,001
+VIPE,United States,South Carolina,45,Aiken,003
+VIPE,United States,South Carolina,45,Barnwell,011
+VIPE,United States,South Carolina,45,Calhoun,017
+VIPE,United States,South Carolina,45,Cherokee,021
+VIPE,United States,South Carolina,45,Chesterfield,025
+VIPE,United States,South Carolina,45,Darlington,031
+VIPE,United States,South Carolina,45,Dillon,033
+VIPE,United States,South Carolina,45,Edgefield,037
+VIPE,United States,South Carolina,45,Greenville,045
+VIPE,United States,South Carolina,45,Kershaw,055
+VIPE,United States,South Carolina,45,Lancaster,057
+VIPE,United States,South Carolina,45,Laurens,059
+VIPE,United States,South Carolina,45,Lexington,063
+VIPE,United States,South Carolina,45,Oconee,073
+VIPE,United States,South Carolina,45,Pickens,077
+VIPE,United States,South Carolina,45,Richland,079
+VIPE,United States,South Carolina,45,Saluda,081
+VIPE,United States,South Carolina,45,Spartanburg,083
+VIPE,United States,South Carolina,45,Sumter,085
+VIPE,United States,South Carolina,45,Union,087
+VIPE,United States,South Carolina,45,York,091
+VIPE,United States,Tennessee,47,,
+VIPE,United States,Tennessee,47,Bedford,003
+VIPE,United States,Tennessee,47,Bledsoe,007
+VIPE,United States,Tennessee,47,Blount,009
+VIPE,United States,Tennessee,47,Campbell,013
+VIPE,United States,Tennessee,47,Carroll,017
+VIPE,United States,Tennessee,47,Cheatham,021
+VIPE,United States,Tennessee,47,Cocke,029
+VIPE,United States,Tennessee,47,Coffee,031
+VIPE,United States,Tennessee,47,Cumberland,035
+VIPE,United States,Tennessee,47,Davidson,037
+VIPE,United States,Tennessee,47,Fentress,049
+VIPE,United States,Tennessee,47,Franklin,051
+VIPE,United States,Tennessee,47,Grainger,057
+VIPE,United States,Tennessee,47,Grundy,061
+VIPE,United States,Tennessee,47,Hamilton,065
+VIPE,United States,Tennessee,47,Hardin,071
+VIPE,United States,Tennessee,47,Hickman,081
+VIPE,United States,Tennessee,47,Jefferson,089
+VIPE,United States,Tennessee,47,Johnson,091
+VIPE,United States,Tennessee,47,Knox,093
+VIPE,United States,Tennessee,47,Lewis,101
+VIPE,United States,Tennessee,47,Marion,115
+VIPE,United States,Tennessee,47,McMinn,107
+VIPE,United States,Tennessee,47,McNairy,109
+VIPE,United States,Tennessee,47,Meigs,121
+VIPE,United States,Tennessee,47,Monroe,123
+VIPE,United States,Tennessee,47,Montgomery,125
+VIPE,United States,Tennessee,47,Morgan,129
+VIPE,United States,Tennessee,47,Overton,133
+VIPE,United States,Tennessee,47,Pickett,137
+VIPE,United States,Tennessee,47,Polk,139
+VIPE,United States,Tennessee,47,Putnam,141
+VIPE,United States,Tennessee,47,Rhea,143
+VIPE,United States,Tennessee,47,Roane,145
+VIPE,United States,Tennessee,47,Rutherford,149
+VIPE,United States,Tennessee,47,Scott,151
+VIPE,United States,Tennessee,47,Sequatchie,153
+VIPE,United States,Tennessee,47,Sevier,155
+VIPE,United States,Tennessee,47,Stewart,161
+VIPE,United States,Tennessee,47,Van Buren,175
+VIPE,United States,Tennessee,47,Warren,177
+VIPE,United States,Tennessee,47,Wayne,181
+VIPE,United States,Tennessee,47,White,185
+VIPE,United States,Tennessee,47,Williamson,187
+VIPE,United States,Tennessee,47,Wilson,189
+VIPE,United States,Texas,48,,
+VIPE,United States,Texas,48,Angelina,005
+VIPE,United States,Texas,48,Hardin,199
+VIPE,United States,Texas,48,Jasper,241
+VIPE,United States,Texas,48,Nacogdoches,347
+VIPE,United States,Texas,48,Newton,351
+VIPE,United States,Texas,48,Orange,361
+VIPE,United States,Texas,48,San Augustine,405
+VIPE,United States,Texas,48,Shelby,419
+VIPE,United States,Texas,48,Tyler,457
+VIPE,United States,Texas,48,Walker,471
+VIPE,United States,Virginia,51,,
+VIPE,United States,Virginia,51,Albemarle,003
+VIPE,United States,Virginia,51,Alleghany,005
+VIPE,United States,Virginia,51,Amelia,007
+VIPE,United States,Virginia,51,Amherst,009
+VIPE,United States,Virginia,51,Appomattox,011
+VIPE,United States,Virginia,51,Augusta,015
+VIPE,United States,Virginia,51,Bath,017
+VIPE,United States,Virginia,51,Bedford,019
+VIPE,United States,Virginia,51,Bland,021
+VIPE,United States,Virginia,51,Botetourt,023
+VIPE,United States,Virginia,51,Brunswick,025
+VIPE,United States,Virginia,51,Buckingham,029
+VIPE,United States,Virginia,51,Campbell,031
+VIPE,United States,Virginia,51,Caroline,033
+VIPE,United States,Virginia,51,Carroll,035
+VIPE,United States,Virginia,51,Charles City,036
+VIPE,United States,Virginia,51,Charlotte,037
+VIPE,United States,Virginia,51,Chesapeake ,550
+VIPE,United States,Virginia,51,Chesterfield,041
+VIPE,United States,Virginia,51,Craig,045
+VIPE,United States,Virginia,51,Culpeper,047
+VIPE,United States,Virginia,51,Dinwiddie,053
+VIPE,United States,Virginia,51,Essex,057
+VIPE,United States,Virginia,51,Fairfax,059
+VIPE,United States,Virginia,51,Fauquier,061
+VIPE,United States,Virginia,51,Fluvanna,065
+VIPE,United States,Virginia,51,Frederick,069
+VIPE,United States,Virginia,51,Giles,071
+VIPE,United States,Virginia,51,Gloucester,073
+VIPE,United States,Virginia,51,Goochland,075
+VIPE,United States,Virginia,51,Grayson,077
+VIPE,United States,Virginia,51,Greene,079
+VIPE,United States,Virginia,51,Greensville,081
+VIPE,United States,Virginia,51,Halifax,083
+VIPE,United States,Virginia,51,Hanover,085
+VIPE,United States,Virginia,51,Henrico,087
+VIPE,United States,Virginia,51,Henry,089
+VIPE,United States,Virginia,51,James City,095
+VIPE,United States,Virginia,51,King and Queen,097
+VIPE,United States,Virginia,51,Lancaster,103
+VIPE,United States,Virginia,51,Lee,105
+VIPE,United States,Virginia,51,Loudoun,107
+VIPE,United States,Virginia,51,Louisa,109
+VIPE,United States,Virginia,51,Lunenburg,111
+VIPE,United States,Virginia,51,Mecklenburg,117
+VIPE,United States,Virginia,51,Middlesex,119
+VIPE,United States,Virginia,51,Montgomery,121
+VIPE,United States,Virginia,51,Nelson,125
+VIPE,United States,Virginia,51,New Kent,127
+VIPE,United States,Virginia,51,Orange,137
+VIPE,United States,Virginia,51,Page,139
+VIPE,United States,Virginia,51,Patrick,141
+VIPE,United States,Virginia,51,Pittsylvania,143
+VIPE,United States,Virginia,51,Prince Edward,147
+VIPE,United States,Virginia,51,Prince George,149
+VIPE,United States,Virginia,51,Prince William,153
+VIPE,United States,Virginia,51,Pulaski,155
+VIPE,United States,Virginia,51,Rappahannock,157
+VIPE,United States,Virginia,51,Roanoke,161
+VIPE,United States,Virginia,51,Rockbridge,163
+VIPE,United States,Virginia,51,Rockingham,165
+VIPE,United States,Virginia,51,Scott,169
+VIPE,United States,Virginia,51,Shenandoah,171
+VIPE,United States,Virginia,51,Smyth,173
+VIPE,United States,Virginia,51,Spotsylvania,177
+VIPE,United States,Virginia,51,Stafford,179
+VIPE,United States,Virginia,51,Suffolk ,800
+VIPE,United States,Virginia,51,Surry,181
+VIPE,United States,Virginia,51,Sussex,183
+VIPE,United States,Virginia,51,Tazewell,185
+VIPE,United States,Virginia,51,Warren,187
+VIPE,United States,Virginia,51,Washington,191
+VIPE,United States,Virginia,51,Wythe,197
+VIPE,United States,West Virginia,54,,
+VIPE,United States,West Virginia,54,Berkeley,003
+VIPE,United States,West Virginia,54,Fayette,019
+VIPE,United States,West Virginia,54,Grant,023
+VIPE,United States,West Virginia,54,Greenbrier,025
+VIPE,United States,West Virginia,54,Hampshire,027
+VIPE,United States,West Virginia,54,Hardy,031
+VIPE,United States,West Virginia,54,Mercer,055
+VIPE,United States,West Virginia,54,Mineral,057
+VIPE,United States,West Virginia,54,Monroe,063
+VIPE,United States,West Virginia,54,Morgan,065
+VIPE,United States,West Virginia,54,Nicholas,067
+VIPE,United States,West Virginia,54,Pendleton,071
+VIPE,United States,West Virginia,54,Pocahontas,075
+VIPE,United States,West Virginia,54,Randolph,083
+VIPE,United States,West Virginia,54,Summers,089
+VIPE,United States,West Virginia,54,Wayne,099
+VIPE,United States,Wisconsin,55,,
+VIPE,United States,Wisconsin,55,Adams,001
+VIPE,United States,Wisconsin,55,Barron,005
+VIPE,United States,Wisconsin,55,Bayfield,007
+VIPE,United States,Wisconsin,55,Buffalo,011
+VIPE,United States,Wisconsin,55,Burnett,013
+VIPE,United States,Wisconsin,55,Chippewa,017
+VIPE,United States,Wisconsin,55,Columbia,021
+VIPE,United States,Wisconsin,55,Crawford,023
+VIPE,United States,Wisconsin,55,Dane,025
+VIPE,United States,Wisconsin,55,Dodge,027
+VIPE,United States,Wisconsin,55,Douglas,031
+VIPE,United States,Wisconsin,55,Dunn,033
+VIPE,United States,Wisconsin,55,Eau Claire,035
+VIPE,United States,Wisconsin,55,Grant,043
+VIPE,United States,Wisconsin,55,Green,045
+VIPE,United States,Wisconsin,55,Green Lake,047
+VIPE,United States,Wisconsin,55,Iowa,049
+VIPE,United States,Wisconsin,55,Jefferson,055
+VIPE,United States,Wisconsin,55,Kenosha,059
+VIPE,United States,Wisconsin,55,La Crosse,063
+VIPE,United States,Wisconsin,55,Lafayette,065
+VIPE,United States,Wisconsin,55,Manitowoc,071
+VIPE,United States,Wisconsin,55,Marinette,075
+VIPE,United States,Wisconsin,55,Marquette,077
+VIPE,United States,Wisconsin,55,Menominee,078
+VIPE,United States,Wisconsin,55,Milwaukee,079
+VIPE,United States,Wisconsin,55,Monroe,081
+VIPE,United States,Wisconsin,55,Oconto,083
+VIPE,United States,Wisconsin,55,Outagamie,087
+VIPE,United States,Wisconsin,55,Pepin,091
+VIPE,United States,Wisconsin,55,Pierce,093
+VIPE,United States,Wisconsin,55,Polk,095
+VIPE,United States,Wisconsin,55,Portage,097
+VIPE,United States,Wisconsin,55,Racine,101
+VIPE,United States,Wisconsin,55,Richland,103
+VIPE,United States,Wisconsin,55,Rock,105
+VIPE,United States,Wisconsin,55,Rusk,107
+VIPE,United States,Wisconsin,55,Sauk,111
+VIPE,United States,Wisconsin,55,Shawano,115
+VIPE,United States,Wisconsin,55,Sheboygan,117
+VIPE,United States,Wisconsin,55,St. Croix,109
+VIPE,United States,Wisconsin,55,Trempealeau,121
+VIPE,United States,Wisconsin,55,Vernon,123
+VIPE,United States,Wisconsin,55,Vilas,125
+VIPE,United States,Wisconsin,55,Walworth,127
+VIPE,United States,Wisconsin,55,Washburn,129
+VIPE,United States,Wisconsin,55,Waukesha,133
+VIPE,United States,Wisconsin,55,Waupaca,135
+VIPE,United States,Wisconsin,55,Waushara,137
+VIPE,United States,Wisconsin,55,Winnebago,139
+VIPE,United States,Wisconsin,55,Wood,141

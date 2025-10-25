@@ -1,0 +1,800 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+AMTU,United States,Alabama,01,,
+AMTU,Canada,Manitoba,03,,
+AMTU,United States,Arkansas,05,,
+AMTU,United States,Arkansas,05,Arkansas,001
+AMTU,United States,Arkansas,05,Ashley,003
+AMTU,United States,Arkansas,05,Baxter,005
+AMTU,United States,Arkansas,05,Benton,007
+AMTU,United States,Arkansas,05,Chicot,017
+AMTU,United States,Arkansas,05,Conway,029
+AMTU,United States,Arkansas,05,Craighead,031
+AMTU,United States,Arkansas,05,Crawford,033
+AMTU,United States,Arkansas,05,Crittenden,035
+AMTU,United States,Arkansas,05,Desha,041
+AMTU,United States,Arkansas,05,Franklin,047
+AMTU,United States,Arkansas,05,Howard,061
+AMTU,United States,Arkansas,05,Independence,063
+AMTU,United States,Arkansas,05,Izard,065
+AMTU,United States,Arkansas,05,Jackson,067
+AMTU,United States,Arkansas,05,Jefferson,069
+AMTU,United States,Arkansas,05,Johnson,071
+AMTU,United States,Arkansas,05,Lee,077
+AMTU,United States,Arkansas,05,Marion,089
+AMTU,United States,Arkansas,05,Miller,091
+AMTU,United States,Arkansas,05,Mississippi,093
+AMTU,United States,Arkansas,05,Monroe,095
+AMTU,United States,Arkansas,05,Newton,101
+AMTU,United States,Arkansas,05,Perry,105
+AMTU,United States,Arkansas,05,Phillips,107
+AMTU,United States,Arkansas,05,Pope,115
+AMTU,United States,Arkansas,05,Prairie,117
+AMTU,United States,Arkansas,05,Pulaski,119
+AMTU,United States,Arkansas,05,Randolph,121
+AMTU,United States,Arkansas,05,Sebastian,131
+AMTU,United States,Arkansas,05,Sevier,133
+AMTU,United States,Arkansas,05,St. Francis,123
+AMTU,United States,Arkansas,05,Union,139
+AMTU,United States,Arkansas,05,Washington,143
+AMTU,United States,California,06,,
+AMTU,United States,California,06,Butte,007
+AMTU,United States,California,06,Sacramento,067
+AMTU,United States,California,06,San Diego,073
+AMTU,United States,California,06,Santa Barbara,083
+AMTU,Canada,Ontario,08,,
+AMTU,United States,Colorado,08,,
+AMTU,United States,Connecticut,09,,
+AMTU,United States,Connecticut,09,Fairfield,001
+AMTU,United States,Connecticut,09,Hartford,003
+AMTU,United States,Connecticut,09,Litchfield,005
+AMTU,United States,Connecticut,09,New Haven,009
+AMTU,Canada,Quebec,10,,
+AMTU,United States,Delaware,10,,
+AMTU,United States,Georgia,13,,
+AMTU,United States,Georgia,13,Jasper,159
+AMTU,United States,Idaho,16,,
+AMTU,United States,Illinois,17,,
+AMTU,United States,Illinois,17,Adams,001
+AMTU,United States,Illinois,17,Alexander,003
+AMTU,United States,Illinois,17,Boone,007
+AMTU,United States,Illinois,17,Brown,009
+AMTU,United States,Illinois,17,Bureau,011
+AMTU,United States,Illinois,17,Calhoun,013
+AMTU,United States,Illinois,17,Carroll,015
+AMTU,United States,Illinois,17,Cass,017
+AMTU,United States,Illinois,17,Champaign,019
+AMTU,United States,Illinois,17,Christian,021
+AMTU,United States,Illinois,17,Clark,023
+AMTU,United States,Illinois,17,Clinton,027
+AMTU,United States,Illinois,17,Coles,029
+AMTU,United States,Illinois,17,Cook,031
+AMTU,United States,Illinois,17,Crawford,033
+AMTU,United States,Illinois,17,De Witt,039
+AMTU,United States,Illinois,17,DeKalb,037
+AMTU,United States,Illinois,17,Douglas,041
+AMTU,United States,Illinois,17,DuPage,043
+AMTU,United States,Illinois,17,Fayette,051
+AMTU,United States,Illinois,17,Ford,053
+AMTU,United States,Illinois,17,Fulton,057
+AMTU,United States,Illinois,17,Gallatin,059
+AMTU,United States,Illinois,17,Greene,061
+AMTU,United States,Illinois,17,Grundy,063
+AMTU,United States,Illinois,17,Hancock,067
+AMTU,United States,Illinois,17,Hardin,069
+AMTU,United States,Illinois,17,Henderson,071
+AMTU,United States,Illinois,17,Henry,073
+AMTU,United States,Illinois,17,Iroquois,075
+AMTU,United States,Illinois,17,Jackson,077
+AMTU,United States,Illinois,17,Jersey,083
+AMTU,United States,Illinois,17,Johnson,087
+AMTU,United States,Illinois,17,Kane,089
+AMTU,United States,Illinois,17,Kankakee,091
+AMTU,United States,Illinois,17,Kendall,093
+AMTU,United States,Illinois,17,Lake,097
+AMTU,United States,Illinois,17,LaSalle,099
+AMTU,United States,Illinois,17,Lawrence,101
+AMTU,United States,Illinois,17,Lee,103
+AMTU,United States,Illinois,17,Logan,107
+AMTU,United States,Illinois,17,Macon,115
+AMTU,United States,Illinois,17,Macoupin,117
+AMTU,United States,Illinois,17,Madison,119
+AMTU,United States,Illinois,17,Marshall,123
+AMTU,United States,Illinois,17,Mason,125
+AMTU,United States,Illinois,17,Massac,127
+AMTU,United States,Illinois,17,McDonough,109
+AMTU,United States,Illinois,17,McHenry,111
+AMTU,United States,Illinois,17,McLean,113
+AMTU,United States,Illinois,17,Menard,129
+AMTU,United States,Illinois,17,Mercer,131
+AMTU,United States,Illinois,17,Monroe,133
+AMTU,United States,Illinois,17,Morgan,137
+AMTU,United States,Illinois,17,Moultrie,139
+AMTU,United States,Illinois,17,Ogle,141
+AMTU,United States,Illinois,17,Peoria,143
+AMTU,United States,Illinois,17,Piatt,147
+AMTU,United States,Illinois,17,Pike,149
+AMTU,United States,Illinois,17,Pope,151
+AMTU,United States,Illinois,17,Pulaski,153
+AMTU,United States,Illinois,17,Putnam,155
+AMTU,United States,Illinois,17,Randolph,157
+AMTU,United States,Illinois,17,Rock Island,161
+AMTU,United States,Illinois,17,Sangamon,167
+AMTU,United States,Illinois,17,Schuyler,169
+AMTU,United States,Illinois,17,Scott,171
+AMTU,United States,Illinois,17,Shelby,173
+AMTU,United States,Illinois,17,St. Clair,163
+AMTU,United States,Illinois,17,Stark,175
+AMTU,United States,Illinois,17,Tazewell,179
+AMTU,United States,Illinois,17,Union,181
+AMTU,United States,Illinois,17,Vermilion,183
+AMTU,United States,Illinois,17,Wabash,185
+AMTU,United States,Illinois,17,Warren,187
+AMTU,United States,Illinois,17,White,193
+AMTU,United States,Illinois,17,Whiteside,195
+AMTU,United States,Illinois,17,Will,197
+AMTU,United States,Illinois,17,Winnebago,201
+AMTU,United States,Illinois,17,Woodford,203
+AMTU,United States,Indiana,18,,
+AMTU,United States,Indiana,18,Allen,003
+AMTU,United States,Indiana,18,Blackford,009
+AMTU,United States,Indiana,18,Cass,017
+AMTU,United States,Indiana,18,Crawford,025
+AMTU,United States,Indiana,18,Daviess,027
+AMTU,United States,Indiana,18,Dearborn,029
+AMTU,United States,Indiana,18,Elkhart,039
+AMTU,United States,Indiana,18,Floyd,043
+AMTU,United States,Indiana,18,Fountain,045
+AMTU,United States,Indiana,18,Gibson,051
+AMTU,United States,Indiana,18,Greene,055
+AMTU,United States,Indiana,18,Hamilton,057
+AMTU,United States,Indiana,18,Hancock,059
+AMTU,United States,Indiana,18,Hendricks,063
+AMTU,United States,Indiana,18,Howard,067
+AMTU,United States,Indiana,18,Huntington,069
+AMTU,United States,Indiana,18,Jackson,071
+AMTU,United States,Indiana,18,Jasper,073
+AMTU,United States,Indiana,18,Jay,075
+AMTU,United States,Indiana,18,Jefferson,077
+AMTU,United States,Indiana,18,Johnson,081
+AMTU,United States,Indiana,18,Knox,083
+AMTU,United States,Indiana,18,Kosciusko,085
+AMTU,United States,Indiana,18,Lake,089
+AMTU,United States,Indiana,18,Lawrence,093
+AMTU,United States,Indiana,18,Madison,095
+AMTU,United States,Indiana,18,Marion,097
+AMTU,United States,Indiana,18,Marshall,099
+AMTU,United States,Indiana,18,Montgomery,107
+AMTU,United States,Indiana,18,Morgan,109
+AMTU,United States,Indiana,18,Newton,111
+AMTU,United States,Indiana,18,Noble,113
+AMTU,United States,Indiana,18,Owen,119
+AMTU,United States,Indiana,18,Perry,123
+AMTU,United States,Indiana,18,Porter,127
+AMTU,United States,Indiana,18,Posey,129
+AMTU,United States,Indiana,18,Pulaski,131
+AMTU,United States,Indiana,18,Putnam,133
+AMTU,United States,Indiana,18,Randolph,135
+AMTU,United States,Indiana,18,Ripley,137
+AMTU,United States,Indiana,18,Shelby,145
+AMTU,United States,Indiana,18,Spencer,147
+AMTU,United States,Indiana,18,St. Joseph,141
+AMTU,United States,Indiana,18,Tipton,159
+AMTU,United States,Indiana,18,Union,161
+AMTU,United States,Indiana,18,Vanderburgh,163
+AMTU,United States,Indiana,18,Vigo,167
+AMTU,United States,Indiana,18,Warren,171
+AMTU,United States,Indiana,18,Warrick,173
+AMTU,United States,Indiana,18,Washington,175
+AMTU,United States,Indiana,18,Wells,179
+AMTU,United States,Indiana,18,White,181
+AMTU,United States,Indiana,18,Whitley,183
+AMTU,United States,Iowa,19,,
+AMTU,United States,Iowa,19,Adams,003
+AMTU,United States,Iowa,19,Allamakee,005
+AMTU,United States,Iowa,19,Audubon,009
+AMTU,United States,Iowa,19,Benton,011
+AMTU,United States,Iowa,19,Boone,015
+AMTU,United States,Iowa,19,Buena Vista,021
+AMTU,United States,Iowa,19,Carroll,027
+AMTU,United States,Iowa,19,Cass,029
+AMTU,United States,Iowa,19,Cherokee,035
+AMTU,United States,Iowa,19,Des Moines,057
+AMTU,United States,Iowa,19,Dickinson,059
+AMTU,United States,Iowa,19,Emmet,063
+AMTU,United States,Iowa,19,Fremont,071
+AMTU,United States,Iowa,19,Guthrie,077
+AMTU,United States,Iowa,19,Hardin,083
+AMTU,United States,Iowa,19,Harrison,085
+AMTU,United States,Iowa,19,Johnson,103
+AMTU,United States,Iowa,19,Lee,111
+AMTU,United States,Iowa,19,Lyon,119
+AMTU,United States,Iowa,19,Madison,121
+AMTU,United States,Iowa,19,Mills,129
+AMTU,United States,Iowa,19,Monona,133
+AMTU,United States,Iowa,19,Muscatine,139
+AMTU,United States,Iowa,19,O'Brien,141
+AMTU,United States,Iowa,19,Page,145
+AMTU,United States,Iowa,19,Plymouth,149
+AMTU,United States,Iowa,19,Pocahontas,151
+AMTU,United States,Iowa,19,Pottawattamie,155
+AMTU,United States,Iowa,19,Story,169
+AMTU,United States,Iowa,19,Taylor,173
+AMTU,United States,Iowa,19,Warren,181
+AMTU,United States,Iowa,19,Webster,187
+AMTU,United States,Iowa,19,Winneshiek,191
+AMTU,United States,Iowa,19,Woodbury,193
+AMTU,United States,Kansas,20,,
+AMTU,United States,Kansas,20,Allen,001
+AMTU,United States,Kansas,20,Anderson,003
+AMTU,United States,Kansas,20,Atchison,005
+AMTU,United States,Kansas,20,Barton,009
+AMTU,United States,Kansas,20,Bourbon,011
+AMTU,United States,Kansas,20,Brown,013
+AMTU,United States,Kansas,20,Butler,015
+AMTU,United States,Kansas,20,Chase,017
+AMTU,United States,Kansas,20,Chautauqua,019
+AMTU,United States,Kansas,20,Cherokee,021
+AMTU,United States,Kansas,20,Cheyenne,023
+AMTU,United States,Kansas,20,Clay,027
+AMTU,United States,Kansas,20,Cloud,029
+AMTU,United States,Kansas,20,Coffey,031
+AMTU,United States,Kansas,20,Comanche,033
+AMTU,United States,Kansas,20,Cowley,035
+AMTU,United States,Kansas,20,Crawford,037
+AMTU,United States,Kansas,20,Decatur,039
+AMTU,United States,Kansas,20,Dickinson,041
+AMTU,United States,Kansas,20,Doniphan,043
+AMTU,United States,Kansas,20,Douglas,045
+AMTU,United States,Kansas,20,Edwards,047
+AMTU,United States,Kansas,20,Elk,049
+AMTU,United States,Kansas,20,Ellis,051
+AMTU,United States,Kansas,20,Ellsworth,053
+AMTU,United States,Kansas,20,Ford,057
+AMTU,United States,Kansas,20,Franklin,059
+AMTU,United States,Kansas,20,Geary,061
+AMTU,United States,Kansas,20,Grant,067
+AMTU,United States,Kansas,20,Gray,069
+AMTU,United States,Kansas,20,Greenwood,073
+AMTU,United States,Kansas,20,Hamilton,075
+AMTU,United States,Kansas,20,Harper,077
+AMTU,United States,Kansas,20,Harvey,079
+AMTU,United States,Kansas,20,Jackson,085
+AMTU,United States,Kansas,20,Jefferson,087
+AMTU,United States,Kansas,20,Johnson,091
+AMTU,United States,Kansas,20,Kearny,093
+AMTU,United States,Kansas,20,Kingman,095
+AMTU,United States,Kansas,20,Labette,099
+AMTU,United States,Kansas,20,Leavenworth,103
+AMTU,United States,Kansas,20,Lincoln,105
+AMTU,United States,Kansas,20,Linn,107
+AMTU,United States,Kansas,20,Lyon,111
+AMTU,United States,Kansas,20,Marion,115
+AMTU,United States,Kansas,20,Marshall,117
+AMTU,United States,Kansas,20,McPherson,113
+AMTU,United States,Kansas,20,Meade,119
+AMTU,United States,Kansas,20,Miami,121
+AMTU,United States,Kansas,20,Mitchell,123
+AMTU,United States,Kansas,20,Montgomery,125
+AMTU,United States,Kansas,20,Morris,127
+AMTU,United States,Kansas,20,Nemaha,131
+AMTU,United States,Kansas,20,Neosho,133
+AMTU,United States,Kansas,20,Ness,135
+AMTU,United States,Kansas,20,Norton,137
+AMTU,United States,Kansas,20,Osage,139
+AMTU,United States,Kansas,20,Osborne,141
+AMTU,United States,Kansas,20,Ottawa,143
+AMTU,United States,Kansas,20,Pawnee,145
+AMTU,United States,Kansas,20,Phillips,147
+AMTU,United States,Kansas,20,Pottawatomie,149
+AMTU,United States,Kansas,20,Pratt,151
+AMTU,United States,Kansas,20,Reno,155
+AMTU,United States,Kansas,20,Republic,157
+AMTU,United States,Kansas,20,Rice,159
+AMTU,United States,Kansas,20,Riley,161
+AMTU,United States,Kansas,20,Rooks,163
+AMTU,United States,Kansas,20,Rush,165
+AMTU,United States,Kansas,20,Russell,167
+AMTU,United States,Kansas,20,Saline,169
+AMTU,United States,Kansas,20,Sedgwick,173
+AMTU,United States,Kansas,20,Seward,175
+AMTU,United States,Kansas,20,Shawnee,177
+AMTU,United States,Kansas,20,Smith,183
+AMTU,United States,Kansas,20,Stafford,185
+AMTU,United States,Kansas,20,Stevens,189
+AMTU,United States,Kansas,20,Sumner,191
+AMTU,United States,Kansas,20,Wabaunsee,197
+AMTU,United States,Kansas,20,Washington,201
+AMTU,United States,Kansas,20,Wilson,205
+AMTU,United States,Kansas,20,Woodson,207
+AMTU,United States,Kansas,20,Wyandotte,209
+AMTU,United States,Kentucky,21,,
+AMTU,United States,Kentucky,21,Ballard,007
+AMTU,United States,Kentucky,21,Boone,015
+AMTU,United States,Kentucky,21,Bracken,023
+AMTU,United States,Kentucky,21,Calloway,035
+AMTU,United States,Kentucky,21,Campbell,037
+AMTU,United States,Kentucky,21,Franklin,073
+AMTU,United States,Kentucky,21,Fulton,075
+AMTU,United States,Kentucky,21,Henderson,101
+AMTU,United States,Kentucky,21,Hickman,105
+AMTU,United States,Kentucky,21,Jefferson,111
+AMTU,United States,Kentucky,21,Kenton,117
+AMTU,United States,Kentucky,21,Lewis,135
+AMTU,United States,Kentucky,21,Meade,163
+AMTU,United States,Kentucky,21,Oldham,185
+AMTU,United States,Kentucky,21,Rowan,205
+AMTU,United States,Louisiana,22,,
+AMTU,United States,Louisiana,22,Allen,003
+AMTU,United States,Louisiana,22,Avoyelles,009
+AMTU,United States,Louisiana,22,Bossier,015
+AMTU,United States,Louisiana,22,Caddo,017
+AMTU,United States,Louisiana,22,Caldwell,021
+AMTU,United States,Louisiana,22,Cameron,023
+AMTU,United States,Louisiana,22,Catahoula,025
+AMTU,United States,Louisiana,22,Concordia,029
+AMTU,United States,Louisiana,22,De Soto,031
+AMTU,United States,Louisiana,22,East Baton Rouge,033
+AMTU,United States,Louisiana,22,East Carroll,035
+AMTU,United States,Louisiana,22,East Feliciana,037
+AMTU,United States,Louisiana,22,Franklin,041
+AMTU,United States,Louisiana,22,Iberville,047
+AMTU,United States,Louisiana,22,Jefferson,051
+AMTU,United States,Louisiana,22,Livingston,063
+AMTU,United States,Louisiana,22,Madison,065
+AMTU,United States,Louisiana,22,Morehouse,067
+AMTU,United States,Louisiana,22,Natchitoches,069
+AMTU,United States,Louisiana,22,Orleans,071
+AMTU,United States,Louisiana,22,Ouachita,073
+AMTU,United States,Louisiana,22,Plaquemines,075
+AMTU,United States,Louisiana,22,Pointe Coupee,077
+AMTU,United States,Louisiana,22,Red River,081
+AMTU,United States,Louisiana,22,Richland,083
+AMTU,United States,Louisiana,22,Sabine,085
+AMTU,United States,Louisiana,22,St. Bernard,087
+AMTU,United States,Louisiana,22,St. Charles,089
+AMTU,United States,Louisiana,22,St. Landry,097
+AMTU,United States,Louisiana,22,St. Mary,101
+AMTU,United States,Louisiana,22,St. Tammany,103
+AMTU,United States,Louisiana,22,Tensas,107
+AMTU,United States,Louisiana,22,Terrebonne,109
+AMTU,United States,Louisiana,22,Union,111
+AMTU,United States,Louisiana,22,West Baton Rouge,121
+AMTU,United States,Louisiana,22,West Carroll,123
+AMTU,United States,Louisiana,22,West Feliciana,125
+AMTU,United States,Louisiana,22,Winn,127
+AMTU,United States,Maine,23,,
+AMTU,United States,Maine,23,Oxford,017
+AMTU,United States,Maine,23,Waldo,027
+AMTU,United States,Massachusetts,25,,
+AMTU,United States,Massachusetts,25,Berkshire,003
+AMTU,United States,Massachusetts,25,Essex,009
+AMTU,United States,Massachusetts,25,Franklin,011
+AMTU,United States,Massachusetts,25,Middlesex,017
+AMTU,United States,Massachusetts,25,Norfolk,021
+AMTU,United States,Massachusetts,25,Suffolk,025
+AMTU,United States,Massachusetts,25,Worcester,027
+AMTU,United States,Michigan,26,,
+AMTU,United States,Michigan,26,Allegan,005
+AMTU,United States,Michigan,26,Berrien,021
+AMTU,United States,Michigan,26,Branch,023
+AMTU,United States,Michigan,26,Cass,027
+AMTU,United States,Michigan,26,Clinton,037
+AMTU,United States,Michigan,26,Eaton,045
+AMTU,United States,Michigan,26,Genesee,049
+AMTU,United States,Michigan,26,Gratiot,057
+AMTU,United States,Michigan,26,Ingham,065
+AMTU,United States,Michigan,26,Jackson,075
+AMTU,United States,Michigan,26,Kalamazoo,077
+AMTU,United States,Michigan,26,Kent,081
+AMTU,United States,Michigan,26,Lapeer,087
+AMTU,United States,Michigan,26,Lenawee,091
+AMTU,United States,Michigan,26,Macomb,099
+AMTU,United States,Michigan,26,Monroe,115
+AMTU,United States,Michigan,26,Muskegon,121
+AMTU,United States,Michigan,26,Oakland,125
+AMTU,United States,Michigan,26,Ottawa,139
+AMTU,United States,Michigan,26,Saginaw,145
+AMTU,United States,Michigan,26,Shiawassee,155
+AMTU,United States,Michigan,26,St. Clair,147
+AMTU,United States,Michigan,26,St. Joseph,149
+AMTU,United States,Michigan,26,Washtenaw,161
+AMTU,United States,Michigan,26,Wayne,163
+AMTU,United States,Minnesota,27,,
+AMTU,United States,Minnesota,27,Aitkin,001
+AMTU,United States,Minnesota,27,Beltrami,007
+AMTU,United States,Minnesota,27,Big Stone,011
+AMTU,United States,Minnesota,27,Blue Earth,013
+AMTU,United States,Minnesota,27,Cass,021
+AMTU,United States,Minnesota,27,Chippewa,023
+AMTU,United States,Minnesota,27,Chisago,025
+AMTU,United States,Minnesota,27,Clay,027
+AMTU,United States,Minnesota,27,Clearwater,029
+AMTU,United States,Minnesota,27,Cottonwood,033
+AMTU,United States,Minnesota,27,Crow Wing,035
+AMTU,United States,Minnesota,27,Dakota,037
+AMTU,United States,Minnesota,27,Fillmore,045
+AMTU,United States,Minnesota,27,Freeborn,047
+AMTU,United States,Minnesota,27,Goodhue,049
+AMTU,United States,Minnesota,27,Hennepin,053
+AMTU,United States,Minnesota,27,Houston,055
+AMTU,United States,Minnesota,27,Hubbard,057
+AMTU,United States,Minnesota,27,Isanti,059
+AMTU,United States,Minnesota,27,Jackson,063
+AMTU,United States,Minnesota,27,Lac qui Parle,073
+AMTU,United States,Minnesota,27,Le Sueur,079
+AMTU,United States,Minnesota,27,Lincoln,081
+AMTU,United States,Minnesota,27,Martin,091
+AMTU,United States,Minnesota,27,McLeod,085
+AMTU,United States,Minnesota,27,Morrison,097
+AMTU,United States,Minnesota,27,Mower,099
+AMTU,United States,Minnesota,27,Murray,101
+AMTU,United States,Minnesota,27,Norman,107
+AMTU,United States,Minnesota,27,Pipestone,117
+AMTU,United States,Minnesota,27,Ramsey,123
+AMTU,United States,Minnesota,27,Redwood,127
+AMTU,United States,Minnesota,27,Rice,131
+AMTU,United States,Minnesota,27,Rock,133
+AMTU,United States,Minnesota,27,Sherburne,141
+AMTU,United States,Minnesota,27,Stearns,145
+AMTU,United States,Minnesota,27,Wabasha,157
+AMTU,United States,Minnesota,27,Washington,163
+AMTU,United States,Minnesota,27,Watonwan,165
+AMTU,United States,Minnesota,27,Winona,169
+AMTU,United States,Minnesota,27,Wright,171
+AMTU,United States,Mississippi,28,,
+AMTU,United States,Mississippi,28,Forrest,035
+AMTU,United States,Mississippi,28,Hinds,049
+AMTU,United States,Mississippi,28,Lafayette,071
+AMTU,United States,Mississippi,28,Leflore,083
+AMTU,United States,Mississippi,28,Quitman,119
+AMTU,United States,Mississippi,28,Washington,151
+AMTU,United States,Missouri,29,,
+AMTU,United States,Missouri,29,Adair,001
+AMTU,United States,Missouri,29,Atchison,005
+AMTU,United States,Missouri,29,Audrain,007
+AMTU,United States,Missouri,29,Barry,009
+AMTU,United States,Missouri,29,Barton,011
+AMTU,United States,Missouri,29,Bates,013
+AMTU,United States,Missouri,29,Boone,019
+AMTU,United States,Missouri,29,Buchanan,021
+AMTU,United States,Missouri,29,Cape Girardeau,031
+AMTU,United States,Missouri,29,Cass,037
+AMTU,United States,Missouri,29,Clark,045
+AMTU,United States,Missouri,29,Clay,047
+AMTU,United States,Missouri,29,Cole,051
+AMTU,United States,Missouri,29,Dade,057
+AMTU,United States,Missouri,29,Dallas,059
+AMTU,United States,Missouri,29,Daviess,061
+AMTU,United States,Missouri,29,DeKalb,063
+AMTU,United States,Missouri,29,Franklin,071
+AMTU,United States,Missouri,29,Gentry,075
+AMTU,United States,Missouri,29,Greene,077
+AMTU,United States,Missouri,29,Grundy,079
+AMTU,United States,Missouri,29,Henry,083
+AMTU,United States,Missouri,29,Holt,087
+AMTU,United States,Missouri,29,Howard,089
+AMTU,United States,Missouri,29,Jackson,095
+AMTU,United States,Missouri,29,Jasper,097
+AMTU,United States,Missouri,29,Johnson,101
+AMTU,United States,Missouri,29,Knox,103
+AMTU,United States,Missouri,29,Laclede,105
+AMTU,United States,Missouri,29,Lafayette,107
+AMTU,United States,Missouri,29,Lincoln,113
+AMTU,United States,Missouri,29,Linn,115
+AMTU,United States,Missouri,29,Livingston,117
+AMTU,United States,Missouri,29,Marion,127
+AMTU,United States,Missouri,29,McDonald,119
+AMTU,United States,Missouri,29,Mississippi,133
+AMTU,United States,Missouri,29,Monroe,137
+AMTU,United States,Missouri,29,Morgan,141
+AMTU,United States,Missouri,29,New Madrid,143
+AMTU,United States,Missouri,29,Newton,145
+AMTU,United States,Missouri,29,Nodaway,147
+AMTU,United States,Missouri,29,Osage,151
+AMTU,United States,Missouri,29,Ozark,153
+AMTU,United States,Missouri,29,Pemiscot,155
+AMTU,United States,Missouri,29,Perry,157
+AMTU,United States,Missouri,29,Pike,163
+AMTU,United States,Missouri,29,Platte,165
+AMTU,United States,Missouri,29,Putnam,171
+AMTU,United States,Missouri,29,Ralls,173
+AMTU,United States,Missouri,29,Randolph,175
+AMTU,United States,Missouri,29,Saline,195
+AMTU,United States,Missouri,29,Schuyler,197
+AMTU,United States,Missouri,29,Scott,201
+AMTU,United States,Missouri,29,St. Charles,183
+AMTU,United States,Missouri,29,St. Clair,185
+AMTU,United States,Missouri,29,St. Louis,189
+AMTU,United States,Missouri,29,Ste. Genevieve,186
+AMTU,United States,Missouri,29,Stoddard,207
+AMTU,United States,Missouri,29,Stone,209
+AMTU,United States,Missouri,29,Sullivan,211
+AMTU,United States,Missouri,29,Taney,213
+AMTU,United States,Missouri,29,Vernon,217
+AMTU,United States,Missouri,29,Worth,227
+AMTU,United States,Nebraska,31,,
+AMTU,United States,Nebraska,31,Adams,001
+AMTU,United States,Nebraska,31,Butler,023
+AMTU,United States,Nebraska,31,Cass,025
+AMTU,United States,Nebraska,31,Cedar,027
+AMTU,United States,Nebraska,31,Cherry,031
+AMTU,United States,Nebraska,31,Clay,035
+AMTU,United States,Nebraska,31,Cuming,039
+AMTU,United States,Nebraska,31,Deuel,049
+AMTU,United States,Nebraska,31,Douglas,055
+AMTU,United States,Nebraska,31,Fillmore,059
+AMTU,United States,Nebraska,31,Franklin,061
+AMTU,United States,Nebraska,31,Gage,067
+AMTU,United States,Nebraska,31,Garden,069
+AMTU,United States,Nebraska,31,Grant,075
+AMTU,United States,Nebraska,31,Hamilton,081
+AMTU,United States,Nebraska,31,Harlan,083
+AMTU,United States,Nebraska,31,Hooker,091
+AMTU,United States,Nebraska,31,Kearney,099
+AMTU,United States,Nebraska,31,Keith,101
+AMTU,United States,Nebraska,31,Knox,107
+AMTU,United States,Nebraska,31,Lancaster,109
+AMTU,United States,Nebraska,31,Merrick,121
+AMTU,United States,Nebraska,31,Nemaha,127
+AMTU,United States,Nebraska,31,Nuckolls,129
+AMTU,United States,Nebraska,31,Otoe,131
+AMTU,United States,Nebraska,31,Pawnee,133
+AMTU,United States,Nebraska,31,Phelps,137
+AMTU,United States,Nebraska,31,Pierce,139
+AMTU,United States,Nebraska,31,Polk,143
+AMTU,United States,Nebraska,31,Richardson,147
+AMTU,United States,Nebraska,31,Sarpy,153
+AMTU,United States,Nebraska,31,Saunders,155
+AMTU,United States,Nebraska,31,Seward,159
+AMTU,United States,Nebraska,31,Stanton,167
+AMTU,United States,Nebraska,31,Thayer,169
+AMTU,United States,Nebraska,31,Thomas,171
+AMTU,United States,Nebraska,31,Thurston,173
+AMTU,United States,Nebraska,31,Washington,177
+AMTU,United States,Nebraska,31,Wayne,179
+AMTU,United States,Nebraska,31,Webster,181
+AMTU,United States,Nebraska,31,Wheeler,183
+AMTU,United States,Nebraska,31,York,185
+AMTU,United States,New Hampshire,33,,
+AMTU,United States,New Hampshire,33,Coos,007
+AMTU,United States,New Jersey,34,,
+AMTU,United States,New Jersey,34,Cape May,009
+AMTU,United States,New Jersey,34,Salem,033
+AMTU,United States,New Jersey,34,Sussex,037
+AMTU,United States,New Mexico,35,,
+AMTU,United States,New Mexico,35,Roosevelt,041
+AMTU,United States,New York,36,,
+AMTU,United States,New York,36,Albany,001
+AMTU,United States,New York,36,Cattaraugus,009
+AMTU,United States,New York,36,Cayuga,011
+AMTU,United States,New York,36,Chemung,015
+AMTU,United States,New York,36,Essex,031
+AMTU,United States,New York,36,Greene,039
+AMTU,United States,New York,36,Onondaga,067
+AMTU,United States,New York,36,Richmond,085
+AMTU,United States,New York,36,Saratoga,091
+AMTU,United States,New York,36,St. Lawrence,089
+AMTU,United States,New York,36,Suffolk,103
+AMTU,United States,New York,36,Tompkins,109
+AMTU,United States,New York,36,Washington,115
+AMTU,United States,North Carolina,37,,
+AMTU,United States,North Carolina,37,Durham,063
+AMTU,United States,North Dakota,38,,
+AMTU,United States,North Dakota,38,Benson,005
+AMTU,United States,North Dakota,38,Burleigh,015
+AMTU,United States,North Dakota,38,Cass,017
+AMTU,United States,North Dakota,38,Foster,031
+AMTU,United States,North Dakota,38,McHenry,049
+AMTU,United States,North Dakota,38,Oliver,065
+AMTU,United States,North Dakota,38,Ransom,073
+AMTU,United States,North Dakota,38,Sargent,081
+AMTU,United States,North Dakota,38,Slope,087
+AMTU,United States,North Dakota,38,Traill,097
+AMTU,United States,North Dakota,38,Ward,101
+AMTU,United States,Ohio,39,,
+AMTU,United States,Ohio,39,Adams,001
+AMTU,United States,Ohio,39,Athens,009
+AMTU,United States,Ohio,39,Auglaize,011
+AMTU,United States,Ohio,39,Brown,015
+AMTU,United States,Ohio,39,Champaign,021
+AMTU,United States,Ohio,39,Clermont,025
+AMTU,United States,Ohio,39,Clinton,027
+AMTU,United States,Ohio,39,Coshocton,031
+AMTU,United States,Ohio,39,Cuyahoga,035
+AMTU,United States,Ohio,39,Darke,037
+AMTU,United States,Ohio,39,Delaware,041
+AMTU,United States,Ohio,39,Erie,043
+AMTU,United States,Ohio,39,Fairfield,045
+AMTU,United States,Ohio,39,Fayette,047
+AMTU,United States,Ohio,39,Franklin,049
+AMTU,United States,Ohio,39,Fulton,051
+AMTU,United States,Ohio,39,Gallia,053
+AMTU,United States,Ohio,39,Geauga,055
+AMTU,United States,Ohio,39,Greene,057
+AMTU,United States,Ohio,39,Hamilton,061
+AMTU,United States,Ohio,39,Harrison,067
+AMTU,United States,Ohio,39,Hocking,073
+AMTU,United States,Ohio,39,Holmes,075
+AMTU,United States,Ohio,39,Jackson,079
+AMTU,United States,Ohio,39,Jefferson,081
+AMTU,United States,Ohio,39,Knox,083
+AMTU,United States,Ohio,39,Lake,085
+AMTU,United States,Ohio,39,Lawrence,087
+AMTU,United States,Ohio,39,Licking,089
+AMTU,United States,Ohio,39,Logan,091
+AMTU,United States,Ohio,39,Lucas,095
+AMTU,United States,Ohio,39,Mahoning,099
+AMTU,United States,Ohio,39,Meigs,105
+AMTU,United States,Ohio,39,Mercer,107
+AMTU,United States,Ohio,39,Montgomery,113
+AMTU,United States,Ohio,39,Muskingum,119
+AMTU,United States,Ohio,39,Ottawa,123
+AMTU,United States,Ohio,39,Pickaway,129
+AMTU,United States,Ohio,39,Pike,131
+AMTU,United States,Ohio,39,Portage,133
+AMTU,United States,Ohio,39,Ross,141
+AMTU,United States,Ohio,39,Sandusky,143
+AMTU,United States,Ohio,39,Scioto,145
+AMTU,United States,Ohio,39,Shelby,149
+AMTU,United States,Ohio,39,Stark,151
+AMTU,United States,Ohio,39,Summit,153
+AMTU,United States,Ohio,39,Trumbull,155
+AMTU,United States,Ohio,39,Tuscarawas,157
+AMTU,United States,Ohio,39,Warren,165
+AMTU,United States,Ohio,39,Washington,167
+AMTU,United States,Ohio,39,Wayne,169
+AMTU,United States,Ohio,39,Williams,171
+AMTU,United States,Oklahoma,40,,
+AMTU,United States,Oklahoma,40,Alfalfa,003
+AMTU,United States,Oklahoma,40,Beaver,007
+AMTU,United States,Oklahoma,40,Bryan,013
+AMTU,United States,Oklahoma,40,Canadian,017
+AMTU,United States,Oklahoma,40,Cherokee,021
+AMTU,United States,Oklahoma,40,Choctaw,023
+AMTU,United States,Oklahoma,40,Cleveland,027
+AMTU,United States,Oklahoma,40,Comanche,031
+AMTU,United States,Oklahoma,40,Craig,035
+AMTU,United States,Oklahoma,40,Custer,039
+AMTU,United States,Oklahoma,40,Delaware,041
+AMTU,United States,Oklahoma,40,Garfield,047
+AMTU,United States,Oklahoma,40,Grant,053
+AMTU,United States,Oklahoma,40,Greer,055
+AMTU,United States,Oklahoma,40,Harmon,057
+AMTU,United States,Oklahoma,40,Harper,059
+AMTU,United States,Oklahoma,40,Kay,071
+AMTU,United States,Oklahoma,40,Kingfisher,073
+AMTU,United States,Oklahoma,40,Marshall,095
+AMTU,United States,Oklahoma,40,Murray,099
+AMTU,United States,Oklahoma,40,Muskogee,101
+AMTU,United States,Oklahoma,40,Oklahoma,109
+AMTU,United States,Oklahoma,40,Ottawa,115
+AMTU,United States,Oklahoma,40,Payne,119
+AMTU,United States,Oklahoma,40,Texas,139
+AMTU,United States,Oklahoma,40,Tulsa,143
+AMTU,United States,Oklahoma,40,Wagoner,145
+AMTU,United States,Oklahoma,40,Woods,151
+AMTU,United States,Pennsylvania,42,,
+AMTU,United States,Pennsylvania,42,Allegheny,003
+AMTU,United States,Pennsylvania,42,Chester,029
+AMTU,United States,Pennsylvania,42,Delaware,045
+AMTU,United States,Pennsylvania,42,Lancaster,071
+AMTU,United States,Pennsylvania,42,Lehigh,077
+AMTU,United States,Pennsylvania,42,Northampton,095
+AMTU,United States,Pennsylvania,42,Philadelphia,101
+AMTU,United States,Pennsylvania,42,Venango,121
+AMTU,United States,South Carolina,45,,
+AMTU,United States,South Dakota,46,,
+AMTU,United States,South Dakota,46,Beadle,005
+AMTU,United States,South Dakota,46,Bennett,007
+AMTU,United States,South Dakota,46,Brookings,011
+AMTU,United States,South Dakota,46,Buffalo,017
+AMTU,United States,South Dakota,46,Charles Mix,023
+AMTU,United States,South Dakota,46,Clay,027
+AMTU,United States,South Dakota,46,Douglas,043
+AMTU,United States,South Dakota,46,Gregory,053
+AMTU,United States,South Dakota,46,Hughes,065
+AMTU,United States,South Dakota,46,Hutchinson,067
+AMTU,United States,South Dakota,46,Kingsbury,077
+AMTU,United States,South Dakota,46,Stanley,117
+AMTU,United States,South Dakota,46,Union,127
+AMTU,United States,South Dakota,46,Yankton,135
+AMTU,United States,Tennessee,47,,
+AMTU,United States,Tennessee,47,Cheatham,021
+AMTU,United States,Tennessee,47,Davidson,037
+AMTU,United States,Tennessee,47,Hickman,081
+AMTU,United States,Tennessee,47,Humphreys,085
+AMTU,United States,Tennessee,47,Knox,093
+AMTU,United States,Tennessee,47,Lake,095
+AMTU,United States,Tennessee,47,Lauderdale,097
+AMTU,United States,Tennessee,47,Montgomery,125
+AMTU,United States,Tennessee,47,Obion,131
+AMTU,United States,Tennessee,47,Shelby,157
+AMTU,United States,Tennessee,47,Stewart,161
+AMTU,United States,Tennessee,47,Tipton,167
+AMTU,United States,Tennessee,47,Williamson,187
+AMTU,United States,Tennessee,47,Wilson,189
+AMTU,United States,Texas,48,,
+AMTU,United States,Texas,48,Brazos,041
+AMTU,United States,Texas,48,Brown,049
+AMTU,United States,Texas,48,Burleson,051
+AMTU,United States,Texas,48,Cameron,061
+AMTU,United States,Texas,48,Castro,069
+AMTU,United States,Texas,48,Chambers,071
+AMTU,United States,Texas,48,Childress,075
+AMTU,United States,Texas,48,Collingsworth,087
+AMTU,United States,Texas,48,Dallam,111
+AMTU,United States,Texas,48,Dallas,113
+AMTU,United States,Texas,48,Denton,121
+AMTU,United States,Texas,48,Gillespie,171
+AMTU,United States,Texas,48,Grayson,181
+AMTU,United States,Texas,48,Hall,191
+AMTU,United States,Texas,48,Harris,201
+AMTU,United States,Texas,48,Hemphill,211
+AMTU,United States,Texas,48,Kerr,265
+AMTU,United States,Texas,48,Lamb,279
+AMTU,United States,Texas,48,Lipscomb,295
+AMTU,United States,Texas,48,Madison,313
+AMTU,United States,Texas,48,McLennan,309
+AMTU,United States,Texas,48,Motley,345
+AMTU,United States,Texas,48,Oldham,359
+AMTU,United States,Texas,48,Parker,367
+AMTU,United States,Texas,48,Parmer,369
+AMTU,United States,Texas,48,Potter,375
+AMTU,United States,Texas,48,Roberts,393
+AMTU,United States,Texas,48,Robertson,395
+AMTU,United States,Texas,48,Travis,453
+AMTU,United States,Vermont,50,,
+AMTU,United States,Vermont,50,Addison,001
+AMTU,United States,Vermont,50,Chittenden,007
+AMTU,United States,Vermont,50,Rutland,021
+AMTU,United States,Washington,53,,
+AMTU,United States,West Virginia,54,,
+AMTU,United States,West Virginia,54,Cabell,011
+AMTU,United States,West Virginia,54,Jackson,035
+AMTU,United States,West Virginia,54,Kanawha,039
+AMTU,United States,West Virginia,54,Mason,053
+AMTU,United States,West Virginia,54,Tyler,095
+AMTU,United States,West Virginia,54,Wetzel,103
+AMTU,United States,West Virginia,54,Wood,107
+AMTU,United States,Wisconsin,55,,
+AMTU,United States,Wisconsin,55,Adams,001
+AMTU,United States,Wisconsin,55,Brown,009
+AMTU,United States,Wisconsin,55,Buffalo,011
+AMTU,United States,Wisconsin,55,Calumet,015
+AMTU,United States,Wisconsin,55,Columbia,021
+AMTU,United States,Wisconsin,55,Crawford,023
+AMTU,United States,Wisconsin,55,Dane,025
+AMTU,United States,Wisconsin,55,Dodge,027
+AMTU,United States,Wisconsin,55,Fond du Lac,039
+AMTU,United States,Wisconsin,55,Grant,043
+AMTU,United States,Wisconsin,55,Green,045
+AMTU,United States,Wisconsin,55,Green Lake,047
+AMTU,United States,Wisconsin,55,Iowa,049
+AMTU,United States,Wisconsin,55,Jefferson,055
+AMTU,United States,Wisconsin,55,Kenosha,059
+AMTU,United States,Wisconsin,55,La Crosse,063
+AMTU,United States,Wisconsin,55,Lafayette,065
+AMTU,United States,Wisconsin,55,Lincoln,069
+AMTU,United States,Wisconsin,55,Manitowoc,071
+AMTU,United States,Wisconsin,55,Marinette,075
+AMTU,United States,Wisconsin,55,Marquette,077
+AMTU,United States,Wisconsin,55,Milwaukee,079
+AMTU,United States,Wisconsin,55,Oconto,083
+AMTU,United States,Wisconsin,55,Outagamie,087
+AMTU,United States,Wisconsin,55,Ozaukee,089
+AMTU,United States,Wisconsin,55,Pepin,091
+AMTU,United States,Wisconsin,55,Pierce,093
+AMTU,United States,Wisconsin,55,Polk,095
+AMTU,United States,Wisconsin,55,Racine,101
+AMTU,United States,Wisconsin,55,Richland,103
+AMTU,United States,Wisconsin,55,Rock,105
+AMTU,United States,Wisconsin,55,Sauk,111
+AMTU,United States,Wisconsin,55,Sawyer,113
+AMTU,United States,Wisconsin,55,Sheboygan,117
+AMTU,United States,Wisconsin,55,Trempealeau,121
+AMTU,United States,Wisconsin,55,Vernon,123
+AMTU,United States,Wisconsin,55,Walworth,127
+AMTU,United States,Wisconsin,55,Waukesha,133
+AMTU,United States,Wisconsin,55,Waupaca,135
+AMTU,United States,Wisconsin,55,Winnebago,139

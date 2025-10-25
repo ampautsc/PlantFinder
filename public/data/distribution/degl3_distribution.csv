@@ -1,0 +1,84 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+DEGL3,Canada,Alberta,01,,
+DEGL3,Canada,British Columbia,02,,
+DEGL3,United States,Alaska,02,,
+DEGL3,United States,Alaska,02,Anchorage,020
+DEGL3,United States,Alaska,02,Bethel,050
+DEGL3,United States,Alaska,02,Chugach,063
+DEGL3,United States,Alaska,02,Copper River,066
+DEGL3,United States,Alaska,02,Denali,068
+DEGL3,United States,Alaska,02,Fairbanks North Star,090
+DEGL3,United States,Alaska,02,Haines,100
+DEGL3,United States,Alaska,02,Kenai Peninsula,122
+DEGL3,United States,Alaska,02,Matanuska-Susitna,170
+DEGL3,United States,Alaska,02,Nome,180
+DEGL3,United States,Alaska,02,North Slope,185
+DEGL3,United States,Alaska,02,Northwest Arctic,188
+DEGL3,United States,Alaska,02,Southeast Fairbanks,240
+DEGL3,United States,Alaska,02,Yukon-Koyukuk,290
+DEGL3,Canada,Manitoba,03,,
+DEGL3,United States,Arizona,04,,
+DEGL3,United States,California,06,,
+DEGL3,United States,California,06,Alpine,003
+DEGL3,United States,California,06,Amador,005
+DEGL3,United States,California,06,Calaveras,009
+DEGL3,United States,California,06,El Dorado,017
+DEGL3,United States,California,06,Humboldt,023
+DEGL3,United States,California,06,Inyo,027
+DEGL3,United States,California,06,Los Angeles,037
+DEGL3,United States,California,06,Madera,039
+DEGL3,United States,California,06,Mono,051
+DEGL3,United States,California,06,Nevada,057
+DEGL3,United States,California,06,Placer,061
+DEGL3,United States,California,06,Plumas,063
+DEGL3,United States,California,06,San Bernardino,071
+DEGL3,United States,California,06,Sierra,091
+DEGL3,United States,California,06,Siskiyou,093
+DEGL3,United States,California,06,Trinity,105
+DEGL3,United States,California,06,Tulare,107
+DEGL3,United States,California,06,Tuolumne,109
+DEGL3,United States,Colorado,08,,
+DEGL3,Canada,Saskatchewan,11,,
+DEGL3,Canada,Yukon,12,,
+DEGL3,Canada,Northwest Territories,13,,
+DEGL3,United States,Idaho,16,,
+DEGL3,United States,Idaho,16,Cassia,031
+DEGL3,United States,Montana,30,,
+DEGL3,United States,Nevada,32,,
+DEGL3,United States,Nevada,32,Carson City,510
+DEGL3,United States,Nevada,32,Douglas,005
+DEGL3,United States,Nevada,32,Elko,007
+DEGL3,United States,Nevada,32,Eureka,011
+DEGL3,United States,Nevada,32,Washoe,031
+DEGL3,United States,Oregon,41,,
+DEGL3,United States,Oregon,41,Baker,001
+DEGL3,United States,Oregon,41,Clackamas,005
+DEGL3,United States,Oregon,41,Douglas,019
+DEGL3,United States,Oregon,41,Grant,023
+DEGL3,United States,Oregon,41,Harney,025
+DEGL3,United States,Oregon,41,Jackson,029
+DEGL3,United States,Oregon,41,Josephine,033
+DEGL3,United States,Oregon,41,Klamath,035
+DEGL3,United States,Oregon,41,Linn,043
+DEGL3,United States,Oregon,41,Union,061
+DEGL3,United States,Oregon,41,Wallowa,063
+DEGL3,United States,Utah,49,,
+DEGL3,United States,Utah,49,San Juan,037
+DEGL3,United States,Washington,53,,
+DEGL3,United States,Washington,53,Clallam,009
+DEGL3,United States,Washington,53,Ferry,019
+DEGL3,United States,Washington,53,Jefferson,031
+DEGL3,United States,Washington,53,Kittitas,037
+DEGL3,United States,Washington,53,Lewis,041
+DEGL3,United States,Washington,53,Pend Oreille,051
+DEGL3,United States,Washington,53,Pierce,053
+DEGL3,United States,Washington,53,Thurston,067
+DEGL3,United States,Washington,53,Walla Walla,071
+DEGL3,United States,Washington,53,Yakima,077
+DEGL3,United States,Wyoming,56,,
+DEGL3,United States,Wyoming,56,Fremont,013
+DEGL3,United States,Wyoming,56,Lincoln,023
+DEGL3,United States,Wyoming,56,Park,029
+DEGL3,United States,Wyoming,56,Sublette,035
+DEGL3,United States,Wyoming,56,Teton,039

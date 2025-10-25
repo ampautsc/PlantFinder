@@ -1,0 +1,162 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ASEN,United States,Arizona,04,,
+ASEN,United States,Arizona,04,Apache,001
+ASEN,United States,Arizona,04,Cochise,003
+ASEN,United States,Arizona,04,Coconino,005
+ASEN,United States,Arizona,04,Gila,007
+ASEN,United States,Arizona,04,Graham,009
+ASEN,United States,Arizona,04,Mohave,015
+ASEN,United States,Arizona,04,Navajo,017
+ASEN,United States,Arizona,04,Pima,019
+ASEN,United States,Arizona,04,Yavapai,025
+ASEN,United States,Colorado,08,,
+ASEN,United States,Colorado,08,Arapahoe,005
+ASEN,United States,Colorado,08,Baca,009
+ASEN,United States,Colorado,08,Bent,011
+ASEN,United States,Colorado,08,Boulder,013
+ASEN,United States,Colorado,08,Chaffee,015
+ASEN,United States,Colorado,08,Cheyenne,017
+ASEN,United States,Colorado,08,Denver,031
+ASEN,United States,Colorado,08,El Paso,041
+ASEN,United States,Colorado,08,Fremont,043
+ASEN,United States,Colorado,08,Jefferson,059
+ASEN,United States,Colorado,08,Kit Carson,063
+ASEN,United States,Colorado,08,Larimer,069
+ASEN,United States,Colorado,08,Las Animas,071
+ASEN,United States,Colorado,08,Mesa,077
+ASEN,United States,Colorado,08,Otero,089
+ASEN,United States,Colorado,08,Prowers,099
+ASEN,United States,Colorado,08,Pueblo,101
+ASEN,United States,Colorado,08,Sedgwick,115
+ASEN,United States,Colorado,08,Weld,123
+ASEN,United States,Colorado,08,Yuma,125
+ASEN,United States,Iowa,19,,
+ASEN,United States,Kansas,20,,
+ASEN,United States,Kansas,20,Anderson,003
+ASEN,United States,Kansas,20,Barber,007
+ASEN,United States,Kansas,20,Cheyenne,023
+ASEN,United States,Kansas,20,Clark,025
+ASEN,United States,Kansas,20,Cloud,029
+ASEN,United States,Kansas,20,Comanche,033
+ASEN,United States,Kansas,20,Cowley,035
+ASEN,United States,Kansas,20,Decatur,039
+ASEN,United States,Kansas,20,Edwards,047
+ASEN,United States,Kansas,20,Ellis,051
+ASEN,United States,Kansas,20,Finney,055
+ASEN,United States,Kansas,20,Ford,057
+ASEN,United States,Kansas,20,Gove,063
+ASEN,United States,Kansas,20,Grant,067
+ASEN,United States,Kansas,20,Greeley,071
+ASEN,United States,Kansas,20,Hamilton,075
+ASEN,United States,Kansas,20,Harvey,079
+ASEN,United States,Kansas,20,Hodgeman,083
+ASEN,United States,Kansas,20,Kearny,093
+ASEN,United States,Kansas,20,Kiowa,097
+ASEN,United States,Kansas,20,Logan,109
+ASEN,United States,Kansas,20,Meade,119
+ASEN,United States,Kansas,20,Morton,129
+ASEN,United States,Kansas,20,Norton,137
+ASEN,United States,Kansas,20,Osborne,141
+ASEN,United States,Kansas,20,Phillips,147
+ASEN,United States,Kansas,20,Rooks,163
+ASEN,United States,Kansas,20,Rush,165
+ASEN,United States,Kansas,20,Russell,167
+ASEN,United States,Kansas,20,Scott,171
+ASEN,United States,Kansas,20,Sedgwick,173
+ASEN,United States,Kansas,20,Seward,175
+ASEN,United States,Kansas,20,Sheridan,179
+ASEN,United States,Kansas,20,Sherman,181
+ASEN,United States,Kansas,20,Smith,183
+ASEN,United States,Kansas,20,Stafford,185
+ASEN,United States,Kansas,20,Stanton,187
+ASEN,United States,Kansas,20,Stevens,189
+ASEN,United States,Kansas,20,Sumner,191
+ASEN,United States,Kansas,20,Thomas,193
+ASEN,United States,Kansas,20,Trego,195
+ASEN,United States,Kansas,20,Wallace,199
+ASEN,United States,Nebraska,31,,
+ASEN,United States,Nebraska,31,Banner,007
+ASEN,United States,Nebraska,31,Deuel,049
+ASEN,United States,Nebraska,31,Dundy,057
+ASEN,United States,Nebraska,31,Lincoln,111
+ASEN,United States,Nebraska,31,Morrill,123
+ASEN,United States,Nebraska,31,Platte,141
+ASEN,United States,Nebraska,31,Thomas,171
+ASEN,United States,New Mexico,35,,
+ASEN,United States,New Mexico,35,Chaves,005
+ASEN,United States,New Mexico,35,Curry,009
+ASEN,United States,New Mexico,35,De Baca,011
+ASEN,United States,New Mexico,35,Guadalupe,019
+ASEN,United States,New Mexico,35,Harding,021
+ASEN,United States,New Mexico,35,Lincoln,027
+ASEN,United States,New Mexico,35,Los Alamos,028
+ASEN,United States,New Mexico,35,Quay,037
+ASEN,United States,New Mexico,35,Rio Arriba,039
+ASEN,United States,New Mexico,35,Roosevelt,041
+ASEN,United States,New Mexico,35,San Miguel,047
+ASEN,United States,New Mexico,35,Sandoval,043
+ASEN,United States,New Mexico,35,Santa Fe,049
+ASEN,United States,New Mexico,35,Socorro,053
+ASEN,United States,New Mexico,35,Union,059
+ASEN,United States,Oklahoma,40,,
+ASEN,United States,Oklahoma,40,Beaver,007
+ASEN,United States,Oklahoma,40,Blaine,011
+ASEN,United States,Oklahoma,40,Cimarron,025
+ASEN,United States,Oklahoma,40,Comanche,031
+ASEN,United States,Oklahoma,40,Custer,039
+ASEN,United States,Oklahoma,40,Greer,055
+ASEN,United States,Oklahoma,40,Harmon,057
+ASEN,United States,Oklahoma,40,Kingfisher,073
+ASEN,United States,Oklahoma,40,Kiowa,075
+ASEN,United States,Oklahoma,40,Major,093
+ASEN,United States,Oklahoma,40,Payne,119
+ASEN,United States,Oklahoma,40,Roger Mills,129
+ASEN,United States,Oklahoma,40,Texas,139
+ASEN,United States,Oklahoma,40,Woods,151
+ASEN,United States,Texas,48,,
+ASEN,United States,Texas,48,Bailey,017
+ASEN,United States,Texas,48,Bexar,029
+ASEN,United States,Texas,48,Brewster,043
+ASEN,United States,Texas,48,Brown,049
+ASEN,United States,Texas,48,Carson,065
+ASEN,United States,Texas,48,Collin,085
+ASEN,United States,Texas,48,Comal,091
+ASEN,United States,Texas,48,Cooke,097
+ASEN,United States,Texas,48,Culberson,109
+ASEN,United States,Texas,48,Dallam,111
+ASEN,United States,Texas,48,Dickens,125
+ASEN,United States,Texas,48,Edwards,137
+ASEN,United States,Texas,48,Floyd,153
+ASEN,United States,Texas,48,Garza,169
+ASEN,United States,Texas,48,Gillespie,171
+ASEN,United States,Texas,48,Hale,189
+ASEN,United States,Texas,48,Hamilton,193
+ASEN,United States,Texas,48,Hartley,205
+ASEN,United States,Texas,48,Hutchinson,233
+ASEN,United States,Texas,48,Irion,235
+ASEN,United States,Texas,48,Jack,237
+ASEN,United States,Texas,48,Jeff Davis,243
+ASEN,United States,Texas,48,Kerr,265
+ASEN,United States,Texas,48,Knox,275
+ASEN,United States,Texas,48,Palo Pinto,363
+ASEN,United States,Texas,48,Parker,367
+ASEN,United States,Texas,48,Parmer,369
+ASEN,United States,Texas,48,Pecos,371
+ASEN,United States,Texas,48,Potter,375
+ASEN,United States,Texas,48,Presidio,377
+ASEN,United States,Texas,48,Reeves,389
+ASEN,United States,Texas,48,Runnels,399
+ASEN,United States,Texas,48,Scurry,415
+ASEN,United States,Texas,48,Sherman,421
+ASEN,United States,Texas,48,Somervell,425
+ASEN,United States,Texas,48,Stonewall,433
+ASEN,United States,Texas,48,Swisher,437
+ASEN,United States,Texas,48,Tarrant,439
+ASEN,United States,Texas,48,Taylor,441
+ASEN,United States,Texas,48,Tom Green,451
+ASEN,United States,Texas,48,Val Verde,465
+ASEN,United States,Texas,48,Young,503
+ASEN,United States,Utah,49,,
+ASEN,United States,Utah,49,San Juan,037
+ASEN,United States,Wyoming,56,,

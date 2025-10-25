@@ -1,0 +1,40 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VIDEV,United States,Delaware,10,,
+VIDEV,United States,Maryland,24,,
+VIDEV,United States,Massachusetts,25,,
+VIDEV,United States,Massachusetts,25,Barnstable,001
+VIDEV,United States,Massachusetts,25,Berkshire,003
+VIDEV,United States,Massachusetts,25,Bristol,005
+VIDEV,United States,Massachusetts,25,Dukes,007
+VIDEV,United States,Massachusetts,25,Essex,009
+VIDEV,United States,Massachusetts,25,Franklin,011
+VIDEV,United States,Massachusetts,25,Hampden,013
+VIDEV,United States,Massachusetts,25,Hampshire,015
+VIDEV,United States,Massachusetts,25,Middlesex,017
+VIDEV,United States,Massachusetts,25,Nantucket,019
+VIDEV,United States,Massachusetts,25,Norfolk,021
+VIDEV,United States,Massachusetts,25,Plymouth,023
+VIDEV,United States,Massachusetts,25,Suffolk,025
+VIDEV,United States,Massachusetts,25,Worcester,027
+VIDEV,United States,New Jersey,34,,
+VIDEV,United States,New Jersey,34,Mercer,021
+VIDEV,United States,New Jersey,34,Middlesex,023
+VIDEV,United States,New Jersey,34,Monmouth,025
+VIDEV,United States,New Jersey,34,Somerset,035
+VIDEV,United States,New York,36,,
+VIDEV,United States,New York,36,Bronx,005
+VIDEV,United States,New York,36,Columbia,021
+VIDEV,United States,New York,36,Dutchess,027
+VIDEV,United States,New York,36,Orange,071
+VIDEV,United States,New York,36,Suffolk,103
+VIDEV,United States,New York,36,Westchester,119
+VIDEV,United States,Ohio,39,,
+VIDEV,United States,Pennsylvania,42,,
+VIDEV,United States,Rhode Island,44,,
+VIDEV,United States,Rhode Island,44,Bristol,001
+VIDEV,United States,Rhode Island,44,Kent,003
+VIDEV,United States,Rhode Island,44,Newport,005
+VIDEV,United States,Rhode Island,44,Providence,007
+VIDEV,United States,Rhode Island,44,Washington,009
+VIDEV,United States,Virginia,51,,

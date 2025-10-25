@@ -1,0 +1,43 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SASAS,United States,Alabama,01,,
+SASAS,United States,Alabama,01,Baldwin,003
+SASAS,United States,Alabama,01,Mobile,097
+SASAS,United States,Florida,12,,
+SASAS,United States,Florida,12,Alachua,001
+SASAS,United States,Florida,12,Brevard,009
+SASAS,United States,Florida,12,Broward,011
+SASAS,United States,Florida,12,Calhoun,013
+SASAS,United States,Florida,12,Citrus,017
+SASAS,United States,Florida,12,Collier,021
+SASAS,United States,Florida,12,Columbia,023
+SASAS,United States,Florida,12,Dixie,029
+SASAS,United States,Florida,12,Franklin,037
+SASAS,United States,Florida,12,Hendry,051
+SASAS,United States,Florida,12,Hernando,053
+SASAS,United States,Florida,12,Highlands,055
+SASAS,United States,Florida,12,Hillsborough,057
+SASAS,United States,Florida,12,Lee,071
+SASAS,United States,Florida,12,Levy,075
+SASAS,United States,Florida,12,Manatee,081
+SASAS,United States,Florida,12,Marion,083
+SASAS,United States,Florida,12,Miami-Dade,086
+SASAS,United States,Florida,12,Monroe,087
+SASAS,United States,Florida,12,Okaloosa,091
+SASAS,United States,Florida,12,Orange,095
+SASAS,United States,Florida,12,Pasco,101
+SASAS,United States,Florida,12,Polk,105
+SASAS,United States,Florida,12,Putnam,107
+SASAS,United States,Florida,12,Sumter,119
+SASAS,United States,Florida,12,Volusia,127
+SASAS,United States,Georgia,13,,
+SASAS,United States,Georgia,13,Chatham,051
+SASAS,United States,Georgia,13,Liberty,179
+SASAS,United States,Georgia,13,McIntosh,191
+SASAS,United States,Hawaii,15,,
+SASAS,United States,Hawaii,15,Hawaii,001
+SASAS,United States,Mississippi,28,,
+SASAS,United States,Mississippi,28,Jackson,059
+SASAS,United States,South Carolina,45,,
+SASAS,United States,Puerto Rico,72,,
+SASAS,United States,Virgin Islands,78,,

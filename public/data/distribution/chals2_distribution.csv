@@ -1,0 +1,152 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+CHALS2,Canada,British Columbia,02,,
+CHALS2,Canada,Manitoba,03,,
+CHALS2,United States,Arkansas,05,,
+CHALS2,United States,Arkansas,05,Jefferson,069
+CHALS2,United States,Arkansas,05,Randolph,121
+CHALS2,United States,Arkansas,05,Yell,149
+CHALS2,United States,California,06,,
+CHALS2,United States,California,06,Butte,007
+CHALS2,United States,California,06,Colusa,011
+CHALS2,United States,California,06,Kern,029
+CHALS2,United States,California,06,Los Angeles,037
+CHALS2,United States,California,06,Marin,041
+CHALS2,United States,California,06,Monterey,053
+CHALS2,United States,California,06,Nevada,057
+CHALS2,United States,California,06,Orange,059
+CHALS2,United States,California,06,Plumas,063
+CHALS2,United States,California,06,San Bernardino,071
+CHALS2,United States,California,06,San Francisco,075
+CHALS2,United States,California,06,San Luis Obispo,079
+CHALS2,United States,California,06,Santa Barbara,083
+CHALS2,United States,California,06,Sonoma,097
+CHALS2,United States,California,06,Stanislaus,099
+CHALS2,United States,California,06,Tehama,103
+CHALS2,United States,California,06,Tulare,107
+CHALS2,United States,California,06,Ventura,111
+CHALS2,Canada,Ontario,08,,
+CHALS2,United States,Colorado,08,,
+CHALS2,United States,Colorado,08,Boulder,013
+CHALS2,United States,Colorado,08,Washington,121
+CHALS2,United States,Colorado,08,Weld,123
+CHALS2,Canada,Prince Edward Island,09,,
+CHALS2,United States,Connecticut,09,,
+CHALS2,United States,Connecticut,09,Hartford,003
+CHALS2,United States,Connecticut,09,Middlesex,007
+CHALS2,Canada,Quebec,10,,
+CHALS2,Canada,Saskatchewan,11,,
+CHALS2,United States,Illinois,17,,
+CHALS2,United States,Illinois,17,Peoria,143
+CHALS2,United States,Illinois,17,St. Clair,163
+CHALS2,United States,Indiana,18,,
+CHALS2,United States,Iowa,19,,
+CHALS2,United States,Kansas,20,,
+CHALS2,United States,Kansas,20,Clay,027
+CHALS2,United States,Maine,23,,
+CHALS2,United States,Maine,23,Sagadahoc,023
+CHALS2,United States,Massachusetts,25,,
+CHALS2,United States,Massachusetts,25,Bristol,005
+CHALS2,United States,Massachusetts,25,Essex,009
+CHALS2,United States,Massachusetts,25,Hampden,013
+CHALS2,United States,Massachusetts,25,Hampshire,015
+CHALS2,United States,Massachusetts,25,Middlesex,017
+CHALS2,United States,Massachusetts,25,Suffolk,025
+CHALS2,United States,Massachusetts,25,Worcester,027
+CHALS2,United States,Michigan,26,,
+CHALS2,United States,Minnesota,27,,
+CHALS2,United States,Minnesota,27,Cass,021
+CHALS2,United States,Minnesota,27,Clay,027
+CHALS2,United States,Missouri,29,,
+CHALS2,United States,Missouri,29,Jackson,095
+CHALS2,United States,Missouri,29,Jasper,097
+CHALS2,United States,Nebraska,31,,
+CHALS2,United States,Nebraska,31,Cherry,031
+CHALS2,United States,Nebraska,31,Clay,035
+CHALS2,United States,Nebraska,31,Douglas,055
+CHALS2,United States,Nebraska,31,Hall,079
+CHALS2,United States,Nebraska,31,Holt,089
+CHALS2,United States,Nebraska,31,Platte,141
+CHALS2,United States,Nebraska,31,Webster,181
+CHALS2,United States,Nebraska,31,Wheeler,183
+CHALS2,United States,Nevada,32,,
+CHALS2,United States,Nevada,32,Nye,023
+CHALS2,United States,Nevada,32,Washoe,031
+CHALS2,United States,New Hampshire,33,,
+CHALS2,United States,New Hampshire,33,Hillsborough,011
+CHALS2,United States,New Hampshire,33,Strafford,017
+CHALS2,United States,New York,36,,
+CHALS2,United States,New York,36,Kings,047
+CHALS2,United States,New York,36,New York,061
+CHALS2,United States,New York,36,Orange,071
+CHALS2,United States,New York,36,Suffolk,103
+CHALS2,United States,New York,36,Westchester,119
+CHALS2,United States,North Dakota,38,,
+CHALS2,United States,North Dakota,38,Barnes,003
+CHALS2,United States,North Dakota,38,Bottineau,009
+CHALS2,United States,North Dakota,38,Burleigh,015
+CHALS2,United States,North Dakota,38,Cass,017
+CHALS2,United States,North Dakota,38,Dickey,021
+CHALS2,United States,North Dakota,38,Eddy,027
+CHALS2,United States,North Dakota,38,Emmons,029
+CHALS2,United States,North Dakota,38,Grant,037
+CHALS2,United States,North Dakota,38,Kidder,043
+CHALS2,United States,North Dakota,38,McLean,055
+CHALS2,United States,North Dakota,38,Morton,059
+CHALS2,United States,North Dakota,38,Mountrail,061
+CHALS2,United States,North Dakota,38,Pembina,067
+CHALS2,United States,North Dakota,38,Ramsey,071
+CHALS2,United States,North Dakota,38,Ransom,073
+CHALS2,United States,North Dakota,38,Richland,077
+CHALS2,United States,North Dakota,38,Sioux,085
+CHALS2,United States,North Dakota,38,Stark,089
+CHALS2,United States,North Dakota,38,Stutsman,093
+CHALS2,United States,North Dakota,38,Walsh,099
+CHALS2,United States,North Dakota,38,Ward,101
+CHALS2,United States,North Dakota,38,Williams,105
+CHALS2,United States,Oregon,41,,
+CHALS2,United States,Oregon,41,Wallowa,063
+CHALS2,United States,Pennsylvania,42,,
+CHALS2,United States,Pennsylvania,42,Bradford,015
+CHALS2,United States,Pennsylvania,42,Bucks,017
+CHALS2,United States,Pennsylvania,42,Carbon,025
+CHALS2,United States,Pennsylvania,42,Lehigh,077
+CHALS2,United States,Pennsylvania,42,Monroe,089
+CHALS2,United States,Pennsylvania,42,Northampton,095
+CHALS2,United States,Rhode Island,44,,
+CHALS2,United States,Rhode Island,44,Washington,009
+CHALS2,United States,South Carolina,45,,
+CHALS2,United States,South Dakota,46,,
+CHALS2,United States,South Dakota,46,Mellette,095
+CHALS2,United States,South Dakota,46,Spink,115
+CHALS2,United States,Vermont,50,,
+CHALS2,United States,Vermont,50,Bennington,003
+CHALS2,United States,Vermont,50,Chittenden,007
+CHALS2,United States,Vermont,50,Rutland,021
+CHALS2,United States,Vermont,50,Windham,025
+CHALS2,United States,Washington,53,,
+CHALS2,United States,Washington,53,Grant,025
+CHALS2,United States,Washington,53,Klickitat,039
+CHALS2,United States,Wisconsin,55,,
+CHALS2,United States,Wisconsin,55,Buffalo,011
+CHALS2,United States,Wisconsin,55,Calumet,015
+CHALS2,United States,Wisconsin,55,Crawford,023
+CHALS2,United States,Wisconsin,55,Dane,025
+CHALS2,United States,Wisconsin,55,Door,029
+CHALS2,United States,Wisconsin,55,Grant,043
+CHALS2,United States,Wisconsin,55,Iowa,049
+CHALS2,United States,Wisconsin,55,La Crosse,063
+CHALS2,United States,Wisconsin,55,Marinette,075
+CHALS2,United States,Wisconsin,55,Marquette,077
+CHALS2,United States,Wisconsin,55,Milwaukee,079
+CHALS2,United States,Wisconsin,55,Oconto,083
+CHALS2,United States,Wisconsin,55,Outagamie,087
+CHALS2,United States,Wisconsin,55,Rock,105
+CHALS2,United States,Wisconsin,55,Sauk,111
+CHALS2,United States,Wisconsin,55,Trempealeau,121
+CHALS2,United States,Wisconsin,55,Waupaca,135
+CHALS2,United States,Wisconsin,55,Waushara,137
+CHALS2,United States,Wisconsin,55,Wood,141
+CHALS2,United States,Wyoming,56,,
+CHALS2,United States,Wyoming,56,Albany,001
+CHALS2,United States,Wyoming,56,Crook,011

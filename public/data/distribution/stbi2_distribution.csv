@@ -1,0 +1,867 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+STBI2,United States,Alabama,01,,
+STBI2,United States,Alabama,01,Autauga,001
+STBI2,United States,Alabama,01,Baldwin,003
+STBI2,United States,Alabama,01,Bibb,007
+STBI2,United States,Alabama,01,Chilton,021
+STBI2,United States,Alabama,01,Clarke,025
+STBI2,United States,Alabama,01,Clay,027
+STBI2,United States,Alabama,01,Dallas,047
+STBI2,United States,Alabama,01,DeKalb,049
+STBI2,United States,Alabama,01,Greene,063
+STBI2,United States,Alabama,01,Hale,065
+STBI2,United States,Alabama,01,Henry,067
+STBI2,United States,Alabama,01,Lawrence,079
+STBI2,United States,Alabama,01,Mobile,097
+STBI2,United States,Alabama,01,Pickens,107
+STBI2,United States,Alabama,01,Tuscaloosa,125
+STBI2,United States,Alabama,01,Washington,129
+STBI2,United States,Arizona,04,,
+STBI2,United States,Arkansas,05,,
+STBI2,United States,Arkansas,05,Arkansas,001
+STBI2,United States,Arkansas,05,Ashley,003
+STBI2,United States,Arkansas,05,Benton,007
+STBI2,United States,Arkansas,05,Boone,009
+STBI2,United States,Arkansas,05,Bradley,011
+STBI2,United States,Arkansas,05,Carroll,015
+STBI2,United States,Arkansas,05,Chicot,017
+STBI2,United States,Arkansas,05,Clark,019
+STBI2,United States,Arkansas,05,Cleburne,023
+STBI2,United States,Arkansas,05,Cleveland,025
+STBI2,United States,Arkansas,05,Columbia,027
+STBI2,United States,Arkansas,05,Conway,029
+STBI2,United States,Arkansas,05,Craighead,031
+STBI2,United States,Arkansas,05,Crawford,033
+STBI2,United States,Arkansas,05,Cross,037
+STBI2,United States,Arkansas,05,Dallas,039
+STBI2,United States,Arkansas,05,Drew,043
+STBI2,United States,Arkansas,05,Faulkner,045
+STBI2,United States,Arkansas,05,Franklin,047
+STBI2,United States,Arkansas,05,Fulton,049
+STBI2,United States,Arkansas,05,Garland,051
+STBI2,United States,Arkansas,05,Grant,053
+STBI2,United States,Arkansas,05,Greene,055
+STBI2,United States,Arkansas,05,Hempstead,057
+STBI2,United States,Arkansas,05,Hot Spring,059
+STBI2,United States,Arkansas,05,Howard,061
+STBI2,United States,Arkansas,05,Independence,063
+STBI2,United States,Arkansas,05,Izard,065
+STBI2,United States,Arkansas,05,Jackson,067
+STBI2,United States,Arkansas,05,Jefferson,069
+STBI2,United States,Arkansas,05,Lafayette,073
+STBI2,United States,Arkansas,05,Lee,077
+STBI2,United States,Arkansas,05,Lincoln,079
+STBI2,United States,Arkansas,05,Little River,081
+STBI2,United States,Arkansas,05,Logan,083
+STBI2,United States,Arkansas,05,Madison,087
+STBI2,United States,Arkansas,05,Marion,089
+STBI2,United States,Arkansas,05,Miller,091
+STBI2,United States,Arkansas,05,Newton,101
+STBI2,United States,Arkansas,05,Ouachita,103
+STBI2,United States,Arkansas,05,Perry,105
+STBI2,United States,Arkansas,05,Pike,109
+STBI2,United States,Arkansas,05,Poinsett,111
+STBI2,United States,Arkansas,05,Polk,113
+STBI2,United States,Arkansas,05,Pope,115
+STBI2,United States,Arkansas,05,Prairie,117
+STBI2,United States,Arkansas,05,Pulaski,119
+STBI2,United States,Arkansas,05,Saline,125
+STBI2,United States,Arkansas,05,Scott,127
+STBI2,United States,Arkansas,05,Sebastian,131
+STBI2,United States,Arkansas,05,Sharp,135
+STBI2,United States,Arkansas,05,St. Francis,123
+STBI2,United States,Arkansas,05,Stone,137
+STBI2,United States,Arkansas,05,Union,139
+STBI2,United States,Arkansas,05,Van Buren,141
+STBI2,United States,Arkansas,05,Washington,143
+STBI2,United States,Arkansas,05,Yell,149
+STBI2,United States,Delaware,10,,
+STBI2,United States,Delaware,10,Kent,001
+STBI2,United States,Delaware,10,New Castle,003
+STBI2,United States,Delaware,10,Sussex,005
+STBI2,United States,District of Columbia,11,,
+STBI2,United States,District of Columbia,11,District of Columbia,001
+STBI2,United States,Florida,12,,
+STBI2,United States,Florida,12,Alachua,001
+STBI2,United States,Florida,12,Calhoun,013
+STBI2,United States,Florida,12,Citrus,017
+STBI2,United States,Florida,12,Clay,019
+STBI2,United States,Florida,12,Columbia,023
+STBI2,United States,Florida,12,Dixie,029
+STBI2,United States,Florida,12,Duval,031
+STBI2,United States,Florida,12,Escambia,033
+STBI2,United States,Florida,12,Franklin,037
+STBI2,United States,Florida,12,Gadsden,039
+STBI2,United States,Florida,12,Gilchrist,041
+STBI2,United States,Florida,12,Gulf,045
+STBI2,United States,Florida,12,Hernando,053
+STBI2,United States,Florida,12,Jackson,063
+STBI2,United States,Florida,12,Jefferson,065
+STBI2,United States,Florida,12,Lafayette,067
+STBI2,United States,Florida,12,Lake,069
+STBI2,United States,Florida,12,Leon,073
+STBI2,United States,Florida,12,Liberty,077
+STBI2,United States,Florida,12,Madison,079
+STBI2,United States,Florida,12,Marion,083
+STBI2,United States,Florida,12,Nassau,089
+STBI2,United States,Florida,12,Okaloosa,091
+STBI2,United States,Florida,12,Pasco,101
+STBI2,United States,Florida,12,Polk,105
+STBI2,United States,Florida,12,Putnam,107
+STBI2,United States,Florida,12,Santa Rosa,113
+STBI2,United States,Florida,12,Sumter,119
+STBI2,United States,Florida,12,Suwannee,121
+STBI2,United States,Florida,12,Taylor,123
+STBI2,United States,Florida,12,Volusia,127
+STBI2,United States,Florida,12,Wakulla,129
+STBI2,United States,Florida,12,Walton,131
+STBI2,United States,Florida,12,Washington,133
+STBI2,United States,Georgia,13,,
+STBI2,United States,Georgia,13,Baker,007
+STBI2,United States,Georgia,13,Barrow,013
+STBI2,United States,Georgia,13,Bartow,015
+STBI2,United States,Georgia,13,Bibb,021
+STBI2,United States,Georgia,13,Bleckley,023
+STBI2,United States,Georgia,13,Chatham,051
+STBI2,United States,Georgia,13,Chattooga,055
+STBI2,United States,Georgia,13,Cherokee,057
+STBI2,United States,Georgia,13,Clarke,059
+STBI2,United States,Georgia,13,Cobb,067
+STBI2,United States,Georgia,13,Coffee,069
+STBI2,United States,Georgia,13,Colquitt,071
+STBI2,United States,Georgia,13,Columbia,073
+STBI2,United States,Georgia,13,Crawford,079
+STBI2,United States,Georgia,13,Crisp,081
+STBI2,United States,Georgia,13,Dade,083
+STBI2,United States,Georgia,13,Decatur,087
+STBI2,United States,Georgia,13,DeKalb,089
+STBI2,United States,Georgia,13,Echols,101
+STBI2,United States,Georgia,13,Effingham,103
+STBI2,United States,Georgia,13,Elbert,105
+STBI2,United States,Georgia,13,Emanuel,107
+STBI2,United States,Georgia,13,Evans,109
+STBI2,United States,Georgia,13,Forsyth,117
+STBI2,United States,Georgia,13,Franklin,119
+STBI2,United States,Georgia,13,Glynn,127
+STBI2,United States,Georgia,13,Gwinnett,135
+STBI2,United States,Georgia,13,Habersham,137
+STBI2,United States,Georgia,13,Hall,139
+STBI2,United States,Georgia,13,Harris,145
+STBI2,United States,Georgia,13,Irwin,155
+STBI2,United States,Georgia,13,Jones,169
+STBI2,United States,Georgia,13,Lanier,173
+STBI2,United States,Georgia,13,Lincoln,181
+STBI2,United States,Georgia,13,Lowndes,185
+STBI2,United States,Georgia,13,Madison,195
+STBI2,United States,Georgia,13,Marion,197
+STBI2,United States,Georgia,13,Mitchell,205
+STBI2,United States,Georgia,13,Morgan,211
+STBI2,United States,Georgia,13,Oglethorpe,221
+STBI2,United States,Georgia,13,Pierce,229
+STBI2,United States,Georgia,13,Pike,231
+STBI2,United States,Georgia,13,Rabun,241
+STBI2,United States,Georgia,13,Stephens,257
+STBI2,United States,Georgia,13,Talbot,263
+STBI2,United States,Georgia,13,Taliaferro,265
+STBI2,United States,Georgia,13,Taylor,269
+STBI2,United States,Georgia,13,Thomas,275
+STBI2,United States,Georgia,13,Tift,277
+STBI2,United States,Georgia,13,Toombs,279
+STBI2,United States,Georgia,13,Union,291
+STBI2,United States,Georgia,13,Upson,293
+STBI2,United States,Georgia,13,Walker,295
+STBI2,United States,Georgia,13,Wayne,305
+STBI2,United States,Georgia,13,White,311
+STBI2,United States,Georgia,13,Wilkinson,319
+STBI2,United States,Georgia,13,Worth,321
+STBI2,United States,Illinois,17,,
+STBI2,United States,Illinois,17,Franklin,055
+STBI2,United States,Illinois,17,Gallatin,059
+STBI2,United States,Illinois,17,Hamilton,065
+STBI2,United States,Illinois,17,Hardin,069
+STBI2,United States,Illinois,17,Jackson,077
+STBI2,United States,Illinois,17,Jefferson,081
+STBI2,United States,Illinois,17,Jersey,083
+STBI2,United States,Illinois,17,Johnson,087
+STBI2,United States,Illinois,17,Lawrence,101
+STBI2,United States,Illinois,17,Macoupin,117
+STBI2,United States,Illinois,17,Massac,127
+STBI2,United States,Illinois,17,Monroe,133
+STBI2,United States,Illinois,17,Peoria,143
+STBI2,United States,Illinois,17,Perry,145
+STBI2,United States,Illinois,17,Pope,151
+STBI2,United States,Illinois,17,Randolph,157
+STBI2,United States,Illinois,17,Saline,165
+STBI2,United States,Illinois,17,St. Clair,163
+STBI2,United States,Illinois,17,Union,181
+STBI2,United States,Illinois,17,Washington,189
+STBI2,United States,Illinois,17,Williamson,199
+STBI2,United States,Indiana,18,,
+STBI2,United States,Indiana,18,Clark,019
+STBI2,United States,Indiana,18,Floyd,043
+STBI2,United States,Indiana,18,Harrison,061
+STBI2,United States,Indiana,18,Knox,083
+STBI2,United States,Indiana,18,Lawrence,093
+STBI2,United States,Indiana,18,Perry,123
+STBI2,United States,Indiana,18,Pike,125
+STBI2,United States,Indiana,18,Posey,129
+STBI2,United States,Indiana,18,Spencer,147
+STBI2,United States,Indiana,18,Washington,175
+STBI2,United States,Kansas,20,,
+STBI2,United States,Kansas,20,Bourbon,011
+STBI2,United States,Kansas,20,Chautauqua,019
+STBI2,United States,Kansas,20,Cherokee,021
+STBI2,United States,Kansas,20,Crawford,037
+STBI2,United States,Kansas,20,Elk,049
+STBI2,United States,Kansas,20,Greenwood,073
+STBI2,United States,Kansas,20,Johnson,091
+STBI2,United States,Kansas,20,Labette,099
+STBI2,United States,Kansas,20,McPherson,113
+STBI2,United States,Kansas,20,Montgomery,125
+STBI2,United States,Kansas,20,Neosho,133
+STBI2,United States,Kansas,20,Rice,159
+STBI2,United States,Kansas,20,Wilson,205
+STBI2,United States,Kansas,20,Woodson,207
+STBI2,United States,Kentucky,21,,
+STBI2,United States,Kentucky,21,Ballard,007
+STBI2,United States,Kentucky,21,Barren,009
+STBI2,United States,Kentucky,21,Bath,011
+STBI2,United States,Kentucky,21,Bell,013
+STBI2,United States,Kentucky,21,Breckinridge,027
+STBI2,United States,Kentucky,21,Bullitt,029
+STBI2,United States,Kentucky,21,Butler,031
+STBI2,United States,Kentucky,21,Caldwell,033
+STBI2,United States,Kentucky,21,Calloway,035
+STBI2,United States,Kentucky,21,Carter,043
+STBI2,United States,Kentucky,21,Christian,047
+STBI2,United States,Kentucky,21,Clark,049
+STBI2,United States,Kentucky,21,Clinton,053
+STBI2,United States,Kentucky,21,Edmonson,061
+STBI2,United States,Kentucky,21,Fleming,069
+STBI2,United States,Kentucky,21,Garrard,079
+STBI2,United States,Kentucky,21,Graves,083
+STBI2,United States,Kentucky,21,Grayson,085
+STBI2,United States,Kentucky,21,Hardin,093
+STBI2,United States,Kentucky,21,Hart,099
+STBI2,United States,Kentucky,21,Henderson,101
+STBI2,United States,Kentucky,21,Hickman,105
+STBI2,United States,Kentucky,21,Hopkins,107
+STBI2,United States,Kentucky,21,Jackson,109
+STBI2,United States,Kentucky,21,Jefferson,111
+STBI2,United States,Kentucky,21,Knox,121
+STBI2,United States,Kentucky,21,Laurel,125
+STBI2,United States,Kentucky,21,Lawrence,127
+STBI2,United States,Kentucky,21,Lewis,135
+STBI2,United States,Kentucky,21,Logan,141
+STBI2,United States,Kentucky,21,Lyon,143
+STBI2,United States,Kentucky,21,Madison,151
+STBI2,United States,Kentucky,21,Marion,155
+STBI2,United States,Kentucky,21,Marshall,157
+STBI2,United States,Kentucky,21,McCracken,145
+STBI2,United States,Kentucky,21,McCreary,147
+STBI2,United States,Kentucky,21,McLean,149
+STBI2,United States,Kentucky,21,Meade,163
+STBI2,United States,Kentucky,21,Montgomery,173
+STBI2,United States,Kentucky,21,Muhlenberg,177
+STBI2,United States,Kentucky,21,Nelson,179
+STBI2,United States,Kentucky,21,Ohio,183
+STBI2,United States,Kentucky,21,Oldham,185
+STBI2,United States,Kentucky,21,Pulaski,199
+STBI2,United States,Kentucky,21,Rockcastle,203
+STBI2,United States,Kentucky,21,Rowan,205
+STBI2,United States,Kentucky,21,Simpson,213
+STBI2,United States,Kentucky,21,Trigg,221
+STBI2,United States,Kentucky,21,Union,225
+STBI2,United States,Kentucky,21,Warren,227
+STBI2,United States,Kentucky,21,Wayne,231
+STBI2,United States,Kentucky,21,Webster,233
+STBI2,United States,Kentucky,21,Whitley,235
+STBI2,United States,Louisiana,22,,
+STBI2,United States,Louisiana,22,Acadia,001
+STBI2,United States,Louisiana,22,Allen,003
+STBI2,United States,Louisiana,22,Avoyelles,009
+STBI2,United States,Louisiana,22,Beauregard,011
+STBI2,United States,Louisiana,22,Bienville,013
+STBI2,United States,Louisiana,22,Bossier,015
+STBI2,United States,Louisiana,22,Caddo,017
+STBI2,United States,Louisiana,22,Calcasieu,019
+STBI2,United States,Louisiana,22,Caldwell,021
+STBI2,United States,Louisiana,22,Cameron,023
+STBI2,United States,Louisiana,22,Catahoula,025
+STBI2,United States,Louisiana,22,Claiborne,027
+STBI2,United States,Louisiana,22,De Soto,031
+STBI2,United States,Louisiana,22,East Baton Rouge,033
+STBI2,United States,Louisiana,22,East Feliciana,037
+STBI2,United States,Louisiana,22,Evangeline,039
+STBI2,United States,Louisiana,22,Grant,043
+STBI2,United States,Louisiana,22,Jackson,049
+STBI2,United States,Louisiana,22,Jefferson Davis,053
+STBI2,United States,Louisiana,22,LaSalle,059
+STBI2,United States,Louisiana,22,Lincoln,061
+STBI2,United States,Louisiana,22,Morehouse,067
+STBI2,United States,Louisiana,22,Natchitoches,069
+STBI2,United States,Louisiana,22,Ouachita,073
+STBI2,United States,Louisiana,22,Rapides,079
+STBI2,United States,Louisiana,22,Red River,081
+STBI2,United States,Louisiana,22,Sabine,085
+STBI2,United States,Louisiana,22,St. Helena,091
+STBI2,United States,Louisiana,22,St. Tammany,103
+STBI2,United States,Louisiana,22,Tangipahoa,105
+STBI2,United States,Louisiana,22,Union,111
+STBI2,United States,Louisiana,22,Vernon,115
+STBI2,United States,Louisiana,22,Washington,117
+STBI2,United States,Louisiana,22,Webster,119
+STBI2,United States,Louisiana,22,West Feliciana,125
+STBI2,United States,Louisiana,22,Winn,127
+STBI2,United States,Maryland,24,,
+STBI2,United States,Mississippi,28,,
+STBI2,United States,Mississippi,28,Alcorn,003
+STBI2,United States,Mississippi,28,Amite,005
+STBI2,United States,Mississippi,28,Attala,007
+STBI2,United States,Mississippi,28,Benton,009
+STBI2,United States,Mississippi,28,Calhoun,013
+STBI2,United States,Mississippi,28,Chickasaw,017
+STBI2,United States,Mississippi,28,Claiborne,021
+STBI2,United States,Mississippi,28,Clarke,023
+STBI2,United States,Mississippi,28,Clay,025
+STBI2,United States,Mississippi,28,Copiah,029
+STBI2,United States,Mississippi,28,Covington,031
+STBI2,United States,Mississippi,28,DeSoto,033
+STBI2,United States,Mississippi,28,Forrest,035
+STBI2,United States,Mississippi,28,Franklin,037
+STBI2,United States,Mississippi,28,George,039
+STBI2,United States,Mississippi,28,Greene,041
+STBI2,United States,Mississippi,28,Hancock,045
+STBI2,United States,Mississippi,28,Harrison,047
+STBI2,United States,Mississippi,28,Hinds,049
+STBI2,United States,Mississippi,28,Holmes,051
+STBI2,United States,Mississippi,28,Itawamba,057
+STBI2,United States,Mississippi,28,Jackson,059
+STBI2,United States,Mississippi,28,Jefferson Davis,065
+STBI2,United States,Mississippi,28,Jones,067
+STBI2,United States,Mississippi,28,Kemper,069
+STBI2,United States,Mississippi,28,Lafayette,071
+STBI2,United States,Mississippi,28,Lamar,073
+STBI2,United States,Mississippi,28,Lauderdale,075
+STBI2,United States,Mississippi,28,Lawrence,077
+STBI2,United States,Mississippi,28,Lee,081
+STBI2,United States,Mississippi,28,Lincoln,085
+STBI2,United States,Mississippi,28,Marion,091
+STBI2,United States,Mississippi,28,Marshall,093
+STBI2,United States,Mississippi,28,Montgomery,097
+STBI2,United States,Mississippi,28,Neshoba,099
+STBI2,United States,Mississippi,28,Noxubee,103
+STBI2,United States,Mississippi,28,Panola,107
+STBI2,United States,Mississippi,28,Pearl River,109
+STBI2,United States,Mississippi,28,Perry,111
+STBI2,United States,Mississippi,28,Pike,113
+STBI2,United States,Mississippi,28,Pontotoc,115
+STBI2,United States,Mississippi,28,Prentiss,117
+STBI2,United States,Mississippi,28,Rankin,121
+STBI2,United States,Mississippi,28,Scott,123
+STBI2,United States,Mississippi,28,Simpson,127
+STBI2,United States,Mississippi,28,Smith,129
+STBI2,United States,Mississippi,28,Stone,131
+STBI2,United States,Mississippi,28,Tippah,139
+STBI2,United States,Mississippi,28,Tishomingo,141
+STBI2,United States,Mississippi,28,Union,145
+STBI2,United States,Mississippi,28,Walthall,147
+STBI2,United States,Mississippi,28,Wayne,153
+STBI2,United States,Mississippi,28,Winston,159
+STBI2,United States,Mississippi,28,Yalobusha,161
+STBI2,United States,Missouri,29,,
+STBI2,United States,Missouri,29,Barry,009
+STBI2,United States,Missouri,29,Barton,011
+STBI2,United States,Missouri,29,Benton,015
+STBI2,United States,Missouri,29,Boone,019
+STBI2,United States,Missouri,29,Butler,023
+STBI2,United States,Missouri,29,Callaway,027
+STBI2,United States,Missouri,29,Camden,029
+STBI2,United States,Missouri,29,Cape Girardeau,031
+STBI2,United States,Missouri,29,Cedar,039
+STBI2,United States,Missouri,29,Christian,043
+STBI2,United States,Missouri,29,Cole,051
+STBI2,United States,Missouri,29,Crawford,055
+STBI2,United States,Missouri,29,Dade,057
+STBI2,United States,Missouri,29,Dallas,059
+STBI2,United States,Missouri,29,Dent,065
+STBI2,United States,Missouri,29,Douglas,067
+STBI2,United States,Missouri,29,Dunklin,069
+STBI2,United States,Missouri,29,Franklin,071
+STBI2,United States,Missouri,29,Gasconade,073
+STBI2,United States,Missouri,29,Greene,077
+STBI2,United States,Missouri,29,Henry,083
+STBI2,United States,Missouri,29,Hickory,085
+STBI2,United States,Missouri,29,Howell,091
+STBI2,United States,Missouri,29,Jackson,095
+STBI2,United States,Missouri,29,Jasper,097
+STBI2,United States,Missouri,29,Jefferson,099
+STBI2,United States,Missouri,29,Laclede,105
+STBI2,United States,Missouri,29,Lawrence,109
+STBI2,United States,Missouri,29,Lincoln,113
+STBI2,United States,Missouri,29,Maries,125
+STBI2,United States,Missouri,29,Marion,127
+STBI2,United States,Missouri,29,McDonald,119
+STBI2,United States,Missouri,29,Miller,131
+STBI2,United States,Missouri,29,Mississippi,133
+STBI2,United States,Missouri,29,Montgomery,139
+STBI2,United States,Missouri,29,Newton,145
+STBI2,United States,Missouri,29,Oregon,149
+STBI2,United States,Missouri,29,Osage,151
+STBI2,United States,Missouri,29,Ozark,153
+STBI2,United States,Missouri,29,Pettis,159
+STBI2,United States,Missouri,29,Phelps,161
+STBI2,United States,Missouri,29,Pike,163
+STBI2,United States,Missouri,29,Polk,167
+STBI2,United States,Missouri,29,Pulaski,169
+STBI2,United States,Missouri,29,Ralls,173
+STBI2,United States,Missouri,29,Reynolds,179
+STBI2,United States,Missouri,29,Ripley,181
+STBI2,United States,Missouri,29,Scott,201
+STBI2,United States,Missouri,29,Shannon,203
+STBI2,United States,Missouri,29,St. Charles,183
+STBI2,United States,Missouri,29,St. Clair,185
+STBI2,United States,Missouri,29,St. Francois,187
+STBI2,United States,Missouri,29,St. Louis,189
+STBI2,United States,Missouri,29,Ste. Genevieve,186
+STBI2,United States,Missouri,29,Stoddard,207
+STBI2,United States,Missouri,29,Stone,209
+STBI2,United States,Missouri,29,Taney,213
+STBI2,United States,Missouri,29,Texas,215
+STBI2,United States,Missouri,29,Vernon,217
+STBI2,United States,Missouri,29,Washington,221
+STBI2,United States,Missouri,29,Wayne,223
+STBI2,United States,Missouri,29,Webster,225
+STBI2,United States,Missouri,29,Wright,229
+STBI2,United States,New Jersey,34,,
+STBI2,United States,New Jersey,34,Atlantic,001
+STBI2,United States,New Jersey,34,Burlington,005
+STBI2,United States,New Jersey,34,Camden,007
+STBI2,United States,New Jersey,34,Cape May,009
+STBI2,United States,New Jersey,34,Cumberland,011
+STBI2,United States,New Jersey,34,Essex,013
+STBI2,United States,New Jersey,34,Gloucester,015
+STBI2,United States,New Jersey,34,Hunterdon,019
+STBI2,United States,New Jersey,34,Mercer,021
+STBI2,United States,New Jersey,34,Middlesex,023
+STBI2,United States,New Jersey,34,Monmouth,025
+STBI2,United States,New Jersey,34,Passaic,031
+STBI2,United States,New Jersey,34,Salem,033
+STBI2,United States,New Jersey,34,Warren,041
+STBI2,United States,New York,36,,
+STBI2,United States,New York,36,Nassau,059
+STBI2,United States,New York,36,New York,061
+STBI2,United States,New York,36,Richmond,085
+STBI2,United States,New York,36,Suffolk,103
+STBI2,United States,New York,36,Westchester,119
+STBI2,United States,North Carolina,37,,
+STBI2,United States,North Carolina,37,Alamance,001
+STBI2,United States,North Carolina,37,Alexander,003
+STBI2,United States,North Carolina,37,Anson,007
+STBI2,United States,North Carolina,37,Beaufort,013
+STBI2,United States,North Carolina,37,Bertie,015
+STBI2,United States,North Carolina,37,Bladen,017
+STBI2,United States,North Carolina,37,Brunswick,019
+STBI2,United States,North Carolina,37,Buncombe,021
+STBI2,United States,North Carolina,37,Burke,023
+STBI2,United States,North Carolina,37,Cabarrus,025
+STBI2,United States,North Carolina,37,Caldwell,027
+STBI2,United States,North Carolina,37,Carteret,031
+STBI2,United States,North Carolina,37,Caswell,033
+STBI2,United States,North Carolina,37,Catawba,035
+STBI2,United States,North Carolina,37,Chatham,037
+STBI2,United States,North Carolina,37,Cherokee,039
+STBI2,United States,North Carolina,37,Chowan,041
+STBI2,United States,North Carolina,37,Cleveland,045
+STBI2,United States,North Carolina,37,Columbus,047
+STBI2,United States,North Carolina,37,Craven,049
+STBI2,United States,North Carolina,37,Cumberland,051
+STBI2,United States,North Carolina,37,Davidson,057
+STBI2,United States,North Carolina,37,Davie,059
+STBI2,United States,North Carolina,37,Duplin,061
+STBI2,United States,North Carolina,37,Durham,063
+STBI2,United States,North Carolina,37,Edgecombe,065
+STBI2,United States,North Carolina,37,Forsyth,067
+STBI2,United States,North Carolina,37,Franklin,069
+STBI2,United States,North Carolina,37,Gaston,071
+STBI2,United States,North Carolina,37,Gates,073
+STBI2,United States,North Carolina,37,Granville,077
+STBI2,United States,North Carolina,37,Greene,079
+STBI2,United States,North Carolina,37,Guilford,081
+STBI2,United States,North Carolina,37,Halifax,083
+STBI2,United States,North Carolina,37,Harnett,085
+STBI2,United States,North Carolina,37,Haywood,087
+STBI2,United States,North Carolina,37,Henderson,089
+STBI2,United States,North Carolina,37,Hertford,091
+STBI2,United States,North Carolina,37,Hoke,093
+STBI2,United States,North Carolina,37,Iredell,097
+STBI2,United States,North Carolina,37,Jackson,099
+STBI2,United States,North Carolina,37,Johnston,101
+STBI2,United States,North Carolina,37,Lee,105
+STBI2,United States,North Carolina,37,Lenoir,107
+STBI2,United States,North Carolina,37,Lincoln,109
+STBI2,United States,North Carolina,37,Macon,113
+STBI2,United States,North Carolina,37,Madison,115
+STBI2,United States,North Carolina,37,Martin,117
+STBI2,United States,North Carolina,37,McDowell,111
+STBI2,United States,North Carolina,37,Mecklenburg,119
+STBI2,United States,North Carolina,37,Montgomery,123
+STBI2,United States,North Carolina,37,Moore,125
+STBI2,United States,North Carolina,37,Nash,127
+STBI2,United States,North Carolina,37,New Hanover,129
+STBI2,United States,North Carolina,37,Northampton,131
+STBI2,United States,North Carolina,37,Onslow,133
+STBI2,United States,North Carolina,37,Orange,135
+STBI2,United States,North Carolina,37,Pamlico,137
+STBI2,United States,North Carolina,37,Pender,141
+STBI2,United States,North Carolina,37,Perquimans,143
+STBI2,United States,North Carolina,37,Person,145
+STBI2,United States,North Carolina,37,Pitt,147
+STBI2,United States,North Carolina,37,Polk,149
+STBI2,United States,North Carolina,37,Randolph,151
+STBI2,United States,North Carolina,37,Richmond,153
+STBI2,United States,North Carolina,37,Robeson,155
+STBI2,United States,North Carolina,37,Rockingham,157
+STBI2,United States,North Carolina,37,Rowan,159
+STBI2,United States,North Carolina,37,Rutherford,161
+STBI2,United States,North Carolina,37,Sampson,163
+STBI2,United States,North Carolina,37,Scotland,165
+STBI2,United States,North Carolina,37,Stanly,167
+STBI2,United States,North Carolina,37,Stokes,169
+STBI2,United States,North Carolina,37,Surry,171
+STBI2,United States,North Carolina,37,Swain,173
+STBI2,United States,North Carolina,37,Transylvania,175
+STBI2,United States,North Carolina,37,Union,179
+STBI2,United States,North Carolina,37,Vance,181
+STBI2,United States,North Carolina,37,Wake,183
+STBI2,United States,North Carolina,37,Warren,185
+STBI2,United States,North Carolina,37,Washington,187
+STBI2,United States,North Carolina,37,Wayne,191
+STBI2,United States,North Carolina,37,Wilkes,193
+STBI2,United States,North Carolina,37,Wilson,195
+STBI2,United States,North Carolina,37,Yadkin,197
+STBI2,United States,Ohio,39,,
+STBI2,United States,Ohio,39,Adams,001
+STBI2,United States,Ohio,39,Athens,009
+STBI2,United States,Ohio,39,Fairfield,045
+STBI2,United States,Ohio,39,Gallia,053
+STBI2,United States,Ohio,39,Hocking,073
+STBI2,United States,Ohio,39,Jackson,079
+STBI2,United States,Ohio,39,Lawrence,087
+STBI2,United States,Ohio,39,Meigs,105
+STBI2,United States,Ohio,39,Ross,141
+STBI2,United States,Ohio,39,Scioto,145
+STBI2,United States,Ohio,39,Vinton,163
+STBI2,United States,Oklahoma,40,,
+STBI2,United States,Oklahoma,40,Adair,001
+STBI2,United States,Oklahoma,40,Atoka,005
+STBI2,United States,Oklahoma,40,Bryan,013
+STBI2,United States,Oklahoma,40,Caddo,015
+STBI2,United States,Oklahoma,40,Carter,019
+STBI2,United States,Oklahoma,40,Cherokee,021
+STBI2,United States,Oklahoma,40,Choctaw,023
+STBI2,United States,Oklahoma,40,Cleveland,027
+STBI2,United States,Oklahoma,40,Coal,029
+STBI2,United States,Oklahoma,40,Craig,035
+STBI2,United States,Oklahoma,40,Creek,037
+STBI2,United States,Oklahoma,40,Delaware,041
+STBI2,United States,Oklahoma,40,Grady,051
+STBI2,United States,Oklahoma,40,Haskell,061
+STBI2,United States,Oklahoma,40,Hughes,063
+STBI2,United States,Oklahoma,40,Johnston,069
+STBI2,United States,Oklahoma,40,Latimer,077
+STBI2,United States,Oklahoma,40,Le Flore,079
+STBI2,United States,Oklahoma,40,Lincoln,081
+STBI2,United States,Oklahoma,40,Logan,083
+STBI2,United States,Oklahoma,40,Love,085
+STBI2,United States,Oklahoma,40,Marshall,095
+STBI2,United States,Oklahoma,40,Mayes,097
+STBI2,United States,Oklahoma,40,McCurtain,089
+STBI2,United States,Oklahoma,40,Murray,099
+STBI2,United States,Oklahoma,40,Muskogee,101
+STBI2,United States,Oklahoma,40,Oklahoma,109
+STBI2,United States,Oklahoma,40,Osage,113
+STBI2,United States,Oklahoma,40,Payne,119
+STBI2,United States,Oklahoma,40,Pontotoc,123
+STBI2,United States,Oklahoma,40,Pottawatomie,125
+STBI2,United States,Oklahoma,40,Pushmataha,127
+STBI2,United States,Oklahoma,40,Seminole,133
+STBI2,United States,Oklahoma,40,Sequoyah,135
+STBI2,United States,Oklahoma,40,Washington,147
+STBI2,United States,Pennsylvania,42,,
+STBI2,United States,Pennsylvania,42,Bedford,009
+STBI2,United States,Pennsylvania,42,Berks,011
+STBI2,United States,Pennsylvania,42,Bucks,017
+STBI2,United States,Pennsylvania,42,Chester,029
+STBI2,United States,Pennsylvania,42,Dauphin,043
+STBI2,United States,Pennsylvania,42,Delaware,045
+STBI2,United States,Pennsylvania,42,Fayette,051
+STBI2,United States,Pennsylvania,42,Franklin,055
+STBI2,United States,Pennsylvania,42,Lancaster,071
+STBI2,United States,Pennsylvania,42,Lehigh,077
+STBI2,United States,Pennsylvania,42,Monroe,089
+STBI2,United States,Pennsylvania,42,Montgomery,091
+STBI2,United States,Pennsylvania,42,Northampton,095
+STBI2,United States,Pennsylvania,42,Philadelphia,101
+STBI2,United States,Pennsylvania,42,York,133
+STBI2,United States,South Carolina,45,,
+STBI2,United States,South Carolina,45,Abbeville,001
+STBI2,United States,South Carolina,45,Aiken,003
+STBI2,United States,South Carolina,45,Allendale,005
+STBI2,United States,South Carolina,45,Anderson,007
+STBI2,United States,South Carolina,45,Bamberg,009
+STBI2,United States,South Carolina,45,Barnwell,011
+STBI2,United States,South Carolina,45,Beaufort,013
+STBI2,United States,South Carolina,45,Berkeley,015
+STBI2,United States,South Carolina,45,Calhoun,017
+STBI2,United States,South Carolina,45,Charleston,019
+STBI2,United States,South Carolina,45,Cherokee,021
+STBI2,United States,South Carolina,45,Chester,023
+STBI2,United States,South Carolina,45,Chesterfield,025
+STBI2,United States,South Carolina,45,Clarendon,027
+STBI2,United States,South Carolina,45,Colleton,029
+STBI2,United States,South Carolina,45,Darlington,031
+STBI2,United States,South Carolina,45,Dillon,033
+STBI2,United States,South Carolina,45,Dorchester,035
+STBI2,United States,South Carolina,45,Edgefield,037
+STBI2,United States,South Carolina,45,Fairfield,039
+STBI2,United States,South Carolina,45,Florence,041
+STBI2,United States,South Carolina,45,Georgetown,043
+STBI2,United States,South Carolina,45,Greenville,045
+STBI2,United States,South Carolina,45,Greenwood,047
+STBI2,United States,South Carolina,45,Hampton,049
+STBI2,United States,South Carolina,45,Horry,051
+STBI2,United States,South Carolina,45,Jasper,053
+STBI2,United States,South Carolina,45,Kershaw,055
+STBI2,United States,South Carolina,45,Lancaster,057
+STBI2,United States,South Carolina,45,Laurens,059
+STBI2,United States,South Carolina,45,Lee,061
+STBI2,United States,South Carolina,45,Lexington,063
+STBI2,United States,South Carolina,45,Marion,067
+STBI2,United States,South Carolina,45,Marlboro,069
+STBI2,United States,South Carolina,45,McCormick,065
+STBI2,United States,South Carolina,45,Newberry,071
+STBI2,United States,South Carolina,45,Oconee,073
+STBI2,United States,South Carolina,45,Orangeburg,075
+STBI2,United States,South Carolina,45,Pickens,077
+STBI2,United States,South Carolina,45,Richland,079
+STBI2,United States,South Carolina,45,Saluda,081
+STBI2,United States,South Carolina,45,Spartanburg,083
+STBI2,United States,South Carolina,45,Sumter,085
+STBI2,United States,South Carolina,45,Union,087
+STBI2,United States,South Carolina,45,Williamsburg,089
+STBI2,United States,South Carolina,45,York,091
+STBI2,United States,Tennessee,47,,
+STBI2,United States,Tennessee,47,Anderson,001
+STBI2,United States,Tennessee,47,Bledsoe,007
+STBI2,United States,Tennessee,47,Blount,009
+STBI2,United States,Tennessee,47,Bradley,011
+STBI2,United States,Tennessee,47,Campbell,013
+STBI2,United States,Tennessee,47,Cannon,015
+STBI2,United States,Tennessee,47,Carroll,017
+STBI2,United States,Tennessee,47,Carter,019
+STBI2,United States,Tennessee,47,Cheatham,021
+STBI2,United States,Tennessee,47,Claiborne,025
+STBI2,United States,Tennessee,47,Clay,027
+STBI2,United States,Tennessee,47,Cocke,029
+STBI2,United States,Tennessee,47,Coffee,031
+STBI2,United States,Tennessee,47,Cumberland,035
+STBI2,United States,Tennessee,47,Davidson,037
+STBI2,United States,Tennessee,47,Decatur,039
+STBI2,United States,Tennessee,47,Dickson,043
+STBI2,United States,Tennessee,47,Fayette,047
+STBI2,United States,Tennessee,47,Fentress,049
+STBI2,United States,Tennessee,47,Franklin,051
+STBI2,United States,Tennessee,47,Grainger,057
+STBI2,United States,Tennessee,47,Grundy,061
+STBI2,United States,Tennessee,47,Hamilton,065
+STBI2,United States,Tennessee,47,Hardeman,069
+STBI2,United States,Tennessee,47,Hardin,071
+STBI2,United States,Tennessee,47,Hawkins,073
+STBI2,United States,Tennessee,47,Haywood,075
+STBI2,United States,Tennessee,47,Henderson,077
+STBI2,United States,Tennessee,47,Henry,079
+STBI2,United States,Tennessee,47,Hickman,081
+STBI2,United States,Tennessee,47,Houston,083
+STBI2,United States,Tennessee,47,Humphreys,085
+STBI2,United States,Tennessee,47,Knox,093
+STBI2,United States,Tennessee,47,Lauderdale,097
+STBI2,United States,Tennessee,47,Lewis,101
+STBI2,United States,Tennessee,47,Madison,113
+STBI2,United States,Tennessee,47,Marion,115
+STBI2,United States,Tennessee,47,McNairy,109
+STBI2,United States,Tennessee,47,Meigs,121
+STBI2,United States,Tennessee,47,Montgomery,125
+STBI2,United States,Tennessee,47,Morgan,129
+STBI2,United States,Tennessee,47,Overton,133
+STBI2,United States,Tennessee,47,Perry,135
+STBI2,United States,Tennessee,47,Polk,139
+STBI2,United States,Tennessee,47,Putnam,141
+STBI2,United States,Tennessee,47,Rhea,143
+STBI2,United States,Tennessee,47,Roane,145
+STBI2,United States,Tennessee,47,Rutherford,149
+STBI2,United States,Tennessee,47,Scott,151
+STBI2,United States,Tennessee,47,Sequatchie,153
+STBI2,United States,Tennessee,47,Sevier,155
+STBI2,United States,Tennessee,47,Shelby,157
+STBI2,United States,Tennessee,47,Stewart,161
+STBI2,United States,Tennessee,47,Sumner,165
+STBI2,United States,Tennessee,47,Union,173
+STBI2,United States,Tennessee,47,Van Buren,175
+STBI2,United States,Tennessee,47,Warren,177
+STBI2,United States,Tennessee,47,Wayne,181
+STBI2,United States,Tennessee,47,Williamson,187
+STBI2,United States,Tennessee,47,Wilson,189
+STBI2,United States,Texas,48,,
+STBI2,United States,Texas,48,Anderson,001
+STBI2,United States,Texas,48,Angelina,005
+STBI2,United States,Texas,48,Bastrop,021
+STBI2,United States,Texas,48,Bowie,037
+STBI2,United States,Texas,48,Brazos,041
+STBI2,United States,Texas,48,Burleson,051
+STBI2,United States,Texas,48,Camp,063
+STBI2,United States,Texas,48,Cass,067
+STBI2,United States,Texas,48,Dallas,113
+STBI2,United States,Texas,48,Fannin,147
+STBI2,United States,Texas,48,Fayette,149
+STBI2,United States,Texas,48,Freestone,161
+STBI2,United States,Texas,48,Galveston,167
+STBI2,United States,Texas,48,Grayson,181
+STBI2,United States,Texas,48,Gregg,183
+STBI2,United States,Texas,48,Grimes,185
+STBI2,United States,Texas,48,Hardin,199
+STBI2,United States,Texas,48,Harris,201
+STBI2,United States,Texas,48,Harrison,203
+STBI2,United States,Texas,48,Henderson,213
+STBI2,United States,Texas,48,Hopkins,223
+STBI2,United States,Texas,48,Houston,225
+STBI2,United States,Texas,48,Lavaca,285
+STBI2,United States,Texas,48,Lee,287
+STBI2,United States,Texas,48,Leon,289
+STBI2,United States,Texas,48,Madison,313
+STBI2,United States,Texas,48,Montague,337
+STBI2,United States,Texas,48,Montgomery,339
+STBI2,United States,Texas,48,Nacogdoches,347
+STBI2,United States,Texas,48,Newton,351
+STBI2,United States,Texas,48,Orange,361
+STBI2,United States,Texas,48,Parker,367
+STBI2,United States,Texas,48,Polk,373
+STBI2,United States,Texas,48,Sabine,403
+STBI2,United States,Texas,48,San Augustine,405
+STBI2,United States,Texas,48,San Jacinto,407
+STBI2,United States,Texas,48,San Patricio,409
+STBI2,United States,Texas,48,Shelby,419
+STBI2,United States,Texas,48,Smith,423
+STBI2,United States,Texas,48,Titus,449
+STBI2,United States,Texas,48,Travis,453
+STBI2,United States,Texas,48,Trinity,455
+STBI2,United States,Texas,48,Tyler,457
+STBI2,United States,Texas,48,Upshur,459
+STBI2,United States,Texas,48,Van Zandt,467
+STBI2,United States,Texas,48,Walker,471
+STBI2,United States,Texas,48,Waller,473
+STBI2,United States,Texas,48,Washington,477
+STBI2,United States,Texas,48,Wise,497
+STBI2,United States,Texas,48,Wood,499
+STBI2,United States,Virginia,51,,
+STBI2,United States,Virginia,51,Accomack,001
+STBI2,United States,Virginia,51,Albemarle,003
+STBI2,United States,Virginia,51,Amelia,007
+STBI2,United States,Virginia,51,Amherst,009
+STBI2,United States,Virginia,51,Appomattox,011
+STBI2,United States,Virginia,51,Arlington,013
+STBI2,United States,Virginia,51,Augusta,015
+STBI2,United States,Virginia,51,Bath,017
+STBI2,United States,Virginia,51,Bedford,019
+STBI2,United States,Virginia,51,Botetourt,023
+STBI2,United States,Virginia,51,Brunswick,025
+STBI2,United States,Virginia,51,Buckingham,029
+STBI2,United States,Virginia,51,Campbell,031
+STBI2,United States,Virginia,51,Caroline,033
+STBI2,United States,Virginia,51,Charles City,036
+STBI2,United States,Virginia,51,Charlotte,037
+STBI2,United States,Virginia,51,Chesterfield,041
+STBI2,United States,Virginia,51,Craig,045
+STBI2,United States,Virginia,51,Culpeper,047
+STBI2,United States,Virginia,51,Cumberland,049
+STBI2,United States,Virginia,51,Dinwiddie,053
+STBI2,United States,Virginia,51,Essex,057
+STBI2,United States,Virginia,51,Fairfax,059
+STBI2,United States,Virginia,51,Fauquier,061
+STBI2,United States,Virginia,51,Fluvanna,065
+STBI2,United States,Virginia,51,Franklin,067
+STBI2,United States,Virginia,51,Frederick,069
+STBI2,United States,Virginia,51,Giles,071
+STBI2,United States,Virginia,51,Gloucester,073
+STBI2,United States,Virginia,51,Goochland,075
+STBI2,United States,Virginia,51,Greene,079
+STBI2,United States,Virginia,51,Greensville,081
+STBI2,United States,Virginia,51,Halifax,083
+STBI2,United States,Virginia,51,Hanover,085
+STBI2,United States,Virginia,51,Henrico,087
+STBI2,United States,Virginia,51,Henry,089
+STBI2,United States,Virginia,51,Isle of Wight,093
+STBI2,United States,Virginia,51,James City,095
+STBI2,United States,Virginia,51,King and Queen,097
+STBI2,United States,Virginia,51,King George,099
+STBI2,United States,Virginia,51,King William,101
+STBI2,United States,Virginia,51,Lancaster,103
+STBI2,United States,Virginia,51,Lee,105
+STBI2,United States,Virginia,51,Loudoun,107
+STBI2,United States,Virginia,51,Louisa,109
+STBI2,United States,Virginia,51,Lunenburg,111
+STBI2,United States,Virginia,51,Madison,113
+STBI2,United States,Virginia,51,Mathews,115
+STBI2,United States,Virginia,51,Mecklenburg,117
+STBI2,United States,Virginia,51,Middlesex,119
+STBI2,United States,Virginia,51,Montgomery,121
+STBI2,United States,Virginia,51,Nelson,125
+STBI2,United States,Virginia,51,New Kent,127
+STBI2,United States,Virginia,51,Newport News ,700
+STBI2,United States,Virginia,51,Northampton,131
+STBI2,United States,Virginia,51,Northumberland,133
+STBI2,United States,Virginia,51,Nottoway,135
+STBI2,United States,Virginia,51,Orange,137
+STBI2,United States,Virginia,51,Page,139
+STBI2,United States,Virginia,51,Patrick,141
+STBI2,United States,Virginia,51,Pittsylvania,143
+STBI2,United States,Virginia,51,Powhatan,145
+STBI2,United States,Virginia,51,Prince Edward,147
+STBI2,United States,Virginia,51,Prince George,149
+STBI2,United States,Virginia,51,Prince William,153
+STBI2,United States,Virginia,51,Pulaski,155
+STBI2,United States,Virginia,51,Rappahannock,157
+STBI2,United States,Virginia,51,Richmond,159
+STBI2,United States,Virginia,51,Roanoke,161
+STBI2,United States,Virginia,51,Rockbridge,163
+STBI2,United States,Virginia,51,Rockingham,165
+STBI2,United States,Virginia,51,Scott,169
+STBI2,United States,Virginia,51,Shenandoah,171
+STBI2,United States,Virginia,51,Smyth,173
+STBI2,United States,Virginia,51,Southampton,175
+STBI2,United States,Virginia,51,Spotsylvania,177
+STBI2,United States,Virginia,51,Stafford,179
+STBI2,United States,Virginia,51,Suffolk ,800
+STBI2,United States,Virginia,51,Surry,181
+STBI2,United States,Virginia,51,Sussex,183
+STBI2,United States,Virginia,51,Virginia Beach ,810
+STBI2,United States,Virginia,51,Warren,187
+STBI2,United States,Virginia,51,Westmoreland,193
+STBI2,United States,West Virginia,54,,
+STBI2,United States,West Virginia,54,Cabell,011
+STBI2,United States,West Virginia,54,Calhoun,013
+STBI2,United States,West Virginia,54,Fayette,019
+STBI2,United States,West Virginia,54,Gilmer,021
+STBI2,United States,West Virginia,54,Grant,023
+STBI2,United States,West Virginia,54,Greenbrier,025
+STBI2,United States,West Virginia,54,Hampshire,027
+STBI2,United States,West Virginia,54,Hardy,031
+STBI2,United States,West Virginia,54,Jackson,035
+STBI2,United States,West Virginia,54,Mason,053
+STBI2,United States,West Virginia,54,Monongalia,061
+STBI2,United States,West Virginia,54,Raleigh,081
+STBI2,United States,West Virginia,54,Summers,089
+STBI2,United States,West Virginia,54,Wayne,099
+STBI2,United States,West Virginia,54,Wirt,105
+STBI2,United States,Wisconsin,55,,

@@ -1,0 +1,655 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+AMCA6,Canada,Manitoba,03,,
+AMCA6,United States,Arkansas,05,,
+AMCA6,United States,Arkansas,05,Benton,007
+AMCA6,United States,Arkansas,05,Carroll,015
+AMCA6,United States,Arkansas,05,Marion,089
+AMCA6,United States,Arkansas,05,Polk,113
+AMCA6,United States,Arkansas,05,Searcy,129
+AMCA6,Canada,Ontario,08,,
+AMCA6,United States,Colorado,08,,
+AMCA6,United States,Colorado,08,Baca,009
+AMCA6,United States,Colorado,08,Las Animas,071
+AMCA6,United States,Colorado,08,Sedgwick,115
+AMCA6,United States,Colorado,08,Washington,121
+AMCA6,United States,Colorado,08,Yuma,125
+AMCA6,United States,Illinois,17,,
+AMCA6,United States,Illinois,17,Adams,001
+AMCA6,United States,Illinois,17,Bond,005
+AMCA6,United States,Illinois,17,Boone,007
+AMCA6,United States,Illinois,17,Brown,009
+AMCA6,United States,Illinois,17,Bureau,011
+AMCA6,United States,Illinois,17,Calhoun,013
+AMCA6,United States,Illinois,17,Carroll,015
+AMCA6,United States,Illinois,17,Cass,017
+AMCA6,United States,Illinois,17,Champaign,019
+AMCA6,United States,Illinois,17,Christian,021
+AMCA6,United States,Illinois,17,Clay,025
+AMCA6,United States,Illinois,17,Coles,029
+AMCA6,United States,Illinois,17,Cook,031
+AMCA6,United States,Illinois,17,DeKalb,037
+AMCA6,United States,Illinois,17,DuPage,043
+AMCA6,United States,Illinois,17,Edgar,045
+AMCA6,United States,Illinois,17,Effingham,049
+AMCA6,United States,Illinois,17,Fayette,051
+AMCA6,United States,Illinois,17,Ford,053
+AMCA6,United States,Illinois,17,Fulton,057
+AMCA6,United States,Illinois,17,Greene,061
+AMCA6,United States,Illinois,17,Grundy,063
+AMCA6,United States,Illinois,17,Hancock,067
+AMCA6,United States,Illinois,17,Henderson,071
+AMCA6,United States,Illinois,17,Henry,073
+AMCA6,United States,Illinois,17,Iroquois,075
+AMCA6,United States,Illinois,17,Jackson,077
+AMCA6,United States,Illinois,17,Jersey,083
+AMCA6,United States,Illinois,17,Jo Daviess,085
+AMCA6,United States,Illinois,17,Kane,089
+AMCA6,United States,Illinois,17,Kankakee,091
+AMCA6,United States,Illinois,17,Kendall,093
+AMCA6,United States,Illinois,17,Knox,095
+AMCA6,United States,Illinois,17,Lake,097
+AMCA6,United States,Illinois,17,LaSalle,099
+AMCA6,United States,Illinois,17,Lee,103
+AMCA6,United States,Illinois,17,Livingston,105
+AMCA6,United States,Illinois,17,Logan,107
+AMCA6,United States,Illinois,17,Macon,115
+AMCA6,United States,Illinois,17,Macoupin,117
+AMCA6,United States,Illinois,17,Madison,119
+AMCA6,United States,Illinois,17,Marion,121
+AMCA6,United States,Illinois,17,Marshall,123
+AMCA6,United States,Illinois,17,Mason,125
+AMCA6,United States,Illinois,17,McDonough,109
+AMCA6,United States,Illinois,17,McHenry,111
+AMCA6,United States,Illinois,17,McLean,113
+AMCA6,United States,Illinois,17,Menard,129
+AMCA6,United States,Illinois,17,Mercer,131
+AMCA6,United States,Illinois,17,Monroe,133
+AMCA6,United States,Illinois,17,Morgan,137
+AMCA6,United States,Illinois,17,Ogle,141
+AMCA6,United States,Illinois,17,Peoria,143
+AMCA6,United States,Illinois,17,Pike,149
+AMCA6,United States,Illinois,17,Putnam,155
+AMCA6,United States,Illinois,17,Rock Island,161
+AMCA6,United States,Illinois,17,Schuyler,169
+AMCA6,United States,Illinois,17,Scott,171
+AMCA6,United States,Illinois,17,Shelby,173
+AMCA6,United States,Illinois,17,St. Clair,163
+AMCA6,United States,Illinois,17,Stark,175
+AMCA6,United States,Illinois,17,Stephenson,177
+AMCA6,United States,Illinois,17,Tazewell,179
+AMCA6,United States,Illinois,17,Vermilion,183
+AMCA6,United States,Illinois,17,Whiteside,195
+AMCA6,United States,Illinois,17,Will,197
+AMCA6,United States,Illinois,17,Woodford,203
+AMCA6,United States,Indiana,18,,
+AMCA6,United States,Indiana,18,Benton,007
+AMCA6,United States,Indiana,18,Cass,017
+AMCA6,United States,Indiana,18,Elkhart,039
+AMCA6,United States,Indiana,18,Fulton,049
+AMCA6,United States,Indiana,18,Jasper,073
+AMCA6,United States,Indiana,18,Kosciusko,085
+AMCA6,United States,Indiana,18,Lagrange,087
+AMCA6,United States,Indiana,18,Lake,089
+AMCA6,United States,Indiana,18,LaPorte,091
+AMCA6,United States,Indiana,18,Marshall,099
+AMCA6,United States,Indiana,18,Newton,111
+AMCA6,United States,Indiana,18,Porter,127
+AMCA6,United States,Indiana,18,Pulaski,131
+AMCA6,United States,Indiana,18,St. Joseph,141
+AMCA6,United States,Indiana,18,Starke,149
+AMCA6,United States,Indiana,18,Steuben,151
+AMCA6,United States,Indiana,18,Tippecanoe,157
+AMCA6,United States,Indiana,18,Vigo,167
+AMCA6,United States,Indiana,18,Warren,171
+AMCA6,United States,Indiana,18,White,181
+AMCA6,United States,Iowa,19,,
+AMCA6,United States,Iowa,19,Adair,001
+AMCA6,United States,Iowa,19,Adams,003
+AMCA6,United States,Iowa,19,Audubon,009
+AMCA6,United States,Iowa,19,Cass,029
+AMCA6,United States,Iowa,19,Cherokee,035
+AMCA6,United States,Iowa,19,Crawford,047
+AMCA6,United States,Iowa,19,Fremont,071
+AMCA6,United States,Iowa,19,Harrison,085
+AMCA6,United States,Iowa,19,Ida,093
+AMCA6,United States,Iowa,19,Lyon,119
+AMCA6,United States,Iowa,19,Madison,121
+AMCA6,United States,Iowa,19,Mahaska,123
+AMCA6,United States,Iowa,19,Mills,129
+AMCA6,United States,Iowa,19,Monona,133
+AMCA6,United States,Iowa,19,Montgomery,137
+AMCA6,United States,Iowa,19,Osceola,143
+AMCA6,United States,Iowa,19,Page,145
+AMCA6,United States,Iowa,19,Plymouth,149
+AMCA6,United States,Iowa,19,Pottawattamie,155
+AMCA6,United States,Iowa,19,Poweshiek,157
+AMCA6,United States,Iowa,19,Ringgold,159
+AMCA6,United States,Iowa,19,Shelby,165
+AMCA6,United States,Iowa,19,Sioux,167
+AMCA6,United States,Iowa,19,Taylor,173
+AMCA6,United States,Iowa,19,Union,175
+AMCA6,United States,Iowa,19,Webster,187
+AMCA6,United States,Iowa,19,Winneshiek,191
+AMCA6,United States,Iowa,19,Woodbury,193
+AMCA6,United States,Kansas,20,,
+AMCA6,United States,Kansas,20,Allen,001
+AMCA6,United States,Kansas,20,Anderson,003
+AMCA6,United States,Kansas,20,Atchison,005
+AMCA6,United States,Kansas,20,Barber,007
+AMCA6,United States,Kansas,20,Barton,009
+AMCA6,United States,Kansas,20,Bourbon,011
+AMCA6,United States,Kansas,20,Brown,013
+AMCA6,United States,Kansas,20,Butler,015
+AMCA6,United States,Kansas,20,Chase,017
+AMCA6,United States,Kansas,20,Chautauqua,019
+AMCA6,United States,Kansas,20,Cherokee,021
+AMCA6,United States,Kansas,20,Cheyenne,023
+AMCA6,United States,Kansas,20,Clark,025
+AMCA6,United States,Kansas,20,Clay,027
+AMCA6,United States,Kansas,20,Cloud,029
+AMCA6,United States,Kansas,20,Coffey,031
+AMCA6,United States,Kansas,20,Comanche,033
+AMCA6,United States,Kansas,20,Cowley,035
+AMCA6,United States,Kansas,20,Crawford,037
+AMCA6,United States,Kansas,20,Dickinson,041
+AMCA6,United States,Kansas,20,Doniphan,043
+AMCA6,United States,Kansas,20,Douglas,045
+AMCA6,United States,Kansas,20,Edwards,047
+AMCA6,United States,Kansas,20,Elk,049
+AMCA6,United States,Kansas,20,Ellis,051
+AMCA6,United States,Kansas,20,Ellsworth,053
+AMCA6,United States,Kansas,20,Ford,057
+AMCA6,United States,Kansas,20,Franklin,059
+AMCA6,United States,Kansas,20,Geary,061
+AMCA6,United States,Kansas,20,Gove,063
+AMCA6,United States,Kansas,20,Graham,065
+AMCA6,United States,Kansas,20,Greenwood,073
+AMCA6,United States,Kansas,20,Harper,077
+AMCA6,United States,Kansas,20,Harvey,079
+AMCA6,United States,Kansas,20,Hodgeman,083
+AMCA6,United States,Kansas,20,Jackson,085
+AMCA6,United States,Kansas,20,Jefferson,087
+AMCA6,United States,Kansas,20,Jewell,089
+AMCA6,United States,Kansas,20,Johnson,091
+AMCA6,United States,Kansas,20,Kingman,095
+AMCA6,United States,Kansas,20,Kiowa,097
+AMCA6,United States,Kansas,20,Labette,099
+AMCA6,United States,Kansas,20,Leavenworth,103
+AMCA6,United States,Kansas,20,Lincoln,105
+AMCA6,United States,Kansas,20,Linn,107
+AMCA6,United States,Kansas,20,Lyon,111
+AMCA6,United States,Kansas,20,Marion,115
+AMCA6,United States,Kansas,20,Marshall,117
+AMCA6,United States,Kansas,20,McPherson,113
+AMCA6,United States,Kansas,20,Miami,121
+AMCA6,United States,Kansas,20,Mitchell,123
+AMCA6,United States,Kansas,20,Montgomery,125
+AMCA6,United States,Kansas,20,Morris,127
+AMCA6,United States,Kansas,20,Nemaha,131
+AMCA6,United States,Kansas,20,Neosho,133
+AMCA6,United States,Kansas,20,Ness,135
+AMCA6,United States,Kansas,20,Norton,137
+AMCA6,United States,Kansas,20,Osage,139
+AMCA6,United States,Kansas,20,Osborne,141
+AMCA6,United States,Kansas,20,Ottawa,143
+AMCA6,United States,Kansas,20,Pawnee,145
+AMCA6,United States,Kansas,20,Phillips,147
+AMCA6,United States,Kansas,20,Pottawatomie,149
+AMCA6,United States,Kansas,20,Pratt,151
+AMCA6,United States,Kansas,20,Rawlins,153
+AMCA6,United States,Kansas,20,Reno,155
+AMCA6,United States,Kansas,20,Republic,157
+AMCA6,United States,Kansas,20,Rice,159
+AMCA6,United States,Kansas,20,Riley,161
+AMCA6,United States,Kansas,20,Rooks,163
+AMCA6,United States,Kansas,20,Rush,165
+AMCA6,United States,Kansas,20,Russell,167
+AMCA6,United States,Kansas,20,Saline,169
+AMCA6,United States,Kansas,20,Sedgwick,173
+AMCA6,United States,Kansas,20,Shawnee,177
+AMCA6,United States,Kansas,20,Sheridan,179
+AMCA6,United States,Kansas,20,Smith,183
+AMCA6,United States,Kansas,20,Stafford,185
+AMCA6,United States,Kansas,20,Sumner,191
+AMCA6,United States,Kansas,20,Trego,195
+AMCA6,United States,Kansas,20,Wabaunsee,197
+AMCA6,United States,Kansas,20,Washington,201
+AMCA6,United States,Kansas,20,Wilson,205
+AMCA6,United States,Kansas,20,Woodson,207
+AMCA6,United States,Kansas,20,Wyandotte,209
+AMCA6,United States,Louisiana,22,,
+AMCA6,United States,Michigan,26,,
+AMCA6,United States,Michigan,26,Branch,023
+AMCA6,United States,Michigan,26,Calhoun,025
+AMCA6,United States,Michigan,26,Cass,027
+AMCA6,United States,Michigan,26,Kalamazoo,077
+AMCA6,United States,Michigan,26,Kent,081
+AMCA6,United States,Michigan,26,St. Joseph,149
+AMCA6,United States,Michigan,26,Van Buren,159
+AMCA6,United States,Michigan,26,Wayne,163
+AMCA6,United States,Minnesota,27,,
+AMCA6,United States,Minnesota,27,Anoka,003
+AMCA6,United States,Minnesota,27,Becker,005
+AMCA6,United States,Minnesota,27,Beltrami,007
+AMCA6,United States,Minnesota,27,Benton,009
+AMCA6,United States,Minnesota,27,Big Stone,011
+AMCA6,United States,Minnesota,27,Blue Earth,013
+AMCA6,United States,Minnesota,27,Brown,015
+AMCA6,United States,Minnesota,27,Carver,019
+AMCA6,United States,Minnesota,27,Cass,021
+AMCA6,United States,Minnesota,27,Chippewa,023
+AMCA6,United States,Minnesota,27,Chisago,025
+AMCA6,United States,Minnesota,27,Clay,027
+AMCA6,United States,Minnesota,27,Cottonwood,033
+AMCA6,United States,Minnesota,27,Dakota,037
+AMCA6,United States,Minnesota,27,Dodge,039
+AMCA6,United States,Minnesota,27,Douglas,041
+AMCA6,United States,Minnesota,27,Faribault,043
+AMCA6,United States,Minnesota,27,Fillmore,045
+AMCA6,United States,Minnesota,27,Goodhue,049
+AMCA6,United States,Minnesota,27,Hennepin,053
+AMCA6,United States,Minnesota,27,Houston,055
+AMCA6,United States,Minnesota,27,Hubbard,057
+AMCA6,United States,Minnesota,27,Isanti,059
+AMCA6,United States,Minnesota,27,Jackson,063
+AMCA6,United States,Minnesota,27,Kanabec,065
+AMCA6,United States,Minnesota,27,Kandiyohi,067
+AMCA6,United States,Minnesota,27,Kittson,069
+AMCA6,United States,Minnesota,27,Lac qui Parle,073
+AMCA6,United States,Minnesota,27,Le Sueur,079
+AMCA6,United States,Minnesota,27,Lincoln,081
+AMCA6,United States,Minnesota,27,Lyon,083
+AMCA6,United States,Minnesota,27,Mahnomen,087
+AMCA6,United States,Minnesota,27,Marshall,089
+AMCA6,United States,Minnesota,27,McLeod,085
+AMCA6,United States,Minnesota,27,Meeker,093
+AMCA6,United States,Minnesota,27,Mille Lacs,095
+AMCA6,United States,Minnesota,27,Morrison,097
+AMCA6,United States,Minnesota,27,Mower,099
+AMCA6,United States,Minnesota,27,Murray,101
+AMCA6,United States,Minnesota,27,Nicollet,103
+AMCA6,United States,Minnesota,27,Nobles,105
+AMCA6,United States,Minnesota,27,Norman,107
+AMCA6,United States,Minnesota,27,Olmsted,109
+AMCA6,United States,Minnesota,27,Otter Tail,111
+AMCA6,United States,Minnesota,27,Pennington,113
+AMCA6,United States,Minnesota,27,Pine,115
+AMCA6,United States,Minnesota,27,Pipestone,117
+AMCA6,United States,Minnesota,27,Polk,119
+AMCA6,United States,Minnesota,27,Pope,121
+AMCA6,United States,Minnesota,27,Ramsey,123
+AMCA6,United States,Minnesota,27,Redwood,127
+AMCA6,United States,Minnesota,27,Renville,129
+AMCA6,United States,Minnesota,27,Rice,131
+AMCA6,United States,Minnesota,27,Rock,133
+AMCA6,United States,Minnesota,27,Roseau,135
+AMCA6,United States,Minnesota,27,Scott,139
+AMCA6,United States,Minnesota,27,Sherburne,141
+AMCA6,United States,Minnesota,27,Stearns,145
+AMCA6,United States,Minnesota,27,Steele,147
+AMCA6,United States,Minnesota,27,Stevens,149
+AMCA6,United States,Minnesota,27,Todd,153
+AMCA6,United States,Minnesota,27,Traverse,155
+AMCA6,United States,Minnesota,27,Wabasha,157
+AMCA6,United States,Minnesota,27,Waseca,161
+AMCA6,United States,Minnesota,27,Washington,163
+AMCA6,United States,Minnesota,27,Watonwan,165
+AMCA6,United States,Minnesota,27,Wilkin,167
+AMCA6,United States,Minnesota,27,Winona,169
+AMCA6,United States,Minnesota,27,Wright,171
+AMCA6,United States,Minnesota,27,Yellow Medicine,173
+AMCA6,United States,Missouri,29,,
+AMCA6,United States,Missouri,29,Adair,001
+AMCA6,United States,Missouri,29,Atchison,005
+AMCA6,United States,Missouri,29,Audrain,007
+AMCA6,United States,Missouri,29,Barry,009
+AMCA6,United States,Missouri,29,Barton,011
+AMCA6,United States,Missouri,29,Bates,013
+AMCA6,United States,Missouri,29,Benton,015
+AMCA6,United States,Missouri,29,Boone,019
+AMCA6,United States,Missouri,29,Buchanan,021
+AMCA6,United States,Missouri,29,Caldwell,025
+AMCA6,United States,Missouri,29,Callaway,027
+AMCA6,United States,Missouri,29,Camden,029
+AMCA6,United States,Missouri,29,Carroll,033
+AMCA6,United States,Missouri,29,Carter,035
+AMCA6,United States,Missouri,29,Cass,037
+AMCA6,United States,Missouri,29,Cedar,039
+AMCA6,United States,Missouri,29,Chariton,041
+AMCA6,United States,Missouri,29,Christian,043
+AMCA6,United States,Missouri,29,Clark,045
+AMCA6,United States,Missouri,29,Clay,047
+AMCA6,United States,Missouri,29,Clinton,049
+AMCA6,United States,Missouri,29,Cole,051
+AMCA6,United States,Missouri,29,Cooper,053
+AMCA6,United States,Missouri,29,Crawford,055
+AMCA6,United States,Missouri,29,Dade,057
+AMCA6,United States,Missouri,29,Dallas,059
+AMCA6,United States,Missouri,29,Daviess,061
+AMCA6,United States,Missouri,29,DeKalb,063
+AMCA6,United States,Missouri,29,Dent,065
+AMCA6,United States,Missouri,29,Douglas,067
+AMCA6,United States,Missouri,29,Franklin,071
+AMCA6,United States,Missouri,29,Gasconade,073
+AMCA6,United States,Missouri,29,Gentry,075
+AMCA6,United States,Missouri,29,Greene,077
+AMCA6,United States,Missouri,29,Grundy,079
+AMCA6,United States,Missouri,29,Harrison,081
+AMCA6,United States,Missouri,29,Henry,083
+AMCA6,United States,Missouri,29,Hickory,085
+AMCA6,United States,Missouri,29,Holt,087
+AMCA6,United States,Missouri,29,Howard,089
+AMCA6,United States,Missouri,29,Jackson,095
+AMCA6,United States,Missouri,29,Jasper,097
+AMCA6,United States,Missouri,29,Jefferson,099
+AMCA6,United States,Missouri,29,Johnson,101
+AMCA6,United States,Missouri,29,Knox,103
+AMCA6,United States,Missouri,29,Laclede,105
+AMCA6,United States,Missouri,29,Lafayette,107
+AMCA6,United States,Missouri,29,Lawrence,109
+AMCA6,United States,Missouri,29,Lewis,111
+AMCA6,United States,Missouri,29,Lincoln,113
+AMCA6,United States,Missouri,29,Linn,115
+AMCA6,United States,Missouri,29,Livingston,117
+AMCA6,United States,Missouri,29,Macon,121
+AMCA6,United States,Missouri,29,Maries,125
+AMCA6,United States,Missouri,29,Marion,127
+AMCA6,United States,Missouri,29,McDonald,119
+AMCA6,United States,Missouri,29,Mercer,129
+AMCA6,United States,Missouri,29,Miller,131
+AMCA6,United States,Missouri,29,Moniteau,135
+AMCA6,United States,Missouri,29,Monroe,137
+AMCA6,United States,Missouri,29,Montgomery,139
+AMCA6,United States,Missouri,29,Morgan,141
+AMCA6,United States,Missouri,29,Newton,145
+AMCA6,United States,Missouri,29,Nodaway,147
+AMCA6,United States,Missouri,29,Osage,151
+AMCA6,United States,Missouri,29,Ozark,153
+AMCA6,United States,Missouri,29,Pettis,159
+AMCA6,United States,Missouri,29,Phelps,161
+AMCA6,United States,Missouri,29,Pike,163
+AMCA6,United States,Missouri,29,Polk,167
+AMCA6,United States,Missouri,29,Pulaski,169
+AMCA6,United States,Missouri,29,Putnam,171
+AMCA6,United States,Missouri,29,Ralls,173
+AMCA6,United States,Missouri,29,Randolph,175
+AMCA6,United States,Missouri,29,Ray,177
+AMCA6,United States,Missouri,29,Reynolds,179
+AMCA6,United States,Missouri,29,Saline,195
+AMCA6,United States,Missouri,29,Schuyler,197
+AMCA6,United States,Missouri,29,Scotland,199
+AMCA6,United States,Missouri,29,Shannon,203
+AMCA6,United States,Missouri,29,Shelby,205
+AMCA6,United States,Missouri,29,St. Charles,183
+AMCA6,United States,Missouri,29,St. Clair,185
+AMCA6,United States,Missouri,29,St. Louis,189
+AMCA6,United States,Missouri,29,Ste. Genevieve,186
+AMCA6,United States,Missouri,29,Stoddard,207
+AMCA6,United States,Missouri,29,Stone,209
+AMCA6,United States,Missouri,29,Sullivan,211
+AMCA6,United States,Missouri,29,Taney,213
+AMCA6,United States,Missouri,29,Texas,215
+AMCA6,United States,Missouri,29,Vernon,217
+AMCA6,United States,Missouri,29,Warren,219
+AMCA6,United States,Missouri,29,Washington,221
+AMCA6,United States,Missouri,29,Webster,225
+AMCA6,United States,Missouri,29,Worth,227
+AMCA6,United States,Missouri,29,Wright,229
+AMCA6,United States,Montana,30,,
+AMCA6,United States,Montana,30,Carter,011
+AMCA6,United States,Nebraska,31,,
+AMCA6,United States,Nebraska,31,Adams,001
+AMCA6,United States,Nebraska,31,Antelope,003
+AMCA6,United States,Nebraska,31,Arthur,005
+AMCA6,United States,Nebraska,31,Blaine,009
+AMCA6,United States,Nebraska,31,Boone,011
+AMCA6,United States,Nebraska,31,Boyd,015
+AMCA6,United States,Nebraska,31,Brown,017
+AMCA6,United States,Nebraska,31,Buffalo,019
+AMCA6,United States,Nebraska,31,Cass,025
+AMCA6,United States,Nebraska,31,Cedar,027
+AMCA6,United States,Nebraska,31,Cherry,031
+AMCA6,United States,Nebraska,31,Cuming,039
+AMCA6,United States,Nebraska,31,Custer,041
+AMCA6,United States,Nebraska,31,Deuel,049
+AMCA6,United States,Nebraska,31,Dodge,053
+AMCA6,United States,Nebraska,31,Douglas,055
+AMCA6,United States,Nebraska,31,Dundy,057
+AMCA6,United States,Nebraska,31,Franklin,061
+AMCA6,United States,Nebraska,31,Furnas,065
+AMCA6,United States,Nebraska,31,Gage,067
+AMCA6,United States,Nebraska,31,Garden,069
+AMCA6,United States,Nebraska,31,Garfield,071
+AMCA6,United States,Nebraska,31,Gosper,073
+AMCA6,United States,Nebraska,31,Grant,075
+AMCA6,United States,Nebraska,31,Greeley,077
+AMCA6,United States,Nebraska,31,Hall,079
+AMCA6,United States,Nebraska,31,Hayes,085
+AMCA6,United States,Nebraska,31,Holt,089
+AMCA6,United States,Nebraska,31,Hooker,091
+AMCA6,United States,Nebraska,31,Howard,093
+AMCA6,United States,Nebraska,31,Jefferson,095
+AMCA6,United States,Nebraska,31,Kearney,099
+AMCA6,United States,Nebraska,31,Keith,101
+AMCA6,United States,Nebraska,31,Keya Paha,103
+AMCA6,United States,Nebraska,31,Knox,107
+AMCA6,United States,Nebraska,31,Lancaster,109
+AMCA6,United States,Nebraska,31,Lincoln,111
+AMCA6,United States,Nebraska,31,Logan,113
+AMCA6,United States,Nebraska,31,Loup,115
+AMCA6,United States,Nebraska,31,Madison,119
+AMCA6,United States,Nebraska,31,McPherson,117
+AMCA6,United States,Nebraska,31,Otoe,131
+AMCA6,United States,Nebraska,31,Pawnee,133
+AMCA6,United States,Nebraska,31,Perkins,135
+AMCA6,United States,Nebraska,31,Phelps,137
+AMCA6,United States,Nebraska,31,Platte,141
+AMCA6,United States,Nebraska,31,Polk,143
+AMCA6,United States,Nebraska,31,Richardson,147
+AMCA6,United States,Nebraska,31,Rock,149
+AMCA6,United States,Nebraska,31,Saline,151
+AMCA6,United States,Nebraska,31,Sarpy,153
+AMCA6,United States,Nebraska,31,Saunders,155
+AMCA6,United States,Nebraska,31,Sheridan,161
+AMCA6,United States,Nebraska,31,Sherman,163
+AMCA6,United States,Nebraska,31,Stanton,167
+AMCA6,United States,Nebraska,31,Thomas,171
+AMCA6,United States,Nebraska,31,Valley,175
+AMCA6,United States,Nebraska,31,Washington,177
+AMCA6,United States,Nebraska,31,Webster,181
+AMCA6,United States,Nebraska,31,Wheeler,183
+AMCA6,United States,New Mexico,35,,
+AMCA6,United States,New Mexico,35,Colfax,007
+AMCA6,United States,New Mexico,35,Guadalupe,019
+AMCA6,United States,New Mexico,35,Harding,021
+AMCA6,United States,New Mexico,35,Lincoln,027
+AMCA6,United States,New Mexico,35,Los Alamos,028
+AMCA6,United States,New Mexico,35,Mora,033
+AMCA6,United States,New Mexico,35,Quay,037
+AMCA6,United States,New Mexico,35,San Miguel,047
+AMCA6,United States,New Mexico,35,Sandoval,043
+AMCA6,United States,New Mexico,35,Santa Fe,049
+AMCA6,United States,New Mexico,35,Torrance,057
+AMCA6,United States,New Mexico,35,Union,059
+AMCA6,United States,New Mexico,35,Valencia,061
+AMCA6,United States,North Dakota,38,,
+AMCA6,United States,North Dakota,38,Barnes,003
+AMCA6,United States,North Dakota,38,Benson,005
+AMCA6,United States,North Dakota,38,Billings,007
+AMCA6,United States,North Dakota,38,Burleigh,015
+AMCA6,United States,North Dakota,38,Cass,017
+AMCA6,United States,North Dakota,38,Cavalier,019
+AMCA6,United States,North Dakota,38,Eddy,027
+AMCA6,United States,North Dakota,38,Emmons,029
+AMCA6,United States,North Dakota,38,Grant,037
+AMCA6,United States,North Dakota,38,Griggs,039
+AMCA6,United States,North Dakota,38,Kidder,043
+AMCA6,United States,North Dakota,38,Logan,047
+AMCA6,United States,North Dakota,38,McHenry,049
+AMCA6,United States,North Dakota,38,McIntosh,051
+AMCA6,United States,North Dakota,38,McKenzie,053
+AMCA6,United States,North Dakota,38,Morton,059
+AMCA6,United States,North Dakota,38,Nelson,063
+AMCA6,United States,North Dakota,38,Oliver,065
+AMCA6,United States,North Dakota,38,Pembina,067
+AMCA6,United States,North Dakota,38,Pierce,069
+AMCA6,United States,North Dakota,38,Ransom,073
+AMCA6,United States,North Dakota,38,Richland,077
+AMCA6,United States,North Dakota,38,Sargent,081
+AMCA6,United States,North Dakota,38,Sheridan,083
+AMCA6,United States,North Dakota,38,Sioux,085
+AMCA6,United States,North Dakota,38,Steele,091
+AMCA6,United States,North Dakota,38,Stutsman,093
+AMCA6,United States,North Dakota,38,Traill,097
+AMCA6,United States,North Dakota,38,Walsh,099
+AMCA6,United States,North Dakota,38,Ward,101
+AMCA6,United States,North Dakota,38,Wells,103
+AMCA6,United States,Oklahoma,40,,
+AMCA6,United States,Oklahoma,40,Caddo,015
+AMCA6,United States,Oklahoma,40,Carter,019
+AMCA6,United States,Oklahoma,40,Cimarron,025
+AMCA6,United States,Oklahoma,40,Cleveland,027
+AMCA6,United States,Oklahoma,40,Comanche,031
+AMCA6,United States,Oklahoma,40,Custer,039
+AMCA6,United States,Oklahoma,40,Delaware,041
+AMCA6,United States,Oklahoma,40,Dewey,043
+AMCA6,United States,Oklahoma,40,Ellis,045
+AMCA6,United States,Oklahoma,40,Garfield,047
+AMCA6,United States,Oklahoma,40,Garvin,049
+AMCA6,United States,Oklahoma,40,Grady,051
+AMCA6,United States,Oklahoma,40,Greer,055
+AMCA6,United States,Oklahoma,40,Jefferson,067
+AMCA6,United States,Oklahoma,40,Johnston,069
+AMCA6,United States,Oklahoma,40,Kay,071
+AMCA6,United States,Oklahoma,40,Kiowa,075
+AMCA6,United States,Oklahoma,40,Logan,083
+AMCA6,United States,Oklahoma,40,Muskogee,101
+AMCA6,United States,Oklahoma,40,Noble,103
+AMCA6,United States,Oklahoma,40,Oklahoma,109
+AMCA6,United States,Oklahoma,40,Osage,113
+AMCA6,United States,Oklahoma,40,Ottawa,115
+AMCA6,United States,Oklahoma,40,Payne,119
+AMCA6,United States,Oklahoma,40,Pontotoc,123
+AMCA6,United States,Oklahoma,40,Roger Mills,129
+AMCA6,United States,Oklahoma,40,Seminole,133
+AMCA6,United States,Oklahoma,40,Stephens,137
+AMCA6,United States,Oklahoma,40,Tulsa,143
+AMCA6,United States,Oklahoma,40,Washington,147
+AMCA6,United States,Oklahoma,40,Washita,149
+AMCA6,United States,Oklahoma,40,Woods,151
+AMCA6,United States,South Dakota,46,,
+AMCA6,United States,South Dakota,46,Aurora,003
+AMCA6,United States,South Dakota,46,Beadle,005
+AMCA6,United States,South Dakota,46,Bon Homme,009
+AMCA6,United States,South Dakota,46,Brookings,011
+AMCA6,United States,South Dakota,46,Brown,013
+AMCA6,United States,South Dakota,46,Brule,015
+AMCA6,United States,South Dakota,46,Buffalo,017
+AMCA6,United States,South Dakota,46,Campbell,021
+AMCA6,United States,South Dakota,46,Charles Mix,023
+AMCA6,United States,South Dakota,46,Clay,027
+AMCA6,United States,South Dakota,46,Codington,029
+AMCA6,United States,South Dakota,46,Corson,031
+AMCA6,United States,South Dakota,46,Custer,033
+AMCA6,United States,South Dakota,46,Day,037
+AMCA6,United States,South Dakota,46,Dewey,041
+AMCA6,United States,South Dakota,46,Fall River,047
+AMCA6,United States,South Dakota,46,Faulk,049
+AMCA6,United States,South Dakota,46,Gregory,053
+AMCA6,United States,South Dakota,46,Haakon,055
+AMCA6,United States,South Dakota,46,Hanson,061
+AMCA6,United States,South Dakota,46,Hughes,065
+AMCA6,United States,South Dakota,46,Hutchinson,067
+AMCA6,United States,South Dakota,46,Lawrence,081
+AMCA6,United States,South Dakota,46,Lincoln,083
+AMCA6,United States,South Dakota,46,Lyman,085
+AMCA6,United States,South Dakota,46,Marshall,091
+AMCA6,United States,South Dakota,46,McPherson,089
+AMCA6,United States,South Dakota,46,Mellette,095
+AMCA6,United States,South Dakota,46,Minnehaha,099
+AMCA6,United States,South Dakota,46,Pennington,103
+AMCA6,United States,South Dakota,46,Perkins,105
+AMCA6,United States,South Dakota,46,Roberts,109
+AMCA6,United States,South Dakota,46,Sanborn,111
+AMCA6,United States,South Dakota,46,Stanley,117
+AMCA6,United States,South Dakota,46,Sully,119
+AMCA6,United States,South Dakota,46,Todd,121
+AMCA6,United States,South Dakota,46,Tripp,123
+AMCA6,United States,South Dakota,46,Turner,125
+AMCA6,United States,South Dakota,46,Union,127
+AMCA6,United States,South Dakota,46,Walworth,129
+AMCA6,United States,South Dakota,46,Yankton,135
+AMCA6,United States,South Dakota,46,Ziebach,137
+AMCA6,United States,Texas,48,,
+AMCA6,United States,Texas,48,Angelina,005
+AMCA6,United States,Texas,48,Aransas,007
+AMCA6,United States,Texas,48,Armstrong,011
+AMCA6,United States,Texas,48,Caldwell,055
+AMCA6,United States,Texas,48,Collingsworth,087
+AMCA6,United States,Texas,48,Comal,091
+AMCA6,United States,Texas,48,Donley,129
+AMCA6,United States,Texas,48,Harrison,203
+AMCA6,United States,Texas,48,Hemphill,211
+AMCA6,United States,Texas,48,Jasper,241
+AMCA6,United States,Texas,48,Kerr,265
+AMCA6,United States,Texas,48,Lipscomb,295
+AMCA6,United States,Texas,48,Montague,337
+AMCA6,United States,Texas,48,Newton,351
+AMCA6,United States,Texas,48,Robertson,395
+AMCA6,United States,Texas,48,San Augustine,405
+AMCA6,United States,Texas,48,Smith,423
+AMCA6,United States,Texas,48,Wheeler,483
+AMCA6,United States,Texas,48,Williamson,491
+AMCA6,United States,Wisconsin,55,,
+AMCA6,United States,Wisconsin,55,Adams,001
+AMCA6,United States,Wisconsin,55,Barron,005
+AMCA6,United States,Wisconsin,55,Brown,009
+AMCA6,United States,Wisconsin,55,Buffalo,011
+AMCA6,United States,Wisconsin,55,Burnett,013
+AMCA6,United States,Wisconsin,55,Chippewa,017
+AMCA6,United States,Wisconsin,55,Columbia,021
+AMCA6,United States,Wisconsin,55,Crawford,023
+AMCA6,United States,Wisconsin,55,Dane,025
+AMCA6,United States,Wisconsin,55,Dodge,027
+AMCA6,United States,Wisconsin,55,Dunn,033
+AMCA6,United States,Wisconsin,55,Eau Claire,035
+AMCA6,United States,Wisconsin,55,Fond du Lac,039
+AMCA6,United States,Wisconsin,55,Grant,043
+AMCA6,United States,Wisconsin,55,Green,045
+AMCA6,United States,Wisconsin,55,Green Lake,047
+AMCA6,United States,Wisconsin,55,Iowa,049
+AMCA6,United States,Wisconsin,55,Jackson,053
+AMCA6,United States,Wisconsin,55,Jefferson,055
+AMCA6,United States,Wisconsin,55,Kenosha,059
+AMCA6,United States,Wisconsin,55,La Crosse,063
+AMCA6,United States,Wisconsin,55,Lafayette,065
+AMCA6,United States,Wisconsin,55,Lincoln,069
+AMCA6,United States,Wisconsin,55,Marquette,077
+AMCA6,United States,Wisconsin,55,Menominee,078
+AMCA6,United States,Wisconsin,55,Milwaukee,079
+AMCA6,United States,Wisconsin,55,Monroe,081
+AMCA6,United States,Wisconsin,55,Pepin,091
+AMCA6,United States,Wisconsin,55,Pierce,093
+AMCA6,United States,Wisconsin,55,Polk,095
+AMCA6,United States,Wisconsin,55,Portage,097
+AMCA6,United States,Wisconsin,55,Racine,101
+AMCA6,United States,Wisconsin,55,Richland,103
+AMCA6,United States,Wisconsin,55,Rock,105
+AMCA6,United States,Wisconsin,55,Sauk,111
+AMCA6,United States,Wisconsin,55,Shawano,115
+AMCA6,United States,Wisconsin,55,Sheboygan,117
+AMCA6,United States,Wisconsin,55,St. Croix,109
+AMCA6,United States,Wisconsin,55,Trempealeau,121
+AMCA6,United States,Wisconsin,55,Vernon,123
+AMCA6,United States,Wisconsin,55,Walworth,127
+AMCA6,United States,Wisconsin,55,Washburn,129
+AMCA6,United States,Wisconsin,55,Waukesha,133
+AMCA6,United States,Wisconsin,55,Waupaca,135
+AMCA6,United States,Wisconsin,55,Waushara,137
+AMCA6,United States,Wisconsin,55,Winnebago,139
+AMCA6,United States,Wisconsin,55,Wood,141
+AMCA6,United States,Wyoming,56,,
+AMCA6,United States,Wyoming,56,Converse,009
+AMCA6,United States,Wyoming,56,Crook,011
+AMCA6,United States,Wyoming,56,Laramie,021

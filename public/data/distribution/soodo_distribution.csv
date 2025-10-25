@@ -1,0 +1,503 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SOODO,United States,Alabama,01,,
+SOODO,United States,Alabama,01,Bibb,007
+SOODO,United States,Alabama,01,Hale,065
+SOODO,United States,Alabama,01,Lee,081
+SOODO,United States,Alabama,01,Mobile,097
+SOODO,United States,Alabama,01,Pike,109
+SOODO,United States,Alabama,01,Tuscaloosa,125
+SOODO,United States,Arkansas,05,,
+SOODO,United States,Arkansas,05,Ashley,003
+SOODO,United States,Arkansas,05,Bradley,011
+SOODO,United States,Arkansas,05,Calhoun,013
+SOODO,United States,Arkansas,05,Clark,019
+SOODO,United States,Arkansas,05,Cleburne,023
+SOODO,United States,Arkansas,05,Cleveland,025
+SOODO,United States,Arkansas,05,Columbia,027
+SOODO,United States,Arkansas,05,Conway,029
+SOODO,United States,Arkansas,05,Craighead,031
+SOODO,United States,Arkansas,05,Dallas,039
+SOODO,United States,Arkansas,05,Drew,043
+SOODO,United States,Arkansas,05,Franklin,047
+SOODO,United States,Arkansas,05,Garland,051
+SOODO,United States,Arkansas,05,Grant,053
+SOODO,United States,Arkansas,05,Hempstead,057
+SOODO,United States,Arkansas,05,Hot Spring,059
+SOODO,United States,Arkansas,05,Jefferson,069
+SOODO,United States,Arkansas,05,Little River,081
+SOODO,United States,Arkansas,05,Montgomery,097
+SOODO,United States,Arkansas,05,Nevada,099
+SOODO,United States,Arkansas,05,Newton,101
+SOODO,United States,Arkansas,05,Ouachita,103
+SOODO,United States,Arkansas,05,Pike,109
+SOODO,United States,Arkansas,05,Poinsett,111
+SOODO,United States,Arkansas,05,Polk,113
+SOODO,United States,Arkansas,05,Prairie,117
+SOODO,United States,Arkansas,05,Pulaski,119
+SOODO,United States,Arkansas,05,Saline,125
+SOODO,United States,Arkansas,05,Scott,127
+SOODO,United States,Arkansas,05,Stone,137
+SOODO,United States,Arkansas,05,Union,139
+SOODO,United States,Arkansas,05,Van Buren,141
+SOODO,United States,Arkansas,05,Washington,143
+SOODO,United States,Arkansas,05,White,145
+SOODO,United States,Connecticut,09,,
+SOODO,United States,Connecticut,09,Fairfield,001
+SOODO,United States,Connecticut,09,Hartford,003
+SOODO,United States,Connecticut,09,Litchfield,005
+SOODO,United States,Connecticut,09,Middlesex,007
+SOODO,United States,Connecticut,09,New Haven,009
+SOODO,United States,Connecticut,09,New London,011
+SOODO,United States,Connecticut,09,Tolland,013
+SOODO,United States,Connecticut,09,Windham,015
+SOODO,United States,Delaware,10,,
+SOODO,United States,Delaware,10,New Castle,003
+SOODO,United States,Delaware,10,Sussex,005
+SOODO,United States,District of Columbia,11,,
+SOODO,United States,District of Columbia,11,District of Columbia,001
+SOODO,United States,Florida,12,,
+SOODO,United States,Georgia,13,,
+SOODO,United States,Kentucky,21,,
+SOODO,United States,Kentucky,21,Barren,009
+SOODO,United States,Kentucky,21,Bell,013
+SOODO,United States,Kentucky,21,Edmonson,061
+SOODO,United States,Kentucky,21,Greenup,089
+SOODO,United States,Kentucky,21,Hardin,093
+SOODO,United States,Kentucky,21,Jefferson,111
+SOODO,United States,Kentucky,21,Madison,151
+SOODO,United States,Kentucky,21,Marshall,157
+SOODO,United States,Kentucky,21,McCreary,147
+SOODO,United States,Kentucky,21,Powell,197
+SOODO,United States,Kentucky,21,Rockcastle,203
+SOODO,United States,Kentucky,21,Rowan,205
+SOODO,United States,Kentucky,21,Whitley,235
+SOODO,United States,Louisiana,22,,
+SOODO,United States,Louisiana,22,Acadia,001
+SOODO,United States,Louisiana,22,Allen,003
+SOODO,United States,Louisiana,22,Beauregard,011
+SOODO,United States,Louisiana,22,Bienville,013
+SOODO,United States,Louisiana,22,Bossier,015
+SOODO,United States,Louisiana,22,Caddo,017
+SOODO,United States,Louisiana,22,Calcasieu,019
+SOODO,United States,Louisiana,22,Caldwell,021
+SOODO,United States,Louisiana,22,Catahoula,025
+SOODO,United States,Louisiana,22,Claiborne,027
+SOODO,United States,Louisiana,22,De Soto,031
+SOODO,United States,Louisiana,22,East Feliciana,037
+SOODO,United States,Louisiana,22,Evangeline,039
+SOODO,United States,Louisiana,22,Franklin,041
+SOODO,United States,Louisiana,22,Grant,043
+SOODO,United States,Louisiana,22,Jackson,049
+SOODO,United States,Louisiana,22,Jefferson Davis,053
+SOODO,United States,Louisiana,22,LaSalle,059
+SOODO,United States,Louisiana,22,Lincoln,061
+SOODO,United States,Louisiana,22,Morehouse,067
+SOODO,United States,Louisiana,22,Natchitoches,069
+SOODO,United States,Louisiana,22,Ouachita,073
+SOODO,United States,Louisiana,22,Rapides,079
+SOODO,United States,Louisiana,22,Red River,081
+SOODO,United States,Louisiana,22,Sabine,085
+SOODO,United States,Louisiana,22,St. Helena,091
+SOODO,United States,Louisiana,22,St. Tammany,103
+SOODO,United States,Louisiana,22,Tangipahoa,105
+SOODO,United States,Louisiana,22,Union,111
+SOODO,United States,Louisiana,22,Vernon,115
+SOODO,United States,Louisiana,22,Washington,117
+SOODO,United States,Louisiana,22,Webster,119
+SOODO,United States,Louisiana,22,West Feliciana,125
+SOODO,United States,Louisiana,22,Winn,127
+SOODO,United States,Maryland,24,,
+SOODO,United States,Massachusetts,25,,
+SOODO,United States,Massachusetts,25,Barnstable,001
+SOODO,United States,Massachusetts,25,Berkshire,003
+SOODO,United States,Massachusetts,25,Bristol,005
+SOODO,United States,Massachusetts,25,Dukes,007
+SOODO,United States,Massachusetts,25,Essex,009
+SOODO,United States,Massachusetts,25,Franklin,011
+SOODO,United States,Massachusetts,25,Hampden,013
+SOODO,United States,Massachusetts,25,Hampshire,015
+SOODO,United States,Massachusetts,25,Middlesex,017
+SOODO,United States,Massachusetts,25,Nantucket,019
+SOODO,United States,Massachusetts,25,Norfolk,021
+SOODO,United States,Massachusetts,25,Plymouth,023
+SOODO,United States,Massachusetts,25,Suffolk,025
+SOODO,United States,Massachusetts,25,Worcester,027
+SOODO,United States,Mississippi,28,,
+SOODO,United States,Mississippi,28,Alcorn,003
+SOODO,United States,Mississippi,28,Amite,005
+SOODO,United States,Mississippi,28,Attala,007
+SOODO,United States,Mississippi,28,Benton,009
+SOODO,United States,Mississippi,28,Choctaw,019
+SOODO,United States,Mississippi,28,Clarke,023
+SOODO,United States,Mississippi,28,Clay,025
+SOODO,United States,Mississippi,28,Copiah,029
+SOODO,United States,Mississippi,28,Covington,031
+SOODO,United States,Mississippi,28,Forrest,035
+SOODO,United States,Mississippi,28,Franklin,037
+SOODO,United States,Mississippi,28,George,039
+SOODO,United States,Mississippi,28,Greene,041
+SOODO,United States,Mississippi,28,Grenada,043
+SOODO,United States,Mississippi,28,Hancock,045
+SOODO,United States,Mississippi,28,Harrison,047
+SOODO,United States,Mississippi,28,Jackson,059
+SOODO,United States,Mississippi,28,Jasper,061
+SOODO,United States,Mississippi,28,Jefferson,063
+SOODO,United States,Mississippi,28,Jefferson Davis,065
+SOODO,United States,Mississippi,28,Jones,067
+SOODO,United States,Mississippi,28,Kemper,069
+SOODO,United States,Mississippi,28,Lafayette,071
+SOODO,United States,Mississippi,28,Lamar,073
+SOODO,United States,Mississippi,28,Lauderdale,075
+SOODO,United States,Mississippi,28,Lawrence,077
+SOODO,United States,Mississippi,28,Leake,079
+SOODO,United States,Mississippi,28,Lee,081
+SOODO,United States,Mississippi,28,Lowndes,087
+SOODO,United States,Mississippi,28,Marshall,093
+SOODO,United States,Mississippi,28,Monroe,095
+SOODO,United States,Mississippi,28,Montgomery,097
+SOODO,United States,Mississippi,28,Newton,101
+SOODO,United States,Mississippi,28,Panola,107
+SOODO,United States,Mississippi,28,Pearl River,109
+SOODO,United States,Mississippi,28,Perry,111
+SOODO,United States,Mississippi,28,Rankin,121
+SOODO,United States,Mississippi,28,Scott,123
+SOODO,United States,Mississippi,28,Simpson,127
+SOODO,United States,Mississippi,28,Smith,129
+SOODO,United States,Mississippi,28,Stone,131
+SOODO,United States,Mississippi,28,Tishomingo,141
+SOODO,United States,Mississippi,28,Union,145
+SOODO,United States,Mississippi,28,Wayne,153
+SOODO,United States,Mississippi,28,Wilkinson,157
+SOODO,United States,Mississippi,28,Winston,159
+SOODO,United States,Mississippi,28,Yalobusha,161
+SOODO,United States,Missouri,29,,
+SOODO,United States,Missouri,29,Butler,023
+SOODO,United States,Missouri,29,Carter,035
+SOODO,United States,Missouri,29,Dunklin,069
+SOODO,United States,Missouri,29,Ripley,181
+SOODO,United States,Missouri,29,Scott,201
+SOODO,United States,Missouri,29,Stoddard,207
+SOODO,United States,New Hampshire,33,,
+SOODO,United States,New Hampshire,33,Cheshire,005
+SOODO,United States,New Hampshire,33,Hillsborough,011
+SOODO,United States,New Jersey,34,,
+SOODO,United States,New Jersey,34,Atlantic,001
+SOODO,United States,New Jersey,34,Bergen,003
+SOODO,United States,New Jersey,34,Burlington,005
+SOODO,United States,New Jersey,34,Camden,007
+SOODO,United States,New Jersey,34,Cape May,009
+SOODO,United States,New Jersey,34,Cumberland,011
+SOODO,United States,New Jersey,34,Essex,013
+SOODO,United States,New Jersey,34,Gloucester,015
+SOODO,United States,New Jersey,34,Hunterdon,019
+SOODO,United States,New Jersey,34,Mercer,021
+SOODO,United States,New Jersey,34,Middlesex,023
+SOODO,United States,New Jersey,34,Morris,027
+SOODO,United States,New Jersey,34,Ocean,029
+SOODO,United States,New Jersey,34,Sussex,037
+SOODO,United States,New Jersey,34,Warren,041
+SOODO,United States,New York,36,,
+SOODO,United States,New York,36,Bronx,005
+SOODO,United States,New York,36,Erie,029
+SOODO,United States,New York,36,Nassau,059
+SOODO,United States,New York,36,New York,061
+SOODO,United States,New York,36,Richmond,085
+SOODO,United States,New York,36,Rockland,087
+SOODO,United States,New York,36,Suffolk,103
+SOODO,United States,New York,36,Ulster,111
+SOODO,United States,North Carolina,37,,
+SOODO,United States,North Carolina,37,Alleghany,005
+SOODO,United States,North Carolina,37,Anson,007
+SOODO,United States,North Carolina,37,Ashe,009
+SOODO,United States,North Carolina,37,Avery,011
+SOODO,United States,North Carolina,37,Beaufort,013
+SOODO,United States,North Carolina,37,Bertie,015
+SOODO,United States,North Carolina,37,Bladen,017
+SOODO,United States,North Carolina,37,Brunswick,019
+SOODO,United States,North Carolina,37,Buncombe,021
+SOODO,United States,North Carolina,37,Cabarrus,025
+SOODO,United States,North Carolina,37,Carteret,031
+SOODO,United States,North Carolina,37,Cherokee,039
+SOODO,United States,North Carolina,37,Chowan,041
+SOODO,United States,North Carolina,37,Cleveland,045
+SOODO,United States,North Carolina,37,Columbus,047
+SOODO,United States,North Carolina,37,Craven,049
+SOODO,United States,North Carolina,37,Cumberland,051
+SOODO,United States,North Carolina,37,Dare,055
+SOODO,United States,North Carolina,37,Davidson,057
+SOODO,United States,North Carolina,37,Duplin,061
+SOODO,United States,North Carolina,37,Durham,063
+SOODO,United States,North Carolina,37,Forsyth,067
+SOODO,United States,North Carolina,37,Gaston,071
+SOODO,United States,North Carolina,37,Gates,073
+SOODO,United States,North Carolina,37,Graham,075
+SOODO,United States,North Carolina,37,Granville,077
+SOODO,United States,North Carolina,37,Halifax,083
+SOODO,United States,North Carolina,37,Harnett,085
+SOODO,United States,North Carolina,37,Henderson,089
+SOODO,United States,North Carolina,37,Hertford,091
+SOODO,United States,North Carolina,37,Hoke,093
+SOODO,United States,North Carolina,37,Iredell,097
+SOODO,United States,North Carolina,37,Johnston,101
+SOODO,United States,North Carolina,37,Jones,103
+SOODO,United States,North Carolina,37,Lee,105
+SOODO,United States,North Carolina,37,Lenoir,107
+SOODO,United States,North Carolina,37,Madison,115
+SOODO,United States,North Carolina,37,Martin,117
+SOODO,United States,North Carolina,37,McDowell,111
+SOODO,United States,North Carolina,37,Mecklenburg,119
+SOODO,United States,North Carolina,37,Montgomery,123
+SOODO,United States,North Carolina,37,Moore,125
+SOODO,United States,North Carolina,37,Nash,127
+SOODO,United States,North Carolina,37,New Hanover,129
+SOODO,United States,North Carolina,37,Northampton,131
+SOODO,United States,North Carolina,37,Onslow,133
+SOODO,United States,North Carolina,37,Orange,135
+SOODO,United States,North Carolina,37,Pamlico,137
+SOODO,United States,North Carolina,37,Pasquotank,139
+SOODO,United States,North Carolina,37,Pender,141
+SOODO,United States,North Carolina,37,Pitt,147
+SOODO,United States,North Carolina,37,Polk,149
+SOODO,United States,North Carolina,37,Richmond,153
+SOODO,United States,North Carolina,37,Robeson,155
+SOODO,United States,North Carolina,37,Rockingham,157
+SOODO,United States,North Carolina,37,Rowan,159
+SOODO,United States,North Carolina,37,Rutherford,161
+SOODO,United States,North Carolina,37,Sampson,163
+SOODO,United States,North Carolina,37,Scotland,165
+SOODO,United States,North Carolina,37,Stanly,167
+SOODO,United States,North Carolina,37,Stokes,169
+SOODO,United States,North Carolina,37,Surry,171
+SOODO,United States,North Carolina,37,Swain,173
+SOODO,United States,North Carolina,37,Transylvania,175
+SOODO,United States,North Carolina,37,Tyrrell,177
+SOODO,United States,North Carolina,37,Union,179
+SOODO,United States,North Carolina,37,Vance,181
+SOODO,United States,North Carolina,37,Wake,183
+SOODO,United States,North Carolina,37,Warren,185
+SOODO,United States,North Carolina,37,Wayne,191
+SOODO,United States,North Carolina,37,Wilkes,193
+SOODO,United States,North Carolina,37,Wilson,195
+SOODO,United States,Ohio,39,,
+SOODO,United States,Ohio,39,Jackson,079
+SOODO,United States,Ohio,39,Scioto,145
+SOODO,United States,Oklahoma,40,,
+SOODO,United States,Pennsylvania,42,,
+SOODO,United States,Pennsylvania,42,Berks,011
+SOODO,United States,Pennsylvania,42,Carbon,025
+SOODO,United States,Pennsylvania,42,Chester,029
+SOODO,United States,Pennsylvania,42,Dauphin,043
+SOODO,United States,Pennsylvania,42,Delaware,045
+SOODO,United States,Pennsylvania,42,Lackawanna,069
+SOODO,United States,Pennsylvania,42,Lancaster,071
+SOODO,United States,Pennsylvania,42,Lebanon,075
+SOODO,United States,Pennsylvania,42,Lehigh,077
+SOODO,United States,Pennsylvania,42,Luzerne,079
+SOODO,United States,Pennsylvania,42,Lycoming,081
+SOODO,United States,Pennsylvania,42,Mercer,085
+SOODO,United States,Pennsylvania,42,Monroe,089
+SOODO,United States,Pennsylvania,42,Montgomery,091
+SOODO,United States,Pennsylvania,42,Northampton,095
+SOODO,United States,Pennsylvania,42,Philadelphia,101
+SOODO,United States,Pennsylvania,42,Pike,103
+SOODO,United States,Pennsylvania,42,Schuylkill,107
+SOODO,United States,Pennsylvania,42,Snyder,109
+SOODO,United States,Pennsylvania,42,Wayne,127
+SOODO,United States,Pennsylvania,42,York,133
+SOODO,United States,Rhode Island,44,,
+SOODO,United States,Rhode Island,44,Newport,005
+SOODO,United States,Rhode Island,44,Providence,007
+SOODO,United States,Rhode Island,44,Washington,009
+SOODO,United States,South Carolina,45,,
+SOODO,United States,South Carolina,45,Abbeville,001
+SOODO,United States,South Carolina,45,Aiken,003
+SOODO,United States,South Carolina,45,Bamberg,009
+SOODO,United States,South Carolina,45,Barnwell,011
+SOODO,United States,South Carolina,45,Beaufort,013
+SOODO,United States,South Carolina,45,Berkeley,015
+SOODO,United States,South Carolina,45,Calhoun,017
+SOODO,United States,South Carolina,45,Charleston,019
+SOODO,United States,South Carolina,45,Cherokee,021
+SOODO,United States,South Carolina,45,Chesterfield,025
+SOODO,United States,South Carolina,45,Clarendon,027
+SOODO,United States,South Carolina,45,Colleton,029
+SOODO,United States,South Carolina,45,Darlington,031
+SOODO,United States,South Carolina,45,Dillon,033
+SOODO,United States,South Carolina,45,Dorchester,035
+SOODO,United States,South Carolina,45,Edgefield,037
+SOODO,United States,South Carolina,45,Florence,041
+SOODO,United States,South Carolina,45,Georgetown,043
+SOODO,United States,South Carolina,45,Greenville,045
+SOODO,United States,South Carolina,45,Hampton,049
+SOODO,United States,South Carolina,45,Horry,051
+SOODO,United States,South Carolina,45,Jasper,053
+SOODO,United States,South Carolina,45,Kershaw,055
+SOODO,United States,South Carolina,45,Lancaster,057
+SOODO,United States,South Carolina,45,Laurens,059
+SOODO,United States,South Carolina,45,Lee,061
+SOODO,United States,South Carolina,45,Lexington,063
+SOODO,United States,South Carolina,45,Marion,067
+SOODO,United States,South Carolina,45,Marlboro,069
+SOODO,United States,South Carolina,45,McCormick,065
+SOODO,United States,South Carolina,45,Oconee,073
+SOODO,United States,South Carolina,45,Orangeburg,075
+SOODO,United States,South Carolina,45,Pickens,077
+SOODO,United States,South Carolina,45,Richland,079
+SOODO,United States,South Carolina,45,Saluda,081
+SOODO,United States,South Carolina,45,Spartanburg,083
+SOODO,United States,South Carolina,45,Sumter,085
+SOODO,United States,South Carolina,45,Williamsburg,089
+SOODO,United States,South Carolina,45,York,091
+SOODO,United States,Tennessee,47,,
+SOODO,United States,Tennessee,47,Bledsoe,007
+SOODO,United States,Tennessee,47,Blount,009
+SOODO,United States,Tennessee,47,Cannon,015
+SOODO,United States,Tennessee,47,Carter,019
+SOODO,United States,Tennessee,47,Claiborne,025
+SOODO,United States,Tennessee,47,Cocke,029
+SOODO,United States,Tennessee,47,Coffee,031
+SOODO,United States,Tennessee,47,Cumberland,035
+SOODO,United States,Tennessee,47,Dickson,043
+SOODO,United States,Tennessee,47,Fayette,047
+SOODO,United States,Tennessee,47,Fentress,049
+SOODO,United States,Tennessee,47,Franklin,051
+SOODO,United States,Tennessee,47,Grundy,061
+SOODO,United States,Tennessee,47,Hamilton,065
+SOODO,United States,Tennessee,47,Hardin,071
+SOODO,United States,Tennessee,47,Hawkins,073
+SOODO,United States,Tennessee,47,Henderson,077
+SOODO,United States,Tennessee,47,Hickman,081
+SOODO,United States,Tennessee,47,Jackson,087
+SOODO,United States,Tennessee,47,Knox,093
+SOODO,United States,Tennessee,47,Lawrence,099
+SOODO,United States,Tennessee,47,Lewis,101
+SOODO,United States,Tennessee,47,Madison,113
+SOODO,United States,Tennessee,47,McMinn,107
+SOODO,United States,Tennessee,47,McNairy,109
+SOODO,United States,Tennessee,47,Monroe,123
+SOODO,United States,Tennessee,47,Morgan,129
+SOODO,United States,Tennessee,47,Overton,133
+SOODO,United States,Tennessee,47,Polk,139
+SOODO,United States,Tennessee,47,Putnam,141
+SOODO,United States,Tennessee,47,Rhea,143
+SOODO,United States,Tennessee,47,Roane,145
+SOODO,United States,Tennessee,47,Scott,151
+SOODO,United States,Tennessee,47,Sevier,155
+SOODO,United States,Tennessee,47,Stewart,161
+SOODO,United States,Tennessee,47,Sumner,165
+SOODO,United States,Tennessee,47,Unicoi,171
+SOODO,United States,Tennessee,47,Van Buren,175
+SOODO,United States,Tennessee,47,Wayne,181
+SOODO,United States,Tennessee,47,Williamson,187
+SOODO,United States,Texas,48,,
+SOODO,United States,Texas,48,Anderson,001
+SOODO,United States,Texas,48,Angelina,005
+SOODO,United States,Texas,48,Aransas,007
+SOODO,United States,Texas,48,Austin,015
+SOODO,United States,Texas,48,Bastrop,021
+SOODO,United States,Texas,48,Bowie,037
+SOODO,United States,Texas,48,Brazos,041
+SOODO,United States,Texas,48,Calhoun,057
+SOODO,United States,Texas,48,Chambers,071
+SOODO,United States,Texas,48,Freestone,161
+SOODO,United States,Texas,48,Galveston,167
+SOODO,United States,Texas,48,Hardin,199
+SOODO,United States,Texas,48,Henderson,213
+SOODO,United States,Texas,48,Jasper,241
+SOODO,United States,Texas,48,Jefferson,245
+SOODO,United States,Texas,48,Lamar,277
+SOODO,United States,Texas,48,Leon,289
+SOODO,United States,Texas,48,Medina,325
+SOODO,United States,Texas,48,Morris,343
+SOODO,United States,Texas,48,Nacogdoches,347
+SOODO,United States,Texas,48,Nueces,355
+SOODO,United States,Texas,48,Polk,373
+SOODO,United States,Texas,48,Sabine,403
+SOODO,United States,Texas,48,San Augustine,405
+SOODO,United States,Texas,48,San Jacinto,407
+SOODO,United States,Texas,48,San Patricio,409
+SOODO,United States,Texas,48,Smith,423
+SOODO,United States,Texas,48,Titus,449
+SOODO,United States,Texas,48,Tyler,457
+SOODO,United States,Texas,48,Upshur,459
+SOODO,United States,Texas,48,Walker,471
+SOODO,United States,Vermont,50,,
+SOODO,United States,Vermont,50,Windham,025
+SOODO,United States,Virginia,51,,
+SOODO,United States,Virginia,51,Accomack,001
+SOODO,United States,Virginia,51,Albemarle,003
+SOODO,United States,Virginia,51,Alleghany,005
+SOODO,United States,Virginia,51,Amelia,007
+SOODO,United States,Virginia,51,Amherst,009
+SOODO,United States,Virginia,51,Appomattox,011
+SOODO,United States,Virginia,51,Augusta,015
+SOODO,United States,Virginia,51,Bedford,019
+SOODO,United States,Virginia,51,Botetourt,023
+SOODO,United States,Virginia,51,Brunswick,025
+SOODO,United States,Virginia,51,Buckingham,029
+SOODO,United States,Virginia,51,Campbell,031
+SOODO,United States,Virginia,51,Charles City,036
+SOODO,United States,Virginia,51,Chesapeake ,550
+SOODO,United States,Virginia,51,Chesterfield,041
+SOODO,United States,Virginia,51,Craig,045
+SOODO,United States,Virginia,51,Cumberland,049
+SOODO,United States,Virginia,51,Dickenson,051
+SOODO,United States,Virginia,51,Dinwiddie,053
+SOODO,United States,Virginia,51,Essex,057
+SOODO,United States,Virginia,51,Fluvanna,065
+SOODO,United States,Virginia,51,Franklin,067
+SOODO,United States,Virginia,51,Giles,071
+SOODO,United States,Virginia,51,Gloucester,073
+SOODO,United States,Virginia,51,Goochland,075
+SOODO,United States,Virginia,51,Greensville,081
+SOODO,United States,Virginia,51,Halifax,083
+SOODO,United States,Virginia,51,Hanover,085
+SOODO,United States,Virginia,51,Henrico,087
+SOODO,United States,Virginia,51,Isle of Wight,093
+SOODO,United States,Virginia,51,James City,095
+SOODO,United States,Virginia,51,King and Queen,097
+SOODO,United States,Virginia,51,King George,099
+SOODO,United States,Virginia,51,King William,101
+SOODO,United States,Virginia,51,Lancaster,103
+SOODO,United States,Virginia,51,Lee,105
+SOODO,United States,Virginia,51,Louisa,109
+SOODO,United States,Virginia,51,Lunenburg,111
+SOODO,United States,Virginia,51,Mathews,115
+SOODO,United States,Virginia,51,Mecklenburg,117
+SOODO,United States,Virginia,51,Middlesex,119
+SOODO,United States,Virginia,51,Nelson,125
+SOODO,United States,Virginia,51,New Kent,127
+SOODO,United States,Virginia,51,Newport News ,700
+SOODO,United States,Virginia,51,Northampton,131
+SOODO,United States,Virginia,51,Northumberland,133
+SOODO,United States,Virginia,51,Nottoway,135
+SOODO,United States,Virginia,51,Page,139
+SOODO,United States,Virginia,51,Patrick,141
+SOODO,United States,Virginia,51,Pittsylvania,143
+SOODO,United States,Virginia,51,Powhatan,145
+SOODO,United States,Virginia,51,Prince Edward,147
+SOODO,United States,Virginia,51,Prince George,149
+SOODO,United States,Virginia,51,Richmond,159
+SOODO,United States,Virginia,51,Roanoke,161
+SOODO,United States,Virginia,51,Rockbridge,163
+SOODO,United States,Virginia,51,Rockingham,165
+SOODO,United States,Virginia,51,Scott,169
+SOODO,United States,Virginia,51,Smyth,173
+SOODO,United States,Virginia,51,Southampton,175
+SOODO,United States,Virginia,51,Spotsylvania,177
+SOODO,United States,Virginia,51,Suffolk ,800
+SOODO,United States,Virginia,51,Surry,181
+SOODO,United States,Virginia,51,Sussex,183
+SOODO,United States,Virginia,51,Virginia Beach ,810
+SOODO,United States,Virginia,51,Washington,191
+SOODO,United States,Virginia,51,Wythe,197
+SOODO,United States,Virginia,51,York,199
+SOODO,United States,West Virginia,54,,
+SOODO,United States,West Virginia,54,Fayette,019
+SOODO,United States,West Virginia,54,Jackson,035
+SOODO,United States,West Virginia,54,Mercer,055
+SOODO,United States,West Virginia,54,Pocahontas,075
+SOODO,United States,West Virginia,54,Raleigh,081
+SOODO,United States,West Virginia,54,Randolph,083
+SOODO,United States,West Virginia,54,Wetzel,103

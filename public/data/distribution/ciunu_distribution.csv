@@ -1,0 +1,480 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+CIUNU,Canada,Alberta,01,,
+CIUNU,Canada,British Columbia,02,,
+CIUNU,Canada,Manitoba,03,,
+CIUNU,United States,Arizona,04,,
+CIUNU,United States,Arizona,04,Apache,001
+CIUNU,United States,Arizona,04,Cochise,003
+CIUNU,United States,Arizona,04,Coconino,005
+CIUNU,United States,Arizona,04,Pima,019
+CIUNU,United States,California,06,,
+CIUNU,United States,California,06,Lassen,035
+CIUNU,United States,California,06,Los Angeles,037
+CIUNU,United States,California,06,Modoc,049
+CIUNU,United States,California,06,Orange,059
+CIUNU,United States,California,06,Placer,061
+CIUNU,United States,California,06,Plumas,063
+CIUNU,United States,California,06,Riverside,065
+CIUNU,United States,California,06,San Diego,073
+CIUNU,United States,California,06,San Luis Obispo,079
+CIUNU,United States,California,06,Shasta,089
+CIUNU,United States,California,06,Sierra,091
+CIUNU,United States,California,06,Siskiyou,093
+CIUNU,United States,Colorado,08,,
+CIUNU,Canada,Saskatchewan,11,,
+CIUNU,United States,Georgia,13,,
+CIUNU,United States,Idaho,16,,
+CIUNU,United States,Idaho,16,Ada,001
+CIUNU,United States,Idaho,16,Fremont,043
+CIUNU,United States,Idaho,16,Idaho,049
+CIUNU,United States,Idaho,16,Kootenai,055
+CIUNU,United States,Idaho,16,Latah,057
+CIUNU,United States,Idaho,16,Nez Perce,069
+CIUNU,United States,Illinois,17,,
+CIUNU,United States,Indiana,18,,
+CIUNU,United States,Iowa,19,,
+CIUNU,United States,Iowa,19,Fremont,071
+CIUNU,United States,Kansas,20,,
+CIUNU,United States,Kansas,20,Allen,001
+CIUNU,United States,Kansas,20,Anderson,003
+CIUNU,United States,Kansas,20,Atchison,005
+CIUNU,United States,Kansas,20,Barber,007
+CIUNU,United States,Kansas,20,Barton,009
+CIUNU,United States,Kansas,20,Bourbon,011
+CIUNU,United States,Kansas,20,Brown,013
+CIUNU,United States,Kansas,20,Butler,015
+CIUNU,United States,Kansas,20,Chase,017
+CIUNU,United States,Kansas,20,Chautauqua,019
+CIUNU,United States,Kansas,20,Cherokee,021
+CIUNU,United States,Kansas,20,Cheyenne,023
+CIUNU,United States,Kansas,20,Clark,025
+CIUNU,United States,Kansas,20,Clay,027
+CIUNU,United States,Kansas,20,Cloud,029
+CIUNU,United States,Kansas,20,Coffey,031
+CIUNU,United States,Kansas,20,Comanche,033
+CIUNU,United States,Kansas,20,Cowley,035
+CIUNU,United States,Kansas,20,Crawford,037
+CIUNU,United States,Kansas,20,Decatur,039
+CIUNU,United States,Kansas,20,Dickinson,041
+CIUNU,United States,Kansas,20,Doniphan,043
+CIUNU,United States,Kansas,20,Douglas,045
+CIUNU,United States,Kansas,20,Edwards,047
+CIUNU,United States,Kansas,20,Elk,049
+CIUNU,United States,Kansas,20,Ellis,051
+CIUNU,United States,Kansas,20,Ellsworth,053
+CIUNU,United States,Kansas,20,Finney,055
+CIUNU,United States,Kansas,20,Ford,057
+CIUNU,United States,Kansas,20,Franklin,059
+CIUNU,United States,Kansas,20,Geary,061
+CIUNU,United States,Kansas,20,Gove,063
+CIUNU,United States,Kansas,20,Graham,065
+CIUNU,United States,Kansas,20,Grant,067
+CIUNU,United States,Kansas,20,Gray,069
+CIUNU,United States,Kansas,20,Greeley,071
+CIUNU,United States,Kansas,20,Greenwood,073
+CIUNU,United States,Kansas,20,Hamilton,075
+CIUNU,United States,Kansas,20,Harper,077
+CIUNU,United States,Kansas,20,Harvey,079
+CIUNU,United States,Kansas,20,Haskell,081
+CIUNU,United States,Kansas,20,Hodgeman,083
+CIUNU,United States,Kansas,20,Jackson,085
+CIUNU,United States,Kansas,20,Jefferson,087
+CIUNU,United States,Kansas,20,Jewell,089
+CIUNU,United States,Kansas,20,Johnson,091
+CIUNU,United States,Kansas,20,Kearny,093
+CIUNU,United States,Kansas,20,Kingman,095
+CIUNU,United States,Kansas,20,Kiowa,097
+CIUNU,United States,Kansas,20,Labette,099
+CIUNU,United States,Kansas,20,Lane,101
+CIUNU,United States,Kansas,20,Leavenworth,103
+CIUNU,United States,Kansas,20,Lincoln,105
+CIUNU,United States,Kansas,20,Linn,107
+CIUNU,United States,Kansas,20,Logan,109
+CIUNU,United States,Kansas,20,Lyon,111
+CIUNU,United States,Kansas,20,Marion,115
+CIUNU,United States,Kansas,20,Marshall,117
+CIUNU,United States,Kansas,20,McPherson,113
+CIUNU,United States,Kansas,20,Meade,119
+CIUNU,United States,Kansas,20,Miami,121
+CIUNU,United States,Kansas,20,Mitchell,123
+CIUNU,United States,Kansas,20,Morris,127
+CIUNU,United States,Kansas,20,Morton,129
+CIUNU,United States,Kansas,20,Nemaha,131
+CIUNU,United States,Kansas,20,Neosho,133
+CIUNU,United States,Kansas,20,Ness,135
+CIUNU,United States,Kansas,20,Norton,137
+CIUNU,United States,Kansas,20,Osage,139
+CIUNU,United States,Kansas,20,Osborne,141
+CIUNU,United States,Kansas,20,Ottawa,143
+CIUNU,United States,Kansas,20,Pawnee,145
+CIUNU,United States,Kansas,20,Phillips,147
+CIUNU,United States,Kansas,20,Pottawatomie,149
+CIUNU,United States,Kansas,20,Pratt,151
+CIUNU,United States,Kansas,20,Rawlins,153
+CIUNU,United States,Kansas,20,Reno,155
+CIUNU,United States,Kansas,20,Republic,157
+CIUNU,United States,Kansas,20,Rice,159
+CIUNU,United States,Kansas,20,Riley,161
+CIUNU,United States,Kansas,20,Rooks,163
+CIUNU,United States,Kansas,20,Rush,165
+CIUNU,United States,Kansas,20,Russell,167
+CIUNU,United States,Kansas,20,Saline,169
+CIUNU,United States,Kansas,20,Scott,171
+CIUNU,United States,Kansas,20,Sedgwick,173
+CIUNU,United States,Kansas,20,Seward,175
+CIUNU,United States,Kansas,20,Shawnee,177
+CIUNU,United States,Kansas,20,Sheridan,179
+CIUNU,United States,Kansas,20,Sherman,181
+CIUNU,United States,Kansas,20,Smith,183
+CIUNU,United States,Kansas,20,Stafford,185
+CIUNU,United States,Kansas,20,Stanton,187
+CIUNU,United States,Kansas,20,Stevens,189
+CIUNU,United States,Kansas,20,Sumner,191
+CIUNU,United States,Kansas,20,Thomas,193
+CIUNU,United States,Kansas,20,Trego,195
+CIUNU,United States,Kansas,20,Wabaunsee,197
+CIUNU,United States,Kansas,20,Wallace,199
+CIUNU,United States,Kansas,20,Washington,201
+CIUNU,United States,Kansas,20,Wichita,203
+CIUNU,United States,Kansas,20,Wilson,205
+CIUNU,United States,Kansas,20,Woodson,207
+CIUNU,United States,Kansas,20,Wyandotte,209
+CIUNU,United States,Michigan,26,,
+CIUNU,United States,Michigan,26,Emmet,047
+CIUNU,United States,Michigan,26,Washtenaw,161
+CIUNU,United States,Minnesota,27,,
+CIUNU,United States,Minnesota,27,Dakota,037
+CIUNU,United States,Missouri,29,,
+CIUNU,United States,Missouri,29,Atchison,005
+CIUNU,United States,Missouri,29,Jackson,095
+CIUNU,United States,Missouri,29,Lincoln,113
+CIUNU,United States,Missouri,29,St. Louis,189
+CIUNU,United States,Missouri,29,Wayne,223
+CIUNU,United States,Montana,30,,
+CIUNU,United States,Montana,30,Beaverhead,001
+CIUNU,United States,Montana,30,Big Horn,003
+CIUNU,United States,Montana,30,Broadwater,007
+CIUNU,United States,Montana,30,Carbon,009
+CIUNU,United States,Montana,30,Carter,011
+CIUNU,United States,Montana,30,Cascade,013
+CIUNU,United States,Montana,30,Chouteau,015
+CIUNU,United States,Montana,30,Custer,017
+CIUNU,United States,Montana,30,Daniels,019
+CIUNU,United States,Montana,30,Dawson,021
+CIUNU,United States,Montana,30,Deer Lodge,023
+CIUNU,United States,Montana,30,Fallon,025
+CIUNU,United States,Montana,30,Fergus,027
+CIUNU,United States,Montana,30,Flathead,029
+CIUNU,United States,Montana,30,Gallatin,031
+CIUNU,United States,Montana,30,Garfield,033
+CIUNU,United States,Montana,30,Glacier,035
+CIUNU,United States,Montana,30,Golden Valley,037
+CIUNU,United States,Montana,30,Granite,039
+CIUNU,United States,Montana,30,Jefferson,043
+CIUNU,United States,Montana,30,Judith Basin,045
+CIUNU,United States,Montana,30,Lake,047
+CIUNU,United States,Montana,30,Lewis and Clark,049
+CIUNU,United States,Montana,30,Madison,057
+CIUNU,United States,Montana,30,McCone,055
+CIUNU,United States,Montana,30,Meagher,059
+CIUNU,United States,Montana,30,Missoula,063
+CIUNU,United States,Montana,30,Musselshell,065
+CIUNU,United States,Montana,30,Park,067
+CIUNU,United States,Montana,30,Petroleum,069
+CIUNU,United States,Montana,30,Phillips,071
+CIUNU,United States,Montana,30,Powder River,075
+CIUNU,United States,Montana,30,Powell,077
+CIUNU,United States,Montana,30,Prairie,079
+CIUNU,United States,Montana,30,Ravalli,081
+CIUNU,United States,Montana,30,Richland,083
+CIUNU,United States,Montana,30,Roosevelt,085
+CIUNU,United States,Montana,30,Rosebud,087
+CIUNU,United States,Montana,30,Sheridan,091
+CIUNU,United States,Montana,30,Silver Bow,093
+CIUNU,United States,Montana,30,Stillwater,095
+CIUNU,United States,Montana,30,Sweet Grass,097
+CIUNU,United States,Montana,30,Teton,099
+CIUNU,United States,Montana,30,Toole,101
+CIUNU,United States,Montana,30,Valley,105
+CIUNU,United States,Montana,30,Wheatland,107
+CIUNU,United States,Montana,30,Wibaux,109
+CIUNU,United States,Montana,30,Yellowstone,111
+CIUNU,United States,Nebraska,31,,
+CIUNU,United States,Nebraska,31,Banner,007
+CIUNU,United States,Nebraska,31,Blaine,009
+CIUNU,United States,Nebraska,31,Box Butte,013
+CIUNU,United States,Nebraska,31,Boyd,015
+CIUNU,United States,Nebraska,31,Brown,017
+CIUNU,United States,Nebraska,31,Chase,029
+CIUNU,United States,Nebraska,31,Cherry,031
+CIUNU,United States,Nebraska,31,Cheyenne,033
+CIUNU,United States,Nebraska,31,Custer,041
+CIUNU,United States,Nebraska,31,Dawes,045
+CIUNU,United States,Nebraska,31,Deuel,049
+CIUNU,United States,Nebraska,31,Dundy,057
+CIUNU,United States,Nebraska,31,Franklin,061
+CIUNU,United States,Nebraska,31,Furnas,065
+CIUNU,United States,Nebraska,31,Garden,069
+CIUNU,United States,Nebraska,31,Hall,079
+CIUNU,United States,Nebraska,31,Harlan,083
+CIUNU,United States,Nebraska,31,Hitchcock,087
+CIUNU,United States,Nebraska,31,Holt,089
+CIUNU,United States,Nebraska,31,Jefferson,095
+CIUNU,United States,Nebraska,31,Kimball,105
+CIUNU,United States,Nebraska,31,Knox,107
+CIUNU,United States,Nebraska,31,Lancaster,109
+CIUNU,United States,Nebraska,31,Lincoln,111
+CIUNU,United States,Nebraska,31,Logan,113
+CIUNU,United States,Nebraska,31,McPherson,117
+CIUNU,United States,Nebraska,31,Morrill,123
+CIUNU,United States,Nebraska,31,Perkins,135
+CIUNU,United States,Nebraska,31,Red Willow,145
+CIUNU,United States,Nebraska,31,Scotts Bluff,157
+CIUNU,United States,Nebraska,31,Seward,159
+CIUNU,United States,Nebraska,31,Sheridan,161
+CIUNU,United States,Nebraska,31,Sherman,163
+CIUNU,United States,Nebraska,31,Sioux,165
+CIUNU,United States,Nebraska,31,Valley,175
+CIUNU,United States,Nebraska,31,Webster,181
+CIUNU,United States,Nevada,32,,
+CIUNU,United States,Nevada,32,Washoe,031
+CIUNU,United States,New Mexico,35,,
+CIUNU,United States,New Mexico,35,Catron,003
+CIUNU,United States,New Mexico,35,Colfax,007
+CIUNU,United States,New Mexico,35,Dona Ana,013
+CIUNU,United States,New Mexico,35,Eddy,015
+CIUNU,United States,New Mexico,35,Grant,017
+CIUNU,United States,New Mexico,35,Harding,021
+CIUNU,United States,New Mexico,35,Lincoln,027
+CIUNU,United States,New Mexico,35,Los Alamos,028
+CIUNU,United States,New Mexico,35,Mora,033
+CIUNU,United States,New Mexico,35,Otero,035
+CIUNU,United States,New Mexico,35,Quay,037
+CIUNU,United States,New Mexico,35,Rio Arriba,039
+CIUNU,United States,New Mexico,35,Roosevelt,041
+CIUNU,United States,New Mexico,35,San Juan,045
+CIUNU,United States,New Mexico,35,San Miguel,047
+CIUNU,United States,New Mexico,35,Sandoval,043
+CIUNU,United States,New Mexico,35,Socorro,053
+CIUNU,United States,New Mexico,35,Union,059
+CIUNU,United States,North Dakota,38,,
+CIUNU,United States,North Dakota,38,Barnes,003
+CIUNU,United States,North Dakota,38,Billings,007
+CIUNU,United States,North Dakota,38,Bowman,011
+CIUNU,United States,North Dakota,38,Burke,013
+CIUNU,United States,North Dakota,38,Burleigh,015
+CIUNU,United States,North Dakota,38,Cass,017
+CIUNU,United States,North Dakota,38,Cavalier,019
+CIUNU,United States,North Dakota,38,Divide,023
+CIUNU,United States,North Dakota,38,Dunn,025
+CIUNU,United States,North Dakota,38,Eddy,027
+CIUNU,United States,North Dakota,38,Emmons,029
+CIUNU,United States,North Dakota,38,Golden Valley,033
+CIUNU,United States,North Dakota,38,Grand Forks,035
+CIUNU,United States,North Dakota,38,Grant,037
+CIUNU,United States,North Dakota,38,Hettinger,041
+CIUNU,United States,North Dakota,38,Kidder,043
+CIUNU,United States,North Dakota,38,Logan,047
+CIUNU,United States,North Dakota,38,McKenzie,053
+CIUNU,United States,North Dakota,38,McLean,055
+CIUNU,United States,North Dakota,38,Mercer,057
+CIUNU,United States,North Dakota,38,Morton,059
+CIUNU,United States,North Dakota,38,Mountrail,061
+CIUNU,United States,North Dakota,38,Oliver,065
+CIUNU,United States,North Dakota,38,Pembina,067
+CIUNU,United States,North Dakota,38,Ransom,073
+CIUNU,United States,North Dakota,38,Richland,077
+CIUNU,United States,North Dakota,38,Rolette,079
+CIUNU,United States,North Dakota,38,Sargent,081
+CIUNU,United States,North Dakota,38,Sheridan,083
+CIUNU,United States,North Dakota,38,Slope,087
+CIUNU,United States,North Dakota,38,Stark,089
+CIUNU,United States,North Dakota,38,Stutsman,093
+CIUNU,United States,North Dakota,38,Williams,105
+CIUNU,United States,Oklahoma,40,,
+CIUNU,United States,Oklahoma,40,Beaver,007
+CIUNU,United States,Oklahoma,40,Beckham,009
+CIUNU,United States,Oklahoma,40,Bryan,013
+CIUNU,United States,Oklahoma,40,Canadian,017
+CIUNU,United States,Oklahoma,40,Carter,019
+CIUNU,United States,Oklahoma,40,Cimarron,025
+CIUNU,United States,Oklahoma,40,Cleveland,027
+CIUNU,United States,Oklahoma,40,Comanche,031
+CIUNU,United States,Oklahoma,40,Creek,037
+CIUNU,United States,Oklahoma,40,Custer,039
+CIUNU,United States,Oklahoma,40,Grady,051
+CIUNU,United States,Oklahoma,40,Kingfisher,073
+CIUNU,United States,Oklahoma,40,Lincoln,081
+CIUNU,United States,Oklahoma,40,Logan,083
+CIUNU,United States,Oklahoma,40,Love,085
+CIUNU,United States,Oklahoma,40,Marshall,095
+CIUNU,United States,Oklahoma,40,McClain,087
+CIUNU,United States,Oklahoma,40,Murray,099
+CIUNU,United States,Oklahoma,40,Oklahoma,109
+CIUNU,United States,Oklahoma,40,Payne,119
+CIUNU,United States,Oklahoma,40,Pottawatomie,125
+CIUNU,United States,Oklahoma,40,Roger Mills,129
+CIUNU,United States,Oklahoma,40,Rogers,131
+CIUNU,United States,Oklahoma,40,Tillman,141
+CIUNU,United States,Oklahoma,40,Tulsa,143
+CIUNU,United States,Oklahoma,40,Washita,149
+CIUNU,United States,Oklahoma,40,Woods,151
+CIUNU,United States,Oklahoma,40,Woodward,153
+CIUNU,United States,Oregon,41,,
+CIUNU,United States,Oregon,41,Crook,013
+CIUNU,United States,Oregon,41,Gilliam,021
+CIUNU,United States,Oregon,41,Grant,023
+CIUNU,United States,Oregon,41,Harney,025
+CIUNU,United States,Oregon,41,Jefferson,031
+CIUNU,United States,Oregon,41,Klamath,035
+CIUNU,United States,Oregon,41,Sherman,055
+CIUNU,United States,Oregon,41,Umatilla,059
+CIUNU,United States,Oregon,41,Wallowa,063
+CIUNU,United States,Oregon,41,Wasco,065
+CIUNU,United States,Oregon,41,Wheeler,069
+CIUNU,United States,Pennsylvania,42,,
+CIUNU,United States,Pennsylvania,42,Erie,049
+CIUNU,United States,South Dakota,46,,
+CIUNU,United States,South Dakota,46,Bennett,007
+CIUNU,United States,South Dakota,46,Brule,015
+CIUNU,United States,South Dakota,46,Charles Mix,023
+CIUNU,United States,South Dakota,46,Clay,027
+CIUNU,United States,South Dakota,46,Codington,029
+CIUNU,United States,South Dakota,46,Corson,031
+CIUNU,United States,South Dakota,46,Custer,033
+CIUNU,United States,South Dakota,46,Dewey,041
+CIUNU,United States,South Dakota,46,Fall River,047
+CIUNU,United States,South Dakota,46,Faulk,049
+CIUNU,United States,South Dakota,46,Gregory,053
+CIUNU,United States,South Dakota,46,Haakon,055
+CIUNU,United States,South Dakota,46,Harding,063
+CIUNU,United States,South Dakota,46,Hutchinson,067
+CIUNU,United States,South Dakota,46,Jackson,071
+CIUNU,United States,South Dakota,46,Jones,075
+CIUNU,United States,South Dakota,46,Lawrence,081
+CIUNU,United States,South Dakota,46,Lincoln,083
+CIUNU,United States,South Dakota,46,Lyman,085
+CIUNU,United States,South Dakota,46,Mellette,095
+CIUNU,United States,South Dakota,46,Pennington,103
+CIUNU,United States,South Dakota,46,Sanborn,111
+CIUNU,United States,South Dakota,46,Stanley,117
+CIUNU,United States,South Dakota,46,Todd,121
+CIUNU,United States,South Dakota,46,Tripp,123
+CIUNU,United States,South Dakota,46,Walworth,129
+CIUNU,United States,Texas,48,,
+CIUNU,United States,Texas,48,Archer,009
+CIUNU,United States,Texas,48,Armstrong,011
+CIUNU,United States,Texas,48,Bailey,017
+CIUNU,United States,Texas,48,Bandera,019
+CIUNU,United States,Texas,48,Bell,027
+CIUNU,United States,Texas,48,Brewster,043
+CIUNU,United States,Texas,48,Brown,049
+CIUNU,United States,Texas,48,Burnet,053
+CIUNU,United States,Texas,48,Carson,065
+CIUNU,United States,Texas,48,Clay,077
+CIUNU,United States,Texas,48,Coleman,083
+CIUNU,United States,Texas,48,Collin,085
+CIUNU,United States,Texas,48,Comal,091
+CIUNU,United States,Texas,48,Coryell,099
+CIUNU,United States,Texas,48,Crockett,105
+CIUNU,United States,Texas,48,Crosby,107
+CIUNU,United States,Texas,48,Culberson,109
+CIUNU,United States,Texas,48,Dallas,113
+CIUNU,United States,Texas,48,Deaf Smith,117
+CIUNU,United States,Texas,48,Edwards,137
+CIUNU,United States,Texas,48,Ellis,139
+CIUNU,United States,Texas,48,Erath,143
+CIUNU,United States,Texas,48,Falls,145
+CIUNU,United States,Texas,48,Gillespie,171
+CIUNU,United States,Texas,48,Gray,179
+CIUNU,United States,Texas,48,Hemphill,211
+CIUNU,United States,Texas,48,Hill,217
+CIUNU,United States,Texas,48,Hudspeth,229
+CIUNU,United States,Texas,48,Hutchinson,233
+CIUNU,United States,Texas,48,Irion,235
+CIUNU,United States,Texas,48,Jack,237
+CIUNU,United States,Texas,48,Jeff Davis,243
+CIUNU,United States,Texas,48,Johnson,251
+CIUNU,United States,Texas,48,Kerr,265
+CIUNU,United States,Texas,48,Kimble,267
+CIUNU,United States,Texas,48,Lamb,279
+CIUNU,United States,Texas,48,Lipscomb,295
+CIUNU,United States,Texas,48,Madison,313
+CIUNU,United States,Texas,48,Oldham,359
+CIUNU,United States,Texas,48,Palo Pinto,363
+CIUNU,United States,Texas,48,Parker,367
+CIUNU,United States,Texas,48,Pecos,371
+CIUNU,United States,Texas,48,Potter,375
+CIUNU,United States,Texas,48,Presidio,377
+CIUNU,United States,Texas,48,Randall,381
+CIUNU,United States,Texas,48,Red River,387
+CIUNU,United States,Texas,48,Reeves,389
+CIUNU,United States,Texas,48,San Saba,411
+CIUNU,United States,Texas,48,Stephens,429
+CIUNU,United States,Texas,48,Sutton,435
+CIUNU,United States,Texas,48,Tarrant,439
+CIUNU,United States,Texas,48,Taylor,441
+CIUNU,United States,Texas,48,Wheeler,483
+CIUNU,United States,Texas,48,Williamson,491
+CIUNU,United States,Utah,49,,
+CIUNU,United States,Utah,49,Cache,005
+CIUNU,United States,Utah,49,Carbon,007
+CIUNU,United States,Utah,49,Daggett,009
+CIUNU,United States,Utah,49,Duchesne,013
+CIUNU,United States,Utah,49,Emery,015
+CIUNU,United States,Utah,49,Garfield,017
+CIUNU,United States,Utah,49,Grand,019
+CIUNU,United States,Utah,49,Juab,023
+CIUNU,United States,Utah,49,Rich,033
+CIUNU,United States,Utah,49,Salt Lake,035
+CIUNU,United States,Utah,49,San Juan,037
+CIUNU,United States,Utah,49,Sanpete,039
+CIUNU,United States,Utah,49,Sevier,041
+CIUNU,United States,Utah,49,Summit,043
+CIUNU,United States,Utah,49,Tooele,045
+CIUNU,United States,Utah,49,Uintah,047
+CIUNU,United States,Utah,49,Utah,049
+CIUNU,United States,Utah,49,Wasatch,051
+CIUNU,United States,Utah,49,Weber,057
+CIUNU,United States,Washington,53,,
+CIUNU,United States,Washington,53,Adams,001
+CIUNU,United States,Washington,53,Asotin,003
+CIUNU,United States,Washington,53,Benton,005
+CIUNU,United States,Washington,53,Chelan,007
+CIUNU,United States,Washington,53,Columbia,013
+CIUNU,United States,Washington,53,Douglas,017
+CIUNU,United States,Washington,53,Ferry,019
+CIUNU,United States,Washington,53,Grant,025
+CIUNU,United States,Washington,53,Klickitat,039
+CIUNU,United States,Washington,53,Lincoln,043
+CIUNU,United States,Washington,53,Okanogan,047
+CIUNU,United States,Washington,53,Pend Oreille,051
+CIUNU,United States,Washington,53,Spokane,063
+CIUNU,United States,Washington,53,Stevens,065
+CIUNU,United States,Washington,53,Whitman,075
+CIUNU,United States,Washington,53,Yakima,077
+CIUNU,United States,Wisconsin,55,,
+CIUNU,United States,Wisconsin,55,Dane,025
+CIUNU,United States,Wisconsin,55,Lincoln,069
+CIUNU,United States,Wisconsin,55,Waukesha,133
+CIUNU,United States,Wyoming,56,,
+CIUNU,United States,Wyoming,56,Albany,001
+CIUNU,United States,Wyoming,56,Big Horn,003
+CIUNU,United States,Wyoming,56,Campbell,005
+CIUNU,United States,Wyoming,56,Converse,009
+CIUNU,United States,Wyoming,56,Crook,011
+CIUNU,United States,Wyoming,56,Fremont,013
+CIUNU,United States,Wyoming,56,Goshen,015
+CIUNU,United States,Wyoming,56,Johnson,019
+CIUNU,United States,Wyoming,56,Laramie,021
+CIUNU,United States,Wyoming,56,Lincoln,023
+CIUNU,United States,Wyoming,56,Natrona,025
+CIUNU,United States,Wyoming,56,Niobrara,027
+CIUNU,United States,Wyoming,56,Park,029
+CIUNU,United States,Wyoming,56,Platte,031
+CIUNU,United States,Wyoming,56,Sheridan,033
+CIUNU,United States,Wyoming,56,Sweetwater,037
+CIUNU,United States,Wyoming,56,Uinta,041
+CIUNU,United States,Wyoming,56,Washakie,043
+CIUNU,United States,Wyoming,56,Weston,045

@@ -1,0 +1,572 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ACRAR,United States,Alabama,01,,
+ACRAR,United States,Alabama,01,Cullman,043
+ACRAR,United States,Alabama,01,St. Clair,115
+ACRAR,United States,Arkansas,05,,
+ACRAR,United States,Arkansas,05,Benton,007
+ACRAR,United States,Arkansas,05,Carroll,015
+ACRAR,United States,Arkansas,05,Cleburne,023
+ACRAR,United States,Arkansas,05,Independence,063
+ACRAR,United States,Arkansas,05,Madison,087
+ACRAR,United States,Arkansas,05,Newton,101
+ACRAR,United States,Arkansas,05,Pope,115
+ACRAR,United States,Arkansas,05,Randolph,121
+ACRAR,United States,Arkansas,05,Searcy,129
+ACRAR,United States,Arkansas,05,Stone,137
+ACRAR,United States,Arkansas,05,Van Buren,141
+ACRAR,United States,Arkansas,05,Washington,143
+ACRAR,Canada,Ontario,08,,
+ACRAR,United States,Connecticut,09,,
+ACRAR,United States,Connecticut,09,Fairfield,001
+ACRAR,United States,Connecticut,09,Hartford,003
+ACRAR,United States,Connecticut,09,Litchfield,005
+ACRAR,United States,Connecticut,09,New Haven,009
+ACRAR,Canada,Quebec,10,,
+ACRAR,United States,Delaware,10,,
+ACRAR,United States,Delaware,10,New Castle,003
+ACRAR,United States,Delaware,10,Sussex,005
+ACRAR,United States,District of Columbia,11,,
+ACRAR,United States,District of Columbia,11,District of Columbia,001
+ACRAR,United States,Georgia,13,,
+ACRAR,United States,Georgia,13,Bartow,015
+ACRAR,United States,Georgia,13,Burke,033
+ACRAR,United States,Georgia,13,Carroll,045
+ACRAR,United States,Georgia,13,Chattooga,055
+ACRAR,United States,Georgia,13,Clarke,059
+ACRAR,United States,Georgia,13,Dawson,085
+ACRAR,United States,Georgia,13,Elbert,105
+ACRAR,United States,Georgia,13,Floyd,115
+ACRAR,United States,Georgia,13,Forsyth,117
+ACRAR,United States,Georgia,13,Gilmer,123
+ACRAR,United States,Georgia,13,Hall,139
+ACRAR,United States,Georgia,13,Harris,145
+ACRAR,United States,Georgia,13,Lumpkin,187
+ACRAR,United States,Georgia,13,Morgan,211
+ACRAR,United States,Georgia,13,Murray,213
+ACRAR,United States,Georgia,13,Pickens,227
+ACRAR,United States,Georgia,13,Rabun,241
+ACRAR,United States,Georgia,13,Spalding,255
+ACRAR,United States,Georgia,13,Stephens,257
+ACRAR,United States,Georgia,13,Towns,281
+ACRAR,United States,Georgia,13,Union,291
+ACRAR,United States,Georgia,13,Walker,295
+ACRAR,United States,Georgia,13,White,311
+ACRAR,United States,Georgia,13,Whitfield,313
+ACRAR,United States,Illinois,17,,
+ACRAR,United States,Illinois,17,Carroll,015
+ACRAR,United States,Illinois,17,Cook,031
+ACRAR,United States,Illinois,17,Hardin,069
+ACRAR,United States,Illinois,17,Kendall,093
+ACRAR,United States,Illinois,17,Lake,097
+ACRAR,United States,Illinois,17,Pope,151
+ACRAR,United States,Illinois,17,St. Clair,163
+ACRAR,United States,Illinois,17,Wabash,185
+ACRAR,United States,Indiana,18,,
+ACRAR,United States,Indiana,18,Allen,003
+ACRAR,United States,Indiana,18,Bartholomew,005
+ACRAR,United States,Indiana,18,Crawford,025
+ACRAR,United States,Indiana,18,Dearborn,029
+ACRAR,United States,Indiana,18,Fayette,041
+ACRAR,United States,Indiana,18,Floyd,043
+ACRAR,United States,Indiana,18,Franklin,047
+ACRAR,United States,Indiana,18,Harrison,061
+ACRAR,United States,Indiana,18,Jackson,071
+ACRAR,United States,Indiana,18,Jefferson,077
+ACRAR,United States,Indiana,18,Jennings,079
+ACRAR,United States,Indiana,18,Ohio,115
+ACRAR,United States,Indiana,18,Perry,123
+ACRAR,United States,Indiana,18,Ripley,137
+ACRAR,United States,Indiana,18,Tippecanoe,157
+ACRAR,United States,Indiana,18,Washington,175
+ACRAR,United States,Indiana,18,Wayne,177
+ACRAR,United States,Iowa,19,,
+ACRAR,United States,Kentucky,21,,
+ACRAR,United States,Kentucky,21,Bell,013
+ACRAR,United States,Kentucky,21,Boone,015
+ACRAR,United States,Kentucky,21,Breathitt,025
+ACRAR,United States,Kentucky,21,Bullitt,029
+ACRAR,United States,Kentucky,21,Caldwell,033
+ACRAR,United States,Kentucky,21,Calloway,035
+ACRAR,United States,Kentucky,21,Campbell,037
+ACRAR,United States,Kentucky,21,Carter,043
+ACRAR,United States,Kentucky,21,Clay,051
+ACRAR,United States,Kentucky,21,Clinton,053
+ACRAR,United States,Kentucky,21,Crittenden,055
+ACRAR,United States,Kentucky,21,Cumberland,057
+ACRAR,United States,Kentucky,21,Elliott,063
+ACRAR,United States,Kentucky,21,Estill,065
+ACRAR,United States,Kentucky,21,Fleming,069
+ACRAR,United States,Kentucky,21,Floyd,071
+ACRAR,United States,Kentucky,21,Grant,081
+ACRAR,United States,Kentucky,21,Greenup,089
+ACRAR,United States,Kentucky,21,Harlan,095
+ACRAR,United States,Kentucky,21,Henry,103
+ACRAR,United States,Kentucky,21,Jefferson,111
+ACRAR,United States,Kentucky,21,Kenton,117
+ACRAR,United States,Kentucky,21,Knott,119
+ACRAR,United States,Kentucky,21,Larue,123
+ACRAR,United States,Kentucky,21,Laurel,125
+ACRAR,United States,Kentucky,21,Lee,129
+ACRAR,United States,Kentucky,21,Leslie,131
+ACRAR,United States,Kentucky,21,Letcher,133
+ACRAR,United States,Kentucky,21,Lewis,135
+ACRAR,United States,Kentucky,21,Lincoln,137
+ACRAR,United States,Kentucky,21,Lyon,143
+ACRAR,United States,Kentucky,21,Madison,151
+ACRAR,United States,Kentucky,21,Magoffin,153
+ACRAR,United States,Kentucky,21,Marshall,157
+ACRAR,United States,Kentucky,21,McCreary,147
+ACRAR,United States,Kentucky,21,Meade,163
+ACRAR,United States,Kentucky,21,Menifee,165
+ACRAR,United States,Kentucky,21,Metcalfe,169
+ACRAR,United States,Kentucky,21,Montgomery,173
+ACRAR,United States,Kentucky,21,Morgan,175
+ACRAR,United States,Kentucky,21,Nicholas,181
+ACRAR,United States,Kentucky,21,Oldham,185
+ACRAR,United States,Kentucky,21,Owen,187
+ACRAR,United States,Kentucky,21,Pendleton,191
+ACRAR,United States,Kentucky,21,Perry,193
+ACRAR,United States,Kentucky,21,Pike,195
+ACRAR,United States,Kentucky,21,Powell,197
+ACRAR,United States,Kentucky,21,Pulaski,199
+ACRAR,United States,Kentucky,21,Rockcastle,203
+ACRAR,United States,Kentucky,21,Rowan,205
+ACRAR,United States,Kentucky,21,Russell,207
+ACRAR,United States,Kentucky,21,Trigg,221
+ACRAR,United States,Kentucky,21,Trimble,223
+ACRAR,United States,Kentucky,21,Wayne,231
+ACRAR,United States,Kentucky,21,Webster,233
+ACRAR,United States,Kentucky,21,Whitley,235
+ACRAR,United States,Maine,23,,
+ACRAR,United States,Maine,23,York,031
+ACRAR,United States,Maryland,24,,
+ACRAR,United States,Massachusetts,25,,
+ACRAR,United States,Massachusetts,25,Berkshire,003
+ACRAR,United States,Massachusetts,25,Franklin,011
+ACRAR,United States,Massachusetts,25,Hampden,013
+ACRAR,United States,Massachusetts,25,Hampshire,015
+ACRAR,United States,Massachusetts,25,Suffolk,025
+ACRAR,United States,Michigan,26,,
+ACRAR,United States,Michigan,26,Washtenaw,161
+ACRAR,United States,Mississippi,28,,
+ACRAR,United States,Mississippi,28,Tishomingo,141
+ACRAR,United States,Missouri,29,,
+ACRAR,United States,Missouri,29,Barry,009
+ACRAR,United States,Missouri,29,Bollinger,017
+ACRAR,United States,Missouri,29,Butler,023
+ACRAR,United States,Missouri,29,Carter,035
+ACRAR,United States,Missouri,29,Christian,043
+ACRAR,United States,Missouri,29,Crawford,055
+ACRAR,United States,Missouri,29,Dallas,059
+ACRAR,United States,Missouri,29,Dent,065
+ACRAR,United States,Missouri,29,Douglas,067
+ACRAR,United States,Missouri,29,Greene,077
+ACRAR,United States,Missouri,29,Howell,091
+ACRAR,United States,Missouri,29,Iron,093
+ACRAR,United States,Missouri,29,Jasper,097
+ACRAR,United States,Missouri,29,Madison,123
+ACRAR,United States,Missouri,29,Newton,145
+ACRAR,United States,Missouri,29,Oregon,149
+ACRAR,United States,Missouri,29,Ozark,153
+ACRAR,United States,Missouri,29,Reynolds,179
+ACRAR,United States,Missouri,29,Ripley,181
+ACRAR,United States,Missouri,29,Shannon,203
+ACRAR,United States,Missouri,29,St. Francois,187
+ACRAR,United States,Missouri,29,St. Louis,189
+ACRAR,United States,Missouri,29,Ste. Genevieve,186
+ACRAR,United States,Missouri,29,Stone,209
+ACRAR,United States,Missouri,29,Taney,213
+ACRAR,United States,Missouri,29,Texas,215
+ACRAR,United States,Missouri,29,Washington,221
+ACRAR,United States,Missouri,29,Wayne,223
+ACRAR,United States,Missouri,29,Webster,225
+ACRAR,United States,Missouri,29,Wright,229
+ACRAR,United States,New Jersey,34,,
+ACRAR,United States,New Jersey,34,Bergen,003
+ACRAR,United States,New Jersey,34,Burlington,005
+ACRAR,United States,New Jersey,34,Camden,007
+ACRAR,United States,New Jersey,34,Cape May,009
+ACRAR,United States,New Jersey,34,Essex,013
+ACRAR,United States,New Jersey,34,Gloucester,015
+ACRAR,United States,New Jersey,34,Hunterdon,019
+ACRAR,United States,New Jersey,34,Mercer,021
+ACRAR,United States,New Jersey,34,Middlesex,023
+ACRAR,United States,New Jersey,34,Morris,027
+ACRAR,United States,New Jersey,34,Passaic,031
+ACRAR,United States,New Jersey,34,Salem,033
+ACRAR,United States,New Jersey,34,Somerset,035
+ACRAR,United States,New Jersey,34,Sussex,037
+ACRAR,United States,New Jersey,34,Union,039
+ACRAR,United States,New Jersey,34,Warren,041
+ACRAR,United States,New York,36,,
+ACRAR,United States,New York,36,Bronx,005
+ACRAR,United States,New York,36,Broome,007
+ACRAR,United States,New York,36,Cattaraugus,009
+ACRAR,United States,New York,36,Chautauqua,013
+ACRAR,United States,New York,36,Chemung,015
+ACRAR,United States,New York,36,Chenango,017
+ACRAR,United States,New York,36,Columbia,021
+ACRAR,United States,New York,36,Dutchess,027
+ACRAR,United States,New York,36,Erie,029
+ACRAR,United States,New York,36,Fulton,035
+ACRAR,United States,New York,36,Kings,047
+ACRAR,United States,New York,36,Livingston,051
+ACRAR,United States,New York,36,Monroe,055
+ACRAR,United States,New York,36,Nassau,059
+ACRAR,United States,New York,36,New York,061
+ACRAR,United States,New York,36,Onondaga,067
+ACRAR,United States,New York,36,Ontario,069
+ACRAR,United States,New York,36,Orange,071
+ACRAR,United States,New York,36,Putnam,079
+ACRAR,United States,New York,36,Queens,081
+ACRAR,United States,New York,36,Richmond,085
+ACRAR,United States,New York,36,Rockland,087
+ACRAR,United States,New York,36,Schuyler,097
+ACRAR,United States,New York,36,Steuben,101
+ACRAR,United States,New York,36,Suffolk,103
+ACRAR,United States,New York,36,Tioga,107
+ACRAR,United States,New York,36,Tompkins,109
+ACRAR,United States,New York,36,Ulster,111
+ACRAR,United States,New York,36,Westchester,119
+ACRAR,United States,New York,36,Wyoming,121
+ACRAR,United States,New York,36,Yates,123
+ACRAR,United States,North Carolina,37,,
+ACRAR,United States,North Carolina,37,Alleghany,005
+ACRAR,United States,North Carolina,37,Ashe,009
+ACRAR,United States,North Carolina,37,Avery,011
+ACRAR,United States,North Carolina,37,Buncombe,021
+ACRAR,United States,North Carolina,37,Burke,023
+ACRAR,United States,North Carolina,37,Caldwell,027
+ACRAR,United States,North Carolina,37,Catawba,035
+ACRAR,United States,North Carolina,37,Chatham,037
+ACRAR,United States,North Carolina,37,Cherokee,039
+ACRAR,United States,North Carolina,37,Cleveland,045
+ACRAR,United States,North Carolina,37,Davidson,057
+ACRAR,United States,North Carolina,37,Davie,059
+ACRAR,United States,North Carolina,37,Durham,063
+ACRAR,United States,North Carolina,37,Forsyth,067
+ACRAR,United States,North Carolina,37,Gaston,071
+ACRAR,United States,North Carolina,37,Graham,075
+ACRAR,United States,North Carolina,37,Granville,077
+ACRAR,United States,North Carolina,37,Guilford,081
+ACRAR,United States,North Carolina,37,Harnett,085
+ACRAR,United States,North Carolina,37,Haywood,087
+ACRAR,United States,North Carolina,37,Henderson,089
+ACRAR,United States,North Carolina,37,Iredell,097
+ACRAR,United States,North Carolina,37,Jackson,099
+ACRAR,United States,North Carolina,37,Lee,105
+ACRAR,United States,North Carolina,37,Lincoln,109
+ACRAR,United States,North Carolina,37,Macon,113
+ACRAR,United States,North Carolina,37,Madison,115
+ACRAR,United States,North Carolina,37,Martin,117
+ACRAR,United States,North Carolina,37,McDowell,111
+ACRAR,United States,North Carolina,37,Mecklenburg,119
+ACRAR,United States,North Carolina,37,Mitchell,121
+ACRAR,United States,North Carolina,37,Moore,125
+ACRAR,United States,North Carolina,37,Northampton,131
+ACRAR,United States,North Carolina,37,Orange,135
+ACRAR,United States,North Carolina,37,Polk,149
+ACRAR,United States,North Carolina,37,Randolph,151
+ACRAR,United States,North Carolina,37,Rockingham,157
+ACRAR,United States,North Carolina,37,Rowan,159
+ACRAR,United States,North Carolina,37,Rutherford,161
+ACRAR,United States,North Carolina,37,Stanly,167
+ACRAR,United States,North Carolina,37,Stokes,169
+ACRAR,United States,North Carolina,37,Surry,171
+ACRAR,United States,North Carolina,37,Swain,173
+ACRAR,United States,North Carolina,37,Transylvania,175
+ACRAR,United States,North Carolina,37,Union,179
+ACRAR,United States,North Carolina,37,Warren,185
+ACRAR,United States,North Carolina,37,Washington,187
+ACRAR,United States,North Carolina,37,Watauga,189
+ACRAR,United States,North Carolina,37,Wilkes,193
+ACRAR,United States,North Carolina,37,Yadkin,197
+ACRAR,United States,North Carolina,37,Yancey,199
+ACRAR,United States,Ohio,39,,
+ACRAR,United States,Ohio,39,Adams,001
+ACRAR,United States,Ohio,39,Ashland,005
+ACRAR,United States,Ohio,39,Ashtabula,007
+ACRAR,United States,Ohio,39,Athens,009
+ACRAR,United States,Ohio,39,Belmont,013
+ACRAR,United States,Ohio,39,Brown,015
+ACRAR,United States,Ohio,39,Carroll,019
+ACRAR,United States,Ohio,39,Clermont,025
+ACRAR,United States,Ohio,39,Clinton,027
+ACRAR,United States,Ohio,39,Columbiana,029
+ACRAR,United States,Ohio,39,Coshocton,031
+ACRAR,United States,Ohio,39,Cuyahoga,035
+ACRAR,United States,Ohio,39,Erie,043
+ACRAR,United States,Ohio,39,Fairfield,045
+ACRAR,United States,Ohio,39,Gallia,053
+ACRAR,United States,Ohio,39,Geauga,055
+ACRAR,United States,Ohio,39,Guernsey,059
+ACRAR,United States,Ohio,39,Harrison,067
+ACRAR,United States,Ohio,39,Highland,071
+ACRAR,United States,Ohio,39,Hocking,073
+ACRAR,United States,Ohio,39,Holmes,075
+ACRAR,United States,Ohio,39,Jackson,079
+ACRAR,United States,Ohio,39,Jefferson,081
+ACRAR,United States,Ohio,39,Knox,083
+ACRAR,United States,Ohio,39,Lake,085
+ACRAR,United States,Ohio,39,Lawrence,087
+ACRAR,United States,Ohio,39,Licking,089
+ACRAR,United States,Ohio,39,Lorain,093
+ACRAR,United States,Ohio,39,Mahoning,099
+ACRAR,United States,Ohio,39,Medina,103
+ACRAR,United States,Ohio,39,Meigs,105
+ACRAR,United States,Ohio,39,Monroe,111
+ACRAR,United States,Ohio,39,Morgan,115
+ACRAR,United States,Ohio,39,Morrow,117
+ACRAR,United States,Ohio,39,Noble,121
+ACRAR,United States,Ohio,39,Perry,127
+ACRAR,United States,Ohio,39,Pickaway,129
+ACRAR,United States,Ohio,39,Pike,131
+ACRAR,United States,Ohio,39,Portage,133
+ACRAR,United States,Ohio,39,Richland,139
+ACRAR,United States,Ohio,39,Ross,141
+ACRAR,United States,Ohio,39,Scioto,145
+ACRAR,United States,Ohio,39,Stark,151
+ACRAR,United States,Ohio,39,Summit,153
+ACRAR,United States,Ohio,39,Trumbull,155
+ACRAR,United States,Ohio,39,Tuscarawas,157
+ACRAR,United States,Ohio,39,Vinton,163
+ACRAR,United States,Ohio,39,Washington,167
+ACRAR,United States,Ohio,39,Wayne,169
+ACRAR,United States,Pennsylvania,42,,
+ACRAR,United States,Pennsylvania,42,Adams,001
+ACRAR,United States,Pennsylvania,42,Allegheny,003
+ACRAR,United States,Pennsylvania,42,Armstrong,005
+ACRAR,United States,Pennsylvania,42,Beaver,007
+ACRAR,United States,Pennsylvania,42,Bedford,009
+ACRAR,United States,Pennsylvania,42,Berks,011
+ACRAR,United States,Pennsylvania,42,Blair,013
+ACRAR,United States,Pennsylvania,42,Bradford,015
+ACRAR,United States,Pennsylvania,42,Bucks,017
+ACRAR,United States,Pennsylvania,42,Butler,019
+ACRAR,United States,Pennsylvania,42,Cambria,021
+ACRAR,United States,Pennsylvania,42,Cameron,023
+ACRAR,United States,Pennsylvania,42,Carbon,025
+ACRAR,United States,Pennsylvania,42,Centre,027
+ACRAR,United States,Pennsylvania,42,Chester,029
+ACRAR,United States,Pennsylvania,42,Clarion,031
+ACRAR,United States,Pennsylvania,42,Clearfield,033
+ACRAR,United States,Pennsylvania,42,Clinton,035
+ACRAR,United States,Pennsylvania,42,Columbia,037
+ACRAR,United States,Pennsylvania,42,Crawford,039
+ACRAR,United States,Pennsylvania,42,Dauphin,043
+ACRAR,United States,Pennsylvania,42,Delaware,045
+ACRAR,United States,Pennsylvania,42,Elk,047
+ACRAR,United States,Pennsylvania,42,Erie,049
+ACRAR,United States,Pennsylvania,42,Fayette,051
+ACRAR,United States,Pennsylvania,42,Forest,053
+ACRAR,United States,Pennsylvania,42,Franklin,055
+ACRAR,United States,Pennsylvania,42,Fulton,057
+ACRAR,United States,Pennsylvania,42,Greene,059
+ACRAR,United States,Pennsylvania,42,Huntingdon,061
+ACRAR,United States,Pennsylvania,42,Indiana,063
+ACRAR,United States,Pennsylvania,42,Jefferson,065
+ACRAR,United States,Pennsylvania,42,Juniata,067
+ACRAR,United States,Pennsylvania,42,Lackawanna,069
+ACRAR,United States,Pennsylvania,42,Lancaster,071
+ACRAR,United States,Pennsylvania,42,Lawrence,073
+ACRAR,United States,Pennsylvania,42,Lebanon,075
+ACRAR,United States,Pennsylvania,42,Lehigh,077
+ACRAR,United States,Pennsylvania,42,Luzerne,079
+ACRAR,United States,Pennsylvania,42,Lycoming,081
+ACRAR,United States,Pennsylvania,42,McKean,083
+ACRAR,United States,Pennsylvania,42,Mercer,085
+ACRAR,United States,Pennsylvania,42,Mifflin,087
+ACRAR,United States,Pennsylvania,42,Monroe,089
+ACRAR,United States,Pennsylvania,42,Montgomery,091
+ACRAR,United States,Pennsylvania,42,Montour,093
+ACRAR,United States,Pennsylvania,42,Northampton,095
+ACRAR,United States,Pennsylvania,42,Northumberland,097
+ACRAR,United States,Pennsylvania,42,Perry,099
+ACRAR,United States,Pennsylvania,42,Philadelphia,101
+ACRAR,United States,Pennsylvania,42,Pike,103
+ACRAR,United States,Pennsylvania,42,Potter,105
+ACRAR,United States,Pennsylvania,42,Schuylkill,107
+ACRAR,United States,Pennsylvania,42,Snyder,109
+ACRAR,United States,Pennsylvania,42,Somerset,111
+ACRAR,United States,Pennsylvania,42,Tioga,117
+ACRAR,United States,Pennsylvania,42,Union,119
+ACRAR,United States,Pennsylvania,42,Venango,121
+ACRAR,United States,Pennsylvania,42,Warren,123
+ACRAR,United States,Pennsylvania,42,Washington,125
+ACRAR,United States,Pennsylvania,42,Westmoreland,129
+ACRAR,United States,Pennsylvania,42,Wyoming,131
+ACRAR,United States,Pennsylvania,42,York,133
+ACRAR,United States,South Carolina,45,,
+ACRAR,United States,South Carolina,45,Anderson,007
+ACRAR,United States,South Carolina,45,Cherokee,021
+ACRAR,United States,South Carolina,45,Chester,023
+ACRAR,United States,South Carolina,45,Darlington,031
+ACRAR,United States,South Carolina,45,Greenville,045
+ACRAR,United States,South Carolina,45,Lancaster,057
+ACRAR,United States,South Carolina,45,McCormick,065
+ACRAR,United States,South Carolina,45,Pickens,077
+ACRAR,United States,South Carolina,45,Richland,079
+ACRAR,United States,South Carolina,45,Saluda,081
+ACRAR,United States,South Carolina,45,Sumter,085
+ACRAR,United States,Tennessee,47,,
+ACRAR,United States,Tennessee,47,Anderson,001
+ACRAR,United States,Tennessee,47,Benton,005
+ACRAR,United States,Tennessee,47,Blount,009
+ACRAR,United States,Tennessee,47,Campbell,013
+ACRAR,United States,Tennessee,47,Carter,019
+ACRAR,United States,Tennessee,47,Cheatham,021
+ACRAR,United States,Tennessee,47,Claiborne,025
+ACRAR,United States,Tennessee,47,Cocke,029
+ACRAR,United States,Tennessee,47,Coffee,031
+ACRAR,United States,Tennessee,47,Davidson,037
+ACRAR,United States,Tennessee,47,Decatur,039
+ACRAR,United States,Tennessee,47,DeKalb,041
+ACRAR,United States,Tennessee,47,Dickson,043
+ACRAR,United States,Tennessee,47,Grainger,057
+ACRAR,United States,Tennessee,47,Greene,059
+ACRAR,United States,Tennessee,47,Grundy,061
+ACRAR,United States,Tennessee,47,Hamblen,063
+ACRAR,United States,Tennessee,47,Hancock,067
+ACRAR,United States,Tennessee,47,Hardin,071
+ACRAR,United States,Tennessee,47,Hawkins,073
+ACRAR,United States,Tennessee,47,Hickman,081
+ACRAR,United States,Tennessee,47,Houston,083
+ACRAR,United States,Tennessee,47,Jefferson,089
+ACRAR,United States,Tennessee,47,Knox,093
+ACRAR,United States,Tennessee,47,Lawrence,099
+ACRAR,United States,Tennessee,47,Lewis,101
+ACRAR,United States,Tennessee,47,Loudon,105
+ACRAR,United States,Tennessee,47,Marion,115
+ACRAR,United States,Tennessee,47,Meigs,121
+ACRAR,United States,Tennessee,47,Monroe,123
+ACRAR,United States,Tennessee,47,Montgomery,125
+ACRAR,United States,Tennessee,47,Overton,133
+ACRAR,United States,Tennessee,47,Polk,139
+ACRAR,United States,Tennessee,47,Roane,145
+ACRAR,United States,Tennessee,47,Sevier,155
+ACRAR,United States,Tennessee,47,Stewart,161
+ACRAR,United States,Tennessee,47,Sullivan,163
+ACRAR,United States,Tennessee,47,Unicoi,171
+ACRAR,United States,Tennessee,47,Union,173
+ACRAR,United States,Tennessee,47,Warren,177
+ACRAR,United States,Tennessee,47,Washington,179
+ACRAR,United States,Tennessee,47,Williamson,187
+ACRAR,United States,Virginia,51,,
+ACRAR,United States,Virginia,51,Albemarle,003
+ACRAR,United States,Virginia,51,Alleghany,005
+ACRAR,United States,Virginia,51,Amelia,007
+ACRAR,United States,Virginia,51,Amherst,009
+ACRAR,United States,Virginia,51,Appomattox,011
+ACRAR,United States,Virginia,51,Arlington,013
+ACRAR,United States,Virginia,51,Augusta,015
+ACRAR,United States,Virginia,51,Bath,017
+ACRAR,United States,Virginia,51,Bedford,019
+ACRAR,United States,Virginia,51,Bland,021
+ACRAR,United States,Virginia,51,Botetourt,023
+ACRAR,United States,Virginia,51,Brunswick,025
+ACRAR,United States,Virginia,51,Buchanan,027
+ACRAR,United States,Virginia,51,Buckingham,029
+ACRAR,United States,Virginia,51,Campbell,031
+ACRAR,United States,Virginia,51,Caroline,033
+ACRAR,United States,Virginia,51,Carroll,035
+ACRAR,United States,Virginia,51,Charlotte,037
+ACRAR,United States,Virginia,51,Chesterfield,041
+ACRAR,United States,Virginia,51,Clarke,043
+ACRAR,United States,Virginia,51,Craig,045
+ACRAR,United States,Virginia,51,Culpeper,047
+ACRAR,United States,Virginia,51,Cumberland,049
+ACRAR,United States,Virginia,51,Dickenson,051
+ACRAR,United States,Virginia,51,Essex,057
+ACRAR,United States,Virginia,51,Fairfax,059
+ACRAR,United States,Virginia,51,Fauquier,061
+ACRAR,United States,Virginia,51,Floyd,063
+ACRAR,United States,Virginia,51,Fluvanna,065
+ACRAR,United States,Virginia,51,Franklin,067
+ACRAR,United States,Virginia,51,Frederick,069
+ACRAR,United States,Virginia,51,Giles,071
+ACRAR,United States,Virginia,51,Goochland,075
+ACRAR,United States,Virginia,51,Grayson,077
+ACRAR,United States,Virginia,51,Greene,079
+ACRAR,United States,Virginia,51,Halifax,083
+ACRAR,United States,Virginia,51,Henrico,087
+ACRAR,United States,Virginia,51,Henry,089
+ACRAR,United States,Virginia,51,Highland,091
+ACRAR,United States,Virginia,51,James City,095
+ACRAR,United States,Virginia,51,King and Queen,097
+ACRAR,United States,Virginia,51,King George,099
+ACRAR,United States,Virginia,51,Lee,105
+ACRAR,United States,Virginia,51,Loudoun,107
+ACRAR,United States,Virginia,51,Louisa,109
+ACRAR,United States,Virginia,51,Lunenburg,111
+ACRAR,United States,Virginia,51,Madison,113
+ACRAR,United States,Virginia,51,Mecklenburg,117
+ACRAR,United States,Virginia,51,Montgomery,121
+ACRAR,United States,Virginia,51,Nelson,125
+ACRAR,United States,Virginia,51,Nottoway,135
+ACRAR,United States,Virginia,51,Orange,137
+ACRAR,United States,Virginia,51,Page,139
+ACRAR,United States,Virginia,51,Patrick,141
+ACRAR,United States,Virginia,51,Pittsylvania,143
+ACRAR,United States,Virginia,51,Powhatan,145
+ACRAR,United States,Virginia,51,Prince Edward,147
+ACRAR,United States,Virginia,51,Prince William,153
+ACRAR,United States,Virginia,51,Pulaski,155
+ACRAR,United States,Virginia,51,Rappahannock,157
+ACRAR,United States,Virginia,51,Roanoke,161
+ACRAR,United States,Virginia,51,Rockbridge,163
+ACRAR,United States,Virginia,51,Rockingham,165
+ACRAR,United States,Virginia,51,Russell,167
+ACRAR,United States,Virginia,51,Scott,169
+ACRAR,United States,Virginia,51,Shenandoah,171
+ACRAR,United States,Virginia,51,Smyth,173
+ACRAR,United States,Virginia,51,Spotsylvania,177
+ACRAR,United States,Virginia,51,Stafford,179
+ACRAR,United States,Virginia,51,Suffolk ,800
+ACRAR,United States,Virginia,51,Surry,181
+ACRAR,United States,Virginia,51,Sussex,183
+ACRAR,United States,Virginia,51,Tazewell,185
+ACRAR,United States,Virginia,51,Warren,187
+ACRAR,United States,Virginia,51,Washington,191
+ACRAR,United States,Virginia,51,Westmoreland,193
+ACRAR,United States,Virginia,51,Wise,195
+ACRAR,United States,Virginia,51,Wythe,197
+ACRAR,United States,Virginia,51,York,199
+ACRAR,United States,West Virginia,54,,
+ACRAR,United States,West Virginia,54,Barbour,001
+ACRAR,United States,West Virginia,54,Berkeley,003
+ACRAR,United States,West Virginia,54,Boone,005
+ACRAR,United States,West Virginia,54,Braxton,007
+ACRAR,United States,West Virginia,54,Calhoun,013
+ACRAR,United States,West Virginia,54,Doddridge,017
+ACRAR,United States,West Virginia,54,Fayette,019
+ACRAR,United States,West Virginia,54,Gilmer,021
+ACRAR,United States,West Virginia,54,Grant,023
+ACRAR,United States,West Virginia,54,Hampshire,027
+ACRAR,United States,West Virginia,54,Hancock,029
+ACRAR,United States,West Virginia,54,Hardy,031
+ACRAR,United States,West Virginia,54,Harrison,033
+ACRAR,United States,West Virginia,54,Kanawha,039
+ACRAR,United States,West Virginia,54,Lewis,041
+ACRAR,United States,West Virginia,54,Marion,049
+ACRAR,United States,West Virginia,54,Marshall,051
+ACRAR,United States,West Virginia,54,McDowell,047
+ACRAR,United States,West Virginia,54,Mercer,055
+ACRAR,United States,West Virginia,54,Mineral,057
+ACRAR,United States,West Virginia,54,Mingo,059
+ACRAR,United States,West Virginia,54,Monongalia,061
+ACRAR,United States,West Virginia,54,Morgan,065
+ACRAR,United States,West Virginia,54,Ohio,069
+ACRAR,United States,West Virginia,54,Pendleton,071
+ACRAR,United States,West Virginia,54,Pocahontas,075
+ACRAR,United States,West Virginia,54,Preston,077
+ACRAR,United States,West Virginia,54,Randolph,083
+ACRAR,United States,West Virginia,54,Ritchie,085
+ACRAR,United States,West Virginia,54,Summers,089
+ACRAR,United States,West Virginia,54,Taylor,091
+ACRAR,United States,West Virginia,54,Tyler,095
+ACRAR,United States,West Virginia,54,Upshur,097
+ACRAR,United States,West Virginia,54,Webster,101
+ACRAR,United States,West Virginia,54,Wetzel,103
+ACRAR,United States,West Virginia,54,Wirt,105
+ACRAR,United States,West Virginia,54,Wyoming,109

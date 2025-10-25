@@ -1,0 +1,652 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+HEGR4,United States,Arkansas,05,,
+HEGR4,United States,Arkansas,05,Arkansas,001
+HEGR4,United States,Arkansas,05,Baxter,005
+HEGR4,United States,Arkansas,05,Benton,007
+HEGR4,United States,Arkansas,05,Franklin,047
+HEGR4,United States,Arkansas,05,Howard,061
+HEGR4,United States,Arkansas,05,Jefferson,069
+HEGR4,United States,Arkansas,05,Ouachita,103
+HEGR4,United States,Arkansas,05,Pope,115
+HEGR4,United States,Arkansas,05,Prairie,117
+HEGR4,United States,Arkansas,05,Sebastian,131
+HEGR4,United States,Arkansas,05,Washington,143
+HEGR4,Canada,Ontario,08,,
+HEGR4,United States,Connecticut,09,,
+HEGR4,United States,Connecticut,09,Fairfield,001
+HEGR4,United States,Connecticut,09,Hartford,003
+HEGR4,United States,Connecticut,09,New Haven,009
+HEGR4,Canada,Quebec,10,,
+HEGR4,United States,Delaware,10,,
+HEGR4,United States,Georgia,13,,
+HEGR4,United States,Georgia,13,Lincoln,181
+HEGR4,United States,Illinois,17,,
+HEGR4,United States,Illinois,17,Adams,001
+HEGR4,United States,Illinois,17,Bond,005
+HEGR4,United States,Illinois,17,Boone,007
+HEGR4,United States,Illinois,17,Brown,009
+HEGR4,United States,Illinois,17,Bureau,011
+HEGR4,United States,Illinois,17,Calhoun,013
+HEGR4,United States,Illinois,17,Carroll,015
+HEGR4,United States,Illinois,17,Cass,017
+HEGR4,United States,Illinois,17,Champaign,019
+HEGR4,United States,Illinois,17,Christian,021
+HEGR4,United States,Illinois,17,Clark,023
+HEGR4,United States,Illinois,17,Clay,025
+HEGR4,United States,Illinois,17,Clinton,027
+HEGR4,United States,Illinois,17,Coles,029
+HEGR4,United States,Illinois,17,Cook,031
+HEGR4,United States,Illinois,17,Crawford,033
+HEGR4,United States,Illinois,17,Cumberland,035
+HEGR4,United States,Illinois,17,De Witt,039
+HEGR4,United States,Illinois,17,DeKalb,037
+HEGR4,United States,Illinois,17,Douglas,041
+HEGR4,United States,Illinois,17,DuPage,043
+HEGR4,United States,Illinois,17,Edgar,045
+HEGR4,United States,Illinois,17,Edwards,047
+HEGR4,United States,Illinois,17,Effingham,049
+HEGR4,United States,Illinois,17,Fayette,051
+HEGR4,United States,Illinois,17,Ford,053
+HEGR4,United States,Illinois,17,Franklin,055
+HEGR4,United States,Illinois,17,Fulton,057
+HEGR4,United States,Illinois,17,Greene,061
+HEGR4,United States,Illinois,17,Grundy,063
+HEGR4,United States,Illinois,17,Hamilton,065
+HEGR4,United States,Illinois,17,Hancock,067
+HEGR4,United States,Illinois,17,Henderson,071
+HEGR4,United States,Illinois,17,Henry,073
+HEGR4,United States,Illinois,17,Iroquois,075
+HEGR4,United States,Illinois,17,Jackson,077
+HEGR4,United States,Illinois,17,Jasper,079
+HEGR4,United States,Illinois,17,Jefferson,081
+HEGR4,United States,Illinois,17,Jersey,083
+HEGR4,United States,Illinois,17,Jo Daviess,085
+HEGR4,United States,Illinois,17,Johnson,087
+HEGR4,United States,Illinois,17,Kane,089
+HEGR4,United States,Illinois,17,Kankakee,091
+HEGR4,United States,Illinois,17,Kendall,093
+HEGR4,United States,Illinois,17,Knox,095
+HEGR4,United States,Illinois,17,Lake,097
+HEGR4,United States,Illinois,17,LaSalle,099
+HEGR4,United States,Illinois,17,Lawrence,101
+HEGR4,United States,Illinois,17,Lee,103
+HEGR4,United States,Illinois,17,Livingston,105
+HEGR4,United States,Illinois,17,Logan,107
+HEGR4,United States,Illinois,17,Macon,115
+HEGR4,United States,Illinois,17,Macoupin,117
+HEGR4,United States,Illinois,17,Madison,119
+HEGR4,United States,Illinois,17,Marion,121
+HEGR4,United States,Illinois,17,Marshall,123
+HEGR4,United States,Illinois,17,Mason,125
+HEGR4,United States,Illinois,17,Massac,127
+HEGR4,United States,Illinois,17,McDonough,109
+HEGR4,United States,Illinois,17,McHenry,111
+HEGR4,United States,Illinois,17,McLean,113
+HEGR4,United States,Illinois,17,Menard,129
+HEGR4,United States,Illinois,17,Mercer,131
+HEGR4,United States,Illinois,17,Monroe,133
+HEGR4,United States,Illinois,17,Montgomery,135
+HEGR4,United States,Illinois,17,Morgan,137
+HEGR4,United States,Illinois,17,Moultrie,139
+HEGR4,United States,Illinois,17,Ogle,141
+HEGR4,United States,Illinois,17,Peoria,143
+HEGR4,United States,Illinois,17,Perry,145
+HEGR4,United States,Illinois,17,Piatt,147
+HEGR4,United States,Illinois,17,Pike,149
+HEGR4,United States,Illinois,17,Pope,151
+HEGR4,United States,Illinois,17,Pulaski,153
+HEGR4,United States,Illinois,17,Putnam,155
+HEGR4,United States,Illinois,17,Randolph,157
+HEGR4,United States,Illinois,17,Richland,159
+HEGR4,United States,Illinois,17,Rock Island,161
+HEGR4,United States,Illinois,17,Sangamon,167
+HEGR4,United States,Illinois,17,Schuyler,169
+HEGR4,United States,Illinois,17,Shelby,173
+HEGR4,United States,Illinois,17,St. Clair,163
+HEGR4,United States,Illinois,17,Stark,175
+HEGR4,United States,Illinois,17,Stephenson,177
+HEGR4,United States,Illinois,17,Union,181
+HEGR4,United States,Illinois,17,Vermilion,183
+HEGR4,United States,Illinois,17,Wabash,185
+HEGR4,United States,Illinois,17,Warren,187
+HEGR4,United States,Illinois,17,Washington,189
+HEGR4,United States,Illinois,17,Wayne,191
+HEGR4,United States,Illinois,17,Whiteside,195
+HEGR4,United States,Illinois,17,Will,197
+HEGR4,United States,Illinois,17,Winnebago,201
+HEGR4,United States,Illinois,17,Woodford,203
+HEGR4,United States,Indiana,18,,
+HEGR4,United States,Indiana,18,Benton,007
+HEGR4,United States,Indiana,18,Blackford,009
+HEGR4,United States,Indiana,18,Boone,011
+HEGR4,United States,Indiana,18,Carroll,015
+HEGR4,United States,Indiana,18,Cass,017
+HEGR4,United States,Indiana,18,Clay,021
+HEGR4,United States,Indiana,18,Clinton,023
+HEGR4,United States,Indiana,18,Daviess,027
+HEGR4,United States,Indiana,18,Dubois,037
+HEGR4,United States,Indiana,18,Floyd,043
+HEGR4,United States,Indiana,18,Fountain,045
+HEGR4,United States,Indiana,18,Fulton,049
+HEGR4,United States,Indiana,18,Grant,053
+HEGR4,United States,Indiana,18,Greene,055
+HEGR4,United States,Indiana,18,Henry,065
+HEGR4,United States,Indiana,18,Howard,067
+HEGR4,United States,Indiana,18,Huntington,069
+HEGR4,United States,Indiana,18,Jackson,071
+HEGR4,United States,Indiana,18,Jasper,073
+HEGR4,United States,Indiana,18,Jay,075
+HEGR4,United States,Indiana,18,Jefferson,077
+HEGR4,United States,Indiana,18,Knox,083
+HEGR4,United States,Indiana,18,Lagrange,087
+HEGR4,United States,Indiana,18,Lake,089
+HEGR4,United States,Indiana,18,Marion,097
+HEGR4,United States,Indiana,18,Monroe,105
+HEGR4,United States,Indiana,18,Montgomery,107
+HEGR4,United States,Indiana,18,Newton,111
+HEGR4,United States,Indiana,18,Noble,113
+HEGR4,United States,Indiana,18,Orange,117
+HEGR4,United States,Indiana,18,Parke,121
+HEGR4,United States,Indiana,18,Porter,127
+HEGR4,United States,Indiana,18,Posey,129
+HEGR4,United States,Indiana,18,Pulaski,131
+HEGR4,United States,Indiana,18,St. Joseph,141
+HEGR4,United States,Indiana,18,Sullivan,153
+HEGR4,United States,Indiana,18,Tippecanoe,157
+HEGR4,United States,Indiana,18,Tipton,159
+HEGR4,United States,Indiana,18,Vermillion,165
+HEGR4,United States,Indiana,18,Vigo,167
+HEGR4,United States,Indiana,18,Warren,171
+HEGR4,United States,Indiana,18,Wayne,177
+HEGR4,United States,Indiana,18,Wells,179
+HEGR4,United States,Indiana,18,White,181
+HEGR4,United States,Iowa,19,,
+HEGR4,United States,Iowa,19,Adair,001
+HEGR4,United States,Iowa,19,Adams,003
+HEGR4,United States,Iowa,19,Audubon,009
+HEGR4,United States,Iowa,19,Cass,029
+HEGR4,United States,Iowa,19,Cherokee,035
+HEGR4,United States,Iowa,19,Dickinson,059
+HEGR4,United States,Iowa,19,Fremont,071
+HEGR4,United States,Iowa,19,Guthrie,077
+HEGR4,United States,Iowa,19,Harrison,085
+HEGR4,United States,Iowa,19,Johnson,103
+HEGR4,United States,Iowa,19,Madison,121
+HEGR4,United States,Iowa,19,Mills,129
+HEGR4,United States,Iowa,19,Mitchell,131
+HEGR4,United States,Iowa,19,Montgomery,137
+HEGR4,United States,Iowa,19,Muscatine,139
+HEGR4,United States,Iowa,19,O'Brien,141
+HEGR4,United States,Iowa,19,Page,145
+HEGR4,United States,Iowa,19,Pottawattamie,155
+HEGR4,United States,Iowa,19,Ringgold,159
+HEGR4,United States,Iowa,19,Shelby,165
+HEGR4,United States,Iowa,19,Sioux,167
+HEGR4,United States,Iowa,19,Story,169
+HEGR4,United States,Iowa,19,Taylor,173
+HEGR4,United States,Iowa,19,Union,175
+HEGR4,United States,Iowa,19,Washington,183
+HEGR4,United States,Iowa,19,Webster,187
+HEGR4,United States,Kansas,20,,
+HEGR4,United States,Kansas,20,Allen,001
+HEGR4,United States,Kansas,20,Anderson,003
+HEGR4,United States,Kansas,20,Atchison,005
+HEGR4,United States,Kansas,20,Bourbon,011
+HEGR4,United States,Kansas,20,Brown,013
+HEGR4,United States,Kansas,20,Butler,015
+HEGR4,United States,Kansas,20,Chase,017
+HEGR4,United States,Kansas,20,Chautauqua,019
+HEGR4,United States,Kansas,20,Cherokee,021
+HEGR4,United States,Kansas,20,Cloud,029
+HEGR4,United States,Kansas,20,Coffey,031
+HEGR4,United States,Kansas,20,Cowley,035
+HEGR4,United States,Kansas,20,Crawford,037
+HEGR4,United States,Kansas,20,Doniphan,043
+HEGR4,United States,Kansas,20,Douglas,045
+HEGR4,United States,Kansas,20,Elk,049
+HEGR4,United States,Kansas,20,Franklin,059
+HEGR4,United States,Kansas,20,Geary,061
+HEGR4,United States,Kansas,20,Greenwood,073
+HEGR4,United States,Kansas,20,Jackson,085
+HEGR4,United States,Kansas,20,Jefferson,087
+HEGR4,United States,Kansas,20,Johnson,091
+HEGR4,United States,Kansas,20,Labette,099
+HEGR4,United States,Kansas,20,Leavenworth,103
+HEGR4,United States,Kansas,20,Linn,107
+HEGR4,United States,Kansas,20,Lyon,111
+HEGR4,United States,Kansas,20,Marshall,117
+HEGR4,United States,Kansas,20,Miami,121
+HEGR4,United States,Kansas,20,Montgomery,125
+HEGR4,United States,Kansas,20,Morris,127
+HEGR4,United States,Kansas,20,Nemaha,131
+HEGR4,United States,Kansas,20,Neosho,133
+HEGR4,United States,Kansas,20,Osage,139
+HEGR4,United States,Kansas,20,Pottawatomie,149
+HEGR4,United States,Kansas,20,Republic,157
+HEGR4,United States,Kansas,20,Riley,161
+HEGR4,United States,Kansas,20,Saline,169
+HEGR4,United States,Kansas,20,Shawnee,177
+HEGR4,United States,Kansas,20,Sumner,191
+HEGR4,United States,Kansas,20,Wabaunsee,197
+HEGR4,United States,Kansas,20,Washington,201
+HEGR4,United States,Kansas,20,Wilson,205
+HEGR4,United States,Kansas,20,Woodson,207
+HEGR4,United States,Kansas,20,Wyandotte,209
+HEGR4,United States,Kentucky,21,,
+HEGR4,United States,Kentucky,21,Ballard,007
+HEGR4,United States,Kentucky,21,Boone,015
+HEGR4,United States,Kentucky,21,Bullitt,029
+HEGR4,United States,Kentucky,21,Carlisle,039
+HEGR4,United States,Kentucky,21,Christian,047
+HEGR4,United States,Kentucky,21,Fayette,067
+HEGR4,United States,Kentucky,21,Franklin,073
+HEGR4,United States,Kentucky,21,Garrard,079
+HEGR4,United States,Kentucky,21,Graves,083
+HEGR4,United States,Kentucky,21,Harrison,097
+HEGR4,United States,Kentucky,21,Hart,099
+HEGR4,United States,Kentucky,21,Hickman,105
+HEGR4,United States,Kentucky,21,Jefferson,111
+HEGR4,United States,Kentucky,21,Livingston,139
+HEGR4,United States,Kentucky,21,Madison,151
+HEGR4,United States,Kentucky,21,Marshall,157
+HEGR4,United States,Kentucky,21,McCracken,145
+HEGR4,United States,Kentucky,21,Rowan,205
+HEGR4,United States,Kentucky,21,Washington,229
+HEGR4,United States,Louisiana,22,,
+HEGR4,United States,Louisiana,22,Bienville,013
+HEGR4,United States,Louisiana,22,Caddo,017
+HEGR4,United States,Louisiana,22,Caldwell,021
+HEGR4,United States,Louisiana,22,De Soto,031
+HEGR4,United States,Louisiana,22,Franklin,041
+HEGR4,United States,Louisiana,22,Morehouse,067
+HEGR4,United States,Louisiana,22,Ouachita,073
+HEGR4,United States,Louisiana,22,Rapides,079
+HEGR4,United States,Louisiana,22,Richland,083
+HEGR4,United States,Louisiana,22,St. Bernard,087
+HEGR4,United States,Louisiana,22,Tensas,107
+HEGR4,United States,Louisiana,22,West Carroll,123
+HEGR4,United States,Louisiana,22,Winn,127
+HEGR4,United States,Maine,23,,
+HEGR4,United States,Maine,23,Cumberland,005
+HEGR4,United States,Maine,23,Franklin,007
+HEGR4,United States,Maine,23,Waldo,027
+HEGR4,United States,Maryland,24,,
+HEGR4,United States,Massachusetts,25,,
+HEGR4,United States,Massachusetts,25,Barnstable,001
+HEGR4,United States,Massachusetts,25,Berkshire,003
+HEGR4,United States,Massachusetts,25,Hampden,013
+HEGR4,United States,Massachusetts,25,Norfolk,021
+HEGR4,United States,Massachusetts,25,Plymouth,023
+HEGR4,United States,Massachusetts,25,Worcester,027
+HEGR4,United States,Michigan,26,,
+HEGR4,United States,Michigan,26,Benzie,019
+HEGR4,United States,Michigan,26,Cass,027
+HEGR4,United States,Michigan,26,Ingham,065
+HEGR4,United States,Michigan,26,Kent,081
+HEGR4,United States,Michigan,26,Lenawee,091
+HEGR4,United States,Michigan,26,Livingston,093
+HEGR4,United States,Michigan,26,Monroe,115
+HEGR4,United States,Michigan,26,Oakland,125
+HEGR4,United States,Michigan,26,St. Clair,147
+HEGR4,United States,Michigan,26,Washtenaw,161
+HEGR4,United States,Michigan,26,Wayne,163
+HEGR4,United States,Minnesota,27,,
+HEGR4,United States,Minnesota,27,Blue Earth,013
+HEGR4,United States,Minnesota,27,Chippewa,023
+HEGR4,United States,Minnesota,27,Clay,027
+HEGR4,United States,Minnesota,27,Clearwater,029
+HEGR4,United States,Minnesota,27,Cottonwood,033
+HEGR4,United States,Minnesota,27,Crow Wing,035
+HEGR4,United States,Minnesota,27,Dakota,037
+HEGR4,United States,Minnesota,27,Dodge,039
+HEGR4,United States,Minnesota,27,Douglas,041
+HEGR4,United States,Minnesota,27,Fillmore,045
+HEGR4,United States,Minnesota,27,Freeborn,047
+HEGR4,United States,Minnesota,27,Goodhue,049
+HEGR4,United States,Minnesota,27,Grant,051
+HEGR4,United States,Minnesota,27,Hennepin,053
+HEGR4,United States,Minnesota,27,Houston,055
+HEGR4,United States,Minnesota,27,Kittson,069
+HEGR4,United States,Minnesota,27,Lake,075
+HEGR4,United States,Minnesota,27,Le Sueur,079
+HEGR4,United States,Minnesota,27,Lincoln,081
+HEGR4,United States,Minnesota,27,Lyon,083
+HEGR4,United States,Minnesota,27,Mahnomen,087
+HEGR4,United States,Minnesota,27,Martin,091
+HEGR4,United States,Minnesota,27,McLeod,085
+HEGR4,United States,Minnesota,27,Mille Lacs,095
+HEGR4,United States,Minnesota,27,Mower,099
+HEGR4,United States,Minnesota,27,Nobles,105
+HEGR4,United States,Minnesota,27,Otter Tail,111
+HEGR4,United States,Minnesota,27,Pipestone,117
+HEGR4,United States,Minnesota,27,Polk,119
+HEGR4,United States,Minnesota,27,Pope,121
+HEGR4,United States,Minnesota,27,Ramsey,123
+HEGR4,United States,Minnesota,27,Red Lake,125
+HEGR4,United States,Minnesota,27,Redwood,127
+HEGR4,United States,Minnesota,27,Renville,129
+HEGR4,United States,Minnesota,27,Roseau,135
+HEGR4,United States,Minnesota,27,Scott,139
+HEGR4,United States,Minnesota,27,St. Louis,137
+HEGR4,United States,Minnesota,27,Stearns,145
+HEGR4,United States,Minnesota,27,Steele,147
+HEGR4,United States,Minnesota,27,Swift,151
+HEGR4,United States,Minnesota,27,Todd,153
+HEGR4,United States,Minnesota,27,Wabasha,157
+HEGR4,United States,Minnesota,27,Waseca,161
+HEGR4,United States,Minnesota,27,Winona,169
+HEGR4,United States,Minnesota,27,Wright,171
+HEGR4,United States,Minnesota,27,Yellow Medicine,173
+HEGR4,United States,Mississippi,28,,
+HEGR4,United States,Mississippi,28,Hinds,049
+HEGR4,United States,Mississippi,28,Washington,151
+HEGR4,United States,Missouri,29,,
+HEGR4,United States,Missouri,29,Adair,001
+HEGR4,United States,Missouri,29,Andrew,003
+HEGR4,United States,Missouri,29,Atchison,005
+HEGR4,United States,Missouri,29,Audrain,007
+HEGR4,United States,Missouri,29,Barton,011
+HEGR4,United States,Missouri,29,Bates,013
+HEGR4,United States,Missouri,29,Benton,015
+HEGR4,United States,Missouri,29,Boone,019
+HEGR4,United States,Missouri,29,Buchanan,021
+HEGR4,United States,Missouri,29,Caldwell,025
+HEGR4,United States,Missouri,29,Callaway,027
+HEGR4,United States,Missouri,29,Camden,029
+HEGR4,United States,Missouri,29,Carroll,033
+HEGR4,United States,Missouri,29,Carter,035
+HEGR4,United States,Missouri,29,Cass,037
+HEGR4,United States,Missouri,29,Cedar,039
+HEGR4,United States,Missouri,29,Chariton,041
+HEGR4,United States,Missouri,29,Clark,045
+HEGR4,United States,Missouri,29,Clay,047
+HEGR4,United States,Missouri,29,Clinton,049
+HEGR4,United States,Missouri,29,Cooper,053
+HEGR4,United States,Missouri,29,Crawford,055
+HEGR4,United States,Missouri,29,Dade,057
+HEGR4,United States,Missouri,29,Dallas,059
+HEGR4,United States,Missouri,29,Daviess,061
+HEGR4,United States,Missouri,29,DeKalb,063
+HEGR4,United States,Missouri,29,Douglas,067
+HEGR4,United States,Missouri,29,Gasconade,073
+HEGR4,United States,Missouri,29,Gentry,075
+HEGR4,United States,Missouri,29,Greene,077
+HEGR4,United States,Missouri,29,Grundy,079
+HEGR4,United States,Missouri,29,Harrison,081
+HEGR4,United States,Missouri,29,Henry,083
+HEGR4,United States,Missouri,29,Hickory,085
+HEGR4,United States,Missouri,29,Holt,087
+HEGR4,United States,Missouri,29,Howard,089
+HEGR4,United States,Missouri,29,Howell,091
+HEGR4,United States,Missouri,29,Iron,093
+HEGR4,United States,Missouri,29,Jackson,095
+HEGR4,United States,Missouri,29,Jasper,097
+HEGR4,United States,Missouri,29,Jefferson,099
+HEGR4,United States,Missouri,29,Johnson,101
+HEGR4,United States,Missouri,29,Knox,103
+HEGR4,United States,Missouri,29,Laclede,105
+HEGR4,United States,Missouri,29,Lafayette,107
+HEGR4,United States,Missouri,29,Lawrence,109
+HEGR4,United States,Missouri,29,Lewis,111
+HEGR4,United States,Missouri,29,Lincoln,113
+HEGR4,United States,Missouri,29,Linn,115
+HEGR4,United States,Missouri,29,Livingston,117
+HEGR4,United States,Missouri,29,Macon,121
+HEGR4,United States,Missouri,29,Marion,127
+HEGR4,United States,Missouri,29,McDonald,119
+HEGR4,United States,Missouri,29,Mercer,129
+HEGR4,United States,Missouri,29,Miller,131
+HEGR4,United States,Missouri,29,Moniteau,135
+HEGR4,United States,Missouri,29,Monroe,137
+HEGR4,United States,Missouri,29,Montgomery,139
+HEGR4,United States,Missouri,29,Morgan,141
+HEGR4,United States,Missouri,29,Newton,145
+HEGR4,United States,Missouri,29,Nodaway,147
+HEGR4,United States,Missouri,29,Pettis,159
+HEGR4,United States,Missouri,29,Phelps,161
+HEGR4,United States,Missouri,29,Pike,163
+HEGR4,United States,Missouri,29,Platte,165
+HEGR4,United States,Missouri,29,Polk,167
+HEGR4,United States,Missouri,29,Putnam,171
+HEGR4,United States,Missouri,29,Ralls,173
+HEGR4,United States,Missouri,29,Randolph,175
+HEGR4,United States,Missouri,29,Ray,177
+HEGR4,United States,Missouri,29,Reynolds,179
+HEGR4,United States,Missouri,29,Saline,195
+HEGR4,United States,Missouri,29,Schuyler,197
+HEGR4,United States,Missouri,29,Scotland,199
+HEGR4,United States,Missouri,29,Shelby,205
+HEGR4,United States,Missouri,29,St. Charles,183
+HEGR4,United States,Missouri,29,St. Clair,185
+HEGR4,United States,Missouri,29,St. Louis,189
+HEGR4,United States,Missouri,29,Sullivan,211
+HEGR4,United States,Missouri,29,Vernon,217
+HEGR4,United States,Missouri,29,Warren,219
+HEGR4,United States,Missouri,29,Webster,225
+HEGR4,United States,Missouri,29,Worth,227
+HEGR4,United States,Missouri,29,Wright,229
+HEGR4,United States,Nebraska,31,,
+HEGR4,United States,Nebraska,31,Brown,017
+HEGR4,United States,Nebraska,31,Buffalo,019
+HEGR4,United States,Nebraska,31,Burt,021
+HEGR4,United States,Nebraska,31,Butler,023
+HEGR4,United States,Nebraska,31,Cass,025
+HEGR4,United States,Nebraska,31,Cherry,031
+HEGR4,United States,Nebraska,31,Cuming,039
+HEGR4,United States,Nebraska,31,Custer,041
+HEGR4,United States,Nebraska,31,Dakota,043
+HEGR4,United States,Nebraska,31,Dawes,045
+HEGR4,United States,Nebraska,31,Dodge,053
+HEGR4,United States,Nebraska,31,Douglas,055
+HEGR4,United States,Nebraska,31,Hall,079
+HEGR4,United States,Nebraska,31,Hamilton,081
+HEGR4,United States,Nebraska,31,Holt,089
+HEGR4,United States,Nebraska,31,Hooker,091
+HEGR4,United States,Nebraska,31,Howard,093
+HEGR4,United States,Nebraska,31,Jefferson,095
+HEGR4,United States,Nebraska,31,Johnson,097
+HEGR4,United States,Nebraska,31,Kearney,099
+HEGR4,United States,Nebraska,31,Keya Paha,103
+HEGR4,United States,Nebraska,31,Knox,107
+HEGR4,United States,Nebraska,31,Lancaster,109
+HEGR4,United States,Nebraska,31,Nance,125
+HEGR4,United States,Nebraska,31,Nemaha,127
+HEGR4,United States,Nebraska,31,Otoe,131
+HEGR4,United States,Nebraska,31,Platte,141
+HEGR4,United States,Nebraska,31,Richardson,147
+HEGR4,United States,Nebraska,31,Saline,151
+HEGR4,United States,Nebraska,31,Sarpy,153
+HEGR4,United States,Nebraska,31,Saunders,155
+HEGR4,United States,Nebraska,31,Thomas,171
+HEGR4,United States,Nebraska,31,Valley,175
+HEGR4,United States,Nebraska,31,Washington,177
+HEGR4,United States,Nebraska,31,Webster,181
+HEGR4,United States,Nebraska,31,York,185
+HEGR4,United States,New Hampshire,33,,
+HEGR4,United States,New Hampshire,33,Hillsborough,011
+HEGR4,United States,New Hampshire,33,Strafford,017
+HEGR4,United States,New Jersey,34,,
+HEGR4,United States,New Jersey,34,Atlantic,001
+HEGR4,United States,New Jersey,34,Gloucester,015
+HEGR4,United States,New Jersey,34,Hunterdon,019
+HEGR4,United States,New Mexico,35,,
+HEGR4,United States,New Mexico,35,Taos,055
+HEGR4,United States,New York,36,,
+HEGR4,United States,New York,36,Albany,001
+HEGR4,United States,New York,36,Bronx,005
+HEGR4,United States,New York,36,Columbia,021
+HEGR4,United States,New York,36,Erie,029
+HEGR4,United States,New York,36,Herkimer,043
+HEGR4,United States,New York,36,Madison,053
+HEGR4,United States,New York,36,Nassau,059
+HEGR4,United States,New York,36,Onondaga,067
+HEGR4,United States,New York,36,Orange,071
+HEGR4,United States,New York,36,Queens,081
+HEGR4,United States,New York,36,Richmond,085
+HEGR4,United States,New York,36,Saratoga,091
+HEGR4,United States,New York,36,Schenectady,093
+HEGR4,United States,New York,36,Suffolk,103
+HEGR4,United States,New York,36,Ulster,111
+HEGR4,United States,New York,36,Warren,113
+HEGR4,United States,North Carolina,37,,
+HEGR4,United States,North Dakota,38,,
+HEGR4,United States,North Dakota,38,Sargent,081
+HEGR4,United States,Ohio,39,,
+HEGR4,United States,Ohio,39,Adams,001
+HEGR4,United States,Ohio,39,Allen,003
+HEGR4,United States,Ohio,39,Ashland,005
+HEGR4,United States,Ohio,39,Ashtabula,007
+HEGR4,United States,Ohio,39,Auglaize,011
+HEGR4,United States,Ohio,39,Carroll,019
+HEGR4,United States,Ohio,39,Champaign,021
+HEGR4,United States,Ohio,39,Clark,023
+HEGR4,United States,Ohio,39,Clermont,025
+HEGR4,United States,Ohio,39,Clinton,027
+HEGR4,United States,Ohio,39,Columbiana,029
+HEGR4,United States,Ohio,39,Crawford,033
+HEGR4,United States,Ohio,39,Cuyahoga,035
+HEGR4,United States,Ohio,39,Erie,043
+HEGR4,United States,Ohio,39,Fairfield,045
+HEGR4,United States,Ohio,39,Franklin,049
+HEGR4,United States,Ohio,39,Geauga,055
+HEGR4,United States,Ohio,39,Greene,057
+HEGR4,United States,Ohio,39,Harrison,067
+HEGR4,United States,Ohio,39,Hocking,073
+HEGR4,United States,Ohio,39,Huron,077
+HEGR4,United States,Ohio,39,Jackson,079
+HEGR4,United States,Ohio,39,Knox,083
+HEGR4,United States,Ohio,39,Lake,085
+HEGR4,United States,Ohio,39,Lucas,095
+HEGR4,United States,Ohio,39,Madison,097
+HEGR4,United States,Ohio,39,Marion,101
+HEGR4,United States,Ohio,39,Montgomery,113
+HEGR4,United States,Ohio,39,Pickaway,129
+HEGR4,United States,Ohio,39,Portage,133
+HEGR4,United States,Ohio,39,Ross,141
+HEGR4,United States,Ohio,39,Scioto,145
+HEGR4,United States,Ohio,39,Seneca,147
+HEGR4,United States,Ohio,39,Stark,151
+HEGR4,United States,Ohio,39,Summit,153
+HEGR4,United States,Ohio,39,Wayne,169
+HEGR4,United States,Ohio,39,Williams,171
+HEGR4,United States,Ohio,39,Wood,173
+HEGR4,United States,Ohio,39,Wyandot,175
+HEGR4,United States,Oklahoma,40,,
+HEGR4,United States,Oklahoma,40,Bryan,013
+HEGR4,United States,Oklahoma,40,Cherokee,021
+HEGR4,United States,Oklahoma,40,Cleveland,027
+HEGR4,United States,Oklahoma,40,Craig,035
+HEGR4,United States,Oklahoma,40,Creek,037
+HEGR4,United States,Oklahoma,40,Delaware,041
+HEGR4,United States,Oklahoma,40,Le Flore,079
+HEGR4,United States,Oklahoma,40,Mayes,097
+HEGR4,United States,Oklahoma,40,Murray,099
+HEGR4,United States,Oklahoma,40,Muskogee,101
+HEGR4,United States,Oklahoma,40,Ottawa,115
+HEGR4,United States,Oklahoma,40,Sequoyah,135
+HEGR4,United States,Oklahoma,40,Tulsa,143
+HEGR4,United States,Pennsylvania,42,,
+HEGR4,United States,Pennsylvania,42,Allegheny,003
+HEGR4,United States,Pennsylvania,42,Armstrong,005
+HEGR4,United States,Pennsylvania,42,Beaver,007
+HEGR4,United States,Pennsylvania,42,Bedford,009
+HEGR4,United States,Pennsylvania,42,Berks,011
+HEGR4,United States,Pennsylvania,42,Centre,027
+HEGR4,United States,Pennsylvania,42,Chester,029
+HEGR4,United States,Pennsylvania,42,Delaware,045
+HEGR4,United States,Pennsylvania,42,Elk,047
+HEGR4,United States,Pennsylvania,42,Erie,049
+HEGR4,United States,Pennsylvania,42,Lawrence,073
+HEGR4,United States,Pennsylvania,42,Montgomery,091
+HEGR4,United States,Pennsylvania,42,Philadelphia,101
+HEGR4,United States,Pennsylvania,42,Warren,123
+HEGR4,United States,Pennsylvania,42,Westmoreland,129
+HEGR4,United States,South Dakota,46,,
+HEGR4,United States,South Dakota,46,Brookings,011
+HEGR4,United States,South Dakota,46,Clay,027
+HEGR4,United States,South Dakota,46,Codington,029
+HEGR4,United States,South Dakota,46,Hamlin,057
+HEGR4,United States,South Dakota,46,Lawrence,081
+HEGR4,United States,South Dakota,46,Lincoln,083
+HEGR4,United States,South Dakota,46,Marshall,091
+HEGR4,United States,South Dakota,46,Union,127
+HEGR4,United States,Tennessee,47,,
+HEGR4,United States,Tennessee,47,Carroll,017
+HEGR4,United States,Tennessee,47,Hamblen,063
+HEGR4,United States,Tennessee,47,Henderson,077
+HEGR4,United States,Tennessee,47,Meigs,121
+HEGR4,United States,Tennessee,47,Scott,151
+HEGR4,United States,Tennessee,47,Shelby,157
+HEGR4,United States,Tennessee,47,Van Buren,175
+HEGR4,United States,Texas,48,,
+HEGR4,United States,Texas,48,Bexar,029
+HEGR4,United States,Texas,48,Brazos,041
+HEGR4,United States,Texas,48,Collin,085
+HEGR4,United States,Texas,48,Cooke,097
+HEGR4,United States,Texas,48,Dallas,113
+HEGR4,United States,Texas,48,Fannin,147
+HEGR4,United States,Texas,48,Gillespie,171
+HEGR4,United States,Texas,48,Gonzales,177
+HEGR4,United States,Texas,48,Grayson,181
+HEGR4,United States,Texas,48,Grimes,185
+HEGR4,United States,Texas,48,Houston,225
+HEGR4,United States,Texas,48,Lamar,277
+HEGR4,United States,Texas,48,Madison,313
+HEGR4,United States,Texas,48,Montgomery,339
+HEGR4,United States,Texas,48,Randall,381
+HEGR4,United States,Texas,48,Walker,471
+HEGR4,United States,Virginia,51,,
+HEGR4,United States,Virginia,51,Albemarle,003
+HEGR4,United States,Virginia,51,Augusta,015
+HEGR4,United States,Virginia,51,Buckingham,029
+HEGR4,United States,Virginia,51,Charlotte,037
+HEGR4,United States,Virginia,51,Fairfax,059
+HEGR4,United States,Virginia,51,Fauquier,061
+HEGR4,United States,Virginia,51,Franklin,067
+HEGR4,United States,Virginia,51,Halifax,083
+HEGR4,United States,Virginia,51,Lancaster,103
+HEGR4,United States,Virginia,51,Loudoun,107
+HEGR4,United States,Virginia,51,Lunenburg,111
+HEGR4,United States,Virginia,51,Madison,113
+HEGR4,United States,Virginia,51,Montgomery,121
+HEGR4,United States,Virginia,51,Nelson,125
+HEGR4,United States,Virginia,51,Patrick,141
+HEGR4,United States,Virginia,51,Pittsylvania,143
+HEGR4,United States,Virginia,51,Prince Edward,147
+HEGR4,United States,Virginia,51,Prince William,153
+HEGR4,United States,Virginia,51,Scott,169
+HEGR4,United States,Virginia,51,Washington,191
+HEGR4,United States,Washington,53,,
+HEGR4,United States,Washington,53,Klickitat,039
+HEGR4,United States,Washington,53,Spokane,063
+HEGR4,United States,West Virginia,54,,
+HEGR4,United States,West Virginia,54,Fayette,019
+HEGR4,United States,West Virginia,54,Jackson,035
+HEGR4,United States,West Virginia,54,Kanawha,039
+HEGR4,United States,West Virginia,54,Wirt,105
+HEGR4,United States,Wisconsin,55,,
+HEGR4,United States,Wisconsin,55,Brown,009
+HEGR4,United States,Wisconsin,55,Columbia,021
+HEGR4,United States,Wisconsin,55,Dane,025
+HEGR4,United States,Wisconsin,55,Dodge,027
+HEGR4,United States,Wisconsin,55,Fond du Lac,039
+HEGR4,United States,Wisconsin,55,Grant,043
+HEGR4,United States,Wisconsin,55,Green,045
+HEGR4,United States,Wisconsin,55,Iowa,049
+HEGR4,United States,Wisconsin,55,Jackson,053
+HEGR4,United States,Wisconsin,55,Jefferson,055
+HEGR4,United States,Wisconsin,55,Kenosha,059
+HEGR4,United States,Wisconsin,55,Lafayette,065
+HEGR4,United States,Wisconsin,55,Marinette,075
+HEGR4,United States,Wisconsin,55,Milwaukee,079
+HEGR4,United States,Wisconsin,55,Monroe,081
+HEGR4,United States,Wisconsin,55,Racine,101
+HEGR4,United States,Wisconsin,55,Rock,105
+HEGR4,United States,Wisconsin,55,Sauk,111
+HEGR4,United States,Wisconsin,55,Sheboygan,117
+HEGR4,United States,Wisconsin,55,Vernon,123
+HEGR4,United States,Wisconsin,55,Walworth,127
+HEGR4,United States,Wisconsin,55,Waukesha,133
+HEGR4,United States,Wisconsin,55,Waushara,137
+HEGR4,United States,Wisconsin,55,Winnebago,139

@@ -1,0 +1,894 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SYNO2,United States,Alabama,01,,
+SYNO2,United States,Alabama,01,Greene,063
+SYNO2,United States,Alabama,01,Hale,065
+SYNO2,United States,Alabama,01,Lawrence,079
+SYNO2,Canada,British Columbia,02,,
+SYNO2,Canada,Manitoba,03,,
+SYNO2,Canada,New Brunswick,04,,
+SYNO2,United States,Arkansas,05,,
+SYNO2,United States,Arkansas,05,Baxter,005
+SYNO2,United States,Arkansas,05,Benton,007
+SYNO2,United States,Arkansas,05,Clark,019
+SYNO2,United States,Arkansas,05,Clay,021
+SYNO2,United States,Arkansas,05,Izard,065
+SYNO2,United States,Arkansas,05,Nevada,099
+SYNO2,United States,Arkansas,05,Newton,101
+SYNO2,United States,Arkansas,05,Pope,115
+SYNO2,United States,Arkansas,05,Randolph,121
+SYNO2,United States,Arkansas,05,Sharp,135
+SYNO2,United States,Arkansas,05,Washington,143
+SYNO2,United States,California,06,,
+SYNO2,United States,California,06,Siskiyou,093
+SYNO2,Canada,Nova Scotia,07,,
+SYNO2,Canada,Ontario,08,,
+SYNO2,United States,Colorado,08,,
+SYNO2,United States,Colorado,08,Boulder,013
+SYNO2,United States,Colorado,08,Custer,027
+SYNO2,United States,Colorado,08,Denver,031
+SYNO2,United States,Colorado,08,El Paso,041
+SYNO2,United States,Colorado,08,Jefferson,059
+SYNO2,United States,Colorado,08,Las Animas,071
+SYNO2,United States,Connecticut,09,,
+SYNO2,United States,Connecticut,09,Fairfield,001
+SYNO2,United States,Connecticut,09,Hartford,003
+SYNO2,United States,Connecticut,09,Litchfield,005
+SYNO2,United States,Connecticut,09,Middlesex,007
+SYNO2,United States,Connecticut,09,New Haven,009
+SYNO2,United States,Connecticut,09,New London,011
+SYNO2,United States,Connecticut,09,Tolland,013
+SYNO2,Canada,Quebec,10,,
+SYNO2,United States,Delaware,10,,
+SYNO2,United States,Delaware,10,New Castle,003
+SYNO2,United States,District of Columbia,11,,
+SYNO2,United States,District of Columbia,11,District of Columbia,001
+SYNO2,United States,Georgia,13,,
+SYNO2,United States,Illinois,17,,
+SYNO2,United States,Illinois,17,Adams,001
+SYNO2,United States,Illinois,17,Bond,005
+SYNO2,United States,Illinois,17,Boone,007
+SYNO2,United States,Illinois,17,Brown,009
+SYNO2,United States,Illinois,17,Bureau,011
+SYNO2,United States,Illinois,17,Calhoun,013
+SYNO2,United States,Illinois,17,Carroll,015
+SYNO2,United States,Illinois,17,Champaign,019
+SYNO2,United States,Illinois,17,Christian,021
+SYNO2,United States,Illinois,17,Clark,023
+SYNO2,United States,Illinois,17,Clay,025
+SYNO2,United States,Illinois,17,Clinton,027
+SYNO2,United States,Illinois,17,Coles,029
+SYNO2,United States,Illinois,17,Cook,031
+SYNO2,United States,Illinois,17,Crawford,033
+SYNO2,United States,Illinois,17,De Witt,039
+SYNO2,United States,Illinois,17,DeKalb,037
+SYNO2,United States,Illinois,17,Douglas,041
+SYNO2,United States,Illinois,17,DuPage,043
+SYNO2,United States,Illinois,17,Edgar,045
+SYNO2,United States,Illinois,17,Effingham,049
+SYNO2,United States,Illinois,17,Fayette,051
+SYNO2,United States,Illinois,17,Ford,053
+SYNO2,United States,Illinois,17,Franklin,055
+SYNO2,United States,Illinois,17,Fulton,057
+SYNO2,United States,Illinois,17,Greene,061
+SYNO2,United States,Illinois,17,Grundy,063
+SYNO2,United States,Illinois,17,Hamilton,065
+SYNO2,United States,Illinois,17,Hancock,067
+SYNO2,United States,Illinois,17,Henderson,071
+SYNO2,United States,Illinois,17,Henry,073
+SYNO2,United States,Illinois,17,Iroquois,075
+SYNO2,United States,Illinois,17,Jackson,077
+SYNO2,United States,Illinois,17,Jasper,079
+SYNO2,United States,Illinois,17,Jefferson,081
+SYNO2,United States,Illinois,17,Jo Daviess,085
+SYNO2,United States,Illinois,17,Johnson,087
+SYNO2,United States,Illinois,17,Kane,089
+SYNO2,United States,Illinois,17,Kankakee,091
+SYNO2,United States,Illinois,17,Kendall,093
+SYNO2,United States,Illinois,17,Knox,095
+SYNO2,United States,Illinois,17,Lake,097
+SYNO2,United States,Illinois,17,LaSalle,099
+SYNO2,United States,Illinois,17,Lawrence,101
+SYNO2,United States,Illinois,17,Lee,103
+SYNO2,United States,Illinois,17,Livingston,105
+SYNO2,United States,Illinois,17,Logan,107
+SYNO2,United States,Illinois,17,Macon,115
+SYNO2,United States,Illinois,17,Macoupin,117
+SYNO2,United States,Illinois,17,Madison,119
+SYNO2,United States,Illinois,17,Marion,121
+SYNO2,United States,Illinois,17,Marshall,123
+SYNO2,United States,Illinois,17,Mason,125
+SYNO2,United States,Illinois,17,McDonough,109
+SYNO2,United States,Illinois,17,McHenry,111
+SYNO2,United States,Illinois,17,McLean,113
+SYNO2,United States,Illinois,17,Menard,129
+SYNO2,United States,Illinois,17,Mercer,131
+SYNO2,United States,Illinois,17,Montgomery,135
+SYNO2,United States,Illinois,17,Morgan,137
+SYNO2,United States,Illinois,17,Moultrie,139
+SYNO2,United States,Illinois,17,Ogle,141
+SYNO2,United States,Illinois,17,Peoria,143
+SYNO2,United States,Illinois,17,Perry,145
+SYNO2,United States,Illinois,17,Piatt,147
+SYNO2,United States,Illinois,17,Pike,149
+SYNO2,United States,Illinois,17,Pope,151
+SYNO2,United States,Illinois,17,Putnam,155
+SYNO2,United States,Illinois,17,Randolph,157
+SYNO2,United States,Illinois,17,Richland,159
+SYNO2,United States,Illinois,17,Rock Island,161
+SYNO2,United States,Illinois,17,Sangamon,167
+SYNO2,United States,Illinois,17,Schuyler,169
+SYNO2,United States,Illinois,17,Scott,171
+SYNO2,United States,Illinois,17,Shelby,173
+SYNO2,United States,Illinois,17,St. Clair,163
+SYNO2,United States,Illinois,17,Stark,175
+SYNO2,United States,Illinois,17,Stephenson,177
+SYNO2,United States,Illinois,17,Tazewell,179
+SYNO2,United States,Illinois,17,Union,181
+SYNO2,United States,Illinois,17,Vermilion,183
+SYNO2,United States,Illinois,17,Wabash,185
+SYNO2,United States,Illinois,17,Warren,187
+SYNO2,United States,Illinois,17,Wayne,191
+SYNO2,United States,Illinois,17,Whiteside,195
+SYNO2,United States,Illinois,17,Will,197
+SYNO2,United States,Illinois,17,Williamson,199
+SYNO2,United States,Illinois,17,Winnebago,201
+SYNO2,United States,Illinois,17,Woodford,203
+SYNO2,United States,Indiana,18,,
+SYNO2,United States,Indiana,18,Adams,001
+SYNO2,United States,Indiana,18,Allen,003
+SYNO2,United States,Indiana,18,Benton,007
+SYNO2,United States,Indiana,18,Blackford,009
+SYNO2,United States,Indiana,18,Boone,011
+SYNO2,United States,Indiana,18,Carroll,015
+SYNO2,United States,Indiana,18,Cass,017
+SYNO2,United States,Indiana,18,Clark,019
+SYNO2,United States,Indiana,18,Clinton,023
+SYNO2,United States,Indiana,18,Dearborn,029
+SYNO2,United States,Indiana,18,Delaware,035
+SYNO2,United States,Indiana,18,Elkhart,039
+SYNO2,United States,Indiana,18,Fayette,041
+SYNO2,United States,Indiana,18,Floyd,043
+SYNO2,United States,Indiana,18,Fountain,045
+SYNO2,United States,Indiana,18,Franklin,047
+SYNO2,United States,Indiana,18,Fulton,049
+SYNO2,United States,Indiana,18,Gibson,051
+SYNO2,United States,Indiana,18,Greene,055
+SYNO2,United States,Indiana,18,Hancock,059
+SYNO2,United States,Indiana,18,Hendricks,063
+SYNO2,United States,Indiana,18,Henry,065
+SYNO2,United States,Indiana,18,Howard,067
+SYNO2,United States,Indiana,18,Huntington,069
+SYNO2,United States,Indiana,18,Jasper,073
+SYNO2,United States,Indiana,18,Jefferson,077
+SYNO2,United States,Indiana,18,Jennings,079
+SYNO2,United States,Indiana,18,Knox,083
+SYNO2,United States,Indiana,18,Kosciusko,085
+SYNO2,United States,Indiana,18,Lagrange,087
+SYNO2,United States,Indiana,18,Lake,089
+SYNO2,United States,Indiana,18,LaPorte,091
+SYNO2,United States,Indiana,18,Madison,095
+SYNO2,United States,Indiana,18,Marion,097
+SYNO2,United States,Indiana,18,Marshall,099
+SYNO2,United States,Indiana,18,Miami,103
+SYNO2,United States,Indiana,18,Monroe,105
+SYNO2,United States,Indiana,18,Montgomery,107
+SYNO2,United States,Indiana,18,Morgan,109
+SYNO2,United States,Indiana,18,Newton,111
+SYNO2,United States,Indiana,18,Noble,113
+SYNO2,United States,Indiana,18,Parke,121
+SYNO2,United States,Indiana,18,Perry,123
+SYNO2,United States,Indiana,18,Porter,127
+SYNO2,United States,Indiana,18,Posey,129
+SYNO2,United States,Indiana,18,Pulaski,131
+SYNO2,United States,Indiana,18,Putnam,133
+SYNO2,United States,Indiana,18,Randolph,135
+SYNO2,United States,Indiana,18,Ripley,137
+SYNO2,United States,Indiana,18,St. Joseph,141
+SYNO2,United States,Indiana,18,Starke,149
+SYNO2,United States,Indiana,18,Steuben,151
+SYNO2,United States,Indiana,18,Sullivan,153
+SYNO2,United States,Indiana,18,Switzerland,155
+SYNO2,United States,Indiana,18,Tippecanoe,157
+SYNO2,United States,Indiana,18,Tipton,159
+SYNO2,United States,Indiana,18,Union,161
+SYNO2,United States,Indiana,18,Vermillion,165
+SYNO2,United States,Indiana,18,Vigo,167
+SYNO2,United States,Indiana,18,Wabash,169
+SYNO2,United States,Indiana,18,Warren,171
+SYNO2,United States,Indiana,18,Wayne,177
+SYNO2,United States,Indiana,18,Wells,179
+SYNO2,United States,Indiana,18,White,181
+SYNO2,United States,Iowa,19,,
+SYNO2,United States,Iowa,19,Adams,003
+SYNO2,United States,Iowa,19,Audubon,009
+SYNO2,United States,Iowa,19,Cherokee,035
+SYNO2,United States,Iowa,19,Des Moines,057
+SYNO2,United States,Iowa,19,Guthrie,077
+SYNO2,United States,Iowa,19,Lyon,119
+SYNO2,United States,Iowa,19,Mahaska,123
+SYNO2,United States,Iowa,19,Montgomery,137
+SYNO2,United States,Iowa,19,O'Brien,141
+SYNO2,United States,Iowa,19,Osceola,143
+SYNO2,United States,Iowa,19,Page,145
+SYNO2,United States,Iowa,19,Shelby,165
+SYNO2,United States,Iowa,19,Story,169
+SYNO2,United States,Iowa,19,Taylor,173
+SYNO2,United States,Iowa,19,Union,175
+SYNO2,United States,Iowa,19,Washington,183
+SYNO2,United States,Kansas,20,,
+SYNO2,United States,Kansas,20,Anderson,003
+SYNO2,United States,Kansas,20,Atchison,005
+SYNO2,United States,Kansas,20,Brown,013
+SYNO2,United States,Kansas,20,Cherokee,021
+SYNO2,United States,Kansas,20,Doniphan,043
+SYNO2,United States,Kansas,20,Douglas,045
+SYNO2,United States,Kansas,20,Jackson,085
+SYNO2,United States,Kansas,20,Jefferson,087
+SYNO2,United States,Kansas,20,Johnson,091
+SYNO2,United States,Kansas,20,Leavenworth,103
+SYNO2,United States,Kansas,20,Lyon,111
+SYNO2,United States,Kansas,20,Riley,161
+SYNO2,United States,Kansas,20,Wyandotte,209
+SYNO2,United States,Kentucky,21,,
+SYNO2,United States,Kentucky,21,Anderson,005
+SYNO2,United States,Kentucky,21,Barren,009
+SYNO2,United States,Kentucky,21,Bath,011
+SYNO2,United States,Kentucky,21,Bell,013
+SYNO2,United States,Kentucky,21,Boone,015
+SYNO2,United States,Kentucky,21,Bracken,023
+SYNO2,United States,Kentucky,21,Breathitt,025
+SYNO2,United States,Kentucky,21,Bullitt,029
+SYNO2,United States,Kentucky,21,Calloway,035
+SYNO2,United States,Kentucky,21,Campbell,037
+SYNO2,United States,Kentucky,21,Carlisle,039
+SYNO2,United States,Kentucky,21,Clark,049
+SYNO2,United States,Kentucky,21,Estill,065
+SYNO2,United States,Kentucky,21,Fayette,067
+SYNO2,United States,Kentucky,21,Fleming,069
+SYNO2,United States,Kentucky,21,Franklin,073
+SYNO2,United States,Kentucky,21,Gallatin,077
+SYNO2,United States,Kentucky,21,Grant,081
+SYNO2,United States,Kentucky,21,Harrison,097
+SYNO2,United States,Kentucky,21,Henry,103
+SYNO2,United States,Kentucky,21,Hickman,105
+SYNO2,United States,Kentucky,21,Jefferson,111
+SYNO2,United States,Kentucky,21,Jessamine,113
+SYNO2,United States,Kentucky,21,Kenton,117
+SYNO2,United States,Kentucky,21,Lewis,135
+SYNO2,United States,Kentucky,21,Logan,141
+SYNO2,United States,Kentucky,21,Madison,151
+SYNO2,United States,Kentucky,21,Marshall,157
+SYNO2,United States,Kentucky,21,McCracken,145
+SYNO2,United States,Kentucky,21,Nelson,179
+SYNO2,United States,Kentucky,21,Oldham,185
+SYNO2,United States,Kentucky,21,Owsley,189
+SYNO2,United States,Kentucky,21,Pendleton,191
+SYNO2,United States,Kentucky,21,Powell,197
+SYNO2,United States,Kentucky,21,Pulaski,199
+SYNO2,United States,Kentucky,21,Robertson,201
+SYNO2,United States,Kentucky,21,Rowan,205
+SYNO2,United States,Kentucky,21,Scott,209
+SYNO2,United States,Kentucky,21,Todd,219
+SYNO2,United States,Kentucky,21,Washington,229
+SYNO2,United States,Kentucky,21,Whitley,235
+SYNO2,United States,Kentucky,21,Woodford,239
+SYNO2,United States,Maine,23,,
+SYNO2,United States,Maine,23,Cumberland,005
+SYNO2,United States,Maine,23,Hancock,009
+SYNO2,United States,Maine,23,Kennebec,011
+SYNO2,United States,Maine,23,Knox,013
+SYNO2,United States,Maine,23,Oxford,017
+SYNO2,United States,Maine,23,Penobscot,019
+SYNO2,United States,Maine,23,Waldo,027
+SYNO2,United States,Maine,23,York,031
+SYNO2,United States,Maryland,24,,
+SYNO2,United States,Massachusetts,25,,
+SYNO2,United States,Massachusetts,25,Barnstable,001
+SYNO2,United States,Massachusetts,25,Berkshire,003
+SYNO2,United States,Massachusetts,25,Bristol,005
+SYNO2,United States,Massachusetts,25,Dukes,007
+SYNO2,United States,Massachusetts,25,Essex,009
+SYNO2,United States,Massachusetts,25,Franklin,011
+SYNO2,United States,Massachusetts,25,Hampden,013
+SYNO2,United States,Massachusetts,25,Hampshire,015
+SYNO2,United States,Massachusetts,25,Middlesex,017
+SYNO2,United States,Massachusetts,25,Norfolk,021
+SYNO2,United States,Massachusetts,25,Plymouth,023
+SYNO2,United States,Massachusetts,25,Suffolk,025
+SYNO2,United States,Massachusetts,25,Worcester,027
+SYNO2,United States,Michigan,26,,
+SYNO2,United States,Michigan,26,Alpena,007
+SYNO2,United States,Michigan,26,Arenac,011
+SYNO2,United States,Michigan,26,Barry,015
+SYNO2,United States,Michigan,26,Bay,017
+SYNO2,United States,Michigan,26,Benzie,019
+SYNO2,United States,Michigan,26,Berrien,021
+SYNO2,United States,Michigan,26,Calhoun,025
+SYNO2,United States,Michigan,26,Cass,027
+SYNO2,United States,Michigan,26,Cheboygan,031
+SYNO2,United States,Michigan,26,Clinton,037
+SYNO2,United States,Michigan,26,Crawford,039
+SYNO2,United States,Michigan,26,Delta,041
+SYNO2,United States,Michigan,26,Eaton,045
+SYNO2,United States,Michigan,26,Emmet,047
+SYNO2,United States,Michigan,26,Gratiot,057
+SYNO2,United States,Michigan,26,Hillsdale,059
+SYNO2,United States,Michigan,26,Houghton,061
+SYNO2,United States,Michigan,26,Huron,063
+SYNO2,United States,Michigan,26,Ingham,065
+SYNO2,United States,Michigan,26,Isabella,073
+SYNO2,United States,Michigan,26,Jackson,075
+SYNO2,United States,Michigan,26,Kalamazoo,077
+SYNO2,United States,Michigan,26,Kent,081
+SYNO2,United States,Michigan,26,Lapeer,087
+SYNO2,United States,Michigan,26,Leelanau,089
+SYNO2,United States,Michigan,26,Lenawee,091
+SYNO2,United States,Michigan,26,Livingston,093
+SYNO2,United States,Michigan,26,Macomb,099
+SYNO2,United States,Michigan,26,Manistee,101
+SYNO2,United States,Michigan,26,Marquette,103
+SYNO2,United States,Michigan,26,Menominee,109
+SYNO2,United States,Michigan,26,Monroe,115
+SYNO2,United States,Michigan,26,Montcalm,117
+SYNO2,United States,Michigan,26,Oakland,125
+SYNO2,United States,Michigan,26,Saginaw,145
+SYNO2,United States,Michigan,26,Sanilac,151
+SYNO2,United States,Michigan,26,Schoolcraft,153
+SYNO2,United States,Michigan,26,Shiawassee,155
+SYNO2,United States,Michigan,26,St. Clair,147
+SYNO2,United States,Michigan,26,St. Joseph,149
+SYNO2,United States,Michigan,26,Tuscola,157
+SYNO2,United States,Michigan,26,Van Buren,159
+SYNO2,United States,Michigan,26,Washtenaw,161
+SYNO2,United States,Michigan,26,Wayne,163
+SYNO2,United States,Minnesota,27,,
+SYNO2,United States,Minnesota,27,Anoka,003
+SYNO2,United States,Minnesota,27,Becker,005
+SYNO2,United States,Minnesota,27,Big Stone,011
+SYNO2,United States,Minnesota,27,Blue Earth,013
+SYNO2,United States,Minnesota,27,Carver,019
+SYNO2,United States,Minnesota,27,Chippewa,023
+SYNO2,United States,Minnesota,27,Clay,027
+SYNO2,United States,Minnesota,27,Cottonwood,033
+SYNO2,United States,Minnesota,27,Dakota,037
+SYNO2,United States,Minnesota,27,Dodge,039
+SYNO2,United States,Minnesota,27,Douglas,041
+SYNO2,United States,Minnesota,27,Fillmore,045
+SYNO2,United States,Minnesota,27,Freeborn,047
+SYNO2,United States,Minnesota,27,Goodhue,049
+SYNO2,United States,Minnesota,27,Hennepin,053
+SYNO2,United States,Minnesota,27,Houston,055
+SYNO2,United States,Minnesota,27,Isanti,059
+SYNO2,United States,Minnesota,27,Jackson,063
+SYNO2,United States,Minnesota,27,Kandiyohi,067
+SYNO2,United States,Minnesota,27,Kittson,069
+SYNO2,United States,Minnesota,27,Lincoln,081
+SYNO2,United States,Minnesota,27,Lyon,083
+SYNO2,United States,Minnesota,27,Mahnomen,087
+SYNO2,United States,Minnesota,27,Marshall,089
+SYNO2,United States,Minnesota,27,Morrison,097
+SYNO2,United States,Minnesota,27,Mower,099
+SYNO2,United States,Minnesota,27,Murray,101
+SYNO2,United States,Minnesota,27,Nicollet,103
+SYNO2,United States,Minnesota,27,Norman,107
+SYNO2,United States,Minnesota,27,Olmsted,109
+SYNO2,United States,Minnesota,27,Otter Tail,111
+SYNO2,United States,Minnesota,27,Pipestone,117
+SYNO2,United States,Minnesota,27,Polk,119
+SYNO2,United States,Minnesota,27,Pope,121
+SYNO2,United States,Minnesota,27,Ramsey,123
+SYNO2,United States,Minnesota,27,Red Lake,125
+SYNO2,United States,Minnesota,27,Redwood,127
+SYNO2,United States,Minnesota,27,Rice,131
+SYNO2,United States,Minnesota,27,Rock,133
+SYNO2,United States,Minnesota,27,Roseau,135
+SYNO2,United States,Minnesota,27,Scott,139
+SYNO2,United States,Minnesota,27,St. Louis,137
+SYNO2,United States,Minnesota,27,Stearns,145
+SYNO2,United States,Minnesota,27,Steele,147
+SYNO2,United States,Minnesota,27,Stevens,149
+SYNO2,United States,Minnesota,27,Wabasha,157
+SYNO2,United States,Minnesota,27,Washington,163
+SYNO2,United States,Minnesota,27,Wilkin,167
+SYNO2,United States,Minnesota,27,Winona,169
+SYNO2,United States,Minnesota,27,Wright,171
+SYNO2,United States,Mississippi,28,,
+SYNO2,United States,Mississippi,28,Chickasaw,017
+SYNO2,United States,Mississippi,28,Clay,025
+SYNO2,United States,Mississippi,28,Jasper,061
+SYNO2,United States,Mississippi,28,Kemper,069
+SYNO2,United States,Mississippi,28,Lafayette,071
+SYNO2,United States,Mississippi,28,Lauderdale,075
+SYNO2,United States,Mississippi,28,Lowndes,087
+SYNO2,United States,Mississippi,28,Neshoba,099
+SYNO2,United States,Mississippi,28,Newton,101
+SYNO2,United States,Mississippi,28,Noxubee,103
+SYNO2,United States,Mississippi,28,Oktibbeha,105
+SYNO2,United States,Mississippi,28,Pontotoc,115
+SYNO2,United States,Mississippi,28,Prentiss,117
+SYNO2,United States,Mississippi,28,Rankin,121
+SYNO2,United States,Mississippi,28,Scott,123
+SYNO2,United States,Missouri,29,,
+SYNO2,United States,Missouri,29,Adair,001
+SYNO2,United States,Missouri,29,Barry,009
+SYNO2,United States,Missouri,29,Benton,015
+SYNO2,United States,Missouri,29,Boone,019
+SYNO2,United States,Missouri,29,Caldwell,025
+SYNO2,United States,Missouri,29,Camden,029
+SYNO2,United States,Missouri,29,Carroll,033
+SYNO2,United States,Missouri,29,Carter,035
+SYNO2,United States,Missouri,29,Cass,037
+SYNO2,United States,Missouri,29,Chariton,041
+SYNO2,United States,Missouri,29,Clark,045
+SYNO2,United States,Missouri,29,Clay,047
+SYNO2,United States,Missouri,29,Clinton,049
+SYNO2,United States,Missouri,29,Cooper,053
+SYNO2,United States,Missouri,29,Crawford,055
+SYNO2,United States,Missouri,29,Daviess,061
+SYNO2,United States,Missouri,29,DeKalb,063
+SYNO2,United States,Missouri,29,Dent,065
+SYNO2,United States,Missouri,29,Franklin,071
+SYNO2,United States,Missouri,29,Gasconade,073
+SYNO2,United States,Missouri,29,Gentry,075
+SYNO2,United States,Missouri,29,Greene,077
+SYNO2,United States,Missouri,29,Grundy,079
+SYNO2,United States,Missouri,29,Harrison,081
+SYNO2,United States,Missouri,29,Holt,087
+SYNO2,United States,Missouri,29,Howard,089
+SYNO2,United States,Missouri,29,Howell,091
+SYNO2,United States,Missouri,29,Iron,093
+SYNO2,United States,Missouri,29,Jackson,095
+SYNO2,United States,Missouri,29,Johnson,101
+SYNO2,United States,Missouri,29,Knox,103
+SYNO2,United States,Missouri,29,Laclede,105
+SYNO2,United States,Missouri,29,Lafayette,107
+SYNO2,United States,Missouri,29,Lewis,111
+SYNO2,United States,Missouri,29,Linn,115
+SYNO2,United States,Missouri,29,Livingston,117
+SYNO2,United States,Missouri,29,Macon,121
+SYNO2,United States,Missouri,29,Marion,127
+SYNO2,United States,Missouri,29,McDonald,119
+SYNO2,United States,Missouri,29,Mercer,129
+SYNO2,United States,Missouri,29,Miller,131
+SYNO2,United States,Missouri,29,Moniteau,135
+SYNO2,United States,Missouri,29,Morgan,141
+SYNO2,United States,Missouri,29,Nodaway,147
+SYNO2,United States,Missouri,29,Pettis,159
+SYNO2,United States,Missouri,29,Phelps,161
+SYNO2,United States,Missouri,29,Platte,165
+SYNO2,United States,Missouri,29,Polk,167
+SYNO2,United States,Missouri,29,Pulaski,169
+SYNO2,United States,Missouri,29,Putnam,171
+SYNO2,United States,Missouri,29,Ray,177
+SYNO2,United States,Missouri,29,Reynolds,179
+SYNO2,United States,Missouri,29,Saline,195
+SYNO2,United States,Missouri,29,Schuyler,197
+SYNO2,United States,Missouri,29,Shannon,203
+SYNO2,United States,Missouri,29,Shelby,205
+SYNO2,United States,Missouri,29,St. Francois,187
+SYNO2,United States,Missouri,29,St. Louis,189
+SYNO2,United States,Missouri,29,Ste. Genevieve,186
+SYNO2,United States,Missouri,29,Sullivan,211
+SYNO2,United States,Missouri,29,Washington,221
+SYNO2,United States,Missouri,29,Wayne,223
+SYNO2,United States,Missouri,29,Webster,225
+SYNO2,United States,Missouri,29,Worth,227
+SYNO2,United States,Montana,30,,
+SYNO2,United States,Montana,30,Custer,017
+SYNO2,United States,Montana,30,Dawson,021
+SYNO2,United States,Nebraska,31,,
+SYNO2,United States,Nebraska,31,Blaine,009
+SYNO2,United States,Nebraska,31,Brown,017
+SYNO2,United States,Nebraska,31,Cass,025
+SYNO2,United States,Nebraska,31,Cherry,031
+SYNO2,United States,Nebraska,31,Cuming,039
+SYNO2,United States,Nebraska,31,Dodge,053
+SYNO2,United States,Nebraska,31,Douglas,055
+SYNO2,United States,Nebraska,31,Garfield,071
+SYNO2,United States,Nebraska,31,Hall,079
+SYNO2,United States,Nebraska,31,Holt,089
+SYNO2,United States,Nebraska,31,Howard,093
+SYNO2,United States,Nebraska,31,Keya Paha,103
+SYNO2,United States,Nebraska,31,Nance,125
+SYNO2,United States,Nebraska,31,Nemaha,127
+SYNO2,United States,Nebraska,31,Otoe,131
+SYNO2,United States,Nebraska,31,Platte,141
+SYNO2,United States,Nebraska,31,Polk,143
+SYNO2,United States,Nebraska,31,Richardson,147
+SYNO2,United States,Nebraska,31,Sarpy,153
+SYNO2,United States,Nebraska,31,Thomas,171
+SYNO2,United States,Nebraska,31,Washington,177
+SYNO2,United States,New Hampshire,33,,
+SYNO2,United States,New Hampshire,33,Cheshire,005
+SYNO2,United States,New Hampshire,33,Grafton,009
+SYNO2,United States,New Hampshire,33,Hillsborough,011
+SYNO2,United States,New Hampshire,33,Merrimack,013
+SYNO2,United States,New Hampshire,33,Rockingham,015
+SYNO2,United States,New Hampshire,33,Strafford,017
+SYNO2,United States,New Jersey,34,,
+SYNO2,United States,New Jersey,34,Bergen,003
+SYNO2,United States,New Jersey,34,Burlington,005
+SYNO2,United States,New Jersey,34,Essex,013
+SYNO2,United States,New Jersey,34,Hudson,017
+SYNO2,United States,New Jersey,34,Hunterdon,019
+SYNO2,United States,New Jersey,34,Mercer,021
+SYNO2,United States,New Jersey,34,Middlesex,023
+SYNO2,United States,New Jersey,34,Monmouth,025
+SYNO2,United States,New Jersey,34,Morris,027
+SYNO2,United States,New Jersey,34,Ocean,029
+SYNO2,United States,New Jersey,34,Passaic,031
+SYNO2,United States,New Jersey,34,Somerset,035
+SYNO2,United States,New Jersey,34,Sussex,037
+SYNO2,United States,New Jersey,34,Union,039
+SYNO2,United States,New Jersey,34,Warren,041
+SYNO2,United States,New Mexico,35,,
+SYNO2,United States,New Mexico,35,Colfax,007
+SYNO2,United States,New Mexico,35,De Baca,011
+SYNO2,United States,New Mexico,35,Rio Arriba,039
+SYNO2,United States,New Mexico,35,Roosevelt,041
+SYNO2,United States,New Mexico,35,San Miguel,047
+SYNO2,United States,New York,36,,
+SYNO2,United States,New York,36,Albany,001
+SYNO2,United States,New York,36,Allegany,003
+SYNO2,United States,New York,36,Bronx,005
+SYNO2,United States,New York,36,Cattaraugus,009
+SYNO2,United States,New York,36,Cayuga,011
+SYNO2,United States,New York,36,Chenango,017
+SYNO2,United States,New York,36,Columbia,021
+SYNO2,United States,New York,36,Cortland,023
+SYNO2,United States,New York,36,Delaware,025
+SYNO2,United States,New York,36,Dutchess,027
+SYNO2,United States,New York,36,Erie,029
+SYNO2,United States,New York,36,Essex,031
+SYNO2,United States,New York,36,Fulton,035
+SYNO2,United States,New York,36,Greene,039
+SYNO2,United States,New York,36,Herkimer,043
+SYNO2,United States,New York,36,Jefferson,045
+SYNO2,United States,New York,36,Kings,047
+SYNO2,United States,New York,36,Livingston,051
+SYNO2,United States,New York,36,Madison,053
+SYNO2,United States,New York,36,Nassau,059
+SYNO2,United States,New York,36,New York,061
+SYNO2,United States,New York,36,Niagara,063
+SYNO2,United States,New York,36,Oneida,065
+SYNO2,United States,New York,36,Onondaga,067
+SYNO2,United States,New York,36,Ontario,069
+SYNO2,United States,New York,36,Orange,071
+SYNO2,United States,New York,36,Oswego,075
+SYNO2,United States,New York,36,Otsego,077
+SYNO2,United States,New York,36,Putnam,079
+SYNO2,United States,New York,36,Queens,081
+SYNO2,United States,New York,36,Rensselaer,083
+SYNO2,United States,New York,36,Richmond,085
+SYNO2,United States,New York,36,Rockland,087
+SYNO2,United States,New York,36,Schenectady,093
+SYNO2,United States,New York,36,Schoharie,095
+SYNO2,United States,New York,36,St. Lawrence,089
+SYNO2,United States,New York,36,Suffolk,103
+SYNO2,United States,New York,36,Tompkins,109
+SYNO2,United States,New York,36,Ulster,111
+SYNO2,United States,New York,36,Washington,115
+SYNO2,United States,New York,36,Westchester,119
+SYNO2,United States,North Carolina,37,,
+SYNO2,United States,North Carolina,37,Ashe,009
+SYNO2,United States,North Carolina,37,Avery,011
+SYNO2,United States,North Carolina,37,Clay,043
+SYNO2,United States,North Carolina,37,Graham,075
+SYNO2,United States,North Carolina,37,Haywood,087
+SYNO2,United States,North Carolina,37,Surry,171
+SYNO2,United States,North Carolina,37,Yancey,199
+SYNO2,United States,North Dakota,38,,
+SYNO2,United States,North Dakota,38,Barnes,003
+SYNO2,United States,North Dakota,38,Benson,005
+SYNO2,United States,North Dakota,38,Cass,017
+SYNO2,United States,North Dakota,38,Eddy,027
+SYNO2,United States,North Dakota,38,Grand Forks,035
+SYNO2,United States,North Dakota,38,Griggs,039
+SYNO2,United States,North Dakota,38,McHenry,049
+SYNO2,United States,North Dakota,38,Nelson,063
+SYNO2,United States,North Dakota,38,Pembina,067
+SYNO2,United States,North Dakota,38,Ransom,073
+SYNO2,United States,North Dakota,38,Richland,077
+SYNO2,United States,Ohio,39,,
+SYNO2,United States,Ohio,39,Adams,001
+SYNO2,United States,Ohio,39,Allen,003
+SYNO2,United States,Ohio,39,Ashland,005
+SYNO2,United States,Ohio,39,Ashtabula,007
+SYNO2,United States,Ohio,39,Athens,009
+SYNO2,United States,Ohio,39,Auglaize,011
+SYNO2,United States,Ohio,39,Brown,015
+SYNO2,United States,Ohio,39,Butler,017
+SYNO2,United States,Ohio,39,Carroll,019
+SYNO2,United States,Ohio,39,Champaign,021
+SYNO2,United States,Ohio,39,Clark,023
+SYNO2,United States,Ohio,39,Clermont,025
+SYNO2,United States,Ohio,39,Clinton,027
+SYNO2,United States,Ohio,39,Columbiana,029
+SYNO2,United States,Ohio,39,Coshocton,031
+SYNO2,United States,Ohio,39,Crawford,033
+SYNO2,United States,Ohio,39,Cuyahoga,035
+SYNO2,United States,Ohio,39,Darke,037
+SYNO2,United States,Ohio,39,Erie,043
+SYNO2,United States,Ohio,39,Fairfield,045
+SYNO2,United States,Ohio,39,Fayette,047
+SYNO2,United States,Ohio,39,Franklin,049
+SYNO2,United States,Ohio,39,Fulton,051
+SYNO2,United States,Ohio,39,Gallia,053
+SYNO2,United States,Ohio,39,Geauga,055
+SYNO2,United States,Ohio,39,Greene,057
+SYNO2,United States,Ohio,39,Guernsey,059
+SYNO2,United States,Ohio,39,Hamilton,061
+SYNO2,United States,Ohio,39,Hancock,063
+SYNO2,United States,Ohio,39,Harrison,067
+SYNO2,United States,Ohio,39,Henry,069
+SYNO2,United States,Ohio,39,Highland,071
+SYNO2,United States,Ohio,39,Hocking,073
+SYNO2,United States,Ohio,39,Holmes,075
+SYNO2,United States,Ohio,39,Huron,077
+SYNO2,United States,Ohio,39,Jackson,079
+SYNO2,United States,Ohio,39,Jefferson,081
+SYNO2,United States,Ohio,39,Knox,083
+SYNO2,United States,Ohio,39,Lake,085
+SYNO2,United States,Ohio,39,Lawrence,087
+SYNO2,United States,Ohio,39,Licking,089
+SYNO2,United States,Ohio,39,Logan,091
+SYNO2,United States,Ohio,39,Lorain,093
+SYNO2,United States,Ohio,39,Lucas,095
+SYNO2,United States,Ohio,39,Madison,097
+SYNO2,United States,Ohio,39,Mahoning,099
+SYNO2,United States,Ohio,39,Marion,101
+SYNO2,United States,Ohio,39,Medina,103
+SYNO2,United States,Ohio,39,Meigs,105
+SYNO2,United States,Ohio,39,Mercer,107
+SYNO2,United States,Ohio,39,Miami,109
+SYNO2,United States,Ohio,39,Montgomery,113
+SYNO2,United States,Ohio,39,Morgan,115
+SYNO2,United States,Ohio,39,Morrow,117
+SYNO2,United States,Ohio,39,Muskingum,119
+SYNO2,United States,Ohio,39,Noble,121
+SYNO2,United States,Ohio,39,Ottawa,123
+SYNO2,United States,Ohio,39,Paulding,125
+SYNO2,United States,Ohio,39,Perry,127
+SYNO2,United States,Ohio,39,Pickaway,129
+SYNO2,United States,Ohio,39,Pike,131
+SYNO2,United States,Ohio,39,Portage,133
+SYNO2,United States,Ohio,39,Putnam,137
+SYNO2,United States,Ohio,39,Richland,139
+SYNO2,United States,Ohio,39,Ross,141
+SYNO2,United States,Ohio,39,Sandusky,143
+SYNO2,United States,Ohio,39,Scioto,145
+SYNO2,United States,Ohio,39,Seneca,147
+SYNO2,United States,Ohio,39,Stark,151
+SYNO2,United States,Ohio,39,Summit,153
+SYNO2,United States,Ohio,39,Trumbull,155
+SYNO2,United States,Ohio,39,Tuscarawas,157
+SYNO2,United States,Ohio,39,Union,159
+SYNO2,United States,Ohio,39,Van Wert,161
+SYNO2,United States,Ohio,39,Vinton,163
+SYNO2,United States,Ohio,39,Warren,165
+SYNO2,United States,Ohio,39,Washington,167
+SYNO2,United States,Ohio,39,Wayne,169
+SYNO2,United States,Ohio,39,Wood,173
+SYNO2,United States,Ohio,39,Wyandot,175
+SYNO2,United States,Oklahoma,40,,
+SYNO2,United States,Oklahoma,40,Cherokee,021
+SYNO2,United States,Oregon,41,,
+SYNO2,United States,Oregon,41,Grant,023
+SYNO2,United States,Pennsylvania,42,,
+SYNO2,United States,Pennsylvania,42,Adams,001
+SYNO2,United States,Pennsylvania,42,Allegheny,003
+SYNO2,United States,Pennsylvania,42,Armstrong,005
+SYNO2,United States,Pennsylvania,42,Beaver,007
+SYNO2,United States,Pennsylvania,42,Bedford,009
+SYNO2,United States,Pennsylvania,42,Berks,011
+SYNO2,United States,Pennsylvania,42,Blair,013
+SYNO2,United States,Pennsylvania,42,Bradford,015
+SYNO2,United States,Pennsylvania,42,Bucks,017
+SYNO2,United States,Pennsylvania,42,Butler,019
+SYNO2,United States,Pennsylvania,42,Cambria,021
+SYNO2,United States,Pennsylvania,42,Centre,027
+SYNO2,United States,Pennsylvania,42,Chester,029
+SYNO2,United States,Pennsylvania,42,Clarion,031
+SYNO2,United States,Pennsylvania,42,Clearfield,033
+SYNO2,United States,Pennsylvania,42,Crawford,039
+SYNO2,United States,Pennsylvania,42,Cumberland,041
+SYNO2,United States,Pennsylvania,42,Dauphin,043
+SYNO2,United States,Pennsylvania,42,Delaware,045
+SYNO2,United States,Pennsylvania,42,Elk,047
+SYNO2,United States,Pennsylvania,42,Erie,049
+SYNO2,United States,Pennsylvania,42,Fayette,051
+SYNO2,United States,Pennsylvania,42,Forest,053
+SYNO2,United States,Pennsylvania,42,Franklin,055
+SYNO2,United States,Pennsylvania,42,Fulton,057
+SYNO2,United States,Pennsylvania,42,Greene,059
+SYNO2,United States,Pennsylvania,42,Huntingdon,061
+SYNO2,United States,Pennsylvania,42,Indiana,063
+SYNO2,United States,Pennsylvania,42,Jefferson,065
+SYNO2,United States,Pennsylvania,42,Juniata,067
+SYNO2,United States,Pennsylvania,42,Lackawanna,069
+SYNO2,United States,Pennsylvania,42,Lancaster,071
+SYNO2,United States,Pennsylvania,42,Lawrence,073
+SYNO2,United States,Pennsylvania,42,Lebanon,075
+SYNO2,United States,Pennsylvania,42,Lehigh,077
+SYNO2,United States,Pennsylvania,42,Luzerne,079
+SYNO2,United States,Pennsylvania,42,Lycoming,081
+SYNO2,United States,Pennsylvania,42,McKean,083
+SYNO2,United States,Pennsylvania,42,Mercer,085
+SYNO2,United States,Pennsylvania,42,Mifflin,087
+SYNO2,United States,Pennsylvania,42,Monroe,089
+SYNO2,United States,Pennsylvania,42,Montgomery,091
+SYNO2,United States,Pennsylvania,42,Northampton,095
+SYNO2,United States,Pennsylvania,42,Perry,099
+SYNO2,United States,Pennsylvania,42,Philadelphia,101
+SYNO2,United States,Pennsylvania,42,Pike,103
+SYNO2,United States,Pennsylvania,42,Potter,105
+SYNO2,United States,Pennsylvania,42,Schuylkill,107
+SYNO2,United States,Pennsylvania,42,Snyder,109
+SYNO2,United States,Pennsylvania,42,Somerset,111
+SYNO2,United States,Pennsylvania,42,Susquehanna,115
+SYNO2,United States,Pennsylvania,42,Tioga,117
+SYNO2,United States,Pennsylvania,42,Union,119
+SYNO2,United States,Pennsylvania,42,Venango,121
+SYNO2,United States,Pennsylvania,42,Warren,123
+SYNO2,United States,Pennsylvania,42,Washington,125
+SYNO2,United States,Pennsylvania,42,Wayne,127
+SYNO2,United States,Pennsylvania,42,Westmoreland,129
+SYNO2,United States,Pennsylvania,42,Wyoming,131
+SYNO2,United States,Pennsylvania,42,York,133
+SYNO2,United States,Rhode Island,44,,
+SYNO2,United States,Rhode Island,44,Bristol,001
+SYNO2,United States,Rhode Island,44,Providence,007
+SYNO2,United States,South Carolina,45,,
+SYNO2,United States,South Dakota,46,,
+SYNO2,United States,South Dakota,46,Brookings,011
+SYNO2,United States,South Dakota,46,Clay,027
+SYNO2,United States,South Dakota,46,Codington,029
+SYNO2,United States,South Dakota,46,Day,037
+SYNO2,United States,South Dakota,46,Lawrence,081
+SYNO2,United States,South Dakota,46,Pennington,103
+SYNO2,United States,South Dakota,46,Potter,107
+SYNO2,United States,South Dakota,46,Union,127
+SYNO2,United States,Tennessee,47,,
+SYNO2,United States,Tennessee,47,Bedford,003
+SYNO2,United States,Tennessee,47,Bledsoe,007
+SYNO2,United States,Tennessee,47,Blount,009
+SYNO2,United States,Tennessee,47,Carter,019
+SYNO2,United States,Tennessee,47,Claiborne,025
+SYNO2,United States,Tennessee,47,Coffee,031
+SYNO2,United States,Tennessee,47,Fayette,047
+SYNO2,United States,Tennessee,47,Grainger,057
+SYNO2,United States,Tennessee,47,Hancock,067
+SYNO2,United States,Tennessee,47,Haywood,075
+SYNO2,United States,Tennessee,47,Knox,093
+SYNO2,United States,Tennessee,47,Lewis,101
+SYNO2,United States,Tennessee,47,Montgomery,125
+SYNO2,United States,Tennessee,47,Overton,133
+SYNO2,United States,Tennessee,47,Roane,145
+SYNO2,United States,Tennessee,47,Rutherford,149
+SYNO2,United States,Tennessee,47,Stewart,161
+SYNO2,United States,Tennessee,47,Unicoi,171
+SYNO2,United States,Tennessee,47,Washington,179
+SYNO2,United States,Utah,49,,
+SYNO2,United States,Utah,49,Juab,023
+SYNO2,United States,Utah,49,Salt Lake,035
+SYNO2,United States,Utah,49,Uintah,047
+SYNO2,United States,Vermont,50,,
+SYNO2,United States,Vermont,50,Addison,001
+SYNO2,United States,Vermont,50,Bennington,003
+SYNO2,United States,Vermont,50,Chittenden,007
+SYNO2,United States,Vermont,50,Essex,009
+SYNO2,United States,Vermont,50,Rutland,021
+SYNO2,United States,Vermont,50,Washington,023
+SYNO2,United States,Vermont,50,Windham,025
+SYNO2,United States,Vermont,50,Windsor,027
+SYNO2,United States,Virginia,51,,
+SYNO2,United States,Virginia,51,Albemarle,003
+SYNO2,United States,Virginia,51,Alleghany,005
+SYNO2,United States,Virginia,51,Amherst,009
+SYNO2,United States,Virginia,51,Arlington,013
+SYNO2,United States,Virginia,51,Augusta,015
+SYNO2,United States,Virginia,51,Bath,017
+SYNO2,United States,Virginia,51,Bedford,019
+SYNO2,United States,Virginia,51,Bland,021
+SYNO2,United States,Virginia,51,Botetourt,023
+SYNO2,United States,Virginia,51,Campbell,031
+SYNO2,United States,Virginia,51,Carroll,035
+SYNO2,United States,Virginia,51,Chesterfield,041
+SYNO2,United States,Virginia,51,Craig,045
+SYNO2,United States,Virginia,51,Cumberland,049
+SYNO2,United States,Virginia,51,Fairfax,059
+SYNO2,United States,Virginia,51,Fauquier,061
+SYNO2,United States,Virginia,51,Floyd,063
+SYNO2,United States,Virginia,51,Frederick,069
+SYNO2,United States,Virginia,51,Gloucester,073
+SYNO2,United States,Virginia,51,Highland,091
+SYNO2,United States,Virginia,51,Lee,105
+SYNO2,United States,Virginia,51,Loudoun,107
+SYNO2,United States,Virginia,51,Montgomery,121
+SYNO2,United States,Virginia,51,Nelson,125
+SYNO2,United States,Virginia,51,Prince William,153
+SYNO2,United States,Virginia,51,Pulaski,155
+SYNO2,United States,Virginia,51,Rockbridge,163
+SYNO2,United States,Virginia,51,Rockingham,165
+SYNO2,United States,Virginia,51,Russell,167
+SYNO2,United States,Virginia,51,Scott,169
+SYNO2,United States,Virginia,51,Shenandoah,171
+SYNO2,United States,Virginia,51,Smyth,173
+SYNO2,United States,Virginia,51,Tazewell,185
+SYNO2,United States,Virginia,51,Washington,191
+SYNO2,United States,Virginia,51,Wythe,197
+SYNO2,United States,Washington,53,,
+SYNO2,United States,Washington,53,King,033
+SYNO2,United States,Washington,53,Kitsap,035
+SYNO2,United States,West Virginia,54,,
+SYNO2,United States,West Virginia,54,Berkeley,003
+SYNO2,United States,West Virginia,54,Cabell,011
+SYNO2,United States,West Virginia,54,Fayette,019
+SYNO2,United States,West Virginia,54,Hampshire,027
+SYNO2,United States,West Virginia,54,Lewis,041
+SYNO2,United States,West Virginia,54,Marion,049
+SYNO2,United States,West Virginia,54,McDowell,047
+SYNO2,United States,West Virginia,54,Mineral,057
+SYNO2,United States,West Virginia,54,Monongalia,061
+SYNO2,United States,West Virginia,54,Ohio,069
+SYNO2,United States,West Virginia,54,Pendleton,071
+SYNO2,United States,West Virginia,54,Pocahontas,075
+SYNO2,United States,West Virginia,54,Preston,077
+SYNO2,United States,West Virginia,54,Randolph,083
+SYNO2,United States,West Virginia,54,Upshur,097
+SYNO2,United States,West Virginia,54,Wetzel,103
+SYNO2,United States,Wisconsin,55,,
+SYNO2,United States,Wisconsin,55,Adams,001
+SYNO2,United States,Wisconsin,55,Bayfield,007
+SYNO2,United States,Wisconsin,55,Brown,009
+SYNO2,United States,Wisconsin,55,Calumet,015
+SYNO2,United States,Wisconsin,55,Columbia,021
+SYNO2,United States,Wisconsin,55,Crawford,023
+SYNO2,United States,Wisconsin,55,Dane,025
+SYNO2,United States,Wisconsin,55,Dodge,027
+SYNO2,United States,Wisconsin,55,Fond du Lac,039
+SYNO2,United States,Wisconsin,55,Grant,043
+SYNO2,United States,Wisconsin,55,Green,045
+SYNO2,United States,Wisconsin,55,Green Lake,047
+SYNO2,United States,Wisconsin,55,Iowa,049
+SYNO2,United States,Wisconsin,55,Jefferson,055
+SYNO2,United States,Wisconsin,55,Kenosha,059
+SYNO2,United States,Wisconsin,55,Kewaunee,061
+SYNO2,United States,Wisconsin,55,La Crosse,063
+SYNO2,United States,Wisconsin,55,Lafayette,065
+SYNO2,United States,Wisconsin,55,Langlade,067
+SYNO2,United States,Wisconsin,55,Lincoln,069
+SYNO2,United States,Wisconsin,55,Manitowoc,071
+SYNO2,United States,Wisconsin,55,Marathon,073
+SYNO2,United States,Wisconsin,55,Marinette,075
+SYNO2,United States,Wisconsin,55,Marquette,077
+SYNO2,United States,Wisconsin,55,Milwaukee,079
+SYNO2,United States,Wisconsin,55,Monroe,081
+SYNO2,United States,Wisconsin,55,Oconto,083
+SYNO2,United States,Wisconsin,55,Outagamie,087
+SYNO2,United States,Wisconsin,55,Ozaukee,089
+SYNO2,United States,Wisconsin,55,Pierce,093
+SYNO2,United States,Wisconsin,55,Polk,095
+SYNO2,United States,Wisconsin,55,Price,099
+SYNO2,United States,Wisconsin,55,Racine,101
+SYNO2,United States,Wisconsin,55,Richland,103
+SYNO2,United States,Wisconsin,55,Rock,105
+SYNO2,United States,Wisconsin,55,Rusk,107
+SYNO2,United States,Wisconsin,55,Sauk,111
+SYNO2,United States,Wisconsin,55,Shawano,115
+SYNO2,United States,Wisconsin,55,Sheboygan,117
+SYNO2,United States,Wisconsin,55,St. Croix,109
+SYNO2,United States,Wisconsin,55,Trempealeau,121
+SYNO2,United States,Wisconsin,55,Vernon,123
+SYNO2,United States,Wisconsin,55,Walworth,127
+SYNO2,United States,Wisconsin,55,Washington,131
+SYNO2,United States,Wisconsin,55,Waukesha,133
+SYNO2,United States,Wisconsin,55,Waupaca,135
+SYNO2,United States,Wisconsin,55,Waushara,137
+SYNO2,United States,Wisconsin,55,Winnebago,139
+SYNO2,United States,Wisconsin,55,Wood,141
+SYNO2,United States,Wyoming,56,,
+SYNO2,United States,Wyoming,56,Albany,001
+SYNO2,United States,Wyoming,56,Laramie,021
+SYNO2,United States,Wyoming,56,Weston,045

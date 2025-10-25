@@ -1,0 +1,149 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ZIGR,United States,Arizona,04,,
+ZIGR,United States,Arizona,04,Apache,001
+ZIGR,United States,Arizona,04,Cochise,003
+ZIGR,United States,Arizona,04,Coconino,005
+ZIGR,United States,Arizona,04,Greenlee,011
+ZIGR,United States,Arizona,04,Mohave,015
+ZIGR,United States,Arizona,04,Navajo,017
+ZIGR,United States,Arizona,04,Santa Cruz,023
+ZIGR,United States,Arizona,04,Yavapai,025
+ZIGR,United States,Colorado,08,,
+ZIGR,United States,Colorado,08,Baca,009
+ZIGR,United States,Colorado,08,Bent,011
+ZIGR,United States,Colorado,08,Cheyenne,017
+ZIGR,United States,Colorado,08,Crowley,025
+ZIGR,United States,Colorado,08,El Paso,041
+ZIGR,United States,Colorado,08,Fremont,043
+ZIGR,United States,Colorado,08,Huerfano,055
+ZIGR,United States,Colorado,08,Kiowa,061
+ZIGR,United States,Colorado,08,Las Animas,071
+ZIGR,United States,Colorado,08,Lincoln,073
+ZIGR,United States,Colorado,08,Otero,089
+ZIGR,United States,Colorado,08,Pueblo,101
+ZIGR,United States,Kansas,20,,
+ZIGR,United States,Kansas,20,Barber,007
+ZIGR,United States,Kansas,20,Clark,025
+ZIGR,United States,Kansas,20,Comanche,033
+ZIGR,United States,Kansas,20,Ford,057
+ZIGR,United States,Kansas,20,Grant,067
+ZIGR,United States,Kansas,20,Gray,069
+ZIGR,United States,Kansas,20,Meade,119
+ZIGR,United States,Kansas,20,Morton,129
+ZIGR,United States,Kansas,20,Pratt,151
+ZIGR,United States,Kansas,20,Seward,175
+ZIGR,United States,Kansas,20,Stanton,187
+ZIGR,United States,Kansas,20,Stevens,189
+ZIGR,United States,New Mexico,35,,
+ZIGR,United States,New Mexico,35,Bernalillo,001
+ZIGR,United States,New Mexico,35,Catron,003
+ZIGR,United States,New Mexico,35,Chaves,005
+ZIGR,United States,New Mexico,35,Cibola,006
+ZIGR,United States,New Mexico,35,Colfax,007
+ZIGR,United States,New Mexico,35,Curry,009
+ZIGR,United States,New Mexico,35,De Baca,011
+ZIGR,United States,New Mexico,35,Dona Ana,013
+ZIGR,United States,New Mexico,35,Eddy,015
+ZIGR,United States,New Mexico,35,Grant,017
+ZIGR,United States,New Mexico,35,Guadalupe,019
+ZIGR,United States,New Mexico,35,Harding,021
+ZIGR,United States,New Mexico,35,Hidalgo,023
+ZIGR,United States,New Mexico,35,Lea,025
+ZIGR,United States,New Mexico,35,Lincoln,027
+ZIGR,United States,New Mexico,35,Luna,029
+ZIGR,United States,New Mexico,35,McKinley,031
+ZIGR,United States,New Mexico,35,Mora,033
+ZIGR,United States,New Mexico,35,Quay,037
+ZIGR,United States,New Mexico,35,Roosevelt,041
+ZIGR,United States,New Mexico,35,San Juan,045
+ZIGR,United States,New Mexico,35,San Miguel,047
+ZIGR,United States,New Mexico,35,Sandoval,043
+ZIGR,United States,New Mexico,35,Santa Fe,049
+ZIGR,United States,New Mexico,35,Sierra,051
+ZIGR,United States,New Mexico,35,Socorro,053
+ZIGR,United States,New Mexico,35,Torrance,057
+ZIGR,United States,New Mexico,35,Union,059
+ZIGR,United States,New Mexico,35,Valencia,061
+ZIGR,United States,Oklahoma,40,,
+ZIGR,United States,Oklahoma,40,Beaver,007
+ZIGR,United States,Oklahoma,40,Beckham,009
+ZIGR,United States,Oklahoma,40,Cimarron,025
+ZIGR,United States,Oklahoma,40,Custer,039
+ZIGR,United States,Oklahoma,40,Ellis,045
+ZIGR,United States,Oklahoma,40,Greer,055
+ZIGR,United States,Oklahoma,40,Harmon,057
+ZIGR,United States,Oklahoma,40,Harper,059
+ZIGR,United States,Oklahoma,40,Jackson,065
+ZIGR,United States,Oklahoma,40,Roger Mills,129
+ZIGR,United States,Oklahoma,40,Texas,139
+ZIGR,United States,Oklahoma,40,Washita,149
+ZIGR,United States,Oklahoma,40,Woods,151
+ZIGR,United States,Oklahoma,40,Woodward,153
+ZIGR,United States,Texas,48,,
+ZIGR,United States,Texas,48,Andrews,003
+ZIGR,United States,Texas,48,Armstrong,011
+ZIGR,United States,Texas,48,Bailey,017
+ZIGR,United States,Texas,48,Borden,033
+ZIGR,United States,Texas,48,Brewster,043
+ZIGR,United States,Texas,48,Briscoe,045
+ZIGR,United States,Texas,48,Brown,049
+ZIGR,United States,Texas,48,Carson,065
+ZIGR,United States,Texas,48,Castro,069
+ZIGR,United States,Texas,48,Childress,075
+ZIGR,United States,Texas,48,Coke,081
+ZIGR,United States,Texas,48,Cottle,101
+ZIGR,United States,Texas,48,Crane,103
+ZIGR,United States,Texas,48,Crockett,105
+ZIGR,United States,Texas,48,Crosby,107
+ZIGR,United States,Texas,48,Culberson,109
+ZIGR,United States,Texas,48,Dallam,111
+ZIGR,United States,Texas,48,Deaf Smith,117
+ZIGR,United States,Texas,48,Dickens,125
+ZIGR,United States,Texas,48,Donley,129
+ZIGR,United States,Texas,48,Ector,135
+ZIGR,United States,Texas,48,El Paso,141
+ZIGR,United States,Texas,48,Floyd,153
+ZIGR,United States,Texas,48,Gaines,165
+ZIGR,United States,Texas,48,Garza,169
+ZIGR,United States,Texas,48,Gray,179
+ZIGR,United States,Texas,48,Hall,191
+ZIGR,United States,Texas,48,Hansford,195
+ZIGR,United States,Texas,48,Hardeman,197
+ZIGR,United States,Texas,48,Hartley,205
+ZIGR,United States,Texas,48,Hemphill,211
+ZIGR,United States,Texas,48,Hockley,219
+ZIGR,United States,Texas,48,Howard,227
+ZIGR,United States,Texas,48,Hudspeth,229
+ZIGR,United States,Texas,48,Hutchinson,233
+ZIGR,United States,Texas,48,Irion,235
+ZIGR,United States,Texas,48,Jeff Davis,243
+ZIGR,United States,Texas,48,Lamb,279
+ZIGR,United States,Texas,48,Loving,301
+ZIGR,United States,Texas,48,Lubbock,303
+ZIGR,United States,Texas,48,Mason,319
+ZIGR,United States,Texas,48,Menard,327
+ZIGR,United States,Texas,48,Midland,329
+ZIGR,United States,Texas,48,Motley,345
+ZIGR,United States,Texas,48,Nolan,353
+ZIGR,United States,Texas,48,Ochiltree,357
+ZIGR,United States,Texas,48,Oldham,359
+ZIGR,United States,Texas,48,Parmer,369
+ZIGR,United States,Texas,48,Pecos,371
+ZIGR,United States,Texas,48,Potter,375
+ZIGR,United States,Texas,48,Presidio,377
+ZIGR,United States,Texas,48,Randall,381
+ZIGR,United States,Texas,48,Reagan,383
+ZIGR,United States,Texas,48,Reeves,389
+ZIGR,United States,Texas,48,Roberts,393
+ZIGR,United States,Texas,48,Runnels,399
+ZIGR,United States,Texas,48,Schleicher,413
+ZIGR,United States,Texas,48,Scurry,415
+ZIGR,United States,Texas,48,Sherman,421
+ZIGR,United States,Texas,48,Sutton,435
+ZIGR,United States,Texas,48,Swisher,437
+ZIGR,United States,Texas,48,Tom Green,451
+ZIGR,United States,Texas,48,Ward,475
+ZIGR,United States,Texas,48,Wheeler,483
+ZIGR,United States,Texas,48,Winkler,495
+ZIGR,United States,Texas,48,Yoakum,501

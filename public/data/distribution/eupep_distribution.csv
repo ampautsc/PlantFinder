@@ -1,0 +1,1332 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+EUPEP,United States,Alabama,01,,
+EUPEP,United States,Alabama,01,Fayette,057
+EUPEP,United States,Alabama,01,Hale,065
+EUPEP,United States,Alabama,01,Madison,089
+EUPEP,United States,Alabama,01,Mobile,097
+EUPEP,United States,Alabama,01,Montgomery,101
+EUPEP,United States,Alabama,01,Tuscaloosa,125
+EUPEP,United States,Alabama,01,Winston,133
+EUPEP,Canada,Manitoba,03,,
+EUPEP,Canada,New Brunswick,04,,
+EUPEP,United States,Arkansas,05,,
+EUPEP,United States,Arkansas,05,Arkansas,001
+EUPEP,United States,Arkansas,05,Ashley,003
+EUPEP,United States,Arkansas,05,Bradley,011
+EUPEP,United States,Arkansas,05,Calhoun,013
+EUPEP,United States,Arkansas,05,Clark,019
+EUPEP,United States,Arkansas,05,Clay,021
+EUPEP,United States,Arkansas,05,Cleburne,023
+EUPEP,United States,Arkansas,05,Cleveland,025
+EUPEP,United States,Arkansas,05,Columbia,027
+EUPEP,United States,Arkansas,05,Conway,029
+EUPEP,United States,Arkansas,05,Craighead,031
+EUPEP,United States,Arkansas,05,Crawford,033
+EUPEP,United States,Arkansas,05,Drew,043
+EUPEP,United States,Arkansas,05,Faulkner,045
+EUPEP,United States,Arkansas,05,Franklin,047
+EUPEP,United States,Arkansas,05,Fulton,049
+EUPEP,United States,Arkansas,05,Garland,051
+EUPEP,United States,Arkansas,05,Grant,053
+EUPEP,United States,Arkansas,05,Hempstead,057
+EUPEP,United States,Arkansas,05,Hot Spring,059
+EUPEP,United States,Arkansas,05,Howard,061
+EUPEP,United States,Arkansas,05,Independence,063
+EUPEP,United States,Arkansas,05,Izard,065
+EUPEP,United States,Arkansas,05,Jefferson,069
+EUPEP,United States,Arkansas,05,Lafayette,073
+EUPEP,United States,Arkansas,05,Lawrence,075
+EUPEP,United States,Arkansas,05,Lincoln,079
+EUPEP,United States,Arkansas,05,Little River,081
+EUPEP,United States,Arkansas,05,Logan,083
+EUPEP,United States,Arkansas,05,Lonoke,085
+EUPEP,United States,Arkansas,05,Monroe,095
+EUPEP,United States,Arkansas,05,Montgomery,097
+EUPEP,United States,Arkansas,05,Nevada,099
+EUPEP,United States,Arkansas,05,Newton,101
+EUPEP,United States,Arkansas,05,Ouachita,103
+EUPEP,United States,Arkansas,05,Pike,109
+EUPEP,United States,Arkansas,05,Polk,113
+EUPEP,United States,Arkansas,05,Pope,115
+EUPEP,United States,Arkansas,05,Prairie,117
+EUPEP,United States,Arkansas,05,Pulaski,119
+EUPEP,United States,Arkansas,05,Saline,125
+EUPEP,United States,Arkansas,05,Scott,127
+EUPEP,United States,Arkansas,05,Sebastian,131
+EUPEP,United States,Arkansas,05,Sevier,133
+EUPEP,United States,Arkansas,05,Sharp,135
+EUPEP,United States,Arkansas,05,Union,139
+EUPEP,United States,Arkansas,05,Washington,143
+EUPEP,United States,Arkansas,05,White,145
+EUPEP,United States,Arkansas,05,Yell,149
+EUPEP,Canada,Nova Scotia,07,,
+EUPEP,Canada,Ontario,08,,
+EUPEP,Canada,Prince Edward Island,09,,
+EUPEP,United States,Connecticut,09,,
+EUPEP,Canada,Quebec,10,,
+EUPEP,United States,Delaware,10,,
+EUPEP,United States,Delaware,10,Kent,001
+EUPEP,United States,Delaware,10,New Castle,003
+EUPEP,United States,District of Columbia,11,,
+EUPEP,United States,District of Columbia,11,District of Columbia,001
+EUPEP,United States,Florida,12,,
+EUPEP,United States,Florida,12,Alachua,001
+EUPEP,United States,Florida,12,Baker,003
+EUPEP,United States,Florida,12,Citrus,017
+EUPEP,United States,Florida,12,Clay,019
+EUPEP,United States,Florida,12,Columbia,023
+EUPEP,United States,Florida,12,Dixie,029
+EUPEP,United States,Florida,12,Escambia,033
+EUPEP,United States,Florida,12,Franklin,037
+EUPEP,United States,Florida,12,Gilchrist,041
+EUPEP,United States,Florida,12,Hamilton,047
+EUPEP,United States,Florida,12,Hernando,053
+EUPEP,United States,Florida,12,Jackson,063
+EUPEP,United States,Florida,12,Jefferson,065
+EUPEP,United States,Florida,12,Leon,073
+EUPEP,United States,Florida,12,Levy,075
+EUPEP,United States,Florida,12,Liberty,077
+EUPEP,United States,Florida,12,Madison,079
+EUPEP,United States,Florida,12,Marion,083
+EUPEP,United States,Florida,12,Nassau,089
+EUPEP,United States,Florida,12,Okaloosa,091
+EUPEP,United States,Florida,12,Taylor,123
+EUPEP,United States,Florida,12,Union,125
+EUPEP,United States,Florida,12,Wakulla,129
+EUPEP,United States,Georgia,13,,
+EUPEP,United States,Georgia,13,Barrow,013
+EUPEP,United States,Georgia,13,Bartow,015
+EUPEP,United States,Georgia,13,Ben Hill,017
+EUPEP,United States,Georgia,13,Clarke,059
+EUPEP,United States,Georgia,13,Cobb,067
+EUPEP,United States,Georgia,13,Cook,075
+EUPEP,United States,Georgia,13,Gordon,129
+EUPEP,United States,Georgia,13,Jasper,159
+EUPEP,United States,Georgia,13,Lowndes,185
+EUPEP,United States,Georgia,13,Mitchell,205
+EUPEP,United States,Georgia,13,Rabun,241
+EUPEP,United States,Georgia,13,Union,291
+EUPEP,United States,Georgia,13,White,311
+EUPEP,United States,Georgia,13,Whitfield,313
+EUPEP,United States,Illinois,17,,
+EUPEP,United States,Illinois,17,Adams,001
+EUPEP,United States,Illinois,17,Alexander,003
+EUPEP,United States,Illinois,17,Boone,007
+EUPEP,United States,Illinois,17,Brown,009
+EUPEP,United States,Illinois,17,Bureau,011
+EUPEP,United States,Illinois,17,Calhoun,013
+EUPEP,United States,Illinois,17,Carroll,015
+EUPEP,United States,Illinois,17,Cass,017
+EUPEP,United States,Illinois,17,Champaign,019
+EUPEP,United States,Illinois,17,Christian,021
+EUPEP,United States,Illinois,17,Clark,023
+EUPEP,United States,Illinois,17,Clay,025
+EUPEP,United States,Illinois,17,Coles,029
+EUPEP,United States,Illinois,17,Cook,031
+EUPEP,United States,Illinois,17,Crawford,033
+EUPEP,United States,Illinois,17,Cumberland,035
+EUPEP,United States,Illinois,17,De Witt,039
+EUPEP,United States,Illinois,17,DeKalb,037
+EUPEP,United States,Illinois,17,Douglas,041
+EUPEP,United States,Illinois,17,DuPage,043
+EUPEP,United States,Illinois,17,Edgar,045
+EUPEP,United States,Illinois,17,Edwards,047
+EUPEP,United States,Illinois,17,Effingham,049
+EUPEP,United States,Illinois,17,Fayette,051
+EUPEP,United States,Illinois,17,Franklin,055
+EUPEP,United States,Illinois,17,Fulton,057
+EUPEP,United States,Illinois,17,Gallatin,059
+EUPEP,United States,Illinois,17,Greene,061
+EUPEP,United States,Illinois,17,Grundy,063
+EUPEP,United States,Illinois,17,Hamilton,065
+EUPEP,United States,Illinois,17,Hancock,067
+EUPEP,United States,Illinois,17,Hardin,069
+EUPEP,United States,Illinois,17,Henderson,071
+EUPEP,United States,Illinois,17,Henry,073
+EUPEP,United States,Illinois,17,Iroquois,075
+EUPEP,United States,Illinois,17,Jackson,077
+EUPEP,United States,Illinois,17,Jasper,079
+EUPEP,United States,Illinois,17,Jefferson,081
+EUPEP,United States,Illinois,17,Jo Daviess,085
+EUPEP,United States,Illinois,17,Johnson,087
+EUPEP,United States,Illinois,17,Kane,089
+EUPEP,United States,Illinois,17,Kankakee,091
+EUPEP,United States,Illinois,17,Kendall,093
+EUPEP,United States,Illinois,17,Knox,095
+EUPEP,United States,Illinois,17,Lake,097
+EUPEP,United States,Illinois,17,LaSalle,099
+EUPEP,United States,Illinois,17,Lawrence,101
+EUPEP,United States,Illinois,17,Lee,103
+EUPEP,United States,Illinois,17,Logan,107
+EUPEP,United States,Illinois,17,Macon,115
+EUPEP,United States,Illinois,17,Macoupin,117
+EUPEP,United States,Illinois,17,Madison,119
+EUPEP,United States,Illinois,17,Marion,121
+EUPEP,United States,Illinois,17,Marshall,123
+EUPEP,United States,Illinois,17,Mason,125
+EUPEP,United States,Illinois,17,Massac,127
+EUPEP,United States,Illinois,17,McDonough,109
+EUPEP,United States,Illinois,17,McHenry,111
+EUPEP,United States,Illinois,17,Menard,129
+EUPEP,United States,Illinois,17,Mercer,131
+EUPEP,United States,Illinois,17,Montgomery,135
+EUPEP,United States,Illinois,17,Morgan,137
+EUPEP,United States,Illinois,17,Moultrie,139
+EUPEP,United States,Illinois,17,Ogle,141
+EUPEP,United States,Illinois,17,Peoria,143
+EUPEP,United States,Illinois,17,Perry,145
+EUPEP,United States,Illinois,17,Piatt,147
+EUPEP,United States,Illinois,17,Pike,149
+EUPEP,United States,Illinois,17,Pope,151
+EUPEP,United States,Illinois,17,Pulaski,153
+EUPEP,United States,Illinois,17,Putnam,155
+EUPEP,United States,Illinois,17,Randolph,157
+EUPEP,United States,Illinois,17,Richland,159
+EUPEP,United States,Illinois,17,Rock Island,161
+EUPEP,United States,Illinois,17,Saline,165
+EUPEP,United States,Illinois,17,Sangamon,167
+EUPEP,United States,Illinois,17,Schuyler,169
+EUPEP,United States,Illinois,17,Scott,171
+EUPEP,United States,Illinois,17,Shelby,173
+EUPEP,United States,Illinois,17,St. Clair,163
+EUPEP,United States,Illinois,17,Stark,175
+EUPEP,United States,Illinois,17,Stephenson,177
+EUPEP,United States,Illinois,17,Tazewell,179
+EUPEP,United States,Illinois,17,Union,181
+EUPEP,United States,Illinois,17,Vermilion,183
+EUPEP,United States,Illinois,17,Wabash,185
+EUPEP,United States,Illinois,17,Warren,187
+EUPEP,United States,Illinois,17,Washington,189
+EUPEP,United States,Illinois,17,Wayne,191
+EUPEP,United States,Illinois,17,White,193
+EUPEP,United States,Illinois,17,Whiteside,195
+EUPEP,United States,Illinois,17,Will,197
+EUPEP,United States,Illinois,17,Williamson,199
+EUPEP,United States,Illinois,17,Winnebago,201
+EUPEP,United States,Illinois,17,Woodford,203
+EUPEP,United States,Indiana,18,,
+EUPEP,United States,Indiana,18,Allen,003
+EUPEP,United States,Indiana,18,Blackford,009
+EUPEP,United States,Indiana,18,Boone,011
+EUPEP,United States,Indiana,18,Brown,013
+EUPEP,United States,Indiana,18,Carroll,015
+EUPEP,United States,Indiana,18,Cass,017
+EUPEP,United States,Indiana,18,Clark,019
+EUPEP,United States,Indiana,18,Clay,021
+EUPEP,United States,Indiana,18,Crawford,025
+EUPEP,United States,Indiana,18,Daviess,027
+EUPEP,United States,Indiana,18,Decatur,031
+EUPEP,United States,Indiana,18,DeKalb,033
+EUPEP,United States,Indiana,18,Delaware,035
+EUPEP,United States,Indiana,18,Dubois,037
+EUPEP,United States,Indiana,18,Elkhart,039
+EUPEP,United States,Indiana,18,Floyd,043
+EUPEP,United States,Indiana,18,Fountain,045
+EUPEP,United States,Indiana,18,Gibson,051
+EUPEP,United States,Indiana,18,Grant,053
+EUPEP,United States,Indiana,18,Greene,055
+EUPEP,United States,Indiana,18,Hamilton,057
+EUPEP,United States,Indiana,18,Hancock,059
+EUPEP,United States,Indiana,18,Harrison,061
+EUPEP,United States,Indiana,18,Hendricks,063
+EUPEP,United States,Indiana,18,Henry,065
+EUPEP,United States,Indiana,18,Howard,067
+EUPEP,United States,Indiana,18,Huntington,069
+EUPEP,United States,Indiana,18,Jackson,071
+EUPEP,United States,Indiana,18,Jasper,073
+EUPEP,United States,Indiana,18,Jay,075
+EUPEP,United States,Indiana,18,Jefferson,077
+EUPEP,United States,Indiana,18,Jennings,079
+EUPEP,United States,Indiana,18,Johnson,081
+EUPEP,United States,Indiana,18,Knox,083
+EUPEP,United States,Indiana,18,Kosciusko,085
+EUPEP,United States,Indiana,18,Lagrange,087
+EUPEP,United States,Indiana,18,Lake,089
+EUPEP,United States,Indiana,18,LaPorte,091
+EUPEP,United States,Indiana,18,Lawrence,093
+EUPEP,United States,Indiana,18,Madison,095
+EUPEP,United States,Indiana,18,Marion,097
+EUPEP,United States,Indiana,18,Marshall,099
+EUPEP,United States,Indiana,18,Miami,103
+EUPEP,United States,Indiana,18,Monroe,105
+EUPEP,United States,Indiana,18,Montgomery,107
+EUPEP,United States,Indiana,18,Morgan,109
+EUPEP,United States,Indiana,18,Newton,111
+EUPEP,United States,Indiana,18,Noble,113
+EUPEP,United States,Indiana,18,Orange,117
+EUPEP,United States,Indiana,18,Parke,121
+EUPEP,United States,Indiana,18,Pike,125
+EUPEP,United States,Indiana,18,Porter,127
+EUPEP,United States,Indiana,18,Posey,129
+EUPEP,United States,Indiana,18,Putnam,133
+EUPEP,United States,Indiana,18,Randolph,135
+EUPEP,United States,Indiana,18,Ripley,137
+EUPEP,United States,Indiana,18,Scott,143
+EUPEP,United States,Indiana,18,Shelby,145
+EUPEP,United States,Indiana,18,Spencer,147
+EUPEP,United States,Indiana,18,St. Joseph,141
+EUPEP,United States,Indiana,18,Starke,149
+EUPEP,United States,Indiana,18,Steuben,151
+EUPEP,United States,Indiana,18,Sullivan,153
+EUPEP,United States,Indiana,18,Switzerland,155
+EUPEP,United States,Indiana,18,Tippecanoe,157
+EUPEP,United States,Indiana,18,Tipton,159
+EUPEP,United States,Indiana,18,Vermillion,165
+EUPEP,United States,Indiana,18,Vigo,167
+EUPEP,United States,Indiana,18,Warren,171
+EUPEP,United States,Indiana,18,Washington,175
+EUPEP,United States,Indiana,18,Wayne,177
+EUPEP,United States,Indiana,18,Wells,179
+EUPEP,United States,Indiana,18,White,181
+EUPEP,United States,Indiana,18,Whitley,183
+EUPEP,United States,Iowa,19,,
+EUPEP,United States,Iowa,19,Cherokee,035
+EUPEP,United States,Iowa,19,Dickinson,059
+EUPEP,United States,Iowa,19,Guthrie,077
+EUPEP,United States,Iowa,19,Lyon,119
+EUPEP,United States,Iowa,19,Monona,133
+EUPEP,United States,Iowa,19,Montgomery,137
+EUPEP,United States,Iowa,19,Osceola,143
+EUPEP,United States,Iowa,19,Ringgold,159
+EUPEP,United States,Iowa,19,Shelby,165
+EUPEP,United States,Iowa,19,Story,169
+EUPEP,United States,Iowa,19,Washington,183
+EUPEP,United States,Iowa,19,Woodbury,193
+EUPEP,United States,Kansas,20,,
+EUPEP,United States,Kansas,20,Atchison,005
+EUPEP,United States,Kansas,20,Barber,007
+EUPEP,United States,Kansas,20,Bourbon,011
+EUPEP,United States,Kansas,20,Chautauqua,019
+EUPEP,United States,Kansas,20,Cherokee,021
+EUPEP,United States,Kansas,20,Clay,027
+EUPEP,United States,Kansas,20,Comanche,033
+EUPEP,United States,Kansas,20,Crawford,037
+EUPEP,United States,Kansas,20,Doniphan,043
+EUPEP,United States,Kansas,20,Douglas,045
+EUPEP,United States,Kansas,20,Ellsworth,053
+EUPEP,United States,Kansas,20,Franklin,059
+EUPEP,United States,Kansas,20,Greenwood,073
+EUPEP,United States,Kansas,20,Harper,077
+EUPEP,United States,Kansas,20,Jackson,085
+EUPEP,United States,Kansas,20,Jefferson,087
+EUPEP,United States,Kansas,20,Johnson,091
+EUPEP,United States,Kansas,20,Kingman,095
+EUPEP,United States,Kansas,20,Kiowa,097
+EUPEP,United States,Kansas,20,Leavenworth,103
+EUPEP,United States,Kansas,20,Lyon,111
+EUPEP,United States,Kansas,20,Marshall,117
+EUPEP,United States,Kansas,20,Meade,119
+EUPEP,United States,Kansas,20,Montgomery,125
+EUPEP,United States,Kansas,20,Pottawatomie,149
+EUPEP,United States,Kansas,20,Rice,159
+EUPEP,United States,Kansas,20,Riley,161
+EUPEP,United States,Kansas,20,Saline,169
+EUPEP,United States,Kansas,20,Stafford,185
+EUPEP,United States,Kansas,20,Washington,201
+EUPEP,United States,Kansas,20,Woodson,207
+EUPEP,United States,Kansas,20,Wyandotte,209
+EUPEP,United States,Kentucky,21,,
+EUPEP,United States,Kentucky,21,Adair,001
+EUPEP,United States,Kentucky,21,Anderson,005
+EUPEP,United States,Kentucky,21,Ballard,007
+EUPEP,United States,Kentucky,21,Barren,009
+EUPEP,United States,Kentucky,21,Bourbon,017
+EUPEP,United States,Kentucky,21,Boyle,021
+EUPEP,United States,Kentucky,21,Bracken,023
+EUPEP,United States,Kentucky,21,Calloway,035
+EUPEP,United States,Kentucky,21,Carlisle,039
+EUPEP,United States,Kentucky,21,Carter,043
+EUPEP,United States,Kentucky,21,Casey,045
+EUPEP,United States,Kentucky,21,Clark,049
+EUPEP,United States,Kentucky,21,Edmonson,061
+EUPEP,United States,Kentucky,21,Fayette,067
+EUPEP,United States,Kentucky,21,Fleming,069
+EUPEP,United States,Kentucky,21,Franklin,073
+EUPEP,United States,Kentucky,21,Graves,083
+EUPEP,United States,Kentucky,21,Greenup,089
+EUPEP,United States,Kentucky,21,Harrison,097
+EUPEP,United States,Kentucky,21,Henderson,101
+EUPEP,United States,Kentucky,21,Henry,103
+EUPEP,United States,Kentucky,21,Hopkins,107
+EUPEP,United States,Kentucky,21,Jackson,109
+EUPEP,United States,Kentucky,21,Jefferson,111
+EUPEP,United States,Kentucky,21,Kenton,117
+EUPEP,United States,Kentucky,21,Laurel,125
+EUPEP,United States,Kentucky,21,Lewis,135
+EUPEP,United States,Kentucky,21,Lincoln,137
+EUPEP,United States,Kentucky,21,Madison,151
+EUPEP,United States,Kentucky,21,Mason,161
+EUPEP,United States,Kentucky,21,McLean,149
+EUPEP,United States,Kentucky,21,Metcalfe,169
+EUPEP,United States,Kentucky,21,Montgomery,173
+EUPEP,United States,Kentucky,21,Muhlenberg,177
+EUPEP,United States,Kentucky,21,Nelson,179
+EUPEP,United States,Kentucky,21,Oldham,185
+EUPEP,United States,Kentucky,21,Owen,187
+EUPEP,United States,Kentucky,21,Pendleton,191
+EUPEP,United States,Kentucky,21,Robertson,201
+EUPEP,United States,Kentucky,21,Rockcastle,203
+EUPEP,United States,Kentucky,21,Rowan,205
+EUPEP,United States,Kentucky,21,Simpson,213
+EUPEP,United States,Kentucky,21,Warren,227
+EUPEP,United States,Kentucky,21,Webster,233
+EUPEP,United States,Kentucky,21,Wolfe,237
+EUPEP,United States,Kentucky,21,Woodford,239
+EUPEP,United States,Louisiana,22,,
+EUPEP,United States,Louisiana,22,Acadia,001
+EUPEP,United States,Louisiana,22,Allen,003
+EUPEP,United States,Louisiana,22,Avoyelles,009
+EUPEP,United States,Louisiana,22,Beauregard,011
+EUPEP,United States,Louisiana,22,Bienville,013
+EUPEP,United States,Louisiana,22,Bossier,015
+EUPEP,United States,Louisiana,22,Caddo,017
+EUPEP,United States,Louisiana,22,Calcasieu,019
+EUPEP,United States,Louisiana,22,Caldwell,021
+EUPEP,United States,Louisiana,22,Cameron,023
+EUPEP,United States,Louisiana,22,Catahoula,025
+EUPEP,United States,Louisiana,22,Claiborne,027
+EUPEP,United States,Louisiana,22,Concordia,029
+EUPEP,United States,Louisiana,22,De Soto,031
+EUPEP,United States,Louisiana,22,East Baton Rouge,033
+EUPEP,United States,Louisiana,22,East Feliciana,037
+EUPEP,United States,Louisiana,22,Evangeline,039
+EUPEP,United States,Louisiana,22,Franklin,041
+EUPEP,United States,Louisiana,22,Grant,043
+EUPEP,United States,Louisiana,22,Jackson,049
+EUPEP,United States,Louisiana,22,Jefferson Davis,053
+EUPEP,United States,Louisiana,22,Lafourche,057
+EUPEP,United States,Louisiana,22,LaSalle,059
+EUPEP,United States,Louisiana,22,Lincoln,061
+EUPEP,United States,Louisiana,22,Livingston,063
+EUPEP,United States,Louisiana,22,Madison,065
+EUPEP,United States,Louisiana,22,Morehouse,067
+EUPEP,United States,Louisiana,22,Natchitoches,069
+EUPEP,United States,Louisiana,22,Orleans,071
+EUPEP,United States,Louisiana,22,Ouachita,073
+EUPEP,United States,Louisiana,22,Rapides,079
+EUPEP,United States,Louisiana,22,Red River,081
+EUPEP,United States,Louisiana,22,Richland,083
+EUPEP,United States,Louisiana,22,Sabine,085
+EUPEP,United States,Louisiana,22,St. Helena,091
+EUPEP,United States,Louisiana,22,St. Tammany,103
+EUPEP,United States,Louisiana,22,Tangipahoa,105
+EUPEP,United States,Louisiana,22,Tensas,107
+EUPEP,United States,Louisiana,22,Terrebonne,109
+EUPEP,United States,Louisiana,22,Union,111
+EUPEP,United States,Louisiana,22,Vernon,115
+EUPEP,United States,Louisiana,22,Washington,117
+EUPEP,United States,Louisiana,22,Webster,119
+EUPEP,United States,Louisiana,22,West Carroll,123
+EUPEP,United States,Louisiana,22,West Feliciana,125
+EUPEP,United States,Louisiana,22,Winn,127
+EUPEP,United States,Maine,23,,
+EUPEP,United States,Maryland,24,,
+EUPEP,United States,Massachusetts,25,,
+EUPEP,United States,Michigan,26,,
+EUPEP,United States,Michigan,26,Alcona,001
+EUPEP,United States,Michigan,26,Alger,003
+EUPEP,United States,Michigan,26,Allegan,005
+EUPEP,United States,Michigan,26,Alpena,007
+EUPEP,United States,Michigan,26,Antrim,009
+EUPEP,United States,Michigan,26,Arenac,011
+EUPEP,United States,Michigan,26,Baraga,013
+EUPEP,United States,Michigan,26,Barry,015
+EUPEP,United States,Michigan,26,Bay,017
+EUPEP,United States,Michigan,26,Benzie,019
+EUPEP,United States,Michigan,26,Berrien,021
+EUPEP,United States,Michigan,26,Branch,023
+EUPEP,United States,Michigan,26,Calhoun,025
+EUPEP,United States,Michigan,26,Cass,027
+EUPEP,United States,Michigan,26,Charlevoix,029
+EUPEP,United States,Michigan,26,Cheboygan,031
+EUPEP,United States,Michigan,26,Chippewa,033
+EUPEP,United States,Michigan,26,Clare,035
+EUPEP,United States,Michigan,26,Clinton,037
+EUPEP,United States,Michigan,26,Crawford,039
+EUPEP,United States,Michigan,26,Delta,041
+EUPEP,United States,Michigan,26,Dickinson,043
+EUPEP,United States,Michigan,26,Emmet,047
+EUPEP,United States,Michigan,26,Gladwin,051
+EUPEP,United States,Michigan,26,Gogebic,053
+EUPEP,United States,Michigan,26,Grand Traverse,055
+EUPEP,United States,Michigan,26,Gratiot,057
+EUPEP,United States,Michigan,26,Hillsdale,059
+EUPEP,United States,Michigan,26,Houghton,061
+EUPEP,United States,Michigan,26,Huron,063
+EUPEP,United States,Michigan,26,Ingham,065
+EUPEP,United States,Michigan,26,Iosco,069
+EUPEP,United States,Michigan,26,Iron,071
+EUPEP,United States,Michigan,26,Isabella,073
+EUPEP,United States,Michigan,26,Jackson,075
+EUPEP,United States,Michigan,26,Kalamazoo,077
+EUPEP,United States,Michigan,26,Kalkaska,079
+EUPEP,United States,Michigan,26,Kent,081
+EUPEP,United States,Michigan,26,Keweenaw,083
+EUPEP,United States,Michigan,26,Lake,085
+EUPEP,United States,Michigan,26,Lapeer,087
+EUPEP,United States,Michigan,26,Leelanau,089
+EUPEP,United States,Michigan,26,Lenawee,091
+EUPEP,United States,Michigan,26,Livingston,093
+EUPEP,United States,Michigan,26,Luce,095
+EUPEP,United States,Michigan,26,Mackinac,097
+EUPEP,United States,Michigan,26,Macomb,099
+EUPEP,United States,Michigan,26,Manistee,101
+EUPEP,United States,Michigan,26,Marquette,103
+EUPEP,United States,Michigan,26,Mason,105
+EUPEP,United States,Michigan,26,Mecosta,107
+EUPEP,United States,Michigan,26,Menominee,109
+EUPEP,United States,Michigan,26,Midland,111
+EUPEP,United States,Michigan,26,Monroe,115
+EUPEP,United States,Michigan,26,Montcalm,117
+EUPEP,United States,Michigan,26,Montmorency,119
+EUPEP,United States,Michigan,26,Muskegon,121
+EUPEP,United States,Michigan,26,Newaygo,123
+EUPEP,United States,Michigan,26,Oakland,125
+EUPEP,United States,Michigan,26,Oceana,127
+EUPEP,United States,Michigan,26,Ogemaw,129
+EUPEP,United States,Michigan,26,Ontonagon,131
+EUPEP,United States,Michigan,26,Oscoda,135
+EUPEP,United States,Michigan,26,Otsego,137
+EUPEP,United States,Michigan,26,Ottawa,139
+EUPEP,United States,Michigan,26,Presque Isle,141
+EUPEP,United States,Michigan,26,Roscommon,143
+EUPEP,United States,Michigan,26,Saginaw,145
+EUPEP,United States,Michigan,26,Sanilac,151
+EUPEP,United States,Michigan,26,Schoolcraft,153
+EUPEP,United States,Michigan,26,St. Clair,147
+EUPEP,United States,Michigan,26,St. Joseph,149
+EUPEP,United States,Michigan,26,Tuscola,157
+EUPEP,United States,Michigan,26,Van Buren,159
+EUPEP,United States,Michigan,26,Washtenaw,161
+EUPEP,United States,Michigan,26,Wayne,163
+EUPEP,United States,Minnesota,27,,
+EUPEP,United States,Minnesota,27,Aitkin,001
+EUPEP,United States,Minnesota,27,Anoka,003
+EUPEP,United States,Minnesota,27,Becker,005
+EUPEP,United States,Minnesota,27,Beltrami,007
+EUPEP,United States,Minnesota,27,Benton,009
+EUPEP,United States,Minnesota,27,Blue Earth,013
+EUPEP,United States,Minnesota,27,Carlton,017
+EUPEP,United States,Minnesota,27,Carver,019
+EUPEP,United States,Minnesota,27,Cass,021
+EUPEP,United States,Minnesota,27,Chisago,025
+EUPEP,United States,Minnesota,27,Clay,027
+EUPEP,United States,Minnesota,27,Clearwater,029
+EUPEP,United States,Minnesota,27,Cook,031
+EUPEP,United States,Minnesota,27,Crow Wing,035
+EUPEP,United States,Minnesota,27,Dakota,037
+EUPEP,United States,Minnesota,27,Dodge,039
+EUPEP,United States,Minnesota,27,Douglas,041
+EUPEP,United States,Minnesota,27,Faribault,043
+EUPEP,United States,Minnesota,27,Fillmore,045
+EUPEP,United States,Minnesota,27,Freeborn,047
+EUPEP,United States,Minnesota,27,Goodhue,049
+EUPEP,United States,Minnesota,27,Hennepin,053
+EUPEP,United States,Minnesota,27,Houston,055
+EUPEP,United States,Minnesota,27,Hubbard,057
+EUPEP,United States,Minnesota,27,Isanti,059
+EUPEP,United States,Minnesota,27,Itasca,061
+EUPEP,United States,Minnesota,27,Kanabec,065
+EUPEP,United States,Minnesota,27,Kandiyohi,067
+EUPEP,United States,Minnesota,27,Kittson,069
+EUPEP,United States,Minnesota,27,Koochiching,071
+EUPEP,United States,Minnesota,27,Lac qui Parle,073
+EUPEP,United States,Minnesota,27,Lake,075
+EUPEP,United States,Minnesota,27,Lake of the Woods,077
+EUPEP,United States,Minnesota,27,Le Sueur,079
+EUPEP,United States,Minnesota,27,Lincoln,081
+EUPEP,United States,Minnesota,27,Lyon,083
+EUPEP,United States,Minnesota,27,Martin,091
+EUPEP,United States,Minnesota,27,Meeker,093
+EUPEP,United States,Minnesota,27,Morrison,097
+EUPEP,United States,Minnesota,27,Mower,099
+EUPEP,United States,Minnesota,27,Murray,101
+EUPEP,United States,Minnesota,27,Nicollet,103
+EUPEP,United States,Minnesota,27,Nobles,105
+EUPEP,United States,Minnesota,27,Norman,107
+EUPEP,United States,Minnesota,27,Olmsted,109
+EUPEP,United States,Minnesota,27,Otter Tail,111
+EUPEP,United States,Minnesota,27,Pine,115
+EUPEP,United States,Minnesota,27,Pipestone,117
+EUPEP,United States,Minnesota,27,Polk,119
+EUPEP,United States,Minnesota,27,Pope,121
+EUPEP,United States,Minnesota,27,Ramsey,123
+EUPEP,United States,Minnesota,27,Red Lake,125
+EUPEP,United States,Minnesota,27,Redwood,127
+EUPEP,United States,Minnesota,27,Rice,131
+EUPEP,United States,Minnesota,27,Rock,133
+EUPEP,United States,Minnesota,27,Roseau,135
+EUPEP,United States,Minnesota,27,Scott,139
+EUPEP,United States,Minnesota,27,Sherburne,141
+EUPEP,United States,Minnesota,27,St. Louis,137
+EUPEP,United States,Minnesota,27,Stearns,145
+EUPEP,United States,Minnesota,27,Steele,147
+EUPEP,United States,Minnesota,27,Todd,153
+EUPEP,United States,Minnesota,27,Wabasha,157
+EUPEP,United States,Minnesota,27,Wadena,159
+EUPEP,United States,Minnesota,27,Waseca,161
+EUPEP,United States,Minnesota,27,Washington,163
+EUPEP,United States,Minnesota,27,Wilkin,167
+EUPEP,United States,Minnesota,27,Winona,169
+EUPEP,United States,Minnesota,27,Wright,171
+EUPEP,United States,Minnesota,27,Yellow Medicine,173
+EUPEP,United States,Mississippi,28,,
+EUPEP,United States,Mississippi,28,Amite,005
+EUPEP,United States,Mississippi,28,Attala,007
+EUPEP,United States,Mississippi,28,Benton,009
+EUPEP,United States,Mississippi,28,Carroll,015
+EUPEP,United States,Mississippi,28,Choctaw,019
+EUPEP,United States,Mississippi,28,Clarke,023
+EUPEP,United States,Mississippi,28,Clay,025
+EUPEP,United States,Mississippi,28,Copiah,029
+EUPEP,United States,Mississippi,28,Covington,031
+EUPEP,United States,Mississippi,28,Forrest,035
+EUPEP,United States,Mississippi,28,Franklin,037
+EUPEP,United States,Mississippi,28,George,039
+EUPEP,United States,Mississippi,28,Greene,041
+EUPEP,United States,Mississippi,28,Grenada,043
+EUPEP,United States,Mississippi,28,Hancock,045
+EUPEP,United States,Mississippi,28,Harrison,047
+EUPEP,United States,Mississippi,28,Jackson,059
+EUPEP,United States,Mississippi,28,Jasper,061
+EUPEP,United States,Mississippi,28,Jefferson,063
+EUPEP,United States,Mississippi,28,Jefferson Davis,065
+EUPEP,United States,Mississippi,28,Jones,067
+EUPEP,United States,Mississippi,28,Lafayette,071
+EUPEP,United States,Mississippi,28,Lamar,073
+EUPEP,United States,Mississippi,28,Lauderdale,075
+EUPEP,United States,Mississippi,28,Lawrence,077
+EUPEP,United States,Mississippi,28,Leake,079
+EUPEP,United States,Mississippi,28,Lee,081
+EUPEP,United States,Mississippi,28,Leflore,083
+EUPEP,United States,Mississippi,28,Lincoln,085
+EUPEP,United States,Mississippi,28,Lowndes,087
+EUPEP,United States,Mississippi,28,Marshall,093
+EUPEP,United States,Mississippi,28,Montgomery,097
+EUPEP,United States,Mississippi,28,Neshoba,099
+EUPEP,United States,Mississippi,28,Newton,101
+EUPEP,United States,Mississippi,28,Oktibbeha,105
+EUPEP,United States,Mississippi,28,Panola,107
+EUPEP,United States,Mississippi,28,Pearl River,109
+EUPEP,United States,Mississippi,28,Pike,113
+EUPEP,United States,Mississippi,28,Pontotoc,115
+EUPEP,United States,Mississippi,28,Prentiss,117
+EUPEP,United States,Mississippi,28,Rankin,121
+EUPEP,United States,Mississippi,28,Scott,123
+EUPEP,United States,Mississippi,28,Simpson,127
+EUPEP,United States,Mississippi,28,Smith,129
+EUPEP,United States,Mississippi,28,Stone,131
+EUPEP,United States,Mississippi,28,Tippah,139
+EUPEP,United States,Mississippi,28,Tishomingo,141
+EUPEP,United States,Mississippi,28,Union,145
+EUPEP,United States,Mississippi,28,Wayne,153
+EUPEP,United States,Mississippi,28,Webster,155
+EUPEP,United States,Mississippi,28,Wilkinson,157
+EUPEP,United States,Mississippi,28,Winston,159
+EUPEP,United States,Missouri,29,,
+EUPEP,United States,Missouri,29,Adair,001
+EUPEP,United States,Missouri,29,Audrain,007
+EUPEP,United States,Missouri,29,Barton,011
+EUPEP,United States,Missouri,29,Bates,013
+EUPEP,United States,Missouri,29,Benton,015
+EUPEP,United States,Missouri,29,Bollinger,017
+EUPEP,United States,Missouri,29,Boone,019
+EUPEP,United States,Missouri,29,Butler,023
+EUPEP,United States,Missouri,29,Camden,029
+EUPEP,United States,Missouri,29,Carter,035
+EUPEP,United States,Missouri,29,Cedar,039
+EUPEP,United States,Missouri,29,Chariton,041
+EUPEP,United States,Missouri,29,Clark,045
+EUPEP,United States,Missouri,29,Clay,047
+EUPEP,United States,Missouri,29,Clinton,049
+EUPEP,United States,Missouri,29,Crawford,055
+EUPEP,United States,Missouri,29,Dent,065
+EUPEP,United States,Missouri,29,Douglas,067
+EUPEP,United States,Missouri,29,Dunklin,069
+EUPEP,United States,Missouri,29,Franklin,071
+EUPEP,United States,Missouri,29,Gasconade,073
+EUPEP,United States,Missouri,29,Greene,077
+EUPEP,United States,Missouri,29,Henry,083
+EUPEP,United States,Missouri,29,Howard,089
+EUPEP,United States,Missouri,29,Howell,091
+EUPEP,United States,Missouri,29,Iron,093
+EUPEP,United States,Missouri,29,Jackson,095
+EUPEP,United States,Missouri,29,Jasper,097
+EUPEP,United States,Missouri,29,Jefferson,099
+EUPEP,United States,Missouri,29,Johnson,101
+EUPEP,United States,Missouri,29,Knox,103
+EUPEP,United States,Missouri,29,Laclede,105
+EUPEP,United States,Missouri,29,Lafayette,107
+EUPEP,United States,Missouri,29,Lawrence,109
+EUPEP,United States,Missouri,29,Lewis,111
+EUPEP,United States,Missouri,29,Lincoln,113
+EUPEP,United States,Missouri,29,Linn,115
+EUPEP,United States,Missouri,29,Livingston,117
+EUPEP,United States,Missouri,29,Macon,121
+EUPEP,United States,Missouri,29,Madison,123
+EUPEP,United States,Missouri,29,Maries,125
+EUPEP,United States,Missouri,29,Marion,127
+EUPEP,United States,Missouri,29,Mercer,129
+EUPEP,United States,Missouri,29,Miller,131
+EUPEP,United States,Missouri,29,Monroe,137
+EUPEP,United States,Missouri,29,New Madrid,143
+EUPEP,United States,Missouri,29,Newton,145
+EUPEP,United States,Missouri,29,Oregon,149
+EUPEP,United States,Missouri,29,Osage,151
+EUPEP,United States,Missouri,29,Phelps,161
+EUPEP,United States,Missouri,29,Pike,163
+EUPEP,United States,Missouri,29,Polk,167
+EUPEP,United States,Missouri,29,Pulaski,169
+EUPEP,United States,Missouri,29,Putnam,171
+EUPEP,United States,Missouri,29,Ralls,173
+EUPEP,United States,Missouri,29,Randolph,175
+EUPEP,United States,Missouri,29,Reynolds,179
+EUPEP,United States,Missouri,29,Ripley,181
+EUPEP,United States,Missouri,29,Saline,195
+EUPEP,United States,Missouri,29,Schuyler,197
+EUPEP,United States,Missouri,29,Scotland,199
+EUPEP,United States,Missouri,29,Scott,201
+EUPEP,United States,Missouri,29,Shannon,203
+EUPEP,United States,Missouri,29,Shelby,205
+EUPEP,United States,Missouri,29,St. Clair,185
+EUPEP,United States,Missouri,29,St. Francois,187
+EUPEP,United States,Missouri,29,St. Louis,189
+EUPEP,United States,Missouri,29,Ste. Genevieve,186
+EUPEP,United States,Missouri,29,Stoddard,207
+EUPEP,United States,Missouri,29,Sullivan,211
+EUPEP,United States,Missouri,29,Texas,215
+EUPEP,United States,Missouri,29,Vernon,217
+EUPEP,United States,Missouri,29,Washington,221
+EUPEP,United States,Missouri,29,Wayne,223
+EUPEP,United States,Missouri,29,Webster,225
+EUPEP,United States,Nebraska,31,,
+EUPEP,United States,Nebraska,31,Antelope,003
+EUPEP,United States,Nebraska,31,Box Butte,013
+EUPEP,United States,Nebraska,31,Brown,017
+EUPEP,United States,Nebraska,31,Cass,025
+EUPEP,United States,Nebraska,31,Cherry,031
+EUPEP,United States,Nebraska,31,Custer,041
+EUPEP,United States,Nebraska,31,Douglas,055
+EUPEP,United States,Nebraska,31,Franklin,061
+EUPEP,United States,Nebraska,31,Greeley,077
+EUPEP,United States,Nebraska,31,Hall,079
+EUPEP,United States,Nebraska,31,Hayes,085
+EUPEP,United States,Nebraska,31,Holt,089
+EUPEP,United States,Nebraska,31,Hooker,091
+EUPEP,United States,Nebraska,31,Jefferson,095
+EUPEP,United States,Nebraska,31,Lancaster,109
+EUPEP,United States,Nebraska,31,Lincoln,111
+EUPEP,United States,Nebraska,31,Madison,119
+EUPEP,United States,Nebraska,31,Nuckolls,129
+EUPEP,United States,Nebraska,31,Otoe,131
+EUPEP,United States,Nebraska,31,Richardson,147
+EUPEP,United States,Nebraska,31,Sarpy,153
+EUPEP,United States,Nebraska,31,Saunders,155
+EUPEP,United States,Nebraska,31,Sherman,163
+EUPEP,United States,Nebraska,31,Thomas,171
+EUPEP,United States,Nebraska,31,Washington,177
+EUPEP,United States,Nebraska,31,Webster,181
+EUPEP,United States,New Hampshire,33,,
+EUPEP,United States,New Jersey,34,,
+EUPEP,United States,New Jersey,34,Atlantic,001
+EUPEP,United States,New Jersey,34,Bergen,003
+EUPEP,United States,New Jersey,34,Burlington,005
+EUPEP,United States,New Jersey,34,Camden,007
+EUPEP,United States,New Jersey,34,Cape May,009
+EUPEP,United States,New Jersey,34,Essex,013
+EUPEP,United States,New Jersey,34,Gloucester,015
+EUPEP,United States,New Jersey,34,Hudson,017
+EUPEP,United States,New Jersey,34,Hunterdon,019
+EUPEP,United States,New Jersey,34,Mercer,021
+EUPEP,United States,New Jersey,34,Middlesex,023
+EUPEP,United States,New Jersey,34,Monmouth,025
+EUPEP,United States,New Jersey,34,Morris,027
+EUPEP,United States,New Jersey,34,Ocean,029
+EUPEP,United States,New Jersey,34,Passaic,031
+EUPEP,United States,New Jersey,34,Salem,033
+EUPEP,United States,New Jersey,34,Somerset,035
+EUPEP,United States,New Jersey,34,Sussex,037
+EUPEP,United States,New Jersey,34,Warren,041
+EUPEP,United States,New York,36,,
+EUPEP,United States,New York,36,Albany,001
+EUPEP,United States,New York,36,Allegany,003
+EUPEP,United States,New York,36,Bronx,005
+EUPEP,United States,New York,36,Cattaraugus,009
+EUPEP,United States,New York,36,Cayuga,011
+EUPEP,United States,New York,36,Chemung,015
+EUPEP,United States,New York,36,Chenango,017
+EUPEP,United States,New York,36,Clinton,019
+EUPEP,United States,New York,36,Columbia,021
+EUPEP,United States,New York,36,Cortland,023
+EUPEP,United States,New York,36,Delaware,025
+EUPEP,United States,New York,36,Dutchess,027
+EUPEP,United States,New York,36,Erie,029
+EUPEP,United States,New York,36,Essex,031
+EUPEP,United States,New York,36,Greene,039
+EUPEP,United States,New York,36,Jefferson,045
+EUPEP,United States,New York,36,Lewis,049
+EUPEP,United States,New York,36,Livingston,051
+EUPEP,United States,New York,36,Madison,053
+EUPEP,United States,New York,36,Monroe,055
+EUPEP,United States,New York,36,Nassau,059
+EUPEP,United States,New York,36,Niagara,063
+EUPEP,United States,New York,36,Oneida,065
+EUPEP,United States,New York,36,Onondaga,067
+EUPEP,United States,New York,36,Ontario,069
+EUPEP,United States,New York,36,Orange,071
+EUPEP,United States,New York,36,Oswego,075
+EUPEP,United States,New York,36,Putnam,079
+EUPEP,United States,New York,36,Rensselaer,083
+EUPEP,United States,New York,36,Richmond,085
+EUPEP,United States,New York,36,Rockland,087
+EUPEP,United States,New York,36,Schoharie,095
+EUPEP,United States,New York,36,St. Lawrence,089
+EUPEP,United States,New York,36,Suffolk,103
+EUPEP,United States,New York,36,Sullivan,105
+EUPEP,United States,New York,36,Ulster,111
+EUPEP,United States,New York,36,Washington,115
+EUPEP,United States,New York,36,Wyoming,121
+EUPEP,United States,North Carolina,37,,
+EUPEP,United States,North Carolina,37,Alamance,001
+EUPEP,United States,North Carolina,37,Alexander,003
+EUPEP,United States,North Carolina,37,Alleghany,005
+EUPEP,United States,North Carolina,37,Ashe,009
+EUPEP,United States,North Carolina,37,Avery,011
+EUPEP,United States,North Carolina,37,Beaufort,013
+EUPEP,United States,North Carolina,37,Bertie,015
+EUPEP,United States,North Carolina,37,Brunswick,019
+EUPEP,United States,North Carolina,37,Buncombe,021
+EUPEP,United States,North Carolina,37,Burke,023
+EUPEP,United States,North Carolina,37,Caswell,033
+EUPEP,United States,North Carolina,37,Catawba,035
+EUPEP,United States,North Carolina,37,Chatham,037
+EUPEP,United States,North Carolina,37,Cherokee,039
+EUPEP,United States,North Carolina,37,Chowan,041
+EUPEP,United States,North Carolina,37,Clay,043
+EUPEP,United States,North Carolina,37,Columbus,047
+EUPEP,United States,North Carolina,37,Davidson,057
+EUPEP,United States,North Carolina,37,Duplin,061
+EUPEP,United States,North Carolina,37,Durham,063
+EUPEP,United States,North Carolina,37,Forsyth,067
+EUPEP,United States,North Carolina,37,Franklin,069
+EUPEP,United States,North Carolina,37,Gates,073
+EUPEP,United States,North Carolina,37,Graham,075
+EUPEP,United States,North Carolina,37,Granville,077
+EUPEP,United States,North Carolina,37,Greene,079
+EUPEP,United States,North Carolina,37,Guilford,081
+EUPEP,United States,North Carolina,37,Halifax,083
+EUPEP,United States,North Carolina,37,Haywood,087
+EUPEP,United States,North Carolina,37,Henderson,089
+EUPEP,United States,North Carolina,37,Hertford,091
+EUPEP,United States,North Carolina,37,Hyde,095
+EUPEP,United States,North Carolina,37,Iredell,097
+EUPEP,United States,North Carolina,37,Jackson,099
+EUPEP,United States,North Carolina,37,Johnston,101
+EUPEP,United States,North Carolina,37,Lincoln,109
+EUPEP,United States,North Carolina,37,Macon,113
+EUPEP,United States,North Carolina,37,Madison,115
+EUPEP,United States,North Carolina,37,McDowell,111
+EUPEP,United States,North Carolina,37,Mecklenburg,119
+EUPEP,United States,North Carolina,37,Mitchell,121
+EUPEP,United States,North Carolina,37,Onslow,133
+EUPEP,United States,North Carolina,37,Orange,135
+EUPEP,United States,North Carolina,37,Pasquotank,139
+EUPEP,United States,North Carolina,37,Pender,141
+EUPEP,United States,North Carolina,37,Perquimans,143
+EUPEP,United States,North Carolina,37,Person,145
+EUPEP,United States,North Carolina,37,Pitt,147
+EUPEP,United States,North Carolina,37,Randolph,151
+EUPEP,United States,North Carolina,37,Rockingham,157
+EUPEP,United States,North Carolina,37,Rowan,159
+EUPEP,United States,North Carolina,37,Sampson,163
+EUPEP,United States,North Carolina,37,Stokes,169
+EUPEP,United States,North Carolina,37,Surry,171
+EUPEP,United States,North Carolina,37,Swain,173
+EUPEP,United States,North Carolina,37,Transylvania,175
+EUPEP,United States,North Carolina,37,Tyrrell,177
+EUPEP,United States,North Carolina,37,Vance,181
+EUPEP,United States,North Carolina,37,Wake,183
+EUPEP,United States,North Carolina,37,Warren,185
+EUPEP,United States,North Carolina,37,Watauga,189
+EUPEP,United States,North Carolina,37,Wayne,191
+EUPEP,United States,North Carolina,37,Yancey,199
+EUPEP,United States,North Dakota,38,,
+EUPEP,United States,North Dakota,38,Ransom,073
+EUPEP,United States,North Dakota,38,Richland,077
+EUPEP,United States,Ohio,39,,
+EUPEP,United States,Ohio,39,Adams,001
+EUPEP,United States,Ohio,39,Allen,003
+EUPEP,United States,Ohio,39,Ashland,005
+EUPEP,United States,Ohio,39,Ashtabula,007
+EUPEP,United States,Ohio,39,Athens,009
+EUPEP,United States,Ohio,39,Auglaize,011
+EUPEP,United States,Ohio,39,Belmont,013
+EUPEP,United States,Ohio,39,Brown,015
+EUPEP,United States,Ohio,39,Butler,017
+EUPEP,United States,Ohio,39,Carroll,019
+EUPEP,United States,Ohio,39,Champaign,021
+EUPEP,United States,Ohio,39,Clark,023
+EUPEP,United States,Ohio,39,Clermont,025
+EUPEP,United States,Ohio,39,Clinton,027
+EUPEP,United States,Ohio,39,Columbiana,029
+EUPEP,United States,Ohio,39,Coshocton,031
+EUPEP,United States,Ohio,39,Crawford,033
+EUPEP,United States,Ohio,39,Cuyahoga,035
+EUPEP,United States,Ohio,39,Darke,037
+EUPEP,United States,Ohio,39,Delaware,041
+EUPEP,United States,Ohio,39,Erie,043
+EUPEP,United States,Ohio,39,Fairfield,045
+EUPEP,United States,Ohio,39,Franklin,049
+EUPEP,United States,Ohio,39,Fulton,051
+EUPEP,United States,Ohio,39,Gallia,053
+EUPEP,United States,Ohio,39,Geauga,055
+EUPEP,United States,Ohio,39,Greene,057
+EUPEP,United States,Ohio,39,Guernsey,059
+EUPEP,United States,Ohio,39,Hamilton,061
+EUPEP,United States,Ohio,39,Harrison,067
+EUPEP,United States,Ohio,39,Hocking,073
+EUPEP,United States,Ohio,39,Holmes,075
+EUPEP,United States,Ohio,39,Huron,077
+EUPEP,United States,Ohio,39,Jackson,079
+EUPEP,United States,Ohio,39,Jefferson,081
+EUPEP,United States,Ohio,39,Knox,083
+EUPEP,United States,Ohio,39,Lake,085
+EUPEP,United States,Ohio,39,Lawrence,087
+EUPEP,United States,Ohio,39,Licking,089
+EUPEP,United States,Ohio,39,Logan,091
+EUPEP,United States,Ohio,39,Lorain,093
+EUPEP,United States,Ohio,39,Lucas,095
+EUPEP,United States,Ohio,39,Madison,097
+EUPEP,United States,Ohio,39,Mahoning,099
+EUPEP,United States,Ohio,39,Marion,101
+EUPEP,United States,Ohio,39,Medina,103
+EUPEP,United States,Ohio,39,Meigs,105
+EUPEP,United States,Ohio,39,Mercer,107
+EUPEP,United States,Ohio,39,Miami,109
+EUPEP,United States,Ohio,39,Monroe,111
+EUPEP,United States,Ohio,39,Montgomery,113
+EUPEP,United States,Ohio,39,Morgan,115
+EUPEP,United States,Ohio,39,Muskingum,119
+EUPEP,United States,Ohio,39,Noble,121
+EUPEP,United States,Ohio,39,Ottawa,123
+EUPEP,United States,Ohio,39,Paulding,125
+EUPEP,United States,Ohio,39,Perry,127
+EUPEP,United States,Ohio,39,Pickaway,129
+EUPEP,United States,Ohio,39,Pike,131
+EUPEP,United States,Ohio,39,Portage,133
+EUPEP,United States,Ohio,39,Preble,135
+EUPEP,United States,Ohio,39,Putnam,137
+EUPEP,United States,Ohio,39,Richland,139
+EUPEP,United States,Ohio,39,Ross,141
+EUPEP,United States,Ohio,39,Sandusky,143
+EUPEP,United States,Ohio,39,Scioto,145
+EUPEP,United States,Ohio,39,Seneca,147
+EUPEP,United States,Ohio,39,Shelby,149
+EUPEP,United States,Ohio,39,Stark,151
+EUPEP,United States,Ohio,39,Summit,153
+EUPEP,United States,Ohio,39,Trumbull,155
+EUPEP,United States,Ohio,39,Tuscarawas,157
+EUPEP,United States,Ohio,39,Union,159
+EUPEP,United States,Ohio,39,Vinton,163
+EUPEP,United States,Ohio,39,Washington,167
+EUPEP,United States,Ohio,39,Wayne,169
+EUPEP,United States,Ohio,39,Williams,171
+EUPEP,United States,Ohio,39,Wood,173
+EUPEP,United States,Ohio,39,Wyandot,175
+EUPEP,United States,Oklahoma,40,,
+EUPEP,United States,Oklahoma,40,Beaver,007
+EUPEP,United States,Oklahoma,40,Bryan,013
+EUPEP,United States,Oklahoma,40,Cherokee,021
+EUPEP,United States,Oklahoma,40,Cleveland,027
+EUPEP,United States,Oklahoma,40,Craig,035
+EUPEP,United States,Oklahoma,40,Creek,037
+EUPEP,United States,Oklahoma,40,Ellis,045
+EUPEP,United States,Oklahoma,40,Haskell,061
+EUPEP,United States,Oklahoma,40,Johnston,069
+EUPEP,United States,Oklahoma,40,Latimer,077
+EUPEP,United States,Oklahoma,40,Love,085
+EUPEP,United States,Oklahoma,40,Marshall,095
+EUPEP,United States,Oklahoma,40,McCurtain,089
+EUPEP,United States,Oklahoma,40,Muskogee,101
+EUPEP,United States,Oklahoma,40,Oklahoma,109
+EUPEP,United States,Oklahoma,40,Payne,119
+EUPEP,United States,Oklahoma,40,Sequoyah,135
+EUPEP,United States,Oklahoma,40,Woodward,153
+EUPEP,United States,Pennsylvania,42,,
+EUPEP,United States,Pennsylvania,42,Adams,001
+EUPEP,United States,Pennsylvania,42,Allegheny,003
+EUPEP,United States,Pennsylvania,42,Armstrong,005
+EUPEP,United States,Pennsylvania,42,Beaver,007
+EUPEP,United States,Pennsylvania,42,Bedford,009
+EUPEP,United States,Pennsylvania,42,Berks,011
+EUPEP,United States,Pennsylvania,42,Blair,013
+EUPEP,United States,Pennsylvania,42,Bradford,015
+EUPEP,United States,Pennsylvania,42,Bucks,017
+EUPEP,United States,Pennsylvania,42,Butler,019
+EUPEP,United States,Pennsylvania,42,Cambria,021
+EUPEP,United States,Pennsylvania,42,Cameron,023
+EUPEP,United States,Pennsylvania,42,Carbon,025
+EUPEP,United States,Pennsylvania,42,Centre,027
+EUPEP,United States,Pennsylvania,42,Chester,029
+EUPEP,United States,Pennsylvania,42,Clarion,031
+EUPEP,United States,Pennsylvania,42,Clearfield,033
+EUPEP,United States,Pennsylvania,42,Clinton,035
+EUPEP,United States,Pennsylvania,42,Columbia,037
+EUPEP,United States,Pennsylvania,42,Crawford,039
+EUPEP,United States,Pennsylvania,42,Cumberland,041
+EUPEP,United States,Pennsylvania,42,Dauphin,043
+EUPEP,United States,Pennsylvania,42,Delaware,045
+EUPEP,United States,Pennsylvania,42,Elk,047
+EUPEP,United States,Pennsylvania,42,Erie,049
+EUPEP,United States,Pennsylvania,42,Fayette,051
+EUPEP,United States,Pennsylvania,42,Forest,053
+EUPEP,United States,Pennsylvania,42,Franklin,055
+EUPEP,United States,Pennsylvania,42,Fulton,057
+EUPEP,United States,Pennsylvania,42,Greene,059
+EUPEP,United States,Pennsylvania,42,Huntingdon,061
+EUPEP,United States,Pennsylvania,42,Indiana,063
+EUPEP,United States,Pennsylvania,42,Jefferson,065
+EUPEP,United States,Pennsylvania,42,Juniata,067
+EUPEP,United States,Pennsylvania,42,Lackawanna,069
+EUPEP,United States,Pennsylvania,42,Lancaster,071
+EUPEP,United States,Pennsylvania,42,Lawrence,073
+EUPEP,United States,Pennsylvania,42,Lebanon,075
+EUPEP,United States,Pennsylvania,42,Lehigh,077
+EUPEP,United States,Pennsylvania,42,Luzerne,079
+EUPEP,United States,Pennsylvania,42,Lycoming,081
+EUPEP,United States,Pennsylvania,42,McKean,083
+EUPEP,United States,Pennsylvania,42,Mercer,085
+EUPEP,United States,Pennsylvania,42,Mifflin,087
+EUPEP,United States,Pennsylvania,42,Monroe,089
+EUPEP,United States,Pennsylvania,42,Montgomery,091
+EUPEP,United States,Pennsylvania,42,Montour,093
+EUPEP,United States,Pennsylvania,42,Northampton,095
+EUPEP,United States,Pennsylvania,42,Northumberland,097
+EUPEP,United States,Pennsylvania,42,Perry,099
+EUPEP,United States,Pennsylvania,42,Philadelphia,101
+EUPEP,United States,Pennsylvania,42,Pike,103
+EUPEP,United States,Pennsylvania,42,Potter,105
+EUPEP,United States,Pennsylvania,42,Schuylkill,107
+EUPEP,United States,Pennsylvania,42,Snyder,109
+EUPEP,United States,Pennsylvania,42,Somerset,111
+EUPEP,United States,Pennsylvania,42,Sullivan,113
+EUPEP,United States,Pennsylvania,42,Susquehanna,115
+EUPEP,United States,Pennsylvania,42,Tioga,117
+EUPEP,United States,Pennsylvania,42,Union,119
+EUPEP,United States,Pennsylvania,42,Venango,121
+EUPEP,United States,Pennsylvania,42,Warren,123
+EUPEP,United States,Pennsylvania,42,Washington,125
+EUPEP,United States,Pennsylvania,42,Wayne,127
+EUPEP,United States,Pennsylvania,42,Westmoreland,129
+EUPEP,United States,Pennsylvania,42,Wyoming,131
+EUPEP,United States,Pennsylvania,42,York,133
+EUPEP,United States,Rhode Island,44,,
+EUPEP,United States,Rhode Island,44,Kent,003
+EUPEP,United States,Rhode Island,44,Newport,005
+EUPEP,United States,Rhode Island,44,Providence,007
+EUPEP,United States,Rhode Island,44,Washington,009
+EUPEP,United States,South Carolina,45,,
+EUPEP,United States,South Carolina,45,Allendale,005
+EUPEP,United States,South Carolina,45,Anderson,007
+EUPEP,United States,South Carolina,45,Bamberg,009
+EUPEP,United States,South Carolina,45,Barnwell,011
+EUPEP,United States,South Carolina,45,Beaufort,013
+EUPEP,United States,South Carolina,45,Berkeley,015
+EUPEP,United States,South Carolina,45,Calhoun,017
+EUPEP,United States,South Carolina,45,Charleston,019
+EUPEP,United States,South Carolina,45,Chesterfield,025
+EUPEP,United States,South Carolina,45,Clarendon,027
+EUPEP,United States,South Carolina,45,Colleton,029
+EUPEP,United States,South Carolina,45,Darlington,031
+EUPEP,United States,South Carolina,45,Dorchester,035
+EUPEP,United States,South Carolina,45,Fairfield,039
+EUPEP,United States,South Carolina,45,Georgetown,043
+EUPEP,United States,South Carolina,45,Jasper,053
+EUPEP,United States,South Carolina,45,Lancaster,057
+EUPEP,United States,South Carolina,45,Lee,061
+EUPEP,United States,South Carolina,45,Marion,067
+EUPEP,United States,South Carolina,45,Marlboro,069
+EUPEP,United States,South Carolina,45,Oconee,073
+EUPEP,United States,South Carolina,45,Pickens,077
+EUPEP,United States,South Carolina,45,Richland,079
+EUPEP,United States,South Carolina,45,Spartanburg,083
+EUPEP,United States,South Carolina,45,Union,087
+EUPEP,United States,South Carolina,45,Williamsburg,089
+EUPEP,United States,South Dakota,46,,
+EUPEP,United States,South Dakota,46,Codington,029
+EUPEP,United States,South Dakota,46,Day,037
+EUPEP,United States,South Dakota,46,Marshall,091
+EUPEP,United States,Tennessee,47,,
+EUPEP,United States,Tennessee,47,Bledsoe,007
+EUPEP,United States,Tennessee,47,Blount,009
+EUPEP,United States,Tennessee,47,Cannon,015
+EUPEP,United States,Tennessee,47,Carroll,017
+EUPEP,United States,Tennessee,47,Carter,019
+EUPEP,United States,Tennessee,47,Coffee,031
+EUPEP,United States,Tennessee,47,Cumberland,035
+EUPEP,United States,Tennessee,47,DeKalb,041
+EUPEP,United States,Tennessee,47,Dickson,043
+EUPEP,United States,Tennessee,47,Fentress,049
+EUPEP,United States,Tennessee,47,Grundy,061
+EUPEP,United States,Tennessee,47,Hamilton,065
+EUPEP,United States,Tennessee,47,Hardin,071
+EUPEP,United States,Tennessee,47,Hawkins,073
+EUPEP,United States,Tennessee,47,Henry,079
+EUPEP,United States,Tennessee,47,Hickman,081
+EUPEP,United States,Tennessee,47,Jackson,087
+EUPEP,United States,Tennessee,47,Jefferson,089
+EUPEP,United States,Tennessee,47,Johnson,091
+EUPEP,United States,Tennessee,47,Knox,093
+EUPEP,United States,Tennessee,47,Lawrence,099
+EUPEP,United States,Tennessee,47,Lewis,101
+EUPEP,United States,Tennessee,47,Lincoln,103
+EUPEP,United States,Tennessee,47,Loudon,105
+EUPEP,United States,Tennessee,47,Macon,111
+EUPEP,United States,Tennessee,47,Madison,113
+EUPEP,United States,Tennessee,47,McNairy,109
+EUPEP,United States,Tennessee,47,Montgomery,125
+EUPEP,United States,Tennessee,47,Morgan,129
+EUPEP,United States,Tennessee,47,Overton,133
+EUPEP,United States,Tennessee,47,Polk,139
+EUPEP,United States,Tennessee,47,Putnam,141
+EUPEP,United States,Tennessee,47,Rhea,143
+EUPEP,United States,Tennessee,47,Scott,151
+EUPEP,United States,Tennessee,47,Sequatchie,153
+EUPEP,United States,Tennessee,47,Sevier,155
+EUPEP,United States,Tennessee,47,Shelby,157
+EUPEP,United States,Tennessee,47,Stewart,161
+EUPEP,United States,Tennessee,47,Sumner,165
+EUPEP,United States,Tennessee,47,Weakley,183
+EUPEP,United States,Tennessee,47,White,185
+EUPEP,United States,Tennessee,47,Williamson,187
+EUPEP,United States,Texas,48,,
+EUPEP,United States,Texas,48,Anderson,001
+EUPEP,United States,Texas,48,Angelina,005
+EUPEP,United States,Texas,48,Austin,015
+EUPEP,United States,Texas,48,Bowie,037
+EUPEP,United States,Texas,48,Brazos,041
+EUPEP,United States,Texas,48,Cass,067
+EUPEP,United States,Texas,48,Freestone,161
+EUPEP,United States,Texas,48,Grayson,181
+EUPEP,United States,Texas,48,Gregg,183
+EUPEP,United States,Texas,48,Hardin,199
+EUPEP,United States,Texas,48,Harris,201
+EUPEP,United States,Texas,48,Hemphill,211
+EUPEP,United States,Texas,48,Henderson,213
+EUPEP,United States,Texas,48,Houston,225
+EUPEP,United States,Texas,48,Jasper,241
+EUPEP,United States,Texas,48,Lamar,277
+EUPEP,United States,Texas,48,Leon,289
+EUPEP,United States,Texas,48,Milam,331
+EUPEP,United States,Texas,48,Montgomery,339
+EUPEP,United States,Texas,48,Nacogdoches,347
+EUPEP,United States,Texas,48,Newton,351
+EUPEP,United States,Texas,48,Red River,387
+EUPEP,United States,Texas,48,Robertson,395
+EUPEP,United States,Texas,48,Smith,423
+EUPEP,United States,Texas,48,Titus,449
+EUPEP,United States,Texas,48,Tyler,457
+EUPEP,United States,Texas,48,Upshur,459
+EUPEP,United States,Texas,48,Walker,471
+EUPEP,United States,Texas,48,Wood,499
+EUPEP,United States,Vermont,50,,
+EUPEP,United States,Virginia,51,,
+EUPEP,United States,Virginia,51,Accomack,001
+EUPEP,United States,Virginia,51,Albemarle,003
+EUPEP,United States,Virginia,51,Alleghany,005
+EUPEP,United States,Virginia,51,Amelia,007
+EUPEP,United States,Virginia,51,Amherst,009
+EUPEP,United States,Virginia,51,Appomattox,011
+EUPEP,United States,Virginia,51,Arlington,013
+EUPEP,United States,Virginia,51,Augusta,015
+EUPEP,United States,Virginia,51,Bath,017
+EUPEP,United States,Virginia,51,Bedford,019
+EUPEP,United States,Virginia,51,Bland,021
+EUPEP,United States,Virginia,51,Botetourt,023
+EUPEP,United States,Virginia,51,Brunswick,025
+EUPEP,United States,Virginia,51,Buchanan,027
+EUPEP,United States,Virginia,51,Buckingham,029
+EUPEP,United States,Virginia,51,Campbell,031
+EUPEP,United States,Virginia,51,Caroline,033
+EUPEP,United States,Virginia,51,Carroll,035
+EUPEP,United States,Virginia,51,Charles City,036
+EUPEP,United States,Virginia,51,Charlotte,037
+EUPEP,United States,Virginia,51,Chesapeake ,550
+EUPEP,United States,Virginia,51,Chesterfield,041
+EUPEP,United States,Virginia,51,Clarke,043
+EUPEP,United States,Virginia,51,Craig,045
+EUPEP,United States,Virginia,51,Culpeper,047
+EUPEP,United States,Virginia,51,Cumberland,049
+EUPEP,United States,Virginia,51,Dickenson,051
+EUPEP,United States,Virginia,51,Dinwiddie,053
+EUPEP,United States,Virginia,51,Essex,057
+EUPEP,United States,Virginia,51,Fairfax,059
+EUPEP,United States,Virginia,51,Fauquier,061
+EUPEP,United States,Virginia,51,Floyd,063
+EUPEP,United States,Virginia,51,Fluvanna,065
+EUPEP,United States,Virginia,51,Franklin,067
+EUPEP,United States,Virginia,51,Frederick,069
+EUPEP,United States,Virginia,51,Giles,071
+EUPEP,United States,Virginia,51,Gloucester,073
+EUPEP,United States,Virginia,51,Goochland,075
+EUPEP,United States,Virginia,51,Grayson,077
+EUPEP,United States,Virginia,51,Greene,079
+EUPEP,United States,Virginia,51,Halifax,083
+EUPEP,United States,Virginia,51,Hanover,085
+EUPEP,United States,Virginia,51,Henrico,087
+EUPEP,United States,Virginia,51,Henry,089
+EUPEP,United States,Virginia,51,Highland,091
+EUPEP,United States,Virginia,51,King and Queen,097
+EUPEP,United States,Virginia,51,King George,099
+EUPEP,United States,Virginia,51,King William,101
+EUPEP,United States,Virginia,51,Lee,105
+EUPEP,United States,Virginia,51,Loudoun,107
+EUPEP,United States,Virginia,51,Louisa,109
+EUPEP,United States,Virginia,51,Lunenburg,111
+EUPEP,United States,Virginia,51,Madison,113
+EUPEP,United States,Virginia,51,Mathews,115
+EUPEP,United States,Virginia,51,Mecklenburg,117
+EUPEP,United States,Virginia,51,Middlesex,119
+EUPEP,United States,Virginia,51,Montgomery,121
+EUPEP,United States,Virginia,51,Nelson,125
+EUPEP,United States,Virginia,51,New Kent,127
+EUPEP,United States,Virginia,51,Newport News ,700
+EUPEP,United States,Virginia,51,Northampton,131
+EUPEP,United States,Virginia,51,Northumberland,133
+EUPEP,United States,Virginia,51,Nottoway,135
+EUPEP,United States,Virginia,51,Orange,137
+EUPEP,United States,Virginia,51,Page,139
+EUPEP,United States,Virginia,51,Patrick,141
+EUPEP,United States,Virginia,51,Pittsylvania,143
+EUPEP,United States,Virginia,51,Powhatan,145
+EUPEP,United States,Virginia,51,Prince Edward,147
+EUPEP,United States,Virginia,51,Prince George,149
+EUPEP,United States,Virginia,51,Prince William,153
+EUPEP,United States,Virginia,51,Pulaski,155
+EUPEP,United States,Virginia,51,Rappahannock,157
+EUPEP,United States,Virginia,51,Richmond,159
+EUPEP,United States,Virginia,51,Roanoke,161
+EUPEP,United States,Virginia,51,Rockbridge,163
+EUPEP,United States,Virginia,51,Rockingham,165
+EUPEP,United States,Virginia,51,Russell,167
+EUPEP,United States,Virginia,51,Scott,169
+EUPEP,United States,Virginia,51,Shenandoah,171
+EUPEP,United States,Virginia,51,Smyth,173
+EUPEP,United States,Virginia,51,Southampton,175
+EUPEP,United States,Virginia,51,Spotsylvania,177
+EUPEP,United States,Virginia,51,Stafford,179
+EUPEP,United States,Virginia,51,Suffolk ,800
+EUPEP,United States,Virginia,51,Surry,181
+EUPEP,United States,Virginia,51,Tazewell,185
+EUPEP,United States,Virginia,51,Warren,187
+EUPEP,United States,Virginia,51,Washington,191
+EUPEP,United States,Virginia,51,Westmoreland,193
+EUPEP,United States,Virginia,51,Wise,195
+EUPEP,United States,Virginia,51,Wythe,197
+EUPEP,United States,West Virginia,54,,
+EUPEP,United States,West Virginia,54,Barbour,001
+EUPEP,United States,West Virginia,54,Braxton,007
+EUPEP,United States,West Virginia,54,Brooke,009
+EUPEP,United States,West Virginia,54,Cabell,011
+EUPEP,United States,West Virginia,54,Doddridge,017
+EUPEP,United States,West Virginia,54,Fayette,019
+EUPEP,United States,West Virginia,54,Grant,023
+EUPEP,United States,West Virginia,54,Greenbrier,025
+EUPEP,United States,West Virginia,54,Hampshire,027
+EUPEP,United States,West Virginia,54,Hancock,029
+EUPEP,United States,West Virginia,54,Hardy,031
+EUPEP,United States,West Virginia,54,Harrison,033
+EUPEP,United States,West Virginia,54,Kanawha,039
+EUPEP,United States,West Virginia,54,Lewis,041
+EUPEP,United States,West Virginia,54,Marion,049
+EUPEP,United States,West Virginia,54,Marshall,051
+EUPEP,United States,West Virginia,54,McDowell,047
+EUPEP,United States,West Virginia,54,Mercer,055
+EUPEP,United States,West Virginia,54,Mineral,057
+EUPEP,United States,West Virginia,54,Monongalia,061
+EUPEP,United States,West Virginia,54,Nicholas,067
+EUPEP,United States,West Virginia,54,Ohio,069
+EUPEP,United States,West Virginia,54,Pocahontas,075
+EUPEP,United States,West Virginia,54,Preston,077
+EUPEP,United States,West Virginia,54,Raleigh,081
+EUPEP,United States,West Virginia,54,Randolph,083
+EUPEP,United States,West Virginia,54,Ritchie,085
+EUPEP,United States,West Virginia,54,Summers,089
+EUPEP,United States,West Virginia,54,Tucker,093
+EUPEP,United States,West Virginia,54,Upshur,097
+EUPEP,United States,West Virginia,54,Wayne,099
+EUPEP,United States,West Virginia,54,Webster,101
+EUPEP,United States,West Virginia,54,Wetzel,103
+EUPEP,United States,West Virginia,54,Wirt,105
+EUPEP,United States,West Virginia,54,Wyoming,109
+EUPEP,United States,Wisconsin,55,,
+EUPEP,United States,Wisconsin,55,Adams,001
+EUPEP,United States,Wisconsin,55,Ashland,003
+EUPEP,United States,Wisconsin,55,Barron,005
+EUPEP,United States,Wisconsin,55,Bayfield,007
+EUPEP,United States,Wisconsin,55,Brown,009
+EUPEP,United States,Wisconsin,55,Buffalo,011
+EUPEP,United States,Wisconsin,55,Burnett,013
+EUPEP,United States,Wisconsin,55,Calumet,015
+EUPEP,United States,Wisconsin,55,Chippewa,017
+EUPEP,United States,Wisconsin,55,Clark,019
+EUPEP,United States,Wisconsin,55,Columbia,021
+EUPEP,United States,Wisconsin,55,Crawford,023
+EUPEP,United States,Wisconsin,55,Dane,025
+EUPEP,United States,Wisconsin,55,Dodge,027
+EUPEP,United States,Wisconsin,55,Door,029
+EUPEP,United States,Wisconsin,55,Douglas,031
+EUPEP,United States,Wisconsin,55,Dunn,033
+EUPEP,United States,Wisconsin,55,Eau Claire,035
+EUPEP,United States,Wisconsin,55,Florence,037
+EUPEP,United States,Wisconsin,55,Fond du Lac,039
+EUPEP,United States,Wisconsin,55,Forest,041
+EUPEP,United States,Wisconsin,55,Grant,043
+EUPEP,United States,Wisconsin,55,Green,045
+EUPEP,United States,Wisconsin,55,Green Lake,047
+EUPEP,United States,Wisconsin,55,Iowa,049
+EUPEP,United States,Wisconsin,55,Iron,051
+EUPEP,United States,Wisconsin,55,Jackson,053
+EUPEP,United States,Wisconsin,55,Jefferson,055
+EUPEP,United States,Wisconsin,55,Kenosha,059
+EUPEP,United States,Wisconsin,55,La Crosse,063
+EUPEP,United States,Wisconsin,55,Lafayette,065
+EUPEP,United States,Wisconsin,55,Langlade,067
+EUPEP,United States,Wisconsin,55,Lincoln,069
+EUPEP,United States,Wisconsin,55,Manitowoc,071
+EUPEP,United States,Wisconsin,55,Marathon,073
+EUPEP,United States,Wisconsin,55,Marinette,075
+EUPEP,United States,Wisconsin,55,Marquette,077
+EUPEP,United States,Wisconsin,55,Menominee,078
+EUPEP,United States,Wisconsin,55,Milwaukee,079
+EUPEP,United States,Wisconsin,55,Monroe,081
+EUPEP,United States,Wisconsin,55,Oconto,083
+EUPEP,United States,Wisconsin,55,Oneida,085
+EUPEP,United States,Wisconsin,55,Outagamie,087
+EUPEP,United States,Wisconsin,55,Ozaukee,089
+EUPEP,United States,Wisconsin,55,Pierce,093
+EUPEP,United States,Wisconsin,55,Polk,095
+EUPEP,United States,Wisconsin,55,Portage,097
+EUPEP,United States,Wisconsin,55,Price,099
+EUPEP,United States,Wisconsin,55,Racine,101
+EUPEP,United States,Wisconsin,55,Richland,103
+EUPEP,United States,Wisconsin,55,Rock,105
+EUPEP,United States,Wisconsin,55,Rusk,107
+EUPEP,United States,Wisconsin,55,Sauk,111
+EUPEP,United States,Wisconsin,55,Sawyer,113
+EUPEP,United States,Wisconsin,55,Shawano,115
+EUPEP,United States,Wisconsin,55,Sheboygan,117
+EUPEP,United States,Wisconsin,55,St. Croix,109
+EUPEP,United States,Wisconsin,55,Taylor,119
+EUPEP,United States,Wisconsin,55,Trempealeau,121
+EUPEP,United States,Wisconsin,55,Vernon,123
+EUPEP,United States,Wisconsin,55,Vilas,125
+EUPEP,United States,Wisconsin,55,Walworth,127
+EUPEP,United States,Wisconsin,55,Washburn,129
+EUPEP,United States,Wisconsin,55,Washington,131
+EUPEP,United States,Wisconsin,55,Waukesha,133
+EUPEP,United States,Wisconsin,55,Waupaca,135
+EUPEP,United States,Wisconsin,55,Waushara,137
+EUPEP,United States,Wisconsin,55,Winnebago,139
+EUPEP,United States,Wisconsin,55,Wood,141

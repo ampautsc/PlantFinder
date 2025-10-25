@@ -1,0 +1,129 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VIGL,Canada,Alberta,01,,
+VIGL,Canada,British Columbia,02,,
+VIGL,United States,Alaska,02,,
+VIGL,United States,Alaska,02,Anchorage,020
+VIGL,United States,Alaska,02,Chugach,063
+VIGL,United States,Alaska,02,Copper River,066
+VIGL,United States,Alaska,02,Haines,100
+VIGL,United States,Alaska,02,Juneau,110
+VIGL,United States,Alaska,02,Kenai Peninsula,122
+VIGL,United States,Alaska,02,Ketchikan Gateway,130
+VIGL,United States,Alaska,02,Kodiak Island,150
+VIGL,United States,Alaska,02,Matanuska-Susitna,170
+VIGL,United States,Alaska,02,Sitka,220
+VIGL,United States,Alaska,02,Yakutat,282
+VIGL,United States,California,06,,
+VIGL,United States,California,06,Alameda,001
+VIGL,United States,California,06,Butte,007
+VIGL,United States,California,06,Calaveras,009
+VIGL,United States,California,06,Colusa,011
+VIGL,United States,California,06,Contra Costa,013
+VIGL,United States,California,06,Del Norte,015
+VIGL,United States,California,06,El Dorado,017
+VIGL,United States,California,06,Fresno,019
+VIGL,United States,California,06,Glenn,021
+VIGL,United States,California,06,Humboldt,023
+VIGL,United States,California,06,Kern,029
+VIGL,United States,California,06,Lake,033
+VIGL,United States,California,06,Lassen,035
+VIGL,United States,California,06,Marin,041
+VIGL,United States,California,06,Mariposa,043
+VIGL,United States,California,06,Mendocino,045
+VIGL,United States,California,06,Modoc,049
+VIGL,United States,California,06,Monterey,053
+VIGL,United States,California,06,Nevada,057
+VIGL,United States,California,06,Placer,061
+VIGL,United States,California,06,Plumas,063
+VIGL,United States,California,06,San Mateo,081
+VIGL,United States,California,06,Santa Cruz,087
+VIGL,United States,California,06,Shasta,089
+VIGL,United States,California,06,Sierra,091
+VIGL,United States,California,06,Siskiyou,093
+VIGL,United States,California,06,Sonoma,097
+VIGL,United States,California,06,Tehama,103
+VIGL,United States,California,06,Trinity,105
+VIGL,United States,California,06,Tulare,107
+VIGL,United States,California,06,Tuolumne,109
+VIGL,United States,Idaho,16,,
+VIGL,United States,Idaho,16,Adams,003
+VIGL,United States,Idaho,16,Benewah,009
+VIGL,United States,Idaho,16,Boise,015
+VIGL,United States,Idaho,16,Bonner,017
+VIGL,United States,Idaho,16,Boundary,021
+VIGL,United States,Idaho,16,Clearwater,035
+VIGL,United States,Idaho,16,Idaho,049
+VIGL,United States,Idaho,16,Kootenai,055
+VIGL,United States,Idaho,16,Latah,057
+VIGL,United States,Idaho,16,Shoshone,079
+VIGL,United States,Idaho,16,Twin Falls,083
+VIGL,United States,Idaho,16,Valley,085
+VIGL,United States,Montana,30,,
+VIGL,United States,Montana,30,Flathead,029
+VIGL,United States,Montana,30,Glacier,035
+VIGL,United States,Montana,30,Lake,047
+VIGL,United States,Montana,30,Missoula,063
+VIGL,United States,Montana,30,Sanders,089
+VIGL,United States,Montana,30,Silver Bow,093
+VIGL,United States,Oregon,41,,
+VIGL,United States,Oregon,41,Baker,001
+VIGL,United States,Oregon,41,Benton,003
+VIGL,United States,Oregon,41,Clackamas,005
+VIGL,United States,Oregon,41,Clatsop,007
+VIGL,United States,Oregon,41,Coos,011
+VIGL,United States,Oregon,41,Crook,013
+VIGL,United States,Oregon,41,Curry,015
+VIGL,United States,Oregon,41,Deschutes,017
+VIGL,United States,Oregon,41,Douglas,019
+VIGL,United States,Oregon,41,Hood River,027
+VIGL,United States,Oregon,41,Jackson,029
+VIGL,United States,Oregon,41,Jefferson,031
+VIGL,United States,Oregon,41,Josephine,033
+VIGL,United States,Oregon,41,Klamath,035
+VIGL,United States,Oregon,41,Lake,037
+VIGL,United States,Oregon,41,Lane,039
+VIGL,United States,Oregon,41,Lincoln,041
+VIGL,United States,Oregon,41,Linn,043
+VIGL,United States,Oregon,41,Marion,047
+VIGL,United States,Oregon,41,Multnomah,051
+VIGL,United States,Oregon,41,Polk,053
+VIGL,United States,Oregon,41,Tillamook,057
+VIGL,United States,Oregon,41,Umatilla,059
+VIGL,United States,Oregon,41,Union,061
+VIGL,United States,Oregon,41,Wallowa,063
+VIGL,United States,Oregon,41,Wasco,065
+VIGL,United States,Oregon,41,Washington,067
+VIGL,United States,Oregon,41,Wheeler,069
+VIGL,United States,Oregon,41,Yamhill,071
+VIGL,United States,Washington,53,,
+VIGL,United States,Washington,53,Asotin,003
+VIGL,United States,Washington,53,Chelan,007
+VIGL,United States,Washington,53,Clallam,009
+VIGL,United States,Washington,53,Clark,011
+VIGL,United States,Washington,53,Columbia,013
+VIGL,United States,Washington,53,Cowlitz,015
+VIGL,United States,Washington,53,Ferry,019
+VIGL,United States,Washington,53,Garfield,023
+VIGL,United States,Washington,53,Grays Harbor,027
+VIGL,United States,Washington,53,Jefferson,031
+VIGL,United States,Washington,53,King,033
+VIGL,United States,Washington,53,Kittitas,037
+VIGL,United States,Washington,53,Klickitat,039
+VIGL,United States,Washington,53,Lewis,041
+VIGL,United States,Washington,53,Mason,045
+VIGL,United States,Washington,53,Okanogan,047
+VIGL,United States,Washington,53,Pacific,049
+VIGL,United States,Washington,53,Pend Oreille,051
+VIGL,United States,Washington,53,Pierce,053
+VIGL,United States,Washington,53,San Juan,055
+VIGL,United States,Washington,53,Skagit,057
+VIGL,United States,Washington,53,Skamania,059
+VIGL,United States,Washington,53,Snohomish,061
+VIGL,United States,Washington,53,Spokane,063
+VIGL,United States,Washington,53,Stevens,065
+VIGL,United States,Washington,53,Thurston,067
+VIGL,United States,Washington,53,Wahkiakum,069
+VIGL,United States,Washington,53,Walla Walla,071
+VIGL,United States,Washington,53,Whatcom,073
+VIGL,United States,Washington,53,Yakima,077

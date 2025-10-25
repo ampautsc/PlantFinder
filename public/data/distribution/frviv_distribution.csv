@@ -1,0 +1,497 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+FRVIV,United States,Alabama,01,,
+FRVIV,Canada,Manitoba,03,,
+FRVIV,United States,Arkansas,05,,
+FRVIV,Canada,Nova Scotia,07,,
+FRVIV,Canada,Ontario,08,,
+FRVIV,Canada,Prince Edward Island,09,,
+FRVIV,United States,Connecticut,09,,
+FRVIV,Canada,Quebec,10,,
+FRVIV,United States,Delaware,10,,
+FRVIV,United States,Delaware,10,New Castle,003
+FRVIV,United States,District of Columbia,11,,
+FRVIV,United States,District of Columbia,11,District of Columbia,001
+FRVIV,United States,Florida,12,,
+FRVIV,United States,Florida,12,Leon,073
+FRVIV,United States,Georgia,13,,
+FRVIV,United States,Georgia,13,Clarke,059
+FRVIV,United States,Georgia,13,Clay,061
+FRVIV,United States,Georgia,13,Coweta,077
+FRVIV,United States,Georgia,13,Dawson,085
+FRVIV,United States,Georgia,13,Elbert,105
+FRVIV,United States,Georgia,13,Floyd,115
+FRVIV,United States,Georgia,13,Forsyth,117
+FRVIV,United States,Georgia,13,Fulton,121
+FRVIV,United States,Georgia,13,Gilmer,123
+FRVIV,United States,Georgia,13,Harris,145
+FRVIV,United States,Georgia,13,Jackson,157
+FRVIV,United States,Georgia,13,Jasper,159
+FRVIV,United States,Georgia,13,Madison,195
+FRVIV,United States,Georgia,13,Morgan,211
+FRVIV,United States,Georgia,13,Murray,213
+FRVIV,United States,Georgia,13,Pickens,227
+FRVIV,United States,Georgia,13,Putnam,237
+FRVIV,United States,Georgia,13,Rabun,241
+FRVIV,United States,Georgia,13,Taylor,269
+FRVIV,United States,Georgia,13,Twiggs,289
+FRVIV,United States,Georgia,13,Walton,297
+FRVIV,United States,Georgia,13,White,311
+FRVIV,United States,Georgia,13,Worth,321
+FRVIV,United States,Illinois,17,,
+FRVIV,United States,Indiana,18,,
+FRVIV,United States,Iowa,19,,
+FRVIV,United States,Kansas,20,,
+FRVIV,United States,Kentucky,21,,
+FRVIV,United States,Kentucky,21,Anderson,005
+FRVIV,United States,Kentucky,21,Barren,009
+FRVIV,United States,Kentucky,21,Bell,013
+FRVIV,United States,Kentucky,21,Bourbon,017
+FRVIV,United States,Kentucky,21,Boyle,021
+FRVIV,United States,Kentucky,21,Bracken,023
+FRVIV,United States,Kentucky,21,Breathitt,025
+FRVIV,United States,Kentucky,21,Breckinridge,027
+FRVIV,United States,Kentucky,21,Bullitt,029
+FRVIV,United States,Kentucky,21,Caldwell,033
+FRVIV,United States,Kentucky,21,Campbell,037
+FRVIV,United States,Kentucky,21,Carter,043
+FRVIV,United States,Kentucky,21,Casey,045
+FRVIV,United States,Kentucky,21,Clark,049
+FRVIV,United States,Kentucky,21,Edmonson,061
+FRVIV,United States,Kentucky,21,Estill,065
+FRVIV,United States,Kentucky,21,Fayette,067
+FRVIV,United States,Kentucky,21,Floyd,071
+FRVIV,United States,Kentucky,21,Franklin,073
+FRVIV,United States,Kentucky,21,Garrard,079
+FRVIV,United States,Kentucky,21,Green,087
+FRVIV,United States,Kentucky,21,Hardin,093
+FRVIV,United States,Kentucky,21,Harrison,097
+FRVIV,United States,Kentucky,21,Hart,099
+FRVIV,United States,Kentucky,21,Henry,103
+FRVIV,United States,Kentucky,21,Jackson,109
+FRVIV,United States,Kentucky,21,Jefferson,111
+FRVIV,United States,Kentucky,21,Jessamine,113
+FRVIV,United States,Kentucky,21,Larue,123
+FRVIV,United States,Kentucky,21,Laurel,125
+FRVIV,United States,Kentucky,21,Lee,129
+FRVIV,United States,Kentucky,21,Leslie,131
+FRVIV,United States,Kentucky,21,Letcher,133
+FRVIV,United States,Kentucky,21,Lewis,135
+FRVIV,United States,Kentucky,21,Lincoln,137
+FRVIV,United States,Kentucky,21,Logan,141
+FRVIV,United States,Kentucky,21,Madison,151
+FRVIV,United States,Kentucky,21,Martin,159
+FRVIV,United States,Kentucky,21,Mason,161
+FRVIV,United States,Kentucky,21,McCreary,147
+FRVIV,United States,Kentucky,21,McLean,149
+FRVIV,United States,Kentucky,21,Meade,163
+FRVIV,United States,Kentucky,21,Montgomery,173
+FRVIV,United States,Kentucky,21,Nelson,179
+FRVIV,United States,Kentucky,21,Oldham,185
+FRVIV,United States,Kentucky,21,Owen,187
+FRVIV,United States,Kentucky,21,Pulaski,199
+FRVIV,United States,Kentucky,21,Rockcastle,203
+FRVIV,United States,Kentucky,21,Rowan,205
+FRVIV,United States,Kentucky,21,Scott,209
+FRVIV,United States,Kentucky,21,Shelby,211
+FRVIV,United States,Kentucky,21,Taylor,217
+FRVIV,United States,Kentucky,21,Union,225
+FRVIV,United States,Kentucky,21,Warren,227
+FRVIV,United States,Kentucky,21,Whitley,235
+FRVIV,United States,Kentucky,21,Wolfe,237
+FRVIV,United States,Kentucky,21,Woodford,239
+FRVIV,United States,Louisiana,22,,
+FRVIV,United States,Maine,23,,
+FRVIV,United States,Maryland,24,,
+FRVIV,United States,Massachusetts,25,,
+FRVIV,United States,Massachusetts,25,Barnstable,001
+FRVIV,United States,Massachusetts,25,Berkshire,003
+FRVIV,United States,Massachusetts,25,Bristol,005
+FRVIV,United States,Massachusetts,25,Dukes,007
+FRVIV,United States,Massachusetts,25,Essex,009
+FRVIV,United States,Massachusetts,25,Franklin,011
+FRVIV,United States,Massachusetts,25,Hampden,013
+FRVIV,United States,Massachusetts,25,Hampshire,015
+FRVIV,United States,Massachusetts,25,Middlesex,017
+FRVIV,United States,Massachusetts,25,Nantucket,019
+FRVIV,United States,Massachusetts,25,Norfolk,021
+FRVIV,United States,Massachusetts,25,Plymouth,023
+FRVIV,United States,Massachusetts,25,Suffolk,025
+FRVIV,United States,Massachusetts,25,Worcester,027
+FRVIV,United States,Michigan,26,,
+FRVIV,United States,Michigan,26,Alcona,001
+FRVIV,United States,Michigan,26,Alger,003
+FRVIV,United States,Michigan,26,Allegan,005
+FRVIV,United States,Michigan,26,Alpena,007
+FRVIV,United States,Michigan,26,Antrim,009
+FRVIV,United States,Michigan,26,Arenac,011
+FRVIV,United States,Michigan,26,Baraga,013
+FRVIV,United States,Michigan,26,Barry,015
+FRVIV,United States,Michigan,26,Bay,017
+FRVIV,United States,Michigan,26,Benzie,019
+FRVIV,United States,Michigan,26,Berrien,021
+FRVIV,United States,Michigan,26,Calhoun,025
+FRVIV,United States,Michigan,26,Cass,027
+FRVIV,United States,Michigan,26,Charlevoix,029
+FRVIV,United States,Michigan,26,Cheboygan,031
+FRVIV,United States,Michigan,26,Chippewa,033
+FRVIV,United States,Michigan,26,Clare,035
+FRVIV,United States,Michigan,26,Clinton,037
+FRVIV,United States,Michigan,26,Crawford,039
+FRVIV,United States,Michigan,26,Delta,041
+FRVIV,United States,Michigan,26,Eaton,045
+FRVIV,United States,Michigan,26,Emmet,047
+FRVIV,United States,Michigan,26,Genesee,049
+FRVIV,United States,Michigan,26,Gladwin,051
+FRVIV,United States,Michigan,26,Gogebic,053
+FRVIV,United States,Michigan,26,Grand Traverse,055
+FRVIV,United States,Michigan,26,Gratiot,057
+FRVIV,United States,Michigan,26,Hillsdale,059
+FRVIV,United States,Michigan,26,Houghton,061
+FRVIV,United States,Michigan,26,Huron,063
+FRVIV,United States,Michigan,26,Ingham,065
+FRVIV,United States,Michigan,26,Iosco,069
+FRVIV,United States,Michigan,26,Iron,071
+FRVIV,United States,Michigan,26,Isabella,073
+FRVIV,United States,Michigan,26,Jackson,075
+FRVIV,United States,Michigan,26,Kalamazoo,077
+FRVIV,United States,Michigan,26,Kalkaska,079
+FRVIV,United States,Michigan,26,Kent,081
+FRVIV,United States,Michigan,26,Keweenaw,083
+FRVIV,United States,Michigan,26,Lake,085
+FRVIV,United States,Michigan,26,Lapeer,087
+FRVIV,United States,Michigan,26,Leelanau,089
+FRVIV,United States,Michigan,26,Livingston,093
+FRVIV,United States,Michigan,26,Luce,095
+FRVIV,United States,Michigan,26,Mackinac,097
+FRVIV,United States,Michigan,26,Macomb,099
+FRVIV,United States,Michigan,26,Manistee,101
+FRVIV,United States,Michigan,26,Marquette,103
+FRVIV,United States,Michigan,26,Mason,105
+FRVIV,United States,Michigan,26,Mecosta,107
+FRVIV,United States,Michigan,26,Midland,111
+FRVIV,United States,Michigan,26,Monroe,115
+FRVIV,United States,Michigan,26,Montcalm,117
+FRVIV,United States,Michigan,26,Montmorency,119
+FRVIV,United States,Michigan,26,Muskegon,121
+FRVIV,United States,Michigan,26,Newaygo,123
+FRVIV,United States,Michigan,26,Oakland,125
+FRVIV,United States,Michigan,26,Oceana,127
+FRVIV,United States,Michigan,26,Ogemaw,129
+FRVIV,United States,Michigan,26,Ontonagon,131
+FRVIV,United States,Michigan,26,Osceola,133
+FRVIV,United States,Michigan,26,Oscoda,135
+FRVIV,United States,Michigan,26,Otsego,137
+FRVIV,United States,Michigan,26,Ottawa,139
+FRVIV,United States,Michigan,26,Presque Isle,141
+FRVIV,United States,Michigan,26,Roscommon,143
+FRVIV,United States,Michigan,26,Saginaw,145
+FRVIV,United States,Michigan,26,Sanilac,151
+FRVIV,United States,Michigan,26,Shiawassee,155
+FRVIV,United States,Michigan,26,St. Clair,147
+FRVIV,United States,Michigan,26,Tuscola,157
+FRVIV,United States,Michigan,26,Van Buren,159
+FRVIV,United States,Michigan,26,Washtenaw,161
+FRVIV,United States,Michigan,26,Wayne,163
+FRVIV,United States,Michigan,26,Wexford,165
+FRVIV,United States,Minnesota,27,,
+FRVIV,United States,Mississippi,28,,
+FRVIV,United States,Missouri,29,,
+FRVIV,United States,Nebraska,31,,
+FRVIV,United States,New Hampshire,33,,
+FRVIV,United States,New Jersey,34,,
+FRVIV,United States,New Jersey,34,Atlantic,001
+FRVIV,United States,New Jersey,34,Bergen,003
+FRVIV,United States,New Jersey,34,Burlington,005
+FRVIV,United States,New Jersey,34,Camden,007
+FRVIV,United States,New Jersey,34,Cape May,009
+FRVIV,United States,New Jersey,34,Gloucester,015
+FRVIV,United States,New Jersey,34,Hunterdon,019
+FRVIV,United States,New Jersey,34,Mercer,021
+FRVIV,United States,New Jersey,34,Middlesex,023
+FRVIV,United States,New Jersey,34,Monmouth,025
+FRVIV,United States,New Jersey,34,Morris,027
+FRVIV,United States,New Jersey,34,Ocean,029
+FRVIV,United States,New Jersey,34,Passaic,031
+FRVIV,United States,New Jersey,34,Somerset,035
+FRVIV,United States,New Jersey,34,Sussex,037
+FRVIV,United States,New Jersey,34,Warren,041
+FRVIV,United States,New York,36,,
+FRVIV,United States,North Carolina,37,,
+FRVIV,United States,North Carolina,37,Alamance,001
+FRVIV,United States,North Carolina,37,Alexander,003
+FRVIV,United States,North Carolina,37,Alleghany,005
+FRVIV,United States,North Carolina,37,Ashe,009
+FRVIV,United States,North Carolina,37,Avery,011
+FRVIV,United States,North Carolina,37,Beaufort,013
+FRVIV,United States,North Carolina,37,Bertie,015
+FRVIV,United States,North Carolina,37,Brunswick,019
+FRVIV,United States,North Carolina,37,Buncombe,021
+FRVIV,United States,North Carolina,37,Burke,023
+FRVIV,United States,North Carolina,37,Cabarrus,025
+FRVIV,United States,North Carolina,37,Caldwell,027
+FRVIV,United States,North Carolina,37,Caswell,033
+FRVIV,United States,North Carolina,37,Catawba,035
+FRVIV,United States,North Carolina,37,Chatham,037
+FRVIV,United States,North Carolina,37,Cherokee,039
+FRVIV,United States,North Carolina,37,Chowan,041
+FRVIV,United States,North Carolina,37,Clay,043
+FRVIV,United States,North Carolina,37,Cleveland,045
+FRVIV,United States,North Carolina,37,Columbus,047
+FRVIV,United States,North Carolina,37,Craven,049
+FRVIV,United States,North Carolina,37,Davidson,057
+FRVIV,United States,North Carolina,37,Davie,059
+FRVIV,United States,North Carolina,37,Durham,063
+FRVIV,United States,North Carolina,37,Edgecombe,065
+FRVIV,United States,North Carolina,37,Forsyth,067
+FRVIV,United States,North Carolina,37,Franklin,069
+FRVIV,United States,North Carolina,37,Gaston,071
+FRVIV,United States,North Carolina,37,Graham,075
+FRVIV,United States,North Carolina,37,Granville,077
+FRVIV,United States,North Carolina,37,Greene,079
+FRVIV,United States,North Carolina,37,Guilford,081
+FRVIV,United States,North Carolina,37,Harnett,085
+FRVIV,United States,North Carolina,37,Haywood,087
+FRVIV,United States,North Carolina,37,Henderson,089
+FRVIV,United States,North Carolina,37,Hertford,091
+FRVIV,United States,North Carolina,37,Iredell,097
+FRVIV,United States,North Carolina,37,Jackson,099
+FRVIV,United States,North Carolina,37,Jones,103
+FRVIV,United States,North Carolina,37,Lee,105
+FRVIV,United States,North Carolina,37,Lincoln,109
+FRVIV,United States,North Carolina,37,Madison,115
+FRVIV,United States,North Carolina,37,Martin,117
+FRVIV,United States,North Carolina,37,McDowell,111
+FRVIV,United States,North Carolina,37,Mecklenburg,119
+FRVIV,United States,North Carolina,37,Mitchell,121
+FRVIV,United States,North Carolina,37,Moore,125
+FRVIV,United States,North Carolina,37,Nash,127
+FRVIV,United States,North Carolina,37,New Hanover,129
+FRVIV,United States,North Carolina,37,Northampton,131
+FRVIV,United States,North Carolina,37,Orange,135
+FRVIV,United States,North Carolina,37,Pamlico,137
+FRVIV,United States,North Carolina,37,Pasquotank,139
+FRVIV,United States,North Carolina,37,Pender,141
+FRVIV,United States,North Carolina,37,Perquimans,143
+FRVIV,United States,North Carolina,37,Person,145
+FRVIV,United States,North Carolina,37,Pitt,147
+FRVIV,United States,North Carolina,37,Polk,149
+FRVIV,United States,North Carolina,37,Randolph,151
+FRVIV,United States,North Carolina,37,Robeson,155
+FRVIV,United States,North Carolina,37,Rockingham,157
+FRVIV,United States,North Carolina,37,Rowan,159
+FRVIV,United States,North Carolina,37,Rutherford,161
+FRVIV,United States,North Carolina,37,Stanly,167
+FRVIV,United States,North Carolina,37,Stokes,169
+FRVIV,United States,North Carolina,37,Swain,173
+FRVIV,United States,North Carolina,37,Transylvania,175
+FRVIV,United States,North Carolina,37,Vance,181
+FRVIV,United States,North Carolina,37,Wake,183
+FRVIV,United States,North Carolina,37,Warren,185
+FRVIV,United States,North Carolina,37,Washington,187
+FRVIV,United States,North Carolina,37,Watauga,189
+FRVIV,United States,North Carolina,37,Yancey,199
+FRVIV,United States,Ohio,39,,
+FRVIV,United States,Oklahoma,40,,
+FRVIV,United States,Pennsylvania,42,,
+FRVIV,United States,Pennsylvania,42,Adams,001
+FRVIV,United States,Pennsylvania,42,Allegheny,003
+FRVIV,United States,Pennsylvania,42,Armstrong,005
+FRVIV,United States,Pennsylvania,42,Beaver,007
+FRVIV,United States,Pennsylvania,42,Bedford,009
+FRVIV,United States,Pennsylvania,42,Berks,011
+FRVIV,United States,Pennsylvania,42,Blair,013
+FRVIV,United States,Pennsylvania,42,Bradford,015
+FRVIV,United States,Pennsylvania,42,Bucks,017
+FRVIV,United States,Pennsylvania,42,Butler,019
+FRVIV,United States,Pennsylvania,42,Cambria,021
+FRVIV,United States,Pennsylvania,42,Cameron,023
+FRVIV,United States,Pennsylvania,42,Carbon,025
+FRVIV,United States,Pennsylvania,42,Centre,027
+FRVIV,United States,Pennsylvania,42,Chester,029
+FRVIV,United States,Pennsylvania,42,Clarion,031
+FRVIV,United States,Pennsylvania,42,Clearfield,033
+FRVIV,United States,Pennsylvania,42,Clinton,035
+FRVIV,United States,Pennsylvania,42,Columbia,037
+FRVIV,United States,Pennsylvania,42,Crawford,039
+FRVIV,United States,Pennsylvania,42,Cumberland,041
+FRVIV,United States,Pennsylvania,42,Dauphin,043
+FRVIV,United States,Pennsylvania,42,Delaware,045
+FRVIV,United States,Pennsylvania,42,Elk,047
+FRVIV,United States,Pennsylvania,42,Erie,049
+FRVIV,United States,Pennsylvania,42,Fayette,051
+FRVIV,United States,Pennsylvania,42,Forest,053
+FRVIV,United States,Pennsylvania,42,Franklin,055
+FRVIV,United States,Pennsylvania,42,Fulton,057
+FRVIV,United States,Pennsylvania,42,Greene,059
+FRVIV,United States,Pennsylvania,42,Huntingdon,061
+FRVIV,United States,Pennsylvania,42,Indiana,063
+FRVIV,United States,Pennsylvania,42,Jefferson,065
+FRVIV,United States,Pennsylvania,42,Juniata,067
+FRVIV,United States,Pennsylvania,42,Lackawanna,069
+FRVIV,United States,Pennsylvania,42,Lancaster,071
+FRVIV,United States,Pennsylvania,42,Lawrence,073
+FRVIV,United States,Pennsylvania,42,Lebanon,075
+FRVIV,United States,Pennsylvania,42,Lehigh,077
+FRVIV,United States,Pennsylvania,42,Luzerne,079
+FRVIV,United States,Pennsylvania,42,Lycoming,081
+FRVIV,United States,Pennsylvania,42,McKean,083
+FRVIV,United States,Pennsylvania,42,Mercer,085
+FRVIV,United States,Pennsylvania,42,Mifflin,087
+FRVIV,United States,Pennsylvania,42,Monroe,089
+FRVIV,United States,Pennsylvania,42,Montgomery,091
+FRVIV,United States,Pennsylvania,42,Montour,093
+FRVIV,United States,Pennsylvania,42,Northampton,095
+FRVIV,United States,Pennsylvania,42,Northumberland,097
+FRVIV,United States,Pennsylvania,42,Perry,099
+FRVIV,United States,Pennsylvania,42,Philadelphia,101
+FRVIV,United States,Pennsylvania,42,Pike,103
+FRVIV,United States,Pennsylvania,42,Potter,105
+FRVIV,United States,Pennsylvania,42,Schuylkill,107
+FRVIV,United States,Pennsylvania,42,Snyder,109
+FRVIV,United States,Pennsylvania,42,Somerset,111
+FRVIV,United States,Pennsylvania,42,Sullivan,113
+FRVIV,United States,Pennsylvania,42,Susquehanna,115
+FRVIV,United States,Pennsylvania,42,Tioga,117
+FRVIV,United States,Pennsylvania,42,Union,119
+FRVIV,United States,Pennsylvania,42,Venango,121
+FRVIV,United States,Pennsylvania,42,Warren,123
+FRVIV,United States,Pennsylvania,42,Washington,125
+FRVIV,United States,Pennsylvania,42,Wayne,127
+FRVIV,United States,Pennsylvania,42,Westmoreland,129
+FRVIV,United States,Pennsylvania,42,Wyoming,131
+FRVIV,United States,Pennsylvania,42,York,133
+FRVIV,United States,Rhode Island,44,,
+FRVIV,United States,Rhode Island,44,Bristol,001
+FRVIV,United States,Rhode Island,44,Kent,003
+FRVIV,United States,Rhode Island,44,Newport,005
+FRVIV,United States,Rhode Island,44,Providence,007
+FRVIV,United States,Rhode Island,44,Washington,009
+FRVIV,United States,South Carolina,45,,
+FRVIV,United States,South Carolina,45,Barnwell,011
+FRVIV,United States,South Carolina,45,Charleston,019
+FRVIV,United States,South Carolina,45,Chester,023
+FRVIV,United States,South Carolina,45,Darlington,031
+FRVIV,United States,South Carolina,45,Greenwood,047
+FRVIV,United States,South Carolina,45,Kershaw,055
+FRVIV,United States,South Carolina,45,Lancaster,057
+FRVIV,United States,South Carolina,45,Laurens,059
+FRVIV,United States,South Carolina,45,Newberry,071
+FRVIV,United States,South Carolina,45,Oconee,073
+FRVIV,United States,South Carolina,45,Pickens,077
+FRVIV,United States,South Carolina,45,Richland,079
+FRVIV,United States,South Carolina,45,Saluda,081
+FRVIV,United States,South Carolina,45,Spartanburg,083
+FRVIV,United States,South Carolina,45,Union,087
+FRVIV,United States,South Carolina,45,York,091
+FRVIV,United States,South Dakota,46,,
+FRVIV,United States,Tennessee,47,,
+FRVIV,United States,Texas,48,,
+FRVIV,United States,Vermont,50,,
+FRVIV,United States,Virginia,51,,
+FRVIV,United States,West Virginia,54,,
+FRVIV,United States,West Virginia,54,Barbour,001
+FRVIV,United States,West Virginia,54,Berkeley,003
+FRVIV,United States,West Virginia,54,Boone,005
+FRVIV,United States,West Virginia,54,Braxton,007
+FRVIV,United States,West Virginia,54,Brooke,009
+FRVIV,United States,West Virginia,54,Calhoun,013
+FRVIV,United States,West Virginia,54,Fayette,019
+FRVIV,United States,West Virginia,54,Gilmer,021
+FRVIV,United States,West Virginia,54,Grant,023
+FRVIV,United States,West Virginia,54,Hampshire,027
+FRVIV,United States,West Virginia,54,Hancock,029
+FRVIV,United States,West Virginia,54,Hardy,031
+FRVIV,United States,West Virginia,54,Harrison,033
+FRVIV,United States,West Virginia,54,Kanawha,039
+FRVIV,United States,West Virginia,54,Marion,049
+FRVIV,United States,West Virginia,54,Mercer,055
+FRVIV,United States,West Virginia,54,Mineral,057
+FRVIV,United States,West Virginia,54,Monongalia,061
+FRVIV,United States,West Virginia,54,Morgan,065
+FRVIV,United States,West Virginia,54,Nicholas,067
+FRVIV,United States,West Virginia,54,Ohio,069
+FRVIV,United States,West Virginia,54,Pendleton,071
+FRVIV,United States,West Virginia,54,Pocahontas,075
+FRVIV,United States,West Virginia,54,Preston,077
+FRVIV,United States,West Virginia,54,Raleigh,081
+FRVIV,United States,West Virginia,54,Ritchie,085
+FRVIV,United States,West Virginia,54,Summers,089
+FRVIV,United States,West Virginia,54,Taylor,091
+FRVIV,United States,West Virginia,54,Tucker,093
+FRVIV,United States,West Virginia,54,Upshur,097
+FRVIV,United States,West Virginia,54,Webster,101
+FRVIV,United States,West Virginia,54,Wetzel,103
+FRVIV,United States,West Virginia,54,Wirt,105
+FRVIV,United States,West Virginia,54,Wyoming,109
+FRVIV,United States,Wisconsin,55,,
+FRVIV,United States,Wisconsin,55,Adams,001
+FRVIV,United States,Wisconsin,55,Ashland,003
+FRVIV,United States,Wisconsin,55,Barron,005
+FRVIV,United States,Wisconsin,55,Bayfield,007
+FRVIV,United States,Wisconsin,55,Brown,009
+FRVIV,United States,Wisconsin,55,Buffalo,011
+FRVIV,United States,Wisconsin,55,Burnett,013
+FRVIV,United States,Wisconsin,55,Calumet,015
+FRVIV,United States,Wisconsin,55,Chippewa,017
+FRVIV,United States,Wisconsin,55,Clark,019
+FRVIV,United States,Wisconsin,55,Columbia,021
+FRVIV,United States,Wisconsin,55,Crawford,023
+FRVIV,United States,Wisconsin,55,Dane,025
+FRVIV,United States,Wisconsin,55,Dodge,027
+FRVIV,United States,Wisconsin,55,Door,029
+FRVIV,United States,Wisconsin,55,Douglas,031
+FRVIV,United States,Wisconsin,55,Eau Claire,035
+FRVIV,United States,Wisconsin,55,Florence,037
+FRVIV,United States,Wisconsin,55,Fond du Lac,039
+FRVIV,United States,Wisconsin,55,Forest,041
+FRVIV,United States,Wisconsin,55,Grant,043
+FRVIV,United States,Wisconsin,55,Green,045
+FRVIV,United States,Wisconsin,55,Green Lake,047
+FRVIV,United States,Wisconsin,55,Iowa,049
+FRVIV,United States,Wisconsin,55,Iron,051
+FRVIV,United States,Wisconsin,55,Jackson,053
+FRVIV,United States,Wisconsin,55,Jefferson,055
+FRVIV,United States,Wisconsin,55,Kenosha,059
+FRVIV,United States,Wisconsin,55,Kewaunee,061
+FRVIV,United States,Wisconsin,55,La Crosse,063
+FRVIV,United States,Wisconsin,55,Lafayette,065
+FRVIV,United States,Wisconsin,55,Langlade,067
+FRVIV,United States,Wisconsin,55,Lincoln,069
+FRVIV,United States,Wisconsin,55,Manitowoc,071
+FRVIV,United States,Wisconsin,55,Marathon,073
+FRVIV,United States,Wisconsin,55,Marinette,075
+FRVIV,United States,Wisconsin,55,Marquette,077
+FRVIV,United States,Wisconsin,55,Menominee,078
+FRVIV,United States,Wisconsin,55,Milwaukee,079
+FRVIV,United States,Wisconsin,55,Monroe,081
+FRVIV,United States,Wisconsin,55,Oconto,083
+FRVIV,United States,Wisconsin,55,Oneida,085
+FRVIV,United States,Wisconsin,55,Outagamie,087
+FRVIV,United States,Wisconsin,55,Ozaukee,089
+FRVIV,United States,Wisconsin,55,Pepin,091
+FRVIV,United States,Wisconsin,55,Polk,095
+FRVIV,United States,Wisconsin,55,Portage,097
+FRVIV,United States,Wisconsin,55,Price,099
+FRVIV,United States,Wisconsin,55,Racine,101
+FRVIV,United States,Wisconsin,55,Richland,103
+FRVIV,United States,Wisconsin,55,Rock,105
+FRVIV,United States,Wisconsin,55,Rusk,107
+FRVIV,United States,Wisconsin,55,Sauk,111
+FRVIV,United States,Wisconsin,55,Sawyer,113
+FRVIV,United States,Wisconsin,55,Shawano,115
+FRVIV,United States,Wisconsin,55,Sheboygan,117
+FRVIV,United States,Wisconsin,55,St. Croix,109
+FRVIV,United States,Wisconsin,55,Taylor,119
+FRVIV,United States,Wisconsin,55,Trempealeau,121
+FRVIV,United States,Wisconsin,55,Vernon,123
+FRVIV,United States,Wisconsin,55,Vilas,125
+FRVIV,United States,Wisconsin,55,Walworth,127
+FRVIV,United States,Wisconsin,55,Washburn,129
+FRVIV,United States,Wisconsin,55,Washington,131
+FRVIV,United States,Wisconsin,55,Waukesha,133
+FRVIV,United States,Wisconsin,55,Waupaca,135
+FRVIV,United States,Wisconsin,55,Waushara,137
+FRVIV,United States,Wisconsin,55,Winnebago,139
+FRVIV,United States,Wisconsin,55,Wood,141
+FRVIV,Canada,Newfoundland,NF,,

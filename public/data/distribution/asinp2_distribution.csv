@@ -1,0 +1,151 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ASINP2,United States,Connecticut,09,,
+ASINP2,United States,Connecticut,09,Fairfield,001
+ASINP2,United States,Delaware,10,,
+ASINP2,United States,Delaware,10,Kent,001
+ASINP2,United States,Delaware,10,New Castle,003
+ASINP2,United States,Delaware,10,Sussex,005
+ASINP2,United States,District of Columbia,11,,
+ASINP2,United States,District of Columbia,11,District of Columbia,001
+ASINP2,United States,Florida,12,,
+ASINP2,United States,Georgia,13,,
+ASINP2,United States,Kentucky,21,,
+ASINP2,United States,Maine,23,,
+ASINP2,United States,Maryland,24,,
+ASINP2,United States,Massachusetts,25,,
+ASINP2,United States,Massachusetts,25,Barnstable,001
+ASINP2,United States,Massachusetts,25,Berkshire,003
+ASINP2,United States,Massachusetts,25,Bristol,005
+ASINP2,United States,Massachusetts,25,Dukes,007
+ASINP2,United States,Massachusetts,25,Essex,009
+ASINP2,United States,Massachusetts,25,Franklin,011
+ASINP2,United States,Massachusetts,25,Hampden,013
+ASINP2,United States,Massachusetts,25,Hampshire,015
+ASINP2,United States,Massachusetts,25,Middlesex,017
+ASINP2,United States,Massachusetts,25,Nantucket,019
+ASINP2,United States,Massachusetts,25,Norfolk,021
+ASINP2,United States,Massachusetts,25,Plymouth,023
+ASINP2,United States,Massachusetts,25,Suffolk,025
+ASINP2,United States,Massachusetts,25,Worcester,027
+ASINP2,United States,Michigan,26,,
+ASINP2,United States,New Hampshire,33,,
+ASINP2,United States,New Jersey,34,,
+ASINP2,United States,New Jersey,34,Hudson,017
+ASINP2,United States,New Jersey,34,Middlesex,023
+ASINP2,United States,New Jersey,34,Monmouth,025
+ASINP2,United States,New Jersey,34,Passaic,031
+ASINP2,United States,New Jersey,34,Somerset,035
+ASINP2,United States,New Jersey,34,Warren,041
+ASINP2,United States,New York,36,,
+ASINP2,United States,New York,36,Bronx,005
+ASINP2,United States,New York,36,Kings,047
+ASINP2,United States,New York,36,Nassau,059
+ASINP2,United States,New York,36,Oneida,065
+ASINP2,United States,New York,36,Orange,071
+ASINP2,United States,New York,36,Putnam,079
+ASINP2,United States,New York,36,Queens,081
+ASINP2,United States,New York,36,Richmond,085
+ASINP2,United States,New York,36,Rockland,087
+ASINP2,United States,New York,36,Suffolk,103
+ASINP2,United States,New York,36,Washington,115
+ASINP2,United States,New York,36,Westchester,119
+ASINP2,United States,North Carolina,37,,
+ASINP2,United States,North Carolina,37,Alamance,001
+ASINP2,United States,North Carolina,37,Alexander,003
+ASINP2,United States,North Carolina,37,Alleghany,005
+ASINP2,United States,North Carolina,37,Anson,007
+ASINP2,United States,North Carolina,37,Ashe,009
+ASINP2,United States,North Carolina,37,Avery,011
+ASINP2,United States,North Carolina,37,Beaufort,013
+ASINP2,United States,North Carolina,37,Buncombe,021
+ASINP2,United States,North Carolina,37,Burke,023
+ASINP2,United States,North Carolina,37,Cabarrus,025
+ASINP2,United States,North Carolina,37,Caldwell,027
+ASINP2,United States,North Carolina,37,Caswell,033
+ASINP2,United States,North Carolina,37,Catawba,035
+ASINP2,United States,North Carolina,37,Chatham,037
+ASINP2,United States,North Carolina,37,Cherokee,039
+ASINP2,United States,North Carolina,37,Clay,043
+ASINP2,United States,North Carolina,37,Cleveland,045
+ASINP2,United States,North Carolina,37,Currituck,053
+ASINP2,United States,North Carolina,37,Dare,055
+ASINP2,United States,North Carolina,37,Davie,059
+ASINP2,United States,North Carolina,37,Durham,063
+ASINP2,United States,North Carolina,37,Forsyth,067
+ASINP2,United States,North Carolina,37,Gaston,071
+ASINP2,United States,North Carolina,37,Gates,073
+ASINP2,United States,North Carolina,37,Graham,075
+ASINP2,United States,North Carolina,37,Granville,077
+ASINP2,United States,North Carolina,37,Guilford,081
+ASINP2,United States,North Carolina,37,Halifax,083
+ASINP2,United States,North Carolina,37,Haywood,087
+ASINP2,United States,North Carolina,37,Henderson,089
+ASINP2,United States,North Carolina,37,Hyde,095
+ASINP2,United States,North Carolina,37,Iredell,097
+ASINP2,United States,North Carolina,37,Lee,105
+ASINP2,United States,North Carolina,37,Lincoln,109
+ASINP2,United States,North Carolina,37,Macon,113
+ASINP2,United States,North Carolina,37,Madison,115
+ASINP2,United States,North Carolina,37,Mecklenburg,119
+ASINP2,United States,North Carolina,37,Mitchell,121
+ASINP2,United States,North Carolina,37,Orange,135
+ASINP2,United States,North Carolina,37,Pasquotank,139
+ASINP2,United States,North Carolina,37,Perquimans,143
+ASINP2,United States,North Carolina,37,Person,145
+ASINP2,United States,North Carolina,37,Randolph,151
+ASINP2,United States,North Carolina,37,Richmond,153
+ASINP2,United States,North Carolina,37,Rockingham,157
+ASINP2,United States,North Carolina,37,Rowan,159
+ASINP2,United States,North Carolina,37,Stanly,167
+ASINP2,United States,North Carolina,37,Stokes,169
+ASINP2,United States,North Carolina,37,Swain,173
+ASINP2,United States,North Carolina,37,Transylvania,175
+ASINP2,United States,North Carolina,37,Tyrrell,177
+ASINP2,United States,North Carolina,37,Union,179
+ASINP2,United States,North Carolina,37,Vance,181
+ASINP2,United States,North Carolina,37,Wake,183
+ASINP2,United States,North Carolina,37,Warren,185
+ASINP2,United States,North Carolina,37,Washington,187
+ASINP2,United States,North Carolina,37,Watauga,189
+ASINP2,United States,North Carolina,37,Wilkes,193
+ASINP2,United States,North Carolina,37,Yadkin,197
+ASINP2,United States,North Carolina,37,Yancey,199
+ASINP2,United States,Pennsylvania,42,,
+ASINP2,United States,Pennsylvania,42,Bucks,017
+ASINP2,United States,Pennsylvania,42,Chester,029
+ASINP2,United States,Pennsylvania,42,Delaware,045
+ASINP2,United States,Pennsylvania,42,Franklin,055
+ASINP2,United States,Pennsylvania,42,Lancaster,071
+ASINP2,United States,Pennsylvania,42,Montgomery,091
+ASINP2,United States,Pennsylvania,42,Northampton,095
+ASINP2,United States,Pennsylvania,42,Philadelphia,101
+ASINP2,United States,Pennsylvania,42,York,133
+ASINP2,United States,Rhode Island,44,,
+ASINP2,United States,Rhode Island,44,Bristol,001
+ASINP2,United States,Rhode Island,44,Kent,003
+ASINP2,United States,Rhode Island,44,Newport,005
+ASINP2,United States,Rhode Island,44,Providence,007
+ASINP2,United States,Rhode Island,44,Washington,009
+ASINP2,United States,South Carolina,45,,
+ASINP2,United States,South Carolina,45,Anderson,007
+ASINP2,United States,South Carolina,45,Darlington,031
+ASINP2,United States,South Carolina,45,Greenville,045
+ASINP2,United States,South Carolina,45,Jasper,053
+ASINP2,United States,South Carolina,45,Pickens,077
+ASINP2,United States,South Carolina,45,Spartanburg,083
+ASINP2,United States,South Carolina,45,York,091
+ASINP2,United States,Tennessee,47,,
+ASINP2,United States,Tennessee,47,Blount,009
+ASINP2,United States,Tennessee,47,Carter,019
+ASINP2,United States,Tennessee,47,Johnson,091
+ASINP2,United States,Tennessee,47,Knox,093
+ASINP2,United States,Tennessee,47,Polk,139
+ASINP2,United States,Tennessee,47,Sevier,155
+ASINP2,United States,Tennessee,47,Union,173
+ASINP2,United States,Texas,48,,
+ASINP2,United States,Texas,48,Brazoria,039
+ASINP2,United States,Texas,48,Wood,499
+ASINP2,United States,Vermont,50,,
+ASINP2,United States,Virginia,51,,
+ASINP2,United States,West Virginia,54,,

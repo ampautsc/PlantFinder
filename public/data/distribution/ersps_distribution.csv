@@ -1,0 +1,93 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ERSPS,Canada,Alberta,01,,
+ERSPS,Canada,British Columbia,02,,
+ERSPS,United States,Colorado,08,,
+ERSPS,United States,Colorado,08,Archuleta,007
+ERSPS,United States,Colorado,08,Boulder,013
+ERSPS,United States,Colorado,08,Costilla,023
+ERSPS,United States,Colorado,08,Delta,029
+ERSPS,United States,Colorado,08,Dolores,033
+ERSPS,United States,Colorado,08,Douglas,035
+ERSPS,United States,Colorado,08,Eagle,037
+ERSPS,United States,Colorado,08,El Paso,041
+ERSPS,United States,Colorado,08,Garfield,045
+ERSPS,United States,Colorado,08,Gilpin,047
+ERSPS,United States,Colorado,08,Grand,049
+ERSPS,United States,Colorado,08,Gunnison,051
+ERSPS,United States,Colorado,08,Jackson,057
+ERSPS,United States,Colorado,08,Jefferson,059
+ERSPS,United States,Colorado,08,La Plata,067
+ERSPS,United States,Colorado,08,Larimer,069
+ERSPS,United States,Colorado,08,Las Animas,071
+ERSPS,United States,Colorado,08,Mesa,077
+ERSPS,United States,Colorado,08,Mineral,079
+ERSPS,United States,Colorado,08,Montezuma,083
+ERSPS,United States,Colorado,08,Montrose,085
+ERSPS,United States,Colorado,08,Ouray,091
+ERSPS,United States,Colorado,08,Pitkin,097
+ERSPS,United States,Colorado,08,Rio Blanco,103
+ERSPS,United States,Colorado,08,Rio Grande,105
+ERSPS,United States,Colorado,08,Routt,107
+ERSPS,United States,Colorado,08,Saguache,109
+ERSPS,United States,Colorado,08,San Juan,111
+ERSPS,United States,Colorado,08,San Miguel,113
+ERSPS,United States,Idaho,16,,
+ERSPS,United States,Idaho,16,Adams,003
+ERSPS,United States,Idaho,16,Blaine,013
+ERSPS,United States,Idaho,16,Boise,015
+ERSPS,United States,Idaho,16,Butte,023
+ERSPS,United States,Idaho,16,Camas,025
+ERSPS,United States,Idaho,16,Idaho,049
+ERSPS,United States,Idaho,16,Lemhi,059
+ERSPS,United States,Idaho,16,Lewis,061
+ERSPS,United States,Idaho,16,Nez Perce,069
+ERSPS,United States,Idaho,16,Valley,085
+ERSPS,United States,Montana,30,,
+ERSPS,United States,Nevada,32,,
+ERSPS,United States,Nevada,32,Elko,007
+ERSPS,United States,New Mexico,35,,
+ERSPS,United States,New Mexico,35,McKinley,031
+ERSPS,United States,New Mexico,35,San Juan,045
+ERSPS,United States,Oregon,41,,
+ERSPS,United States,Oregon,41,Baker,001
+ERSPS,United States,Oregon,41,Benton,003
+ERSPS,United States,Oregon,41,Clackamas,005
+ERSPS,United States,Oregon,41,Crook,013
+ERSPS,United States,Oregon,41,Deschutes,017
+ERSPS,United States,Oregon,41,Grant,023
+ERSPS,United States,Oregon,41,Harney,025
+ERSPS,United States,Oregon,41,Jackson,029
+ERSPS,United States,Oregon,41,Lane,039
+ERSPS,United States,Oregon,41,Linn,043
+ERSPS,United States,Oregon,41,Marion,047
+ERSPS,United States,Oregon,41,Multnomah,051
+ERSPS,United States,Oregon,41,Umatilla,059
+ERSPS,United States,Oregon,41,Union,061
+ERSPS,United States,Oregon,41,Wallowa,063
+ERSPS,United States,Oregon,41,Washington,067
+ERSPS,United States,Oregon,41,Wheeler,069
+ERSPS,United States,Utah,49,,
+ERSPS,United States,Utah,49,Duchesne,013
+ERSPS,United States,Utah,49,Garfield,017
+ERSPS,United States,Utah,49,Grand,019
+ERSPS,United States,Utah,49,Iron,021
+ERSPS,United States,Utah,49,Juab,023
+ERSPS,United States,Utah,49,Piute,031
+ERSPS,United States,Utah,49,San Juan,037
+ERSPS,United States,Utah,49,Sanpete,039
+ERSPS,United States,Utah,49,Sevier,041
+ERSPS,United States,Utah,49,Utah,049
+ERSPS,United States,Washington,53,,
+ERSPS,United States,Washington,53,Chelan,007
+ERSPS,United States,Washington,53,Ferry,019
+ERSPS,United States,Washington,53,Kittitas,037
+ERSPS,United States,Washington,53,Klickitat,039
+ERSPS,United States,Washington,53,Okanogan,047
+ERSPS,United States,Washington,53,Pend Oreille,051
+ERSPS,United States,Washington,53,Pierce,053
+ERSPS,United States,Washington,53,Spokane,063
+ERSPS,United States,Washington,53,Stevens,065
+ERSPS,United States,Washington,53,Thurston,067
+ERSPS,United States,Washington,53,Whitman,075
+ERSPS,United States,Washington,53,Yakima,077

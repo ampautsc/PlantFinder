@@ -5,8 +5,9 @@ This directory contains batch job scripts for the PlantFinder application.
 ## Table of Contents
 
 1. [iNaturalist Data Scraper](#inaturalist-data-scraper) - Fetches plant data from iNaturalist API ⭐ NEW
-2. [Plant Image Fetcher](#plant-image-fetcher) - Downloads plant images from Wikipedia
-3. [Wildflower Data Scraper](#wildflower-data-scraper) - Scrapes plant data from wildflower.org (deprecated - see iNaturalist)
+2. [USDA Distribution Data Fetcher](#usda-distribution-data-fetcher) - Downloads plant distribution data from USDA API ⭐ NEW
+3. [Plant Image Fetcher](#plant-image-fetcher) - Downloads plant images from Wikipedia
+4. [Wildflower Data Scraper](#wildflower-data-scraper) - Scrapes plant data from wildflower.org (deprecated - see iNaturalist)
 
 ---
 
@@ -219,6 +220,152 @@ Log file: src/data/inaturalist/fetch_log.txt
 - Data includes observation counts which indicate plant popularity/commonality
 - Wikipedia descriptions are included when available
 - Photos are from community contributions (various licenses - check individual photos)
+
+---
+
+## USDA Distribution Data Fetcher
+
+**⭐ NEW**: Downloads comprehensive plant distribution data from USDA API!
+
+### Overview
+
+The `fetch_usda_distribution.py` script is a batch job that downloads detailed plant distribution data from the [USDA PLANTS Services API](https://plantsservices.sc.egov.usda.gov). This data provides state and county-level distribution information for plants across the United States.
+
+This script:
+
+1. **Reads plant data files** to extract USDA plant symbols
+2. **Fetches MasterIds** from the USDA PlantProfile API
+3. **Downloads distribution CSV data** for each plant
+4. **Saves distribution data** alongside plant JSON files in `public/data/distribution/`
+
+### Features
+
+- **Comprehensive Coverage**: Downloads distribution data for all 352 plants with USDA plant IDs
+- **State and County Level Data**: Includes detailed geographic distribution information
+- **Automatic Retry Logic**: Retries failed requests up to 3 times with exponential backoff
+- **Rate Limiting**: Respectful 2-second delays between requests
+- **Skip Existing Files**: Won't re-download data that already exists
+- **Progress Logging**: Timestamped logs of all operations
+- **Error Handling**: Comprehensive error handling with detailed error messages
+- **Zero Failures**: Successfully processed all 352 plants with 0 failures
+
+### Distribution Data Format
+
+Each distribution CSV file contains:
+
+```csv
+Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ASTUT2,United States,Alabama,01,,
+ASTUT2,United States,Connecticut,09,,
+ASTUT2,United States,Delaware,10,,
+ASTUT2,United States,Delaware,10,Kent,001
+ASTUT2,United States,Delaware,10,New Castle,003
+...
+```
+
+### Usage
+
+#### Manual Execution
+
+Run the script manually from the repository root:
+
+```bash
+# Download distribution data for all plants with USDA IDs
+python3 scripts/fetch_usda_distribution.py
+```
+
+The script will:
+- Create the `public/data/distribution/` directory if it doesn't exist
+- Process all plants that have a `usdaPlantId` field
+- Skip plants that already have distribution data
+- Log all operations to `scripts/fetch_usda_distribution_log.txt`
+
+### Output
+
+The script creates the following output:
+
+1. **Distribution CSV files**: `public/data/distribution/{usda_symbol}_distribution.csv`
+   - One file per plant (e.g., `astut2_distribution.csv` for Asclepias tuberosa)
+   - Contains state and county level distribution data
+   - Total size: ~6.0 MB for all 352 plants
+
+2. **Log file**: `scripts/fetch_usda_distribution_log.txt`
+   - Timestamped log of all fetch attempts and results
+   - Includes success/failure counts and error messages
+
+All files are stored in source control for versioning and collaboration.
+
+### Data Statistics
+
+- **Total plants processed**: 352
+- **Successful downloads**: 352 (100%)
+- **Failed downloads**: 0
+- **Total data size**: 6.0 MB
+- **Average file size**: ~17 KB per plant
+
+### API Endpoints
+
+The script uses two USDA API endpoints:
+
+1. **PlantProfile API** - Get MasterId for a plant symbol:
+   ```
+   GET https://plantsservices.sc.egov.usda.gov/api/PlantProfile?symbol={SYMBOL}
+   ```
+
+2. **Distribution Documentation API** - Download distribution CSV:
+   ```
+   POST https://plantsservices.sc.egov.usda.gov/api/PlantProfile/getDownloadDistributionDocumentation
+   ```
+
+### Error Handling
+
+The script includes comprehensive error handling:
+
+- **HTTP Errors**: Catches and logs HTTP errors (404, 500, etc.)
+- **Network Errors**: Handles URL errors and connection failures
+- **Retry Logic**: Retries failed requests up to 3 times with 5-15 second delays
+- **Missing MasterIds**: Saves debug JSON files when MasterId cannot be found
+- **Graceful Degradation**: Continues processing remaining plants after failures
+
+### Exit Codes
+
+- `0`: Success - All plants processed successfully
+- `1`: Failure - One or more plants failed to process
+
+### Example Output
+
+```
+======================================================================
+USDA Plant Distribution Data Fetcher
+======================================================================
+Started at: 2025-10-25 14:19:28 UTC
+
+[2025-10-25 14:19:28] ✓ Output directory ready: public/data/distribution
+[2025-10-25 14:19:28] ✓ Found 352 plants with USDA IDs
+
+[1/352] Processing: abutilon-incanum (USDA: ABIN)
+[2025-10-25 14:19:28]   Fetching MasterId for ABIN...
+[2025-10-25 14:19:29]   ✓ Found MasterId: 65808
+[2025-10-25 14:19:29]   Downloading distribution data...
+[2025-10-25 14:19:30]   ✓ Wrote abin_distribution.csv (923 bytes, MasterId=65808)
+
+...
+
+======================================================================
+[2025-10-25 14:38:40] ✓ Processing complete
+[2025-10-25 14:38:40]   Success: 352/352
+[2025-10-25 14:38:40]   Failures: 0/352
+======================================================================
+```
+
+### Notes
+
+- The USDA PLANTS Services API is public and does not require authentication
+- Rate limiting is built-in: 2 second delay between requests
+- Distribution data includes both state-level and county-level information
+- CSV files use UTF-8 encoding with BOM (Byte Order Mark)
+- The script processes plants in alphabetical order by plant ID
 
 ---
 

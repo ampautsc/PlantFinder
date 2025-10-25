@@ -1,0 +1,29 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+AQBR,Canada,Alberta,01,,
+AQBR,Canada,British Columbia,02,,
+AQBR,United States,Alaska,02,,
+AQBR,United States,Alaska,02,Anchorage,020
+AQBR,United States,Alaska,02,Chugach,063
+AQBR,United States,Alaska,02,Copper River,066
+AQBR,United States,Alaska,02,Fairbanks North Star,090
+AQBR,United States,Alaska,02,Matanuska-Susitna,170
+AQBR,United States,Alaska,02,Southeast Fairbanks,240
+AQBR,United States,Alaska,02,Yukon-Koyukuk,290
+AQBR,Canada,Manitoba,03,,
+AQBR,Canada,Ontario,08,,
+AQBR,Canada,Saskatchewan,11,,
+AQBR,Canada,Yukon,12,,
+AQBR,Canada,Northwest Territories,13,,
+AQBR,Canada,Nunavut,14,,
+AQBR,United States,Minnesota,27,,
+AQBR,United States,Minnesota,27,Clay,027
+AQBR,United States,Montana,30,,
+AQBR,United States,Montana,30,Judith Basin,045
+AQBR,United States,South Dakota,46,,
+AQBR,United States,South Dakota,46,Custer,033
+AQBR,United States,South Dakota,46,Lawrence,081
+AQBR,United States,South Dakota,46,Pennington,103
+AQBR,United States,Wyoming,56,,
+AQBR,United States,Wyoming,56,Park,029
+AQBR,United States,Wyoming,56,Weston,045

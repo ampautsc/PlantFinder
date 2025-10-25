@@ -1,0 +1,110 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VEHAS,Canada,British Columbia,02,,
+VEHAS,Canada,Manitoba,03,,
+VEHAS,United States,Arizona,04,,
+VEHAS,United States,Arizona,04,Coconino,005
+VEHAS,United States,Arizona,04,Pima,019
+VEHAS,United States,Arizona,04,Yavapai,025
+VEHAS,United States,California,06,,
+VEHAS,United States,California,06,Butte,007
+VEHAS,United States,California,06,Contra Costa,013
+VEHAS,United States,California,06,Glenn,021
+VEHAS,United States,California,06,Merced,047
+VEHAS,United States,California,06,Modoc,049
+VEHAS,United States,California,06,Placer,061
+VEHAS,United States,California,06,Sacramento,067
+VEHAS,United States,California,06,San Joaquin,077
+VEHAS,United States,California,06,Shasta,089
+VEHAS,United States,California,06,Solano,095
+VEHAS,United States,California,06,Tehama,103
+VEHAS,United States,Colorado,08,,
+VEHAS,United States,Colorado,08,Arapahoe,005
+VEHAS,United States,Colorado,08,Baca,009
+VEHAS,United States,Colorado,08,Boulder,013
+VEHAS,United States,Colorado,08,Douglas,035
+VEHAS,United States,Colorado,08,Jefferson,059
+VEHAS,United States,Colorado,08,Larimer,069
+VEHAS,United States,Colorado,08,Las Animas,071
+VEHAS,United States,Colorado,08,Lincoln,073
+VEHAS,United States,Colorado,08,Logan,075
+VEHAS,United States,Colorado,08,Weld,123
+VEHAS,United States,Colorado,08,Yuma,125
+VEHAS,Canada,Quebec,10,,
+VEHAS,Canada,Saskatchewan,11,,
+VEHAS,United States,Idaho,16,,
+VEHAS,United States,Idaho,16,Ada,001
+VEHAS,United States,Idaho,16,Adams,003
+VEHAS,United States,Idaho,16,Bannock,005
+VEHAS,United States,Idaho,16,Canyon,027
+VEHAS,United States,Idaho,16,Fremont,043
+VEHAS,United States,Idaho,16,Gooding,047
+VEHAS,United States,Idaho,16,Idaho,049
+VEHAS,United States,Idaho,16,Kootenai,055
+VEHAS,United States,Idaho,16,Latah,057
+VEHAS,United States,Idaho,16,Lemhi,059
+VEHAS,United States,Idaho,16,Lewis,061
+VEHAS,United States,Idaho,16,Owyhee,073
+VEHAS,United States,Idaho,16,Payette,075
+VEHAS,United States,Indiana,18,,
+VEHAS,United States,Iowa,19,,
+VEHAS,United States,Kansas,20,,
+VEHAS,United States,Michigan,26,,
+VEHAS,United States,Minnesota,27,,
+VEHAS,United States,Montana,30,,
+VEHAS,United States,Montana,30,Beaverhead,001
+VEHAS,United States,Montana,30,Big Horn,003
+VEHAS,United States,Montana,30,Cascade,013
+VEHAS,United States,Montana,30,Gallatin,031
+VEHAS,United States,Montana,30,Jefferson,043
+VEHAS,United States,Montana,30,Lake,047
+VEHAS,United States,Montana,30,Lewis and Clark,049
+VEHAS,United States,Montana,30,Madison,057
+VEHAS,United States,Montana,30,Park,067
+VEHAS,United States,Nebraska,31,,
+VEHAS,United States,Nevada,32,,
+VEHAS,United States,Nevada,32,Lincoln,017
+VEHAS,United States,New Mexico,35,,
+VEHAS,United States,North Dakota,38,,
+VEHAS,United States,Oklahoma,40,,
+VEHAS,United States,Oregon,41,,
+VEHAS,United States,Oregon,41,Benton,003
+VEHAS,United States,Oregon,41,Clackamas,005
+VEHAS,United States,Oregon,41,Douglas,019
+VEHAS,United States,Oregon,41,Jackson,029
+VEHAS,United States,Oregon,41,Lane,039
+VEHAS,United States,Oregon,41,Marion,047
+VEHAS,United States,Oregon,41,Multnomah,051
+VEHAS,United States,Oregon,41,Umatilla,059
+VEHAS,United States,Oregon,41,Wallowa,063
+VEHAS,United States,South Dakota,46,,
+VEHAS,United States,Texas,48,,
+VEHAS,United States,Utah,49,,
+VEHAS,United States,Utah,49,Box Elder,003
+VEHAS,United States,Utah,49,Cache,005
+VEHAS,United States,Utah,49,Davis,011
+VEHAS,United States,Utah,49,Salt Lake,035
+VEHAS,United States,Utah,49,Tooele,045
+VEHAS,United States,Utah,49,Uintah,047
+VEHAS,United States,Utah,49,Utah,049
+VEHAS,United States,Utah,49,Weber,057
+VEHAS,United States,Washington,53,,
+VEHAS,United States,Washington,53,Adams,001
+VEHAS,United States,Washington,53,Grant,025
+VEHAS,United States,Washington,53,Kittitas,037
+VEHAS,United States,Washington,53,Klickitat,039
+VEHAS,United States,Washington,53,Lincoln,043
+VEHAS,United States,Washington,53,Okanogan,047
+VEHAS,United States,Washington,53,Pend Oreille,051
+VEHAS,United States,Washington,53,Skamania,059
+VEHAS,United States,Washington,53,Stevens,065
+VEHAS,United States,Washington,53,Walla Walla,071
+VEHAS,United States,Washington,53,Whitman,075
+VEHAS,United States,Washington,53,Yakima,077
+VEHAS,United States,Wisconsin,55,,
+VEHAS,United States,Wyoming,56,,
+VEHAS,United States,Wyoming,56,Carbon,007
+VEHAS,United States,Wyoming,56,Goshen,015
+VEHAS,United States,Wyoming,56,Laramie,021
+VEHAS,United States,Wyoming,56,Platte,031
+VEHAS,United States,Wyoming,56,Sheridan,033

@@ -1,0 +1,1219 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ASSY,United States,Alabama,01,,
+ASSY,Canada,Manitoba,03,,
+ASSY,Canada,New Brunswick,04,,
+ASSY,United States,Arkansas,05,,
+ASSY,United States,Arkansas,05,Benton,007
+ASSY,United States,Arkansas,05,Carroll,015
+ASSY,United States,Arkansas,05,Craighead,031
+ASSY,United States,Arkansas,05,Crawford,033
+ASSY,United States,Arkansas,05,Independence,063
+ASSY,United States,Arkansas,05,Mississippi,093
+ASSY,United States,Arkansas,05,Washington,143
+ASSY,Canada,Nova Scotia,07,,
+ASSY,Canada,Ontario,08,,
+ASSY,Canada,Prince Edward Island,09,,
+ASSY,United States,Connecticut,09,,
+ASSY,United States,Connecticut,09,Fairfield,001
+ASSY,United States,Connecticut,09,Hartford,003
+ASSY,United States,Connecticut,09,Litchfield,005
+ASSY,United States,Connecticut,09,Middlesex,007
+ASSY,United States,Connecticut,09,New Haven,009
+ASSY,United States,Connecticut,09,New London,011
+ASSY,United States,Connecticut,09,Tolland,013
+ASSY,United States,Connecticut,09,Windham,015
+ASSY,Canada,Quebec,10,,
+ASSY,United States,Delaware,10,,
+ASSY,United States,Delaware,10,New Castle,003
+ASSY,Canada,Saskatchewan,11,,
+ASSY,United States,District of Columbia,11,,
+ASSY,United States,District of Columbia,11,District of Columbia,001
+ASSY,United States,Georgia,13,,
+ASSY,United States,Illinois,17,,
+ASSY,United States,Illinois,17,Adams,001
+ASSY,United States,Illinois,17,Alexander,003
+ASSY,United States,Illinois,17,Bond,005
+ASSY,United States,Illinois,17,Boone,007
+ASSY,United States,Illinois,17,Brown,009
+ASSY,United States,Illinois,17,Bureau,011
+ASSY,United States,Illinois,17,Calhoun,013
+ASSY,United States,Illinois,17,Carroll,015
+ASSY,United States,Illinois,17,Cass,017
+ASSY,United States,Illinois,17,Champaign,019
+ASSY,United States,Illinois,17,Christian,021
+ASSY,United States,Illinois,17,Clark,023
+ASSY,United States,Illinois,17,Clay,025
+ASSY,United States,Illinois,17,Clinton,027
+ASSY,United States,Illinois,17,Coles,029
+ASSY,United States,Illinois,17,Cook,031
+ASSY,United States,Illinois,17,Crawford,033
+ASSY,United States,Illinois,17,Cumberland,035
+ASSY,United States,Illinois,17,De Witt,039
+ASSY,United States,Illinois,17,DeKalb,037
+ASSY,United States,Illinois,17,Douglas,041
+ASSY,United States,Illinois,17,DuPage,043
+ASSY,United States,Illinois,17,Edgar,045
+ASSY,United States,Illinois,17,Edwards,047
+ASSY,United States,Illinois,17,Effingham,049
+ASSY,United States,Illinois,17,Fayette,051
+ASSY,United States,Illinois,17,Ford,053
+ASSY,United States,Illinois,17,Franklin,055
+ASSY,United States,Illinois,17,Fulton,057
+ASSY,United States,Illinois,17,Gallatin,059
+ASSY,United States,Illinois,17,Greene,061
+ASSY,United States,Illinois,17,Grundy,063
+ASSY,United States,Illinois,17,Hamilton,065
+ASSY,United States,Illinois,17,Hancock,067
+ASSY,United States,Illinois,17,Hardin,069
+ASSY,United States,Illinois,17,Henderson,071
+ASSY,United States,Illinois,17,Henry,073
+ASSY,United States,Illinois,17,Iroquois,075
+ASSY,United States,Illinois,17,Jackson,077
+ASSY,United States,Illinois,17,Jasper,079
+ASSY,United States,Illinois,17,Jefferson,081
+ASSY,United States,Illinois,17,Jersey,083
+ASSY,United States,Illinois,17,Jo Daviess,085
+ASSY,United States,Illinois,17,Johnson,087
+ASSY,United States,Illinois,17,Kane,089
+ASSY,United States,Illinois,17,Kankakee,091
+ASSY,United States,Illinois,17,Kendall,093
+ASSY,United States,Illinois,17,Knox,095
+ASSY,United States,Illinois,17,Lake,097
+ASSY,United States,Illinois,17,LaSalle,099
+ASSY,United States,Illinois,17,Lawrence,101
+ASSY,United States,Illinois,17,Lee,103
+ASSY,United States,Illinois,17,Livingston,105
+ASSY,United States,Illinois,17,Logan,107
+ASSY,United States,Illinois,17,Macon,115
+ASSY,United States,Illinois,17,Macoupin,117
+ASSY,United States,Illinois,17,Madison,119
+ASSY,United States,Illinois,17,Marion,121
+ASSY,United States,Illinois,17,Marshall,123
+ASSY,United States,Illinois,17,Mason,125
+ASSY,United States,Illinois,17,Massac,127
+ASSY,United States,Illinois,17,McDonough,109
+ASSY,United States,Illinois,17,McHenry,111
+ASSY,United States,Illinois,17,McLean,113
+ASSY,United States,Illinois,17,Menard,129
+ASSY,United States,Illinois,17,Mercer,131
+ASSY,United States,Illinois,17,Monroe,133
+ASSY,United States,Illinois,17,Montgomery,135
+ASSY,United States,Illinois,17,Morgan,137
+ASSY,United States,Illinois,17,Moultrie,139
+ASSY,United States,Illinois,17,Ogle,141
+ASSY,United States,Illinois,17,Peoria,143
+ASSY,United States,Illinois,17,Perry,145
+ASSY,United States,Illinois,17,Piatt,147
+ASSY,United States,Illinois,17,Pike,149
+ASSY,United States,Illinois,17,Pope,151
+ASSY,United States,Illinois,17,Pulaski,153
+ASSY,United States,Illinois,17,Putnam,155
+ASSY,United States,Illinois,17,Randolph,157
+ASSY,United States,Illinois,17,Richland,159
+ASSY,United States,Illinois,17,Rock Island,161
+ASSY,United States,Illinois,17,Saline,165
+ASSY,United States,Illinois,17,Sangamon,167
+ASSY,United States,Illinois,17,Schuyler,169
+ASSY,United States,Illinois,17,Scott,171
+ASSY,United States,Illinois,17,Shelby,173
+ASSY,United States,Illinois,17,St. Clair,163
+ASSY,United States,Illinois,17,Stark,175
+ASSY,United States,Illinois,17,Stephenson,177
+ASSY,United States,Illinois,17,Tazewell,179
+ASSY,United States,Illinois,17,Union,181
+ASSY,United States,Illinois,17,Vermilion,183
+ASSY,United States,Illinois,17,Wabash,185
+ASSY,United States,Illinois,17,Warren,187
+ASSY,United States,Illinois,17,Washington,189
+ASSY,United States,Illinois,17,Wayne,191
+ASSY,United States,Illinois,17,White,193
+ASSY,United States,Illinois,17,Whiteside,195
+ASSY,United States,Illinois,17,Will,197
+ASSY,United States,Illinois,17,Williamson,199
+ASSY,United States,Illinois,17,Winnebago,201
+ASSY,United States,Illinois,17,Woodford,203
+ASSY,United States,Indiana,18,,
+ASSY,United States,Indiana,18,Bartholomew,005
+ASSY,United States,Indiana,18,Benton,007
+ASSY,United States,Indiana,18,Blackford,009
+ASSY,United States,Indiana,18,Boone,011
+ASSY,United States,Indiana,18,Brown,013
+ASSY,United States,Indiana,18,Carroll,015
+ASSY,United States,Indiana,18,Cass,017
+ASSY,United States,Indiana,18,Clinton,023
+ASSY,United States,Indiana,18,Daviess,027
+ASSY,United States,Indiana,18,Dearborn,029
+ASSY,United States,Indiana,18,Decatur,031
+ASSY,United States,Indiana,18,DeKalb,033
+ASSY,United States,Indiana,18,Delaware,035
+ASSY,United States,Indiana,18,Elkhart,039
+ASSY,United States,Indiana,18,Fayette,041
+ASSY,United States,Indiana,18,Floyd,043
+ASSY,United States,Indiana,18,Fountain,045
+ASSY,United States,Indiana,18,Fulton,049
+ASSY,United States,Indiana,18,Gibson,051
+ASSY,United States,Indiana,18,Grant,053
+ASSY,United States,Indiana,18,Hamilton,057
+ASSY,United States,Indiana,18,Harrison,061
+ASSY,United States,Indiana,18,Hendricks,063
+ASSY,United States,Indiana,18,Henry,065
+ASSY,United States,Indiana,18,Howard,067
+ASSY,United States,Indiana,18,Huntington,069
+ASSY,United States,Indiana,18,Jasper,073
+ASSY,United States,Indiana,18,Jay,075
+ASSY,United States,Indiana,18,Jefferson,077
+ASSY,United States,Indiana,18,Johnson,081
+ASSY,United States,Indiana,18,Kosciusko,085
+ASSY,United States,Indiana,18,Lagrange,087
+ASSY,United States,Indiana,18,Lake,089
+ASSY,United States,Indiana,18,LaPorte,091
+ASSY,United States,Indiana,18,Lawrence,093
+ASSY,United States,Indiana,18,Marion,097
+ASSY,United States,Indiana,18,Marshall,099
+ASSY,United States,Indiana,18,Miami,103
+ASSY,United States,Indiana,18,Monroe,105
+ASSY,United States,Indiana,18,Montgomery,107
+ASSY,United States,Indiana,18,Newton,111
+ASSY,United States,Indiana,18,Noble,113
+ASSY,United States,Indiana,18,Owen,119
+ASSY,United States,Indiana,18,Parke,121
+ASSY,United States,Indiana,18,Pike,125
+ASSY,United States,Indiana,18,Porter,127
+ASSY,United States,Indiana,18,Posey,129
+ASSY,United States,Indiana,18,Pulaski,131
+ASSY,United States,Indiana,18,Putnam,133
+ASSY,United States,Indiana,18,Randolph,135
+ASSY,United States,Indiana,18,Ripley,137
+ASSY,United States,Indiana,18,Rush,139
+ASSY,United States,Indiana,18,Shelby,145
+ASSY,United States,Indiana,18,Spencer,147
+ASSY,United States,Indiana,18,St. Joseph,141
+ASSY,United States,Indiana,18,Steuben,151
+ASSY,United States,Indiana,18,Sullivan,153
+ASSY,United States,Indiana,18,Switzerland,155
+ASSY,United States,Indiana,18,Tippecanoe,157
+ASSY,United States,Indiana,18,Vanderburgh,163
+ASSY,United States,Indiana,18,Vermillion,165
+ASSY,United States,Indiana,18,Vigo,167
+ASSY,United States,Indiana,18,Wabash,169
+ASSY,United States,Indiana,18,Warren,171
+ASSY,United States,Indiana,18,Washington,175
+ASSY,United States,Indiana,18,Wayne,177
+ASSY,United States,Indiana,18,Wells,179
+ASSY,United States,Indiana,18,White,181
+ASSY,United States,Indiana,18,Whitley,183
+ASSY,United States,Iowa,19,,
+ASSY,United States,Iowa,19,Carroll,027
+ASSY,United States,Iowa,19,Clay,041
+ASSY,United States,Iowa,19,Crawford,047
+ASSY,United States,Iowa,19,Dickinson,059
+ASSY,United States,Iowa,19,Emmet,063
+ASSY,United States,Iowa,19,Guthrie,077
+ASSY,United States,Iowa,19,Harrison,085
+ASSY,United States,Iowa,19,Ida,093
+ASSY,United States,Iowa,19,Lyon,119
+ASSY,United States,Iowa,19,Monona,133
+ASSY,United States,Iowa,19,O'Brien,141
+ASSY,United States,Iowa,19,Osceola,143
+ASSY,United States,Iowa,19,Page,145
+ASSY,United States,Iowa,19,Palo Alto,147
+ASSY,United States,Iowa,19,Plymouth,149
+ASSY,United States,Iowa,19,Pottawattamie,155
+ASSY,United States,Iowa,19,Sioux,167
+ASSY,United States,Iowa,19,Story,169
+ASSY,United States,Iowa,19,Taylor,173
+ASSY,United States,Iowa,19,Webster,187
+ASSY,United States,Iowa,19,Winneshiek,191
+ASSY,United States,Iowa,19,Woodbury,193
+ASSY,United States,Kansas,20,,
+ASSY,United States,Kansas,20,Allen,001
+ASSY,United States,Kansas,20,Anderson,003
+ASSY,United States,Kansas,20,Atchison,005
+ASSY,United States,Kansas,20,Barber,007
+ASSY,United States,Kansas,20,Barton,009
+ASSY,United States,Kansas,20,Bourbon,011
+ASSY,United States,Kansas,20,Brown,013
+ASSY,United States,Kansas,20,Butler,015
+ASSY,United States,Kansas,20,Chase,017
+ASSY,United States,Kansas,20,Chautauqua,019
+ASSY,United States,Kansas,20,Cherokee,021
+ASSY,United States,Kansas,20,Clay,027
+ASSY,United States,Kansas,20,Cloud,029
+ASSY,United States,Kansas,20,Coffey,031
+ASSY,United States,Kansas,20,Cowley,035
+ASSY,United States,Kansas,20,Crawford,037
+ASSY,United States,Kansas,20,Decatur,039
+ASSY,United States,Kansas,20,Dickinson,041
+ASSY,United States,Kansas,20,Doniphan,043
+ASSY,United States,Kansas,20,Douglas,045
+ASSY,United States,Kansas,20,Elk,049
+ASSY,United States,Kansas,20,Ellsworth,053
+ASSY,United States,Kansas,20,Franklin,059
+ASSY,United States,Kansas,20,Geary,061
+ASSY,United States,Kansas,20,Gove,063
+ASSY,United States,Kansas,20,Greenwood,073
+ASSY,United States,Kansas,20,Harvey,079
+ASSY,United States,Kansas,20,Jackson,085
+ASSY,United States,Kansas,20,Jefferson,087
+ASSY,United States,Kansas,20,Jewell,089
+ASSY,United States,Kansas,20,Johnson,091
+ASSY,United States,Kansas,20,Kingman,095
+ASSY,United States,Kansas,20,Labette,099
+ASSY,United States,Kansas,20,Leavenworth,103
+ASSY,United States,Kansas,20,Linn,107
+ASSY,United States,Kansas,20,Lyon,111
+ASSY,United States,Kansas,20,Marion,115
+ASSY,United States,Kansas,20,Marshall,117
+ASSY,United States,Kansas,20,McPherson,113
+ASSY,United States,Kansas,20,Miami,121
+ASSY,United States,Kansas,20,Mitchell,123
+ASSY,United States,Kansas,20,Montgomery,125
+ASSY,United States,Kansas,20,Morris,127
+ASSY,United States,Kansas,20,Nemaha,131
+ASSY,United States,Kansas,20,Neosho,133
+ASSY,United States,Kansas,20,Norton,137
+ASSY,United States,Kansas,20,Osage,139
+ASSY,United States,Kansas,20,Osborne,141
+ASSY,United States,Kansas,20,Ottawa,143
+ASSY,United States,Kansas,20,Pottawatomie,149
+ASSY,United States,Kansas,20,Pratt,151
+ASSY,United States,Kansas,20,Republic,157
+ASSY,United States,Kansas,20,Rice,159
+ASSY,United States,Kansas,20,Riley,161
+ASSY,United States,Kansas,20,Rooks,163
+ASSY,United States,Kansas,20,Russell,167
+ASSY,United States,Kansas,20,Saline,169
+ASSY,United States,Kansas,20,Sedgwick,173
+ASSY,United States,Kansas,20,Shawnee,177
+ASSY,United States,Kansas,20,Sheridan,179
+ASSY,United States,Kansas,20,Smith,183
+ASSY,United States,Kansas,20,Sumner,191
+ASSY,United States,Kansas,20,Thomas,193
+ASSY,United States,Kansas,20,Wabaunsee,197
+ASSY,United States,Kansas,20,Washington,201
+ASSY,United States,Kansas,20,Wilson,205
+ASSY,United States,Kansas,20,Woodson,207
+ASSY,United States,Kansas,20,Wyandotte,209
+ASSY,United States,Kentucky,21,,
+ASSY,United States,Kentucky,21,Adair,001
+ASSY,United States,Kentucky,21,Allen,003
+ASSY,United States,Kentucky,21,Anderson,005
+ASSY,United States,Kentucky,21,Ballard,007
+ASSY,United States,Kentucky,21,Barren,009
+ASSY,United States,Kentucky,21,Bath,011
+ASSY,United States,Kentucky,21,Bell,013
+ASSY,United States,Kentucky,21,Boone,015
+ASSY,United States,Kentucky,21,Bourbon,017
+ASSY,United States,Kentucky,21,Boyle,021
+ASSY,United States,Kentucky,21,Bracken,023
+ASSY,United States,Kentucky,21,Breathitt,025
+ASSY,United States,Kentucky,21,Breckinridge,027
+ASSY,United States,Kentucky,21,Bullitt,029
+ASSY,United States,Kentucky,21,Calloway,035
+ASSY,United States,Kentucky,21,Campbell,037
+ASSY,United States,Kentucky,21,Carlisle,039
+ASSY,United States,Kentucky,21,Carroll,041
+ASSY,United States,Kentucky,21,Christian,047
+ASSY,United States,Kentucky,21,Clark,049
+ASSY,United States,Kentucky,21,Daviess,059
+ASSY,United States,Kentucky,21,Estill,065
+ASSY,United States,Kentucky,21,Fayette,067
+ASSY,United States,Kentucky,21,Fleming,069
+ASSY,United States,Kentucky,21,Floyd,071
+ASSY,United States,Kentucky,21,Franklin,073
+ASSY,United States,Kentucky,21,Fulton,075
+ASSY,United States,Kentucky,21,Gallatin,077
+ASSY,United States,Kentucky,21,Grant,081
+ASSY,United States,Kentucky,21,Greenup,089
+ASSY,United States,Kentucky,21,Hardin,093
+ASSY,United States,Kentucky,21,Harlan,095
+ASSY,United States,Kentucky,21,Henderson,101
+ASSY,United States,Kentucky,21,Henry,103
+ASSY,United States,Kentucky,21,Hickman,105
+ASSY,United States,Kentucky,21,Hopkins,107
+ASSY,United States,Kentucky,21,Jackson,109
+ASSY,United States,Kentucky,21,Jefferson,111
+ASSY,United States,Kentucky,21,Jessamine,113
+ASSY,United States,Kentucky,21,Kenton,117
+ASSY,United States,Kentucky,21,Laurel,125
+ASSY,United States,Kentucky,21,Letcher,133
+ASSY,United States,Kentucky,21,Lewis,135
+ASSY,United States,Kentucky,21,Madison,151
+ASSY,United States,Kentucky,21,Magoffin,153
+ASSY,United States,Kentucky,21,Mason,161
+ASSY,United States,Kentucky,21,McCracken,145
+ASSY,United States,Kentucky,21,McCreary,147
+ASSY,United States,Kentucky,21,McLean,149
+ASSY,United States,Kentucky,21,Menifee,165
+ASSY,United States,Kentucky,21,Montgomery,173
+ASSY,United States,Kentucky,21,Morgan,175
+ASSY,United States,Kentucky,21,Muhlenberg,177
+ASSY,United States,Kentucky,21,Ohio,183
+ASSY,United States,Kentucky,21,Oldham,185
+ASSY,United States,Kentucky,21,Owen,187
+ASSY,United States,Kentucky,21,Pendleton,191
+ASSY,United States,Kentucky,21,Pike,195
+ASSY,United States,Kentucky,21,Powell,197
+ASSY,United States,Kentucky,21,Robertson,201
+ASSY,United States,Kentucky,21,Rockcastle,203
+ASSY,United States,Kentucky,21,Rowan,205
+ASSY,United States,Kentucky,21,Shelby,211
+ASSY,United States,Kentucky,21,Spencer,215
+ASSY,United States,Kentucky,21,Todd,219
+ASSY,United States,Kentucky,21,Warren,227
+ASSY,United States,Kentucky,21,Washington,229
+ASSY,United States,Kentucky,21,Webster,233
+ASSY,United States,Kentucky,21,Woodford,239
+ASSY,United States,Louisiana,22,,
+ASSY,United States,Louisiana,22,Lincoln,061
+ASSY,United States,Louisiana,22,Morehouse,067
+ASSY,United States,Louisiana,22,Ouachita,073
+ASSY,United States,Maine,23,,
+ASSY,United States,Maine,23,Androscoggin,001
+ASSY,United States,Maine,23,Aroostook,003
+ASSY,United States,Maine,23,Cumberland,005
+ASSY,United States,Maine,23,Franklin,007
+ASSY,United States,Maine,23,Kennebec,011
+ASSY,United States,Maine,23,Knox,013
+ASSY,United States,Maine,23,Lincoln,015
+ASSY,United States,Maine,23,Oxford,017
+ASSY,United States,Maine,23,Penobscot,019
+ASSY,United States,Maine,23,Sagadahoc,023
+ASSY,United States,Maine,23,Somerset,025
+ASSY,United States,Maine,23,Waldo,027
+ASSY,United States,Maine,23,York,031
+ASSY,United States,Maryland,24,,
+ASSY,United States,Massachusetts,25,,
+ASSY,United States,Massachusetts,25,Barnstable,001
+ASSY,United States,Massachusetts,25,Berkshire,003
+ASSY,United States,Massachusetts,25,Bristol,005
+ASSY,United States,Massachusetts,25,Dukes,007
+ASSY,United States,Massachusetts,25,Essex,009
+ASSY,United States,Massachusetts,25,Franklin,011
+ASSY,United States,Massachusetts,25,Hampden,013
+ASSY,United States,Massachusetts,25,Hampshire,015
+ASSY,United States,Massachusetts,25,Middlesex,017
+ASSY,United States,Massachusetts,25,Nantucket,019
+ASSY,United States,Massachusetts,25,Norfolk,021
+ASSY,United States,Massachusetts,25,Plymouth,023
+ASSY,United States,Massachusetts,25,Suffolk,025
+ASSY,United States,Massachusetts,25,Worcester,027
+ASSY,United States,Michigan,26,,
+ASSY,United States,Michigan,26,Alcona,001
+ASSY,United States,Michigan,26,Alger,003
+ASSY,United States,Michigan,26,Allegan,005
+ASSY,United States,Michigan,26,Alpena,007
+ASSY,United States,Michigan,26,Antrim,009
+ASSY,United States,Michigan,26,Arenac,011
+ASSY,United States,Michigan,26,Baraga,013
+ASSY,United States,Michigan,26,Barry,015
+ASSY,United States,Michigan,26,Bay,017
+ASSY,United States,Michigan,26,Benzie,019
+ASSY,United States,Michigan,26,Berrien,021
+ASSY,United States,Michigan,26,Branch,023
+ASSY,United States,Michigan,26,Calhoun,025
+ASSY,United States,Michigan,26,Cass,027
+ASSY,United States,Michigan,26,Charlevoix,029
+ASSY,United States,Michigan,26,Cheboygan,031
+ASSY,United States,Michigan,26,Chippewa,033
+ASSY,United States,Michigan,26,Clinton,037
+ASSY,United States,Michigan,26,Crawford,039
+ASSY,United States,Michigan,26,Delta,041
+ASSY,United States,Michigan,26,Dickinson,043
+ASSY,United States,Michigan,26,Eaton,045
+ASSY,United States,Michigan,26,Emmet,047
+ASSY,United States,Michigan,26,Genesee,049
+ASSY,United States,Michigan,26,Grand Traverse,055
+ASSY,United States,Michigan,26,Gratiot,057
+ASSY,United States,Michigan,26,Hillsdale,059
+ASSY,United States,Michigan,26,Houghton,061
+ASSY,United States,Michigan,26,Huron,063
+ASSY,United States,Michigan,26,Ingham,065
+ASSY,United States,Michigan,26,Iosco,069
+ASSY,United States,Michigan,26,Iron,071
+ASSY,United States,Michigan,26,Isabella,073
+ASSY,United States,Michigan,26,Jackson,075
+ASSY,United States,Michigan,26,Kalamazoo,077
+ASSY,United States,Michigan,26,Kalkaska,079
+ASSY,United States,Michigan,26,Kent,081
+ASSY,United States,Michigan,26,Keweenaw,083
+ASSY,United States,Michigan,26,Lake,085
+ASSY,United States,Michigan,26,Lapeer,087
+ASSY,United States,Michigan,26,Leelanau,089
+ASSY,United States,Michigan,26,Lenawee,091
+ASSY,United States,Michigan,26,Livingston,093
+ASSY,United States,Michigan,26,Mackinac,097
+ASSY,United States,Michigan,26,Macomb,099
+ASSY,United States,Michigan,26,Manistee,101
+ASSY,United States,Michigan,26,Marquette,103
+ASSY,United States,Michigan,26,Mason,105
+ASSY,United States,Michigan,26,Mecosta,107
+ASSY,United States,Michigan,26,Menominee,109
+ASSY,United States,Michigan,26,Midland,111
+ASSY,United States,Michigan,26,Missaukee,113
+ASSY,United States,Michigan,26,Monroe,115
+ASSY,United States,Michigan,26,Montcalm,117
+ASSY,United States,Michigan,26,Montmorency,119
+ASSY,United States,Michigan,26,Muskegon,121
+ASSY,United States,Michigan,26,Newaygo,123
+ASSY,United States,Michigan,26,Oakland,125
+ASSY,United States,Michigan,26,Oceana,127
+ASSY,United States,Michigan,26,Ontonagon,131
+ASSY,United States,Michigan,26,Oscoda,135
+ASSY,United States,Michigan,26,Otsego,137
+ASSY,United States,Michigan,26,Ottawa,139
+ASSY,United States,Michigan,26,Presque Isle,141
+ASSY,United States,Michigan,26,Roscommon,143
+ASSY,United States,Michigan,26,Saginaw,145
+ASSY,United States,Michigan,26,Sanilac,151
+ASSY,United States,Michigan,26,Schoolcraft,153
+ASSY,United States,Michigan,26,Shiawassee,155
+ASSY,United States,Michigan,26,St. Clair,147
+ASSY,United States,Michigan,26,Tuscola,157
+ASSY,United States,Michigan,26,Van Buren,159
+ASSY,United States,Michigan,26,Washtenaw,161
+ASSY,United States,Michigan,26,Wayne,163
+ASSY,United States,Michigan,26,Wexford,165
+ASSY,United States,Minnesota,27,,
+ASSY,United States,Minnesota,27,Aitkin,001
+ASSY,United States,Minnesota,27,Anoka,003
+ASSY,United States,Minnesota,27,Becker,005
+ASSY,United States,Minnesota,27,Benton,009
+ASSY,United States,Minnesota,27,Big Stone,011
+ASSY,United States,Minnesota,27,Blue Earth,013
+ASSY,United States,Minnesota,27,Carlton,017
+ASSY,United States,Minnesota,27,Carver,019
+ASSY,United States,Minnesota,27,Cass,021
+ASSY,United States,Minnesota,27,Chippewa,023
+ASSY,United States,Minnesota,27,Chisago,025
+ASSY,United States,Minnesota,27,Clay,027
+ASSY,United States,Minnesota,27,Clearwater,029
+ASSY,United States,Minnesota,27,Cottonwood,033
+ASSY,United States,Minnesota,27,Dakota,037
+ASSY,United States,Minnesota,27,Dodge,039
+ASSY,United States,Minnesota,27,Douglas,041
+ASSY,United States,Minnesota,27,Fillmore,045
+ASSY,United States,Minnesota,27,Goodhue,049
+ASSY,United States,Minnesota,27,Grant,051
+ASSY,United States,Minnesota,27,Hennepin,053
+ASSY,United States,Minnesota,27,Houston,055
+ASSY,United States,Minnesota,27,Jackson,063
+ASSY,United States,Minnesota,27,Kandiyohi,067
+ASSY,United States,Minnesota,27,Kittson,069
+ASSY,United States,Minnesota,27,Lac qui Parle,073
+ASSY,United States,Minnesota,27,Lake of the Woods,077
+ASSY,United States,Minnesota,27,Le Sueur,079
+ASSY,United States,Minnesota,27,Lincoln,081
+ASSY,United States,Minnesota,27,Lyon,083
+ASSY,United States,Minnesota,27,Mahnomen,087
+ASSY,United States,Minnesota,27,Martin,091
+ASSY,United States,Minnesota,27,Meeker,093
+ASSY,United States,Minnesota,27,Morrison,097
+ASSY,United States,Minnesota,27,Murray,101
+ASSY,United States,Minnesota,27,Nobles,105
+ASSY,United States,Minnesota,27,Norman,107
+ASSY,United States,Minnesota,27,Olmsted,109
+ASSY,United States,Minnesota,27,Otter Tail,111
+ASSY,United States,Minnesota,27,Pine,115
+ASSY,United States,Minnesota,27,Pipestone,117
+ASSY,United States,Minnesota,27,Polk,119
+ASSY,United States,Minnesota,27,Ramsey,123
+ASSY,United States,Minnesota,27,Red Lake,125
+ASSY,United States,Minnesota,27,Redwood,127
+ASSY,United States,Minnesota,27,Rice,131
+ASSY,United States,Minnesota,27,Scott,139
+ASSY,United States,Minnesota,27,St. Louis,137
+ASSY,United States,Minnesota,27,Stearns,145
+ASSY,United States,Minnesota,27,Steele,147
+ASSY,United States,Minnesota,27,Todd,153
+ASSY,United States,Minnesota,27,Wabasha,157
+ASSY,United States,Minnesota,27,Wadena,159
+ASSY,United States,Minnesota,27,Washington,163
+ASSY,United States,Minnesota,27,Watonwan,165
+ASSY,United States,Minnesota,27,Wilkin,167
+ASSY,United States,Minnesota,27,Winona,169
+ASSY,United States,Minnesota,27,Wright,171
+ASSY,United States,Minnesota,27,Yellow Medicine,173
+ASSY,United States,Mississippi,28,,
+ASSY,United States,Missouri,29,,
+ASSY,United States,Missouri,29,Adair,001
+ASSY,United States,Missouri,29,Atchison,005
+ASSY,United States,Missouri,29,Audrain,007
+ASSY,United States,Missouri,29,Barton,011
+ASSY,United States,Missouri,29,Bates,013
+ASSY,United States,Missouri,29,Bollinger,017
+ASSY,United States,Missouri,29,Boone,019
+ASSY,United States,Missouri,29,Buchanan,021
+ASSY,United States,Missouri,29,Caldwell,025
+ASSY,United States,Missouri,29,Callaway,027
+ASSY,United States,Missouri,29,Cape Girardeau,031
+ASSY,United States,Missouri,29,Carroll,033
+ASSY,United States,Missouri,29,Carter,035
+ASSY,United States,Missouri,29,Cass,037
+ASSY,United States,Missouri,29,Cedar,039
+ASSY,United States,Missouri,29,Chariton,041
+ASSY,United States,Missouri,29,Clark,045
+ASSY,United States,Missouri,29,Clay,047
+ASSY,United States,Missouri,29,Clinton,049
+ASSY,United States,Missouri,29,Cooper,053
+ASSY,United States,Missouri,29,Crawford,055
+ASSY,United States,Missouri,29,Daviess,061
+ASSY,United States,Missouri,29,DeKalb,063
+ASSY,United States,Missouri,29,Dunklin,069
+ASSY,United States,Missouri,29,Franklin,071
+ASSY,United States,Missouri,29,Gasconade,073
+ASSY,United States,Missouri,29,Gentry,075
+ASSY,United States,Missouri,29,Grundy,079
+ASSY,United States,Missouri,29,Harrison,081
+ASSY,United States,Missouri,29,Henry,083
+ASSY,United States,Missouri,29,Holt,087
+ASSY,United States,Missouri,29,Howard,089
+ASSY,United States,Missouri,29,Iron,093
+ASSY,United States,Missouri,29,Jackson,095
+ASSY,United States,Missouri,29,Jasper,097
+ASSY,United States,Missouri,29,Jefferson,099
+ASSY,United States,Missouri,29,Johnson,101
+ASSY,United States,Missouri,29,Knox,103
+ASSY,United States,Missouri,29,Lafayette,107
+ASSY,United States,Missouri,29,Lewis,111
+ASSY,United States,Missouri,29,Lincoln,113
+ASSY,United States,Missouri,29,Linn,115
+ASSY,United States,Missouri,29,Livingston,117
+ASSY,United States,Missouri,29,Macon,121
+ASSY,United States,Missouri,29,Maries,125
+ASSY,United States,Missouri,29,Marion,127
+ASSY,United States,Missouri,29,Mercer,129
+ASSY,United States,Missouri,29,Miller,131
+ASSY,United States,Missouri,29,Moniteau,135
+ASSY,United States,Missouri,29,Monroe,137
+ASSY,United States,Missouri,29,Montgomery,139
+ASSY,United States,Missouri,29,New Madrid,143
+ASSY,United States,Missouri,29,Nodaway,147
+ASSY,United States,Missouri,29,Osage,151
+ASSY,United States,Missouri,29,Pettis,159
+ASSY,United States,Missouri,29,Phelps,161
+ASSY,United States,Missouri,29,Pike,163
+ASSY,United States,Missouri,29,Platte,165
+ASSY,United States,Missouri,29,Pulaski,169
+ASSY,United States,Missouri,29,Putnam,171
+ASSY,United States,Missouri,29,Ralls,173
+ASSY,United States,Missouri,29,Randolph,175
+ASSY,United States,Missouri,29,Ray,177
+ASSY,United States,Missouri,29,Reynolds,179
+ASSY,United States,Missouri,29,Ripley,181
+ASSY,United States,Missouri,29,Schuyler,197
+ASSY,United States,Missouri,29,Scotland,199
+ASSY,United States,Missouri,29,Scott,201
+ASSY,United States,Missouri,29,Shannon,203
+ASSY,United States,Missouri,29,St. Charles,183
+ASSY,United States,Missouri,29,St. Francois,187
+ASSY,United States,Missouri,29,St. Louis,189
+ASSY,United States,Missouri,29,Ste. Genevieve,186
+ASSY,United States,Missouri,29,Sullivan,211
+ASSY,United States,Missouri,29,Vernon,217
+ASSY,United States,Missouri,29,Warren,219
+ASSY,United States,Missouri,29,Washington,221
+ASSY,United States,Missouri,29,Wayne,223
+ASSY,United States,Missouri,29,Worth,227
+ASSY,United States,Montana,30,,
+ASSY,United States,Montana,30,Big Horn,003
+ASSY,United States,Montana,30,Carter,011
+ASSY,United States,Montana,30,Cascade,013
+ASSY,United States,Montana,30,Chouteau,015
+ASSY,United States,Montana,30,Custer,017
+ASSY,United States,Montana,30,Daniels,019
+ASSY,United States,Montana,30,Gallatin,031
+ASSY,United States,Montana,30,Lewis and Clark,049
+ASSY,United States,Montana,30,Lincoln,053
+ASSY,United States,Montana,30,McCone,055
+ASSY,United States,Montana,30,Park,067
+ASSY,United States,Montana,30,Phillips,071
+ASSY,United States,Montana,30,Powell,077
+ASSY,United States,Montana,30,Roosevelt,085
+ASSY,United States,Montana,30,Sheridan,091
+ASSY,United States,Montana,30,Stillwater,095
+ASSY,United States,Montana,30,Wibaux,109
+ASSY,United States,Montana,30,Yellowstone,111
+ASSY,United States,Nebraska,31,,
+ASSY,United States,Nebraska,31,Adams,001
+ASSY,United States,Nebraska,31,Antelope,003
+ASSY,United States,Nebraska,31,Boone,011
+ASSY,United States,Nebraska,31,Boyd,015
+ASSY,United States,Nebraska,31,Brown,017
+ASSY,United States,Nebraska,31,Buffalo,019
+ASSY,United States,Nebraska,31,Butler,023
+ASSY,United States,Nebraska,31,Cass,025
+ASSY,United States,Nebraska,31,Cedar,027
+ASSY,United States,Nebraska,31,Cherry,031
+ASSY,United States,Nebraska,31,Colfax,037
+ASSY,United States,Nebraska,31,Cuming,039
+ASSY,United States,Nebraska,31,Custer,041
+ASSY,United States,Nebraska,31,Dawes,045
+ASSY,United States,Nebraska,31,Dawson,047
+ASSY,United States,Nebraska,31,Douglas,055
+ASSY,United States,Nebraska,31,Fillmore,059
+ASSY,United States,Nebraska,31,Franklin,061
+ASSY,United States,Nebraska,31,Gage,067
+ASSY,United States,Nebraska,31,Garfield,071
+ASSY,United States,Nebraska,31,Gosper,073
+ASSY,United States,Nebraska,31,Greeley,077
+ASSY,United States,Nebraska,31,Hall,079
+ASSY,United States,Nebraska,31,Hooker,091
+ASSY,United States,Nebraska,31,Howard,093
+ASSY,United States,Nebraska,31,Johnson,097
+ASSY,United States,Nebraska,31,Kearney,099
+ASSY,United States,Nebraska,31,Knox,107
+ASSY,United States,Nebraska,31,Lancaster,109
+ASSY,United States,Nebraska,31,Loup,115
+ASSY,United States,Nebraska,31,Madison,119
+ASSY,United States,Nebraska,31,Merrick,121
+ASSY,United States,Nebraska,31,Nemaha,127
+ASSY,United States,Nebraska,31,Otoe,131
+ASSY,United States,Nebraska,31,Pawnee,133
+ASSY,United States,Nebraska,31,Phelps,137
+ASSY,United States,Nebraska,31,Platte,141
+ASSY,United States,Nebraska,31,Richardson,147
+ASSY,United States,Nebraska,31,Saline,151
+ASSY,United States,Nebraska,31,Sarpy,153
+ASSY,United States,Nebraska,31,Saunders,155
+ASSY,United States,Nebraska,31,Scotts Bluff,157
+ASSY,United States,Nebraska,31,Seward,159
+ASSY,United States,Nebraska,31,Sherman,163
+ASSY,United States,Nebraska,31,Thayer,169
+ASSY,United States,Nebraska,31,Thomas,171
+ASSY,United States,Nebraska,31,Valley,175
+ASSY,United States,Nebraska,31,Webster,181
+ASSY,United States,Nebraska,31,Wheeler,183
+ASSY,United States,New Hampshire,33,,
+ASSY,United States,New Jersey,34,,
+ASSY,United States,New Jersey,34,Bergen,003
+ASSY,United States,New Jersey,34,Burlington,005
+ASSY,United States,New Jersey,34,Camden,007
+ASSY,United States,New Jersey,34,Cumberland,011
+ASSY,United States,New Jersey,34,Essex,013
+ASSY,United States,New Jersey,34,Hudson,017
+ASSY,United States,New Jersey,34,Hunterdon,019
+ASSY,United States,New Jersey,34,Mercer,021
+ASSY,United States,New Jersey,34,Middlesex,023
+ASSY,United States,New Jersey,34,Monmouth,025
+ASSY,United States,New Jersey,34,Morris,027
+ASSY,United States,New Jersey,34,Ocean,029
+ASSY,United States,New Jersey,34,Passaic,031
+ASSY,United States,New Jersey,34,Salem,033
+ASSY,United States,New Jersey,34,Somerset,035
+ASSY,United States,New Jersey,34,Sussex,037
+ASSY,United States,New Jersey,34,Union,039
+ASSY,United States,New Jersey,34,Warren,041
+ASSY,United States,New York,36,,
+ASSY,United States,New York,36,Albany,001
+ASSY,United States,New York,36,Bronx,005
+ASSY,United States,New York,36,Cattaraugus,009
+ASSY,United States,New York,36,Chautauqua,013
+ASSY,United States,New York,36,Clinton,019
+ASSY,United States,New York,36,Columbia,021
+ASSY,United States,New York,36,Delaware,025
+ASSY,United States,New York,36,Dutchess,027
+ASSY,United States,New York,36,Erie,029
+ASSY,United States,New York,36,Essex,031
+ASSY,United States,New York,36,Jefferson,045
+ASSY,United States,New York,36,Kings,047
+ASSY,United States,New York,36,Lewis,049
+ASSY,United States,New York,36,Livingston,051
+ASSY,United States,New York,36,Madison,053
+ASSY,United States,New York,36,Monroe,055
+ASSY,United States,New York,36,Nassau,059
+ASSY,United States,New York,36,New York,061
+ASSY,United States,New York,36,Oneida,065
+ASSY,United States,New York,36,Onondaga,067
+ASSY,United States,New York,36,Orange,071
+ASSY,United States,New York,36,Oswego,075
+ASSY,United States,New York,36,Putnam,079
+ASSY,United States,New York,36,Queens,081
+ASSY,United States,New York,36,Rensselaer,083
+ASSY,United States,New York,36,Richmond,085
+ASSY,United States,New York,36,Rockland,087
+ASSY,United States,New York,36,Saratoga,091
+ASSY,United States,New York,36,Seneca,099
+ASSY,United States,New York,36,St. Lawrence,089
+ASSY,United States,New York,36,Steuben,101
+ASSY,United States,New York,36,Suffolk,103
+ASSY,United States,New York,36,Ulster,111
+ASSY,United States,New York,36,Warren,113
+ASSY,United States,New York,36,Washington,115
+ASSY,United States,New York,36,Westchester,119
+ASSY,United States,New York,36,Yates,123
+ASSY,United States,North Carolina,37,,
+ASSY,United States,North Carolina,37,Alleghany,005
+ASSY,United States,North Carolina,37,Ashe,009
+ASSY,United States,North Carolina,37,Avery,011
+ASSY,United States,North Carolina,37,Burke,023
+ASSY,United States,North Carolina,37,Cabarrus,025
+ASSY,United States,North Carolina,37,Caswell,033
+ASSY,United States,North Carolina,37,Davidson,057
+ASSY,United States,North Carolina,37,Durham,063
+ASSY,United States,North Carolina,37,Forsyth,067
+ASSY,United States,North Carolina,37,Granville,077
+ASSY,United States,North Carolina,37,Guilford,081
+ASSY,United States,North Carolina,37,Iredell,097
+ASSY,United States,North Carolina,37,Madison,115
+ASSY,United States,North Carolina,37,Mitchell,121
+ASSY,United States,North Carolina,37,Pasquotank,139
+ASSY,United States,North Carolina,37,Person,145
+ASSY,United States,North Carolina,37,Pitt,147
+ASSY,United States,North Carolina,37,Randolph,151
+ASSY,United States,North Carolina,37,Rockingham,157
+ASSY,United States,North Carolina,37,Rowan,159
+ASSY,United States,North Carolina,37,Stokes,169
+ASSY,United States,North Carolina,37,Surry,171
+ASSY,United States,North Carolina,37,Vance,181
+ASSY,United States,North Carolina,37,Wake,183
+ASSY,United States,North Carolina,37,Watauga,189
+ASSY,United States,North Carolina,37,Wilkes,193
+ASSY,United States,North Carolina,37,Yancey,199
+ASSY,United States,North Dakota,38,,
+ASSY,United States,North Dakota,38,Barnes,003
+ASSY,United States,North Dakota,38,Bottineau,009
+ASSY,United States,North Dakota,38,Burleigh,015
+ASSY,United States,North Dakota,38,Cass,017
+ASSY,United States,North Dakota,38,Emmons,029
+ASSY,United States,North Dakota,38,Grand Forks,035
+ASSY,United States,North Dakota,38,Griggs,039
+ASSY,United States,North Dakota,38,Logan,047
+ASSY,United States,North Dakota,38,McLean,055
+ASSY,United States,North Dakota,38,Morton,059
+ASSY,United States,North Dakota,38,Oliver,065
+ASSY,United States,North Dakota,38,Pembina,067
+ASSY,United States,North Dakota,38,Ransom,073
+ASSY,United States,North Dakota,38,Richland,077
+ASSY,United States,North Dakota,38,Sargent,081
+ASSY,United States,North Dakota,38,Stutsman,093
+ASSY,United States,North Dakota,38,Traill,097
+ASSY,United States,North Dakota,38,Walsh,099
+ASSY,United States,North Dakota,38,Ward,101
+ASSY,United States,Ohio,39,,
+ASSY,United States,Ohio,39,Adams,001
+ASSY,United States,Ohio,39,Allen,003
+ASSY,United States,Ohio,39,Ashland,005
+ASSY,United States,Ohio,39,Ashtabula,007
+ASSY,United States,Ohio,39,Athens,009
+ASSY,United States,Ohio,39,Auglaize,011
+ASSY,United States,Ohio,39,Belmont,013
+ASSY,United States,Ohio,39,Brown,015
+ASSY,United States,Ohio,39,Butler,017
+ASSY,United States,Ohio,39,Carroll,019
+ASSY,United States,Ohio,39,Champaign,021
+ASSY,United States,Ohio,39,Clark,023
+ASSY,United States,Ohio,39,Clinton,027
+ASSY,United States,Ohio,39,Columbiana,029
+ASSY,United States,Ohio,39,Coshocton,031
+ASSY,United States,Ohio,39,Crawford,033
+ASSY,United States,Ohio,39,Cuyahoga,035
+ASSY,United States,Ohio,39,Darke,037
+ASSY,United States,Ohio,39,Defiance,039
+ASSY,United States,Ohio,39,Delaware,041
+ASSY,United States,Ohio,39,Erie,043
+ASSY,United States,Ohio,39,Fairfield,045
+ASSY,United States,Ohio,39,Fayette,047
+ASSY,United States,Ohio,39,Franklin,049
+ASSY,United States,Ohio,39,Fulton,051
+ASSY,United States,Ohio,39,Gallia,053
+ASSY,United States,Ohio,39,Geauga,055
+ASSY,United States,Ohio,39,Greene,057
+ASSY,United States,Ohio,39,Guernsey,059
+ASSY,United States,Ohio,39,Hamilton,061
+ASSY,United States,Ohio,39,Hancock,063
+ASSY,United States,Ohio,39,Hardin,065
+ASSY,United States,Ohio,39,Harrison,067
+ASSY,United States,Ohio,39,Henry,069
+ASSY,United States,Ohio,39,Highland,071
+ASSY,United States,Ohio,39,Hocking,073
+ASSY,United States,Ohio,39,Holmes,075
+ASSY,United States,Ohio,39,Huron,077
+ASSY,United States,Ohio,39,Jackson,079
+ASSY,United States,Ohio,39,Jefferson,081
+ASSY,United States,Ohio,39,Knox,083
+ASSY,United States,Ohio,39,Lake,085
+ASSY,United States,Ohio,39,Lawrence,087
+ASSY,United States,Ohio,39,Licking,089
+ASSY,United States,Ohio,39,Logan,091
+ASSY,United States,Ohio,39,Lorain,093
+ASSY,United States,Ohio,39,Lucas,095
+ASSY,United States,Ohio,39,Madison,097
+ASSY,United States,Ohio,39,Mahoning,099
+ASSY,United States,Ohio,39,Marion,101
+ASSY,United States,Ohio,39,Medina,103
+ASSY,United States,Ohio,39,Meigs,105
+ASSY,United States,Ohio,39,Mercer,107
+ASSY,United States,Ohio,39,Miami,109
+ASSY,United States,Ohio,39,Monroe,111
+ASSY,United States,Ohio,39,Montgomery,113
+ASSY,United States,Ohio,39,Morgan,115
+ASSY,United States,Ohio,39,Muskingum,119
+ASSY,United States,Ohio,39,Noble,121
+ASSY,United States,Ohio,39,Ottawa,123
+ASSY,United States,Ohio,39,Paulding,125
+ASSY,United States,Ohio,39,Perry,127
+ASSY,United States,Ohio,39,Pickaway,129
+ASSY,United States,Ohio,39,Pike,131
+ASSY,United States,Ohio,39,Portage,133
+ASSY,United States,Ohio,39,Preble,135
+ASSY,United States,Ohio,39,Putnam,137
+ASSY,United States,Ohio,39,Richland,139
+ASSY,United States,Ohio,39,Ross,141
+ASSY,United States,Ohio,39,Sandusky,143
+ASSY,United States,Ohio,39,Scioto,145
+ASSY,United States,Ohio,39,Seneca,147
+ASSY,United States,Ohio,39,Shelby,149
+ASSY,United States,Ohio,39,Stark,151
+ASSY,United States,Ohio,39,Summit,153
+ASSY,United States,Ohio,39,Trumbull,155
+ASSY,United States,Ohio,39,Tuscarawas,157
+ASSY,United States,Ohio,39,Union,159
+ASSY,United States,Ohio,39,Van Wert,161
+ASSY,United States,Ohio,39,Vinton,163
+ASSY,United States,Ohio,39,Warren,165
+ASSY,United States,Ohio,39,Washington,167
+ASSY,United States,Ohio,39,Wayne,169
+ASSY,United States,Ohio,39,Williams,171
+ASSY,United States,Ohio,39,Wood,173
+ASSY,United States,Ohio,39,Wyandot,175
+ASSY,United States,Oklahoma,40,,
+ASSY,United States,Oklahoma,40,Cleveland,027
+ASSY,United States,Oklahoma,40,Tulsa,143
+ASSY,United States,Oregon,41,,
+ASSY,United States,Oregon,41,Marion,047
+ASSY,United States,Pennsylvania,42,,
+ASSY,United States,Pennsylvania,42,Adams,001
+ASSY,United States,Pennsylvania,42,Allegheny,003
+ASSY,United States,Pennsylvania,42,Armstrong,005
+ASSY,United States,Pennsylvania,42,Beaver,007
+ASSY,United States,Pennsylvania,42,Bedford,009
+ASSY,United States,Pennsylvania,42,Berks,011
+ASSY,United States,Pennsylvania,42,Blair,013
+ASSY,United States,Pennsylvania,42,Bradford,015
+ASSY,United States,Pennsylvania,42,Bucks,017
+ASSY,United States,Pennsylvania,42,Butler,019
+ASSY,United States,Pennsylvania,42,Cambria,021
+ASSY,United States,Pennsylvania,42,Cameron,023
+ASSY,United States,Pennsylvania,42,Carbon,025
+ASSY,United States,Pennsylvania,42,Centre,027
+ASSY,United States,Pennsylvania,42,Chester,029
+ASSY,United States,Pennsylvania,42,Clarion,031
+ASSY,United States,Pennsylvania,42,Clearfield,033
+ASSY,United States,Pennsylvania,42,Clinton,035
+ASSY,United States,Pennsylvania,42,Crawford,039
+ASSY,United States,Pennsylvania,42,Cumberland,041
+ASSY,United States,Pennsylvania,42,Dauphin,043
+ASSY,United States,Pennsylvania,42,Delaware,045
+ASSY,United States,Pennsylvania,42,Elk,047
+ASSY,United States,Pennsylvania,42,Erie,049
+ASSY,United States,Pennsylvania,42,Fayette,051
+ASSY,United States,Pennsylvania,42,Forest,053
+ASSY,United States,Pennsylvania,42,Franklin,055
+ASSY,United States,Pennsylvania,42,Fulton,057
+ASSY,United States,Pennsylvania,42,Greene,059
+ASSY,United States,Pennsylvania,42,Huntingdon,061
+ASSY,United States,Pennsylvania,42,Indiana,063
+ASSY,United States,Pennsylvania,42,Jefferson,065
+ASSY,United States,Pennsylvania,42,Juniata,067
+ASSY,United States,Pennsylvania,42,Lackawanna,069
+ASSY,United States,Pennsylvania,42,Lancaster,071
+ASSY,United States,Pennsylvania,42,Lawrence,073
+ASSY,United States,Pennsylvania,42,Lebanon,075
+ASSY,United States,Pennsylvania,42,Lehigh,077
+ASSY,United States,Pennsylvania,42,Luzerne,079
+ASSY,United States,Pennsylvania,42,McKean,083
+ASSY,United States,Pennsylvania,42,Mercer,085
+ASSY,United States,Pennsylvania,42,Mifflin,087
+ASSY,United States,Pennsylvania,42,Monroe,089
+ASSY,United States,Pennsylvania,42,Montgomery,091
+ASSY,United States,Pennsylvania,42,Montour,093
+ASSY,United States,Pennsylvania,42,Northampton,095
+ASSY,United States,Pennsylvania,42,Northumberland,097
+ASSY,United States,Pennsylvania,42,Perry,099
+ASSY,United States,Pennsylvania,42,Philadelphia,101
+ASSY,United States,Pennsylvania,42,Pike,103
+ASSY,United States,Pennsylvania,42,Potter,105
+ASSY,United States,Pennsylvania,42,Schuylkill,107
+ASSY,United States,Pennsylvania,42,Snyder,109
+ASSY,United States,Pennsylvania,42,Somerset,111
+ASSY,United States,Pennsylvania,42,Sullivan,113
+ASSY,United States,Pennsylvania,42,Susquehanna,115
+ASSY,United States,Pennsylvania,42,Tioga,117
+ASSY,United States,Pennsylvania,42,Union,119
+ASSY,United States,Pennsylvania,42,Venango,121
+ASSY,United States,Pennsylvania,42,Warren,123
+ASSY,United States,Pennsylvania,42,Washington,125
+ASSY,United States,Pennsylvania,42,Wayne,127
+ASSY,United States,Pennsylvania,42,Westmoreland,129
+ASSY,United States,Pennsylvania,42,Wyoming,131
+ASSY,United States,Pennsylvania,42,York,133
+ASSY,United States,Rhode Island,44,,
+ASSY,United States,South Carolina,45,,
+ASSY,United States,South Dakota,46,,
+ASSY,United States,South Dakota,46,Aurora,003
+ASSY,United States,South Dakota,46,Brown,013
+ASSY,United States,South Dakota,46,Brule,015
+ASSY,United States,South Dakota,46,Buffalo,017
+ASSY,United States,South Dakota,46,Campbell,021
+ASSY,United States,South Dakota,46,Charles Mix,023
+ASSY,United States,South Dakota,46,Clay,027
+ASSY,United States,South Dakota,46,Custer,033
+ASSY,United States,South Dakota,46,Day,037
+ASSY,United States,South Dakota,46,Faulk,049
+ASSY,United States,South Dakota,46,Gregory,053
+ASSY,United States,South Dakota,46,Hutchinson,067
+ASSY,United States,South Dakota,46,Kingsbury,077
+ASSY,United States,South Dakota,46,Lake,079
+ASSY,United States,South Dakota,46,Lincoln,083
+ASSY,United States,South Dakota,46,Lyman,085
+ASSY,United States,South Dakota,46,Marshall,091
+ASSY,United States,South Dakota,46,McCook,087
+ASSY,United States,South Dakota,46,Minnehaha,099
+ASSY,United States,South Dakota,46,Roberts,109
+ASSY,United States,South Dakota,46,Spink,115
+ASSY,United States,South Dakota,46,Sully,119
+ASSY,United States,South Dakota,46,Todd,121
+ASSY,United States,South Dakota,46,Turner,125
+ASSY,United States,South Dakota,46,Union,127
+ASSY,United States,Tennessee,47,,
+ASSY,United States,Tennessee,47,Campbell,013
+ASSY,United States,Tennessee,47,Carter,019
+ASSY,United States,Tennessee,47,Claiborne,025
+ASSY,United States,Tennessee,47,Clay,027
+ASSY,United States,Tennessee,47,Davidson,037
+ASSY,United States,Tennessee,47,DeKalb,041
+ASSY,United States,Tennessee,47,Dickson,043
+ASSY,United States,Tennessee,47,Fentress,049
+ASSY,United States,Tennessee,47,Hamblen,063
+ASSY,United States,Tennessee,47,Hawkins,073
+ASSY,United States,Tennessee,47,Jackson,087
+ASSY,United States,Tennessee,47,Johnson,091
+ASSY,United States,Tennessee,47,Knox,093
+ASSY,United States,Tennessee,47,Marshall,117
+ASSY,United States,Tennessee,47,Montgomery,125
+ASSY,United States,Tennessee,47,Overton,133
+ASSY,United States,Tennessee,47,Roane,145
+ASSY,United States,Tennessee,47,Robertson,147
+ASSY,United States,Tennessee,47,Rutherford,149
+ASSY,United States,Tennessee,47,Sevier,155
+ASSY,United States,Tennessee,47,Shelby,157
+ASSY,United States,Tennessee,47,Smith,159
+ASSY,United States,Tennessee,47,Stewart,161
+ASSY,United States,Tennessee,47,Sumner,165
+ASSY,United States,Tennessee,47,Unicoi,171
+ASSY,United States,Tennessee,47,Union,173
+ASSY,United States,Tennessee,47,Williamson,187
+ASSY,United States,Tennessee,47,Wilson,189
+ASSY,United States,Texas,48,,
+ASSY,United States,Vermont,50,,
+ASSY,United States,Vermont,50,Chittenden,007
+ASSY,United States,Virginia,51,,
+ASSY,United States,Virginia,51,Accomack,001
+ASSY,United States,Virginia,51,Albemarle,003
+ASSY,United States,Virginia,51,Alleghany,005
+ASSY,United States,Virginia,51,Amelia,007
+ASSY,United States,Virginia,51,Amherst,009
+ASSY,United States,Virginia,51,Appomattox,011
+ASSY,United States,Virginia,51,Arlington,013
+ASSY,United States,Virginia,51,Augusta,015
+ASSY,United States,Virginia,51,Bath,017
+ASSY,United States,Virginia,51,Bedford,019
+ASSY,United States,Virginia,51,Bland,021
+ASSY,United States,Virginia,51,Botetourt,023
+ASSY,United States,Virginia,51,Brunswick,025
+ASSY,United States,Virginia,51,Buchanan,027
+ASSY,United States,Virginia,51,Buckingham,029
+ASSY,United States,Virginia,51,Campbell,031
+ASSY,United States,Virginia,51,Caroline,033
+ASSY,United States,Virginia,51,Carroll,035
+ASSY,United States,Virginia,51,Charles City,036
+ASSY,United States,Virginia,51,Charlotte,037
+ASSY,United States,Virginia,51,Chesapeake ,550
+ASSY,United States,Virginia,51,Chesterfield,041
+ASSY,United States,Virginia,51,Clarke,043
+ASSY,United States,Virginia,51,Craig,045
+ASSY,United States,Virginia,51,Culpeper,047
+ASSY,United States,Virginia,51,Cumberland,049
+ASSY,United States,Virginia,51,Dickenson,051
+ASSY,United States,Virginia,51,Fairfax,059
+ASSY,United States,Virginia,51,Fauquier,061
+ASSY,United States,Virginia,51,Floyd,063
+ASSY,United States,Virginia,51,Fluvanna,065
+ASSY,United States,Virginia,51,Franklin,067
+ASSY,United States,Virginia,51,Frederick,069
+ASSY,United States,Virginia,51,Giles,071
+ASSY,United States,Virginia,51,Gloucester,073
+ASSY,United States,Virginia,51,Goochland,075
+ASSY,United States,Virginia,51,Grayson,077
+ASSY,United States,Virginia,51,Greene,079
+ASSY,United States,Virginia,51,Greensville,081
+ASSY,United States,Virginia,51,Halifax,083
+ASSY,United States,Virginia,51,Hanover,085
+ASSY,United States,Virginia,51,Henrico,087
+ASSY,United States,Virginia,51,Henry,089
+ASSY,United States,Virginia,51,Highland,091
+ASSY,United States,Virginia,51,Isle of Wight,093
+ASSY,United States,Virginia,51,James City,095
+ASSY,United States,Virginia,51,King and Queen,097
+ASSY,United States,Virginia,51,King George,099
+ASSY,United States,Virginia,51,King William,101
+ASSY,United States,Virginia,51,Lancaster,103
+ASSY,United States,Virginia,51,Lee,105
+ASSY,United States,Virginia,51,Loudoun,107
+ASSY,United States,Virginia,51,Louisa,109
+ASSY,United States,Virginia,51,Lunenburg,111
+ASSY,United States,Virginia,51,Madison,113
+ASSY,United States,Virginia,51,Mathews,115
+ASSY,United States,Virginia,51,Mecklenburg,117
+ASSY,United States,Virginia,51,Middlesex,119
+ASSY,United States,Virginia,51,Nelson,125
+ASSY,United States,Virginia,51,New Kent,127
+ASSY,United States,Virginia,51,Newport News ,700
+ASSY,United States,Virginia,51,Northampton,131
+ASSY,United States,Virginia,51,Northumberland,133
+ASSY,United States,Virginia,51,Nottoway,135
+ASSY,United States,Virginia,51,Orange,137
+ASSY,United States,Virginia,51,Page,139
+ASSY,United States,Virginia,51,Patrick,141
+ASSY,United States,Virginia,51,Pittsylvania,143
+ASSY,United States,Virginia,51,Powhatan,145
+ASSY,United States,Virginia,51,Prince Edward,147
+ASSY,United States,Virginia,51,Prince George,149
+ASSY,United States,Virginia,51,Prince William,153
+ASSY,United States,Virginia,51,Pulaski,155
+ASSY,United States,Virginia,51,Rappahannock,157
+ASSY,United States,Virginia,51,Richmond,159
+ASSY,United States,Virginia,51,Roanoke,161
+ASSY,United States,Virginia,51,Rockbridge,163
+ASSY,United States,Virginia,51,Rockingham,165
+ASSY,United States,Virginia,51,Russell,167
+ASSY,United States,Virginia,51,Scott,169
+ASSY,United States,Virginia,51,Shenandoah,171
+ASSY,United States,Virginia,51,Smyth,173
+ASSY,United States,Virginia,51,Spotsylvania,177
+ASSY,United States,Virginia,51,Stafford,179
+ASSY,United States,Virginia,51,Suffolk ,800
+ASSY,United States,Virginia,51,Sussex,183
+ASSY,United States,Virginia,51,Tazewell,185
+ASSY,United States,Virginia,51,Warren,187
+ASSY,United States,Virginia,51,Washington,191
+ASSY,United States,Virginia,51,Westmoreland,193
+ASSY,United States,Virginia,51,Wythe,197
+ASSY,United States,Virginia,51,York,199
+ASSY,United States,West Virginia,54,,
+ASSY,United States,West Virginia,54,Barbour,001
+ASSY,United States,West Virginia,54,Braxton,007
+ASSY,United States,West Virginia,54,Brooke,009
+ASSY,United States,West Virginia,54,Cabell,011
+ASSY,United States,West Virginia,54,Calhoun,013
+ASSY,United States,West Virginia,54,Clay,015
+ASSY,United States,West Virginia,54,Doddridge,017
+ASSY,United States,West Virginia,54,Fayette,019
+ASSY,United States,West Virginia,54,Gilmer,021
+ASSY,United States,West Virginia,54,Grant,023
+ASSY,United States,West Virginia,54,Greenbrier,025
+ASSY,United States,West Virginia,54,Hampshire,027
+ASSY,United States,West Virginia,54,Hancock,029
+ASSY,United States,West Virginia,54,Hardy,031
+ASSY,United States,West Virginia,54,Harrison,033
+ASSY,United States,West Virginia,54,Jackson,035
+ASSY,United States,West Virginia,54,Lewis,041
+ASSY,United States,West Virginia,54,Logan,045
+ASSY,United States,West Virginia,54,Marion,049
+ASSY,United States,West Virginia,54,Marshall,051
+ASSY,United States,West Virginia,54,Mason,053
+ASSY,United States,West Virginia,54,McDowell,047
+ASSY,United States,West Virginia,54,Mercer,055
+ASSY,United States,West Virginia,54,Mineral,057
+ASSY,United States,West Virginia,54,Mingo,059
+ASSY,United States,West Virginia,54,Monongalia,061
+ASSY,United States,West Virginia,54,Morgan,065
+ASSY,United States,West Virginia,54,Nicholas,067
+ASSY,United States,West Virginia,54,Ohio,069
+ASSY,United States,West Virginia,54,Pendleton,071
+ASSY,United States,West Virginia,54,Pleasants,073
+ASSY,United States,West Virginia,54,Pocahontas,075
+ASSY,United States,West Virginia,54,Preston,077
+ASSY,United States,West Virginia,54,Putnam,079
+ASSY,United States,West Virginia,54,Randolph,083
+ASSY,United States,West Virginia,54,Ritchie,085
+ASSY,United States,West Virginia,54,Roane,087
+ASSY,United States,West Virginia,54,Taylor,091
+ASSY,United States,West Virginia,54,Tucker,093
+ASSY,United States,West Virginia,54,Tyler,095
+ASSY,United States,West Virginia,54,Upshur,097
+ASSY,United States,West Virginia,54,Wetzel,103
+ASSY,United States,West Virginia,54,Wirt,105
+ASSY,United States,West Virginia,54,Wood,107
+ASSY,United States,West Virginia,54,Wyoming,109
+ASSY,United States,Wisconsin,55,,
+ASSY,United States,Wisconsin,55,Adams,001
+ASSY,United States,Wisconsin,55,Ashland,003
+ASSY,United States,Wisconsin,55,Barron,005
+ASSY,United States,Wisconsin,55,Bayfield,007
+ASSY,United States,Wisconsin,55,Brown,009
+ASSY,United States,Wisconsin,55,Buffalo,011
+ASSY,United States,Wisconsin,55,Calumet,015
+ASSY,United States,Wisconsin,55,Chippewa,017
+ASSY,United States,Wisconsin,55,Columbia,021
+ASSY,United States,Wisconsin,55,Crawford,023
+ASSY,United States,Wisconsin,55,Dane,025
+ASSY,United States,Wisconsin,55,Dodge,027
+ASSY,United States,Wisconsin,55,Door,029
+ASSY,United States,Wisconsin,55,Douglas,031
+ASSY,United States,Wisconsin,55,Dunn,033
+ASSY,United States,Wisconsin,55,Eau Claire,035
+ASSY,United States,Wisconsin,55,Florence,037
+ASSY,United States,Wisconsin,55,Fond du Lac,039
+ASSY,United States,Wisconsin,55,Forest,041
+ASSY,United States,Wisconsin,55,Grant,043
+ASSY,United States,Wisconsin,55,Green,045
+ASSY,United States,Wisconsin,55,Green Lake,047
+ASSY,United States,Wisconsin,55,Iowa,049
+ASSY,United States,Wisconsin,55,Iron,051
+ASSY,United States,Wisconsin,55,Jackson,053
+ASSY,United States,Wisconsin,55,Jefferson,055
+ASSY,United States,Wisconsin,55,Kenosha,059
+ASSY,United States,Wisconsin,55,Kewaunee,061
+ASSY,United States,Wisconsin,55,La Crosse,063
+ASSY,United States,Wisconsin,55,Lafayette,065
+ASSY,United States,Wisconsin,55,Langlade,067
+ASSY,United States,Wisconsin,55,Lincoln,069
+ASSY,United States,Wisconsin,55,Manitowoc,071
+ASSY,United States,Wisconsin,55,Marathon,073
+ASSY,United States,Wisconsin,55,Marinette,075
+ASSY,United States,Wisconsin,55,Marquette,077
+ASSY,United States,Wisconsin,55,Milwaukee,079
+ASSY,United States,Wisconsin,55,Monroe,081
+ASSY,United States,Wisconsin,55,Oconto,083
+ASSY,United States,Wisconsin,55,Oneida,085
+ASSY,United States,Wisconsin,55,Outagamie,087
+ASSY,United States,Wisconsin,55,Ozaukee,089
+ASSY,United States,Wisconsin,55,Pepin,091
+ASSY,United States,Wisconsin,55,Pierce,093
+ASSY,United States,Wisconsin,55,Polk,095
+ASSY,United States,Wisconsin,55,Portage,097
+ASSY,United States,Wisconsin,55,Price,099
+ASSY,United States,Wisconsin,55,Racine,101
+ASSY,United States,Wisconsin,55,Richland,103
+ASSY,United States,Wisconsin,55,Rock,105
+ASSY,United States,Wisconsin,55,Rusk,107
+ASSY,United States,Wisconsin,55,Sauk,111
+ASSY,United States,Wisconsin,55,Sawyer,113
+ASSY,United States,Wisconsin,55,Shawano,115
+ASSY,United States,Wisconsin,55,Sheboygan,117
+ASSY,United States,Wisconsin,55,St. Croix,109
+ASSY,United States,Wisconsin,55,Taylor,119
+ASSY,United States,Wisconsin,55,Trempealeau,121
+ASSY,United States,Wisconsin,55,Vernon,123
+ASSY,United States,Wisconsin,55,Vilas,125
+ASSY,United States,Wisconsin,55,Walworth,127
+ASSY,United States,Wisconsin,55,Washburn,129
+ASSY,United States,Wisconsin,55,Washington,131
+ASSY,United States,Wisconsin,55,Waukesha,133
+ASSY,United States,Wisconsin,55,Waupaca,135
+ASSY,United States,Wisconsin,55,Waushara,137
+ASSY,United States,Wisconsin,55,Winnebago,139
+ASSY,United States,Wisconsin,55,Wood,141

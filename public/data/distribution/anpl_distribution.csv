@@ -1,0 +1,861 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ANPL,United States,Alabama,01,,
+ANPL,United States,Alabama,01,Bibb,007
+ANPL,United States,Alabama,01,Blount,009
+ANPL,United States,Alabama,01,Calhoun,015
+ANPL,United States,Alabama,01,Clay,027
+ANPL,United States,Alabama,01,Colbert,033
+ANPL,United States,Alabama,01,Hale,065
+ANPL,United States,Alabama,01,Jefferson,073
+ANPL,United States,Alabama,01,Lawrence,079
+ANPL,United States,Alabama,01,Madison,089
+ANPL,United States,Alabama,01,Shelby,117
+ANPL,United States,Alabama,01,Tuscaloosa,125
+ANPL,United States,Arkansas,05,,
+ANPL,United States,Arkansas,05,Benton,007
+ANPL,United States,Arkansas,05,Boone,009
+ANPL,United States,Arkansas,05,Carroll,015
+ANPL,United States,Arkansas,05,Crawford,033
+ANPL,United States,Arkansas,05,Fulton,049
+ANPL,United States,Arkansas,05,Garland,051
+ANPL,United States,Arkansas,05,Greene,055
+ANPL,United States,Arkansas,05,Hempstead,057
+ANPL,United States,Arkansas,05,Montgomery,097
+ANPL,United States,Arkansas,05,Perry,105
+ANPL,United States,Arkansas,05,Polk,113
+ANPL,United States,Arkansas,05,Pope,115
+ANPL,United States,Arkansas,05,Pulaski,119
+ANPL,United States,Arkansas,05,Sebastian,131
+ANPL,United States,Arkansas,05,Sevier,133
+ANPL,United States,Arkansas,05,Stone,137
+ANPL,United States,Arkansas,05,Washington,143
+ANPL,United States,Connecticut,09,,
+ANPL,United States,Connecticut,09,Fairfield,001
+ANPL,United States,Connecticut,09,Hartford,003
+ANPL,United States,Connecticut,09,Litchfield,005
+ANPL,United States,Connecticut,09,Middlesex,007
+ANPL,United States,Connecticut,09,New Haven,009
+ANPL,United States,Connecticut,09,New London,011
+ANPL,United States,Connecticut,09,Tolland,013
+ANPL,United States,Connecticut,09,Windham,015
+ANPL,United States,Delaware,10,,
+ANPL,United States,Delaware,10,Kent,001
+ANPL,United States,Delaware,10,New Castle,003
+ANPL,United States,Delaware,10,Sussex,005
+ANPL,United States,District of Columbia,11,,
+ANPL,United States,District of Columbia,11,District of Columbia,001
+ANPL,United States,Florida,12,,
+ANPL,United States,Florida,12,Leon,073
+ANPL,United States,Georgia,13,,
+ANPL,United States,Georgia,13,Bartow,015
+ANPL,United States,Georgia,13,Calhoun,037
+ANPL,United States,Georgia,13,Carroll,045
+ANPL,United States,Georgia,13,Cherokee,057
+ANPL,United States,Georgia,13,Clarke,059
+ANPL,United States,Georgia,13,Cobb,067
+ANPL,United States,Georgia,13,DeKalb,089
+ANPL,United States,Georgia,13,Dougherty,095
+ANPL,United States,Georgia,13,Elbert,105
+ANPL,United States,Georgia,13,Floyd,115
+ANPL,United States,Georgia,13,Forsyth,117
+ANPL,United States,Georgia,13,Fulton,121
+ANPL,United States,Georgia,13,Habersham,137
+ANPL,United States,Georgia,13,Hall,139
+ANPL,United States,Georgia,13,Hancock,141
+ANPL,United States,Georgia,13,Harris,145
+ANPL,United States,Georgia,13,Jackson,157
+ANPL,United States,Georgia,13,Lincoln,181
+ANPL,United States,Georgia,13,Madison,195
+ANPL,United States,Georgia,13,Morgan,211
+ANPL,United States,Georgia,13,Oglethorpe,221
+ANPL,United States,Georgia,13,Polk,233
+ANPL,United States,Georgia,13,Putnam,237
+ANPL,United States,Georgia,13,Randolph,243
+ANPL,United States,Georgia,13,Sumter,261
+ANPL,United States,Georgia,13,Upson,293
+ANPL,United States,Georgia,13,Walker,295
+ANPL,United States,Georgia,13,Walton,297
+ANPL,United States,Georgia,13,White,311
+ANPL,United States,Georgia,13,Whitfield,313
+ANPL,United States,Georgia,13,Wilkes,317
+ANPL,United States,Illinois,17,,
+ANPL,United States,Illinois,17,Adams,001
+ANPL,United States,Illinois,17,Alexander,003
+ANPL,United States,Illinois,17,Bond,005
+ANPL,United States,Illinois,17,Boone,007
+ANPL,United States,Illinois,17,Brown,009
+ANPL,United States,Illinois,17,Bureau,011
+ANPL,United States,Illinois,17,Calhoun,013
+ANPL,United States,Illinois,17,Carroll,015
+ANPL,United States,Illinois,17,Cass,017
+ANPL,United States,Illinois,17,Champaign,019
+ANPL,United States,Illinois,17,Christian,021
+ANPL,United States,Illinois,17,Clark,023
+ANPL,United States,Illinois,17,Coles,029
+ANPL,United States,Illinois,17,Cook,031
+ANPL,United States,Illinois,17,Crawford,033
+ANPL,United States,Illinois,17,Cumberland,035
+ANPL,United States,Illinois,17,De Witt,039
+ANPL,United States,Illinois,17,DeKalb,037
+ANPL,United States,Illinois,17,Douglas,041
+ANPL,United States,Illinois,17,DuPage,043
+ANPL,United States,Illinois,17,Edgar,045
+ANPL,United States,Illinois,17,Edwards,047
+ANPL,United States,Illinois,17,Effingham,049
+ANPL,United States,Illinois,17,Fayette,051
+ANPL,United States,Illinois,17,Franklin,055
+ANPL,United States,Illinois,17,Fulton,057
+ANPL,United States,Illinois,17,Gallatin,059
+ANPL,United States,Illinois,17,Greene,061
+ANPL,United States,Illinois,17,Grundy,063
+ANPL,United States,Illinois,17,Hamilton,065
+ANPL,United States,Illinois,17,Hancock,067
+ANPL,United States,Illinois,17,Hardin,069
+ANPL,United States,Illinois,17,Henderson,071
+ANPL,United States,Illinois,17,Henry,073
+ANPL,United States,Illinois,17,Iroquois,075
+ANPL,United States,Illinois,17,Jackson,077
+ANPL,United States,Illinois,17,Jasper,079
+ANPL,United States,Illinois,17,Jefferson,081
+ANPL,United States,Illinois,17,Jersey,083
+ANPL,United States,Illinois,17,Jo Daviess,085
+ANPL,United States,Illinois,17,Johnson,087
+ANPL,United States,Illinois,17,Kane,089
+ANPL,United States,Illinois,17,Kankakee,091
+ANPL,United States,Illinois,17,Kendall,093
+ANPL,United States,Illinois,17,Knox,095
+ANPL,United States,Illinois,17,Lake,097
+ANPL,United States,Illinois,17,LaSalle,099
+ANPL,United States,Illinois,17,Lawrence,101
+ANPL,United States,Illinois,17,Lee,103
+ANPL,United States,Illinois,17,Logan,107
+ANPL,United States,Illinois,17,Macon,115
+ANPL,United States,Illinois,17,Macoupin,117
+ANPL,United States,Illinois,17,Madison,119
+ANPL,United States,Illinois,17,Marion,121
+ANPL,United States,Illinois,17,Marshall,123
+ANPL,United States,Illinois,17,Mason,125
+ANPL,United States,Illinois,17,Massac,127
+ANPL,United States,Illinois,17,McDonough,109
+ANPL,United States,Illinois,17,McHenry,111
+ANPL,United States,Illinois,17,McLean,113
+ANPL,United States,Illinois,17,Mercer,131
+ANPL,United States,Illinois,17,Monroe,133
+ANPL,United States,Illinois,17,Montgomery,135
+ANPL,United States,Illinois,17,Morgan,137
+ANPL,United States,Illinois,17,Moultrie,139
+ANPL,United States,Illinois,17,Ogle,141
+ANPL,United States,Illinois,17,Peoria,143
+ANPL,United States,Illinois,17,Perry,145
+ANPL,United States,Illinois,17,Piatt,147
+ANPL,United States,Illinois,17,Pike,149
+ANPL,United States,Illinois,17,Pope,151
+ANPL,United States,Illinois,17,Putnam,155
+ANPL,United States,Illinois,17,Randolph,157
+ANPL,United States,Illinois,17,Richland,159
+ANPL,United States,Illinois,17,Rock Island,161
+ANPL,United States,Illinois,17,Saline,165
+ANPL,United States,Illinois,17,Sangamon,167
+ANPL,United States,Illinois,17,Schuyler,169
+ANPL,United States,Illinois,17,Scott,171
+ANPL,United States,Illinois,17,Shelby,173
+ANPL,United States,Illinois,17,St. Clair,163
+ANPL,United States,Illinois,17,Stark,175
+ANPL,United States,Illinois,17,Stephenson,177
+ANPL,United States,Illinois,17,Tazewell,179
+ANPL,United States,Illinois,17,Union,181
+ANPL,United States,Illinois,17,Vermilion,183
+ANPL,United States,Illinois,17,Washington,189
+ANPL,United States,Illinois,17,Wayne,191
+ANPL,United States,Illinois,17,White,193
+ANPL,United States,Illinois,17,Whiteside,195
+ANPL,United States,Illinois,17,Will,197
+ANPL,United States,Illinois,17,Williamson,199
+ANPL,United States,Illinois,17,Winnebago,201
+ANPL,United States,Illinois,17,Woodford,203
+ANPL,United States,Indiana,18,,
+ANPL,United States,Indiana,18,Clark,019
+ANPL,United States,Indiana,18,Harrison,061
+ANPL,United States,Indiana,18,Huntington,069
+ANPL,United States,Indiana,18,Jefferson,077
+ANPL,United States,Indiana,18,Kosciusko,085
+ANPL,United States,Indiana,18,Madison,095
+ANPL,United States,Indiana,18,Newton,111
+ANPL,United States,Indiana,18,Porter,127
+ANPL,United States,Indiana,18,Scott,143
+ANPL,United States,Indiana,18,Sullivan,153
+ANPL,United States,Indiana,18,Vigo,167
+ANPL,United States,Indiana,18,Wayne,177
+ANPL,United States,Iowa,19,,
+ANPL,United States,Iowa,19,Boone,015
+ANPL,United States,Iowa,19,Fremont,071
+ANPL,United States,Iowa,19,Madison,121
+ANPL,United States,Iowa,19,Mahaska,123
+ANPL,United States,Iowa,19,Shelby,165
+ANPL,United States,Iowa,19,Taylor,173
+ANPL,United States,Kentucky,21,,
+ANPL,United States,Kentucky,21,Adair,001
+ANPL,United States,Kentucky,21,Allen,003
+ANPL,United States,Kentucky,21,Anderson,005
+ANPL,United States,Kentucky,21,Barren,009
+ANPL,United States,Kentucky,21,Bell,013
+ANPL,United States,Kentucky,21,Boyle,021
+ANPL,United States,Kentucky,21,Breathitt,025
+ANPL,United States,Kentucky,21,Breckinridge,027
+ANPL,United States,Kentucky,21,Bullitt,029
+ANPL,United States,Kentucky,21,Calloway,035
+ANPL,United States,Kentucky,21,Campbell,037
+ANPL,United States,Kentucky,21,Clark,049
+ANPL,United States,Kentucky,21,Clinton,053
+ANPL,United States,Kentucky,21,Cumberland,057
+ANPL,United States,Kentucky,21,Edmonson,061
+ANPL,United States,Kentucky,21,Estill,065
+ANPL,United States,Kentucky,21,Fayette,067
+ANPL,United States,Kentucky,21,Fleming,069
+ANPL,United States,Kentucky,21,Floyd,071
+ANPL,United States,Kentucky,21,Franklin,073
+ANPL,United States,Kentucky,21,Graves,083
+ANPL,United States,Kentucky,21,Hardin,093
+ANPL,United States,Kentucky,21,Harlan,095
+ANPL,United States,Kentucky,21,Harrison,097
+ANPL,United States,Kentucky,21,Hart,099
+ANPL,United States,Kentucky,21,Henderson,101
+ANPL,United States,Kentucky,21,Henry,103
+ANPL,United States,Kentucky,21,Jackson,109
+ANPL,United States,Kentucky,21,Jefferson,111
+ANPL,United States,Kentucky,21,Jessamine,113
+ANPL,United States,Kentucky,21,Johnson,115
+ANPL,United States,Kentucky,21,Knox,121
+ANPL,United States,Kentucky,21,Laurel,125
+ANPL,United States,Kentucky,21,Lee,129
+ANPL,United States,Kentucky,21,Letcher,133
+ANPL,United States,Kentucky,21,Lewis,135
+ANPL,United States,Kentucky,21,Lincoln,137
+ANPL,United States,Kentucky,21,Logan,141
+ANPL,United States,Kentucky,21,Madison,151
+ANPL,United States,Kentucky,21,Marshall,157
+ANPL,United States,Kentucky,21,Martin,159
+ANPL,United States,Kentucky,21,McCracken,145
+ANPL,United States,Kentucky,21,McCreary,147
+ANPL,United States,Kentucky,21,McLean,149
+ANPL,United States,Kentucky,21,Meade,163
+ANPL,United States,Kentucky,21,Menifee,165
+ANPL,United States,Kentucky,21,Metcalfe,169
+ANPL,United States,Kentucky,21,Montgomery,173
+ANPL,United States,Kentucky,21,Morgan,175
+ANPL,United States,Kentucky,21,Oldham,185
+ANPL,United States,Kentucky,21,Owen,187
+ANPL,United States,Kentucky,21,Pendleton,191
+ANPL,United States,Kentucky,21,Pike,195
+ANPL,United States,Kentucky,21,Powell,197
+ANPL,United States,Kentucky,21,Pulaski,199
+ANPL,United States,Kentucky,21,Rockcastle,203
+ANPL,United States,Kentucky,21,Rowan,205
+ANPL,United States,Kentucky,21,Russell,207
+ANPL,United States,Kentucky,21,Shelby,211
+ANPL,United States,Kentucky,21,Trigg,221
+ANPL,United States,Kentucky,21,Union,225
+ANPL,United States,Kentucky,21,Warren,227
+ANPL,United States,Kentucky,21,Whitley,235
+ANPL,United States,Kentucky,21,Wolfe,237
+ANPL,United States,Louisiana,22,,
+ANPL,United States,Maine,23,,
+ANPL,United States,Maine,23,Cumberland,005
+ANPL,United States,Maine,23,Hancock,009
+ANPL,United States,Maine,23,Knox,013
+ANPL,United States,Maine,23,Oxford,017
+ANPL,United States,Maine,23,Somerset,025
+ANPL,United States,Maine,23,Waldo,027
+ANPL,United States,Maine,23,York,031
+ANPL,United States,Maryland,24,,
+ANPL,United States,Massachusetts,25,,
+ANPL,United States,Massachusetts,25,Barnstable,001
+ANPL,United States,Massachusetts,25,Berkshire,003
+ANPL,United States,Massachusetts,25,Bristol,005
+ANPL,United States,Massachusetts,25,Dukes,007
+ANPL,United States,Massachusetts,25,Essex,009
+ANPL,United States,Massachusetts,25,Franklin,011
+ANPL,United States,Massachusetts,25,Hampden,013
+ANPL,United States,Massachusetts,25,Hampshire,015
+ANPL,United States,Massachusetts,25,Middlesex,017
+ANPL,United States,Massachusetts,25,Nantucket,019
+ANPL,United States,Massachusetts,25,Norfolk,021
+ANPL,United States,Massachusetts,25,Plymouth,023
+ANPL,United States,Massachusetts,25,Suffolk,025
+ANPL,United States,Massachusetts,25,Worcester,027
+ANPL,United States,Minnesota,27,,
+ANPL,United States,Minnesota,27,Anoka,003
+ANPL,United States,Minnesota,27,Becker,005
+ANPL,United States,Minnesota,27,Blue Earth,013
+ANPL,United States,Minnesota,27,Brown,015
+ANPL,United States,Minnesota,27,Chisago,025
+ANPL,United States,Minnesota,27,Clay,027
+ANPL,United States,Minnesota,27,Clearwater,029
+ANPL,United States,Minnesota,27,Cook,031
+ANPL,United States,Minnesota,27,Crow Wing,035
+ANPL,United States,Minnesota,27,Dakota,037
+ANPL,United States,Minnesota,27,Douglas,041
+ANPL,United States,Minnesota,27,Fillmore,045
+ANPL,United States,Minnesota,27,Goodhue,049
+ANPL,United States,Minnesota,27,Hennepin,053
+ANPL,United States,Minnesota,27,Houston,055
+ANPL,United States,Minnesota,27,Hubbard,057
+ANPL,United States,Minnesota,27,Isanti,059
+ANPL,United States,Minnesota,27,Itasca,061
+ANPL,United States,Minnesota,27,Kanabec,065
+ANPL,United States,Minnesota,27,Kandiyohi,067
+ANPL,United States,Minnesota,27,Kittson,069
+ANPL,United States,Minnesota,27,Lake,075
+ANPL,United States,Minnesota,27,Lake of the Woods,077
+ANPL,United States,Minnesota,27,Morrison,097
+ANPL,United States,Minnesota,27,Mower,099
+ANPL,United States,Minnesota,27,Nobles,105
+ANPL,United States,Minnesota,27,Norman,107
+ANPL,United States,Minnesota,27,Olmsted,109
+ANPL,United States,Minnesota,27,Otter Tail,111
+ANPL,United States,Minnesota,27,Pine,115
+ANPL,United States,Minnesota,27,Pipestone,117
+ANPL,United States,Minnesota,27,Polk,119
+ANPL,United States,Minnesota,27,Pope,121
+ANPL,United States,Minnesota,27,Ramsey,123
+ANPL,United States,Minnesota,27,Rice,131
+ANPL,United States,Minnesota,27,Scott,139
+ANPL,United States,Minnesota,27,Sherburne,141
+ANPL,United States,Minnesota,27,St. Louis,137
+ANPL,United States,Minnesota,27,Stearns,145
+ANPL,United States,Minnesota,27,Todd,153
+ANPL,United States,Minnesota,27,Wabasha,157
+ANPL,United States,Minnesota,27,Waseca,161
+ANPL,United States,Minnesota,27,Washington,163
+ANPL,United States,Minnesota,27,Winona,169
+ANPL,United States,Minnesota,27,Wright,171
+ANPL,United States,Mississippi,28,,
+ANPL,United States,Mississippi,28,Alcorn,003
+ANPL,United States,Mississippi,28,Amite,005
+ANPL,United States,Mississippi,28,Attala,007
+ANPL,United States,Mississippi,28,Benton,009
+ANPL,United States,Mississippi,28,Choctaw,019
+ANPL,United States,Mississippi,28,Jasper,061
+ANPL,United States,Mississippi,28,Jefferson Davis,065
+ANPL,United States,Mississippi,28,Kemper,069
+ANPL,United States,Mississippi,28,Lafayette,071
+ANPL,United States,Mississippi,28,Lamar,073
+ANPL,United States,Mississippi,28,Lauderdale,075
+ANPL,United States,Mississippi,28,Lee,081
+ANPL,United States,Mississippi,28,Marion,091
+ANPL,United States,Mississippi,28,Marshall,093
+ANPL,United States,Mississippi,28,Noxubee,103
+ANPL,United States,Mississippi,28,Panola,107
+ANPL,United States,Mississippi,28,Pike,113
+ANPL,United States,Mississippi,28,Pontotoc,115
+ANPL,United States,Mississippi,28,Scott,123
+ANPL,United States,Mississippi,28,Smith,129
+ANPL,United States,Mississippi,28,Tippah,139
+ANPL,United States,Mississippi,28,Tishomingo,141
+ANPL,United States,Missouri,29,,
+ANPL,United States,Missouri,29,Adair,001
+ANPL,United States,Missouri,29,Atchison,005
+ANPL,United States,Missouri,29,Audrain,007
+ANPL,United States,Missouri,29,Barry,009
+ANPL,United States,Missouri,29,Barton,011
+ANPL,United States,Missouri,29,Bates,013
+ANPL,United States,Missouri,29,Benton,015
+ANPL,United States,Missouri,29,Bollinger,017
+ANPL,United States,Missouri,29,Boone,019
+ANPL,United States,Missouri,29,Buchanan,021
+ANPL,United States,Missouri,29,Butler,023
+ANPL,United States,Missouri,29,Caldwell,025
+ANPL,United States,Missouri,29,Callaway,027
+ANPL,United States,Missouri,29,Camden,029
+ANPL,United States,Missouri,29,Cape Girardeau,031
+ANPL,United States,Missouri,29,Carroll,033
+ANPL,United States,Missouri,29,Carter,035
+ANPL,United States,Missouri,29,Cass,037
+ANPL,United States,Missouri,29,Cedar,039
+ANPL,United States,Missouri,29,Chariton,041
+ANPL,United States,Missouri,29,Christian,043
+ANPL,United States,Missouri,29,Clark,045
+ANPL,United States,Missouri,29,Clinton,049
+ANPL,United States,Missouri,29,Cole,051
+ANPL,United States,Missouri,29,Cooper,053
+ANPL,United States,Missouri,29,Crawford,055
+ANPL,United States,Missouri,29,Dade,057
+ANPL,United States,Missouri,29,Dallas,059
+ANPL,United States,Missouri,29,DeKalb,063
+ANPL,United States,Missouri,29,Dent,065
+ANPL,United States,Missouri,29,Douglas,067
+ANPL,United States,Missouri,29,Dunklin,069
+ANPL,United States,Missouri,29,Franklin,071
+ANPL,United States,Missouri,29,Gasconade,073
+ANPL,United States,Missouri,29,Gentry,075
+ANPL,United States,Missouri,29,Greene,077
+ANPL,United States,Missouri,29,Grundy,079
+ANPL,United States,Missouri,29,Harrison,081
+ANPL,United States,Missouri,29,Henry,083
+ANPL,United States,Missouri,29,Howard,089
+ANPL,United States,Missouri,29,Howell,091
+ANPL,United States,Missouri,29,Iron,093
+ANPL,United States,Missouri,29,Jackson,095
+ANPL,United States,Missouri,29,Jasper,097
+ANPL,United States,Missouri,29,Jefferson,099
+ANPL,United States,Missouri,29,Johnson,101
+ANPL,United States,Missouri,29,Knox,103
+ANPL,United States,Missouri,29,Laclede,105
+ANPL,United States,Missouri,29,Lafayette,107
+ANPL,United States,Missouri,29,Lawrence,109
+ANPL,United States,Missouri,29,Lewis,111
+ANPL,United States,Missouri,29,Lincoln,113
+ANPL,United States,Missouri,29,Linn,115
+ANPL,United States,Missouri,29,Livingston,117
+ANPL,United States,Missouri,29,Macon,121
+ANPL,United States,Missouri,29,Madison,123
+ANPL,United States,Missouri,29,Maries,125
+ANPL,United States,Missouri,29,Marion,127
+ANPL,United States,Missouri,29,McDonald,119
+ANPL,United States,Missouri,29,Miller,131
+ANPL,United States,Missouri,29,Moniteau,135
+ANPL,United States,Missouri,29,Montgomery,139
+ANPL,United States,Missouri,29,Morgan,141
+ANPL,United States,Missouri,29,Newton,145
+ANPL,United States,Missouri,29,Nodaway,147
+ANPL,United States,Missouri,29,Oregon,149
+ANPL,United States,Missouri,29,Osage,151
+ANPL,United States,Missouri,29,Ozark,153
+ANPL,United States,Missouri,29,Perry,157
+ANPL,United States,Missouri,29,Pettis,159
+ANPL,United States,Missouri,29,Phelps,161
+ANPL,United States,Missouri,29,Pike,163
+ANPL,United States,Missouri,29,Platte,165
+ANPL,United States,Missouri,29,Polk,167
+ANPL,United States,Missouri,29,Pulaski,169
+ANPL,United States,Missouri,29,Putnam,171
+ANPL,United States,Missouri,29,Ralls,173
+ANPL,United States,Missouri,29,Randolph,175
+ANPL,United States,Missouri,29,Reynolds,179
+ANPL,United States,Missouri,29,Ripley,181
+ANPL,United States,Missouri,29,Saline,195
+ANPL,United States,Missouri,29,Schuyler,197
+ANPL,United States,Missouri,29,Scotland,199
+ANPL,United States,Missouri,29,Scott,201
+ANPL,United States,Missouri,29,Shannon,203
+ANPL,United States,Missouri,29,Shelby,205
+ANPL,United States,Missouri,29,St. Charles,183
+ANPL,United States,Missouri,29,St. Clair,185
+ANPL,United States,Missouri,29,St. Louis,189
+ANPL,United States,Missouri,29,Ste. Genevieve,186
+ANPL,United States,Missouri,29,Stoddard,207
+ANPL,United States,Missouri,29,Stone,209
+ANPL,United States,Missouri,29,Sullivan,211
+ANPL,United States,Missouri,29,Taney,213
+ANPL,United States,Missouri,29,Texas,215
+ANPL,United States,Missouri,29,Vernon,217
+ANPL,United States,Missouri,29,Warren,219
+ANPL,United States,Missouri,29,Washington,221
+ANPL,United States,Missouri,29,Wayne,223
+ANPL,United States,Missouri,29,Webster,225
+ANPL,United States,Missouri,29,Worth,227
+ANPL,United States,Missouri,29,Wright,229
+ANPL,United States,New Hampshire,33,,
+ANPL,United States,New Hampshire,33,Belknap,001
+ANPL,United States,New Hampshire,33,Carroll,003
+ANPL,United States,New Hampshire,33,Cheshire,005
+ANPL,United States,New Hampshire,33,Coos,007
+ANPL,United States,New Hampshire,33,Grafton,009
+ANPL,United States,New Hampshire,33,Hillsborough,011
+ANPL,United States,New Hampshire,33,Merrimack,013
+ANPL,United States,New Hampshire,33,Rockingham,015
+ANPL,United States,New Hampshire,33,Strafford,017
+ANPL,United States,New Hampshire,33,Sullivan,019
+ANPL,United States,New Jersey,34,,
+ANPL,United States,New Jersey,34,Atlantic,001
+ANPL,United States,New Jersey,34,Bergen,003
+ANPL,United States,New Jersey,34,Burlington,005
+ANPL,United States,New Jersey,34,Camden,007
+ANPL,United States,New Jersey,34,Cape May,009
+ANPL,United States,New Jersey,34,Cumberland,011
+ANPL,United States,New Jersey,34,Essex,013
+ANPL,United States,New Jersey,34,Gloucester,015
+ANPL,United States,New Jersey,34,Hudson,017
+ANPL,United States,New Jersey,34,Hunterdon,019
+ANPL,United States,New Jersey,34,Mercer,021
+ANPL,United States,New Jersey,34,Middlesex,023
+ANPL,United States,New Jersey,34,Monmouth,025
+ANPL,United States,New Jersey,34,Morris,027
+ANPL,United States,New Jersey,34,Ocean,029
+ANPL,United States,New Jersey,34,Passaic,031
+ANPL,United States,New Jersey,34,Salem,033
+ANPL,United States,New Jersey,34,Somerset,035
+ANPL,United States,New Jersey,34,Sussex,037
+ANPL,United States,New Jersey,34,Warren,041
+ANPL,United States,New York,36,,
+ANPL,United States,New York,36,Albany,001
+ANPL,United States,New York,36,Bronx,005
+ANPL,United States,New York,36,Cattaraugus,009
+ANPL,United States,New York,36,Cayuga,011
+ANPL,United States,New York,36,Columbia,021
+ANPL,United States,New York,36,Delaware,025
+ANPL,United States,New York,36,Dutchess,027
+ANPL,United States,New York,36,Erie,029
+ANPL,United States,New York,36,Essex,031
+ANPL,United States,New York,36,Livingston,051
+ANPL,United States,New York,36,Monroe,055
+ANPL,United States,New York,36,Nassau,059
+ANPL,United States,New York,36,Onondaga,067
+ANPL,United States,New York,36,Ontario,069
+ANPL,United States,New York,36,Orange,071
+ANPL,United States,New York,36,Oswego,075
+ANPL,United States,New York,36,Queens,081
+ANPL,United States,New York,36,Rensselaer,083
+ANPL,United States,New York,36,Rockland,087
+ANPL,United States,New York,36,Steuben,101
+ANPL,United States,New York,36,Suffolk,103
+ANPL,United States,New York,36,Tioga,107
+ANPL,United States,New York,36,Tompkins,109
+ANPL,United States,New York,36,Ulster,111
+ANPL,United States,New York,36,Washington,115
+ANPL,United States,New York,36,Westchester,119
+ANPL,United States,North Carolina,37,,
+ANPL,United States,North Carolina,37,Alexander,003
+ANPL,United States,North Carolina,37,Alleghany,005
+ANPL,United States,North Carolina,37,Anson,007
+ANPL,United States,North Carolina,37,Ashe,009
+ANPL,United States,North Carolina,37,Avery,011
+ANPL,United States,North Carolina,37,Beaufort,013
+ANPL,United States,North Carolina,37,Brunswick,019
+ANPL,United States,North Carolina,37,Burke,023
+ANPL,United States,North Carolina,37,Caswell,033
+ANPL,United States,North Carolina,37,Cleveland,045
+ANPL,United States,North Carolina,37,Davidson,057
+ANPL,United States,North Carolina,37,Durham,063
+ANPL,United States,North Carolina,37,Forsyth,067
+ANPL,United States,North Carolina,37,Granville,077
+ANPL,United States,North Carolina,37,Greene,079
+ANPL,United States,North Carolina,37,Guilford,081
+ANPL,United States,North Carolina,37,Harnett,085
+ANPL,United States,North Carolina,37,Haywood,087
+ANPL,United States,North Carolina,37,Henderson,089
+ANPL,United States,North Carolina,37,Hertford,091
+ANPL,United States,North Carolina,37,Hoke,093
+ANPL,United States,North Carolina,37,Iredell,097
+ANPL,United States,North Carolina,37,Jackson,099
+ANPL,United States,North Carolina,37,Lee,105
+ANPL,United States,North Carolina,37,Lincoln,109
+ANPL,United States,North Carolina,37,Macon,113
+ANPL,United States,North Carolina,37,Madison,115
+ANPL,United States,North Carolina,37,McDowell,111
+ANPL,United States,North Carolina,37,Mitchell,121
+ANPL,United States,North Carolina,37,Montgomery,123
+ANPL,United States,North Carolina,37,Moore,125
+ANPL,United States,North Carolina,37,Northampton,131
+ANPL,United States,North Carolina,37,Orange,135
+ANPL,United States,North Carolina,37,Polk,149
+ANPL,United States,North Carolina,37,Randolph,151
+ANPL,United States,North Carolina,37,Rockingham,157
+ANPL,United States,North Carolina,37,Rowan,159
+ANPL,United States,North Carolina,37,Rutherford,161
+ANPL,United States,North Carolina,37,Stanly,167
+ANPL,United States,North Carolina,37,Surry,171
+ANPL,United States,North Carolina,37,Union,179
+ANPL,United States,North Carolina,37,Vance,181
+ANPL,United States,North Carolina,37,Wake,183
+ANPL,United States,North Carolina,37,Warren,185
+ANPL,United States,North Carolina,37,Watauga,189
+ANPL,United States,Ohio,39,,
+ANPL,United States,Pennsylvania,42,,
+ANPL,United States,Pennsylvania,42,Adams,001
+ANPL,United States,Pennsylvania,42,Allegheny,003
+ANPL,United States,Pennsylvania,42,Armstrong,005
+ANPL,United States,Pennsylvania,42,Beaver,007
+ANPL,United States,Pennsylvania,42,Bedford,009
+ANPL,United States,Pennsylvania,42,Berks,011
+ANPL,United States,Pennsylvania,42,Blair,013
+ANPL,United States,Pennsylvania,42,Bradford,015
+ANPL,United States,Pennsylvania,42,Bucks,017
+ANPL,United States,Pennsylvania,42,Butler,019
+ANPL,United States,Pennsylvania,42,Cameron,023
+ANPL,United States,Pennsylvania,42,Carbon,025
+ANPL,United States,Pennsylvania,42,Centre,027
+ANPL,United States,Pennsylvania,42,Chester,029
+ANPL,United States,Pennsylvania,42,Clarion,031
+ANPL,United States,Pennsylvania,42,Clearfield,033
+ANPL,United States,Pennsylvania,42,Clinton,035
+ANPL,United States,Pennsylvania,42,Columbia,037
+ANPL,United States,Pennsylvania,42,Cumberland,041
+ANPL,United States,Pennsylvania,42,Dauphin,043
+ANPL,United States,Pennsylvania,42,Delaware,045
+ANPL,United States,Pennsylvania,42,Elk,047
+ANPL,United States,Pennsylvania,42,Erie,049
+ANPL,United States,Pennsylvania,42,Fayette,051
+ANPL,United States,Pennsylvania,42,Forest,053
+ANPL,United States,Pennsylvania,42,Franklin,055
+ANPL,United States,Pennsylvania,42,Fulton,057
+ANPL,United States,Pennsylvania,42,Greene,059
+ANPL,United States,Pennsylvania,42,Huntingdon,061
+ANPL,United States,Pennsylvania,42,Indiana,063
+ANPL,United States,Pennsylvania,42,Juniata,067
+ANPL,United States,Pennsylvania,42,Lackawanna,069
+ANPL,United States,Pennsylvania,42,Lancaster,071
+ANPL,United States,Pennsylvania,42,Lawrence,073
+ANPL,United States,Pennsylvania,42,Lebanon,075
+ANPL,United States,Pennsylvania,42,Lehigh,077
+ANPL,United States,Pennsylvania,42,Luzerne,079
+ANPL,United States,Pennsylvania,42,Lycoming,081
+ANPL,United States,Pennsylvania,42,Mifflin,087
+ANPL,United States,Pennsylvania,42,Monroe,089
+ANPL,United States,Pennsylvania,42,Montgomery,091
+ANPL,United States,Pennsylvania,42,Northampton,095
+ANPL,United States,Pennsylvania,42,Northumberland,097
+ANPL,United States,Pennsylvania,42,Perry,099
+ANPL,United States,Pennsylvania,42,Philadelphia,101
+ANPL,United States,Pennsylvania,42,Pike,103
+ANPL,United States,Pennsylvania,42,Schuylkill,107
+ANPL,United States,Pennsylvania,42,Snyder,109
+ANPL,United States,Pennsylvania,42,Somerset,111
+ANPL,United States,Pennsylvania,42,Sullivan,113
+ANPL,United States,Pennsylvania,42,Union,119
+ANPL,United States,Pennsylvania,42,Venango,121
+ANPL,United States,Pennsylvania,42,Warren,123
+ANPL,United States,Pennsylvania,42,Washington,125
+ANPL,United States,Pennsylvania,42,Westmoreland,129
+ANPL,United States,Pennsylvania,42,Wyoming,131
+ANPL,United States,Pennsylvania,42,York,133
+ANPL,United States,Rhode Island,44,,
+ANPL,United States,Rhode Island,44,Bristol,001
+ANPL,United States,Rhode Island,44,Newport,005
+ANPL,United States,Rhode Island,44,Providence,007
+ANPL,United States,South Carolina,45,,
+ANPL,United States,South Carolina,45,Abbeville,001
+ANPL,United States,South Carolina,45,Aiken,003
+ANPL,United States,South Carolina,45,Berkeley,015
+ANPL,United States,South Carolina,45,Cherokee,021
+ANPL,United States,South Carolina,45,Chester,023
+ANPL,United States,South Carolina,45,Darlington,031
+ANPL,United States,South Carolina,45,Edgefield,037
+ANPL,United States,South Carolina,45,Greenwood,047
+ANPL,United States,South Carolina,45,Lancaster,057
+ANPL,United States,South Carolina,45,Laurens,059
+ANPL,United States,South Carolina,45,McCormick,065
+ANPL,United States,South Carolina,45,Newberry,071
+ANPL,United States,South Carolina,45,Pickens,077
+ANPL,United States,South Carolina,45,Richland,079
+ANPL,United States,South Carolina,45,Spartanburg,083
+ANPL,United States,South Carolina,45,Union,087
+ANPL,United States,South Carolina,45,York,091
+ANPL,United States,Tennessee,47,,
+ANPL,United States,Tennessee,47,Anderson,001
+ANPL,United States,Tennessee,47,Benton,005
+ANPL,United States,Tennessee,47,Bledsoe,007
+ANPL,United States,Tennessee,47,Blount,009
+ANPL,United States,Tennessee,47,Bradley,011
+ANPL,United States,Tennessee,47,Campbell,013
+ANPL,United States,Tennessee,47,Carter,019
+ANPL,United States,Tennessee,47,Cheatham,021
+ANPL,United States,Tennessee,47,Claiborne,025
+ANPL,United States,Tennessee,47,Clay,027
+ANPL,United States,Tennessee,47,Cocke,029
+ANPL,United States,Tennessee,47,Coffee,031
+ANPL,United States,Tennessee,47,Cumberland,035
+ANPL,United States,Tennessee,47,Davidson,037
+ANPL,United States,Tennessee,47,Decatur,039
+ANPL,United States,Tennessee,47,Dickson,043
+ANPL,United States,Tennessee,47,Fentress,049
+ANPL,United States,Tennessee,47,Franklin,051
+ANPL,United States,Tennessee,47,Giles,055
+ANPL,United States,Tennessee,47,Grainger,057
+ANPL,United States,Tennessee,47,Greene,059
+ANPL,United States,Tennessee,47,Grundy,061
+ANPL,United States,Tennessee,47,Hamilton,065
+ANPL,United States,Tennessee,47,Hardeman,069
+ANPL,United States,Tennessee,47,Hardin,071
+ANPL,United States,Tennessee,47,Hawkins,073
+ANPL,United States,Tennessee,47,Haywood,075
+ANPL,United States,Tennessee,47,Henry,079
+ANPL,United States,Tennessee,47,Hickman,081
+ANPL,United States,Tennessee,47,Houston,083
+ANPL,United States,Tennessee,47,Humphreys,085
+ANPL,United States,Tennessee,47,Jefferson,089
+ANPL,United States,Tennessee,47,Knox,093
+ANPL,United States,Tennessee,47,Lauderdale,097
+ANPL,United States,Tennessee,47,Lawrence,099
+ANPL,United States,Tennessee,47,Lewis,101
+ANPL,United States,Tennessee,47,Marion,115
+ANPL,United States,Tennessee,47,Maury,119
+ANPL,United States,Tennessee,47,McNairy,109
+ANPL,United States,Tennessee,47,Monroe,123
+ANPL,United States,Tennessee,47,Montgomery,125
+ANPL,United States,Tennessee,47,Morgan,129
+ANPL,United States,Tennessee,47,Overton,133
+ANPL,United States,Tennessee,47,Pickett,137
+ANPL,United States,Tennessee,47,Polk,139
+ANPL,United States,Tennessee,47,Putnam,141
+ANPL,United States,Tennessee,47,Rhea,143
+ANPL,United States,Tennessee,47,Roane,145
+ANPL,United States,Tennessee,47,Robertson,147
+ANPL,United States,Tennessee,47,Rutherford,149
+ANPL,United States,Tennessee,47,Sevier,155
+ANPL,United States,Tennessee,47,Shelby,157
+ANPL,United States,Tennessee,47,Stewart,161
+ANPL,United States,Tennessee,47,Sumner,165
+ANPL,United States,Tennessee,47,Unicoi,171
+ANPL,United States,Tennessee,47,Union,173
+ANPL,United States,Tennessee,47,Van Buren,175
+ANPL,United States,Tennessee,47,Warren,177
+ANPL,United States,Tennessee,47,Wayne,181
+ANPL,United States,Tennessee,47,White,185
+ANPL,United States,Tennessee,47,Williamson,187
+ANPL,United States,Tennessee,47,Wilson,189
+ANPL,United States,Texas,48,,
+ANPL,United States,Texas,48,Lamar,277
+ANPL,United States,Texas,48,Morris,343
+ANPL,United States,Vermont,50,,
+ANPL,United States,Vermont,50,Addison,001
+ANPL,United States,Vermont,50,Bennington,003
+ANPL,United States,Vermont,50,Chittenden,007
+ANPL,United States,Vermont,50,Rutland,021
+ANPL,United States,Vermont,50,Windham,025
+ANPL,United States,Virginia,51,,
+ANPL,United States,Virginia,51,Accomack,001
+ANPL,United States,Virginia,51,Albemarle,003
+ANPL,United States,Virginia,51,Amelia,007
+ANPL,United States,Virginia,51,Amherst,009
+ANPL,United States,Virginia,51,Appomattox,011
+ANPL,United States,Virginia,51,Arlington,013
+ANPL,United States,Virginia,51,Augusta,015
+ANPL,United States,Virginia,51,Bath,017
+ANPL,United States,Virginia,51,Bedford,019
+ANPL,United States,Virginia,51,Bland,021
+ANPL,United States,Virginia,51,Botetourt,023
+ANPL,United States,Virginia,51,Brunswick,025
+ANPL,United States,Virginia,51,Buchanan,027
+ANPL,United States,Virginia,51,Buckingham,029
+ANPL,United States,Virginia,51,Campbell,031
+ANPL,United States,Virginia,51,Caroline,033
+ANPL,United States,Virginia,51,Carroll,035
+ANPL,United States,Virginia,51,Charles City,036
+ANPL,United States,Virginia,51,Charlotte,037
+ANPL,United States,Virginia,51,Chesapeake ,550
+ANPL,United States,Virginia,51,Chesterfield,041
+ANPL,United States,Virginia,51,Clarke,043
+ANPL,United States,Virginia,51,Craig,045
+ANPL,United States,Virginia,51,Culpeper,047
+ANPL,United States,Virginia,51,Cumberland,049
+ANPL,United States,Virginia,51,Dickenson,051
+ANPL,United States,Virginia,51,Dinwiddie,053
+ANPL,United States,Virginia,51,Essex,057
+ANPL,United States,Virginia,51,Fairfax,059
+ANPL,United States,Virginia,51,Fauquier,061
+ANPL,United States,Virginia,51,Floyd,063
+ANPL,United States,Virginia,51,Fluvanna,065
+ANPL,United States,Virginia,51,Franklin,067
+ANPL,United States,Virginia,51,Frederick,069
+ANPL,United States,Virginia,51,Giles,071
+ANPL,United States,Virginia,51,Gloucester,073
+ANPL,United States,Virginia,51,Goochland,075
+ANPL,United States,Virginia,51,Grayson,077
+ANPL,United States,Virginia,51,Greene,079
+ANPL,United States,Virginia,51,Halifax,083
+ANPL,United States,Virginia,51,Hanover,085
+ANPL,United States,Virginia,51,Henrico,087
+ANPL,United States,Virginia,51,Henry,089
+ANPL,United States,Virginia,51,Highland,091
+ANPL,United States,Virginia,51,Isle of Wight,093
+ANPL,United States,Virginia,51,James City,095
+ANPL,United States,Virginia,51,King and Queen,097
+ANPL,United States,Virginia,51,King George,099
+ANPL,United States,Virginia,51,King William,101
+ANPL,United States,Virginia,51,Lancaster,103
+ANPL,United States,Virginia,51,Lee,105
+ANPL,United States,Virginia,51,Loudoun,107
+ANPL,United States,Virginia,51,Louisa,109
+ANPL,United States,Virginia,51,Lunenburg,111
+ANPL,United States,Virginia,51,Madison,113
+ANPL,United States,Virginia,51,Mathews,115
+ANPL,United States,Virginia,51,Mecklenburg,117
+ANPL,United States,Virginia,51,Middlesex,119
+ANPL,United States,Virginia,51,Montgomery,121
+ANPL,United States,Virginia,51,Nelson,125
+ANPL,United States,Virginia,51,New Kent,127
+ANPL,United States,Virginia,51,Newport News ,700
+ANPL,United States,Virginia,51,Northampton,131
+ANPL,United States,Virginia,51,Northumberland,133
+ANPL,United States,Virginia,51,Nottoway,135
+ANPL,United States,Virginia,51,Orange,137
+ANPL,United States,Virginia,51,Page,139
+ANPL,United States,Virginia,51,Patrick,141
+ANPL,United States,Virginia,51,Pittsylvania,143
+ANPL,United States,Virginia,51,Powhatan,145
+ANPL,United States,Virginia,51,Prince Edward,147
+ANPL,United States,Virginia,51,Prince George,149
+ANPL,United States,Virginia,51,Prince William,153
+ANPL,United States,Virginia,51,Pulaski,155
+ANPL,United States,Virginia,51,Rappahannock,157
+ANPL,United States,Virginia,51,Richmond,159
+ANPL,United States,Virginia,51,Roanoke,161
+ANPL,United States,Virginia,51,Rockbridge,163
+ANPL,United States,Virginia,51,Rockingham,165
+ANPL,United States,Virginia,51,Russell,167
+ANPL,United States,Virginia,51,Scott,169
+ANPL,United States,Virginia,51,Shenandoah,171
+ANPL,United States,Virginia,51,Smyth,173
+ANPL,United States,Virginia,51,Southampton,175
+ANPL,United States,Virginia,51,Spotsylvania,177
+ANPL,United States,Virginia,51,Stafford,179
+ANPL,United States,Virginia,51,Suffolk ,800
+ANPL,United States,Virginia,51,Surry,181
+ANPL,United States,Virginia,51,Sussex,183
+ANPL,United States,Virginia,51,Virginia Beach ,810
+ANPL,United States,Virginia,51,Warren,187
+ANPL,United States,Virginia,51,Washington,191
+ANPL,United States,Virginia,51,Westmoreland,193
+ANPL,United States,Virginia,51,Wise,195
+ANPL,United States,Virginia,51,Wythe,197
+ANPL,United States,Virginia,51,York,199
+ANPL,United States,West Virginia,54,,
+ANPL,United States,West Virginia,54,Berkeley,003
+ANPL,United States,West Virginia,54,Gilmer,021
+ANPL,United States,West Virginia,54,Grant,023
+ANPL,United States,West Virginia,54,Hampshire,027
+ANPL,United States,West Virginia,54,Hardy,031
+ANPL,United States,West Virginia,54,Lincoln,043
+ANPL,United States,West Virginia,54,McDowell,047
+ANPL,United States,West Virginia,54,Monroe,063
+ANPL,United States,West Virginia,54,Morgan,065
+ANPL,United States,West Virginia,54,Roane,087
+ANPL,United States,West Virginia,54,Summers,089
+ANPL,United States,West Virginia,54,Wayne,099
+ANPL,United States,Wisconsin,55,,
+ANPL,United States,Wisconsin,55,Adams,001
+ANPL,United States,Wisconsin,55,Bayfield,007
+ANPL,United States,Wisconsin,55,Brown,009
+ANPL,United States,Wisconsin,55,Buffalo,011
+ANPL,United States,Wisconsin,55,Calumet,015
+ANPL,United States,Wisconsin,55,Columbia,021
+ANPL,United States,Wisconsin,55,Crawford,023
+ANPL,United States,Wisconsin,55,Dane,025
+ANPL,United States,Wisconsin,55,Dodge,027
+ANPL,United States,Wisconsin,55,Door,029
+ANPL,United States,Wisconsin,55,Douglas,031
+ANPL,United States,Wisconsin,55,Grant,043
+ANPL,United States,Wisconsin,55,Green,045
+ANPL,United States,Wisconsin,55,Iowa,049
+ANPL,United States,Wisconsin,55,Jackson,053
+ANPL,United States,Wisconsin,55,Jefferson,055
+ANPL,United States,Wisconsin,55,Kenosha,059
+ANPL,United States,Wisconsin,55,La Crosse,063
+ANPL,United States,Wisconsin,55,Marinette,075
+ANPL,United States,Wisconsin,55,Monroe,081
+ANPL,United States,Wisconsin,55,Oconto,083
+ANPL,United States,Wisconsin,55,Pierce,093
+ANPL,United States,Wisconsin,55,Portage,097
+ANPL,United States,Wisconsin,55,Racine,101
+ANPL,United States,Wisconsin,55,Richland,103
+ANPL,United States,Wisconsin,55,Rock,105
+ANPL,United States,Wisconsin,55,Sauk,111
+ANPL,United States,Wisconsin,55,St. Croix,109
+ANPL,United States,Wisconsin,55,Trempealeau,121
+ANPL,United States,Wisconsin,55,Walworth,127
+ANPL,United States,Wisconsin,55,Washburn,129
+ANPL,United States,Wisconsin,55,Waukesha,133
+ANPL,United States,Wisconsin,55,Waushara,137
+ANPL,United States,Wisconsin,55,Wood,141

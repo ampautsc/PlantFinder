@@ -1,0 +1,40 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+LUPEP3,Canada,Ontario,08,,
+LUPEP3,United States,Connecticut,09,,
+LUPEP3,United States,Delaware,10,,
+LUPEP3,United States,Delaware,10,Kent,001
+LUPEP3,United States,Delaware,10,New Castle,003
+LUPEP3,United States,Delaware,10,Sussex,005
+LUPEP3,United States,District of Columbia,11,,
+LUPEP3,United States,District of Columbia,11,District of Columbia,001
+LUPEP3,United States,Georgia,13,,
+LUPEP3,United States,Kentucky,21,,
+LUPEP3,United States,Kentucky,21,Rockcastle,203
+LUPEP3,United States,Maine,23,,
+LUPEP3,United States,Maine,23,Aroostook,003
+LUPEP3,United States,Maine,23,Oxford,017
+LUPEP3,United States,Maryland,24,,
+LUPEP3,United States,Massachusetts,25,,
+LUPEP3,United States,Michigan,26,,
+LUPEP3,United States,Minnesota,27,,
+LUPEP3,United States,New Hampshire,33,,
+LUPEP3,United States,New Jersey,34,,
+LUPEP3,United States,New York,36,,
+LUPEP3,United States,North Carolina,37,,
+LUPEP3,United States,Ohio,39,,
+LUPEP3,United States,Pennsylvania,42,,
+LUPEP3,United States,Rhode Island,44,,
+LUPEP3,United States,Rhode Island,44,Kent,003
+LUPEP3,United States,Rhode Island,44,Providence,007
+LUPEP3,United States,Rhode Island,44,Washington,009
+LUPEP3,United States,South Carolina,45,,
+LUPEP3,United States,Vermont,50,,
+LUPEP3,United States,Virginia,51,,
+LUPEP3,United States,West Virginia,54,,
+LUPEP3,United States,Wisconsin,55,,
+LUPEP3,United States,Wisconsin,55,Adams,001
+LUPEP3,United States,Wisconsin,55,Columbia,021
+LUPEP3,United States,Wisconsin,55,Jackson,053
+LUPEP3,United States,Wisconsin,55,Oconto,083
+LUPEP3,Canada,Newfoundland,NF,,

@@ -1,0 +1,150 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SOMUS,Canada,Alberta,01,,
+SOMUS,Canada,British Columbia,02,,
+SOMUS,United States,Alaska,02,,
+SOMUS,United States,Arizona,04,,
+SOMUS,United States,Arizona,04,Apache,001
+SOMUS,United States,Arizona,04,Coconino,005
+SOMUS,United States,California,06,,
+SOMUS,United States,California,06,Alpine,003
+SOMUS,United States,California,06,El Dorado,017
+SOMUS,United States,California,06,Fresno,019
+SOMUS,United States,California,06,Inyo,027
+SOMUS,United States,California,06,Madera,039
+SOMUS,United States,California,06,Mariposa,043
+SOMUS,United States,California,06,Mono,051
+SOMUS,United States,California,06,Placer,061
+SOMUS,United States,California,06,Siskiyou,093
+SOMUS,United States,California,06,Trinity,105
+SOMUS,United States,California,06,Tulare,107
+SOMUS,United States,California,06,Tuolumne,109
+SOMUS,United States,Colorado,08,,
+SOMUS,United States,Colorado,08,Archuleta,007
+SOMUS,United States,Colorado,08,Clear Creek,019
+SOMUS,United States,Colorado,08,Costilla,023
+SOMUS,United States,Colorado,08,Custer,027
+SOMUS,United States,Colorado,08,Delta,029
+SOMUS,United States,Colorado,08,Dolores,033
+SOMUS,United States,Colorado,08,Eagle,037
+SOMUS,United States,Colorado,08,El Paso,041
+SOMUS,United States,Colorado,08,Garfield,045
+SOMUS,United States,Colorado,08,Gilpin,047
+SOMUS,United States,Colorado,08,Grand,049
+SOMUS,United States,Colorado,08,Gunnison,051
+SOMUS,United States,Colorado,08,Hinsdale,053
+SOMUS,United States,Colorado,08,Huerfano,055
+SOMUS,United States,Colorado,08,Jackson,057
+SOMUS,United States,Colorado,08,Jefferson,059
+SOMUS,United States,Colorado,08,Lake,065
+SOMUS,United States,Colorado,08,Larimer,069
+SOMUS,United States,Colorado,08,Las Animas,071
+SOMUS,United States,Colorado,08,Mesa,077
+SOMUS,United States,Colorado,08,Montezuma,083
+SOMUS,United States,Colorado,08,Park,093
+SOMUS,United States,Colorado,08,Pitkin,097
+SOMUS,United States,Colorado,08,Rio Blanco,103
+SOMUS,United States,Colorado,08,Routt,107
+SOMUS,United States,Colorado,08,San Juan,111
+SOMUS,United States,Colorado,08,San Miguel,113
+SOMUS,United States,Colorado,08,Teller,119
+SOMUS,United States,Idaho,16,,
+SOMUS,United States,Idaho,16,Bear Lake,007
+SOMUS,United States,Idaho,16,Blaine,013
+SOMUS,United States,Idaho,16,Boise,015
+SOMUS,United States,Idaho,16,Boundary,021
+SOMUS,United States,Idaho,16,Camas,025
+SOMUS,United States,Idaho,16,Cassia,031
+SOMUS,United States,Idaho,16,Clark,033
+SOMUS,United States,Idaho,16,Custer,037
+SOMUS,United States,Idaho,16,Fremont,043
+SOMUS,United States,Idaho,16,Idaho,049
+SOMUS,United States,Idaho,16,Lemhi,059
+SOMUS,United States,Idaho,16,Shoshone,079
+SOMUS,United States,Idaho,16,Teton,081
+SOMUS,United States,Idaho,16,Valley,085
+SOMUS,United States,Montana,30,,
+SOMUS,United States,Montana,30,Beaverhead,001
+SOMUS,United States,Montana,30,Carbon,009
+SOMUS,United States,Montana,30,Cascade,013
+SOMUS,United States,Montana,30,Chouteau,015
+SOMUS,United States,Montana,30,Flathead,029
+SOMUS,United States,Montana,30,Gallatin,031
+SOMUS,United States,Montana,30,Glacier,035
+SOMUS,United States,Montana,30,Judith Basin,045
+SOMUS,United States,Montana,30,Park,067
+SOMUS,United States,Montana,30,Powell,077
+SOMUS,United States,Montana,30,Ravalli,081
+SOMUS,United States,Montana,30,Silver Bow,093
+SOMUS,United States,Montana,30,Stillwater,095
+SOMUS,United States,Nevada,32,,
+SOMUS,United States,Nevada,32,Elko,007
+SOMUS,United States,Nevada,32,Nye,023
+SOMUS,United States,Nevada,32,Washoe,031
+SOMUS,United States,Nevada,32,White Pine,033
+SOMUS,United States,New Mexico,35,,
+SOMUS,United States,New Mexico,35,Catron,003
+SOMUS,United States,New Mexico,35,Grant,017
+SOMUS,United States,New Mexico,35,Lincoln,027
+SOMUS,United States,New Mexico,35,Los Alamos,028
+SOMUS,United States,New Mexico,35,Rio Arriba,039
+SOMUS,United States,Oregon,41,,
+SOMUS,United States,Oregon,41,Baker,001
+SOMUS,United States,Oregon,41,Crook,013
+SOMUS,United States,Oregon,41,Deschutes,017
+SOMUS,United States,Oregon,41,Grant,023
+SOMUS,United States,Oregon,41,Harney,025
+SOMUS,United States,Oregon,41,Jackson,029
+SOMUS,United States,Oregon,41,Josephine,033
+SOMUS,United States,Oregon,41,Klamath,035
+SOMUS,United States,Oregon,41,Union,061
+SOMUS,United States,Oregon,41,Wallowa,063
+SOMUS,United States,Utah,49,,
+SOMUS,United States,Utah,49,Beaver,001
+SOMUS,United States,Utah,49,Cache,005
+SOMUS,United States,Utah,49,Carbon,007
+SOMUS,United States,Utah,49,Daggett,009
+SOMUS,United States,Utah,49,Duchesne,013
+SOMUS,United States,Utah,49,Garfield,017
+SOMUS,United States,Utah,49,Grand,019
+SOMUS,United States,Utah,49,Iron,021
+SOMUS,United States,Utah,49,Juab,023
+SOMUS,United States,Utah,49,Kane,025
+SOMUS,United States,Utah,49,Piute,031
+SOMUS,United States,Utah,49,Salt Lake,035
+SOMUS,United States,Utah,49,San Juan,037
+SOMUS,United States,Utah,49,Sanpete,039
+SOMUS,United States,Utah,49,Sevier,041
+SOMUS,United States,Utah,49,Summit,043
+SOMUS,United States,Utah,49,Uintah,047
+SOMUS,United States,Utah,49,Utah,049
+SOMUS,United States,Utah,49,Wasatch,051
+SOMUS,United States,Utah,49,Wayne,055
+SOMUS,United States,Washington,53,,
+SOMUS,United States,Washington,53,Chelan,007
+SOMUS,United States,Washington,53,Clallam,009
+SOMUS,United States,Washington,53,Grays Harbor,027
+SOMUS,United States,Washington,53,Jefferson,031
+SOMUS,United States,Washington,53,King,033
+SOMUS,United States,Washington,53,Kittitas,037
+SOMUS,United States,Washington,53,Mason,045
+SOMUS,United States,Washington,53,Okanogan,047
+SOMUS,United States,Washington,53,Pend Oreille,051
+SOMUS,United States,Washington,53,Pierce,053
+SOMUS,United States,Washington,53,Skagit,057
+SOMUS,United States,Washington,53,Skamania,059
+SOMUS,United States,Washington,53,Snohomish,061
+SOMUS,United States,Washington,53,Whatcom,073
+SOMUS,United States,Washington,53,Yakima,077
+SOMUS,United States,Wyoming,56,,
+SOMUS,United States,Wyoming,56,Albany,001
+SOMUS,United States,Wyoming,56,Big Horn,003
+SOMUS,United States,Wyoming,56,Carbon,007
+SOMUS,United States,Wyoming,56,Fremont,013
+SOMUS,United States,Wyoming,56,Hot Springs,017
+SOMUS,United States,Wyoming,56,Johnson,019
+SOMUS,United States,Wyoming,56,Lincoln,023
+SOMUS,United States,Wyoming,56,Park,029
+SOMUS,United States,Wyoming,56,Sheridan,033
+SOMUS,United States,Wyoming,56,Sublette,035
+SOMUS,United States,Wyoming,56,Teton,039

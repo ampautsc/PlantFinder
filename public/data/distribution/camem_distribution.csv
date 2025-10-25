@@ -1,0 +1,40 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+CAMEM,Canada,Alberta,01,,
+CAMEM,Canada,British Columbia,02,,
+CAMEM,United States,Alaska,02,,
+CAMEM,United States,Alaska,02,Juneau,110
+CAMEM,United States,Alaska,02,Ketchikan Gateway,130
+CAMEM,United States,Alaska,02,Sitka,220
+CAMEM,United States,California,06,,
+CAMEM,United States,California,06,Alpine,003
+CAMEM,United States,California,06,El Dorado,017
+CAMEM,United States,California,06,Fresno,019
+CAMEM,United States,California,06,Inyo,027
+CAMEM,United States,California,06,Lassen,035
+CAMEM,United States,California,06,Madera,039
+CAMEM,United States,California,06,Mono,051
+CAMEM,United States,California,06,Nevada,057
+CAMEM,United States,California,06,Placer,061
+CAMEM,United States,California,06,Plumas,063
+CAMEM,United States,California,06,Shasta,089
+CAMEM,United States,California,06,Siskiyou,093
+CAMEM,United States,California,06,Trinity,105
+CAMEM,United States,California,06,Tuolumne,109
+CAMEM,Canada,Yukon,12,,
+CAMEM,United States,Idaho,16,,
+CAMEM,United States,Idaho,16,Bonner,017
+CAMEM,United States,Oregon,41,,
+CAMEM,United States,Oregon,41,Deschutes,017
+CAMEM,United States,Oregon,41,Hood River,027
+CAMEM,United States,Oregon,41,Jefferson,031
+CAMEM,United States,Oregon,41,Lane,039
+CAMEM,United States,Oregon,41,Linn,043
+CAMEM,United States,Oregon,41,Marion,047
+CAMEM,United States,Washington,53,,
+CAMEM,United States,Washington,53,Chelan,007
+CAMEM,United States,Washington,53,Clallam,009
+CAMEM,United States,Washington,53,King,033
+CAMEM,United States,Washington,53,Kittitas,037
+CAMEM,United States,Washington,53,Okanogan,047
+CAMEM,United States,Washington,53,Whatcom,073

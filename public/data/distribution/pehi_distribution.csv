@@ -1,0 +1,369 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+PEHI,Canada,Ontario,08,,
+PEHI,United States,Connecticut,09,,
+PEHI,United States,Connecticut,09,Fairfield,001
+PEHI,United States,Connecticut,09,Litchfield,005
+PEHI,United States,Connecticut,09,New Haven,009
+PEHI,Canada,Quebec,10,,
+PEHI,United States,Delaware,10,,
+PEHI,United States,Delaware,10,New Castle,003
+PEHI,United States,District of Columbia,11,,
+PEHI,United States,District of Columbia,11,District of Columbia,001
+PEHI,United States,Illinois,17,,
+PEHI,United States,Illinois,17,Adams,001
+PEHI,United States,Illinois,17,Cook,031
+PEHI,United States,Illinois,17,DuPage,043
+PEHI,United States,Illinois,17,Grundy,063
+PEHI,United States,Illinois,17,Hardin,069
+PEHI,United States,Illinois,17,Henderson,071
+PEHI,United States,Illinois,17,Henry,073
+PEHI,United States,Illinois,17,Jackson,077
+PEHI,United States,Illinois,17,Jefferson,081
+PEHI,United States,Illinois,17,LaSalle,099
+PEHI,United States,Illinois,17,Marion,121
+PEHI,United States,Illinois,17,Ogle,141
+PEHI,United States,Illinois,17,Pike,149
+PEHI,United States,Illinois,17,Pope,151
+PEHI,United States,Illinois,17,Saline,165
+PEHI,United States,Illinois,17,Sangamon,167
+PEHI,United States,Illinois,17,St. Clair,163
+PEHI,United States,Illinois,17,Tazewell,179
+PEHI,United States,Illinois,17,Union,181
+PEHI,United States,Illinois,17,White,193
+PEHI,United States,Illinois,17,Will,197
+PEHI,United States,Illinois,17,Winnebago,201
+PEHI,United States,Indiana,18,,
+PEHI,United States,Indiana,18,Allen,003
+PEHI,United States,Indiana,18,Cass,017
+PEHI,United States,Indiana,18,Clark,019
+PEHI,United States,Indiana,18,Crawford,025
+PEHI,United States,Indiana,18,DeKalb,033
+PEHI,United States,Indiana,18,Elkhart,039
+PEHI,United States,Indiana,18,Floyd,043
+PEHI,United States,Indiana,18,Hamilton,057
+PEHI,United States,Indiana,18,Harrison,061
+PEHI,United States,Indiana,18,Huntington,069
+PEHI,United States,Indiana,18,Jasper,073
+PEHI,United States,Indiana,18,Jefferson,077
+PEHI,United States,Indiana,18,Kosciusko,085
+PEHI,United States,Indiana,18,Lake,089
+PEHI,United States,Indiana,18,LaPorte,091
+PEHI,United States,Indiana,18,Lawrence,093
+PEHI,United States,Indiana,18,Marion,097
+PEHI,United States,Indiana,18,Miami,103
+PEHI,United States,Indiana,18,Montgomery,107
+PEHI,United States,Indiana,18,Newton,111
+PEHI,United States,Indiana,18,Noble,113
+PEHI,United States,Indiana,18,Parke,121
+PEHI,United States,Indiana,18,Perry,123
+PEHI,United States,Indiana,18,Spencer,147
+PEHI,United States,Indiana,18,St. Joseph,141
+PEHI,United States,Indiana,18,Starke,149
+PEHI,United States,Indiana,18,Steuben,151
+PEHI,United States,Indiana,18,Sullivan,153
+PEHI,United States,Indiana,18,Switzerland,155
+PEHI,United States,Indiana,18,Tippecanoe,157
+PEHI,United States,Indiana,18,Vanderburgh,163
+PEHI,United States,Indiana,18,Wabash,169
+PEHI,United States,Indiana,18,Warren,171
+PEHI,United States,Indiana,18,Warrick,173
+PEHI,United States,Indiana,18,Wells,179
+PEHI,United States,Kentucky,21,,
+PEHI,United States,Kentucky,21,Anderson,005
+PEHI,United States,Kentucky,21,Barren,009
+PEHI,United States,Kentucky,21,Bourbon,017
+PEHI,United States,Kentucky,21,Carter,043
+PEHI,United States,Kentucky,21,Clark,049
+PEHI,United States,Kentucky,21,Estill,065
+PEHI,United States,Kentucky,21,Fayette,067
+PEHI,United States,Kentucky,21,Franklin,073
+PEHI,United States,Kentucky,21,Gallatin,077
+PEHI,United States,Kentucky,21,Hardin,093
+PEHI,United States,Kentucky,21,Hart,099
+PEHI,United States,Kentucky,21,Jessamine,113
+PEHI,United States,Kentucky,21,Lee,129
+PEHI,United States,Kentucky,21,Lincoln,137
+PEHI,United States,Kentucky,21,Madison,151
+PEHI,United States,Kentucky,21,Meade,163
+PEHI,United States,Kentucky,21,Mercer,167
+PEHI,United States,Kentucky,21,Nicholas,181
+PEHI,United States,Kentucky,21,Owen,187
+PEHI,United States,Kentucky,21,Powell,197
+PEHI,United States,Kentucky,21,Robertson,201
+PEHI,United States,Kentucky,21,Scott,209
+PEHI,United States,Kentucky,21,Warren,227
+PEHI,United States,Kentucky,21,Woodford,239
+PEHI,United States,Maine,23,,
+PEHI,United States,Maine,23,Penobscot,019
+PEHI,United States,Maryland,24,,
+PEHI,United States,Massachusetts,25,,
+PEHI,United States,Massachusetts,25,Berkshire,003
+PEHI,United States,Massachusetts,25,Essex,009
+PEHI,United States,Massachusetts,25,Franklin,011
+PEHI,United States,Massachusetts,25,Hampshire,015
+PEHI,United States,Massachusetts,25,Middlesex,017
+PEHI,United States,Massachusetts,25,Norfolk,021
+PEHI,United States,Massachusetts,25,Plymouth,023
+PEHI,United States,Massachusetts,25,Worcester,027
+PEHI,United States,Michigan,26,,
+PEHI,United States,Michigan,26,Alger,003
+PEHI,United States,Michigan,26,Allegan,005
+PEHI,United States,Michigan,26,Alpena,007
+PEHI,United States,Michigan,26,Barry,015
+PEHI,United States,Michigan,26,Bay,017
+PEHI,United States,Michigan,26,Berrien,021
+PEHI,United States,Michigan,26,Branch,023
+PEHI,United States,Michigan,26,Calhoun,025
+PEHI,United States,Michigan,26,Clinton,037
+PEHI,United States,Michigan,26,Eaton,045
+PEHI,United States,Michigan,26,Emmet,047
+PEHI,United States,Michigan,26,Gratiot,057
+PEHI,United States,Michigan,26,Hillsdale,059
+PEHI,United States,Michigan,26,Ingham,065
+PEHI,United States,Michigan,26,Ionia,067
+PEHI,United States,Michigan,26,Jackson,075
+PEHI,United States,Michigan,26,Kalamazoo,077
+PEHI,United States,Michigan,26,Kent,081
+PEHI,United States,Michigan,26,Lenawee,091
+PEHI,United States,Michigan,26,Livingston,093
+PEHI,United States,Michigan,26,Mackinac,097
+PEHI,United States,Michigan,26,Macomb,099
+PEHI,United States,Michigan,26,Mecosta,107
+PEHI,United States,Michigan,26,Midland,111
+PEHI,United States,Michigan,26,Monroe,115
+PEHI,United States,Michigan,26,Montcalm,117
+PEHI,United States,Michigan,26,Muskegon,121
+PEHI,United States,Michigan,26,Newaygo,123
+PEHI,United States,Michigan,26,Oakland,125
+PEHI,United States,Michigan,26,Saginaw,145
+PEHI,United States,Michigan,26,Shiawassee,155
+PEHI,United States,Michigan,26,St. Clair,147
+PEHI,United States,Michigan,26,St. Joseph,149
+PEHI,United States,Michigan,26,Tuscola,157
+PEHI,United States,Michigan,26,Washtenaw,161
+PEHI,United States,Michigan,26,Wayne,163
+PEHI,United States,New Hampshire,33,,
+PEHI,United States,New Jersey,34,,
+PEHI,United States,New Jersey,34,Bergen,003
+PEHI,United States,New Jersey,34,Burlington,005
+PEHI,United States,New Jersey,34,Camden,007
+PEHI,United States,New Jersey,34,Gloucester,015
+PEHI,United States,New Jersey,34,Hudson,017
+PEHI,United States,New Jersey,34,Hunterdon,019
+PEHI,United States,New Jersey,34,Mercer,021
+PEHI,United States,New Jersey,34,Middlesex,023
+PEHI,United States,New Jersey,34,Monmouth,025
+PEHI,United States,New Jersey,34,Morris,027
+PEHI,United States,New Jersey,34,Ocean,029
+PEHI,United States,New Jersey,34,Passaic,031
+PEHI,United States,New Jersey,34,Somerset,035
+PEHI,United States,New Jersey,34,Sussex,037
+PEHI,United States,New Jersey,34,Union,039
+PEHI,United States,New Jersey,34,Warren,041
+PEHI,United States,New York,36,,
+PEHI,United States,New York,36,Albany,001
+PEHI,United States,New York,36,Bronx,005
+PEHI,United States,New York,36,Broome,007
+PEHI,United States,New York,36,Cayuga,011
+PEHI,United States,New York,36,Chemung,015
+PEHI,United States,New York,36,Columbia,021
+PEHI,United States,New York,36,Delaware,025
+PEHI,United States,New York,36,Dutchess,027
+PEHI,United States,New York,36,Erie,029
+PEHI,United States,New York,36,Essex,031
+PEHI,United States,New York,36,Genesee,037
+PEHI,United States,New York,36,Greene,039
+PEHI,United States,New York,36,Herkimer,043
+PEHI,United States,New York,36,Jefferson,045
+PEHI,United States,New York,36,Kings,047
+PEHI,United States,New York,36,Livingston,051
+PEHI,United States,New York,36,Monroe,055
+PEHI,United States,New York,36,Montgomery,057
+PEHI,United States,New York,36,Nassau,059
+PEHI,United States,New York,36,Niagara,063
+PEHI,United States,New York,36,Orange,071
+PEHI,United States,New York,36,Orleans,073
+PEHI,United States,New York,36,Oswego,075
+PEHI,United States,New York,36,Rensselaer,083
+PEHI,United States,New York,36,Richmond,085
+PEHI,United States,New York,36,Saratoga,091
+PEHI,United States,New York,36,Schenectady,093
+PEHI,United States,New York,36,Schuyler,097
+PEHI,United States,New York,36,Seneca,099
+PEHI,United States,New York,36,St. Lawrence,089
+PEHI,United States,New York,36,Suffolk,103
+PEHI,United States,New York,36,Tioga,107
+PEHI,United States,New York,36,Tompkins,109
+PEHI,United States,New York,36,Ulster,111
+PEHI,United States,New York,36,Warren,113
+PEHI,United States,New York,36,Washington,115
+PEHI,United States,New York,36,Westchester,119
+PEHI,United States,Ohio,39,,
+PEHI,United States,Ohio,39,Allen,003
+PEHI,United States,Ohio,39,Ashland,005
+PEHI,United States,Ohio,39,Ashtabula,007
+PEHI,United States,Ohio,39,Auglaize,011
+PEHI,United States,Ohio,39,Brown,015
+PEHI,United States,Ohio,39,Butler,017
+PEHI,United States,Ohio,39,Carroll,019
+PEHI,United States,Ohio,39,Clark,023
+PEHI,United States,Ohio,39,Columbiana,029
+PEHI,United States,Ohio,39,Coshocton,031
+PEHI,United States,Ohio,39,Cuyahoga,035
+PEHI,United States,Ohio,39,Defiance,039
+PEHI,United States,Ohio,39,Delaware,041
+PEHI,United States,Ohio,39,Erie,043
+PEHI,United States,Ohio,39,Fairfield,045
+PEHI,United States,Ohio,39,Franklin,049
+PEHI,United States,Ohio,39,Fulton,051
+PEHI,United States,Ohio,39,Gallia,053
+PEHI,United States,Ohio,39,Geauga,055
+PEHI,United States,Ohio,39,Greene,057
+PEHI,United States,Ohio,39,Hamilton,061
+PEHI,United States,Ohio,39,Hancock,063
+PEHI,United States,Ohio,39,Harrison,067
+PEHI,United States,Ohio,39,Henry,069
+PEHI,United States,Ohio,39,Highland,071
+PEHI,United States,Ohio,39,Hocking,073
+PEHI,United States,Ohio,39,Jackson,079
+PEHI,United States,Ohio,39,Jefferson,081
+PEHI,United States,Ohio,39,Knox,083
+PEHI,United States,Ohio,39,Lake,085
+PEHI,United States,Ohio,39,Licking,089
+PEHI,United States,Ohio,39,Logan,091
+PEHI,United States,Ohio,39,Lorain,093
+PEHI,United States,Ohio,39,Lucas,095
+PEHI,United States,Ohio,39,Madison,097
+PEHI,United States,Ohio,39,Mahoning,099
+PEHI,United States,Ohio,39,Meigs,105
+PEHI,United States,Ohio,39,Mercer,107
+PEHI,United States,Ohio,39,Montgomery,113
+PEHI,United States,Ohio,39,Morgan,115
+PEHI,United States,Ohio,39,Muskingum,119
+PEHI,United States,Ohio,39,Ottawa,123
+PEHI,United States,Ohio,39,Paulding,125
+PEHI,United States,Ohio,39,Pickaway,129
+PEHI,United States,Ohio,39,Portage,133
+PEHI,United States,Ohio,39,Preble,135
+PEHI,United States,Ohio,39,Putnam,137
+PEHI,United States,Ohio,39,Ross,141
+PEHI,United States,Ohio,39,Sandusky,143
+PEHI,United States,Ohio,39,Scioto,145
+PEHI,United States,Ohio,39,Seneca,147
+PEHI,United States,Ohio,39,Stark,151
+PEHI,United States,Ohio,39,Summit,153
+PEHI,United States,Ohio,39,Trumbull,155
+PEHI,United States,Ohio,39,Vinton,163
+PEHI,United States,Ohio,39,Warren,165
+PEHI,United States,Ohio,39,Washington,167
+PEHI,United States,Ohio,39,Wayne,169
+PEHI,United States,Ohio,39,Williams,171
+PEHI,United States,Ohio,39,Wood,173
+PEHI,United States,Ohio,39,Wyandot,175
+PEHI,United States,Pennsylvania,42,,
+PEHI,United States,Pennsylvania,42,Adams,001
+PEHI,United States,Pennsylvania,42,Allegheny,003
+PEHI,United States,Pennsylvania,42,Armstrong,005
+PEHI,United States,Pennsylvania,42,Beaver,007
+PEHI,United States,Pennsylvania,42,Bedford,009
+PEHI,United States,Pennsylvania,42,Berks,011
+PEHI,United States,Pennsylvania,42,Blair,013
+PEHI,United States,Pennsylvania,42,Bradford,015
+PEHI,United States,Pennsylvania,42,Bucks,017
+PEHI,United States,Pennsylvania,42,Butler,019
+PEHI,United States,Pennsylvania,42,Cambria,021
+PEHI,United States,Pennsylvania,42,Cameron,023
+PEHI,United States,Pennsylvania,42,Carbon,025
+PEHI,United States,Pennsylvania,42,Centre,027
+PEHI,United States,Pennsylvania,42,Chester,029
+PEHI,United States,Pennsylvania,42,Clarion,031
+PEHI,United States,Pennsylvania,42,Columbia,037
+PEHI,United States,Pennsylvania,42,Cumberland,041
+PEHI,United States,Pennsylvania,42,Dauphin,043
+PEHI,United States,Pennsylvania,42,Delaware,045
+PEHI,United States,Pennsylvania,42,Elk,047
+PEHI,United States,Pennsylvania,42,Franklin,055
+PEHI,United States,Pennsylvania,42,Fulton,057
+PEHI,United States,Pennsylvania,42,Huntingdon,061
+PEHI,United States,Pennsylvania,42,Juniata,067
+PEHI,United States,Pennsylvania,42,Lackawanna,069
+PEHI,United States,Pennsylvania,42,Lancaster,071
+PEHI,United States,Pennsylvania,42,Lawrence,073
+PEHI,United States,Pennsylvania,42,Lehigh,077
+PEHI,United States,Pennsylvania,42,Luzerne,079
+PEHI,United States,Pennsylvania,42,Lycoming,081
+PEHI,United States,Pennsylvania,42,Mifflin,087
+PEHI,United States,Pennsylvania,42,Monroe,089
+PEHI,United States,Pennsylvania,42,Montgomery,091
+PEHI,United States,Pennsylvania,42,Montour,093
+PEHI,United States,Pennsylvania,42,Northampton,095
+PEHI,United States,Pennsylvania,42,Northumberland,097
+PEHI,United States,Pennsylvania,42,Perry,099
+PEHI,United States,Pennsylvania,42,Philadelphia,101
+PEHI,United States,Pennsylvania,42,Schuylkill,107
+PEHI,United States,Pennsylvania,42,Snyder,109
+PEHI,United States,Pennsylvania,42,Somerset,111
+PEHI,United States,Pennsylvania,42,Susquehanna,115
+PEHI,United States,Pennsylvania,42,Tioga,117
+PEHI,United States,Pennsylvania,42,Venango,121
+PEHI,United States,Pennsylvania,42,Warren,123
+PEHI,United States,Pennsylvania,42,Washington,125
+PEHI,United States,Pennsylvania,42,Westmoreland,129
+PEHI,United States,Pennsylvania,42,Wyoming,131
+PEHI,United States,Pennsylvania,42,York,133
+PEHI,United States,Rhode Island,44,,
+PEHI,United States,Rhode Island,44,Providence,007
+PEHI,United States,Tennessee,47,,
+PEHI,United States,Tennessee,47,Cheatham,021
+PEHI,United States,Tennessee,47,Davidson,037
+PEHI,United States,Tennessee,47,Hickman,081
+PEHI,United States,Tennessee,47,Montgomery,125
+PEHI,United States,Tennessee,47,Pickett,137
+PEHI,United States,Tennessee,47,Smith,159
+PEHI,United States,Tennessee,47,Sumner,165
+PEHI,United States,Tennessee,47,Trousdale,169
+PEHI,United States,Vermont,50,,
+PEHI,United States,Vermont,50,Addison,001
+PEHI,United States,Vermont,50,Bennington,003
+PEHI,United States,Vermont,50,Chittenden,007
+PEHI,United States,Vermont,50,Rutland,021
+PEHI,United States,Vermont,50,Windham,025
+PEHI,United States,Virginia,51,,
+PEHI,United States,Virginia,51,Fairfax,059
+PEHI,United States,Virginia,51,Fauquier,061
+PEHI,United States,Virginia,51,Loudoun,107
+PEHI,United States,Virginia,51,Prince William,153
+PEHI,United States,West Virginia,54,,
+PEHI,United States,West Virginia,54,Berkeley,003
+PEHI,United States,West Virginia,54,Boone,005
+PEHI,United States,West Virginia,54,Brooke,009
+PEHI,United States,West Virginia,54,Cabell,011
+PEHI,United States,West Virginia,54,Grant,023
+PEHI,United States,West Virginia,54,Greenbrier,025
+PEHI,United States,West Virginia,54,Hampshire,027
+PEHI,United States,West Virginia,54,Hancock,029
+PEHI,United States,West Virginia,54,Hardy,031
+PEHI,United States,West Virginia,54,Kanawha,039
+PEHI,United States,West Virginia,54,Mason,053
+PEHI,United States,West Virginia,54,Mineral,057
+PEHI,United States,West Virginia,54,Mingo,059
+PEHI,United States,West Virginia,54,Monongalia,061
+PEHI,United States,West Virginia,54,Monroe,063
+PEHI,United States,West Virginia,54,Morgan,065
+PEHI,United States,West Virginia,54,Nicholas,067
+PEHI,United States,West Virginia,54,Pendleton,071
+PEHI,United States,West Virginia,54,Pocahontas,075
+PEHI,United States,West Virginia,54,Randolph,083
+PEHI,United States,West Virginia,54,Summers,089
+PEHI,United States,West Virginia,54,Upshur,097
+PEHI,United States,Wisconsin,55,,
+PEHI,United States,Wisconsin,55,Adams,001
+PEHI,United States,Wisconsin,55,Marinette,075
+PEHI,United States,Wisconsin,55,Milwaukee,079
+PEHI,United States,Wisconsin,55,Ozaukee,089
+PEHI,United States,Wisconsin,55,Racine,101
+PEHI,United States,Wisconsin,55,Rock,105
+PEHI,United States,Wisconsin,55,Sheboygan,117
+PEHI,United States,Wisconsin,55,Vilas,125
+PEHI,United States,Wisconsin,55,Waukesha,133

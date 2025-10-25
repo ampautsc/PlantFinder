@@ -1,0 +1,710 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+EUFI14,United States,Alabama,01,,
+EUFI14,United States,Alabama,01,Baldwin,003
+EUFI14,United States,Alabama,01,Blount,009
+EUFI14,United States,Alabama,01,Choctaw,023
+EUFI14,United States,Alabama,01,Escambia,053
+EUFI14,United States,Alabama,01,Fayette,057
+EUFI14,United States,Alabama,01,Lawrence,079
+EUFI14,United States,Alabama,01,Lee,081
+EUFI14,United States,Alabama,01,Madison,089
+EUFI14,United States,Alabama,01,Mobile,097
+EUFI14,United States,Alabama,01,Sumter,119
+EUFI14,United States,Alabama,01,Wilcox,131
+EUFI14,United States,Arkansas,05,,
+EUFI14,United States,Arkansas,05,Benton,007
+EUFI14,United States,Arkansas,05,Bradley,011
+EUFI14,United States,Arkansas,05,Clark,019
+EUFI14,United States,Arkansas,05,Clay,021
+EUFI14,United States,Arkansas,05,Cleburne,023
+EUFI14,United States,Arkansas,05,Columbia,027
+EUFI14,United States,Arkansas,05,Conway,029
+EUFI14,United States,Arkansas,05,Garland,051
+EUFI14,United States,Arkansas,05,Hempstead,057
+EUFI14,United States,Arkansas,05,Hot Spring,059
+EUFI14,United States,Arkansas,05,Independence,063
+EUFI14,United States,Arkansas,05,Johnson,071
+EUFI14,United States,Arkansas,05,Lawrence,075
+EUFI14,United States,Arkansas,05,Mississippi,093
+EUFI14,United States,Arkansas,05,Montgomery,097
+EUFI14,United States,Arkansas,05,Ouachita,103
+EUFI14,United States,Arkansas,05,Polk,113
+EUFI14,United States,Arkansas,05,Pope,115
+EUFI14,United States,Arkansas,05,Randolph,121
+EUFI14,United States,Arkansas,05,Stone,137
+EUFI14,United States,Arkansas,05,Union,139
+EUFI14,United States,Arkansas,05,Van Buren,141
+EUFI14,United States,Connecticut,09,,
+EUFI14,United States,Connecticut,09,Fairfield,001
+EUFI14,United States,Connecticut,09,Hartford,003
+EUFI14,United States,Connecticut,09,Litchfield,005
+EUFI14,United States,Connecticut,09,New Haven,009
+EUFI14,United States,Connecticut,09,New London,011
+EUFI14,United States,Connecticut,09,Tolland,013
+EUFI14,Canada,Quebec,10,,
+EUFI14,United States,Delaware,10,,
+EUFI14,United States,Delaware,10,Kent,001
+EUFI14,United States,Delaware,10,New Castle,003
+EUFI14,United States,Delaware,10,Sussex,005
+EUFI14,United States,District of Columbia,11,,
+EUFI14,United States,District of Columbia,11,District of Columbia,001
+EUFI14,United States,Florida,12,,
+EUFI14,United States,Florida,12,Calhoun,013
+EUFI14,United States,Florida,12,Escambia,033
+EUFI14,United States,Florida,12,Franklin,037
+EUFI14,United States,Florida,12,Gadsden,039
+EUFI14,United States,Florida,12,Holmes,059
+EUFI14,United States,Florida,12,Jackson,063
+EUFI14,United States,Florida,12,Jefferson,065
+EUFI14,United States,Florida,12,Lake,069
+EUFI14,United States,Florida,12,Leon,073
+EUFI14,United States,Florida,12,Liberty,077
+EUFI14,United States,Florida,12,Okaloosa,091
+EUFI14,United States,Florida,12,Orange,095
+EUFI14,United States,Florida,12,Osceola,097
+EUFI14,United States,Florida,12,Polk,105
+EUFI14,United States,Florida,12,Putnam,107
+EUFI14,United States,Florida,12,Santa Rosa,113
+EUFI14,United States,Florida,12,Seminole,117
+EUFI14,United States,Florida,12,Wakulla,129
+EUFI14,United States,Florida,12,Walton,131
+EUFI14,United States,Florida,12,Washington,133
+EUFI14,United States,Georgia,13,,
+EUFI14,United States,Georgia,13,Bartow,015
+EUFI14,United States,Georgia,13,Chatham,051
+EUFI14,United States,Georgia,13,Chattooga,055
+EUFI14,United States,Georgia,13,Clarke,059
+EUFI14,United States,Georgia,13,Elbert,105
+EUFI14,United States,Georgia,13,Floyd,115
+EUFI14,United States,Georgia,13,Forsyth,117
+EUFI14,United States,Georgia,13,Gilmer,123
+EUFI14,United States,Georgia,13,Habersham,137
+EUFI14,United States,Georgia,13,Hall,139
+EUFI14,United States,Georgia,13,Harris,145
+EUFI14,United States,Georgia,13,Lumpkin,187
+EUFI14,United States,Georgia,13,McDuffie,189
+EUFI14,United States,Georgia,13,Morgan,211
+EUFI14,United States,Georgia,13,Murray,213
+EUFI14,United States,Georgia,13,Muscogee,215
+EUFI14,United States,Georgia,13,Rabun,241
+EUFI14,United States,Georgia,13,Spalding,255
+EUFI14,United States,Georgia,13,Walker,295
+EUFI14,United States,Georgia,13,White,311
+EUFI14,United States,Illinois,17,,
+EUFI14,United States,Illinois,17,Alexander,003
+EUFI14,United States,Illinois,17,Bureau,011
+EUFI14,United States,Illinois,17,Clark,023
+EUFI14,United States,Illinois,17,Coles,029
+EUFI14,United States,Illinois,17,Cook,031
+EUFI14,United States,Illinois,17,Crawford,033
+EUFI14,United States,Illinois,17,Edgar,045
+EUFI14,United States,Illinois,17,Fayette,051
+EUFI14,United States,Illinois,17,Hardin,069
+EUFI14,United States,Illinois,17,Jackson,077
+EUFI14,United States,Illinois,17,Lawrence,101
+EUFI14,United States,Illinois,17,Massac,127
+EUFI14,United States,Illinois,17,Menard,129
+EUFI14,United States,Illinois,17,Pope,151
+EUFI14,United States,Illinois,17,Pulaski,153
+EUFI14,United States,Illinois,17,Richland,159
+EUFI14,United States,Illinois,17,Saline,165
+EUFI14,United States,Illinois,17,Wabash,185
+EUFI14,United States,Illinois,17,Williamson,199
+EUFI14,United States,Indiana,18,,
+EUFI14,United States,Indiana,18,Bartholomew,005
+EUFI14,United States,Indiana,18,Brown,013
+EUFI14,United States,Indiana,18,Carroll,015
+EUFI14,United States,Indiana,18,Cass,017
+EUFI14,United States,Indiana,18,Clark,019
+EUFI14,United States,Indiana,18,Clay,021
+EUFI14,United States,Indiana,18,Crawford,025
+EUFI14,United States,Indiana,18,Daviess,027
+EUFI14,United States,Indiana,18,Dearborn,029
+EUFI14,United States,Indiana,18,Decatur,031
+EUFI14,United States,Indiana,18,Dubois,037
+EUFI14,United States,Indiana,18,Floyd,043
+EUFI14,United States,Indiana,18,Franklin,047
+EUFI14,United States,Indiana,18,Greene,055
+EUFI14,United States,Indiana,18,Harrison,061
+EUFI14,United States,Indiana,18,Henry,065
+EUFI14,United States,Indiana,18,Howard,067
+EUFI14,United States,Indiana,18,Jackson,071
+EUFI14,United States,Indiana,18,Jefferson,077
+EUFI14,United States,Indiana,18,Jennings,079
+EUFI14,United States,Indiana,18,Lawrence,093
+EUFI14,United States,Indiana,18,Marion,097
+EUFI14,United States,Indiana,18,Monroe,105
+EUFI14,United States,Indiana,18,Montgomery,107
+EUFI14,United States,Indiana,18,Owen,119
+EUFI14,United States,Indiana,18,Porter,127
+EUFI14,United States,Indiana,18,Ripley,137
+EUFI14,United States,Indiana,18,Scott,143
+EUFI14,United States,Indiana,18,Steuben,151
+EUFI14,United States,Indiana,18,Sullivan,153
+EUFI14,United States,Indiana,18,Switzerland,155
+EUFI14,United States,Indiana,18,Tippecanoe,157
+EUFI14,United States,Indiana,18,Vigo,167
+EUFI14,United States,Indiana,18,Washington,175
+EUFI14,United States,Indiana,18,White,181
+EUFI14,United States,Kentucky,21,,
+EUFI14,United States,Kentucky,21,Anderson,005
+EUFI14,United States,Kentucky,21,Ballard,007
+EUFI14,United States,Kentucky,21,Barren,009
+EUFI14,United States,Kentucky,21,Bath,011
+EUFI14,United States,Kentucky,21,Bell,013
+EUFI14,United States,Kentucky,21,Bracken,023
+EUFI14,United States,Kentucky,21,Breckinridge,027
+EUFI14,United States,Kentucky,21,Butler,031
+EUFI14,United States,Kentucky,21,Calloway,035
+EUFI14,United States,Kentucky,21,Campbell,037
+EUFI14,United States,Kentucky,21,Carter,043
+EUFI14,United States,Kentucky,21,Clark,049
+EUFI14,United States,Kentucky,21,Edmonson,061
+EUFI14,United States,Kentucky,21,Elliott,063
+EUFI14,United States,Kentucky,21,Estill,065
+EUFI14,United States,Kentucky,21,Fayette,067
+EUFI14,United States,Kentucky,21,Fleming,069
+EUFI14,United States,Kentucky,21,Garrard,079
+EUFI14,United States,Kentucky,21,Graves,083
+EUFI14,United States,Kentucky,21,Greenup,089
+EUFI14,United States,Kentucky,21,Hardin,093
+EUFI14,United States,Kentucky,21,Harlan,095
+EUFI14,United States,Kentucky,21,Hickman,105
+EUFI14,United States,Kentucky,21,Hopkins,107
+EUFI14,United States,Kentucky,21,Jackson,109
+EUFI14,United States,Kentucky,21,Jefferson,111
+EUFI14,United States,Kentucky,21,Jessamine,113
+EUFI14,United States,Kentucky,21,Johnson,115
+EUFI14,United States,Kentucky,21,Kenton,117
+EUFI14,United States,Kentucky,21,Laurel,125
+EUFI14,United States,Kentucky,21,Lawrence,127
+EUFI14,United States,Kentucky,21,Lewis,135
+EUFI14,United States,Kentucky,21,Lincoln,137
+EUFI14,United States,Kentucky,21,Livingston,139
+EUFI14,United States,Kentucky,21,Madison,151
+EUFI14,United States,Kentucky,21,Marshall,157
+EUFI14,United States,Kentucky,21,Martin,159
+EUFI14,United States,Kentucky,21,McCracken,145
+EUFI14,United States,Kentucky,21,McCreary,147
+EUFI14,United States,Kentucky,21,McLean,149
+EUFI14,United States,Kentucky,21,Meade,163
+EUFI14,United States,Kentucky,21,Menifee,165
+EUFI14,United States,Kentucky,21,Montgomery,173
+EUFI14,United States,Kentucky,21,Muhlenberg,177
+EUFI14,United States,Kentucky,21,Nelson,179
+EUFI14,United States,Kentucky,21,Oldham,185
+EUFI14,United States,Kentucky,21,Pike,195
+EUFI14,United States,Kentucky,21,Powell,197
+EUFI14,United States,Kentucky,21,Pulaski,199
+EUFI14,United States,Kentucky,21,Rockcastle,203
+EUFI14,United States,Kentucky,21,Rowan,205
+EUFI14,United States,Kentucky,21,Russell,207
+EUFI14,United States,Kentucky,21,Simpson,213
+EUFI14,United States,Kentucky,21,Todd,219
+EUFI14,United States,Kentucky,21,Union,225
+EUFI14,United States,Kentucky,21,Warren,227
+EUFI14,United States,Kentucky,21,Whitley,235
+EUFI14,United States,Kentucky,21,Wolfe,237
+EUFI14,United States,Louisiana,22,,
+EUFI14,United States,Louisiana,22,Beauregard,011
+EUFI14,United States,Louisiana,22,Bienville,013
+EUFI14,United States,Louisiana,22,Claiborne,027
+EUFI14,United States,Louisiana,22,Concordia,029
+EUFI14,United States,Louisiana,22,Grant,043
+EUFI14,United States,Louisiana,22,Jackson,049
+EUFI14,United States,Louisiana,22,Lincoln,061
+EUFI14,United States,Louisiana,22,Natchitoches,069
+EUFI14,United States,Louisiana,22,Ouachita,073
+EUFI14,United States,Louisiana,22,Rapides,079
+EUFI14,United States,Louisiana,22,Sabine,085
+EUFI14,United States,Louisiana,22,St. Tammany,103
+EUFI14,United States,Louisiana,22,Tangipahoa,105
+EUFI14,United States,Louisiana,22,Union,111
+EUFI14,United States,Louisiana,22,Vernon,115
+EUFI14,United States,Louisiana,22,Washington,117
+EUFI14,United States,Louisiana,22,West Carroll,123
+EUFI14,United States,Louisiana,22,West Feliciana,125
+EUFI14,United States,Louisiana,22,Winn,127
+EUFI14,United States,Maine,23,,
+EUFI14,United States,Maine,23,York,031
+EUFI14,United States,Maryland,24,,
+EUFI14,United States,Massachusetts,25,,
+EUFI14,United States,Massachusetts,25,Barnstable,001
+EUFI14,United States,Massachusetts,25,Berkshire,003
+EUFI14,United States,Massachusetts,25,Bristol,005
+EUFI14,United States,Massachusetts,25,Essex,009
+EUFI14,United States,Massachusetts,25,Franklin,011
+EUFI14,United States,Massachusetts,25,Hampden,013
+EUFI14,United States,Massachusetts,25,Hampshire,015
+EUFI14,United States,Massachusetts,25,Middlesex,017
+EUFI14,United States,Massachusetts,25,Norfolk,021
+EUFI14,United States,Massachusetts,25,Plymouth,023
+EUFI14,United States,Massachusetts,25,Worcester,027
+EUFI14,United States,Michigan,26,,
+EUFI14,United States,Michigan,26,Berrien,021
+EUFI14,United States,Mississippi,28,,
+EUFI14,United States,Mississippi,28,Alcorn,003
+EUFI14,United States,Mississippi,28,Attala,007
+EUFI14,United States,Mississippi,28,Calhoun,013
+EUFI14,United States,Mississippi,28,Chickasaw,017
+EUFI14,United States,Mississippi,28,Clarke,023
+EUFI14,United States,Mississippi,28,Copiah,029
+EUFI14,United States,Mississippi,28,Covington,031
+EUFI14,United States,Mississippi,28,Forrest,035
+EUFI14,United States,Mississippi,28,Franklin,037
+EUFI14,United States,Mississippi,28,George,039
+EUFI14,United States,Mississippi,28,Greene,041
+EUFI14,United States,Mississippi,28,Grenada,043
+EUFI14,United States,Mississippi,28,Hancock,045
+EUFI14,United States,Mississippi,28,Harrison,047
+EUFI14,United States,Mississippi,28,Hinds,049
+EUFI14,United States,Mississippi,28,Holmes,051
+EUFI14,United States,Mississippi,28,Itawamba,057
+EUFI14,United States,Mississippi,28,Jackson,059
+EUFI14,United States,Mississippi,28,Jasper,061
+EUFI14,United States,Mississippi,28,Jones,067
+EUFI14,United States,Mississippi,28,Lafayette,071
+EUFI14,United States,Mississippi,28,Lamar,073
+EUFI14,United States,Mississippi,28,Lauderdale,075
+EUFI14,United States,Mississippi,28,Leake,079
+EUFI14,United States,Mississippi,28,Lee,081
+EUFI14,United States,Mississippi,28,Lincoln,085
+EUFI14,United States,Mississippi,28,Marion,091
+EUFI14,United States,Mississippi,28,Marshall,093
+EUFI14,United States,Mississippi,28,Neshoba,099
+EUFI14,United States,Mississippi,28,Newton,101
+EUFI14,United States,Mississippi,28,Noxubee,103
+EUFI14,United States,Mississippi,28,Pearl River,109
+EUFI14,United States,Mississippi,28,Perry,111
+EUFI14,United States,Mississippi,28,Pontotoc,115
+EUFI14,United States,Mississippi,28,Prentiss,117
+EUFI14,United States,Mississippi,28,Scott,123
+EUFI14,United States,Mississippi,28,Simpson,127
+EUFI14,United States,Mississippi,28,Smith,129
+EUFI14,United States,Mississippi,28,Stone,131
+EUFI14,United States,Mississippi,28,Tate,137
+EUFI14,United States,Mississippi,28,Tippah,139
+EUFI14,United States,Mississippi,28,Tishomingo,141
+EUFI14,United States,Mississippi,28,Walthall,147
+EUFI14,United States,Mississippi,28,Winston,159
+EUFI14,United States,Mississippi,28,Yalobusha,161
+EUFI14,United States,Missouri,29,,
+EUFI14,United States,Missouri,29,Adair,001
+EUFI14,United States,Missouri,29,Boone,019
+EUFI14,United States,Missouri,29,Butler,023
+EUFI14,United States,Missouri,29,Livingston,117
+EUFI14,United States,Missouri,29,Marion,127
+EUFI14,United States,Missouri,29,New Madrid,143
+EUFI14,United States,Missouri,29,Pemiscot,155
+EUFI14,United States,Missouri,29,Scott,201
+EUFI14,United States,Missouri,29,Stoddard,207
+EUFI14,United States,New Hampshire,33,,
+EUFI14,United States,New Hampshire,33,Cheshire,005
+EUFI14,United States,New Hampshire,33,Coos,007
+EUFI14,United States,New Hampshire,33,Hillsborough,011
+EUFI14,United States,New Hampshire,33,Merrimack,013
+EUFI14,United States,New Hampshire,33,Rockingham,015
+EUFI14,United States,New Hampshire,33,Strafford,017
+EUFI14,United States,New Hampshire,33,Sullivan,019
+EUFI14,United States,New Jersey,34,,
+EUFI14,United States,New Jersey,34,Bergen,003
+EUFI14,United States,New Jersey,34,Essex,013
+EUFI14,United States,New Jersey,34,Hunterdon,019
+EUFI14,United States,New Jersey,34,Mercer,021
+EUFI14,United States,New Jersey,34,Middlesex,023
+EUFI14,United States,New Jersey,34,Monmouth,025
+EUFI14,United States,New Jersey,34,Morris,027
+EUFI14,United States,New Jersey,34,Ocean,029
+EUFI14,United States,New Jersey,34,Passaic,031
+EUFI14,United States,New Jersey,34,Somerset,035
+EUFI14,United States,New Jersey,34,Sussex,037
+EUFI14,United States,New Jersey,34,Union,039
+EUFI14,United States,New Jersey,34,Warren,041
+EUFI14,United States,New York,36,,
+EUFI14,United States,New York,36,Albany,001
+EUFI14,United States,New York,36,Bronx,005
+EUFI14,United States,New York,36,Cattaraugus,009
+EUFI14,United States,New York,36,Chenango,017
+EUFI14,United States,New York,36,Columbia,021
+EUFI14,United States,New York,36,Dutchess,027
+EUFI14,United States,New York,36,Greene,039
+EUFI14,United States,New York,36,Monroe,055
+EUFI14,United States,New York,36,Nassau,059
+EUFI14,United States,New York,36,New York,061
+EUFI14,United States,New York,36,Oneida,065
+EUFI14,United States,New York,36,Orange,071
+EUFI14,United States,New York,36,Otsego,077
+EUFI14,United States,New York,36,Putnam,079
+EUFI14,United States,New York,36,Queens,081
+EUFI14,United States,New York,36,Richmond,085
+EUFI14,United States,New York,36,Rockland,087
+EUFI14,United States,New York,36,Saratoga,091
+EUFI14,United States,New York,36,Schenectady,093
+EUFI14,United States,New York,36,Suffolk,103
+EUFI14,United States,New York,36,Ulster,111
+EUFI14,United States,New York,36,Warren,113
+EUFI14,United States,New York,36,Washington,115
+EUFI14,United States,New York,36,Westchester,119
+EUFI14,United States,North Carolina,37,,
+EUFI14,United States,North Carolina,37,Alamance,001
+EUFI14,United States,North Carolina,37,Alexander,003
+EUFI14,United States,North Carolina,37,Alleghany,005
+EUFI14,United States,North Carolina,37,Ashe,009
+EUFI14,United States,North Carolina,37,Avery,011
+EUFI14,United States,North Carolina,37,Bertie,015
+EUFI14,United States,North Carolina,37,Bladen,017
+EUFI14,United States,North Carolina,37,Brunswick,019
+EUFI14,United States,North Carolina,37,Buncombe,021
+EUFI14,United States,North Carolina,37,Burke,023
+EUFI14,United States,North Carolina,37,Caldwell,027
+EUFI14,United States,North Carolina,37,Camden,029
+EUFI14,United States,North Carolina,37,Caswell,033
+EUFI14,United States,North Carolina,37,Catawba,035
+EUFI14,United States,North Carolina,37,Chatham,037
+EUFI14,United States,North Carolina,37,Cherokee,039
+EUFI14,United States,North Carolina,37,Clay,043
+EUFI14,United States,North Carolina,37,Craven,049
+EUFI14,United States,North Carolina,37,Davidson,057
+EUFI14,United States,North Carolina,37,Durham,063
+EUFI14,United States,North Carolina,37,Edgecombe,065
+EUFI14,United States,North Carolina,37,Forsyth,067
+EUFI14,United States,North Carolina,37,Franklin,069
+EUFI14,United States,North Carolina,37,Graham,075
+EUFI14,United States,North Carolina,37,Granville,077
+EUFI14,United States,North Carolina,37,Guilford,081
+EUFI14,United States,North Carolina,37,Halifax,083
+EUFI14,United States,North Carolina,37,Haywood,087
+EUFI14,United States,North Carolina,37,Henderson,089
+EUFI14,United States,North Carolina,37,Iredell,097
+EUFI14,United States,North Carolina,37,Jackson,099
+EUFI14,United States,North Carolina,37,Johnston,101
+EUFI14,United States,North Carolina,37,Jones,103
+EUFI14,United States,North Carolina,37,Lee,105
+EUFI14,United States,North Carolina,37,Lincoln,109
+EUFI14,United States,North Carolina,37,Macon,113
+EUFI14,United States,North Carolina,37,Madison,115
+EUFI14,United States,North Carolina,37,McDowell,111
+EUFI14,United States,North Carolina,37,Mecklenburg,119
+EUFI14,United States,North Carolina,37,Mitchell,121
+EUFI14,United States,North Carolina,37,Montgomery,123
+EUFI14,United States,North Carolina,37,Nash,127
+EUFI14,United States,North Carolina,37,Orange,135
+EUFI14,United States,North Carolina,37,Pender,141
+EUFI14,United States,North Carolina,37,Person,145
+EUFI14,United States,North Carolina,37,Pitt,147
+EUFI14,United States,North Carolina,37,Polk,149
+EUFI14,United States,North Carolina,37,Randolph,151
+EUFI14,United States,North Carolina,37,Rockingham,157
+EUFI14,United States,North Carolina,37,Rowan,159
+EUFI14,United States,North Carolina,37,Rutherford,161
+EUFI14,United States,North Carolina,37,Stanly,167
+EUFI14,United States,North Carolina,37,Stokes,169
+EUFI14,United States,North Carolina,37,Surry,171
+EUFI14,United States,North Carolina,37,Swain,173
+EUFI14,United States,North Carolina,37,Transylvania,175
+EUFI14,United States,North Carolina,37,Vance,181
+EUFI14,United States,North Carolina,37,Wake,183
+EUFI14,United States,North Carolina,37,Warren,185
+EUFI14,United States,North Carolina,37,Watauga,189
+EUFI14,United States,North Carolina,37,Wilkes,193
+EUFI14,United States,North Carolina,37,Yadkin,197
+EUFI14,United States,North Carolina,37,Yancey,199
+EUFI14,United States,Ohio,39,,
+EUFI14,United States,Ohio,39,Ashtabula,007
+EUFI14,United States,Ohio,39,Athens,009
+EUFI14,United States,Ohio,39,Carroll,019
+EUFI14,United States,Ohio,39,Champaign,021
+EUFI14,United States,Ohio,39,Clinton,027
+EUFI14,United States,Ohio,39,Columbiana,029
+EUFI14,United States,Ohio,39,Coshocton,031
+EUFI14,United States,Ohio,39,Erie,043
+EUFI14,United States,Ohio,39,Gallia,053
+EUFI14,United States,Ohio,39,Geauga,055
+EUFI14,United States,Ohio,39,Guernsey,059
+EUFI14,United States,Ohio,39,Harrison,067
+EUFI14,United States,Ohio,39,Hocking,073
+EUFI14,United States,Ohio,39,Holmes,075
+EUFI14,United States,Ohio,39,Jefferson,081
+EUFI14,United States,Ohio,39,Knox,083
+EUFI14,United States,Ohio,39,Lawrence,087
+EUFI14,United States,Ohio,39,Mahoning,099
+EUFI14,United States,Ohio,39,Medina,103
+EUFI14,United States,Ohio,39,Meigs,105
+EUFI14,United States,Ohio,39,Monroe,111
+EUFI14,United States,Ohio,39,Morgan,115
+EUFI14,United States,Ohio,39,Muskingum,119
+EUFI14,United States,Ohio,39,Noble,121
+EUFI14,United States,Ohio,39,Perry,127
+EUFI14,United States,Ohio,39,Pike,131
+EUFI14,United States,Ohio,39,Portage,133
+EUFI14,United States,Ohio,39,Ross,141
+EUFI14,United States,Ohio,39,Scioto,145
+EUFI14,United States,Ohio,39,Stark,151
+EUFI14,United States,Ohio,39,Summit,153
+EUFI14,United States,Ohio,39,Trumbull,155
+EUFI14,United States,Ohio,39,Tuscarawas,157
+EUFI14,United States,Ohio,39,Vinton,163
+EUFI14,United States,Ohio,39,Washington,167
+EUFI14,United States,Ohio,39,Wayne,169
+EUFI14,United States,Oklahoma,40,,
+EUFI14,United States,Pennsylvania,42,,
+EUFI14,United States,Pennsylvania,42,Adams,001
+EUFI14,United States,Pennsylvania,42,Allegheny,003
+EUFI14,United States,Pennsylvania,42,Armstrong,005
+EUFI14,United States,Pennsylvania,42,Beaver,007
+EUFI14,United States,Pennsylvania,42,Bedford,009
+EUFI14,United States,Pennsylvania,42,Berks,011
+EUFI14,United States,Pennsylvania,42,Blair,013
+EUFI14,United States,Pennsylvania,42,Bradford,015
+EUFI14,United States,Pennsylvania,42,Bucks,017
+EUFI14,United States,Pennsylvania,42,Butler,019
+EUFI14,United States,Pennsylvania,42,Cambria,021
+EUFI14,United States,Pennsylvania,42,Cameron,023
+EUFI14,United States,Pennsylvania,42,Carbon,025
+EUFI14,United States,Pennsylvania,42,Centre,027
+EUFI14,United States,Pennsylvania,42,Chester,029
+EUFI14,United States,Pennsylvania,42,Clarion,031
+EUFI14,United States,Pennsylvania,42,Clearfield,033
+EUFI14,United States,Pennsylvania,42,Clinton,035
+EUFI14,United States,Pennsylvania,42,Columbia,037
+EUFI14,United States,Pennsylvania,42,Crawford,039
+EUFI14,United States,Pennsylvania,42,Cumberland,041
+EUFI14,United States,Pennsylvania,42,Dauphin,043
+EUFI14,United States,Pennsylvania,42,Delaware,045
+EUFI14,United States,Pennsylvania,42,Elk,047
+EUFI14,United States,Pennsylvania,42,Erie,049
+EUFI14,United States,Pennsylvania,42,Fayette,051
+EUFI14,United States,Pennsylvania,42,Forest,053
+EUFI14,United States,Pennsylvania,42,Franklin,055
+EUFI14,United States,Pennsylvania,42,Fulton,057
+EUFI14,United States,Pennsylvania,42,Greene,059
+EUFI14,United States,Pennsylvania,42,Huntingdon,061
+EUFI14,United States,Pennsylvania,42,Indiana,063
+EUFI14,United States,Pennsylvania,42,Jefferson,065
+EUFI14,United States,Pennsylvania,42,Juniata,067
+EUFI14,United States,Pennsylvania,42,Lackawanna,069
+EUFI14,United States,Pennsylvania,42,Lancaster,071
+EUFI14,United States,Pennsylvania,42,Lawrence,073
+EUFI14,United States,Pennsylvania,42,Lebanon,075
+EUFI14,United States,Pennsylvania,42,Lehigh,077
+EUFI14,United States,Pennsylvania,42,Luzerne,079
+EUFI14,United States,Pennsylvania,42,Lycoming,081
+EUFI14,United States,Pennsylvania,42,McKean,083
+EUFI14,United States,Pennsylvania,42,Mercer,085
+EUFI14,United States,Pennsylvania,42,Mifflin,087
+EUFI14,United States,Pennsylvania,42,Monroe,089
+EUFI14,United States,Pennsylvania,42,Montgomery,091
+EUFI14,United States,Pennsylvania,42,Montour,093
+EUFI14,United States,Pennsylvania,42,Northampton,095
+EUFI14,United States,Pennsylvania,42,Northumberland,097
+EUFI14,United States,Pennsylvania,42,Perry,099
+EUFI14,United States,Pennsylvania,42,Philadelphia,101
+EUFI14,United States,Pennsylvania,42,Pike,103
+EUFI14,United States,Pennsylvania,42,Potter,105
+EUFI14,United States,Pennsylvania,42,Schuylkill,107
+EUFI14,United States,Pennsylvania,42,Snyder,109
+EUFI14,United States,Pennsylvania,42,Somerset,111
+EUFI14,United States,Pennsylvania,42,Sullivan,113
+EUFI14,United States,Pennsylvania,42,Union,119
+EUFI14,United States,Pennsylvania,42,Venango,121
+EUFI14,United States,Pennsylvania,42,Warren,123
+EUFI14,United States,Pennsylvania,42,Washington,125
+EUFI14,United States,Pennsylvania,42,Westmoreland,129
+EUFI14,United States,Pennsylvania,42,Wyoming,131
+EUFI14,United States,Pennsylvania,42,York,133
+EUFI14,United States,Rhode Island,44,,
+EUFI14,United States,Rhode Island,44,Washington,009
+EUFI14,United States,South Carolina,45,,
+EUFI14,United States,South Carolina,45,Aiken,003
+EUFI14,United States,South Carolina,45,Anderson,007
+EUFI14,United States,South Carolina,45,Charleston,019
+EUFI14,United States,South Carolina,45,Cherokee,021
+EUFI14,United States,South Carolina,45,Dillon,033
+EUFI14,United States,South Carolina,45,Edgefield,037
+EUFI14,United States,South Carolina,45,Fairfield,039
+EUFI14,United States,South Carolina,45,Georgetown,043
+EUFI14,United States,South Carolina,45,Hampton,049
+EUFI14,United States,South Carolina,45,Kershaw,055
+EUFI14,United States,South Carolina,45,Lancaster,057
+EUFI14,United States,South Carolina,45,Orangeburg,075
+EUFI14,United States,South Carolina,45,Pickens,077
+EUFI14,United States,South Carolina,45,Saluda,081
+EUFI14,United States,South Carolina,45,Spartanburg,083
+EUFI14,United States,South Carolina,45,Williamsburg,089
+EUFI14,United States,Tennessee,47,,
+EUFI14,United States,Tennessee,47,Anderson,001
+EUFI14,United States,Tennessee,47,Blount,009
+EUFI14,United States,Tennessee,47,Cannon,015
+EUFI14,United States,Tennessee,47,Carter,019
+EUFI14,United States,Tennessee,47,Claiborne,025
+EUFI14,United States,Tennessee,47,Coffee,031
+EUFI14,United States,Tennessee,47,Cumberland,035
+EUFI14,United States,Tennessee,47,Dickson,043
+EUFI14,United States,Tennessee,47,Giles,055
+EUFI14,United States,Tennessee,47,Grundy,061
+EUFI14,United States,Tennessee,47,Hardin,071
+EUFI14,United States,Tennessee,47,Hawkins,073
+EUFI14,United States,Tennessee,47,Houston,083
+EUFI14,United States,Tennessee,47,Humphreys,085
+EUFI14,United States,Tennessee,47,Johnson,091
+EUFI14,United States,Tennessee,47,Knox,093
+EUFI14,United States,Tennessee,47,Macon,111
+EUFI14,United States,Tennessee,47,Madison,113
+EUFI14,United States,Tennessee,47,Monroe,123
+EUFI14,United States,Tennessee,47,Montgomery,125
+EUFI14,United States,Tennessee,47,Morgan,129
+EUFI14,United States,Tennessee,47,Overton,133
+EUFI14,United States,Tennessee,47,Perry,135
+EUFI14,United States,Tennessee,47,Polk,139
+EUFI14,United States,Tennessee,47,Putnam,141
+EUFI14,United States,Tennessee,47,Rhea,143
+EUFI14,United States,Tennessee,47,Scott,151
+EUFI14,United States,Tennessee,47,Sevier,155
+EUFI14,United States,Tennessee,47,Stewart,161
+EUFI14,United States,Tennessee,47,Tipton,167
+EUFI14,United States,Tennessee,47,Unicoi,171
+EUFI14,United States,Tennessee,47,Warren,177
+EUFI14,United States,Tennessee,47,Wayne,181
+EUFI14,United States,Tennessee,47,White,185
+EUFI14,United States,Tennessee,47,Williamson,187
+EUFI14,United States,Texas,48,,
+EUFI14,United States,Texas,48,Anderson,001
+EUFI14,United States,Texas,48,Angelina,005
+EUFI14,United States,Texas,48,Houston,225
+EUFI14,United States,Texas,48,Jasper,241
+EUFI14,United States,Texas,48,Nacogdoches,347
+EUFI14,United States,Texas,48,Newton,351
+EUFI14,United States,Texas,48,San Jacinto,407
+EUFI14,United States,Vermont,50,,
+EUFI14,United States,Vermont,50,Rutland,021
+EUFI14,United States,Vermont,50,Windham,025
+EUFI14,United States,Vermont,50,Windsor,027
+EUFI14,United States,Virginia,51,,
+EUFI14,United States,Virginia,51,Accomack,001
+EUFI14,United States,Virginia,51,Albemarle,003
+EUFI14,United States,Virginia,51,Alleghany,005
+EUFI14,United States,Virginia,51,Amelia,007
+EUFI14,United States,Virginia,51,Amherst,009
+EUFI14,United States,Virginia,51,Appomattox,011
+EUFI14,United States,Virginia,51,Arlington,013
+EUFI14,United States,Virginia,51,Augusta,015
+EUFI14,United States,Virginia,51,Bath,017
+EUFI14,United States,Virginia,51,Bedford,019
+EUFI14,United States,Virginia,51,Bland,021
+EUFI14,United States,Virginia,51,Botetourt,023
+EUFI14,United States,Virginia,51,Brunswick,025
+EUFI14,United States,Virginia,51,Buchanan,027
+EUFI14,United States,Virginia,51,Buckingham,029
+EUFI14,United States,Virginia,51,Campbell,031
+EUFI14,United States,Virginia,51,Caroline,033
+EUFI14,United States,Virginia,51,Charles City,036
+EUFI14,United States,Virginia,51,Charlotte,037
+EUFI14,United States,Virginia,51,Chesapeake ,550
+EUFI14,United States,Virginia,51,Chesterfield,041
+EUFI14,United States,Virginia,51,Clarke,043
+EUFI14,United States,Virginia,51,Craig,045
+EUFI14,United States,Virginia,51,Culpeper,047
+EUFI14,United States,Virginia,51,Dickenson,051
+EUFI14,United States,Virginia,51,Dinwiddie,053
+EUFI14,United States,Virginia,51,Essex,057
+EUFI14,United States,Virginia,51,Fairfax,059
+EUFI14,United States,Virginia,51,Fauquier,061
+EUFI14,United States,Virginia,51,Floyd,063
+EUFI14,United States,Virginia,51,Fluvanna,065
+EUFI14,United States,Virginia,51,Franklin,067
+EUFI14,United States,Virginia,51,Frederick,069
+EUFI14,United States,Virginia,51,Giles,071
+EUFI14,United States,Virginia,51,Gloucester,073
+EUFI14,United States,Virginia,51,Goochland,075
+EUFI14,United States,Virginia,51,Grayson,077
+EUFI14,United States,Virginia,51,Greene,079
+EUFI14,United States,Virginia,51,Greensville,081
+EUFI14,United States,Virginia,51,Halifax,083
+EUFI14,United States,Virginia,51,Hanover,085
+EUFI14,United States,Virginia,51,Henrico,087
+EUFI14,United States,Virginia,51,Highland,091
+EUFI14,United States,Virginia,51,Isle of Wight,093
+EUFI14,United States,Virginia,51,King and Queen,097
+EUFI14,United States,Virginia,51,King George,099
+EUFI14,United States,Virginia,51,King William,101
+EUFI14,United States,Virginia,51,Lancaster,103
+EUFI14,United States,Virginia,51,Lee,105
+EUFI14,United States,Virginia,51,Loudoun,107
+EUFI14,United States,Virginia,51,Louisa,109
+EUFI14,United States,Virginia,51,Lunenburg,111
+EUFI14,United States,Virginia,51,Madison,113
+EUFI14,United States,Virginia,51,Mathews,115
+EUFI14,United States,Virginia,51,Mecklenburg,117
+EUFI14,United States,Virginia,51,Middlesex,119
+EUFI14,United States,Virginia,51,Montgomery,121
+EUFI14,United States,Virginia,51,Nelson,125
+EUFI14,United States,Virginia,51,New Kent,127
+EUFI14,United States,Virginia,51,Northumberland,133
+EUFI14,United States,Virginia,51,Nottoway,135
+EUFI14,United States,Virginia,51,Orange,137
+EUFI14,United States,Virginia,51,Page,139
+EUFI14,United States,Virginia,51,Patrick,141
+EUFI14,United States,Virginia,51,Pittsylvania,143
+EUFI14,United States,Virginia,51,Powhatan,145
+EUFI14,United States,Virginia,51,Prince Edward,147
+EUFI14,United States,Virginia,51,Prince William,153
+EUFI14,United States,Virginia,51,Pulaski,155
+EUFI14,United States,Virginia,51,Rappahannock,157
+EUFI14,United States,Virginia,51,Richmond,159
+EUFI14,United States,Virginia,51,Rockbridge,163
+EUFI14,United States,Virginia,51,Rockingham,165
+EUFI14,United States,Virginia,51,Russell,167
+EUFI14,United States,Virginia,51,Scott,169
+EUFI14,United States,Virginia,51,Shenandoah,171
+EUFI14,United States,Virginia,51,Smyth,173
+EUFI14,United States,Virginia,51,Spotsylvania,177
+EUFI14,United States,Virginia,51,Stafford,179
+EUFI14,United States,Virginia,51,Suffolk ,800
+EUFI14,United States,Virginia,51,Sussex,183
+EUFI14,United States,Virginia,51,Tazewell,185
+EUFI14,United States,Virginia,51,Virginia Beach ,810
+EUFI14,United States,Virginia,51,Warren,187
+EUFI14,United States,Virginia,51,Washington,191
+EUFI14,United States,Virginia,51,Westmoreland,193
+EUFI14,United States,Virginia,51,Wise,195
+EUFI14,United States,Virginia,51,Wythe,197
+EUFI14,United States,West Virginia,54,,
+EUFI14,United States,West Virginia,54,Barbour,001
+EUFI14,United States,West Virginia,54,Braxton,007
+EUFI14,United States,West Virginia,54,Brooke,009
+EUFI14,United States,West Virginia,54,Cabell,011
+EUFI14,United States,West Virginia,54,Calhoun,013
+EUFI14,United States,West Virginia,54,Doddridge,017
+EUFI14,United States,West Virginia,54,Fayette,019
+EUFI14,United States,West Virginia,54,Grant,023
+EUFI14,United States,West Virginia,54,Greenbrier,025
+EUFI14,United States,West Virginia,54,Hampshire,027
+EUFI14,United States,West Virginia,54,Hancock,029
+EUFI14,United States,West Virginia,54,Hardy,031
+EUFI14,United States,West Virginia,54,Harrison,033
+EUFI14,United States,West Virginia,54,Kanawha,039
+EUFI14,United States,West Virginia,54,Lewis,041
+EUFI14,United States,West Virginia,54,Logan,045
+EUFI14,United States,West Virginia,54,Marion,049
+EUFI14,United States,West Virginia,54,Marshall,051
+EUFI14,United States,West Virginia,54,McDowell,047
+EUFI14,United States,West Virginia,54,Mercer,055
+EUFI14,United States,West Virginia,54,Mineral,057
+EUFI14,United States,West Virginia,54,Monongalia,061
+EUFI14,United States,West Virginia,54,Morgan,065
+EUFI14,United States,West Virginia,54,Nicholas,067
+EUFI14,United States,West Virginia,54,Ohio,069
+EUFI14,United States,West Virginia,54,Pocahontas,075
+EUFI14,United States,West Virginia,54,Preston,077
+EUFI14,United States,West Virginia,54,Raleigh,081
+EUFI14,United States,West Virginia,54,Randolph,083
+EUFI14,United States,West Virginia,54,Ritchie,085
+EUFI14,United States,West Virginia,54,Summers,089
+EUFI14,United States,West Virginia,54,Taylor,091
+EUFI14,United States,West Virginia,54,Tucker,093
+EUFI14,United States,West Virginia,54,Upshur,097
+EUFI14,United States,West Virginia,54,Wayne,099
+EUFI14,United States,West Virginia,54,Wetzel,103
+EUFI14,United States,West Virginia,54,Wirt,105
+EUFI14,United States,West Virginia,54,Wyoming,109

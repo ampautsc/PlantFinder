@@ -1,0 +1,137 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+POVI3,Canada,Alberta,01,,
+POVI3,Canada,British Columbia,02,,
+POVI3,United States,Alaska,02,,
+POVI3,United States,Alaska,02,Aleutians East,013
+POVI3,United States,Alaska,02,Aleutians West,016
+POVI3,United States,Alaska,02,Anchorage,020
+POVI3,United States,Alaska,02,Bethel,050
+POVI3,United States,Alaska,02,Chugach,063
+POVI3,United States,Alaska,02,Copper River,066
+POVI3,United States,Alaska,02,Denali,068
+POVI3,United States,Alaska,02,Dillingham,070
+POVI3,United States,Alaska,02,Fairbanks North Star,090
+POVI3,United States,Alaska,02,Haines,100
+POVI3,United States,Alaska,02,Juneau,110
+POVI3,United States,Alaska,02,Kenai Peninsula,122
+POVI3,United States,Alaska,02,Ketchikan Gateway,130
+POVI3,United States,Alaska,02,Kodiak Island,150
+POVI3,United States,Alaska,02,Lake and Peninsula,164
+POVI3,United States,Alaska,02,Matanuska-Susitna,170
+POVI3,United States,Alaska,02,Nome,180
+POVI3,United States,Alaska,02,North Slope,185
+POVI3,United States,Alaska,02,Northwest Arctic,188
+POVI3,United States,Alaska,02,Sitka,220
+POVI3,United States,Alaska,02,Southeast Fairbanks,240
+POVI3,United States,Alaska,02,Yakutat,282
+POVI3,United States,Alaska,02,Yukon-Koyukuk,290
+POVI3,Canada,Manitoba,03,,
+POVI3,Canada,New Brunswick,04,,
+POVI3,United States,Arizona,04,,
+POVI3,Canada,Nova Scotia,07,,
+POVI3,Canada,Ontario,08,,
+POVI3,United States,Colorado,08,,
+POVI3,United States,Colorado,08,Alamosa,003
+POVI3,United States,Colorado,08,Archuleta,007
+POVI3,United States,Colorado,08,Boulder,013
+POVI3,United States,Colorado,08,Chaffee,015
+POVI3,United States,Colorado,08,Clear Creek,019
+POVI3,United States,Colorado,08,Custer,027
+POVI3,United States,Colorado,08,Dolores,033
+POVI3,United States,Colorado,08,Eagle,037
+POVI3,United States,Colorado,08,Garfield,045
+POVI3,United States,Colorado,08,Gilpin,047
+POVI3,United States,Colorado,08,Grand,049
+POVI3,United States,Colorado,08,Gunnison,051
+POVI3,United States,Colorado,08,Hinsdale,053
+POVI3,United States,Colorado,08,La Plata,067
+POVI3,United States,Colorado,08,Lake,065
+POVI3,United States,Colorado,08,Larimer,069
+POVI3,United States,Colorado,08,Mesa,077
+POVI3,United States,Colorado,08,Mineral,079
+POVI3,United States,Colorado,08,Montezuma,083
+POVI3,United States,Colorado,08,Park,093
+POVI3,United States,Colorado,08,Pitkin,097
+POVI3,United States,Colorado,08,Saguache,109
+POVI3,United States,Colorado,08,San Juan,111
+POVI3,United States,Colorado,08,San Miguel,113
+POVI3,United States,Colorado,08,Summit,117
+POVI3,United States,Colorado,08,Teller,119
+POVI3,Canada,Quebec,10,,
+POVI3,Canada,Saskatchewan,11,,
+POVI3,Canada,Yukon,12,,
+POVI3,Canada,Northwest Territories,13,,
+POVI3,Canada,Nunavut,14,,
+POVI3,United States,Idaho,16,,
+POVI3,United States,Idaho,16,Blaine,013
+POVI3,United States,Idaho,16,Bonner,017
+POVI3,United States,Idaho,16,Custer,037
+POVI3,United States,Idaho,16,Fremont,043
+POVI3,United States,Idaho,16,Idaho,049
+POVI3,United States,Idaho,16,Lemhi,059
+POVI3,United States,Maine,23,,
+POVI3,United States,Maine,23,Piscataquis,021
+POVI3,United States,Michigan,26,,
+POVI3,United States,Michigan,26,Keweenaw,083
+POVI3,United States,Minnesota,27,,
+POVI3,United States,Minnesota,27,Cook,031
+POVI3,United States,Montana,30,,
+POVI3,United States,Montana,30,Carbon,009
+POVI3,United States,Montana,30,Deer Lodge,023
+POVI3,United States,Montana,30,Glacier,035
+POVI3,United States,Montana,30,Judith Basin,045
+POVI3,United States,Montana,30,Powell,077
+POVI3,United States,Montana,30,Stillwater,095
+POVI3,United States,Nevada,32,,
+POVI3,United States,Nevada,32,Elko,007
+POVI3,United States,Nevada,32,White Pine,033
+POVI3,United States,New Hampshire,33,,
+POVI3,United States,New Hampshire,33,Coos,007
+POVI3,United States,New Mexico,35,,
+POVI3,United States,New Mexico,35,Mora,033
+POVI3,United States,New Mexico,35,Rio Arriba,039
+POVI3,United States,New Mexico,35,San Miguel,047
+POVI3,United States,New Mexico,35,Taos,055
+POVI3,United States,Oregon,41,,
+POVI3,United States,Oregon,41,Harney,025
+POVI3,United States,Oregon,41,Wallowa,063
+POVI3,United States,South Dakota,46,,
+POVI3,United States,South Dakota,46,Custer,033
+POVI3,United States,South Dakota,46,Pennington,103
+POVI3,United States,Utah,49,,
+POVI3,United States,Utah,49,Beaver,001
+POVI3,United States,Utah,49,Cache,005
+POVI3,United States,Utah,49,Daggett,009
+POVI3,United States,Utah,49,Duchesne,013
+POVI3,United States,Utah,49,Emery,015
+POVI3,United States,Utah,49,Garfield,017
+POVI3,United States,Utah,49,Iron,021
+POVI3,United States,Utah,49,Salt Lake,035
+POVI3,United States,Utah,49,San Juan,037
+POVI3,United States,Utah,49,Sanpete,039
+POVI3,United States,Utah,49,Sevier,041
+POVI3,United States,Utah,49,Summit,043
+POVI3,United States,Utah,49,Uintah,047
+POVI3,United States,Utah,49,Wasatch,051
+POVI3,United States,Vermont,50,,
+POVI3,United States,Vermont,50,Lamoille,015
+POVI3,United States,Washington,53,,
+POVI3,United States,Washington,53,Chelan,007
+POVI3,United States,Washington,53,Okanogan,047
+POVI3,United States,Washington,53,Whatcom,073
+POVI3,United States,Wyoming,56,,
+POVI3,United States,Wyoming,56,Albany,001
+POVI3,United States,Wyoming,56,Big Horn,003
+POVI3,United States,Wyoming,56,Carbon,007
+POVI3,United States,Wyoming,56,Fremont,013
+POVI3,United States,Wyoming,56,Hot Springs,017
+POVI3,United States,Wyoming,56,Johnson,019
+POVI3,United States,Wyoming,56,Laramie,021
+POVI3,United States,Wyoming,56,Park,029
+POVI3,United States,Wyoming,56,Sheridan,033
+POVI3,United States,Wyoming,56,Sublette,035
+POVI3,United States,Wyoming,56,Teton,039
+POVI3,United States,Wyoming,56,Washakie,043
+POVI3,Canada,Labrador,LB,,
+POVI3,Canada,Newfoundland,NF,,

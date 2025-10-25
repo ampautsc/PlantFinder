@@ -1,0 +1,496 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+DICA,Canada,Ontario,08,,
+DICA,United States,Connecticut,09,,
+DICA,United States,Connecticut,09,Hartford,003
+DICA,United States,Connecticut,09,Litchfield,005
+DICA,Canada,Quebec,10,,
+DICA,United States,Georgia,13,,
+DICA,United States,Georgia,13,Union,291
+DICA,United States,Illinois,17,,
+DICA,United States,Illinois,17,Alexander,003
+DICA,United States,Illinois,17,Calhoun,013
+DICA,United States,Illinois,17,Champaign,019
+DICA,United States,Illinois,17,Coles,029
+DICA,United States,Illinois,17,Cook,031
+DICA,United States,Illinois,17,Crawford,033
+DICA,United States,Illinois,17,DuPage,043
+DICA,United States,Illinois,17,Effingham,049
+DICA,United States,Illinois,17,Gallatin,059
+DICA,United States,Illinois,17,Grundy,063
+DICA,United States,Illinois,17,Hardin,069
+DICA,United States,Illinois,17,Jackson,077
+DICA,United States,Illinois,17,Jo Daviess,085
+DICA,United States,Illinois,17,Johnson,087
+DICA,United States,Illinois,17,Kankakee,091
+DICA,United States,Illinois,17,Kendall,093
+DICA,United States,Illinois,17,LaSalle,099
+DICA,United States,Illinois,17,Livingston,105
+DICA,United States,Illinois,17,Logan,107
+DICA,United States,Illinois,17,Macon,115
+DICA,United States,Illinois,17,McLean,113
+DICA,United States,Illinois,17,Ogle,141
+DICA,United States,Illinois,17,Peoria,143
+DICA,United States,Illinois,17,Pope,151
+DICA,United States,Illinois,17,Putnam,155
+DICA,United States,Illinois,17,Sangamon,167
+DICA,United States,Illinois,17,Shelby,173
+DICA,United States,Illinois,17,St. Clair,163
+DICA,United States,Illinois,17,Tazewell,179
+DICA,United States,Illinois,17,Union,181
+DICA,United States,Illinois,17,Vermilion,183
+DICA,United States,Illinois,17,Will,197
+DICA,United States,Illinois,17,Williamson,199
+DICA,United States,Illinois,17,Winnebago,201
+DICA,United States,Indiana,18,,
+DICA,United States,Indiana,18,Brown,013
+DICA,United States,Indiana,18,Carroll,015
+DICA,United States,Indiana,18,Clark,019
+DICA,United States,Indiana,18,Crawford,025
+DICA,United States,Indiana,18,Decatur,031
+DICA,United States,Indiana,18,DeKalb,033
+DICA,United States,Indiana,18,Delaware,035
+DICA,United States,Indiana,18,Fayette,041
+DICA,United States,Indiana,18,Floyd,043
+DICA,United States,Indiana,18,Fountain,045
+DICA,United States,Indiana,18,Hancock,059
+DICA,United States,Indiana,18,Harrison,061
+DICA,United States,Indiana,18,Hendricks,063
+DICA,United States,Indiana,18,Howard,067
+DICA,United States,Indiana,18,Huntington,069
+DICA,United States,Indiana,18,Jackson,071
+DICA,United States,Indiana,18,Jefferson,077
+DICA,United States,Indiana,18,Jennings,079
+DICA,United States,Indiana,18,Johnson,081
+DICA,United States,Indiana,18,Lawrence,093
+DICA,United States,Indiana,18,Marion,097
+DICA,United States,Indiana,18,Monroe,105
+DICA,United States,Indiana,18,Montgomery,107
+DICA,United States,Indiana,18,Morgan,109
+DICA,United States,Indiana,18,Noble,113
+DICA,United States,Indiana,18,Owen,119
+DICA,United States,Indiana,18,Parke,121
+DICA,United States,Indiana,18,Posey,129
+DICA,United States,Indiana,18,Putnam,133
+DICA,United States,Indiana,18,Rush,139
+DICA,United States,Indiana,18,Spencer,147
+DICA,United States,Indiana,18,St. Joseph,141
+DICA,United States,Indiana,18,Tippecanoe,157
+DICA,United States,Indiana,18,Vigo,167
+DICA,United States,Indiana,18,Wabash,169
+DICA,United States,Indiana,18,Warren,171
+DICA,United States,Indiana,18,Washington,175
+DICA,United States,Indiana,18,Wayne,177
+DICA,United States,Indiana,18,Wells,179
+DICA,United States,Iowa,19,,
+DICA,United States,Kentucky,21,,
+DICA,United States,Kentucky,21,Anderson,005
+DICA,United States,Kentucky,21,Barren,009
+DICA,United States,Kentucky,21,Bell,013
+DICA,United States,Kentucky,21,Boone,015
+DICA,United States,Kentucky,21,Bracken,023
+DICA,United States,Kentucky,21,Breckinridge,027
+DICA,United States,Kentucky,21,Bullitt,029
+DICA,United States,Kentucky,21,Campbell,037
+DICA,United States,Kentucky,21,Carroll,041
+DICA,United States,Kentucky,21,Casey,045
+DICA,United States,Kentucky,21,Clark,049
+DICA,United States,Kentucky,21,Crittenden,055
+DICA,United States,Kentucky,21,Edmonson,061
+DICA,United States,Kentucky,21,Elliott,063
+DICA,United States,Kentucky,21,Fayette,067
+DICA,United States,Kentucky,21,Floyd,071
+DICA,United States,Kentucky,21,Franklin,073
+DICA,United States,Kentucky,21,Garrard,079
+DICA,United States,Kentucky,21,Grayson,085
+DICA,United States,Kentucky,21,Greenup,089
+DICA,United States,Kentucky,21,Harlan,095
+DICA,United States,Kentucky,21,Harrison,097
+DICA,United States,Kentucky,21,Hart,099
+DICA,United States,Kentucky,21,Henry,103
+DICA,United States,Kentucky,21,Jackson,109
+DICA,United States,Kentucky,21,Jefferson,111
+DICA,United States,Kentucky,21,Jessamine,113
+DICA,United States,Kentucky,21,Kenton,117
+DICA,United States,Kentucky,21,Letcher,133
+DICA,United States,Kentucky,21,Lewis,135
+DICA,United States,Kentucky,21,Madison,151
+DICA,United States,Kentucky,21,Mason,161
+DICA,United States,Kentucky,21,Meade,163
+DICA,United States,Kentucky,21,Mercer,167
+DICA,United States,Kentucky,21,Metcalfe,169
+DICA,United States,Kentucky,21,Morgan,175
+DICA,United States,Kentucky,21,Nicholas,181
+DICA,United States,Kentucky,21,Oldham,185
+DICA,United States,Kentucky,21,Owen,187
+DICA,United States,Kentucky,21,Pendleton,191
+DICA,United States,Kentucky,21,Robertson,201
+DICA,United States,Kentucky,21,Rockcastle,203
+DICA,United States,Kentucky,21,Rowan,205
+DICA,United States,Kentucky,21,Trimble,223
+DICA,United States,Kentucky,21,Union,225
+DICA,United States,Kentucky,21,Wolfe,237
+DICA,United States,Kentucky,21,Woodford,239
+DICA,United States,Maine,23,,
+DICA,United States,Maryland,24,,
+DICA,United States,Massachusetts,25,,
+DICA,United States,Massachusetts,25,Berkshire,003
+DICA,United States,Massachusetts,25,Franklin,011
+DICA,United States,Massachusetts,25,Hampden,013
+DICA,United States,Massachusetts,25,Hampshire,015
+DICA,United States,Massachusetts,25,Norfolk,021
+DICA,United States,Massachusetts,25,Worcester,027
+DICA,United States,Michigan,26,,
+DICA,United States,Michigan,26,Alcona,001
+DICA,United States,Michigan,26,Alger,003
+DICA,United States,Michigan,26,Allegan,005
+DICA,United States,Michigan,26,Alpena,007
+DICA,United States,Michigan,26,Antrim,009
+DICA,United States,Michigan,26,Arenac,011
+DICA,United States,Michigan,26,Barry,015
+DICA,United States,Michigan,26,Benzie,019
+DICA,United States,Michigan,26,Berrien,021
+DICA,United States,Michigan,26,Branch,023
+DICA,United States,Michigan,26,Calhoun,025
+DICA,United States,Michigan,26,Cass,027
+DICA,United States,Michigan,26,Charlevoix,029
+DICA,United States,Michigan,26,Cheboygan,031
+DICA,United States,Michigan,26,Chippewa,033
+DICA,United States,Michigan,26,Clare,035
+DICA,United States,Michigan,26,Crawford,039
+DICA,United States,Michigan,26,Delta,041
+DICA,United States,Michigan,26,Dickinson,043
+DICA,United States,Michigan,26,Eaton,045
+DICA,United States,Michigan,26,Emmet,047
+DICA,United States,Michigan,26,Gladwin,051
+DICA,United States,Michigan,26,Grand Traverse,055
+DICA,United States,Michigan,26,Gratiot,057
+DICA,United States,Michigan,26,Hillsdale,059
+DICA,United States,Michigan,26,Huron,063
+DICA,United States,Michigan,26,Ingham,065
+DICA,United States,Michigan,26,Ionia,067
+DICA,United States,Michigan,26,Iosco,069
+DICA,United States,Michigan,26,Isabella,073
+DICA,United States,Michigan,26,Jackson,075
+DICA,United States,Michigan,26,Kalamazoo,077
+DICA,United States,Michigan,26,Kalkaska,079
+DICA,United States,Michigan,26,Kent,081
+DICA,United States,Michigan,26,Lake,085
+DICA,United States,Michigan,26,Lapeer,087
+DICA,United States,Michigan,26,Leelanau,089
+DICA,United States,Michigan,26,Lenawee,091
+DICA,United States,Michigan,26,Luce,095
+DICA,United States,Michigan,26,Mackinac,097
+DICA,United States,Michigan,26,Marquette,103
+DICA,United States,Michigan,26,Mason,105
+DICA,United States,Michigan,26,Mecosta,107
+DICA,United States,Michigan,26,Monroe,115
+DICA,United States,Michigan,26,Montcalm,117
+DICA,United States,Michigan,26,Montmorency,119
+DICA,United States,Michigan,26,Muskegon,121
+DICA,United States,Michigan,26,Newaygo,123
+DICA,United States,Michigan,26,Oakland,125
+DICA,United States,Michigan,26,Oceana,127
+DICA,United States,Michigan,26,Osceola,133
+DICA,United States,Michigan,26,Oscoda,135
+DICA,United States,Michigan,26,Otsego,137
+DICA,United States,Michigan,26,Ottawa,139
+DICA,United States,Michigan,26,Presque Isle,141
+DICA,United States,Michigan,26,Roscommon,143
+DICA,United States,Michigan,26,Saginaw,145
+DICA,United States,Michigan,26,Sanilac,151
+DICA,United States,Michigan,26,Schoolcraft,153
+DICA,United States,Michigan,26,Shiawassee,155
+DICA,United States,Michigan,26,St. Clair,147
+DICA,United States,Michigan,26,Tuscola,157
+DICA,United States,Michigan,26,Van Buren,159
+DICA,United States,Michigan,26,Washtenaw,161
+DICA,United States,Michigan,26,Wayne,163
+DICA,United States,Michigan,26,Wexford,165
+DICA,United States,Minnesota,27,,
+DICA,United States,Minnesota,27,Fillmore,045
+DICA,United States,Minnesota,27,Goodhue,049
+DICA,United States,Minnesota,27,Houston,055
+DICA,United States,Minnesota,27,Olmsted,109
+DICA,United States,Minnesota,27,Wabasha,157
+DICA,United States,Minnesota,27,Winona,169
+DICA,United States,Missouri,29,,
+DICA,United States,Missouri,29,Benton,015
+DICA,United States,Missouri,29,Boone,019
+DICA,United States,Missouri,29,Cole,051
+DICA,United States,Missouri,29,Cooper,053
+DICA,United States,Missouri,29,Daviess,061
+DICA,United States,Missouri,29,Franklin,071
+DICA,United States,Missouri,29,Hickory,085
+DICA,United States,Missouri,29,Jackson,095
+DICA,United States,Missouri,29,Jefferson,099
+DICA,United States,Missouri,29,Lincoln,113
+DICA,United States,Missouri,29,Marion,127
+DICA,United States,Missouri,29,St. Louis,189
+DICA,United States,Missouri,29,Taney,213
+DICA,United States,Missouri,29,Warren,219
+DICA,United States,Missouri,29,Washington,221
+DICA,United States,New Hampshire,33,,
+DICA,United States,New Hampshire,33,Coos,007
+DICA,United States,New Hampshire,33,Grafton,009
+DICA,United States,New Jersey,34,,
+DICA,United States,New Jersey,34,Hunterdon,019
+DICA,United States,New Jersey,34,Mercer,021
+DICA,United States,New Jersey,34,Somerset,035
+DICA,United States,New Jersey,34,Sussex,037
+DICA,United States,New York,36,,
+DICA,United States,New York,36,Albany,001
+DICA,United States,New York,36,Bronx,005
+DICA,United States,New York,36,Cattaraugus,009
+DICA,United States,New York,36,Cayuga,011
+DICA,United States,New York,36,Chautauqua,013
+DICA,United States,New York,36,Chemung,015
+DICA,United States,New York,36,Chenango,017
+DICA,United States,New York,36,Clinton,019
+DICA,United States,New York,36,Columbia,021
+DICA,United States,New York,36,Cortland,023
+DICA,United States,New York,36,Delaware,025
+DICA,United States,New York,36,Erie,029
+DICA,United States,New York,36,Essex,031
+DICA,United States,New York,36,Genesee,037
+DICA,United States,New York,36,Greene,039
+DICA,United States,New York,36,Hamilton,041
+DICA,United States,New York,36,Jefferson,045
+DICA,United States,New York,36,Lewis,049
+DICA,United States,New York,36,Madison,053
+DICA,United States,New York,36,Monroe,055
+DICA,United States,New York,36,Niagara,063
+DICA,United States,New York,36,Oneida,065
+DICA,United States,New York,36,Onondaga,067
+DICA,United States,New York,36,Otsego,077
+DICA,United States,New York,36,Putnam,079
+DICA,United States,New York,36,Rensselaer,083
+DICA,United States,New York,36,Richmond,085
+DICA,United States,New York,36,Saratoga,091
+DICA,United States,New York,36,Schuyler,097
+DICA,United States,New York,36,Seneca,099
+DICA,United States,New York,36,St. Lawrence,089
+DICA,United States,New York,36,Steuben,101
+DICA,United States,New York,36,Tioga,107
+DICA,United States,New York,36,Tompkins,109
+DICA,United States,New York,36,Ulster,111
+DICA,United States,New York,36,Washington,115
+DICA,United States,New York,36,Wayne,117
+DICA,United States,New York,36,Westchester,119
+DICA,United States,New York,36,Wyoming,121
+DICA,United States,New York,36,Yates,123
+DICA,United States,North Carolina,37,,
+DICA,United States,North Carolina,37,Alleghany,005
+DICA,United States,North Carolina,37,Ashe,009
+DICA,United States,North Carolina,37,Avery,011
+DICA,United States,North Carolina,37,Jackson,099
+DICA,United States,North Carolina,37,Mitchell,121
+DICA,United States,North Carolina,37,Stokes,169
+DICA,United States,North Carolina,37,Swain,173
+DICA,United States,North Carolina,37,Yancey,199
+DICA,United States,Ohio,39,,
+DICA,United States,Ohio,39,Ashland,005
+DICA,United States,Ohio,39,Ashtabula,007
+DICA,United States,Ohio,39,Athens,009
+DICA,United States,Ohio,39,Butler,017
+DICA,United States,Ohio,39,Clermont,025
+DICA,United States,Ohio,39,Clinton,027
+DICA,United States,Ohio,39,Columbiana,029
+DICA,United States,Ohio,39,Coshocton,031
+DICA,United States,Ohio,39,Crawford,033
+DICA,United States,Ohio,39,Cuyahoga,035
+DICA,United States,Ohio,39,Delaware,041
+DICA,United States,Ohio,39,Erie,043
+DICA,United States,Ohio,39,Fairfield,045
+DICA,United States,Ohio,39,Franklin,049
+DICA,United States,Ohio,39,Geauga,055
+DICA,United States,Ohio,39,Greene,057
+DICA,United States,Ohio,39,Guernsey,059
+DICA,United States,Ohio,39,Hamilton,061
+DICA,United States,Ohio,39,Hocking,073
+DICA,United States,Ohio,39,Holmes,075
+DICA,United States,Ohio,39,Huron,077
+DICA,United States,Ohio,39,Jefferson,081
+DICA,United States,Ohio,39,Knox,083
+DICA,United States,Ohio,39,Lake,085
+DICA,United States,Ohio,39,Lawrence,087
+DICA,United States,Ohio,39,Licking,089
+DICA,United States,Ohio,39,Lorain,093
+DICA,United States,Ohio,39,Medina,103
+DICA,United States,Ohio,39,Meigs,105
+DICA,United States,Ohio,39,Monroe,111
+DICA,United States,Ohio,39,Morgan,115
+DICA,United States,Ohio,39,Morrow,117
+DICA,United States,Ohio,39,Noble,121
+DICA,United States,Ohio,39,Perry,127
+DICA,United States,Ohio,39,Portage,133
+DICA,United States,Ohio,39,Richland,139
+DICA,United States,Ohio,39,Ross,141
+DICA,United States,Ohio,39,Seneca,147
+DICA,United States,Ohio,39,Stark,151
+DICA,United States,Ohio,39,Summit,153
+DICA,United States,Ohio,39,Trumbull,155
+DICA,United States,Ohio,39,Tuscarawas,157
+DICA,United States,Ohio,39,Vinton,163
+DICA,United States,Ohio,39,Wayne,169
+DICA,United States,Ohio,39,Wyandot,175
+DICA,United States,Pennsylvania,42,,
+DICA,United States,Pennsylvania,42,Allegheny,003
+DICA,United States,Pennsylvania,42,Armstrong,005
+DICA,United States,Pennsylvania,42,Beaver,007
+DICA,United States,Pennsylvania,42,Bedford,009
+DICA,United States,Pennsylvania,42,Blair,013
+DICA,United States,Pennsylvania,42,Bradford,015
+DICA,United States,Pennsylvania,42,Bucks,017
+DICA,United States,Pennsylvania,42,Butler,019
+DICA,United States,Pennsylvania,42,Cambria,021
+DICA,United States,Pennsylvania,42,Cameron,023
+DICA,United States,Pennsylvania,42,Chester,029
+DICA,United States,Pennsylvania,42,Clearfield,033
+DICA,United States,Pennsylvania,42,Clinton,035
+DICA,United States,Pennsylvania,42,Cumberland,041
+DICA,United States,Pennsylvania,42,Elk,047
+DICA,United States,Pennsylvania,42,Erie,049
+DICA,United States,Pennsylvania,42,Fayette,051
+DICA,United States,Pennsylvania,42,Forest,053
+DICA,United States,Pennsylvania,42,Greene,059
+DICA,United States,Pennsylvania,42,Indiana,063
+DICA,United States,Pennsylvania,42,Lackawanna,069
+DICA,United States,Pennsylvania,42,Lancaster,071
+DICA,United States,Pennsylvania,42,Lawrence,073
+DICA,United States,Pennsylvania,42,Lycoming,081
+DICA,United States,Pennsylvania,42,McKean,083
+DICA,United States,Pennsylvania,42,Mercer,085
+DICA,United States,Pennsylvania,42,Monroe,089
+DICA,United States,Pennsylvania,42,Montgomery,091
+DICA,United States,Pennsylvania,42,Philadelphia,101
+DICA,United States,Pennsylvania,42,Pike,103
+DICA,United States,Pennsylvania,42,Potter,105
+DICA,United States,Pennsylvania,42,Somerset,111
+DICA,United States,Pennsylvania,42,Sullivan,113
+DICA,United States,Pennsylvania,42,Susquehanna,115
+DICA,United States,Pennsylvania,42,Tioga,117
+DICA,United States,Pennsylvania,42,Venango,121
+DICA,United States,Pennsylvania,42,Warren,123
+DICA,United States,Pennsylvania,42,Washington,125
+DICA,United States,Pennsylvania,42,Wayne,127
+DICA,United States,Pennsylvania,42,Westmoreland,129
+DICA,United States,Pennsylvania,42,Wyoming,131
+DICA,United States,Pennsylvania,42,York,133
+DICA,United States,Rhode Island,44,,
+DICA,United States,South Carolina,45,,
+DICA,United States,Tennessee,47,,
+DICA,United States,Tennessee,47,Cannon,015
+DICA,United States,Tennessee,47,Cocke,029
+DICA,United States,Tennessee,47,Coffee,031
+DICA,United States,Tennessee,47,Greene,059
+DICA,United States,Tennessee,47,Hawkins,073
+DICA,United States,Tennessee,47,Jackson,087
+DICA,United States,Tennessee,47,Knox,093
+DICA,United States,Tennessee,47,Monroe,123
+DICA,United States,Tennessee,47,Morgan,129
+DICA,United States,Tennessee,47,Sevier,155
+DICA,United States,Tennessee,47,Sumner,165
+DICA,United States,Tennessee,47,Unicoi,171
+DICA,United States,Vermont,50,,
+DICA,United States,Vermont,50,Addison,001
+DICA,United States,Vermont,50,Bennington,003
+DICA,United States,Vermont,50,Chittenden,007
+DICA,United States,Vermont,50,Essex,009
+DICA,United States,Vermont,50,Franklin,011
+DICA,United States,Vermont,50,Lamoille,015
+DICA,United States,Vermont,50,Orange,017
+DICA,United States,Vermont,50,Orleans,019
+DICA,United States,Vermont,50,Rutland,021
+DICA,United States,Vermont,50,Washington,023
+DICA,United States,Vermont,50,Windham,025
+DICA,United States,Vermont,50,Windsor,027
+DICA,United States,Virginia,51,,
+DICA,United States,Virginia,51,Alleghany,005
+DICA,United States,Virginia,51,Appomattox,011
+DICA,United States,Virginia,51,Arlington,013
+DICA,United States,Virginia,51,Bath,017
+DICA,United States,Virginia,51,Campbell,031
+DICA,United States,Virginia,51,Caroline,033
+DICA,United States,Virginia,51,Chesterfield,041
+DICA,United States,Virginia,51,Clarke,043
+DICA,United States,Virginia,51,Cumberland,049
+DICA,United States,Virginia,51,Dickenson,051
+DICA,United States,Virginia,51,Fairfax,059
+DICA,United States,Virginia,51,Giles,071
+DICA,United States,Virginia,51,Grayson,077
+DICA,United States,Virginia,51,Greene,079
+DICA,United States,Virginia,51,Halifax,083
+DICA,United States,Virginia,51,Highland,091
+DICA,United States,Virginia,51,Loudoun,107
+DICA,United States,Virginia,51,Nelson,125
+DICA,United States,Virginia,51,Powhatan,145
+DICA,United States,Virginia,51,Rockbridge,163
+DICA,United States,Virginia,51,Russell,167
+DICA,United States,Virginia,51,Shenandoah,171
+DICA,United States,Virginia,51,Smyth,173
+DICA,United States,Virginia,51,Tazewell,185
+DICA,United States,Virginia,51,Warren,187
+DICA,United States,Virginia,51,Washington,191
+DICA,United States,West Virginia,54,,
+DICA,United States,West Virginia,54,Barbour,001
+DICA,United States,West Virginia,54,Boone,005
+DICA,United States,West Virginia,54,Brooke,009
+DICA,United States,West Virginia,54,Cabell,011
+DICA,United States,West Virginia,54,Calhoun,013
+DICA,United States,West Virginia,54,Fayette,019
+DICA,United States,West Virginia,54,Harrison,033
+DICA,United States,West Virginia,54,Jackson,035
+DICA,United States,West Virginia,54,Jefferson,037
+DICA,United States,West Virginia,54,Kanawha,039
+DICA,United States,West Virginia,54,Logan,045
+DICA,United States,West Virginia,54,Marion,049
+DICA,United States,West Virginia,54,Marshall,051
+DICA,United States,West Virginia,54,Mercer,055
+DICA,United States,West Virginia,54,Mineral,057
+DICA,United States,West Virginia,54,Mingo,059
+DICA,United States,West Virginia,54,Monongalia,061
+DICA,United States,West Virginia,54,Monroe,063
+DICA,United States,West Virginia,54,Nicholas,067
+DICA,United States,West Virginia,54,Ohio,069
+DICA,United States,West Virginia,54,Pendleton,071
+DICA,United States,West Virginia,54,Pleasants,073
+DICA,United States,West Virginia,54,Pocahontas,075
+DICA,United States,West Virginia,54,Raleigh,081
+DICA,United States,West Virginia,54,Randolph,083
+DICA,United States,West Virginia,54,Ritchie,085
+DICA,United States,West Virginia,54,Summers,089
+DICA,United States,West Virginia,54,Tucker,093
+DICA,United States,West Virginia,54,Tyler,095
+DICA,United States,West Virginia,54,Wetzel,103
+DICA,United States,West Virginia,54,Wirt,105
+DICA,United States,Wisconsin,55,,
+DICA,United States,Wisconsin,55,Ashland,003
+DICA,United States,Wisconsin,55,Barron,005
+DICA,United States,Wisconsin,55,Brown,009
+DICA,United States,Wisconsin,55,Calumet,015
+DICA,United States,Wisconsin,55,Clark,019
+DICA,United States,Wisconsin,55,Dane,025
+DICA,United States,Wisconsin,55,Door,029
+DICA,United States,Wisconsin,55,Florence,037
+DICA,United States,Wisconsin,55,Forest,041
+DICA,United States,Wisconsin,55,Grant,043
+DICA,United States,Wisconsin,55,Jackson,053
+DICA,United States,Wisconsin,55,Kewaunee,061
+DICA,United States,Wisconsin,55,La Crosse,063
+DICA,United States,Wisconsin,55,Lincoln,069
+DICA,United States,Wisconsin,55,Manitowoc,071
+DICA,United States,Wisconsin,55,Marathon,073
+DICA,United States,Wisconsin,55,Marinette,075
+DICA,United States,Wisconsin,55,Menominee,078
+DICA,United States,Wisconsin,55,Milwaukee,079
+DICA,United States,Wisconsin,55,Oconto,083
+DICA,United States,Wisconsin,55,Outagamie,087
+DICA,United States,Wisconsin,55,Ozaukee,089
+DICA,United States,Wisconsin,55,Pierce,093
+DICA,United States,Wisconsin,55,Rock,105
+DICA,United States,Wisconsin,55,Shawano,115
+DICA,United States,Wisconsin,55,Sheboygan,117
+DICA,United States,Wisconsin,55,Taylor,119
+DICA,United States,Wisconsin,55,Trempealeau,121
+DICA,United States,Wisconsin,55,Waupaca,135

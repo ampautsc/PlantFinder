@@ -1,0 +1,436 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+GAPUP2,United States,Alabama,01,,
+GAPUP2,Canada,Manitoba,03,,
+GAPUP2,United States,Arizona,04,,
+GAPUP2,United States,Arizona,04,Apache,001
+GAPUP2,United States,Arizona,04,Cochise,003
+GAPUP2,United States,Arizona,04,Gila,007
+GAPUP2,United States,Arizona,04,Graham,009
+GAPUP2,United States,Arizona,04,Greenlee,011
+GAPUP2,United States,Arizona,04,Navajo,017
+GAPUP2,United States,Arizona,04,Pima,019
+GAPUP2,United States,Arizona,04,Pinal,021
+GAPUP2,United States,Arizona,04,Yavapai,025
+GAPUP2,United States,Arkansas,05,,
+GAPUP2,United States,Arkansas,05,Baxter,005
+GAPUP2,United States,Arkansas,05,Columbia,027
+GAPUP2,United States,Arkansas,05,Hempstead,057
+GAPUP2,United States,Arkansas,05,Jefferson,069
+GAPUP2,United States,Arkansas,05,Pulaski,119
+GAPUP2,United States,Arkansas,05,Sebastian,131
+GAPUP2,United States,California,06,,
+GAPUP2,United States,California,06,Alameda,001
+GAPUP2,United States,California,06,Madera,039
+GAPUP2,Canada,Ontario,08,,
+GAPUP2,United States,Colorado,08,,
+GAPUP2,United States,Colorado,08,Baca,009
+GAPUP2,United States,Colorado,08,Bent,011
+GAPUP2,United States,Colorado,08,Boulder,013
+GAPUP2,United States,Colorado,08,Prowers,099
+GAPUP2,United States,Connecticut,09,,
+GAPUP2,United States,Connecticut,09,Fairfield,001
+GAPUP2,United States,Connecticut,09,Litchfield,005
+GAPUP2,United States,Connecticut,09,New Haven,009
+GAPUP2,Canada,Quebec,10,,
+GAPUP2,United States,Delaware,10,,
+GAPUP2,United States,Florida,12,,
+GAPUP2,United States,Florida,12,Alachua,001
+GAPUP2,United States,Florida,12,Bay,005
+GAPUP2,United States,Florida,12,Brevard,009
+GAPUP2,United States,Florida,12,Duval,031
+GAPUP2,United States,Florida,12,Flagler,035
+GAPUP2,United States,Florida,12,Franklin,037
+GAPUP2,United States,Florida,12,Hernando,053
+GAPUP2,United States,Florida,12,Indian River,061
+GAPUP2,United States,Florida,12,Lafayette,067
+GAPUP2,United States,Florida,12,Lake,069
+GAPUP2,United States,Florida,12,Lee,071
+GAPUP2,United States,Florida,12,Leon,073
+GAPUP2,United States,Florida,12,Marion,083
+GAPUP2,United States,Florida,12,Martin,085
+GAPUP2,United States,Florida,12,Miami-Dade,086
+GAPUP2,United States,Florida,12,Monroe,087
+GAPUP2,United States,Florida,12,Okaloosa,091
+GAPUP2,United States,Florida,12,Palm Beach,099
+GAPUP2,United States,Florida,12,Pasco,101
+GAPUP2,United States,Florida,12,Pinellas,103
+GAPUP2,United States,Florida,12,Polk,105
+GAPUP2,United States,Florida,12,Sarasota,115
+GAPUP2,United States,Florida,12,St. Johns,109
+GAPUP2,United States,Florida,12,Volusia,127
+GAPUP2,United States,Florida,12,Wakulla,129
+GAPUP2,United States,Florida,12,Walton,131
+GAPUP2,United States,Georgia,13,,
+GAPUP2,United States,Hawaii,15,,
+GAPUP2,United States,Hawaii,15,Honolulu,003
+GAPUP2,United States,Hawaii,15,Kauai,007
+GAPUP2,United States,Hawaii,15,Maui,009
+GAPUP2,United States,Illinois,17,,
+GAPUP2,United States,Illinois,17,Cass,017
+GAPUP2,United States,Illinois,17,Cook,031
+GAPUP2,United States,Illinois,17,Hancock,067
+GAPUP2,United States,Illinois,17,Kane,089
+GAPUP2,United States,Illinois,17,McLean,113
+GAPUP2,United States,Illinois,17,Morgan,137
+GAPUP2,United States,Illinois,17,Randolph,157
+GAPUP2,United States,Illinois,17,Scott,171
+GAPUP2,United States,Illinois,17,Vermilion,183
+GAPUP2,United States,Illinois,17,Winnebago,201
+GAPUP2,United States,Indiana,18,,
+GAPUP2,United States,Iowa,19,,
+GAPUP2,United States,Kansas,20,,
+GAPUP2,United States,Kansas,20,Barber,007
+GAPUP2,United States,Kansas,20,Barton,009
+GAPUP2,United States,Kansas,20,Chase,017
+GAPUP2,United States,Kansas,20,Clark,025
+GAPUP2,United States,Kansas,20,Cloud,029
+GAPUP2,United States,Kansas,20,Comanche,033
+GAPUP2,United States,Kansas,20,Decatur,039
+GAPUP2,United States,Kansas,20,Edwards,047
+GAPUP2,United States,Kansas,20,Elk,049
+GAPUP2,United States,Kansas,20,Ellis,051
+GAPUP2,United States,Kansas,20,Ellsworth,053
+GAPUP2,United States,Kansas,20,Finney,055
+GAPUP2,United States,Kansas,20,Ford,057
+GAPUP2,United States,Kansas,20,Gove,063
+GAPUP2,United States,Kansas,20,Graham,065
+GAPUP2,United States,Kansas,20,Grant,067
+GAPUP2,United States,Kansas,20,Gray,069
+GAPUP2,United States,Kansas,20,Hamilton,075
+GAPUP2,United States,Kansas,20,Harper,077
+GAPUP2,United States,Kansas,20,Haskell,081
+GAPUP2,United States,Kansas,20,Hodgeman,083
+GAPUP2,United States,Kansas,20,Kearny,093
+GAPUP2,United States,Kansas,20,Kingman,095
+GAPUP2,United States,Kansas,20,Kiowa,097
+GAPUP2,United States,Kansas,20,Lane,101
+GAPUP2,United States,Kansas,20,Lincoln,105
+GAPUP2,United States,Kansas,20,Logan,109
+GAPUP2,United States,Kansas,20,Lyon,111
+GAPUP2,United States,Kansas,20,Meade,119
+GAPUP2,United States,Kansas,20,Mitchell,123
+GAPUP2,United States,Kansas,20,Morton,129
+GAPUP2,United States,Kansas,20,Ness,135
+GAPUP2,United States,Kansas,20,Norton,137
+GAPUP2,United States,Kansas,20,Osborne,141
+GAPUP2,United States,Kansas,20,Pawnee,145
+GAPUP2,United States,Kansas,20,Phillips,147
+GAPUP2,United States,Kansas,20,Pratt,151
+GAPUP2,United States,Kansas,20,Reno,155
+GAPUP2,United States,Kansas,20,Republic,157
+GAPUP2,United States,Kansas,20,Rice,159
+GAPUP2,United States,Kansas,20,Riley,161
+GAPUP2,United States,Kansas,20,Rooks,163
+GAPUP2,United States,Kansas,20,Rush,165
+GAPUP2,United States,Kansas,20,Russell,167
+GAPUP2,United States,Kansas,20,Scott,171
+GAPUP2,United States,Kansas,20,Sedgwick,173
+GAPUP2,United States,Kansas,20,Seward,175
+GAPUP2,United States,Kansas,20,Sheridan,179
+GAPUP2,United States,Kansas,20,Smith,183
+GAPUP2,United States,Kansas,20,Stafford,185
+GAPUP2,United States,Kansas,20,Stanton,187
+GAPUP2,United States,Kansas,20,Stevens,189
+GAPUP2,United States,Kansas,20,Sumner,191
+GAPUP2,United States,Kansas,20,Thomas,193
+GAPUP2,United States,Kansas,20,Trego,195
+GAPUP2,United States,Kansas,20,Wallace,199
+GAPUP2,United States,Kansas,20,Wichita,203
+GAPUP2,United States,Kansas,20,Wilson,205
+GAPUP2,United States,Louisiana,22,,
+GAPUP2,United States,Maine,23,,
+GAPUP2,United States,Massachusetts,25,,
+GAPUP2,United States,Michigan,26,,
+GAPUP2,United States,Michigan,26,Benzie,019
+GAPUP2,United States,Michigan,26,Berrien,021
+GAPUP2,United States,Michigan,26,Emmet,047
+GAPUP2,United States,Michigan,26,Grand Traverse,055
+GAPUP2,United States,Michigan,26,Kalamazoo,077
+GAPUP2,United States,Michigan,26,Kent,081
+GAPUP2,United States,Michigan,26,Leelanau,089
+GAPUP2,United States,Michigan,26,Montmorency,119
+GAPUP2,United States,Michigan,26,Oakland,125
+GAPUP2,United States,Minnesota,27,,
+GAPUP2,United States,Minnesota,27,Clearwater,029
+GAPUP2,United States,Minnesota,27,Dakota,037
+GAPUP2,United States,Minnesota,27,Houston,055
+GAPUP2,United States,Minnesota,27,Martin,091
+GAPUP2,United States,Mississippi,28,,
+GAPUP2,United States,Mississippi,28,Harrison,047
+GAPUP2,United States,Missouri,29,,
+GAPUP2,United States,Missouri,29,Dunklin,069
+GAPUP2,United States,Missouri,29,Franklin,071
+GAPUP2,United States,Missouri,29,Holt,087
+GAPUP2,United States,Missouri,29,Jackson,095
+GAPUP2,United States,Missouri,29,Pike,163
+GAPUP2,United States,Missouri,29,Platte,165
+GAPUP2,United States,Missouri,29,St. Louis,189
+GAPUP2,United States,Nebraska,31,,
+GAPUP2,United States,Nebraska,31,Buffalo,019
+GAPUP2,United States,Nebraska,31,Dodge,053
+GAPUP2,United States,Nebraska,31,Douglas,055
+GAPUP2,United States,Nebraska,31,Franklin,061
+GAPUP2,United States,Nebraska,31,Harlan,083
+GAPUP2,United States,Nebraska,31,Kearney,099
+GAPUP2,United States,Nebraska,31,Lancaster,109
+GAPUP2,United States,Nebraska,31,Webster,181
+GAPUP2,United States,Nevada,32,,
+GAPUP2,United States,Nevada,32,Clark,003
+GAPUP2,United States,New Hampshire,33,,
+GAPUP2,United States,New Mexico,35,,
+GAPUP2,United States,New Mexico,35,Bernalillo,001
+GAPUP2,United States,New Mexico,35,Catron,003
+GAPUP2,United States,New Mexico,35,Chaves,005
+GAPUP2,United States,New Mexico,35,Curry,009
+GAPUP2,United States,New Mexico,35,De Baca,011
+GAPUP2,United States,New Mexico,35,Dona Ana,013
+GAPUP2,United States,New Mexico,35,Eddy,015
+GAPUP2,United States,New Mexico,35,Grant,017
+GAPUP2,United States,New Mexico,35,Harding,021
+GAPUP2,United States,New Mexico,35,Hidalgo,023
+GAPUP2,United States,New Mexico,35,Lea,025
+GAPUP2,United States,New Mexico,35,Lincoln,027
+GAPUP2,United States,New Mexico,35,Los Alamos,028
+GAPUP2,United States,New Mexico,35,McKinley,031
+GAPUP2,United States,New Mexico,35,Otero,035
+GAPUP2,United States,New Mexico,35,Quay,037
+GAPUP2,United States,New Mexico,35,Rio Arriba,039
+GAPUP2,United States,New Mexico,35,Roosevelt,041
+GAPUP2,United States,New Mexico,35,San Juan,045
+GAPUP2,United States,New Mexico,35,San Miguel,047
+GAPUP2,United States,New Mexico,35,Sandoval,043
+GAPUP2,United States,New Mexico,35,Santa Fe,049
+GAPUP2,United States,New Mexico,35,Sierra,051
+GAPUP2,United States,New Mexico,35,Socorro,053
+GAPUP2,United States,New Mexico,35,Torrance,057
+GAPUP2,United States,New Mexico,35,Union,059
+GAPUP2,United States,New Mexico,35,Valencia,061
+GAPUP2,United States,New York,36,,
+GAPUP2,United States,North Carolina,37,,
+GAPUP2,United States,Ohio,39,,
+GAPUP2,United States,Ohio,39,Franklin,049
+GAPUP2,United States,Oklahoma,40,,
+GAPUP2,United States,Oklahoma,40,Alfalfa,003
+GAPUP2,United States,Oklahoma,40,Beaver,007
+GAPUP2,United States,Oklahoma,40,Beckham,009
+GAPUP2,United States,Oklahoma,40,Blaine,011
+GAPUP2,United States,Oklahoma,40,Bryan,013
+GAPUP2,United States,Oklahoma,40,Caddo,015
+GAPUP2,United States,Oklahoma,40,Canadian,017
+GAPUP2,United States,Oklahoma,40,Carter,019
+GAPUP2,United States,Oklahoma,40,Cleveland,027
+GAPUP2,United States,Oklahoma,40,Comanche,031
+GAPUP2,United States,Oklahoma,40,Cotton,033
+GAPUP2,United States,Oklahoma,40,Custer,039
+GAPUP2,United States,Oklahoma,40,Dewey,043
+GAPUP2,United States,Oklahoma,40,Ellis,045
+GAPUP2,United States,Oklahoma,40,Grady,051
+GAPUP2,United States,Oklahoma,40,Greer,055
+GAPUP2,United States,Oklahoma,40,Harmon,057
+GAPUP2,United States,Oklahoma,40,Harper,059
+GAPUP2,United States,Oklahoma,40,Jackson,065
+GAPUP2,United States,Oklahoma,40,Jefferson,067
+GAPUP2,United States,Oklahoma,40,Johnston,069
+GAPUP2,United States,Oklahoma,40,Kingfisher,073
+GAPUP2,United States,Oklahoma,40,Kiowa,075
+GAPUP2,United States,Oklahoma,40,Love,085
+GAPUP2,United States,Oklahoma,40,Major,093
+GAPUP2,United States,Oklahoma,40,Marshall,095
+GAPUP2,United States,Oklahoma,40,Murray,099
+GAPUP2,United States,Oklahoma,40,Muskogee,101
+GAPUP2,United States,Oklahoma,40,Okfuskee,107
+GAPUP2,United States,Oklahoma,40,Oklahoma,109
+GAPUP2,United States,Oklahoma,40,Osage,113
+GAPUP2,United States,Oklahoma,40,Pontotoc,123
+GAPUP2,United States,Oklahoma,40,Roger Mills,129
+GAPUP2,United States,Oklahoma,40,Texas,139
+GAPUP2,United States,Oklahoma,40,Tillman,141
+GAPUP2,United States,Oklahoma,40,Tulsa,143
+GAPUP2,United States,Oklahoma,40,Washington,147
+GAPUP2,United States,Oklahoma,40,Washita,149
+GAPUP2,United States,Oklahoma,40,Woods,151
+GAPUP2,United States,Oklahoma,40,Woodward,153
+GAPUP2,United States,Pennsylvania,42,,
+GAPUP2,United States,South Carolina,45,,
+GAPUP2,United States,South Dakota,46,,
+GAPUP2,United States,South Dakota,46,Day,037
+GAPUP2,United States,South Dakota,46,Lawrence,081
+GAPUP2,United States,Tennessee,47,,
+GAPUP2,United States,Tennessee,47,Roane,145
+GAPUP2,United States,Tennessee,47,Warren,177
+GAPUP2,United States,Texas,48,,
+GAPUP2,United States,Texas,48,Anderson,001
+GAPUP2,United States,Texas,48,Andrews,003
+GAPUP2,United States,Texas,48,Aransas,007
+GAPUP2,United States,Texas,48,Archer,009
+GAPUP2,United States,Texas,48,Armstrong,011
+GAPUP2,United States,Texas,48,Austin,015
+GAPUP2,United States,Texas,48,Bailey,017
+GAPUP2,United States,Texas,48,Bandera,019
+GAPUP2,United States,Texas,48,Bastrop,021
+GAPUP2,United States,Texas,48,Bee,025
+GAPUP2,United States,Texas,48,Bell,027
+GAPUP2,United States,Texas,48,Bexar,029
+GAPUP2,United States,Texas,48,Blanco,031
+GAPUP2,United States,Texas,48,Borden,033
+GAPUP2,United States,Texas,48,Brazoria,039
+GAPUP2,United States,Texas,48,Brazos,041
+GAPUP2,United States,Texas,48,Brewster,043
+GAPUP2,United States,Texas,48,Briscoe,045
+GAPUP2,United States,Texas,48,Brooks,047
+GAPUP2,United States,Texas,48,Brown,049
+GAPUP2,United States,Texas,48,Burleson,051
+GAPUP2,United States,Texas,48,Burnet,053
+GAPUP2,United States,Texas,48,Caldwell,055
+GAPUP2,United States,Texas,48,Calhoun,057
+GAPUP2,United States,Texas,48,Callahan,059
+GAPUP2,United States,Texas,48,Cameron,061
+GAPUP2,United States,Texas,48,Carson,065
+GAPUP2,United States,Texas,48,Cass,067
+GAPUP2,United States,Texas,48,Chambers,071
+GAPUP2,United States,Texas,48,Childress,075
+GAPUP2,United States,Texas,48,Clay,077
+GAPUP2,United States,Texas,48,Cochran,079
+GAPUP2,United States,Texas,48,Coke,081
+GAPUP2,United States,Texas,48,Coleman,083
+GAPUP2,United States,Texas,48,Collin,085
+GAPUP2,United States,Texas,48,Collingsworth,087
+GAPUP2,United States,Texas,48,Colorado,089
+GAPUP2,United States,Texas,48,Comal,091
+GAPUP2,United States,Texas,48,Comanche,093
+GAPUP2,United States,Texas,48,Concho,095
+GAPUP2,United States,Texas,48,Cooke,097
+GAPUP2,United States,Texas,48,Crane,103
+GAPUP2,United States,Texas,48,Crockett,105
+GAPUP2,United States,Texas,48,Crosby,107
+GAPUP2,United States,Texas,48,Culberson,109
+GAPUP2,United States,Texas,48,Dallam,111
+GAPUP2,United States,Texas,48,Dallas,113
+GAPUP2,United States,Texas,48,Dawson,115
+GAPUP2,United States,Texas,48,Deaf Smith,117
+GAPUP2,United States,Texas,48,Denton,121
+GAPUP2,United States,Texas,48,DeWitt,123
+GAPUP2,United States,Texas,48,Dickens,125
+GAPUP2,United States,Texas,48,Dimmit,127
+GAPUP2,United States,Texas,48,Donley,129
+GAPUP2,United States,Texas,48,Eastland,133
+GAPUP2,United States,Texas,48,Ector,135
+GAPUP2,United States,Texas,48,Edwards,137
+GAPUP2,United States,Texas,48,El Paso,141
+GAPUP2,United States,Texas,48,Erath,143
+GAPUP2,United States,Texas,48,Fayette,149
+GAPUP2,United States,Texas,48,Fisher,151
+GAPUP2,United States,Texas,48,Frio,163
+GAPUP2,United States,Texas,48,Gaines,165
+GAPUP2,United States,Texas,48,Galveston,167
+GAPUP2,United States,Texas,48,Garza,169
+GAPUP2,United States,Texas,48,Gillespie,171
+GAPUP2,United States,Texas,48,Goliad,175
+GAPUP2,United States,Texas,48,Gonzales,177
+GAPUP2,United States,Texas,48,Gray,179
+GAPUP2,United States,Texas,48,Grayson,181
+GAPUP2,United States,Texas,48,Grimes,185
+GAPUP2,United States,Texas,48,Guadalupe,187
+GAPUP2,United States,Texas,48,Hall,191
+GAPUP2,United States,Texas,48,Hamilton,193
+GAPUP2,United States,Texas,48,Hansford,195
+GAPUP2,United States,Texas,48,Hardin,199
+GAPUP2,United States,Texas,48,Harris,201
+GAPUP2,United States,Texas,48,Hartley,205
+GAPUP2,United States,Texas,48,Haskell,207
+GAPUP2,United States,Texas,48,Hays,209
+GAPUP2,United States,Texas,48,Hemphill,211
+GAPUP2,United States,Texas,48,Hill,217
+GAPUP2,United States,Texas,48,Howard,227
+GAPUP2,United States,Texas,48,Hudspeth,229
+GAPUP2,United States,Texas,48,Hunt,231
+GAPUP2,United States,Texas,48,Hutchinson,233
+GAPUP2,United States,Texas,48,Jack,237
+GAPUP2,United States,Texas,48,Jackson,239
+GAPUP2,United States,Texas,48,Jasper,241
+GAPUP2,United States,Texas,48,Jeff Davis,243
+GAPUP2,United States,Texas,48,Jefferson,245
+GAPUP2,United States,Texas,48,Jim Wells,249
+GAPUP2,United States,Texas,48,Johnson,251
+GAPUP2,United States,Texas,48,Karnes,255
+GAPUP2,United States,Texas,48,Kendall,259
+GAPUP2,United States,Texas,48,Kenedy,261
+GAPUP2,United States,Texas,48,Kent,263
+GAPUP2,United States,Texas,48,Kerr,265
+GAPUP2,United States,Texas,48,Kimble,267
+GAPUP2,United States,Texas,48,Kleberg,273
+GAPUP2,United States,Texas,48,La Salle,283
+GAPUP2,United States,Texas,48,Lampasas,281
+GAPUP2,United States,Texas,48,Lee,287
+GAPUP2,United States,Texas,48,Liberty,291
+GAPUP2,United States,Texas,48,Lipscomb,295
+GAPUP2,United States,Texas,48,Live Oak,297
+GAPUP2,United States,Texas,48,Llano,299
+GAPUP2,United States,Texas,48,Loving,301
+GAPUP2,United States,Texas,48,Lubbock,303
+GAPUP2,United States,Texas,48,Mason,319
+GAPUP2,United States,Texas,48,Matagorda,321
+GAPUP2,United States,Texas,48,Maverick,323
+GAPUP2,United States,Texas,48,McCulloch,307
+GAPUP2,United States,Texas,48,McLennan,309
+GAPUP2,United States,Texas,48,McMullen,311
+GAPUP2,United States,Texas,48,Medina,325
+GAPUP2,United States,Texas,48,Menard,327
+GAPUP2,United States,Texas,48,Midland,329
+GAPUP2,United States,Texas,48,Milam,331
+GAPUP2,United States,Texas,48,Mills,333
+GAPUP2,United States,Texas,48,Montague,337
+GAPUP2,United States,Texas,48,Montgomery,339
+GAPUP2,United States,Texas,48,Moore,341
+GAPUP2,United States,Texas,48,Motley,345
+GAPUP2,United States,Texas,48,Nacogdoches,347
+GAPUP2,United States,Texas,48,Navarro,349
+GAPUP2,United States,Texas,48,Nueces,355
+GAPUP2,United States,Texas,48,Ochiltree,357
+GAPUP2,United States,Texas,48,Oldham,359
+GAPUP2,United States,Texas,48,Palo Pinto,363
+GAPUP2,United States,Texas,48,Panola,365
+GAPUP2,United States,Texas,48,Parker,367
+GAPUP2,United States,Texas,48,Potter,375
+GAPUP2,United States,Texas,48,Presidio,377
+GAPUP2,United States,Texas,48,Randall,381
+GAPUP2,United States,Texas,48,Reagan,383
+GAPUP2,United States,Texas,48,Real,385
+GAPUP2,United States,Texas,48,Reeves,389
+GAPUP2,United States,Texas,48,Roberts,393
+GAPUP2,United States,Texas,48,Robertson,395
+GAPUP2,United States,Texas,48,Runnels,399
+GAPUP2,United States,Texas,48,Rusk,401
+GAPUP2,United States,Texas,48,San Patricio,409
+GAPUP2,United States,Texas,48,San Saba,411
+GAPUP2,United States,Texas,48,Schleicher,413
+GAPUP2,United States,Texas,48,Scurry,415
+GAPUP2,United States,Texas,48,Starr,427
+GAPUP2,United States,Texas,48,Sutton,435
+GAPUP2,United States,Texas,48,Tarrant,439
+GAPUP2,United States,Texas,48,Taylor,441
+GAPUP2,United States,Texas,48,Throckmorton,447
+GAPUP2,United States,Texas,48,Tom Green,451
+GAPUP2,United States,Texas,48,Travis,453
+GAPUP2,United States,Texas,48,Tyler,457
+GAPUP2,United States,Texas,48,Uvalde,463
+GAPUP2,United States,Texas,48,Victoria,469
+GAPUP2,United States,Texas,48,Walker,471
+GAPUP2,United States,Texas,48,Waller,473
+GAPUP2,United States,Texas,48,Ward,475
+GAPUP2,United States,Texas,48,Washington,477
+GAPUP2,United States,Texas,48,Wharton,481
+GAPUP2,United States,Texas,48,Wheeler,483
+GAPUP2,United States,Texas,48,Wichita,485
+GAPUP2,United States,Texas,48,Willacy,489
+GAPUP2,United States,Texas,48,Williamson,491
+GAPUP2,United States,Texas,48,Wilson,493
+GAPUP2,United States,Texas,48,Winkler,495
+GAPUP2,United States,Texas,48,Wise,497
+GAPUP2,United States,Texas,48,Yoakum,501
+GAPUP2,United States,Texas,48,Young,503
+GAPUP2,United States,Vermont,50,,
+GAPUP2,United States,Vermont,50,Windham,025
+GAPUP2,United States,Virginia,51,,
+GAPUP2,United States,Wisconsin,55,,

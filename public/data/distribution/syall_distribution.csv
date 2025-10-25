@@ -1,0 +1,271 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SYALL,Canada,British Columbia,02,,
+SYALL,United States,Alaska,02,,
+SYALL,Canada,New Brunswick,04,,
+SYALL,United States,California,06,,
+SYALL,United States,California,06,Alameda,001
+SYALL,United States,California,06,Amador,005
+SYALL,United States,California,06,Butte,007
+SYALL,United States,California,06,Calaveras,009
+SYALL,United States,California,06,Contra Costa,013
+SYALL,United States,California,06,El Dorado,017
+SYALL,United States,California,06,Humboldt,023
+SYALL,United States,California,06,Kern,029
+SYALL,United States,California,06,Lake,033
+SYALL,United States,California,06,Los Angeles,037
+SYALL,United States,California,06,Marin,041
+SYALL,United States,California,06,Mendocino,045
+SYALL,United States,California,06,Modoc,049
+SYALL,United States,California,06,Monterey,053
+SYALL,United States,California,06,Napa,055
+SYALL,United States,California,06,Nevada,057
+SYALL,United States,California,06,Placer,061
+SYALL,United States,California,06,Plumas,063
+SYALL,United States,California,06,Riverside,065
+SYALL,United States,California,06,Sacramento,067
+SYALL,United States,California,06,San Benito,069
+SYALL,United States,California,06,San Bernardino,071
+SYALL,United States,California,06,San Diego,073
+SYALL,United States,California,06,San Francisco,075
+SYALL,United States,California,06,San Luis Obispo,079
+SYALL,United States,California,06,San Mateo,081
+SYALL,United States,California,06,Santa Clara,085
+SYALL,United States,California,06,Santa Cruz,087
+SYALL,United States,California,06,Shasta,089
+SYALL,United States,California,06,Siskiyou,093
+SYALL,United States,California,06,Solano,095
+SYALL,United States,California,06,Sonoma,097
+SYALL,United States,California,06,Tehama,103
+SYALL,United States,California,06,Trinity,105
+SYALL,United States,California,06,Tuolumne,109
+SYALL,Canada,Nova Scotia,07,,
+SYALL,United States,Colorado,08,,
+SYALL,Canada,Prince Edward Island,09,,
+SYALL,United States,Connecticut,09,,
+SYALL,United States,Connecticut,09,Fairfield,001
+SYALL,United States,Connecticut,09,Hartford,003
+SYALL,United States,Connecticut,09,Litchfield,005
+SYALL,United States,Connecticut,09,New Haven,009
+SYALL,United States,Connecticut,09,New London,011
+SYALL,United States,Connecticut,09,Tolland,013
+SYALL,United States,Delaware,10,,
+SYALL,United States,District of Columbia,11,,
+SYALL,United States,District of Columbia,11,District of Columbia,001
+SYALL,United States,Idaho,16,,
+SYALL,United States,Idaho,16,Ada,001
+SYALL,United States,Idaho,16,Benewah,009
+SYALL,United States,Idaho,16,Blaine,013
+SYALL,United States,Idaho,16,Boise,015
+SYALL,United States,Idaho,16,Bonner,017
+SYALL,United States,Idaho,16,Bonneville,019
+SYALL,United States,Idaho,16,Cassia,031
+SYALL,United States,Idaho,16,Clearwater,035
+SYALL,United States,Idaho,16,Elmore,039
+SYALL,United States,Idaho,16,Franklin,041
+SYALL,United States,Idaho,16,Fremont,043
+SYALL,United States,Idaho,16,Idaho,049
+SYALL,United States,Idaho,16,Kootenai,055
+SYALL,United States,Idaho,16,Latah,057
+SYALL,United States,Idaho,16,Lemhi,059
+SYALL,United States,Idaho,16,Madison,065
+SYALL,United States,Idaho,16,Nez Perce,069
+SYALL,United States,Idaho,16,Shoshone,079
+SYALL,United States,Idaho,16,Valley,085
+SYALL,United States,Idaho,16,Washington,087
+SYALL,United States,Illinois,17,,
+SYALL,United States,Illinois,17,Cass,017
+SYALL,United States,Illinois,17,Champaign,019
+SYALL,United States,Illinois,17,Christian,021
+SYALL,United States,Illinois,17,DuPage,043
+SYALL,United States,Illinois,17,Henry,073
+SYALL,United States,Illinois,17,Lake,097
+SYALL,United States,Illinois,17,LaSalle,099
+SYALL,United States,Illinois,17,Macon,115
+SYALL,United States,Illinois,17,Winnebago,201
+SYALL,United States,Indiana,18,,
+SYALL,United States,Maine,23,,
+SYALL,United States,Maine,23,Androscoggin,001
+SYALL,United States,Maine,23,Cumberland,005
+SYALL,United States,Maine,23,Hancock,009
+SYALL,United States,Maine,23,Kennebec,011
+SYALL,United States,Maine,23,Knox,013
+SYALL,United States,Maine,23,Oxford,017
+SYALL,United States,Maine,23,Penobscot,019
+SYALL,United States,Maine,23,Piscataquis,021
+SYALL,United States,Maine,23,Waldo,027
+SYALL,United States,Maine,23,Washington,029
+SYALL,United States,Maine,23,York,031
+SYALL,United States,Maryland,24,,
+SYALL,United States,Massachusetts,25,,
+SYALL,United States,Massachusetts,25,Berkshire,003
+SYALL,United States,Massachusetts,25,Bristol,005
+SYALL,United States,Massachusetts,25,Essex,009
+SYALL,United States,Massachusetts,25,Franklin,011
+SYALL,United States,Massachusetts,25,Hampshire,015
+SYALL,United States,Massachusetts,25,Middlesex,017
+SYALL,United States,Massachusetts,25,Norfolk,021
+SYALL,United States,Massachusetts,25,Worcester,027
+SYALL,United States,Michigan,26,,
+SYALL,United States,Missouri,29,,
+SYALL,United States,Montana,30,,
+SYALL,United States,Montana,30,Phillips,071
+SYALL,United States,New Hampshire,33,,
+SYALL,United States,New Hampshire,33,Belknap,001
+SYALL,United States,New Hampshire,33,Coos,007
+SYALL,United States,New Hampshire,33,Strafford,017
+SYALL,United States,New Jersey,34,,
+SYALL,United States,New Jersey,34,Cape May,009
+SYALL,United States,New Jersey,34,Cumberland,011
+SYALL,United States,New Jersey,34,Gloucester,015
+SYALL,United States,New Jersey,34,Hunterdon,019
+SYALL,United States,New Jersey,34,Monmouth,025
+SYALL,United States,New Jersey,34,Morris,027
+SYALL,United States,New Jersey,34,Ocean,029
+SYALL,United States,New Jersey,34,Passaic,031
+SYALL,United States,New Jersey,34,Somerset,035
+SYALL,United States,New Jersey,34,Sussex,037
+SYALL,United States,New Jersey,34,Warren,041
+SYALL,United States,New York,36,,
+SYALL,United States,New York,36,Albany,001
+SYALL,United States,New York,36,Broome,007
+SYALL,United States,New York,36,Cayuga,011
+SYALL,United States,New York,36,Chemung,015
+SYALL,United States,New York,36,Kings,047
+SYALL,United States,New York,36,Madison,053
+SYALL,United States,New York,36,Montgomery,057
+SYALL,United States,New York,36,Oneida,065
+SYALL,United States,New York,36,Oswego,075
+SYALL,United States,New York,36,Otsego,077
+SYALL,United States,New York,36,Putnam,079
+SYALL,United States,New York,36,Queens,081
+SYALL,United States,New York,36,Saratoga,091
+SYALL,United States,New York,36,Suffolk,103
+SYALL,United States,New York,36,Tioga,107
+SYALL,United States,New York,36,Ulster,111
+SYALL,United States,New York,36,Westchester,119
+SYALL,United States,North Carolina,37,,
+SYALL,United States,Ohio,39,,
+SYALL,United States,Ohio,39,Allen,003
+SYALL,United States,Ohio,39,Ashland,005
+SYALL,United States,Ohio,39,Ashtabula,007
+SYALL,United States,Ohio,39,Auglaize,011
+SYALL,United States,Ohio,39,Belmont,013
+SYALL,United States,Ohio,39,Columbiana,029
+SYALL,United States,Ohio,39,Coshocton,031
+SYALL,United States,Ohio,39,Cuyahoga,035
+SYALL,United States,Ohio,39,Fairfield,045
+SYALL,United States,Ohio,39,Franklin,049
+SYALL,United States,Ohio,39,Jefferson,081
+SYALL,United States,Ohio,39,Knox,083
+SYALL,United States,Ohio,39,Lake,085
+SYALL,United States,Ohio,39,Licking,089
+SYALL,United States,Ohio,39,Lucas,095
+SYALL,United States,Ohio,39,Madison,097
+SYALL,United States,Ohio,39,Medina,103
+SYALL,United States,Ohio,39,Montgomery,113
+SYALL,United States,Ohio,39,Morrow,117
+SYALL,United States,Ohio,39,Portage,133
+SYALL,United States,Ohio,39,Summit,153
+SYALL,United States,Ohio,39,Washington,167
+SYALL,United States,Ohio,39,Wayne,169
+SYALL,United States,Oregon,41,,
+SYALL,United States,Oregon,41,Baker,001
+SYALL,United States,Oregon,41,Benton,003
+SYALL,United States,Oregon,41,Clatsop,007
+SYALL,United States,Oregon,41,Crook,013
+SYALL,United States,Oregon,41,Curry,015
+SYALL,United States,Oregon,41,Deschutes,017
+SYALL,United States,Oregon,41,Douglas,019
+SYALL,United States,Oregon,41,Grant,023
+SYALL,United States,Oregon,41,Harney,025
+SYALL,United States,Oregon,41,Hood River,027
+SYALL,United States,Oregon,41,Jackson,029
+SYALL,United States,Oregon,41,Jefferson,031
+SYALL,United States,Oregon,41,Josephine,033
+SYALL,United States,Oregon,41,Klamath,035
+SYALL,United States,Oregon,41,Lane,039
+SYALL,United States,Oregon,41,Linn,043
+SYALL,United States,Oregon,41,Marion,047
+SYALL,United States,Oregon,41,Morrow,049
+SYALL,United States,Oregon,41,Multnomah,051
+SYALL,United States,Oregon,41,Polk,053
+SYALL,United States,Oregon,41,Tillamook,057
+SYALL,United States,Oregon,41,Union,061
+SYALL,United States,Oregon,41,Wallowa,063
+SYALL,United States,Oregon,41,Wasco,065
+SYALL,United States,Oregon,41,Washington,067
+SYALL,United States,Oregon,41,Yamhill,071
+SYALL,United States,Pennsylvania,42,,
+SYALL,United States,Pennsylvania,42,Allegheny,003
+SYALL,United States,Pennsylvania,42,Bedford,009
+SYALL,United States,Pennsylvania,42,Berks,011
+SYALL,United States,Pennsylvania,42,Blair,013
+SYALL,United States,Pennsylvania,42,Bucks,017
+SYALL,United States,Pennsylvania,42,Cambria,021
+SYALL,United States,Pennsylvania,42,Centre,027
+SYALL,United States,Pennsylvania,42,Chester,029
+SYALL,United States,Pennsylvania,42,Clearfield,033
+SYALL,United States,Pennsylvania,42,Dauphin,043
+SYALL,United States,Pennsylvania,42,Delaware,045
+SYALL,United States,Pennsylvania,42,Forest,053
+SYALL,United States,Pennsylvania,42,Huntingdon,061
+SYALL,United States,Pennsylvania,42,Juniata,067
+SYALL,United States,Pennsylvania,42,Lebanon,075
+SYALL,United States,Pennsylvania,42,Lehigh,077
+SYALL,United States,Pennsylvania,42,McKean,083
+SYALL,United States,Pennsylvania,42,Monroe,089
+SYALL,United States,Pennsylvania,42,Montgomery,091
+SYALL,United States,Pennsylvania,42,Montour,093
+SYALL,United States,Pennsylvania,42,Northampton,095
+SYALL,United States,Pennsylvania,42,Perry,099
+SYALL,United States,Pennsylvania,42,Philadelphia,101
+SYALL,United States,Pennsylvania,42,Pike,103
+SYALL,United States,Pennsylvania,42,Schuylkill,107
+SYALL,United States,Pennsylvania,42,Somerset,111
+SYALL,United States,Pennsylvania,42,Sullivan,113
+SYALL,United States,Pennsylvania,42,Susquehanna,115
+SYALL,United States,Pennsylvania,42,Tioga,117
+SYALL,United States,Pennsylvania,42,Venango,121
+SYALL,United States,Pennsylvania,42,Washington,125
+SYALL,United States,Pennsylvania,42,Wayne,127
+SYALL,United States,Pennsylvania,42,Westmoreland,129
+SYALL,United States,Rhode Island,44,,
+SYALL,United States,Rhode Island,44,Providence,007
+SYALL,United States,Tennessee,47,,
+SYALL,United States,Vermont,50,,
+SYALL,United States,Virginia,51,,
+SYALL,United States,Washington,53,,
+SYALL,United States,Washington,53,Adams,001
+SYALL,United States,Washington,53,Chelan,007
+SYALL,United States,Washington,53,Clallam,009
+SYALL,United States,Washington,53,Columbia,013
+SYALL,United States,Washington,53,Cowlitz,015
+SYALL,United States,Washington,53,Ferry,019
+SYALL,United States,Washington,53,Garfield,023
+SYALL,United States,Washington,53,King,033
+SYALL,United States,Washington,53,Kittitas,037
+SYALL,United States,Washington,53,Klickitat,039
+SYALL,United States,Washington,53,Lewis,041
+SYALL,United States,Washington,53,Okanogan,047
+SYALL,United States,Washington,53,Pacific,049
+SYALL,United States,Washington,53,Pend Oreille,051
+SYALL,United States,Washington,53,San Juan,055
+SYALL,United States,Washington,53,Skagit,057
+SYALL,United States,Washington,53,Skamania,059
+SYALL,United States,Washington,53,Spokane,063
+SYALL,United States,Washington,53,Stevens,065
+SYALL,United States,Washington,53,Wahkiakum,069
+SYALL,United States,Washington,53,Walla Walla,071
+SYALL,United States,Washington,53,Whatcom,073
+SYALL,United States,Washington,53,Whitman,075
+SYALL,United States,Washington,53,Yakima,077
+SYALL,United States,Wisconsin,55,,
+SYALL,United States,Wisconsin,55,Adams,001
+SYALL,United States,Wisconsin,55,Iron,051
+SYALL,United States,Wisconsin,55,Lincoln,069
+SYALL,United States,Wisconsin,55,Washington,131
+SYALL,United States,Wyoming,56,,
+SYALL,United States,Wyoming,56,Lincoln,023
+SYALL,United States,Wyoming,56,Park,029
+SYALL,United States,Wyoming,56,Teton,039

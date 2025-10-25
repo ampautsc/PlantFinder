@@ -1,0 +1,640 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+OLRIR,United States,Arkansas,05,,
+OLRIR,United States,Arkansas,05,Benton,007
+OLRIR,United States,Arkansas,05,Clark,019
+OLRIR,United States,Arkansas,05,Cleburne,023
+OLRIR,United States,Arkansas,05,Howard,061
+OLRIR,United States,Arkansas,05,Logan,083
+OLRIR,United States,Arkansas,05,Lonoke,085
+OLRIR,United States,Arkansas,05,Prairie,117
+OLRIR,United States,Arkansas,05,Sebastian,131
+OLRIR,United States,Arkansas,05,Washington,143
+OLRIR,Canada,Ontario,08,,
+OLRIR,United States,Connecticut,09,,
+OLRIR,United States,Connecticut,09,Fairfield,001
+OLRIR,United States,Connecticut,09,Hartford,003
+OLRIR,United States,Connecticut,09,Litchfield,005
+OLRIR,United States,Connecticut,09,Middlesex,007
+OLRIR,United States,Connecticut,09,New Haven,009
+OLRIR,United States,Connecticut,09,New London,011
+OLRIR,United States,Connecticut,09,Tolland,013
+OLRIR,United States,District of Columbia,11,,
+OLRIR,United States,District of Columbia,11,District of Columbia,001
+OLRIR,United States,Illinois,17,,
+OLRIR,United States,Illinois,17,Adams,001
+OLRIR,United States,Illinois,17,Bond,005
+OLRIR,United States,Illinois,17,Boone,007
+OLRIR,United States,Illinois,17,Brown,009
+OLRIR,United States,Illinois,17,Bureau,011
+OLRIR,United States,Illinois,17,Calhoun,013
+OLRIR,United States,Illinois,17,Carroll,015
+OLRIR,United States,Illinois,17,Cass,017
+OLRIR,United States,Illinois,17,Champaign,019
+OLRIR,United States,Illinois,17,Christian,021
+OLRIR,United States,Illinois,17,Clay,025
+OLRIR,United States,Illinois,17,Clinton,027
+OLRIR,United States,Illinois,17,Coles,029
+OLRIR,United States,Illinois,17,Cook,031
+OLRIR,United States,Illinois,17,Crawford,033
+OLRIR,United States,Illinois,17,Cumberland,035
+OLRIR,United States,Illinois,17,De Witt,039
+OLRIR,United States,Illinois,17,DeKalb,037
+OLRIR,United States,Illinois,17,Douglas,041
+OLRIR,United States,Illinois,17,DuPage,043
+OLRIR,United States,Illinois,17,Edgar,045
+OLRIR,United States,Illinois,17,Effingham,049
+OLRIR,United States,Illinois,17,Fayette,051
+OLRIR,United States,Illinois,17,Ford,053
+OLRIR,United States,Illinois,17,Franklin,055
+OLRIR,United States,Illinois,17,Fulton,057
+OLRIR,United States,Illinois,17,Greene,061
+OLRIR,United States,Illinois,17,Grundy,063
+OLRIR,United States,Illinois,17,Hamilton,065
+OLRIR,United States,Illinois,17,Hancock,067
+OLRIR,United States,Illinois,17,Henderson,071
+OLRIR,United States,Illinois,17,Iroquois,075
+OLRIR,United States,Illinois,17,Jackson,077
+OLRIR,United States,Illinois,17,Jasper,079
+OLRIR,United States,Illinois,17,Jersey,083
+OLRIR,United States,Illinois,17,Jo Daviess,085
+OLRIR,United States,Illinois,17,Kane,089
+OLRIR,United States,Illinois,17,Kankakee,091
+OLRIR,United States,Illinois,17,Kendall,093
+OLRIR,United States,Illinois,17,Knox,095
+OLRIR,United States,Illinois,17,Lake,097
+OLRIR,United States,Illinois,17,LaSalle,099
+OLRIR,United States,Illinois,17,Lawrence,101
+OLRIR,United States,Illinois,17,Lee,103
+OLRIR,United States,Illinois,17,Livingston,105
+OLRIR,United States,Illinois,17,Logan,107
+OLRIR,United States,Illinois,17,Macon,115
+OLRIR,United States,Illinois,17,Macoupin,117
+OLRIR,United States,Illinois,17,Madison,119
+OLRIR,United States,Illinois,17,Marion,121
+OLRIR,United States,Illinois,17,Mason,125
+OLRIR,United States,Illinois,17,McDonough,109
+OLRIR,United States,Illinois,17,McHenry,111
+OLRIR,United States,Illinois,17,McLean,113
+OLRIR,United States,Illinois,17,Menard,129
+OLRIR,United States,Illinois,17,Mercer,131
+OLRIR,United States,Illinois,17,Monroe,133
+OLRIR,United States,Illinois,17,Montgomery,135
+OLRIR,United States,Illinois,17,Morgan,137
+OLRIR,United States,Illinois,17,Moultrie,139
+OLRIR,United States,Illinois,17,Ogle,141
+OLRIR,United States,Illinois,17,Peoria,143
+OLRIR,United States,Illinois,17,Perry,145
+OLRIR,United States,Illinois,17,Piatt,147
+OLRIR,United States,Illinois,17,Pike,149
+OLRIR,United States,Illinois,17,Pope,151
+OLRIR,United States,Illinois,17,Putnam,155
+OLRIR,United States,Illinois,17,Randolph,157
+OLRIR,United States,Illinois,17,Richland,159
+OLRIR,United States,Illinois,17,Rock Island,161
+OLRIR,United States,Illinois,17,Sangamon,167
+OLRIR,United States,Illinois,17,Scott,171
+OLRIR,United States,Illinois,17,Shelby,173
+OLRIR,United States,Illinois,17,St. Clair,163
+OLRIR,United States,Illinois,17,Stark,175
+OLRIR,United States,Illinois,17,Stephenson,177
+OLRIR,United States,Illinois,17,Tazewell,179
+OLRIR,United States,Illinois,17,Union,181
+OLRIR,United States,Illinois,17,Vermilion,183
+OLRIR,United States,Illinois,17,Wabash,185
+OLRIR,United States,Illinois,17,Washington,189
+OLRIR,United States,Illinois,17,Whiteside,195
+OLRIR,United States,Illinois,17,Will,197
+OLRIR,United States,Illinois,17,Williamson,199
+OLRIR,United States,Illinois,17,Winnebago,201
+OLRIR,United States,Indiana,18,,
+OLRIR,United States,Indiana,18,Allen,003
+OLRIR,United States,Indiana,18,Benton,007
+OLRIR,United States,Indiana,18,Cass,017
+OLRIR,United States,Indiana,18,Delaware,035
+OLRIR,United States,Indiana,18,Elkhart,039
+OLRIR,United States,Indiana,18,Floyd,043
+OLRIR,United States,Indiana,18,Fountain,045
+OLRIR,United States,Indiana,18,Franklin,047
+OLRIR,United States,Indiana,18,Fulton,049
+OLRIR,United States,Indiana,18,Greene,055
+OLRIR,United States,Indiana,18,Harrison,061
+OLRIR,United States,Indiana,18,Jasper,073
+OLRIR,United States,Indiana,18,Kosciusko,085
+OLRIR,United States,Indiana,18,Lagrange,087
+OLRIR,United States,Indiana,18,Lake,089
+OLRIR,United States,Indiana,18,LaPorte,091
+OLRIR,United States,Indiana,18,Montgomery,107
+OLRIR,United States,Indiana,18,Newton,111
+OLRIR,United States,Indiana,18,Noble,113
+OLRIR,United States,Indiana,18,Porter,127
+OLRIR,United States,Indiana,18,Posey,129
+OLRIR,United States,Indiana,18,Pulaski,131
+OLRIR,United States,Indiana,18,St. Joseph,141
+OLRIR,United States,Indiana,18,Starke,149
+OLRIR,United States,Indiana,18,Steuben,151
+OLRIR,United States,Indiana,18,Tippecanoe,157
+OLRIR,United States,Indiana,18,Tipton,159
+OLRIR,United States,Indiana,18,Vermillion,165
+OLRIR,United States,Indiana,18,Vigo,167
+OLRIR,United States,Indiana,18,Warren,171
+OLRIR,United States,Indiana,18,Wells,179
+OLRIR,United States,Indiana,18,White,181
+OLRIR,United States,Iowa,19,,
+OLRIR,United States,Iowa,19,Adair,001
+OLRIR,United States,Iowa,19,Adams,003
+OLRIR,United States,Iowa,19,Audubon,009
+OLRIR,United States,Iowa,19,Cass,029
+OLRIR,United States,Iowa,19,Cherokee,035
+OLRIR,United States,Iowa,19,Fremont,071
+OLRIR,United States,Iowa,19,Guthrie,077
+OLRIR,United States,Iowa,19,Harrison,085
+OLRIR,United States,Iowa,19,Lyon,119
+OLRIR,United States,Iowa,19,Madison,121
+OLRIR,United States,Iowa,19,Mahaska,123
+OLRIR,United States,Iowa,19,Mills,129
+OLRIR,United States,Iowa,19,Montgomery,137
+OLRIR,United States,Iowa,19,Page,145
+OLRIR,United States,Iowa,19,Ringgold,159
+OLRIR,United States,Iowa,19,Shelby,165
+OLRIR,United States,Iowa,19,Story,169
+OLRIR,United States,Iowa,19,Taylor,173
+OLRIR,United States,Iowa,19,Union,175
+OLRIR,United States,Iowa,19,Woodbury,193
+OLRIR,United States,Kansas,20,,
+OLRIR,United States,Kansas,20,Allen,001
+OLRIR,United States,Kansas,20,Anderson,003
+OLRIR,United States,Kansas,20,Atchison,005
+OLRIR,United States,Kansas,20,Barton,009
+OLRIR,United States,Kansas,20,Bourbon,011
+OLRIR,United States,Kansas,20,Brown,013
+OLRIR,United States,Kansas,20,Butler,015
+OLRIR,United States,Kansas,20,Chase,017
+OLRIR,United States,Kansas,20,Chautauqua,019
+OLRIR,United States,Kansas,20,Cherokee,021
+OLRIR,United States,Kansas,20,Cheyenne,023
+OLRIR,United States,Kansas,20,Clay,027
+OLRIR,United States,Kansas,20,Cloud,029
+OLRIR,United States,Kansas,20,Coffey,031
+OLRIR,United States,Kansas,20,Comanche,033
+OLRIR,United States,Kansas,20,Cowley,035
+OLRIR,United States,Kansas,20,Crawford,037
+OLRIR,United States,Kansas,20,Dickinson,041
+OLRIR,United States,Kansas,20,Doniphan,043
+OLRIR,United States,Kansas,20,Douglas,045
+OLRIR,United States,Kansas,20,Elk,049
+OLRIR,United States,Kansas,20,Ellis,051
+OLRIR,United States,Kansas,20,Ellsworth,053
+OLRIR,United States,Kansas,20,Geary,061
+OLRIR,United States,Kansas,20,Graham,065
+OLRIR,United States,Kansas,20,Greenwood,073
+OLRIR,United States,Kansas,20,Harper,077
+OLRIR,United States,Kansas,20,Harvey,079
+OLRIR,United States,Kansas,20,Hodgeman,083
+OLRIR,United States,Kansas,20,Jackson,085
+OLRIR,United States,Kansas,20,Jefferson,087
+OLRIR,United States,Kansas,20,Jewell,089
+OLRIR,United States,Kansas,20,Johnson,091
+OLRIR,United States,Kansas,20,Kingman,095
+OLRIR,United States,Kansas,20,Kiowa,097
+OLRIR,United States,Kansas,20,Labette,099
+OLRIR,United States,Kansas,20,Leavenworth,103
+OLRIR,United States,Kansas,20,Lincoln,105
+OLRIR,United States,Kansas,20,Linn,107
+OLRIR,United States,Kansas,20,Lyon,111
+OLRIR,United States,Kansas,20,Marion,115
+OLRIR,United States,Kansas,20,Marshall,117
+OLRIR,United States,Kansas,20,McPherson,113
+OLRIR,United States,Kansas,20,Miami,121
+OLRIR,United States,Kansas,20,Mitchell,123
+OLRIR,United States,Kansas,20,Montgomery,125
+OLRIR,United States,Kansas,20,Morris,127
+OLRIR,United States,Kansas,20,Nemaha,131
+OLRIR,United States,Kansas,20,Neosho,133
+OLRIR,United States,Kansas,20,Ness,135
+OLRIR,United States,Kansas,20,Osage,139
+OLRIR,United States,Kansas,20,Osborne,141
+OLRIR,United States,Kansas,20,Ottawa,143
+OLRIR,United States,Kansas,20,Pawnee,145
+OLRIR,United States,Kansas,20,Phillips,147
+OLRIR,United States,Kansas,20,Pottawatomie,149
+OLRIR,United States,Kansas,20,Pratt,151
+OLRIR,United States,Kansas,20,Reno,155
+OLRIR,United States,Kansas,20,Republic,157
+OLRIR,United States,Kansas,20,Riley,161
+OLRIR,United States,Kansas,20,Rooks,163
+OLRIR,United States,Kansas,20,Rush,165
+OLRIR,United States,Kansas,20,Russell,167
+OLRIR,United States,Kansas,20,Saline,169
+OLRIR,United States,Kansas,20,Scott,171
+OLRIR,United States,Kansas,20,Shawnee,177
+OLRIR,United States,Kansas,20,Sheridan,179
+OLRIR,United States,Kansas,20,Smith,183
+OLRIR,United States,Kansas,20,Sumner,191
+OLRIR,United States,Kansas,20,Trego,195
+OLRIR,United States,Kansas,20,Wabaunsee,197
+OLRIR,United States,Kansas,20,Washington,201
+OLRIR,United States,Kansas,20,Wilson,205
+OLRIR,United States,Kansas,20,Woodson,207
+OLRIR,United States,Kansas,20,Wyandotte,209
+OLRIR,United States,Kentucky,21,,
+OLRIR,United States,Kentucky,21,Calloway,035
+OLRIR,United States,Kentucky,21,Carter,043
+OLRIR,United States,Kentucky,21,Edmonson,061
+OLRIR,United States,Kentucky,21,Grayson,085
+OLRIR,United States,Kentucky,21,Hart,099
+OLRIR,United States,Kentucky,21,McCracken,145
+OLRIR,United States,Kentucky,21,Pendleton,191
+OLRIR,United States,Kentucky,21,Rowan,205
+OLRIR,United States,Kentucky,21,Todd,219
+OLRIR,United States,Kentucky,21,Warren,227
+OLRIR,United States,Louisiana,22,,
+OLRIR,United States,Maryland,24,,
+OLRIR,United States,Massachusetts,25,,
+OLRIR,United States,Massachusetts,25,Berkshire,003
+OLRIR,United States,Massachusetts,25,Hampshire,015
+OLRIR,United States,Massachusetts,25,Nantucket,019
+OLRIR,United States,Michigan,26,,
+OLRIR,United States,Michigan,26,Barry,015
+OLRIR,United States,Michigan,26,Berrien,021
+OLRIR,United States,Michigan,26,Branch,023
+OLRIR,United States,Michigan,26,Cass,027
+OLRIR,United States,Michigan,26,Delta,041
+OLRIR,United States,Michigan,26,Genesee,049
+OLRIR,United States,Michigan,26,Hillsdale,059
+OLRIR,United States,Michigan,26,Ionia,067
+OLRIR,United States,Michigan,26,Jackson,075
+OLRIR,United States,Michigan,26,Kalamazoo,077
+OLRIR,United States,Michigan,26,Kent,081
+OLRIR,United States,Michigan,26,Lenawee,091
+OLRIR,United States,Michigan,26,Livingston,093
+OLRIR,United States,Michigan,26,Macomb,099
+OLRIR,United States,Michigan,26,Menominee,109
+OLRIR,United States,Michigan,26,Monroe,115
+OLRIR,United States,Michigan,26,Montcalm,117
+OLRIR,United States,Michigan,26,Newaygo,123
+OLRIR,United States,Michigan,26,Oakland,125
+OLRIR,United States,Michigan,26,St. Clair,147
+OLRIR,United States,Michigan,26,St. Joseph,149
+OLRIR,United States,Michigan,26,Washtenaw,161
+OLRIR,United States,Michigan,26,Wayne,163
+OLRIR,United States,Minnesota,27,,
+OLRIR,United States,Minnesota,27,Anoka,003
+OLRIR,United States,Minnesota,27,Becker,005
+OLRIR,United States,Minnesota,27,Beltrami,007
+OLRIR,United States,Minnesota,27,Benton,009
+OLRIR,United States,Minnesota,27,Big Stone,011
+OLRIR,United States,Minnesota,27,Blue Earth,013
+OLRIR,United States,Minnesota,27,Brown,015
+OLRIR,United States,Minnesota,27,Cass,021
+OLRIR,United States,Minnesota,27,Chippewa,023
+OLRIR,United States,Minnesota,27,Chisago,025
+OLRIR,United States,Minnesota,27,Clay,027
+OLRIR,United States,Minnesota,27,Clearwater,029
+OLRIR,United States,Minnesota,27,Cook,031
+OLRIR,United States,Minnesota,27,Cottonwood,033
+OLRIR,United States,Minnesota,27,Dakota,037
+OLRIR,United States,Minnesota,27,Dodge,039
+OLRIR,United States,Minnesota,27,Douglas,041
+OLRIR,United States,Minnesota,27,Faribault,043
+OLRIR,United States,Minnesota,27,Fillmore,045
+OLRIR,United States,Minnesota,27,Freeborn,047
+OLRIR,United States,Minnesota,27,Goodhue,049
+OLRIR,United States,Minnesota,27,Hennepin,053
+OLRIR,United States,Minnesota,27,Houston,055
+OLRIR,United States,Minnesota,27,Hubbard,057
+OLRIR,United States,Minnesota,27,Isanti,059
+OLRIR,United States,Minnesota,27,Itasca,061
+OLRIR,United States,Minnesota,27,Jackson,063
+OLRIR,United States,Minnesota,27,Kandiyohi,067
+OLRIR,United States,Minnesota,27,Kittson,069
+OLRIR,United States,Minnesota,27,Lac qui Parle,073
+OLRIR,United States,Minnesota,27,Lake,075
+OLRIR,United States,Minnesota,27,Lake of the Woods,077
+OLRIR,United States,Minnesota,27,Le Sueur,079
+OLRIR,United States,Minnesota,27,Lincoln,081
+OLRIR,United States,Minnesota,27,Lyon,083
+OLRIR,United States,Minnesota,27,Mahnomen,087
+OLRIR,United States,Minnesota,27,Marshall,089
+OLRIR,United States,Minnesota,27,Martin,091
+OLRIR,United States,Minnesota,27,McLeod,085
+OLRIR,United States,Minnesota,27,Mille Lacs,095
+OLRIR,United States,Minnesota,27,Morrison,097
+OLRIR,United States,Minnesota,27,Mower,099
+OLRIR,United States,Minnesota,27,Murray,101
+OLRIR,United States,Minnesota,27,Nobles,105
+OLRIR,United States,Minnesota,27,Norman,107
+OLRIR,United States,Minnesota,27,Olmsted,109
+OLRIR,United States,Minnesota,27,Otter Tail,111
+OLRIR,United States,Minnesota,27,Pennington,113
+OLRIR,United States,Minnesota,27,Pine,115
+OLRIR,United States,Minnesota,27,Pipestone,117
+OLRIR,United States,Minnesota,27,Polk,119
+OLRIR,United States,Minnesota,27,Pope,121
+OLRIR,United States,Minnesota,27,Ramsey,123
+OLRIR,United States,Minnesota,27,Red Lake,125
+OLRIR,United States,Minnesota,27,Rice,131
+OLRIR,United States,Minnesota,27,Roseau,135
+OLRIR,United States,Minnesota,27,Scott,139
+OLRIR,United States,Minnesota,27,Sherburne,141
+OLRIR,United States,Minnesota,27,St. Louis,137
+OLRIR,United States,Minnesota,27,Stearns,145
+OLRIR,United States,Minnesota,27,Steele,147
+OLRIR,United States,Minnesota,27,Stevens,149
+OLRIR,United States,Minnesota,27,Todd,153
+OLRIR,United States,Minnesota,27,Traverse,155
+OLRIR,United States,Minnesota,27,Wabasha,157
+OLRIR,United States,Minnesota,27,Wadena,159
+OLRIR,United States,Minnesota,27,Waseca,161
+OLRIR,United States,Minnesota,27,Washington,163
+OLRIR,United States,Minnesota,27,Watonwan,165
+OLRIR,United States,Minnesota,27,Wilkin,167
+OLRIR,United States,Minnesota,27,Winona,169
+OLRIR,United States,Minnesota,27,Wright,171
+OLRIR,United States,Minnesota,27,Yellow Medicine,173
+OLRIR,United States,Missouri,29,,
+OLRIR,United States,Missouri,29,Adair,001
+OLRIR,United States,Missouri,29,Atchison,005
+OLRIR,United States,Missouri,29,Audrain,007
+OLRIR,United States,Missouri,29,Barry,009
+OLRIR,United States,Missouri,29,Barton,011
+OLRIR,United States,Missouri,29,Bates,013
+OLRIR,United States,Missouri,29,Benton,015
+OLRIR,United States,Missouri,29,Boone,019
+OLRIR,United States,Missouri,29,Butler,023
+OLRIR,United States,Missouri,29,Caldwell,025
+OLRIR,United States,Missouri,29,Callaway,027
+OLRIR,United States,Missouri,29,Camden,029
+OLRIR,United States,Missouri,29,Carroll,033
+OLRIR,United States,Missouri,29,Cass,037
+OLRIR,United States,Missouri,29,Chariton,041
+OLRIR,United States,Missouri,29,Clark,045
+OLRIR,United States,Missouri,29,Clinton,049
+OLRIR,United States,Missouri,29,Cooper,053
+OLRIR,United States,Missouri,29,Crawford,055
+OLRIR,United States,Missouri,29,Dallas,059
+OLRIR,United States,Missouri,29,Daviess,061
+OLRIR,United States,Missouri,29,DeKalb,063
+OLRIR,United States,Missouri,29,Gentry,075
+OLRIR,United States,Missouri,29,Greene,077
+OLRIR,United States,Missouri,29,Grundy,079
+OLRIR,United States,Missouri,29,Harrison,081
+OLRIR,United States,Missouri,29,Henry,083
+OLRIR,United States,Missouri,29,Holt,087
+OLRIR,United States,Missouri,29,Jackson,095
+OLRIR,United States,Missouri,29,Jasper,097
+OLRIR,United States,Missouri,29,Jefferson,099
+OLRIR,United States,Missouri,29,Johnson,101
+OLRIR,United States,Missouri,29,Laclede,105
+OLRIR,United States,Missouri,29,Lawrence,109
+OLRIR,United States,Missouri,29,Lewis,111
+OLRIR,United States,Missouri,29,Lincoln,113
+OLRIR,United States,Missouri,29,Linn,115
+OLRIR,United States,Missouri,29,Livingston,117
+OLRIR,United States,Missouri,29,Macon,121
+OLRIR,United States,Missouri,29,Maries,125
+OLRIR,United States,Missouri,29,Marion,127
+OLRIR,United States,Missouri,29,Mercer,129
+OLRIR,United States,Missouri,29,Miller,131
+OLRIR,United States,Missouri,29,Monroe,137
+OLRIR,United States,Missouri,29,Montgomery,139
+OLRIR,United States,Missouri,29,Morgan,141
+OLRIR,United States,Missouri,29,Newton,145
+OLRIR,United States,Missouri,29,Nodaway,147
+OLRIR,United States,Missouri,29,Oregon,149
+OLRIR,United States,Missouri,29,Ozark,153
+OLRIR,United States,Missouri,29,Pettis,159
+OLRIR,United States,Missouri,29,Phelps,161
+OLRIR,United States,Missouri,29,Pike,163
+OLRIR,United States,Missouri,29,Polk,167
+OLRIR,United States,Missouri,29,Putnam,171
+OLRIR,United States,Missouri,29,Randolph,175
+OLRIR,United States,Missouri,29,Ray,177
+OLRIR,United States,Missouri,29,Reynolds,179
+OLRIR,United States,Missouri,29,Ripley,181
+OLRIR,United States,Missouri,29,Saline,195
+OLRIR,United States,Missouri,29,Schuyler,197
+OLRIR,United States,Missouri,29,Shannon,203
+OLRIR,United States,Missouri,29,Shelby,205
+OLRIR,United States,Missouri,29,St. Clair,185
+OLRIR,United States,Missouri,29,St. Louis,189
+OLRIR,United States,Missouri,29,Stone,209
+OLRIR,United States,Missouri,29,Sullivan,211
+OLRIR,United States,Missouri,29,Taney,213
+OLRIR,United States,Missouri,29,Vernon,217
+OLRIR,United States,Missouri,29,Warren,219
+OLRIR,United States,Missouri,29,Webster,225
+OLRIR,United States,Missouri,29,Worth,227
+OLRIR,United States,Missouri,29,Wright,229
+OLRIR,United States,Nebraska,31,,
+OLRIR,United States,Nebraska,31,Adams,001
+OLRIR,United States,Nebraska,31,Arthur,005
+OLRIR,United States,Nebraska,31,Box Butte,013
+OLRIR,United States,Nebraska,31,Brown,017
+OLRIR,United States,Nebraska,31,Buffalo,019
+OLRIR,United States,Nebraska,31,Burt,021
+OLRIR,United States,Nebraska,31,Butler,023
+OLRIR,United States,Nebraska,31,Cass,025
+OLRIR,United States,Nebraska,31,Cedar,027
+OLRIR,United States,Nebraska,31,Cherry,031
+OLRIR,United States,Nebraska,31,Cheyenne,033
+OLRIR,United States,Nebraska,31,Cuming,039
+OLRIR,United States,Nebraska,31,Custer,041
+OLRIR,United States,Nebraska,31,Dawes,045
+OLRIR,United States,Nebraska,31,Dawson,047
+OLRIR,United States,Nebraska,31,Dixon,051
+OLRIR,United States,Nebraska,31,Dodge,053
+OLRIR,United States,Nebraska,31,Douglas,055
+OLRIR,United States,Nebraska,31,Dundy,057
+OLRIR,United States,Nebraska,31,Fillmore,059
+OLRIR,United States,Nebraska,31,Gage,067
+OLRIR,United States,Nebraska,31,Garden,069
+OLRIR,United States,Nebraska,31,Gosper,073
+OLRIR,United States,Nebraska,31,Greeley,077
+OLRIR,United States,Nebraska,31,Hall,079
+OLRIR,United States,Nebraska,31,Hamilton,081
+OLRIR,United States,Nebraska,31,Holt,089
+OLRIR,United States,Nebraska,31,Hooker,091
+OLRIR,United States,Nebraska,31,Johnson,097
+OLRIR,United States,Nebraska,31,Kearney,099
+OLRIR,United States,Nebraska,31,Keith,101
+OLRIR,United States,Nebraska,31,Keya Paha,103
+OLRIR,United States,Nebraska,31,Knox,107
+OLRIR,United States,Nebraska,31,Lancaster,109
+OLRIR,United States,Nebraska,31,Lincoln,111
+OLRIR,United States,Nebraska,31,Otoe,131
+OLRIR,United States,Nebraska,31,Pawnee,133
+OLRIR,United States,Nebraska,31,Perkins,135
+OLRIR,United States,Nebraska,31,Richardson,147
+OLRIR,United States,Nebraska,31,Saunders,155
+OLRIR,United States,Nebraska,31,Scotts Bluff,157
+OLRIR,United States,Nebraska,31,Seward,159
+OLRIR,United States,Nebraska,31,Sheridan,161
+OLRIR,United States,Nebraska,31,Sherman,163
+OLRIR,United States,Nebraska,31,Sioux,165
+OLRIR,United States,Nebraska,31,Stanton,167
+OLRIR,United States,Nebraska,31,Thurston,173
+OLRIR,United States,Nebraska,31,Washington,177
+OLRIR,United States,Nebraska,31,Wayne,179
+OLRIR,United States,Nebraska,31,Webster,181
+OLRIR,United States,Nebraska,31,York,185
+OLRIR,United States,New Jersey,34,,
+OLRIR,United States,New Jersey,34,Bergen,003
+OLRIR,United States,New Jersey,34,Camden,007
+OLRIR,United States,New Jersey,34,Cape May,009
+OLRIR,United States,New Jersey,34,Hudson,017
+OLRIR,United States,New Jersey,34,Hunterdon,019
+OLRIR,United States,New Jersey,34,Middlesex,023
+OLRIR,United States,New Jersey,34,Morris,027
+OLRIR,United States,New Jersey,34,Sussex,037
+OLRIR,United States,New Jersey,34,Warren,041
+OLRIR,United States,New York,36,,
+OLRIR,United States,New York,36,Columbia,021
+OLRIR,United States,New York,36,Dutchess,027
+OLRIR,United States,New York,36,Erie,029
+OLRIR,United States,New York,36,Greene,039
+OLRIR,United States,New York,36,Nassau,059
+OLRIR,United States,New York,36,New York,061
+OLRIR,United States,New York,36,Niagara,063
+OLRIR,United States,New York,36,Rockland,087
+OLRIR,United States,New York,36,Schenectady,093
+OLRIR,United States,New York,36,Tompkins,109
+OLRIR,United States,New York,36,Westchester,119
+OLRIR,United States,North Carolina,37,,
+OLRIR,United States,North Carolina,37,Durham,063
+OLRIR,United States,North Carolina,37,Granville,077
+OLRIR,United States,North Carolina,37,Haywood,087
+OLRIR,United States,North Carolina,37,Mecklenburg,119
+OLRIR,United States,North Carolina,37,Person,145
+OLRIR,United States,North Carolina,37,Yancey,199
+OLRIR,United States,Ohio,39,,
+OLRIR,United States,Ohio,39,Adams,001
+OLRIR,United States,Ohio,39,Allen,003
+OLRIR,United States,Ohio,39,Athens,009
+OLRIR,United States,Ohio,39,Auglaize,011
+OLRIR,United States,Ohio,39,Crawford,033
+OLRIR,United States,Ohio,39,Defiance,039
+OLRIR,United States,Ohio,39,Erie,043
+OLRIR,United States,Ohio,39,Franklin,049
+OLRIR,United States,Ohio,39,Huron,077
+OLRIR,United States,Ohio,39,Lawrence,087
+OLRIR,United States,Ohio,39,Lucas,095
+OLRIR,United States,Ohio,39,Madison,097
+OLRIR,United States,Ohio,39,Marion,101
+OLRIR,United States,Ohio,39,Ottawa,123
+OLRIR,United States,Ohio,39,Pickaway,129
+OLRIR,United States,Ohio,39,Sandusky,143
+OLRIR,United States,Ohio,39,Wood,173
+OLRIR,United States,Ohio,39,Wyandot,175
+OLRIR,United States,Oklahoma,40,,
+OLRIR,United States,Oklahoma,40,Cleveland,027
+OLRIR,United States,Oklahoma,40,Creek,037
+OLRIR,United States,Oklahoma,40,Grady,051
+OLRIR,United States,Oklahoma,40,Johnston,069
+OLRIR,United States,Oklahoma,40,Logan,083
+OLRIR,United States,Oklahoma,40,Mayes,097
+OLRIR,United States,Oklahoma,40,McClain,087
+OLRIR,United States,Oklahoma,40,Murray,099
+OLRIR,United States,Oklahoma,40,Muskogee,101
+OLRIR,United States,Oklahoma,40,Oklahoma,109
+OLRIR,United States,Oklahoma,40,Ottawa,115
+OLRIR,United States,Oklahoma,40,Pawnee,117
+OLRIR,United States,Oklahoma,40,Payne,119
+OLRIR,United States,Oklahoma,40,Pontotoc,123
+OLRIR,United States,Oklahoma,40,Pottawatomie,125
+OLRIR,United States,Oklahoma,40,Seminole,133
+OLRIR,United States,Oklahoma,40,Sequoyah,135
+OLRIR,United States,Oklahoma,40,Tulsa,143
+OLRIR,United States,Pennsylvania,42,,
+OLRIR,United States,Pennsylvania,42,Bucks,017
+OLRIR,United States,Pennsylvania,42,Centre,027
+OLRIR,United States,Pennsylvania,42,Dauphin,043
+OLRIR,United States,Pennsylvania,42,Franklin,055
+OLRIR,United States,Pennsylvania,42,Huntingdon,061
+OLRIR,United States,Pennsylvania,42,Lancaster,071
+OLRIR,United States,Pennsylvania,42,Lehigh,077
+OLRIR,United States,Pennsylvania,42,Luzerne,079
+OLRIR,United States,Pennsylvania,42,Lycoming,081
+OLRIR,United States,Pennsylvania,42,Montgomery,091
+OLRIR,United States,Pennsylvania,42,Northampton,095
+OLRIR,United States,Pennsylvania,42,Northumberland,097
+OLRIR,United States,Pennsylvania,42,Venango,121
+OLRIR,United States,Pennsylvania,42,York,133
+OLRIR,United States,Rhode Island,44,,
+OLRIR,United States,Rhode Island,44,Washington,009
+OLRIR,United States,South Carolina,45,,
+OLRIR,United States,South Carolina,45,Fairfield,039
+OLRIR,United States,Tennessee,47,,
+OLRIR,United States,Tennessee,47,Coffee,031
+OLRIR,United States,Tennessee,47,Decatur,039
+OLRIR,United States,Tennessee,47,Dickson,043
+OLRIR,United States,Tennessee,47,Franklin,051
+OLRIR,United States,Tennessee,47,Lewis,101
+OLRIR,United States,Tennessee,47,Marion,115
+OLRIR,United States,Texas,48,,
+OLRIR,United States,Texas,48,Grimes,185
+OLRIR,United States,Texas,48,McLennan,309
+OLRIR,United States,Texas,48,Roberts,393
+OLRIR,United States,Virginia,51,,
+OLRIR,United States,Virginia,51,Amelia,007
+OLRIR,United States,Virginia,51,Bath,017
+OLRIR,United States,Virginia,51,Bedford,019
+OLRIR,United States,Virginia,51,Fairfax,059
+OLRIR,United States,Virginia,51,Fauquier,061
+OLRIR,United States,Virginia,51,Floyd,063
+OLRIR,United States,Virginia,51,Franklin,067
+OLRIR,United States,Virginia,51,Giles,071
+OLRIR,United States,Virginia,51,Lee,105
+OLRIR,United States,Virginia,51,Loudoun,107
+OLRIR,United States,Virginia,51,Pittsylvania,143
+OLRIR,United States,Virginia,51,Prince William,153
+OLRIR,United States,Virginia,51,Pulaski,155
+OLRIR,United States,Virginia,51,Shenandoah,171
+OLRIR,United States,Virginia,51,Warren,187
+OLRIR,United States,West Virginia,54,,
+OLRIR,United States,West Virginia,54,Pendleton,071
+OLRIR,United States,Wisconsin,55,,
+OLRIR,United States,Wisconsin,55,Adams,001
+OLRIR,United States,Wisconsin,55,Brown,009
+OLRIR,United States,Wisconsin,55,Buffalo,011
+OLRIR,United States,Wisconsin,55,Burnett,013
+OLRIR,United States,Wisconsin,55,Chippewa,017
+OLRIR,United States,Wisconsin,55,Columbia,021
+OLRIR,United States,Wisconsin,55,Crawford,023
+OLRIR,United States,Wisconsin,55,Dane,025
+OLRIR,United States,Wisconsin,55,Dodge,027
+OLRIR,United States,Wisconsin,55,Douglas,031
+OLRIR,United States,Wisconsin,55,Eau Claire,035
+OLRIR,United States,Wisconsin,55,Fond du Lac,039
+OLRIR,United States,Wisconsin,55,Grant,043
+OLRIR,United States,Wisconsin,55,Green,045
+OLRIR,United States,Wisconsin,55,Green Lake,047
+OLRIR,United States,Wisconsin,55,Iowa,049
+OLRIR,United States,Wisconsin,55,Iron,051
+OLRIR,United States,Wisconsin,55,Jackson,053
+OLRIR,United States,Wisconsin,55,Jefferson,055
+OLRIR,United States,Wisconsin,55,Kenosha,059
+OLRIR,United States,Wisconsin,55,La Crosse,063
+OLRIR,United States,Wisconsin,55,Lafayette,065
+OLRIR,United States,Wisconsin,55,Marquette,077
+OLRIR,United States,Wisconsin,55,Milwaukee,079
+OLRIR,United States,Wisconsin,55,Monroe,081
+OLRIR,United States,Wisconsin,55,Outagamie,087
+OLRIR,United States,Wisconsin,55,Pepin,091
+OLRIR,United States,Wisconsin,55,Pierce,093
+OLRIR,United States,Wisconsin,55,Portage,097
+OLRIR,United States,Wisconsin,55,Racine,101
+OLRIR,United States,Wisconsin,55,Richland,103
+OLRIR,United States,Wisconsin,55,Rock,105
+OLRIR,United States,Wisconsin,55,Sauk,111
+OLRIR,United States,Wisconsin,55,Sawyer,113
+OLRIR,United States,Wisconsin,55,Sheboygan,117
+OLRIR,United States,Wisconsin,55,St. Croix,109
+OLRIR,United States,Wisconsin,55,Trempealeau,121
+OLRIR,United States,Wisconsin,55,Walworth,127
+OLRIR,United States,Wisconsin,55,Washington,131
+OLRIR,United States,Wisconsin,55,Waukesha,133
+OLRIR,United States,Wisconsin,55,Waupaca,135
+OLRIR,United States,Wisconsin,55,Waushara,137
+OLRIR,United States,Wisconsin,55,Winnebago,139
+OLRIR,United States,Wisconsin,55,Wood,141

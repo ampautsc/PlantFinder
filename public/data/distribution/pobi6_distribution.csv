@@ -1,0 +1,252 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+POBI6,Canada,Alberta,01,,
+POBI6,Canada,British Columbia,02,,
+POBI6,United States,Arizona,04,,
+POBI6,United States,Arizona,04,Apache,001
+POBI6,United States,Arizona,04,Coconino,005
+POBI6,United States,Arizona,04,Graham,009
+POBI6,United States,Arizona,04,Greenlee,011
+POBI6,United States,California,06,,
+POBI6,United States,California,06,Alpine,003
+POBI6,United States,California,06,Amador,005
+POBI6,United States,California,06,Butte,007
+POBI6,United States,California,06,Calaveras,009
+POBI6,United States,California,06,Colusa,011
+POBI6,United States,California,06,Del Norte,015
+POBI6,United States,California,06,El Dorado,017
+POBI6,United States,California,06,Fresno,019
+POBI6,United States,California,06,Glenn,021
+POBI6,United States,California,06,Humboldt,023
+POBI6,United States,California,06,Kern,029
+POBI6,United States,California,06,Lake,033
+POBI6,United States,California,06,Lassen,035
+POBI6,United States,California,06,Madera,039
+POBI6,United States,California,06,Marin,041
+POBI6,United States,California,06,Mariposa,043
+POBI6,United States,California,06,Mendocino,045
+POBI6,United States,California,06,Modoc,049
+POBI6,United States,California,06,Mono,051
+POBI6,United States,California,06,Nevada,057
+POBI6,United States,California,06,Placer,061
+POBI6,United States,California,06,Plumas,063
+POBI6,United States,California,06,San Bernardino,071
+POBI6,United States,California,06,Shasta,089
+POBI6,United States,California,06,Sierra,091
+POBI6,United States,California,06,Siskiyou,093
+POBI6,United States,California,06,Solano,095
+POBI6,United States,California,06,Sonoma,097
+POBI6,United States,California,06,Tehama,103
+POBI6,United States,California,06,Trinity,105
+POBI6,United States,California,06,Tulare,107
+POBI6,United States,California,06,Tuolumne,109
+POBI6,United States,Colorado,08,,
+POBI6,United States,Colorado,08,Archuleta,007
+POBI6,United States,Colorado,08,Boulder,013
+POBI6,United States,Colorado,08,Chaffee,015
+POBI6,United States,Colorado,08,Clear Creek,019
+POBI6,United States,Colorado,08,Conejos,021
+POBI6,United States,Colorado,08,Custer,027
+POBI6,United States,Colorado,08,Delta,029
+POBI6,United States,Colorado,08,Dolores,033
+POBI6,United States,Colorado,08,Eagle,037
+POBI6,United States,Colorado,08,El Paso,041
+POBI6,United States,Colorado,08,Garfield,045
+POBI6,United States,Colorado,08,Gilpin,047
+POBI6,United States,Colorado,08,Grand,049
+POBI6,United States,Colorado,08,Gunnison,051
+POBI6,United States,Colorado,08,Hinsdale,053
+POBI6,United States,Colorado,08,Huerfano,055
+POBI6,United States,Colorado,08,Jackson,057
+POBI6,United States,Colorado,08,La Plata,067
+POBI6,United States,Colorado,08,Lake,065
+POBI6,United States,Colorado,08,Larimer,069
+POBI6,United States,Colorado,08,Las Animas,071
+POBI6,United States,Colorado,08,Mesa,077
+POBI6,United States,Colorado,08,Mineral,079
+POBI6,United States,Colorado,08,Moffat,081
+POBI6,United States,Colorado,08,Montezuma,083
+POBI6,United States,Colorado,08,Montrose,085
+POBI6,United States,Colorado,08,Ouray,091
+POBI6,United States,Colorado,08,Park,093
+POBI6,United States,Colorado,08,Pitkin,097
+POBI6,United States,Colorado,08,Rio Grande,105
+POBI6,United States,Colorado,08,Routt,107
+POBI6,United States,Colorado,08,Saguache,109
+POBI6,United States,Colorado,08,San Juan,111
+POBI6,United States,Colorado,08,Summit,117
+POBI6,United States,Colorado,08,Teller,119
+POBI6,United States,Idaho,16,,
+POBI6,United States,Idaho,16,Adams,003
+POBI6,United States,Idaho,16,Bear Lake,007
+POBI6,United States,Idaho,16,Benewah,009
+POBI6,United States,Idaho,16,Blaine,013
+POBI6,United States,Idaho,16,Boise,015
+POBI6,United States,Idaho,16,Bonner,017
+POBI6,United States,Idaho,16,Bonneville,019
+POBI6,United States,Idaho,16,Boundary,021
+POBI6,United States,Idaho,16,Camas,025
+POBI6,United States,Idaho,16,Canyon,027
+POBI6,United States,Idaho,16,Caribou,029
+POBI6,United States,Idaho,16,Cassia,031
+POBI6,United States,Idaho,16,Clark,033
+POBI6,United States,Idaho,16,Clearwater,035
+POBI6,United States,Idaho,16,Custer,037
+POBI6,United States,Idaho,16,Elmore,039
+POBI6,United States,Idaho,16,Franklin,041
+POBI6,United States,Idaho,16,Fremont,043
+POBI6,United States,Idaho,16,Gem,045
+POBI6,United States,Idaho,16,Gooding,047
+POBI6,United States,Idaho,16,Idaho,049
+POBI6,United States,Idaho,16,Latah,057
+POBI6,United States,Idaho,16,Lemhi,059
+POBI6,United States,Idaho,16,Owyhee,073
+POBI6,United States,Idaho,16,Twin Falls,083
+POBI6,United States,Idaho,16,Valley,085
+POBI6,United States,Montana,30,,
+POBI6,United States,Montana,30,Beaverhead,001
+POBI6,United States,Montana,30,Big Horn,003
+POBI6,United States,Montana,30,Broadwater,007
+POBI6,United States,Montana,30,Carbon,009
+POBI6,United States,Montana,30,Chouteau,015
+POBI6,United States,Montana,30,Fergus,027
+POBI6,United States,Montana,30,Flathead,029
+POBI6,United States,Montana,30,Gallatin,031
+POBI6,United States,Montana,30,Glacier,035
+POBI6,United States,Montana,30,Granite,039
+POBI6,United States,Montana,30,Jefferson,043
+POBI6,United States,Montana,30,Judith Basin,045
+POBI6,United States,Montana,30,Lake,047
+POBI6,United States,Montana,30,Lewis and Clark,049
+POBI6,United States,Montana,30,Lincoln,053
+POBI6,United States,Montana,30,Madison,057
+POBI6,United States,Montana,30,Meagher,059
+POBI6,United States,Montana,30,Mineral,061
+POBI6,United States,Montana,30,Missoula,063
+POBI6,United States,Montana,30,Park,067
+POBI6,United States,Montana,30,Pondera,073
+POBI6,United States,Montana,30,Powell,077
+POBI6,United States,Montana,30,Ravalli,081
+POBI6,United States,Montana,30,Sanders,089
+POBI6,United States,Montana,30,Silver Bow,093
+POBI6,United States,Montana,30,Stillwater,095
+POBI6,United States,Montana,30,Sweet Grass,097
+POBI6,United States,Montana,30,Teton,099
+POBI6,United States,Nevada,32,,
+POBI6,United States,Nevada,32,Carson City,510
+POBI6,United States,Nevada,32,Douglas,005
+POBI6,United States,Nevada,32,Elko,007
+POBI6,United States,Nevada,32,Humboldt,013
+POBI6,United States,Nevada,32,Nye,023
+POBI6,United States,Nevada,32,Washoe,031
+POBI6,United States,Nevada,32,White Pine,033
+POBI6,United States,New Mexico,35,,
+POBI6,United States,New Mexico,35,Colfax,007
+POBI6,United States,New Mexico,35,Mora,033
+POBI6,United States,New Mexico,35,Rio Arriba,039
+POBI6,United States,New Mexico,35,San Miguel,047
+POBI6,United States,New Mexico,35,Sandoval,043
+POBI6,United States,New Mexico,35,Santa Fe,049
+POBI6,United States,New Mexico,35,Taos,055
+POBI6,United States,Oregon,41,,
+POBI6,United States,Oregon,41,Baker,001
+POBI6,United States,Oregon,41,Benton,003
+POBI6,United States,Oregon,41,Clackamas,005
+POBI6,United States,Oregon,41,Clatsop,007
+POBI6,United States,Oregon,41,Coos,011
+POBI6,United States,Oregon,41,Crook,013
+POBI6,United States,Oregon,41,Curry,015
+POBI6,United States,Oregon,41,Deschutes,017
+POBI6,United States,Oregon,41,Douglas,019
+POBI6,United States,Oregon,41,Grant,023
+POBI6,United States,Oregon,41,Harney,025
+POBI6,United States,Oregon,41,Hood River,027
+POBI6,United States,Oregon,41,Jackson,029
+POBI6,United States,Oregon,41,Jefferson,031
+POBI6,United States,Oregon,41,Josephine,033
+POBI6,United States,Oregon,41,Klamath,035
+POBI6,United States,Oregon,41,Lake,037
+POBI6,United States,Oregon,41,Lane,039
+POBI6,United States,Oregon,41,Lincoln,041
+POBI6,United States,Oregon,41,Linn,043
+POBI6,United States,Oregon,41,Malheur,045
+POBI6,United States,Oregon,41,Marion,047
+POBI6,United States,Oregon,41,Morrow,049
+POBI6,United States,Oregon,41,Multnomah,051
+POBI6,United States,Oregon,41,Polk,053
+POBI6,United States,Oregon,41,Umatilla,059
+POBI6,United States,Oregon,41,Union,061
+POBI6,United States,Oregon,41,Wallowa,063
+POBI6,United States,Oregon,41,Wasco,065
+POBI6,United States,Oregon,41,Wheeler,069
+POBI6,United States,Oregon,41,Yamhill,071
+POBI6,United States,Utah,49,,
+POBI6,United States,Utah,49,Beaver,001
+POBI6,United States,Utah,49,Box Elder,003
+POBI6,United States,Utah,49,Cache,005
+POBI6,United States,Utah,49,Carbon,007
+POBI6,United States,Utah,49,Daggett,009
+POBI6,United States,Utah,49,Duchesne,013
+POBI6,United States,Utah,49,Emery,015
+POBI6,United States,Utah,49,Garfield,017
+POBI6,United States,Utah,49,Grand,019
+POBI6,United States,Utah,49,Iron,021
+POBI6,United States,Utah,49,Juab,023
+POBI6,United States,Utah,49,Kane,025
+POBI6,United States,Utah,49,Millard,027
+POBI6,United States,Utah,49,Morgan,029
+POBI6,United States,Utah,49,Piute,031
+POBI6,United States,Utah,49,Rich,033
+POBI6,United States,Utah,49,San Juan,037
+POBI6,United States,Utah,49,Sanpete,039
+POBI6,United States,Utah,49,Sevier,041
+POBI6,United States,Utah,49,Summit,043
+POBI6,United States,Utah,49,Tooele,045
+POBI6,United States,Utah,49,Uintah,047
+POBI6,United States,Utah,49,Utah,049
+POBI6,United States,Utah,49,Wasatch,051
+POBI6,United States,Utah,49,Washington,053
+POBI6,United States,Utah,49,Wayne,055
+POBI6,United States,Utah,49,Weber,057
+POBI6,United States,Washington,53,,
+POBI6,United States,Washington,53,Asotin,003
+POBI6,United States,Washington,53,Chelan,007
+POBI6,United States,Washington,53,Clallam,009
+POBI6,United States,Washington,53,Clark,011
+POBI6,United States,Washington,53,Columbia,013
+POBI6,United States,Washington,53,Cowlitz,015
+POBI6,United States,Washington,53,Garfield,023
+POBI6,United States,Washington,53,Grays Harbor,027
+POBI6,United States,Washington,53,Jefferson,031
+POBI6,United States,Washington,53,King,033
+POBI6,United States,Washington,53,Kittitas,037
+POBI6,United States,Washington,53,Klickitat,039
+POBI6,United States,Washington,53,Lewis,041
+POBI6,United States,Washington,53,Mason,045
+POBI6,United States,Washington,53,Pend Oreille,051
+POBI6,United States,Washington,53,Pierce,053
+POBI6,United States,Washington,53,Skagit,057
+POBI6,United States,Washington,53,Skamania,059
+POBI6,United States,Washington,53,Snohomish,061
+POBI6,United States,Washington,53,Stevens,065
+POBI6,United States,Washington,53,Thurston,067
+POBI6,United States,Washington,53,Whatcom,073
+POBI6,United States,Washington,53,Whitman,075
+POBI6,United States,Washington,53,Yakima,077
+POBI6,United States,Wyoming,56,,
+POBI6,United States,Wyoming,56,Albany,001
+POBI6,United States,Wyoming,56,Big Horn,003
+POBI6,United States,Wyoming,56,Carbon,007
+POBI6,United States,Wyoming,56,Converse,009
+POBI6,United States,Wyoming,56,Fremont,013
+POBI6,United States,Wyoming,56,Hot Springs,017
+POBI6,United States,Wyoming,56,Johnson,019
+POBI6,United States,Wyoming,56,Laramie,021
+POBI6,United States,Wyoming,56,Lincoln,023
+POBI6,United States,Wyoming,56,Natrona,025
+POBI6,United States,Wyoming,56,Park,029
+POBI6,United States,Wyoming,56,Sheridan,033
+POBI6,United States,Wyoming,56,Sublette,035
+POBI6,United States,Wyoming,56,Sweetwater,037
+POBI6,United States,Wyoming,56,Teton,039
+POBI6,United States,Wyoming,56,Washakie,043

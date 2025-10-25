@@ -1,0 +1,308 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+THME,United States,Arizona,04,,
+THME,United States,Arizona,04,Apache,001
+THME,United States,Arizona,04,Cochise,003
+THME,United States,Arizona,04,Coconino,005
+THME,United States,Arizona,04,Graham,009
+THME,United States,Arizona,04,Navajo,017
+THME,United States,Arizona,04,Pima,019
+THME,United States,Arizona,04,Pinal,021
+THME,United States,Arizona,04,Santa Cruz,023
+THME,United States,Arizona,04,Yavapai,025
+THME,United States,Arkansas,05,,
+THME,United States,Arkansas,05,Little River,081
+THME,United States,California,06,,
+THME,United States,California,06,Orange,059
+THME,United States,California,06,San Diego,073
+THME,United States,Colorado,08,,
+THME,United States,Colorado,08,Baca,009
+THME,United States,Colorado,08,Bent,011
+THME,United States,Colorado,08,Boulder,013
+THME,United States,Colorado,08,Cheyenne,017
+THME,United States,Colorado,08,Douglas,035
+THME,United States,Colorado,08,El Paso,041
+THME,United States,Colorado,08,Jefferson,059
+THME,United States,Colorado,08,Kiowa,061
+THME,United States,Colorado,08,Kit Carson,063
+THME,United States,Colorado,08,Larimer,069
+THME,United States,Colorado,08,Las Animas,071
+THME,United States,Colorado,08,Lincoln,073
+THME,United States,Colorado,08,Logan,075
+THME,United States,Colorado,08,Montezuma,083
+THME,United States,Colorado,08,Morgan,087
+THME,United States,Colorado,08,Otero,089
+THME,United States,Colorado,08,Phillips,095
+THME,United States,Colorado,08,Prowers,099
+THME,United States,Colorado,08,Sedgwick,115
+THME,United States,Colorado,08,Washington,121
+THME,United States,Colorado,08,Weld,123
+THME,United States,Colorado,08,Yuma,125
+THME,United States,Illinois,17,,
+THME,United States,Illinois,17,Kane,089
+THME,United States,Indiana,18,,
+THME,United States,Kansas,20,,
+THME,United States,Kansas,20,Anderson,003
+THME,United States,Kansas,20,Barber,007
+THME,United States,Kansas,20,Barton,009
+THME,United States,Kansas,20,Butler,015
+THME,United States,Kansas,20,Cheyenne,023
+THME,United States,Kansas,20,Clark,025
+THME,United States,Kansas,20,Clay,027
+THME,United States,Kansas,20,Cloud,029
+THME,United States,Kansas,20,Comanche,033
+THME,United States,Kansas,20,Decatur,039
+THME,United States,Kansas,20,Dickinson,041
+THME,United States,Kansas,20,Doniphan,043
+THME,United States,Kansas,20,Edwards,047
+THME,United States,Kansas,20,Ellis,051
+THME,United States,Kansas,20,Ellsworth,053
+THME,United States,Kansas,20,Finney,055
+THME,United States,Kansas,20,Ford,057
+THME,United States,Kansas,20,Geary,061
+THME,United States,Kansas,20,Gove,063
+THME,United States,Kansas,20,Graham,065
+THME,United States,Kansas,20,Grant,067
+THME,United States,Kansas,20,Gray,069
+THME,United States,Kansas,20,Greeley,071
+THME,United States,Kansas,20,Hamilton,075
+THME,United States,Kansas,20,Harper,077
+THME,United States,Kansas,20,Harvey,079
+THME,United States,Kansas,20,Haskell,081
+THME,United States,Kansas,20,Hodgeman,083
+THME,United States,Kansas,20,Jewell,089
+THME,United States,Kansas,20,Kearny,093
+THME,United States,Kansas,20,Kingman,095
+THME,United States,Kansas,20,Kiowa,097
+THME,United States,Kansas,20,Lane,101
+THME,United States,Kansas,20,Lincoln,105
+THME,United States,Kansas,20,Logan,109
+THME,United States,Kansas,20,Lyon,111
+THME,United States,Kansas,20,McPherson,113
+THME,United States,Kansas,20,Meade,119
+THME,United States,Kansas,20,Mitchell,123
+THME,United States,Kansas,20,Morton,129
+THME,United States,Kansas,20,Neosho,133
+THME,United States,Kansas,20,Ness,135
+THME,United States,Kansas,20,Norton,137
+THME,United States,Kansas,20,Osborne,141
+THME,United States,Kansas,20,Ottawa,143
+THME,United States,Kansas,20,Pawnee,145
+THME,United States,Kansas,20,Phillips,147
+THME,United States,Kansas,20,Pratt,151
+THME,United States,Kansas,20,Rawlins,153
+THME,United States,Kansas,20,Reno,155
+THME,United States,Kansas,20,Republic,157
+THME,United States,Kansas,20,Rice,159
+THME,United States,Kansas,20,Riley,161
+THME,United States,Kansas,20,Rooks,163
+THME,United States,Kansas,20,Rush,165
+THME,United States,Kansas,20,Russell,167
+THME,United States,Kansas,20,Saline,169
+THME,United States,Kansas,20,Scott,171
+THME,United States,Kansas,20,Seward,175
+THME,United States,Kansas,20,Shawnee,177
+THME,United States,Kansas,20,Sheridan,179
+THME,United States,Kansas,20,Sherman,181
+THME,United States,Kansas,20,Smith,183
+THME,United States,Kansas,20,Stafford,185
+THME,United States,Kansas,20,Stanton,187
+THME,United States,Kansas,20,Stevens,189
+THME,United States,Kansas,20,Sumner,191
+THME,United States,Kansas,20,Thomas,193
+THME,United States,Kansas,20,Trego,195
+THME,United States,Kansas,20,Wallace,199
+THME,United States,Kansas,20,Washington,201
+THME,United States,Kansas,20,Wichita,203
+THME,United States,Michigan,26,,
+THME,United States,Michigan,26,Kent,081
+THME,United States,Minnesota,27,,
+THME,United States,Minnesota,27,Sherburne,141
+THME,United States,Missouri,29,,
+THME,United States,Missouri,29,Jackson,095
+THME,United States,Montana,30,,
+THME,United States,Nebraska,31,,
+THME,United States,Nebraska,31,Arthur,005
+THME,United States,Nebraska,31,Banner,007
+THME,United States,Nebraska,31,Box Butte,013
+THME,United States,Nebraska,31,Buffalo,019
+THME,United States,Nebraska,31,Chase,029
+THME,United States,Nebraska,31,Cherry,031
+THME,United States,Nebraska,31,Cheyenne,033
+THME,United States,Nebraska,31,Dawes,045
+THME,United States,Nebraska,31,Dawson,047
+THME,United States,Nebraska,31,Deuel,049
+THME,United States,Nebraska,31,Dundy,057
+THME,United States,Nebraska,31,Franklin,061
+THME,United States,Nebraska,31,Furnas,065
+THME,United States,Nebraska,31,Garden,069
+THME,United States,Nebraska,31,Gosper,073
+THME,United States,Nebraska,31,Grant,075
+THME,United States,Nebraska,31,Hall,079
+THME,United States,Nebraska,31,Harlan,083
+THME,United States,Nebraska,31,Hitchcock,087
+THME,United States,Nebraska,31,Hooker,091
+THME,United States,Nebraska,31,Howard,093
+THME,United States,Nebraska,31,Jefferson,095
+THME,United States,Nebraska,31,Kearney,099
+THME,United States,Nebraska,31,Keith,101
+THME,United States,Nebraska,31,Kimball,105
+THME,United States,Nebraska,31,Lincoln,111
+THME,United States,Nebraska,31,Logan,113
+THME,United States,Nebraska,31,McPherson,117
+THME,United States,Nebraska,31,Morrill,123
+THME,United States,Nebraska,31,Nuckolls,129
+THME,United States,Nebraska,31,Perkins,135
+THME,United States,Nebraska,31,Phelps,137
+THME,United States,Nebraska,31,Platte,141
+THME,United States,Nebraska,31,Red Willow,145
+THME,United States,Nebraska,31,Scotts Bluff,157
+THME,United States,Nebraska,31,Sheridan,161
+THME,United States,Nebraska,31,Thomas,171
+THME,United States,Nebraska,31,Webster,181
+THME,United States,New Mexico,35,,
+THME,United States,New Mexico,35,Bernalillo,001
+THME,United States,New Mexico,35,Catron,003
+THME,United States,New Mexico,35,Chaves,005
+THME,United States,New Mexico,35,Cibola,006
+THME,United States,New Mexico,35,Colfax,007
+THME,United States,New Mexico,35,Curry,009
+THME,United States,New Mexico,35,De Baca,011
+THME,United States,New Mexico,35,Dona Ana,013
+THME,United States,New Mexico,35,Eddy,015
+THME,United States,New Mexico,35,Grant,017
+THME,United States,New Mexico,35,Guadalupe,019
+THME,United States,New Mexico,35,Harding,021
+THME,United States,New Mexico,35,Hidalgo,023
+THME,United States,New Mexico,35,Lea,025
+THME,United States,New Mexico,35,Lincoln,027
+THME,United States,New Mexico,35,Los Alamos,028
+THME,United States,New Mexico,35,Luna,029
+THME,United States,New Mexico,35,McKinley,031
+THME,United States,New Mexico,35,Mora,033
+THME,United States,New Mexico,35,Otero,035
+THME,United States,New Mexico,35,Quay,037
+THME,United States,New Mexico,35,Rio Arriba,039
+THME,United States,New Mexico,35,Roosevelt,041
+THME,United States,New Mexico,35,San Juan,045
+THME,United States,New Mexico,35,San Miguel,047
+THME,United States,New Mexico,35,Sandoval,043
+THME,United States,New Mexico,35,Santa Fe,049
+THME,United States,New Mexico,35,Socorro,053
+THME,United States,New Mexico,35,Taos,055
+THME,United States,New Mexico,35,Torrance,057
+THME,United States,New Mexico,35,Union,059
+THME,United States,New Mexico,35,Valencia,061
+THME,United States,Oklahoma,40,,
+THME,United States,Oklahoma,40,Alfalfa,003
+THME,United States,Oklahoma,40,Beaver,007
+THME,United States,Oklahoma,40,Beckham,009
+THME,United States,Oklahoma,40,Blaine,011
+THME,United States,Oklahoma,40,Cimarron,025
+THME,United States,Oklahoma,40,Custer,039
+THME,United States,Oklahoma,40,Dewey,043
+THME,United States,Oklahoma,40,Ellis,045
+THME,United States,Oklahoma,40,Garfield,047
+THME,United States,Oklahoma,40,Grady,051
+THME,United States,Oklahoma,40,Greer,055
+THME,United States,Oklahoma,40,Harmon,057
+THME,United States,Oklahoma,40,Harper,059
+THME,United States,Oklahoma,40,Jackson,065
+THME,United States,Oklahoma,40,Kingfisher,073
+THME,United States,Oklahoma,40,Major,093
+THME,United States,Oklahoma,40,Roger Mills,129
+THME,United States,Oklahoma,40,Texas,139
+THME,United States,Oklahoma,40,Washita,149
+THME,United States,Oklahoma,40,Woods,151
+THME,United States,Oklahoma,40,Woodward,153
+THME,United States,Oregon,41,,
+THME,United States,Oregon,41,Baker,001
+THME,United States,South Dakota,46,,
+THME,United States,South Dakota,46,Pennington,103
+THME,United States,Texas,48,,
+THME,United States,Texas,48,Andrews,003
+THME,United States,Texas,48,Archer,009
+THME,United States,Texas,48,Armstrong,011
+THME,United States,Texas,48,Bailey,017
+THME,United States,Texas,48,Borden,033
+THME,United States,Texas,48,Brewster,043
+THME,United States,Texas,48,Briscoe,045
+THME,United States,Texas,48,Callahan,059
+THME,United States,Texas,48,Carson,065
+THME,United States,Texas,48,Castro,069
+THME,United States,Texas,48,Childress,075
+THME,United States,Texas,48,Clay,077
+THME,United States,Texas,48,Coke,081
+THME,United States,Texas,48,Coleman,083
+THME,United States,Texas,48,Collingsworth,087
+THME,United States,Texas,48,Cottle,101
+THME,United States,Texas,48,Crane,103
+THME,United States,Texas,48,Crockett,105
+THME,United States,Texas,48,Crosby,107
+THME,United States,Texas,48,Culberson,109
+THME,United States,Texas,48,Dallam,111
+THME,United States,Texas,48,Dawson,115
+THME,United States,Texas,48,Deaf Smith,117
+THME,United States,Texas,48,Dickens,125
+THME,United States,Texas,48,Donley,129
+THME,United States,Texas,48,El Paso,141
+THME,United States,Texas,48,Fisher,151
+THME,United States,Texas,48,Floyd,153
+THME,United States,Texas,48,Gaines,165
+THME,United States,Texas,48,Garza,169
+THME,United States,Texas,48,Gray,179
+THME,United States,Texas,48,Hale,189
+THME,United States,Texas,48,Hall,191
+THME,United States,Texas,48,Hansford,195
+THME,United States,Texas,48,Hardeman,197
+THME,United States,Texas,48,Hartley,205
+THME,United States,Texas,48,Hemphill,211
+THME,United States,Texas,48,Hockley,219
+THME,United States,Texas,48,Hudspeth,229
+THME,United States,Texas,48,Hutchinson,233
+THME,United States,Texas,48,Jeff Davis,243
+THME,United States,Texas,48,Jones,253
+THME,United States,Texas,48,Kent,263
+THME,United States,Texas,48,Knox,275
+THME,United States,Texas,48,Lamb,279
+THME,United States,Texas,48,Lipscomb,295
+THME,United States,Texas,48,Lubbock,303
+THME,United States,Texas,48,Martin,317
+THME,United States,Texas,48,Midland,329
+THME,United States,Texas,48,Mitchell,335
+THME,United States,Texas,48,Moore,341
+THME,United States,Texas,48,Motley,345
+THME,United States,Texas,48,Nolan,353
+THME,United States,Texas,48,Ochiltree,357
+THME,United States,Texas,48,Oldham,359
+THME,United States,Texas,48,Parmer,369
+THME,United States,Texas,48,Pecos,371
+THME,United States,Texas,48,Potter,375
+THME,United States,Texas,48,Presidio,377
+THME,United States,Texas,48,Randall,381
+THME,United States,Texas,48,Reeves,389
+THME,United States,Texas,48,Roberts,393
+THME,United States,Texas,48,Runnels,399
+THME,United States,Texas,48,Scurry,415
+THME,United States,Texas,48,Sherman,421
+THME,United States,Texas,48,Stonewall,433
+THME,United States,Texas,48,Sutton,435
+THME,United States,Texas,48,Swisher,437
+THME,United States,Texas,48,Taylor,441
+THME,United States,Texas,48,Terrell,443
+THME,United States,Texas,48,Throckmorton,447
+THME,United States,Texas,48,Tom Green,451
+THME,United States,Texas,48,Upton,461
+THME,United States,Texas,48,Ward,475
+THME,United States,Texas,48,Wheeler,483
+THME,United States,Texas,48,Wichita,485
+THME,United States,Texas,48,Yoakum,501
+THME,United States,Texas,48,Young,503
+THME,United States,Utah,49,,
+THME,United States,Utah,49,San Juan,037
+THME,United States,Utah,49,Washington,053
+THME,United States,Wyoming,56,,
+THME,United States,Wyoming,56,Albany,001
+THME,United States,Wyoming,56,Goshen,015
+THME,United States,Wyoming,56,Laramie,021
+THME,United States,Wyoming,56,Platte,031

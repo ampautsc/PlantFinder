@@ -1,0 +1,682 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+COLA5,United States,Alabama,01,,
+COLA5,United States,Alabama,01,Barbour,005
+COLA5,United States,Alabama,01,Bibb,007
+COLA5,United States,Alabama,01,Butler,013
+COLA5,United States,Alabama,01,Calhoun,015
+COLA5,United States,Alabama,01,Coosa,037
+COLA5,United States,Alabama,01,DeKalb,049
+COLA5,United States,Alabama,01,Escambia,053
+COLA5,United States,Alabama,01,Geneva,061
+COLA5,United States,Alabama,01,Jackson,071
+COLA5,United States,Alabama,01,Lee,081
+COLA5,United States,Alabama,01,Marion,093
+COLA5,United States,Alabama,01,Mobile,097
+COLA5,United States,Alabama,01,Montgomery,101
+COLA5,United States,Alabama,01,Russell,113
+COLA5,United States,Alabama,01,Sumter,119
+COLA5,United States,Alabama,01,Tallapoosa,123
+COLA5,United States,Alabama,01,Tuscaloosa,125
+COLA5,United States,Alabama,01,Washington,129
+COLA5,Canada,British Columbia,02,,
+COLA5,United States,Arkansas,05,,
+COLA5,United States,Arkansas,05,Arkansas,001
+COLA5,United States,Arkansas,05,Ashley,003
+COLA5,United States,Arkansas,05,Baxter,005
+COLA5,United States,Arkansas,05,Benton,007
+COLA5,United States,Arkansas,05,Bradley,011
+COLA5,United States,Arkansas,05,Carroll,015
+COLA5,United States,Arkansas,05,Chicot,017
+COLA5,United States,Arkansas,05,Clark,019
+COLA5,United States,Arkansas,05,Cleburne,023
+COLA5,United States,Arkansas,05,Columbia,027
+COLA5,United States,Arkansas,05,Conway,029
+COLA5,United States,Arkansas,05,Craighead,031
+COLA5,United States,Arkansas,05,Crawford,033
+COLA5,United States,Arkansas,05,Drew,043
+COLA5,United States,Arkansas,05,Faulkner,045
+COLA5,United States,Arkansas,05,Franklin,047
+COLA5,United States,Arkansas,05,Garland,051
+COLA5,United States,Arkansas,05,Grant,053
+COLA5,United States,Arkansas,05,Hempstead,057
+COLA5,United States,Arkansas,05,Hot Spring,059
+COLA5,United States,Arkansas,05,Howard,061
+COLA5,United States,Arkansas,05,Independence,063
+COLA5,United States,Arkansas,05,Izard,065
+COLA5,United States,Arkansas,05,Jefferson,069
+COLA5,United States,Arkansas,05,Lafayette,073
+COLA5,United States,Arkansas,05,Lincoln,079
+COLA5,United States,Arkansas,05,Lonoke,085
+COLA5,United States,Arkansas,05,Marion,089
+COLA5,United States,Arkansas,05,Monroe,095
+COLA5,United States,Arkansas,05,Montgomery,097
+COLA5,United States,Arkansas,05,Nevada,099
+COLA5,United States,Arkansas,05,Newton,101
+COLA5,United States,Arkansas,05,Ouachita,103
+COLA5,United States,Arkansas,05,Pike,109
+COLA5,United States,Arkansas,05,Polk,113
+COLA5,United States,Arkansas,05,Prairie,117
+COLA5,United States,Arkansas,05,Pulaski,119
+COLA5,United States,Arkansas,05,Randolph,121
+COLA5,United States,Arkansas,05,Scott,127
+COLA5,United States,Arkansas,05,Searcy,129
+COLA5,United States,Arkansas,05,Sebastian,131
+COLA5,United States,Arkansas,05,Sevier,133
+COLA5,United States,Arkansas,05,Sharp,135
+COLA5,United States,Arkansas,05,St. Francis,123
+COLA5,United States,Arkansas,05,Stone,137
+COLA5,United States,Arkansas,05,Union,139
+COLA5,United States,Arkansas,05,Van Buren,141
+COLA5,United States,Arkansas,05,Washington,143
+COLA5,United States,Arkansas,05,White,145
+COLA5,United States,California,06,,
+COLA5,United States,California,06,Butte,007
+COLA5,United States,California,06,Plumas,063
+COLA5,United States,California,06,Santa Barbara,083
+COLA5,United States,California,06,Santa Cruz,087
+COLA5,United States,California,06,Sonoma,097
+COLA5,Canada,Ontario,08,,
+COLA5,United States,Colorado,08,,
+COLA5,United States,Connecticut,09,,
+COLA5,United States,Connecticut,09,Fairfield,001
+COLA5,United States,Connecticut,09,Hartford,003
+COLA5,United States,Connecticut,09,New Haven,009
+COLA5,United States,Connecticut,09,Tolland,013
+COLA5,United States,Delaware,10,,
+COLA5,United States,Florida,12,,
+COLA5,United States,Florida,12,Bay,005
+COLA5,United States,Florida,12,Calhoun,013
+COLA5,United States,Florida,12,Franklin,037
+COLA5,United States,Florida,12,Gadsden,039
+COLA5,United States,Florida,12,Gulf,045
+COLA5,United States,Florida,12,Holmes,059
+COLA5,United States,Florida,12,Jackson,063
+COLA5,United States,Florida,12,Jefferson,065
+COLA5,United States,Florida,12,Lake,069
+COLA5,United States,Florida,12,Leon,073
+COLA5,United States,Florida,12,Liberty,077
+COLA5,United States,Florida,12,Madison,079
+COLA5,United States,Florida,12,Okaloosa,091
+COLA5,United States,Florida,12,Santa Rosa,113
+COLA5,United States,Florida,12,St. Johns,109
+COLA5,United States,Florida,12,Suwannee,121
+COLA5,United States,Florida,12,Volusia,127
+COLA5,United States,Florida,12,Wakulla,129
+COLA5,United States,Florida,12,Walton,131
+COLA5,United States,Florida,12,Washington,133
+COLA5,United States,Georgia,13,,
+COLA5,United States,Georgia,13,Appling,001
+COLA5,United States,Georgia,13,Baldwin,009
+COLA5,United States,Georgia,13,Bartow,015
+COLA5,United States,Georgia,13,Ben Hill,017
+COLA5,United States,Georgia,13,Bibb,021
+COLA5,United States,Georgia,13,Brantley,025
+COLA5,United States,Georgia,13,Bulloch,031
+COLA5,United States,Georgia,13,Calhoun,037
+COLA5,United States,Georgia,13,Chatham,051
+COLA5,United States,Georgia,13,Clay,061
+COLA5,United States,Georgia,13,Cook,075
+COLA5,United States,Georgia,13,Crisp,081
+COLA5,United States,Georgia,13,Dougherty,095
+COLA5,United States,Georgia,13,Elbert,105
+COLA5,United States,Georgia,13,Grady,131
+COLA5,United States,Georgia,13,Hancock,141
+COLA5,United States,Georgia,13,Harris,145
+COLA5,United States,Georgia,13,Johnson,167
+COLA5,United States,Georgia,13,Lowndes,185
+COLA5,United States,Georgia,13,Lumpkin,187
+COLA5,United States,Georgia,13,McIntosh,191
+COLA5,United States,Georgia,13,Muscogee,215
+COLA5,United States,Georgia,13,Screven,251
+COLA5,United States,Georgia,13,Taylor,269
+COLA5,United States,Georgia,13,Thomas,275
+COLA5,United States,Georgia,13,Troup,285
+COLA5,United States,Georgia,13,Washington,303
+COLA5,United States,Georgia,13,Wayne,305
+COLA5,United States,Georgia,13,Worth,321
+COLA5,United States,Hawaii,15,,
+COLA5,United States,Hawaii,15,Hawaii,001
+COLA5,United States,Hawaii,15,Maui,009
+COLA5,United States,Illinois,17,,
+COLA5,United States,Illinois,17,Cass,017
+COLA5,United States,Illinois,17,Champaign,019
+COLA5,United States,Illinois,17,Cook,031
+COLA5,United States,Illinois,17,DuPage,043
+COLA5,United States,Illinois,17,Edwards,047
+COLA5,United States,Illinois,17,Greene,061
+COLA5,United States,Illinois,17,Grundy,063
+COLA5,United States,Illinois,17,Hancock,067
+COLA5,United States,Illinois,17,Jackson,077
+COLA5,United States,Illinois,17,Kane,089
+COLA5,United States,Illinois,17,Kankakee,091
+COLA5,United States,Illinois,17,Kendall,093
+COLA5,United States,Illinois,17,Lake,097
+COLA5,United States,Illinois,17,LaSalle,099
+COLA5,United States,Illinois,17,Lawrence,101
+COLA5,United States,Illinois,17,Lee,103
+COLA5,United States,Illinois,17,Madison,119
+COLA5,United States,Illinois,17,Marshall,123
+COLA5,United States,Illinois,17,Mason,125
+COLA5,United States,Illinois,17,McLean,113
+COLA5,United States,Illinois,17,Menard,129
+COLA5,United States,Illinois,17,Monroe,133
+COLA5,United States,Illinois,17,Morgan,137
+COLA5,United States,Illinois,17,Peoria,143
+COLA5,United States,Illinois,17,Pulaski,153
+COLA5,United States,Illinois,17,Putnam,155
+COLA5,United States,Illinois,17,Randolph,157
+COLA5,United States,Illinois,17,St. Clair,163
+COLA5,United States,Illinois,17,Tazewell,179
+COLA5,United States,Illinois,17,Vermilion,183
+COLA5,United States,Illinois,17,Whiteside,195
+COLA5,United States,Illinois,17,Will,197
+COLA5,United States,Illinois,17,Winnebago,201
+COLA5,United States,Indiana,18,,
+COLA5,United States,Indiana,18,Clark,019
+COLA5,United States,Indiana,18,Harrison,061
+COLA5,United States,Indiana,18,Jasper,073
+COLA5,United States,Indiana,18,Lake,089
+COLA5,United States,Indiana,18,Newton,111
+COLA5,United States,Indiana,18,Porter,127
+COLA5,United States,Indiana,18,Pulaski,131
+COLA5,United States,Indiana,18,Spencer,147
+COLA5,United States,Indiana,18,St. Joseph,141
+COLA5,United States,Indiana,18,Starke,149
+COLA5,United States,Indiana,18,Vigo,167
+COLA5,United States,Iowa,19,,
+COLA5,United States,Kansas,20,,
+COLA5,United States,Kentucky,21,,
+COLA5,United States,Kentucky,21,Barren,009
+COLA5,United States,Kentucky,21,Bell,013
+COLA5,United States,Kentucky,21,Calloway,035
+COLA5,United States,Kentucky,21,Carter,043
+COLA5,United States,Kentucky,21,Christian,047
+COLA5,United States,Kentucky,21,Graves,083
+COLA5,United States,Kentucky,21,Hardin,093
+COLA5,United States,Kentucky,21,Hickman,105
+COLA5,United States,Kentucky,21,Hopkins,107
+COLA5,United States,Kentucky,21,McCreary,147
+COLA5,United States,Kentucky,21,Meade,163
+COLA5,United States,Kentucky,21,Muhlenberg,177
+COLA5,United States,Kentucky,21,Nelson,179
+COLA5,United States,Kentucky,21,Perry,193
+COLA5,United States,Kentucky,21,Pulaski,199
+COLA5,United States,Kentucky,21,Trigg,221
+COLA5,United States,Kentucky,21,Warren,227
+COLA5,United States,Louisiana,22,,
+COLA5,United States,Louisiana,22,Acadia,001
+COLA5,United States,Louisiana,22,Allen,003
+COLA5,United States,Louisiana,22,Avoyelles,009
+COLA5,United States,Louisiana,22,Beauregard,011
+COLA5,United States,Louisiana,22,Bienville,013
+COLA5,United States,Louisiana,22,Bossier,015
+COLA5,United States,Louisiana,22,Caddo,017
+COLA5,United States,Louisiana,22,Calcasieu,019
+COLA5,United States,Louisiana,22,Caldwell,021
+COLA5,United States,Louisiana,22,Catahoula,025
+COLA5,United States,Louisiana,22,Claiborne,027
+COLA5,United States,Louisiana,22,De Soto,031
+COLA5,United States,Louisiana,22,East Feliciana,037
+COLA5,United States,Louisiana,22,Evangeline,039
+COLA5,United States,Louisiana,22,Grant,043
+COLA5,United States,Louisiana,22,Jackson,049
+COLA5,United States,Louisiana,22,Jefferson Davis,053
+COLA5,United States,Louisiana,22,Lafayette,055
+COLA5,United States,Louisiana,22,LaSalle,059
+COLA5,United States,Louisiana,22,Lincoln,061
+COLA5,United States,Louisiana,22,Livingston,063
+COLA5,United States,Louisiana,22,Morehouse,067
+COLA5,United States,Louisiana,22,Natchitoches,069
+COLA5,United States,Louisiana,22,Ouachita,073
+COLA5,United States,Louisiana,22,Pointe Coupee,077
+COLA5,United States,Louisiana,22,Rapides,079
+COLA5,United States,Louisiana,22,Red River,081
+COLA5,United States,Louisiana,22,Richland,083
+COLA5,United States,Louisiana,22,Sabine,085
+COLA5,United States,Louisiana,22,St. Helena,091
+COLA5,United States,Louisiana,22,St. Landry,097
+COLA5,United States,Louisiana,22,St. Tammany,103
+COLA5,United States,Louisiana,22,Tangipahoa,105
+COLA5,United States,Louisiana,22,Union,111
+COLA5,United States,Louisiana,22,Vernon,115
+COLA5,United States,Louisiana,22,Washington,117
+COLA5,United States,Louisiana,22,Webster,119
+COLA5,United States,Louisiana,22,Winn,127
+COLA5,United States,Maine,23,,
+COLA5,United States,Maine,23,Knox,013
+COLA5,United States,Maine,23,York,031
+COLA5,United States,Maryland,24,,
+COLA5,United States,Massachusetts,25,,
+COLA5,United States,Massachusetts,25,Barnstable,001
+COLA5,United States,Massachusetts,25,Berkshire,003
+COLA5,United States,Massachusetts,25,Bristol,005
+COLA5,United States,Massachusetts,25,Dukes,007
+COLA5,United States,Massachusetts,25,Essex,009
+COLA5,United States,Massachusetts,25,Franklin,011
+COLA5,United States,Massachusetts,25,Hampden,013
+COLA5,United States,Massachusetts,25,Middlesex,017
+COLA5,United States,Massachusetts,25,Nantucket,019
+COLA5,United States,Massachusetts,25,Norfolk,021
+COLA5,United States,Massachusetts,25,Plymouth,023
+COLA5,United States,Massachusetts,25,Suffolk,025
+COLA5,United States,Massachusetts,25,Worcester,027
+COLA5,United States,Michigan,26,,
+COLA5,United States,Michigan,26,Alcona,001
+COLA5,United States,Michigan,26,Allegan,005
+COLA5,United States,Michigan,26,Alpena,007
+COLA5,United States,Michigan,26,Antrim,009
+COLA5,United States,Michigan,26,Benzie,019
+COLA5,United States,Michigan,26,Berrien,021
+COLA5,United States,Michigan,26,Charlevoix,029
+COLA5,United States,Michigan,26,Cheboygan,031
+COLA5,United States,Michigan,26,Chippewa,033
+COLA5,United States,Michigan,26,Crawford,039
+COLA5,United States,Michigan,26,Dickinson,043
+COLA5,United States,Michigan,26,Emmet,047
+COLA5,United States,Michigan,26,Houghton,061
+COLA5,United States,Michigan,26,Kalamazoo,077
+COLA5,United States,Michigan,26,Kalkaska,079
+COLA5,United States,Michigan,26,Kent,081
+COLA5,United States,Michigan,26,Lake,085
+COLA5,United States,Michigan,26,Leelanau,089
+COLA5,United States,Michigan,26,Lenawee,091
+COLA5,United States,Michigan,26,Mackinac,097
+COLA5,United States,Michigan,26,Macomb,099
+COLA5,United States,Michigan,26,Marquette,103
+COLA5,United States,Michigan,26,Montcalm,117
+COLA5,United States,Michigan,26,Muskegon,121
+COLA5,United States,Michigan,26,Newaygo,123
+COLA5,United States,Michigan,26,Oceana,127
+COLA5,United States,Michigan,26,Ogemaw,129
+COLA5,United States,Michigan,26,Presque Isle,141
+COLA5,United States,Michigan,26,Schoolcraft,153
+COLA5,United States,Michigan,26,Wexford,165
+COLA5,United States,Minnesota,27,,
+COLA5,United States,Minnesota,27,Anoka,003
+COLA5,United States,Minnesota,27,Blue Earth,013
+COLA5,United States,Minnesota,27,Houston,055
+COLA5,United States,Mississippi,28,,
+COLA5,United States,Mississippi,28,Chickasaw,017
+COLA5,United States,Mississippi,28,Forrest,035
+COLA5,United States,Mississippi,28,Hancock,045
+COLA5,United States,Mississippi,28,Lee,081
+COLA5,United States,Mississippi,28,Smith,129
+COLA5,United States,Missouri,29,,
+COLA5,United States,Missouri,29,Barry,009
+COLA5,United States,Missouri,29,Butler,023
+COLA5,United States,Missouri,29,Cape Girardeau,031
+COLA5,United States,Missouri,29,Carter,035
+COLA5,United States,Missouri,29,Cedar,039
+COLA5,United States,Missouri,29,Clay,047
+COLA5,United States,Missouri,29,Crawford,055
+COLA5,United States,Missouri,29,Dade,057
+COLA5,United States,Missouri,29,Dent,065
+COLA5,United States,Missouri,29,Franklin,071
+COLA5,United States,Missouri,29,Howell,091
+COLA5,United States,Missouri,29,Iron,093
+COLA5,United States,Missouri,29,Jasper,097
+COLA5,United States,Missouri,29,Jefferson,099
+COLA5,United States,Missouri,29,Madison,123
+COLA5,United States,Missouri,29,McDonald,119
+COLA5,United States,Missouri,29,Mississippi,133
+COLA5,United States,Missouri,29,Newton,145
+COLA5,United States,Missouri,29,Oregon,149
+COLA5,United States,Missouri,29,Ozark,153
+COLA5,United States,Missouri,29,Phelps,161
+COLA5,United States,Missouri,29,Pike,163
+COLA5,United States,Missouri,29,Polk,167
+COLA5,United States,Missouri,29,Ray,177
+COLA5,United States,Missouri,29,Reynolds,179
+COLA5,United States,Missouri,29,Saline,195
+COLA5,United States,Missouri,29,Scott,201
+COLA5,United States,Missouri,29,Shannon,203
+COLA5,United States,Missouri,29,St. Clair,185
+COLA5,United States,Missouri,29,St. Francois,187
+COLA5,United States,Missouri,29,St. Louis,189
+COLA5,United States,Missouri,29,Ste. Genevieve,186
+COLA5,United States,Missouri,29,Taney,213
+COLA5,United States,Missouri,29,Texas,215
+COLA5,United States,Missouri,29,Washington,221
+COLA5,United States,Missouri,29,Wayne,223
+COLA5,United States,Nebraska,31,,
+COLA5,United States,New Hampshire,33,,
+COLA5,United States,New Hampshire,33,Carroll,003
+COLA5,United States,New Hampshire,33,Strafford,017
+COLA5,United States,New Jersey,34,,
+COLA5,United States,New Jersey,34,Atlantic,001
+COLA5,United States,New Jersey,34,Bergen,003
+COLA5,United States,New Jersey,34,Cape May,009
+COLA5,United States,New Jersey,34,Hunterdon,019
+COLA5,United States,New Jersey,34,Mercer,021
+COLA5,United States,New Jersey,34,Middlesex,023
+COLA5,United States,New Jersey,34,Monmouth,025
+COLA5,United States,New Jersey,34,Somerset,035
+COLA5,United States,New Jersey,34,Warren,041
+COLA5,United States,New Mexico,35,,
+COLA5,United States,New Mexico,35,San Miguel,047
+COLA5,United States,New Mexico,35,Torrance,057
+COLA5,United States,New York,36,,
+COLA5,United States,New York,36,Albany,001
+COLA5,United States,New York,36,Bronx,005
+COLA5,United States,New York,36,Chemung,015
+COLA5,United States,New York,36,Erie,029
+COLA5,United States,New York,36,Kings,047
+COLA5,United States,New York,36,Monroe,055
+COLA5,United States,New York,36,Nassau,059
+COLA5,United States,New York,36,New York,061
+COLA5,United States,New York,36,Orange,071
+COLA5,United States,New York,36,Queens,081
+COLA5,United States,New York,36,Rockland,087
+COLA5,United States,New York,36,Saratoga,091
+COLA5,United States,New York,36,Suffolk,103
+COLA5,United States,New York,36,Tompkins,109
+COLA5,United States,New York,36,Westchester,119
+COLA5,United States,North Carolina,37,,
+COLA5,United States,North Carolina,37,Beaufort,013
+COLA5,United States,North Carolina,37,Bertie,015
+COLA5,United States,North Carolina,37,Bladen,017
+COLA5,United States,North Carolina,37,Brunswick,019
+COLA5,United States,North Carolina,37,Burke,023
+COLA5,United States,North Carolina,37,Caldwell,027
+COLA5,United States,North Carolina,37,Carteret,031
+COLA5,United States,North Carolina,37,Catawba,035
+COLA5,United States,North Carolina,37,Chatham,037
+COLA5,United States,North Carolina,37,Chowan,041
+COLA5,United States,North Carolina,37,Clay,043
+COLA5,United States,North Carolina,37,Cleveland,045
+COLA5,United States,North Carolina,37,Columbus,047
+COLA5,United States,North Carolina,37,Craven,049
+COLA5,United States,North Carolina,37,Cumberland,051
+COLA5,United States,North Carolina,37,Dare,055
+COLA5,United States,North Carolina,37,Duplin,061
+COLA5,United States,North Carolina,37,Edgecombe,065
+COLA5,United States,North Carolina,37,Gates,073
+COLA5,United States,North Carolina,37,Granville,077
+COLA5,United States,North Carolina,37,Greene,079
+COLA5,United States,North Carolina,37,Guilford,081
+COLA5,United States,North Carolina,37,Harnett,085
+COLA5,United States,North Carolina,37,Haywood,087
+COLA5,United States,North Carolina,37,Hertford,091
+COLA5,United States,North Carolina,37,Hoke,093
+COLA5,United States,North Carolina,37,Hyde,095
+COLA5,United States,North Carolina,37,Iredell,097
+COLA5,United States,North Carolina,37,Johnston,101
+COLA5,United States,North Carolina,37,Lee,105
+COLA5,United States,North Carolina,37,Lenoir,107
+COLA5,United States,North Carolina,37,Lincoln,109
+COLA5,United States,North Carolina,37,McDowell,111
+COLA5,United States,North Carolina,37,Moore,125
+COLA5,United States,North Carolina,37,Nash,127
+COLA5,United States,North Carolina,37,New Hanover,129
+COLA5,United States,North Carolina,37,Northampton,131
+COLA5,United States,North Carolina,37,Pamlico,137
+COLA5,United States,North Carolina,37,Person,145
+COLA5,United States,North Carolina,37,Pitt,147
+COLA5,United States,North Carolina,37,Randolph,151
+COLA5,United States,North Carolina,37,Richmond,153
+COLA5,United States,North Carolina,37,Robeson,155
+COLA5,United States,North Carolina,37,Rowan,159
+COLA5,United States,North Carolina,37,Sampson,163
+COLA5,United States,North Carolina,37,Scotland,165
+COLA5,United States,North Carolina,37,Stokes,169
+COLA5,United States,North Carolina,37,Union,179
+COLA5,United States,North Carolina,37,Wake,183
+COLA5,United States,North Carolina,37,Warren,185
+COLA5,United States,North Carolina,37,Washington,187
+COLA5,United States,North Carolina,37,Watauga,189
+COLA5,United States,North Carolina,37,Wayne,191
+COLA5,United States,Ohio,39,,
+COLA5,United States,Ohio,39,Athens,009
+COLA5,United States,Ohio,39,Coshocton,031
+COLA5,United States,Ohio,39,Delaware,041
+COLA5,United States,Ohio,39,Erie,043
+COLA5,United States,Ohio,39,Franklin,049
+COLA5,United States,Ohio,39,Gallia,053
+COLA5,United States,Ohio,39,Hamilton,061
+COLA5,United States,Ohio,39,Highland,071
+COLA5,United States,Ohio,39,Holmes,075
+COLA5,United States,Ohio,39,Jefferson,081
+COLA5,United States,Ohio,39,Knox,083
+COLA5,United States,Ohio,39,Lake,085
+COLA5,United States,Ohio,39,Lawrence,087
+COLA5,United States,Ohio,39,Lucas,095
+COLA5,United States,Ohio,39,Preble,135
+COLA5,United States,Ohio,39,Stark,151
+COLA5,United States,Ohio,39,Tuscarawas,157
+COLA5,United States,Oklahoma,40,,
+COLA5,United States,Oregon,41,,
+COLA5,United States,Oregon,41,Curry,015
+COLA5,United States,Oregon,41,Josephine,033
+COLA5,United States,Pennsylvania,42,,
+COLA5,United States,Pennsylvania,42,Adams,001
+COLA5,United States,Pennsylvania,42,Allegheny,003
+COLA5,United States,Pennsylvania,42,Bedford,009
+COLA5,United States,Pennsylvania,42,Berks,011
+COLA5,United States,Pennsylvania,42,Blair,013
+COLA5,United States,Pennsylvania,42,Bucks,017
+COLA5,United States,Pennsylvania,42,Carbon,025
+COLA5,United States,Pennsylvania,42,Centre,027
+COLA5,United States,Pennsylvania,42,Chester,029
+COLA5,United States,Pennsylvania,42,Clarion,031
+COLA5,United States,Pennsylvania,42,Cumberland,041
+COLA5,United States,Pennsylvania,42,Dauphin,043
+COLA5,United States,Pennsylvania,42,Delaware,045
+COLA5,United States,Pennsylvania,42,Elk,047
+COLA5,United States,Pennsylvania,42,Erie,049
+COLA5,United States,Pennsylvania,42,Fulton,057
+COLA5,United States,Pennsylvania,42,Huntingdon,061
+COLA5,United States,Pennsylvania,42,Lackawanna,069
+COLA5,United States,Pennsylvania,42,Lebanon,075
+COLA5,United States,Pennsylvania,42,Lehigh,077
+COLA5,United States,Pennsylvania,42,Luzerne,079
+COLA5,United States,Pennsylvania,42,McKean,083
+COLA5,United States,Pennsylvania,42,Mifflin,087
+COLA5,United States,Pennsylvania,42,Monroe,089
+COLA5,United States,Pennsylvania,42,Montgomery,091
+COLA5,United States,Pennsylvania,42,Northampton,095
+COLA5,United States,Pennsylvania,42,Perry,099
+COLA5,United States,Pennsylvania,42,Philadelphia,101
+COLA5,United States,Pennsylvania,42,Pike,103
+COLA5,United States,Pennsylvania,42,Westmoreland,129
+COLA5,United States,Pennsylvania,42,York,133
+COLA5,United States,Rhode Island,44,,
+COLA5,United States,Rhode Island,44,Newport,005
+COLA5,United States,Rhode Island,44,Washington,009
+COLA5,United States,South Carolina,45,,
+COLA5,United States,South Carolina,45,Aiken,003
+COLA5,United States,South Carolina,45,Allendale,005
+COLA5,United States,South Carolina,45,Bamberg,009
+COLA5,United States,South Carolina,45,Barnwell,011
+COLA5,United States,South Carolina,45,Beaufort,013
+COLA5,United States,South Carolina,45,Chester,023
+COLA5,United States,South Carolina,45,Chesterfield,025
+COLA5,United States,South Carolina,45,Clarendon,027
+COLA5,United States,South Carolina,45,Colleton,029
+COLA5,United States,South Carolina,45,Darlington,031
+COLA5,United States,South Carolina,45,Dillon,033
+COLA5,United States,South Carolina,45,Edgefield,037
+COLA5,United States,South Carolina,45,Fairfield,039
+COLA5,United States,South Carolina,45,Florence,041
+COLA5,United States,South Carolina,45,Greenwood,047
+COLA5,United States,South Carolina,45,Hampton,049
+COLA5,United States,South Carolina,45,Horry,051
+COLA5,United States,South Carolina,45,Jasper,053
+COLA5,United States,South Carolina,45,Kershaw,055
+COLA5,United States,South Carolina,45,Lancaster,057
+COLA5,United States,South Carolina,45,Laurens,059
+COLA5,United States,South Carolina,45,Lexington,063
+COLA5,United States,South Carolina,45,Marion,067
+COLA5,United States,South Carolina,45,McCormick,065
+COLA5,United States,South Carolina,45,Newberry,071
+COLA5,United States,South Carolina,45,Orangeburg,075
+COLA5,United States,South Carolina,45,Richland,079
+COLA5,United States,South Carolina,45,Saluda,081
+COLA5,United States,South Carolina,45,Spartanburg,083
+COLA5,United States,Tennessee,47,,
+COLA5,United States,Tennessee,47,Bedford,003
+COLA5,United States,Tennessee,47,Chester,023
+COLA5,United States,Tennessee,47,Coffee,031
+COLA5,United States,Tennessee,47,Davidson,037
+COLA5,United States,Tennessee,47,Decatur,039
+COLA5,United States,Tennessee,47,Dickson,043
+COLA5,United States,Tennessee,47,Fayette,047
+COLA5,United States,Tennessee,47,Franklin,051
+COLA5,United States,Tennessee,47,Hardeman,069
+COLA5,United States,Tennessee,47,Henderson,077
+COLA5,United States,Tennessee,47,Henry,079
+COLA5,United States,Tennessee,47,Humphreys,085
+COLA5,United States,Tennessee,47,Knox,093
+COLA5,United States,Tennessee,47,Lewis,101
+COLA5,United States,Tennessee,47,Marion,115
+COLA5,United States,Tennessee,47,Marshall,117
+COLA5,United States,Tennessee,47,Maury,119
+COLA5,United States,Tennessee,47,McNairy,109
+COLA5,United States,Tennessee,47,Montgomery,125
+COLA5,United States,Tennessee,47,Putnam,141
+COLA5,United States,Tennessee,47,Robertson,147
+COLA5,United States,Tennessee,47,Rutherford,149
+COLA5,United States,Tennessee,47,Scott,151
+COLA5,United States,Tennessee,47,Stewart,161
+COLA5,United States,Tennessee,47,Sumner,165
+COLA5,United States,Tennessee,47,Warren,177
+COLA5,United States,Tennessee,47,Williamson,187
+COLA5,United States,Tennessee,47,Wilson,189
+COLA5,United States,Texas,48,,
+COLA5,United States,Texas,48,Angelina,005
+COLA5,United States,Texas,48,Bell,027
+COLA5,United States,Texas,48,Bowie,037
+COLA5,United States,Texas,48,Chambers,071
+COLA5,United States,Texas,48,Cooke,097
+COLA5,United States,Texas,48,Culberson,109
+COLA5,United States,Texas,48,Dallas,113
+COLA5,United States,Texas,48,Galveston,167
+COLA5,United States,Texas,48,Grayson,181
+COLA5,United States,Texas,48,Grimes,185
+COLA5,United States,Texas,48,Hardin,199
+COLA5,United States,Texas,48,Harris,201
+COLA5,United States,Texas,48,Hood,221
+COLA5,United States,Texas,48,Houston,225
+COLA5,United States,Texas,48,Jasper,241
+COLA5,United States,Texas,48,Jefferson,245
+COLA5,United States,Texas,48,Liberty,291
+COLA5,United States,Texas,48,Montgomery,339
+COLA5,United States,Texas,48,Nacogdoches,347
+COLA5,United States,Texas,48,Orange,361
+COLA5,United States,Texas,48,Panola,365
+COLA5,United States,Texas,48,Polk,373
+COLA5,United States,Texas,48,Sabine,403
+COLA5,United States,Texas,48,Shelby,419
+COLA5,United States,Texas,48,Tarrant,439
+COLA5,United States,Texas,48,Trinity,455
+COLA5,United States,Texas,48,Tyler,457
+COLA5,United States,Texas,48,Upshur,459
+COLA5,United States,Texas,48,Walker,471
+COLA5,United States,Texas,48,Waller,473
+COLA5,United States,Texas,48,Williamson,491
+COLA5,United States,Texas,48,Wood,499
+COLA5,United States,Vermont,50,,
+COLA5,United States,Vermont,50,Bennington,003
+COLA5,United States,Vermont,50,Franklin,011
+COLA5,United States,Vermont,50,Windham,025
+COLA5,United States,Virginia,51,,
+COLA5,United States,Virginia,51,Albemarle,003
+COLA5,United States,Virginia,51,Amelia,007
+COLA5,United States,Virginia,51,Arlington,013
+COLA5,United States,Virginia,51,Bedford,019
+COLA5,United States,Virginia,51,Brunswick,025
+COLA5,United States,Virginia,51,Buckingham,029
+COLA5,United States,Virginia,51,Campbell,031
+COLA5,United States,Virginia,51,Caroline,033
+COLA5,United States,Virginia,51,Carroll,035
+COLA5,United States,Virginia,51,Charlotte,037
+COLA5,United States,Virginia,51,Chesapeake ,550
+COLA5,United States,Virginia,51,Chesterfield,041
+COLA5,United States,Virginia,51,Culpeper,047
+COLA5,United States,Virginia,51,Cumberland,049
+COLA5,United States,Virginia,51,Essex,057
+COLA5,United States,Virginia,51,Fairfax,059
+COLA5,United States,Virginia,51,Fauquier,061
+COLA5,United States,Virginia,51,Fluvanna,065
+COLA5,United States,Virginia,51,Giles,071
+COLA5,United States,Virginia,51,Gloucester,073
+COLA5,United States,Virginia,51,Goochland,075
+COLA5,United States,Virginia,51,Greene,079
+COLA5,United States,Virginia,51,Halifax,083
+COLA5,United States,Virginia,51,Hampton ,650
+COLA5,United States,Virginia,51,Hanover,085
+COLA5,United States,Virginia,51,Henrico,087
+COLA5,United States,Virginia,51,Henry,089
+COLA5,United States,Virginia,51,Isle of Wight,093
+COLA5,United States,Virginia,51,James City,095
+COLA5,United States,Virginia,51,King and Queen,097
+COLA5,United States,Virginia,51,King George,099
+COLA5,United States,Virginia,51,King William,101
+COLA5,United States,Virginia,51,Lancaster,103
+COLA5,United States,Virginia,51,Louisa,109
+COLA5,United States,Virginia,51,Lunenburg,111
+COLA5,United States,Virginia,51,Mathews,115
+COLA5,United States,Virginia,51,Mecklenburg,117
+COLA5,United States,Virginia,51,Middlesex,119
+COLA5,United States,Virginia,51,Nelson,125
+COLA5,United States,Virginia,51,New Kent,127
+COLA5,United States,Virginia,51,Northampton,131
+COLA5,United States,Virginia,51,Nottoway,135
+COLA5,United States,Virginia,51,Orange,137
+COLA5,United States,Virginia,51,Page,139
+COLA5,United States,Virginia,51,Patrick,141
+COLA5,United States,Virginia,51,Pittsylvania,143
+COLA5,United States,Virginia,51,Powhatan,145
+COLA5,United States,Virginia,51,Prince Edward,147
+COLA5,United States,Virginia,51,Rappahannock,157
+COLA5,United States,Virginia,51,Rockbridge,163
+COLA5,United States,Virginia,51,Rockingham,165
+COLA5,United States,Virginia,51,Shenandoah,171
+COLA5,United States,Virginia,51,Smyth,173
+COLA5,United States,Virginia,51,Southampton,175
+COLA5,United States,Virginia,51,Suffolk ,800
+COLA5,United States,Virginia,51,Surry,181
+COLA5,United States,Virginia,51,Sussex,183
+COLA5,United States,Virginia,51,Tazewell,185
+COLA5,United States,Virginia,51,Virginia Beach ,810
+COLA5,United States,Virginia,51,Westmoreland,193
+COLA5,United States,Washington,53,,
+COLA5,United States,Washington,53,Whitman,075
+COLA5,United States,West Virginia,54,,
+COLA5,United States,West Virginia,54,Fayette,019
+COLA5,United States,West Virginia,54,Kanawha,039
+COLA5,United States,West Virginia,54,Mineral,057
+COLA5,United States,West Virginia,54,Monongalia,061
+COLA5,United States,West Virginia,54,Morgan,065
+COLA5,United States,West Virginia,54,Nicholas,067
+COLA5,United States,West Virginia,54,Raleigh,081
+COLA5,United States,West Virginia,54,Upshur,097
+COLA5,United States,West Virginia,54,Wirt,105
+COLA5,United States,Wisconsin,55,,
+COLA5,United States,Wisconsin,55,Ashland,003
+COLA5,United States,Wisconsin,55,Bayfield,007
+COLA5,United States,Wisconsin,55,Columbia,021
+COLA5,United States,Wisconsin,55,Crawford,023
+COLA5,United States,Wisconsin,55,Dane,025
+COLA5,United States,Wisconsin,55,Door,029
+COLA5,United States,Wisconsin,55,Forest,041
+COLA5,United States,Wisconsin,55,Kenosha,059
+COLA5,United States,Wisconsin,55,La Crosse,063
+COLA5,United States,Wisconsin,55,Lincoln,069
+COLA5,United States,Wisconsin,55,Manitowoc,071
+COLA5,United States,Wisconsin,55,Marinette,075
+COLA5,United States,Wisconsin,55,Marquette,077
+COLA5,United States,Wisconsin,55,Milwaukee,079
+COLA5,United States,Wisconsin,55,Monroe,081
+COLA5,United States,Wisconsin,55,Oconto,083
+COLA5,United States,Wisconsin,55,Portage,097
+COLA5,United States,Wisconsin,55,Racine,101
+COLA5,United States,Wisconsin,55,Richland,103
+COLA5,United States,Wisconsin,55,Sauk,111
+COLA5,United States,Wisconsin,55,Sheboygan,117
+COLA5,United States,Wisconsin,55,Taylor,119
+COLA5,United States,Wisconsin,55,Waushara,137
+COLA5,United States,Wyoming,56,,
+COLA5,United States,Guam,66,,
+COLA5,United States,Palau,70,,
+COLA5,United States,Palau,70,Koror,150

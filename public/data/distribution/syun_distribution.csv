@@ -1,0 +1,623 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SYUN,United States,Alabama,01,,
+SYUN,United States,Alabama,01,Bibb,007
+SYUN,United States,Alabama,01,Calhoun,015
+SYUN,United States,Alabama,01,Madison,089
+SYUN,United States,Alabama,01,Talladega,121
+SYUN,United States,Alabama,01,Tuscaloosa,125
+SYUN,United States,Arkansas,05,,
+SYUN,Canada,Nova Scotia,07,,
+SYUN,Canada,Ontario,08,,
+SYUN,United States,Connecticut,09,,
+SYUN,United States,Connecticut,09,Fairfield,001
+SYUN,United States,Connecticut,09,Hartford,003
+SYUN,United States,Connecticut,09,Litchfield,005
+SYUN,United States,Connecticut,09,Middlesex,007
+SYUN,United States,Connecticut,09,New Haven,009
+SYUN,United States,Connecticut,09,New London,011
+SYUN,United States,Connecticut,09,Tolland,013
+SYUN,United States,Delaware,10,,
+SYUN,United States,Delaware,10,Kent,001
+SYUN,United States,Delaware,10,New Castle,003
+SYUN,United States,Delaware,10,Sussex,005
+SYUN,United States,District of Columbia,11,,
+SYUN,United States,District of Columbia,11,District of Columbia,001
+SYUN,United States,Florida,12,,
+SYUN,United States,Florida,12,Alachua,001
+SYUN,United States,Florida,12,Citrus,017
+SYUN,United States,Florida,12,Clay,019
+SYUN,United States,Florida,12,Columbia,023
+SYUN,United States,Florida,12,Duval,031
+SYUN,United States,Florida,12,Gadsden,039
+SYUN,United States,Florida,12,Hernando,053
+SYUN,United States,Florida,12,Jackson,063
+SYUN,United States,Florida,12,Jefferson,065
+SYUN,United States,Florida,12,Lake,069
+SYUN,United States,Florida,12,Leon,073
+SYUN,United States,Florida,12,Liberty,077
+SYUN,United States,Florida,12,Marion,083
+SYUN,United States,Florida,12,Polk,105
+SYUN,United States,Florida,12,Sumter,119
+SYUN,United States,Florida,12,Suwannee,121
+SYUN,United States,Florida,12,Walton,131
+SYUN,United States,Georgia,13,,
+SYUN,United States,Georgia,13,Bartow,015
+SYUN,United States,Georgia,13,Bulloch,031
+SYUN,United States,Georgia,13,Catoosa,047
+SYUN,United States,Georgia,13,Cherokee,057
+SYUN,United States,Georgia,13,Clarke,059
+SYUN,United States,Georgia,13,Cobb,067
+SYUN,United States,Georgia,13,Dawson,085
+SYUN,United States,Georgia,13,Forsyth,117
+SYUN,United States,Georgia,13,Habersham,137
+SYUN,United States,Georgia,13,Hall,139
+SYUN,United States,Georgia,13,Harris,145
+SYUN,United States,Georgia,13,Lincoln,181
+SYUN,United States,Georgia,13,Murray,213
+SYUN,United States,Georgia,13,Rabun,241
+SYUN,United States,Georgia,13,Screven,251
+SYUN,United States,Georgia,13,Union,291
+SYUN,United States,Georgia,13,Walker,295
+SYUN,United States,Illinois,17,,
+SYUN,United States,Illinois,17,Alexander,003
+SYUN,United States,Illinois,17,Gallatin,059
+SYUN,United States,Illinois,17,Jackson,077
+SYUN,United States,Illinois,17,Johnson,087
+SYUN,United States,Illinois,17,Pope,151
+SYUN,United States,Illinois,17,Saline,165
+SYUN,United States,Illinois,17,Williamson,199
+SYUN,United States,Indiana,18,,
+SYUN,United States,Indiana,18,Carroll,015
+SYUN,United States,Indiana,18,Crawford,025
+SYUN,United States,Indiana,18,Dearborn,029
+SYUN,United States,Indiana,18,Franklin,047
+SYUN,United States,Indiana,18,Harrison,061
+SYUN,United States,Indiana,18,Jefferson,077
+SYUN,United States,Indiana,18,Lawrence,093
+SYUN,United States,Indiana,18,Perry,123
+SYUN,United States,Indiana,18,Spencer,147
+SYUN,United States,Kentucky,21,,
+SYUN,United States,Kentucky,21,Barren,009
+SYUN,United States,Kentucky,21,Bath,011
+SYUN,United States,Kentucky,21,Bell,013
+SYUN,United States,Kentucky,21,Bourbon,017
+SYUN,United States,Kentucky,21,Boyd,019
+SYUN,United States,Kentucky,21,Boyle,021
+SYUN,United States,Kentucky,21,Bullitt,029
+SYUN,United States,Kentucky,21,Carter,043
+SYUN,United States,Kentucky,21,Casey,045
+SYUN,United States,Kentucky,21,Clark,049
+SYUN,United States,Kentucky,21,Edmonson,061
+SYUN,United States,Kentucky,21,Elliott,063
+SYUN,United States,Kentucky,21,Estill,065
+SYUN,United States,Kentucky,21,Fleming,069
+SYUN,United States,Kentucky,21,Franklin,073
+SYUN,United States,Kentucky,21,Garrard,079
+SYUN,United States,Kentucky,21,Grayson,085
+SYUN,United States,Kentucky,21,Greenup,089
+SYUN,United States,Kentucky,21,Hardin,093
+SYUN,United States,Kentucky,21,Harlan,095
+SYUN,United States,Kentucky,21,Hart,099
+SYUN,United States,Kentucky,21,Jefferson,111
+SYUN,United States,Kentucky,21,Larue,123
+SYUN,United States,Kentucky,21,Laurel,125
+SYUN,United States,Kentucky,21,Lawrence,127
+SYUN,United States,Kentucky,21,Lee,129
+SYUN,United States,Kentucky,21,Letcher,133
+SYUN,United States,Kentucky,21,Lewis,135
+SYUN,United States,Kentucky,21,Lincoln,137
+SYUN,United States,Kentucky,21,Madison,151
+SYUN,United States,Kentucky,21,Magoffin,153
+SYUN,United States,Kentucky,21,Marion,155
+SYUN,United States,Kentucky,21,McCracken,145
+SYUN,United States,Kentucky,21,McCreary,147
+SYUN,United States,Kentucky,21,Menifee,165
+SYUN,United States,Kentucky,21,Montgomery,173
+SYUN,United States,Kentucky,21,Nelson,179
+SYUN,United States,Kentucky,21,Nicholas,181
+SYUN,United States,Kentucky,21,Owsley,189
+SYUN,United States,Kentucky,21,Perry,193
+SYUN,United States,Kentucky,21,Powell,197
+SYUN,United States,Kentucky,21,Pulaski,199
+SYUN,United States,Kentucky,21,Robertson,201
+SYUN,United States,Kentucky,21,Rockcastle,203
+SYUN,United States,Kentucky,21,Rowan,205
+SYUN,United States,Kentucky,21,Wayne,231
+SYUN,United States,Kentucky,21,Whitley,235
+SYUN,United States,Kentucky,21,Wolfe,237
+SYUN,United States,Louisiana,22,,
+SYUN,United States,Louisiana,22,East Feliciana,037
+SYUN,United States,Louisiana,22,Orleans,071
+SYUN,United States,Louisiana,22,Rapides,079
+SYUN,United States,Louisiana,22,St. Helena,091
+SYUN,United States,Louisiana,22,St. Tammany,103
+SYUN,United States,Maine,23,,
+SYUN,United States,Maine,23,Androscoggin,001
+SYUN,United States,Maine,23,Aroostook,003
+SYUN,United States,Maine,23,Cumberland,005
+SYUN,United States,Maine,23,Franklin,007
+SYUN,United States,Maine,23,Hancock,009
+SYUN,United States,Maine,23,Kennebec,011
+SYUN,United States,Maine,23,Knox,013
+SYUN,United States,Maine,23,Lincoln,015
+SYUN,United States,Maine,23,Oxford,017
+SYUN,United States,Maine,23,Penobscot,019
+SYUN,United States,Maine,23,Sagadahoc,023
+SYUN,United States,Maine,23,Somerset,025
+SYUN,United States,Maine,23,Waldo,027
+SYUN,United States,Maine,23,Washington,029
+SYUN,United States,Maine,23,York,031
+SYUN,United States,Maryland,24,,
+SYUN,United States,Massachusetts,25,,
+SYUN,United States,Massachusetts,25,Barnstable,001
+SYUN,United States,Massachusetts,25,Berkshire,003
+SYUN,United States,Massachusetts,25,Bristol,005
+SYUN,United States,Massachusetts,25,Dukes,007
+SYUN,United States,Massachusetts,25,Essex,009
+SYUN,United States,Massachusetts,25,Franklin,011
+SYUN,United States,Massachusetts,25,Hampden,013
+SYUN,United States,Massachusetts,25,Hampshire,015
+SYUN,United States,Massachusetts,25,Middlesex,017
+SYUN,United States,Massachusetts,25,Nantucket,019
+SYUN,United States,Massachusetts,25,Norfolk,021
+SYUN,United States,Massachusetts,25,Plymouth,023
+SYUN,United States,Massachusetts,25,Suffolk,025
+SYUN,United States,Massachusetts,25,Worcester,027
+SYUN,United States,Mississippi,28,,
+SYUN,United States,Mississippi,28,Adams,001
+SYUN,United States,Mississippi,28,Amite,005
+SYUN,United States,Mississippi,28,Choctaw,019
+SYUN,United States,Mississippi,28,Copiah,029
+SYUN,United States,Mississippi,28,Covington,031
+SYUN,United States,Mississippi,28,Forrest,035
+SYUN,United States,Mississippi,28,Grenada,043
+SYUN,United States,Mississippi,28,Hinds,049
+SYUN,United States,Mississippi,28,Jasper,061
+SYUN,United States,Mississippi,28,Jones,067
+SYUN,United States,Mississippi,28,Kemper,069
+SYUN,United States,Mississippi,28,Lafayette,071
+SYUN,United States,Mississippi,28,Lauderdale,075
+SYUN,United States,Mississippi,28,Leake,079
+SYUN,United States,Mississippi,28,Lowndes,087
+SYUN,United States,Mississippi,28,Marshall,093
+SYUN,United States,Mississippi,28,Monroe,095
+SYUN,United States,Mississippi,28,Newton,101
+SYUN,United States,Mississippi,28,Noxubee,103
+SYUN,United States,Mississippi,28,Panola,107
+SYUN,United States,Mississippi,28,Pearl River,109
+SYUN,United States,Mississippi,28,Pontotoc,115
+SYUN,United States,Mississippi,28,Quitman,119
+SYUN,United States,Mississippi,28,Rankin,121
+SYUN,United States,Mississippi,28,Scott,123
+SYUN,United States,Mississippi,28,Smith,129
+SYUN,United States,Mississippi,28,Stone,131
+SYUN,United States,Mississippi,28,Tishomingo,141
+SYUN,United States,Mississippi,28,Union,145
+SYUN,United States,Mississippi,28,Wayne,153
+SYUN,United States,Mississippi,28,Wilkinson,157
+SYUN,United States,Mississippi,28,Winston,159
+SYUN,United States,Mississippi,28,Yalobusha,161
+SYUN,United States,Mississippi,28,Yazoo,163
+SYUN,United States,New Hampshire,33,,
+SYUN,United States,New Hampshire,33,Belknap,001
+SYUN,United States,New Hampshire,33,Carroll,003
+SYUN,United States,New Hampshire,33,Cheshire,005
+SYUN,United States,New Hampshire,33,Coos,007
+SYUN,United States,New Hampshire,33,Grafton,009
+SYUN,United States,New Hampshire,33,Hillsborough,011
+SYUN,United States,New Hampshire,33,Merrimack,013
+SYUN,United States,New Hampshire,33,Rockingham,015
+SYUN,United States,New Hampshire,33,Strafford,017
+SYUN,United States,New Jersey,34,,
+SYUN,United States,New Jersey,34,Atlantic,001
+SYUN,United States,New Jersey,34,Bergen,003
+SYUN,United States,New Jersey,34,Burlington,005
+SYUN,United States,New Jersey,34,Camden,007
+SYUN,United States,New Jersey,34,Cape May,009
+SYUN,United States,New Jersey,34,Gloucester,015
+SYUN,United States,New Jersey,34,Mercer,021
+SYUN,United States,New Jersey,34,Middlesex,023
+SYUN,United States,New Jersey,34,Monmouth,025
+SYUN,United States,New Jersey,34,Passaic,031
+SYUN,United States,New Jersey,34,Somerset,035
+SYUN,United States,New Jersey,34,Sussex,037
+SYUN,United States,New Jersey,34,Warren,041
+SYUN,United States,New York,36,,
+SYUN,United States,New York,36,Albany,001
+SYUN,United States,New York,36,Bronx,005
+SYUN,United States,New York,36,Cattaraugus,009
+SYUN,United States,New York,36,Cayuga,011
+SYUN,United States,New York,36,Chemung,015
+SYUN,United States,New York,36,Columbia,021
+SYUN,United States,New York,36,Delaware,025
+SYUN,United States,New York,36,Dutchess,027
+SYUN,United States,New York,36,Essex,031
+SYUN,United States,New York,36,Greene,039
+SYUN,United States,New York,36,Kings,047
+SYUN,United States,New York,36,Madison,053
+SYUN,United States,New York,36,Nassau,059
+SYUN,United States,New York,36,Oneida,065
+SYUN,United States,New York,36,Onondaga,067
+SYUN,United States,New York,36,Ontario,069
+SYUN,United States,New York,36,Orange,071
+SYUN,United States,New York,36,Oswego,075
+SYUN,United States,New York,36,Putnam,079
+SYUN,United States,New York,36,Queens,081
+SYUN,United States,New York,36,Rensselaer,083
+SYUN,United States,New York,36,Richmond,085
+SYUN,United States,New York,36,Rockland,087
+SYUN,United States,New York,36,Saratoga,091
+SYUN,United States,New York,36,Schenectady,093
+SYUN,United States,New York,36,Suffolk,103
+SYUN,United States,New York,36,Sullivan,105
+SYUN,United States,New York,36,Tompkins,109
+SYUN,United States,New York,36,Ulster,111
+SYUN,United States,New York,36,Warren,113
+SYUN,United States,New York,36,Washington,115
+SYUN,United States,New York,36,Westchester,119
+SYUN,United States,New York,36,Wyoming,121
+SYUN,United States,North Carolina,37,,
+SYUN,United States,North Carolina,37,Alamance,001
+SYUN,United States,North Carolina,37,Alleghany,005
+SYUN,United States,North Carolina,37,Ashe,009
+SYUN,United States,North Carolina,37,Beaufort,013
+SYUN,United States,North Carolina,37,Bertie,015
+SYUN,United States,North Carolina,37,Bladen,017
+SYUN,United States,North Carolina,37,Brunswick,019
+SYUN,United States,North Carolina,37,Buncombe,021
+SYUN,United States,North Carolina,37,Burke,023
+SYUN,United States,North Carolina,37,Cabarrus,025
+SYUN,United States,North Carolina,37,Caldwell,027
+SYUN,United States,North Carolina,37,Carteret,031
+SYUN,United States,North Carolina,37,Catawba,035
+SYUN,United States,North Carolina,37,Chatham,037
+SYUN,United States,North Carolina,37,Cherokee,039
+SYUN,United States,North Carolina,37,Chowan,041
+SYUN,United States,North Carolina,37,Clay,043
+SYUN,United States,North Carolina,37,Cumberland,051
+SYUN,United States,North Carolina,37,Dare,055
+SYUN,United States,North Carolina,37,Durham,063
+SYUN,United States,North Carolina,37,Edgecombe,065
+SYUN,United States,North Carolina,37,Forsyth,067
+SYUN,United States,North Carolina,37,Franklin,069
+SYUN,United States,North Carolina,37,Granville,077
+SYUN,United States,North Carolina,37,Guilford,081
+SYUN,United States,North Carolina,37,Halifax,083
+SYUN,United States,North Carolina,37,Harnett,085
+SYUN,United States,North Carolina,37,Haywood,087
+SYUN,United States,North Carolina,37,Henderson,089
+SYUN,United States,North Carolina,37,Hoke,093
+SYUN,United States,North Carolina,37,Iredell,097
+SYUN,United States,North Carolina,37,Jackson,099
+SYUN,United States,North Carolina,37,Johnston,101
+SYUN,United States,North Carolina,37,Jones,103
+SYUN,United States,North Carolina,37,Lee,105
+SYUN,United States,North Carolina,37,Madison,115
+SYUN,United States,North Carolina,37,Martin,117
+SYUN,United States,North Carolina,37,McDowell,111
+SYUN,United States,North Carolina,37,Mecklenburg,119
+SYUN,United States,North Carolina,37,Mitchell,121
+SYUN,United States,North Carolina,37,Montgomery,123
+SYUN,United States,North Carolina,37,Nash,127
+SYUN,United States,North Carolina,37,Northampton,131
+SYUN,United States,North Carolina,37,Onslow,133
+SYUN,United States,North Carolina,37,Orange,135
+SYUN,United States,North Carolina,37,Perquimans,143
+SYUN,United States,North Carolina,37,Pitt,147
+SYUN,United States,North Carolina,37,Polk,149
+SYUN,United States,North Carolina,37,Randolph,151
+SYUN,United States,North Carolina,37,Richmond,153
+SYUN,United States,North Carolina,37,Robeson,155
+SYUN,United States,North Carolina,37,Scotland,165
+SYUN,United States,North Carolina,37,Stanly,167
+SYUN,United States,North Carolina,37,Stokes,169
+SYUN,United States,North Carolina,37,Surry,171
+SYUN,United States,North Carolina,37,Swain,173
+SYUN,United States,North Carolina,37,Transylvania,175
+SYUN,United States,North Carolina,37,Vance,181
+SYUN,United States,North Carolina,37,Wake,183
+SYUN,United States,North Carolina,37,Warren,185
+SYUN,United States,North Carolina,37,Watauga,189
+SYUN,United States,North Carolina,37,Wayne,191
+SYUN,United States,North Carolina,37,Wilkes,193
+SYUN,United States,North Carolina,37,Wilson,195
+SYUN,United States,North Carolina,37,Yadkin,197
+SYUN,United States,North Carolina,37,Yancey,199
+SYUN,United States,Ohio,39,,
+SYUN,United States,Ohio,39,Adams,001
+SYUN,United States,Ohio,39,Ashland,005
+SYUN,United States,Ohio,39,Athens,009
+SYUN,United States,Ohio,39,Butler,017
+SYUN,United States,Ohio,39,Carroll,019
+SYUN,United States,Ohio,39,Columbiana,029
+SYUN,United States,Ohio,39,Coshocton,031
+SYUN,United States,Ohio,39,Crawford,033
+SYUN,United States,Ohio,39,Cuyahoga,035
+SYUN,United States,Ohio,39,Erie,043
+SYUN,United States,Ohio,39,Fairfield,045
+SYUN,United States,Ohio,39,Gallia,053
+SYUN,United States,Ohio,39,Geauga,055
+SYUN,United States,Ohio,39,Highland,071
+SYUN,United States,Ohio,39,Hocking,073
+SYUN,United States,Ohio,39,Holmes,075
+SYUN,United States,Ohio,39,Jackson,079
+SYUN,United States,Ohio,39,Jefferson,081
+SYUN,United States,Ohio,39,Knox,083
+SYUN,United States,Ohio,39,Logan,091
+SYUN,United States,Ohio,39,Lorain,093
+SYUN,United States,Ohio,39,Lucas,095
+SYUN,United States,Ohio,39,Monroe,111
+SYUN,United States,Ohio,39,Perry,127
+SYUN,United States,Ohio,39,Pike,131
+SYUN,United States,Ohio,39,Portage,133
+SYUN,United States,Ohio,39,Ross,141
+SYUN,United States,Ohio,39,Scioto,145
+SYUN,United States,Ohio,39,Stark,151
+SYUN,United States,Ohio,39,Summit,153
+SYUN,United States,Ohio,39,Tuscarawas,157
+SYUN,United States,Ohio,39,Vinton,163
+SYUN,United States,Ohio,39,Warren,165
+SYUN,United States,Ohio,39,Washington,167
+SYUN,United States,Ohio,39,Wayne,169
+SYUN,United States,Pennsylvania,42,,
+SYUN,United States,Pennsylvania,42,Adams,001
+SYUN,United States,Pennsylvania,42,Allegheny,003
+SYUN,United States,Pennsylvania,42,Armstrong,005
+SYUN,United States,Pennsylvania,42,Beaver,007
+SYUN,United States,Pennsylvania,42,Bedford,009
+SYUN,United States,Pennsylvania,42,Berks,011
+SYUN,United States,Pennsylvania,42,Blair,013
+SYUN,United States,Pennsylvania,42,Bradford,015
+SYUN,United States,Pennsylvania,42,Bucks,017
+SYUN,United States,Pennsylvania,42,Butler,019
+SYUN,United States,Pennsylvania,42,Cameron,023
+SYUN,United States,Pennsylvania,42,Carbon,025
+SYUN,United States,Pennsylvania,42,Centre,027
+SYUN,United States,Pennsylvania,42,Chester,029
+SYUN,United States,Pennsylvania,42,Clarion,031
+SYUN,United States,Pennsylvania,42,Clearfield,033
+SYUN,United States,Pennsylvania,42,Clinton,035
+SYUN,United States,Pennsylvania,42,Cumberland,041
+SYUN,United States,Pennsylvania,42,Dauphin,043
+SYUN,United States,Pennsylvania,42,Delaware,045
+SYUN,United States,Pennsylvania,42,Fayette,051
+SYUN,United States,Pennsylvania,42,Forest,053
+SYUN,United States,Pennsylvania,42,Franklin,055
+SYUN,United States,Pennsylvania,42,Fulton,057
+SYUN,United States,Pennsylvania,42,Greene,059
+SYUN,United States,Pennsylvania,42,Huntingdon,061
+SYUN,United States,Pennsylvania,42,Indiana,063
+SYUN,United States,Pennsylvania,42,Lackawanna,069
+SYUN,United States,Pennsylvania,42,Lancaster,071
+SYUN,United States,Pennsylvania,42,Lawrence,073
+SYUN,United States,Pennsylvania,42,Lebanon,075
+SYUN,United States,Pennsylvania,42,Lehigh,077
+SYUN,United States,Pennsylvania,42,Luzerne,079
+SYUN,United States,Pennsylvania,42,Lycoming,081
+SYUN,United States,Pennsylvania,42,McKean,083
+SYUN,United States,Pennsylvania,42,Mercer,085
+SYUN,United States,Pennsylvania,42,Mifflin,087
+SYUN,United States,Pennsylvania,42,Monroe,089
+SYUN,United States,Pennsylvania,42,Montgomery,091
+SYUN,United States,Pennsylvania,42,Northampton,095
+SYUN,United States,Pennsylvania,42,Perry,099
+SYUN,United States,Pennsylvania,42,Philadelphia,101
+SYUN,United States,Pennsylvania,42,Pike,103
+SYUN,United States,Pennsylvania,42,Potter,105
+SYUN,United States,Pennsylvania,42,Schuylkill,107
+SYUN,United States,Pennsylvania,42,Snyder,109
+SYUN,United States,Pennsylvania,42,Somerset,111
+SYUN,United States,Pennsylvania,42,Sullivan,113
+SYUN,United States,Pennsylvania,42,Susquehanna,115
+SYUN,United States,Pennsylvania,42,Tioga,117
+SYUN,United States,Pennsylvania,42,Venango,121
+SYUN,United States,Pennsylvania,42,Washington,125
+SYUN,United States,Pennsylvania,42,Wayne,127
+SYUN,United States,Pennsylvania,42,Westmoreland,129
+SYUN,United States,Pennsylvania,42,Wyoming,131
+SYUN,United States,Pennsylvania,42,York,133
+SYUN,United States,Rhode Island,44,,
+SYUN,United States,Rhode Island,44,Kent,003
+SYUN,United States,Rhode Island,44,Newport,005
+SYUN,United States,Rhode Island,44,Providence,007
+SYUN,United States,Rhode Island,44,Washington,009
+SYUN,United States,South Carolina,45,,
+SYUN,United States,South Carolina,45,Abbeville,001
+SYUN,United States,South Carolina,45,Aiken,003
+SYUN,United States,South Carolina,45,Allendale,005
+SYUN,United States,South Carolina,45,Bamberg,009
+SYUN,United States,South Carolina,45,Barnwell,011
+SYUN,United States,South Carolina,45,Beaufort,013
+SYUN,United States,South Carolina,45,Berkeley,015
+SYUN,United States,South Carolina,45,Calhoun,017
+SYUN,United States,South Carolina,45,Charleston,019
+SYUN,United States,South Carolina,45,Cherokee,021
+SYUN,United States,South Carolina,45,Chester,023
+SYUN,United States,South Carolina,45,Clarendon,027
+SYUN,United States,South Carolina,45,Colleton,029
+SYUN,United States,South Carolina,45,Darlington,031
+SYUN,United States,South Carolina,45,Dorchester,035
+SYUN,United States,South Carolina,45,Edgefield,037
+SYUN,United States,South Carolina,45,Florence,041
+SYUN,United States,South Carolina,45,Horry,051
+SYUN,United States,South Carolina,45,Jasper,053
+SYUN,United States,South Carolina,45,Kershaw,055
+SYUN,United States,South Carolina,45,Lancaster,057
+SYUN,United States,South Carolina,45,Laurens,059
+SYUN,United States,South Carolina,45,Lee,061
+SYUN,United States,South Carolina,45,Marion,067
+SYUN,United States,South Carolina,45,Marlboro,069
+SYUN,United States,South Carolina,45,Oconee,073
+SYUN,United States,South Carolina,45,Orangeburg,075
+SYUN,United States,South Carolina,45,Pickens,077
+SYUN,United States,South Carolina,45,Saluda,081
+SYUN,United States,South Carolina,45,Sumter,085
+SYUN,United States,South Carolina,45,Williamsburg,089
+SYUN,United States,South Carolina,45,York,091
+SYUN,United States,Tennessee,47,,
+SYUN,United States,Tennessee,47,Anderson,001
+SYUN,United States,Tennessee,47,Bledsoe,007
+SYUN,United States,Tennessee,47,Blount,009
+SYUN,United States,Tennessee,47,Bradley,011
+SYUN,United States,Tennessee,47,Campbell,013
+SYUN,United States,Tennessee,47,Carter,019
+SYUN,United States,Tennessee,47,Claiborne,025
+SYUN,United States,Tennessee,47,Clay,027
+SYUN,United States,Tennessee,47,Cocke,029
+SYUN,United States,Tennessee,47,Coffee,031
+SYUN,United States,Tennessee,47,Cumberland,035
+SYUN,United States,Tennessee,47,Davidson,037
+SYUN,United States,Tennessee,47,Decatur,039
+SYUN,United States,Tennessee,47,Fentress,049
+SYUN,United States,Tennessee,47,Franklin,051
+SYUN,United States,Tennessee,47,Grundy,061
+SYUN,United States,Tennessee,47,Hamilton,065
+SYUN,United States,Tennessee,47,Hancock,067
+SYUN,United States,Tennessee,47,Hardin,071
+SYUN,United States,Tennessee,47,Hawkins,073
+SYUN,United States,Tennessee,47,Jackson,087
+SYUN,United States,Tennessee,47,Johnson,091
+SYUN,United States,Tennessee,47,Knox,093
+SYUN,United States,Tennessee,47,McMinn,107
+SYUN,United States,Tennessee,47,McNairy,109
+SYUN,United States,Tennessee,47,Meigs,121
+SYUN,United States,Tennessee,47,Monroe,123
+SYUN,United States,Tennessee,47,Moore,127
+SYUN,United States,Tennessee,47,Morgan,129
+SYUN,United States,Tennessee,47,Overton,133
+SYUN,United States,Tennessee,47,Perry,135
+SYUN,United States,Tennessee,47,Pickett,137
+SYUN,United States,Tennessee,47,Polk,139
+SYUN,United States,Tennessee,47,Putnam,141
+SYUN,United States,Tennessee,47,Rhea,143
+SYUN,United States,Tennessee,47,Roane,145
+SYUN,United States,Tennessee,47,Rutherford,149
+SYUN,United States,Tennessee,47,Scott,151
+SYUN,United States,Tennessee,47,Sequatchie,153
+SYUN,United States,Tennessee,47,Sevier,155
+SYUN,United States,Tennessee,47,Stewart,161
+SYUN,United States,Tennessee,47,Sullivan,163
+SYUN,United States,Tennessee,47,Union,173
+SYUN,United States,Tennessee,47,White,185
+SYUN,United States,Tennessee,47,Williamson,187
+SYUN,United States,Vermont,50,,
+SYUN,United States,Vermont,50,Addison,001
+SYUN,United States,Vermont,50,Bennington,003
+SYUN,United States,Vermont,50,Caledonia,005
+SYUN,United States,Vermont,50,Chittenden,007
+SYUN,United States,Vermont,50,Rutland,021
+SYUN,United States,Vermont,50,Windham,025
+SYUN,United States,Vermont,50,Windsor,027
+SYUN,United States,Virginia,51,,
+SYUN,United States,Virginia,51,Accomack,001
+SYUN,United States,Virginia,51,Albemarle,003
+SYUN,United States,Virginia,51,Alleghany,005
+SYUN,United States,Virginia,51,Amelia,007
+SYUN,United States,Virginia,51,Amherst,009
+SYUN,United States,Virginia,51,Appomattox,011
+SYUN,United States,Virginia,51,Arlington,013
+SYUN,United States,Virginia,51,Augusta,015
+SYUN,United States,Virginia,51,Bath,017
+SYUN,United States,Virginia,51,Bedford,019
+SYUN,United States,Virginia,51,Bland,021
+SYUN,United States,Virginia,51,Botetourt,023
+SYUN,United States,Virginia,51,Brunswick,025
+SYUN,United States,Virginia,51,Buchanan,027
+SYUN,United States,Virginia,51,Buckingham,029
+SYUN,United States,Virginia,51,Campbell,031
+SYUN,United States,Virginia,51,Carroll,035
+SYUN,United States,Virginia,51,Charles City,036
+SYUN,United States,Virginia,51,Charlotte,037
+SYUN,United States,Virginia,51,Chesapeake ,550
+SYUN,United States,Virginia,51,Clarke,043
+SYUN,United States,Virginia,51,Craig,045
+SYUN,United States,Virginia,51,Culpeper,047
+SYUN,United States,Virginia,51,Cumberland,049
+SYUN,United States,Virginia,51,Dickenson,051
+SYUN,United States,Virginia,51,Dinwiddie,053
+SYUN,United States,Virginia,51,Fairfax,059
+SYUN,United States,Virginia,51,Fauquier,061
+SYUN,United States,Virginia,51,Floyd,063
+SYUN,United States,Virginia,51,Fluvanna,065
+SYUN,United States,Virginia,51,Franklin,067
+SYUN,United States,Virginia,51,Frederick,069
+SYUN,United States,Virginia,51,Giles,071
+SYUN,United States,Virginia,51,Gloucester,073
+SYUN,United States,Virginia,51,Goochland,075
+SYUN,United States,Virginia,51,Greene,079
+SYUN,United States,Virginia,51,Halifax,083
+SYUN,United States,Virginia,51,Hanover,085
+SYUN,United States,Virginia,51,Henrico,087
+SYUN,United States,Virginia,51,Highland,091
+SYUN,United States,Virginia,51,James City,095
+SYUN,United States,Virginia,51,King William,101
+SYUN,United States,Virginia,51,Lancaster,103
+SYUN,United States,Virginia,51,Lee,105
+SYUN,United States,Virginia,51,Loudoun,107
+SYUN,United States,Virginia,51,Lunenburg,111
+SYUN,United States,Virginia,51,Madison,113
+SYUN,United States,Virginia,51,Middlesex,119
+SYUN,United States,Virginia,51,Montgomery,121
+SYUN,United States,Virginia,51,Nelson,125
+SYUN,United States,Virginia,51,New Kent,127
+SYUN,United States,Virginia,51,Northampton,131
+SYUN,United States,Virginia,51,Nottoway,135
+SYUN,United States,Virginia,51,Orange,137
+SYUN,United States,Virginia,51,Page,139
+SYUN,United States,Virginia,51,Patrick,141
+SYUN,United States,Virginia,51,Pittsylvania,143
+SYUN,United States,Virginia,51,Powhatan,145
+SYUN,United States,Virginia,51,Prince Edward,147
+SYUN,United States,Virginia,51,Prince William,153
+SYUN,United States,Virginia,51,Pulaski,155
+SYUN,United States,Virginia,51,Rappahannock,157
+SYUN,United States,Virginia,51,Richmond,159
+SYUN,United States,Virginia,51,Roanoke,161
+SYUN,United States,Virginia,51,Rockbridge,163
+SYUN,United States,Virginia,51,Rockingham,165
+SYUN,United States,Virginia,51,Russell,167
+SYUN,United States,Virginia,51,Scott,169
+SYUN,United States,Virginia,51,Shenandoah,171
+SYUN,United States,Virginia,51,Smyth,173
+SYUN,United States,Virginia,51,Spotsylvania,177
+SYUN,United States,Virginia,51,Stafford,179
+SYUN,United States,Virginia,51,Suffolk ,800
+SYUN,United States,Virginia,51,Surry,181
+SYUN,United States,Virginia,51,Sussex,183
+SYUN,United States,Virginia,51,Tazewell,185
+SYUN,United States,Virginia,51,Virginia Beach ,810
+SYUN,United States,Virginia,51,Warren,187
+SYUN,United States,Virginia,51,Washington,191
+SYUN,United States,Virginia,51,Wise,195
+SYUN,United States,Virginia,51,Wythe,197
+SYUN,United States,Virginia,51,York,199
+SYUN,United States,West Virginia,54,,
+SYUN,United States,West Virginia,54,Barbour,001
+SYUN,United States,West Virginia,54,Cabell,011
+SYUN,United States,West Virginia,54,Calhoun,013
+SYUN,United States,West Virginia,54,Fayette,019
+SYUN,United States,West Virginia,54,Hampshire,027
+SYUN,United States,West Virginia,54,Hancock,029
+SYUN,United States,West Virginia,54,Hardy,031
+SYUN,United States,West Virginia,54,Kanawha,039
+SYUN,United States,West Virginia,54,Logan,045
+SYUN,United States,West Virginia,54,Marion,049
+SYUN,United States,West Virginia,54,Marshall,051
+SYUN,United States,West Virginia,54,Mercer,055
+SYUN,United States,West Virginia,54,Mineral,057
+SYUN,United States,West Virginia,54,Monongalia,061
+SYUN,United States,West Virginia,54,Morgan,065
+SYUN,United States,West Virginia,54,Nicholas,067
+SYUN,United States,West Virginia,54,Pendleton,071
+SYUN,United States,West Virginia,54,Preston,077
+SYUN,United States,West Virginia,54,Putnam,079
+SYUN,United States,West Virginia,54,Raleigh,081
+SYUN,United States,West Virginia,54,Randolph,083
+SYUN,United States,West Virginia,54,Summers,089
+SYUN,United States,West Virginia,54,Tucker,093
+SYUN,United States,West Virginia,54,Upshur,097
+SYUN,United States,West Virginia,54,Wayne,099
+SYUN,United States,West Virginia,54,Webster,101
+SYUN,United States,West Virginia,54,Wirt,105
+SYUN,United States,West Virginia,54,Wyoming,109

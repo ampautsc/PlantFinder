@@ -1,0 +1,338 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+PHNO2,United States,Alabama,01,,
+PHNO2,United States,Alabama,01,Lowndes,085
+PHNO2,United States,Alabama,01,Mobile,097
+PHNO2,United States,Alabama,01,Wilcox,131
+PHNO2,United States,Arizona,04,,
+PHNO2,United States,Arizona,04,Apache,001
+PHNO2,United States,Arizona,04,Cochise,003
+PHNO2,United States,Arizona,04,Gila,007
+PHNO2,United States,Arizona,04,Maricopa,013
+PHNO2,United States,Arizona,04,Pima,019
+PHNO2,United States,Arizona,04,Santa Cruz,023
+PHNO2,United States,Arizona,04,Yuma,027
+PHNO2,United States,Arkansas,05,,
+PHNO2,United States,Arkansas,05,Arkansas,001
+PHNO2,United States,Arkansas,05,Chicot,017
+PHNO2,United States,Arkansas,05,Conway,029
+PHNO2,United States,Arkansas,05,Crawford,033
+PHNO2,United States,Arkansas,05,Desha,041
+PHNO2,United States,Arkansas,05,Faulkner,045
+PHNO2,United States,Arkansas,05,Franklin,047
+PHNO2,United States,Arkansas,05,Hempstead,057
+PHNO2,United States,Arkansas,05,Jefferson,069
+PHNO2,United States,Arkansas,05,Johnson,071
+PHNO2,United States,Arkansas,05,Little River,081
+PHNO2,United States,Arkansas,05,Miller,091
+PHNO2,United States,Arkansas,05,Perry,105
+PHNO2,United States,Arkansas,05,Pope,115
+PHNO2,United States,Arkansas,05,Pulaski,119
+PHNO2,United States,Arkansas,05,Union,139
+PHNO2,United States,Arkansas,05,Yell,149
+PHNO2,United States,California,06,,
+PHNO2,United States,California,06,Alameda,001
+PHNO2,United States,California,06,Butte,007
+PHNO2,United States,California,06,Calaveras,009
+PHNO2,United States,California,06,Contra Costa,013
+PHNO2,United States,California,06,Fresno,019
+PHNO2,United States,California,06,Glenn,021
+PHNO2,United States,California,06,Imperial,025
+PHNO2,United States,California,06,Kern,029
+PHNO2,United States,California,06,Lake,033
+PHNO2,United States,California,06,Los Angeles,037
+PHNO2,United States,California,06,Madera,039
+PHNO2,United States,California,06,Marin,041
+PHNO2,United States,California,06,Mendocino,045
+PHNO2,United States,California,06,Merced,047
+PHNO2,United States,California,06,Monterey,053
+PHNO2,United States,California,06,Napa,055
+PHNO2,United States,California,06,Nevada,057
+PHNO2,United States,California,06,Sacramento,067
+PHNO2,United States,California,06,San Bernardino,071
+PHNO2,United States,California,06,San Diego,073
+PHNO2,United States,California,06,San Francisco,075
+PHNO2,United States,California,06,San Joaquin,077
+PHNO2,United States,California,06,San Luis Obispo,079
+PHNO2,United States,California,06,San Mateo,081
+PHNO2,United States,California,06,Santa Barbara,083
+PHNO2,United States,California,06,Santa Clara,085
+PHNO2,United States,California,06,Santa Cruz,087
+PHNO2,United States,California,06,Solano,095
+PHNO2,United States,California,06,Sonoma,097
+PHNO2,United States,California,06,Stanislaus,099
+PHNO2,United States,California,06,Sutter,101
+PHNO2,United States,California,06,Tulare,107
+PHNO2,United States,California,06,Ventura,111
+PHNO2,United States,California,06,Yolo,113
+PHNO2,United States,Colorado,08,,
+PHNO2,United States,Florida,12,,
+PHNO2,United States,Florida,12,Alachua,001
+PHNO2,United States,Florida,12,Baker,003
+PHNO2,United States,Florida,12,Bay,005
+PHNO2,United States,Florida,12,Bradford,007
+PHNO2,United States,Florida,12,Brevard,009
+PHNO2,United States,Florida,12,Broward,011
+PHNO2,United States,Florida,12,Charlotte,015
+PHNO2,United States,Florida,12,Citrus,017
+PHNO2,United States,Florida,12,Clay,019
+PHNO2,United States,Florida,12,Collier,021
+PHNO2,United States,Florida,12,Columbia,023
+PHNO2,United States,Florida,12,DeSoto,027
+PHNO2,United States,Florida,12,Dixie,029
+PHNO2,United States,Florida,12,Duval,031
+PHNO2,United States,Florida,12,Escambia,033
+PHNO2,United States,Florida,12,Flagler,035
+PHNO2,United States,Florida,12,Franklin,037
+PHNO2,United States,Florida,12,Gilchrist,041
+PHNO2,United States,Florida,12,Glades,043
+PHNO2,United States,Florida,12,Gulf,045
+PHNO2,United States,Florida,12,Hamilton,047
+PHNO2,United States,Florida,12,Hardee,049
+PHNO2,United States,Florida,12,Hendry,051
+PHNO2,United States,Florida,12,Hernando,053
+PHNO2,United States,Florida,12,Highlands,055
+PHNO2,United States,Florida,12,Hillsborough,057
+PHNO2,United States,Florida,12,Indian River,061
+PHNO2,United States,Florida,12,Jackson,063
+PHNO2,United States,Florida,12,Jefferson,065
+PHNO2,United States,Florida,12,Lafayette,067
+PHNO2,United States,Florida,12,Lake,069
+PHNO2,United States,Florida,12,Lee,071
+PHNO2,United States,Florida,12,Leon,073
+PHNO2,United States,Florida,12,Levy,075
+PHNO2,United States,Florida,12,Madison,079
+PHNO2,United States,Florida,12,Manatee,081
+PHNO2,United States,Florida,12,Marion,083
+PHNO2,United States,Florida,12,Martin,085
+PHNO2,United States,Florida,12,Miami-Dade,086
+PHNO2,United States,Florida,12,Monroe,087
+PHNO2,United States,Florida,12,Nassau,089
+PHNO2,United States,Florida,12,Okaloosa,091
+PHNO2,United States,Florida,12,Okeechobee,093
+PHNO2,United States,Florida,12,Orange,095
+PHNO2,United States,Florida,12,Osceola,097
+PHNO2,United States,Florida,12,Palm Beach,099
+PHNO2,United States,Florida,12,Pasco,101
+PHNO2,United States,Florida,12,Pinellas,103
+PHNO2,United States,Florida,12,Polk,105
+PHNO2,United States,Florida,12,Putnam,107
+PHNO2,United States,Florida,12,Santa Rosa,113
+PHNO2,United States,Florida,12,Sarasota,115
+PHNO2,United States,Florida,12,Seminole,117
+PHNO2,United States,Florida,12,St. Johns,109
+PHNO2,United States,Florida,12,St. Lucie,111
+PHNO2,United States,Florida,12,Sumter,119
+PHNO2,United States,Florida,12,Suwannee,121
+PHNO2,United States,Florida,12,Taylor,123
+PHNO2,United States,Florida,12,Union,125
+PHNO2,United States,Florida,12,Volusia,127
+PHNO2,United States,Florida,12,Wakulla,129
+PHNO2,United States,Florida,12,Walton,131
+PHNO2,United States,Florida,12,Washington,133
+PHNO2,United States,Georgia,13,,
+PHNO2,United States,Georgia,13,Camden,039
+PHNO2,United States,Georgia,13,Chatham,051
+PHNO2,United States,Georgia,13,Cook,075
+PHNO2,United States,Georgia,13,Echols,101
+PHNO2,United States,Georgia,13,Glynn,127
+PHNO2,United States,Georgia,13,Irwin,155
+PHNO2,United States,Georgia,13,Lanier,173
+PHNO2,United States,Georgia,13,McIntosh,191
+PHNO2,United States,Georgia,13,Tift,277
+PHNO2,United States,Georgia,13,Wayne,305
+PHNO2,United States,Hawaii,15,,
+PHNO2,United States,Kansas,20,,
+PHNO2,United States,Kansas,20,Barber,007
+PHNO2,United States,Kentucky,21,,
+PHNO2,United States,Kentucky,21,Fayette,067
+PHNO2,United States,Louisiana,22,,
+PHNO2,United States,Louisiana,22,Acadia,001
+PHNO2,United States,Louisiana,22,Allen,003
+PHNO2,United States,Louisiana,22,Assumption,007
+PHNO2,United States,Louisiana,22,Beauregard,011
+PHNO2,United States,Louisiana,22,Bossier,015
+PHNO2,United States,Louisiana,22,Caddo,017
+PHNO2,United States,Louisiana,22,Calcasieu,019
+PHNO2,United States,Louisiana,22,Cameron,023
+PHNO2,United States,Louisiana,22,Concordia,029
+PHNO2,United States,Louisiana,22,East Feliciana,037
+PHNO2,United States,Louisiana,22,Evangeline,039
+PHNO2,United States,Louisiana,22,Grant,043
+PHNO2,United States,Louisiana,22,Iberia,045
+PHNO2,United States,Louisiana,22,Jefferson,051
+PHNO2,United States,Louisiana,22,Jefferson Davis,053
+PHNO2,United States,Louisiana,22,Lafayette,055
+PHNO2,United States,Louisiana,22,Lafourche,057
+PHNO2,United States,Louisiana,22,LaSalle,059
+PHNO2,United States,Louisiana,22,Lincoln,061
+PHNO2,United States,Louisiana,22,Natchitoches,069
+PHNO2,United States,Louisiana,22,Orleans,071
+PHNO2,United States,Louisiana,22,Ouachita,073
+PHNO2,United States,Louisiana,22,Plaquemines,075
+PHNO2,United States,Louisiana,22,Rapides,079
+PHNO2,United States,Louisiana,22,Red River,081
+PHNO2,United States,Louisiana,22,St. Bernard,087
+PHNO2,United States,Louisiana,22,St. Charles,089
+PHNO2,United States,Louisiana,22,St. John the Baptist,095
+PHNO2,United States,Louisiana,22,St. Mary,101
+PHNO2,United States,Louisiana,22,St. Tammany,103
+PHNO2,United States,Louisiana,22,Tangipahoa,105
+PHNO2,United States,Louisiana,22,Terrebonne,109
+PHNO2,United States,Louisiana,22,Vermilion,113
+PHNO2,United States,Louisiana,22,Webster,119
+PHNO2,United States,Louisiana,22,Winn,127
+PHNO2,United States,Maryland,24,,
+PHNO2,United States,Mississippi,28,,
+PHNO2,United States,Mississippi,28,Forrest,035
+PHNO2,United States,Mississippi,28,Hancock,045
+PHNO2,United States,Mississippi,28,Harrison,047
+PHNO2,United States,Mississippi,28,Jackson,059
+PHNO2,United States,Mississippi,28,Leake,079
+PHNO2,United States,Mississippi,28,Lee,081
+PHNO2,United States,Mississippi,28,Washington,151
+PHNO2,United States,Mississippi,28,Wilkinson,157
+PHNO2,United States,Missouri,29,,
+PHNO2,United States,Missouri,29,Dunklin,069
+PHNO2,United States,Nevada,32,,
+PHNO2,United States,Nevada,32,Clark,003
+PHNO2,United States,New Jersey,34,,
+PHNO2,United States,New Mexico,35,,
+PHNO2,United States,New Mexico,35,Colfax,007
+PHNO2,United States,New Mexico,35,De Baca,011
+PHNO2,United States,New Mexico,35,Dona Ana,013
+PHNO2,United States,New Mexico,35,Guadalupe,019
+PHNO2,United States,New Mexico,35,McKinley,031
+PHNO2,United States,New Mexico,35,San Miguel,047
+PHNO2,United States,North Carolina,37,,
+PHNO2,United States,North Carolina,37,Brunswick,019
+PHNO2,United States,North Carolina,37,Carteret,031
+PHNO2,United States,North Carolina,37,Dare,055
+PHNO2,United States,North Carolina,37,Hyde,095
+PHNO2,United States,North Carolina,37,New Hanover,129
+PHNO2,United States,North Carolina,37,Onslow,133
+PHNO2,United States,North Carolina,37,Pender,141
+PHNO2,United States,Oklahoma,40,,
+PHNO2,United States,Oklahoma,40,Alfalfa,003
+PHNO2,United States,Oklahoma,40,Blaine,011
+PHNO2,United States,Oklahoma,40,Bryan,013
+PHNO2,United States,Oklahoma,40,Cleveland,027
+PHNO2,United States,Oklahoma,40,Comanche,031
+PHNO2,United States,Oklahoma,40,Greer,055
+PHNO2,United States,Oklahoma,40,Jefferson,067
+PHNO2,United States,Oklahoma,40,Kiowa,075
+PHNO2,United States,Oklahoma,40,Logan,083
+PHNO2,United States,Oklahoma,40,Major,093
+PHNO2,United States,Oklahoma,40,Marshall,095
+PHNO2,United States,Oklahoma,40,McClain,087
+PHNO2,United States,Oklahoma,40,McCurtain,089
+PHNO2,United States,Oklahoma,40,Murray,099
+PHNO2,United States,Oklahoma,40,Muskogee,101
+PHNO2,United States,Oklahoma,40,Payne,119
+PHNO2,United States,Oklahoma,40,Tulsa,143
+PHNO2,United States,Oklahoma,40,Woodward,153
+PHNO2,United States,Oregon,41,,
+PHNO2,United States,Oregon,41,Douglas,019
+PHNO2,United States,Oregon,41,Lane,039
+PHNO2,United States,Pennsylvania,42,,
+PHNO2,United States,South Carolina,45,,
+PHNO2,United States,South Carolina,45,Beaufort,013
+PHNO2,United States,South Carolina,45,Charleston,019
+PHNO2,United States,South Carolina,45,Georgetown,043
+PHNO2,United States,South Carolina,45,Horry,051
+PHNO2,United States,South Carolina,45,Jasper,053
+PHNO2,United States,Texas,48,,
+PHNO2,United States,Texas,48,Aransas,007
+PHNO2,United States,Texas,48,Austin,015
+PHNO2,United States,Texas,48,Bandera,019
+PHNO2,United States,Texas,48,Bastrop,021
+PHNO2,United States,Texas,48,Bell,027
+PHNO2,United States,Texas,48,Bexar,029
+PHNO2,United States,Texas,48,Blanco,031
+PHNO2,United States,Texas,48,Bowie,037
+PHNO2,United States,Texas,48,Brazoria,039
+PHNO2,United States,Texas,48,Brazos,041
+PHNO2,United States,Texas,48,Brewster,043
+PHNO2,United States,Texas,48,Brooks,047
+PHNO2,United States,Texas,48,Burnet,053
+PHNO2,United States,Texas,48,Calhoun,057
+PHNO2,United States,Texas,48,Cameron,061
+PHNO2,United States,Texas,48,Cass,067
+PHNO2,United States,Texas,48,Chambers,071
+PHNO2,United States,Texas,48,Childress,075
+PHNO2,United States,Texas,48,Clay,077
+PHNO2,United States,Texas,48,Colorado,089
+PHNO2,United States,Texas,48,Comal,091
+PHNO2,United States,Texas,48,Cooke,097
+PHNO2,United States,Texas,48,Culberson,109
+PHNO2,United States,Texas,48,Dallas,113
+PHNO2,United States,Texas,48,Dimmit,127
+PHNO2,United States,Texas,48,Donley,129
+PHNO2,United States,Texas,48,Edwards,137
+PHNO2,United States,Texas,48,Ellis,139
+PHNO2,United States,Texas,48,Erath,143
+PHNO2,United States,Texas,48,Fayette,149
+PHNO2,United States,Texas,48,Frio,163
+PHNO2,United States,Texas,48,Galveston,167
+PHNO2,United States,Texas,48,Garza,169
+PHNO2,United States,Texas,48,Goliad,175
+PHNO2,United States,Texas,48,Gonzales,177
+PHNO2,United States,Texas,48,Grayson,181
+PHNO2,United States,Texas,48,Gregg,183
+PHNO2,United States,Texas,48,Grimes,185
+PHNO2,United States,Texas,48,Hardin,199
+PHNO2,United States,Texas,48,Harris,201
+PHNO2,United States,Texas,48,Hays,209
+PHNO2,United States,Texas,48,Hidalgo,215
+PHNO2,United States,Texas,48,Hunt,231
+PHNO2,United States,Texas,48,Jackson,239
+PHNO2,United States,Texas,48,Jeff Davis,243
+PHNO2,United States,Texas,48,Jefferson,245
+PHNO2,United States,Texas,48,Jim Hogg,247
+PHNO2,United States,Texas,48,Karnes,255
+PHNO2,United States,Texas,48,Kendall,259
+PHNO2,United States,Texas,48,Kenedy,261
+PHNO2,United States,Texas,48,Kerr,265
+PHNO2,United States,Texas,48,Kimble,267
+PHNO2,United States,Texas,48,Kleberg,273
+PHNO2,United States,Texas,48,Lavaca,285
+PHNO2,United States,Texas,48,Llano,299
+PHNO2,United States,Texas,48,Madison,313
+PHNO2,United States,Texas,48,Marion,315
+PHNO2,United States,Texas,48,Matagorda,321
+PHNO2,United States,Texas,48,McCulloch,307
+PHNO2,United States,Texas,48,McLennan,309
+PHNO2,United States,Texas,48,Milam,331
+PHNO2,United States,Texas,48,Mitchell,335
+PHNO2,United States,Texas,48,Navarro,349
+PHNO2,United States,Texas,48,Nueces,355
+PHNO2,United States,Texas,48,Parker,367
+PHNO2,United States,Texas,48,Presidio,377
+PHNO2,United States,Texas,48,Red River,387
+PHNO2,United States,Texas,48,Refugio,391
+PHNO2,United States,Texas,48,Robertson,395
+PHNO2,United States,Texas,48,Runnels,399
+PHNO2,United States,Texas,48,San Patricio,409
+PHNO2,United States,Texas,48,Tarrant,439
+PHNO2,United States,Texas,48,Tom Green,451
+PHNO2,United States,Texas,48,Travis,453
+PHNO2,United States,Texas,48,Uvalde,463
+PHNO2,United States,Texas,48,Val Verde,465
+PHNO2,United States,Texas,48,Washington,477
+PHNO2,United States,Texas,48,Webb,479
+PHNO2,United States,Texas,48,Wichita,485
+PHNO2,United States,Texas,48,Willacy,489
+PHNO2,United States,Texas,48,Williamson,491
+PHNO2,United States,Texas,48,Zapata,505
+PHNO2,United States,Utah,49,,
+PHNO2,United States,Utah,49,Washington,053
+PHNO2,United States,Virginia,51,,
+PHNO2,United States,Virginia,51,Virginia Beach ,810
+PHNO2,United States,Guam,66,,
+PHNO2,United States,Palau,70,,
+PHNO2,United States,Palau,70,Angaur,010
+PHNO2,United States,Palau,70,Peleliu,350
+PHNO2,United States,Puerto Rico,72,,
+PHNO2,United States,U.S. Minor Outlying Islands,74,,
+PHNO2,United States,U.S. Minor Outlying Islands,74,Midway Islands,300
+PHNO2,United States,Virgin Islands,78,,

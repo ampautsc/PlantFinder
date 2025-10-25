@@ -1,0 +1,64 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+MEPAP,Canada,Alberta,01,,
+MEPAP,Canada,British Columbia,02,,
+MEPAP,United States,Alaska,02,,
+MEPAP,United States,Alaska,02,Anchorage,020
+MEPAP,United States,Alaska,02,Bethel,050
+MEPAP,United States,Alaska,02,Chugach,063
+MEPAP,United States,Alaska,02,Copper River,066
+MEPAP,United States,Alaska,02,Denali,068
+MEPAP,United States,Alaska,02,Dillingham,070
+MEPAP,United States,Alaska,02,Fairbanks North Star,090
+MEPAP,United States,Alaska,02,Kenai Peninsula,122
+MEPAP,United States,Alaska,02,Matanuska-Susitna,170
+MEPAP,United States,Alaska,02,Nome,180
+MEPAP,United States,Alaska,02,Northwest Arctic,188
+MEPAP,United States,Alaska,02,Southeast Fairbanks,240
+MEPAP,United States,Alaska,02,Yukon-Koyukuk,290
+MEPAP,Canada,Manitoba,03,,
+MEPAP,Canada,Ontario,08,,
+MEPAP,United States,Connecticut,09,,
+MEPAP,United States,Connecticut,09,Fairfield,001
+MEPAP,Canada,Quebec,10,,
+MEPAP,Canada,Saskatchewan,11,,
+MEPAP,Canada,Yukon,12,,
+MEPAP,Canada,Northwest Territories,13,,
+MEPAP,United States,Idaho,16,,
+MEPAP,United States,Iowa,19,,
+MEPAP,United States,Michigan,26,,
+MEPAP,United States,Michigan,26,Alger,003
+MEPAP,United States,Michigan,26,Baraga,013
+MEPAP,United States,Michigan,26,Gogebic,053
+MEPAP,United States,Michigan,26,Houghton,061
+MEPAP,United States,Michigan,26,Iron,071
+MEPAP,United States,Michigan,26,Keweenaw,083
+MEPAP,United States,Michigan,26,Marquette,103
+MEPAP,United States,Michigan,26,Ontonagon,131
+MEPAP,United States,Minnesota,27,,
+MEPAP,United States,Minnesota,27,Carlton,017
+MEPAP,United States,Minnesota,27,Cass,021
+MEPAP,United States,Minnesota,27,Clay,027
+MEPAP,United States,Minnesota,27,Clearwater,029
+MEPAP,United States,Minnesota,27,Cook,031
+MEPAP,United States,Minnesota,27,Fillmore,045
+MEPAP,United States,Minnesota,27,Itasca,061
+MEPAP,United States,Minnesota,27,Koochiching,071
+MEPAP,United States,Minnesota,27,Lake,075
+MEPAP,United States,Minnesota,27,Lake of the Woods,077
+MEPAP,United States,Minnesota,27,St. Louis,137
+MEPAP,United States,Montana,30,,
+MEPAP,United States,Oregon,41,,
+MEPAP,United States,Washington,53,,
+MEPAP,United States,Washington,53,Ferry,019
+MEPAP,United States,Washington,53,Kittitas,037
+MEPAP,United States,Washington,53,Skamania,059
+MEPAP,United States,Washington,53,Spokane,063
+MEPAP,United States,Washington,53,Stevens,065
+MEPAP,United States,Wisconsin,55,,
+MEPAP,United States,Wisconsin,55,Ashland,003
+MEPAP,United States,Wisconsin,55,Bayfield,007
+MEPAP,United States,Wisconsin,55,Douglas,031
+MEPAP,United States,Wisconsin,55,Florence,037
+MEPAP,United States,Wisconsin,55,Iron,051
+MEPAP,United States,Wisconsin,55,Oconto,083

@@ -1,0 +1,356 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ANAT,Canada,New Brunswick,04,,
+ANAT,Canada,Nova Scotia,07,,
+ANAT,Canada,Ontario,08,,
+ANAT,Canada,Prince Edward Island,09,,
+ANAT,United States,Connecticut,09,,
+ANAT,United States,Connecticut,09,Fairfield,001
+ANAT,United States,Connecticut,09,Hartford,003
+ANAT,United States,Connecticut,09,Litchfield,005
+ANAT,United States,Connecticut,09,New Haven,009
+ANAT,United States,Connecticut,09,Tolland,013
+ANAT,United States,Connecticut,09,Windham,015
+ANAT,Canada,Quebec,10,,
+ANAT,United States,Delaware,10,,
+ANAT,United States,Delaware,10,New Castle,003
+ANAT,United States,Illinois,17,,
+ANAT,United States,Illinois,17,Boone,007
+ANAT,United States,Illinois,17,Bureau,011
+ANAT,United States,Illinois,17,Carroll,015
+ANAT,United States,Illinois,17,Cook,031
+ANAT,United States,Illinois,17,DeKalb,037
+ANAT,United States,Illinois,17,DuPage,043
+ANAT,United States,Illinois,17,Grundy,063
+ANAT,United States,Illinois,17,Iroquois,075
+ANAT,United States,Illinois,17,Jo Daviess,085
+ANAT,United States,Illinois,17,Johnson,087
+ANAT,United States,Illinois,17,Kane,089
+ANAT,United States,Illinois,17,Kankakee,091
+ANAT,United States,Illinois,17,Kendall,093
+ANAT,United States,Illinois,17,Lake,097
+ANAT,United States,Illinois,17,LaSalle,099
+ANAT,United States,Illinois,17,Lee,103
+ANAT,United States,Illinois,17,Marshall,123
+ANAT,United States,Illinois,17,McHenry,111
+ANAT,United States,Illinois,17,Ogle,141
+ANAT,United States,Illinois,17,Peoria,143
+ANAT,United States,Illinois,17,Pope,151
+ANAT,United States,Illinois,17,Putnam,155
+ANAT,United States,Illinois,17,Stark,175
+ANAT,United States,Illinois,17,Stephenson,177
+ANAT,United States,Illinois,17,Tazewell,179
+ANAT,United States,Illinois,17,Vermilion,183
+ANAT,United States,Illinois,17,Whiteside,195
+ANAT,United States,Illinois,17,Will,197
+ANAT,United States,Illinois,17,Winnebago,201
+ANAT,United States,Illinois,17,Woodford,203
+ANAT,United States,Indiana,18,,
+ANAT,United States,Indiana,18,Allen,003
+ANAT,United States,Indiana,18,Carroll,015
+ANAT,United States,Indiana,18,DeKalb,033
+ANAT,United States,Indiana,18,Delaware,035
+ANAT,United States,Indiana,18,Fayette,041
+ANAT,United States,Indiana,18,Fountain,045
+ANAT,United States,Indiana,18,Fulton,049
+ANAT,United States,Indiana,18,Grant,053
+ANAT,United States,Indiana,18,Hamilton,057
+ANAT,United States,Indiana,18,Henry,065
+ANAT,United States,Indiana,18,Howard,067
+ANAT,United States,Indiana,18,Huntington,069
+ANAT,United States,Indiana,18,Kosciusko,085
+ANAT,United States,Indiana,18,Lagrange,087
+ANAT,United States,Indiana,18,Lake,089
+ANAT,United States,Indiana,18,LaPorte,091
+ANAT,United States,Indiana,18,Madison,095
+ANAT,United States,Indiana,18,Marshall,099
+ANAT,United States,Indiana,18,Miami,103
+ANAT,United States,Indiana,18,Noble,113
+ANAT,United States,Indiana,18,Porter,127
+ANAT,United States,Indiana,18,Putnam,133
+ANAT,United States,Indiana,18,Randolph,135
+ANAT,United States,Indiana,18,St. Joseph,141
+ANAT,United States,Indiana,18,Wayne,177
+ANAT,United States,Iowa,19,,
+ANAT,United States,Kentucky,21,,
+ANAT,United States,Kentucky,21,Bracken,023
+ANAT,United States,Kentucky,21,Rockcastle,203
+ANAT,United States,Maine,23,,
+ANAT,United States,Maine,23,Aroostook,003
+ANAT,United States,Maine,23,Cumberland,005
+ANAT,United States,Maine,23,Franklin,007
+ANAT,United States,Maine,23,Kennebec,011
+ANAT,United States,Maine,23,Knox,013
+ANAT,United States,Maine,23,Oxford,017
+ANAT,United States,Maine,23,Sagadahoc,023
+ANAT,United States,Maine,23,Waldo,027
+ANAT,United States,Maryland,24,,
+ANAT,United States,Maryland,24,Calvert,009
+ANAT,United States,Massachusetts,25,,
+ANAT,United States,Massachusetts,25,Berkshire,003
+ANAT,United States,Massachusetts,25,Essex,009
+ANAT,United States,Massachusetts,25,Franklin,011
+ANAT,United States,Massachusetts,25,Hampden,013
+ANAT,United States,Massachusetts,25,Hampshire,015
+ANAT,United States,Massachusetts,25,Middlesex,017
+ANAT,United States,Massachusetts,25,Norfolk,021
+ANAT,United States,Massachusetts,25,Worcester,027
+ANAT,United States,Michigan,26,,
+ANAT,United States,Michigan,26,Barry,015
+ANAT,United States,Michigan,26,Berrien,021
+ANAT,United States,Michigan,26,Branch,023
+ANAT,United States,Michigan,26,Calhoun,025
+ANAT,United States,Michigan,26,Cass,027
+ANAT,United States,Michigan,26,Delta,041
+ANAT,United States,Michigan,26,Eaton,045
+ANAT,United States,Michigan,26,Emmet,047
+ANAT,United States,Michigan,26,Hillsdale,059
+ANAT,United States,Michigan,26,Ingham,065
+ANAT,United States,Michigan,26,Ionia,067
+ANAT,United States,Michigan,26,Jackson,075
+ANAT,United States,Michigan,26,Kalamazoo,077
+ANAT,United States,Michigan,26,Kent,081
+ANAT,United States,Michigan,26,Lenawee,091
+ANAT,United States,Michigan,26,Midland,111
+ANAT,United States,Michigan,26,Monroe,115
+ANAT,United States,Michigan,26,Muskegon,121
+ANAT,United States,Michigan,26,Otsego,137
+ANAT,United States,Michigan,26,Saginaw,145
+ANAT,United States,Michigan,26,Shiawassee,155
+ANAT,United States,Michigan,26,St. Clair,147
+ANAT,United States,Michigan,26,St. Joseph,149
+ANAT,United States,Michigan,26,Van Buren,159
+ANAT,United States,Michigan,26,Washtenaw,161
+ANAT,United States,Minnesota,27,,
+ANAT,United States,Minnesota,27,Chisago,025
+ANAT,United States,Minnesota,27,Dakota,037
+ANAT,United States,Minnesota,27,Fillmore,045
+ANAT,United States,Minnesota,27,Goodhue,049
+ANAT,United States,Minnesota,27,Hennepin,053
+ANAT,United States,Minnesota,27,Houston,055
+ANAT,United States,Minnesota,27,Kanabec,065
+ANAT,United States,Minnesota,27,Lake,075
+ANAT,United States,Minnesota,27,Mower,099
+ANAT,United States,Minnesota,27,Olmsted,109
+ANAT,United States,Minnesota,27,Ramsey,123
+ANAT,United States,Minnesota,27,Scott,139
+ANAT,United States,Minnesota,27,Sherburne,141
+ANAT,United States,Minnesota,27,Stearns,145
+ANAT,United States,Minnesota,27,Wabasha,157
+ANAT,United States,Minnesota,27,Washington,163
+ANAT,United States,Minnesota,27,Winona,169
+ANAT,United States,Minnesota,27,Wright,171
+ANAT,United States,New Hampshire,33,,
+ANAT,United States,New Hampshire,33,Cheshire,005
+ANAT,United States,New Hampshire,33,Coos,007
+ANAT,United States,New Hampshire,33,Grafton,009
+ANAT,United States,New Hampshire,33,Hillsborough,011
+ANAT,United States,New Hampshire,33,Rockingham,015
+ANAT,United States,New Hampshire,33,Sullivan,019
+ANAT,United States,New Jersey,34,,
+ANAT,United States,New Jersey,34,Bergen,003
+ANAT,United States,New Jersey,34,Burlington,005
+ANAT,United States,New Jersey,34,Cumberland,011
+ANAT,United States,New Jersey,34,Hunterdon,019
+ANAT,United States,New Jersey,34,Morris,027
+ANAT,United States,New Jersey,34,Passaic,031
+ANAT,United States,New Jersey,34,Salem,033
+ANAT,United States,New Jersey,34,Sussex,037
+ANAT,United States,New Jersey,34,Union,039
+ANAT,United States,New Jersey,34,Warren,041
+ANAT,United States,New York,36,,
+ANAT,United States,New York,36,Allegany,003
+ANAT,United States,New York,36,Bronx,005
+ANAT,United States,New York,36,Cattaraugus,009
+ANAT,United States,New York,36,Chautauqua,013
+ANAT,United States,New York,36,Chemung,015
+ANAT,United States,New York,36,Columbia,021
+ANAT,United States,New York,36,Delaware,025
+ANAT,United States,New York,36,Erie,029
+ANAT,United States,New York,36,Essex,031
+ANAT,United States,New York,36,Herkimer,043
+ANAT,United States,New York,36,Kings,047
+ANAT,United States,New York,36,Lewis,049
+ANAT,United States,New York,36,Livingston,051
+ANAT,United States,New York,36,Madison,053
+ANAT,United States,New York,36,Monroe,055
+ANAT,United States,New York,36,Montgomery,057
+ANAT,United States,New York,36,Niagara,063
+ANAT,United States,New York,36,Oneida,065
+ANAT,United States,New York,36,Onondaga,067
+ANAT,United States,New York,36,Ontario,069
+ANAT,United States,New York,36,Orange,071
+ANAT,United States,New York,36,Otsego,077
+ANAT,United States,New York,36,Putnam,079
+ANAT,United States,New York,36,Queens,081
+ANAT,United States,New York,36,Rensselaer,083
+ANAT,United States,New York,36,Richmond,085
+ANAT,United States,New York,36,Rockland,087
+ANAT,United States,New York,36,St. Lawrence,089
+ANAT,United States,New York,36,Suffolk,103
+ANAT,United States,New York,36,Sullivan,105
+ANAT,United States,New York,36,Tompkins,109
+ANAT,United States,New York,36,Ulster,111
+ANAT,United States,New York,36,Warren,113
+ANAT,United States,New York,36,Washington,115
+ANAT,United States,New York,36,Westchester,119
+ANAT,United States,North Carolina,37,,
+ANAT,United States,North Carolina,37,Haywood,087
+ANAT,United States,Ohio,39,,
+ANAT,United States,Ohio,39,Allen,003
+ANAT,United States,Ohio,39,Ashland,005
+ANAT,United States,Ohio,39,Ashtabula,007
+ANAT,United States,Ohio,39,Athens,009
+ANAT,United States,Ohio,39,Auglaize,011
+ANAT,United States,Ohio,39,Belmont,013
+ANAT,United States,Ohio,39,Champaign,021
+ANAT,United States,Ohio,39,Clark,023
+ANAT,United States,Ohio,39,Columbiana,029
+ANAT,United States,Ohio,39,Coshocton,031
+ANAT,United States,Ohio,39,Cuyahoga,035
+ANAT,United States,Ohio,39,Defiance,039
+ANAT,United States,Ohio,39,Delaware,041
+ANAT,United States,Ohio,39,Erie,043
+ANAT,United States,Ohio,39,Fairfield,045
+ANAT,United States,Ohio,39,Fayette,047
+ANAT,United States,Ohio,39,Franklin,049
+ANAT,United States,Ohio,39,Fulton,051
+ANAT,United States,Ohio,39,Geauga,055
+ANAT,United States,Ohio,39,Greene,057
+ANAT,United States,Ohio,39,Hardin,065
+ANAT,United States,Ohio,39,Hocking,073
+ANAT,United States,Ohio,39,Holmes,075
+ANAT,United States,Ohio,39,Jefferson,081
+ANAT,United States,Ohio,39,Knox,083
+ANAT,United States,Ohio,39,Lake,085
+ANAT,United States,Ohio,39,Licking,089
+ANAT,United States,Ohio,39,Lorain,093
+ANAT,United States,Ohio,39,Madison,097
+ANAT,United States,Ohio,39,Mahoning,099
+ANAT,United States,Ohio,39,Medina,103
+ANAT,United States,Ohio,39,Perry,127
+ANAT,United States,Ohio,39,Portage,133
+ANAT,United States,Ohio,39,Putnam,137
+ANAT,United States,Ohio,39,Richland,139
+ANAT,United States,Ohio,39,Sandusky,143
+ANAT,United States,Ohio,39,Stark,151
+ANAT,United States,Ohio,39,Summit,153
+ANAT,United States,Ohio,39,Trumbull,155
+ANAT,United States,Ohio,39,Washington,167
+ANAT,United States,Ohio,39,Wayne,169
+ANAT,United States,Pennsylvania,42,,
+ANAT,United States,Pennsylvania,42,Allegheny,003
+ANAT,United States,Pennsylvania,42,Beaver,007
+ANAT,United States,Pennsylvania,42,Bedford,009
+ANAT,United States,Pennsylvania,42,Berks,011
+ANAT,United States,Pennsylvania,42,Blair,013
+ANAT,United States,Pennsylvania,42,Bradford,015
+ANAT,United States,Pennsylvania,42,Butler,019
+ANAT,United States,Pennsylvania,42,Centre,027
+ANAT,United States,Pennsylvania,42,Chester,029
+ANAT,United States,Pennsylvania,42,Crawford,039
+ANAT,United States,Pennsylvania,42,Delaware,045
+ANAT,United States,Pennsylvania,42,Erie,049
+ANAT,United States,Pennsylvania,42,Fayette,051
+ANAT,United States,Pennsylvania,42,Lackawanna,069
+ANAT,United States,Pennsylvania,42,Lancaster,071
+ANAT,United States,Pennsylvania,42,Lawrence,073
+ANAT,United States,Pennsylvania,42,Lebanon,075
+ANAT,United States,Pennsylvania,42,Lehigh,077
+ANAT,United States,Pennsylvania,42,Luzerne,079
+ANAT,United States,Pennsylvania,42,Lycoming,081
+ANAT,United States,Pennsylvania,42,McKean,083
+ANAT,United States,Pennsylvania,42,Mercer,085
+ANAT,United States,Pennsylvania,42,Northampton,095
+ANAT,United States,Pennsylvania,42,Somerset,111
+ANAT,United States,Pennsylvania,42,Susquehanna,115
+ANAT,United States,Pennsylvania,42,Tioga,117
+ANAT,United States,Pennsylvania,42,Venango,121
+ANAT,United States,Pennsylvania,42,Warren,123
+ANAT,United States,Pennsylvania,42,Wayne,127
+ANAT,United States,Pennsylvania,42,Westmoreland,129
+ANAT,United States,Pennsylvania,42,Wyoming,131
+ANAT,United States,Pennsylvania,42,York,133
+ANAT,United States,Rhode Island,44,,
+ANAT,United States,Rhode Island,44,Newport,005
+ANAT,United States,Tennessee,47,,
+ANAT,United States,Tennessee,47,Johnson,091
+ANAT,United States,Tennessee,47,Unicoi,171
+ANAT,United States,Vermont,50,,
+ANAT,United States,Vermont,50,Addison,001
+ANAT,United States,Vermont,50,Bennington,003
+ANAT,United States,Vermont,50,Caledonia,005
+ANAT,United States,Vermont,50,Chittenden,007
+ANAT,United States,Vermont,50,Essex,009
+ANAT,United States,Vermont,50,Lamoille,015
+ANAT,United States,Vermont,50,Rutland,021
+ANAT,United States,Vermont,50,Windham,025
+ANAT,United States,Vermont,50,Windsor,027
+ANAT,United States,West Virginia,54,,
+ANAT,United States,West Virginia,54,Fayette,019
+ANAT,United States,West Virginia,54,Grant,023
+ANAT,United States,West Virginia,54,Hancock,029
+ANAT,United States,West Virginia,54,Marion,049
+ANAT,United States,West Virginia,54,Marshall,051
+ANAT,United States,West Virginia,54,McDowell,047
+ANAT,United States,West Virginia,54,Mineral,057
+ANAT,United States,West Virginia,54,Monongalia,061
+ANAT,United States,West Virginia,54,Pleasants,073
+ANAT,United States,West Virginia,54,Pocahontas,075
+ANAT,United States,West Virginia,54,Preston,077
+ANAT,United States,West Virginia,54,Tucker,093
+ANAT,United States,West Virginia,54,Tyler,095
+ANAT,United States,West Virginia,54,Wetzel,103
+ANAT,United States,Wisconsin,55,,
+ANAT,United States,Wisconsin,55,Adams,001
+ANAT,United States,Wisconsin,55,Barron,005
+ANAT,United States,Wisconsin,55,Bayfield,007
+ANAT,United States,Wisconsin,55,Brown,009
+ANAT,United States,Wisconsin,55,Clark,019
+ANAT,United States,Wisconsin,55,Columbia,021
+ANAT,United States,Wisconsin,55,Dane,025
+ANAT,United States,Wisconsin,55,Dodge,027
+ANAT,United States,Wisconsin,55,Douglas,031
+ANAT,United States,Wisconsin,55,Eau Claire,035
+ANAT,United States,Wisconsin,55,Fond du Lac,039
+ANAT,United States,Wisconsin,55,Grant,043
+ANAT,United States,Wisconsin,55,Green,045
+ANAT,United States,Wisconsin,55,Green Lake,047
+ANAT,United States,Wisconsin,55,Iowa,049
+ANAT,United States,Wisconsin,55,Jackson,053
+ANAT,United States,Wisconsin,55,Jefferson,055
+ANAT,United States,Wisconsin,55,Kenosha,059
+ANAT,United States,Wisconsin,55,Kewaunee,061
+ANAT,United States,Wisconsin,55,La Crosse,063
+ANAT,United States,Wisconsin,55,Lafayette,065
+ANAT,United States,Wisconsin,55,Lincoln,069
+ANAT,United States,Wisconsin,55,Manitowoc,071
+ANAT,United States,Wisconsin,55,Marathon,073
+ANAT,United States,Wisconsin,55,Marquette,077
+ANAT,United States,Wisconsin,55,Milwaukee,079
+ANAT,United States,Wisconsin,55,Monroe,081
+ANAT,United States,Wisconsin,55,Oneida,085
+ANAT,United States,Wisconsin,55,Ozaukee,089
+ANAT,United States,Wisconsin,55,Pepin,091
+ANAT,United States,Wisconsin,55,Pierce,093
+ANAT,United States,Wisconsin,55,Polk,095
+ANAT,United States,Wisconsin,55,Portage,097
+ANAT,United States,Wisconsin,55,Racine,101
+ANAT,United States,Wisconsin,55,Richland,103
+ANAT,United States,Wisconsin,55,Rock,105
+ANAT,United States,Wisconsin,55,Sauk,111
+ANAT,United States,Wisconsin,55,Sawyer,113
+ANAT,United States,Wisconsin,55,Sheboygan,117
+ANAT,United States,Wisconsin,55,St. Croix,109
+ANAT,United States,Wisconsin,55,Taylor,119
+ANAT,United States,Wisconsin,55,Trempealeau,121
+ANAT,United States,Wisconsin,55,Vernon,123
+ANAT,United States,Wisconsin,55,Walworth,127
+ANAT,United States,Wisconsin,55,Washburn,129
+ANAT,United States,Wisconsin,55,Washington,131
+ANAT,United States,Wisconsin,55,Waukesha,133
+ANAT,United States,Wisconsin,55,Waupaca,135
+ANAT,United States,Wisconsin,55,Waushara,137
+ANAT,United States,Wisconsin,55,Winnebago,139
+ANAT,Canada,Labrador,LB,,
+ANAT,Canada,Newfoundland,NF,,

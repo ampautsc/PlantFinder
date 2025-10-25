@@ -1,0 +1,25 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+GEER2,Canada,Alberta,01,,
+GEER2,Canada,British Columbia,02,,
+GEER2,United States,Alaska,02,,
+GEER2,United States,Alaska,02,Aleutians East,013
+GEER2,United States,Alaska,02,Aleutians West,016
+GEER2,United States,Alaska,02,Anchorage,020
+GEER2,United States,Alaska,02,Bethel,050
+GEER2,United States,Alaska,02,Bristol Bay,060
+GEER2,United States,Alaska,02,Chugach,063
+GEER2,United States,Alaska,02,Copper River,066
+GEER2,United States,Alaska,02,Denali,068
+GEER2,United States,Alaska,02,Dillingham,070
+GEER2,United States,Alaska,02,Haines,100
+GEER2,United States,Alaska,02,Juneau,110
+GEER2,United States,Alaska,02,Kenai Peninsula,122
+GEER2,United States,Alaska,02,Kodiak Island,150
+GEER2,United States,Alaska,02,Lake and Peninsula,164
+GEER2,United States,Alaska,02,Matanuska-Susitna,170
+GEER2,United States,Alaska,02,Sitka,220
+GEER2,United States,Alaska,02,Southeast Fairbanks,240
+GEER2,United States,Alaska,02,Yakutat,282
+GEER2,United States,Alaska,02,Yukon-Koyukuk,290
+GEER2,Canada,Yukon,12,,

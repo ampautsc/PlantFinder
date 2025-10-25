@@ -1,0 +1,141 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+HYOD,United States,Arizona,04,,
+HYOD,United States,Arizona,04,Cochise,003
+HYOD,United States,Arizona,04,Coconino,005
+HYOD,United States,Arizona,04,Greenlee,011
+HYOD,United States,Arizona,04,Maricopa,013
+HYOD,United States,Arizona,04,Navajo,017
+HYOD,United States,Arizona,04,Pima,019
+HYOD,United States,Arizona,04,Yavapai,025
+HYOD,United States,California,06,,
+HYOD,United States,California,06,Imperial,025
+HYOD,United States,California,06,Riverside,065
+HYOD,United States,California,06,San Bernardino,071
+HYOD,United States,California,06,San Diego,073
+HYOD,United States,Colorado,08,,
+HYOD,United States,Colorado,08,Baca,009
+HYOD,United States,Colorado,08,Bent,011
+HYOD,United States,Colorado,08,Kiowa,061
+HYOD,United States,Colorado,08,Lincoln,073
+HYOD,United States,Colorado,08,Otero,089
+HYOD,United States,Colorado,08,Prowers,099
+HYOD,United States,Kansas,20,,
+HYOD,United States,Kansas,20,Finney,055
+HYOD,United States,Kansas,20,Gray,069
+HYOD,United States,Kansas,20,Hamilton,075
+HYOD,United States,Kansas,20,Kearny,093
+HYOD,United States,Kansas,20,Kiowa,097
+HYOD,United States,Kansas,20,Meade,119
+HYOD,United States,Kansas,20,Morton,129
+HYOD,United States,Kansas,20,Seward,175
+HYOD,United States,Kansas,20,Trego,195
+HYOD,United States,Maine,23,,
+HYOD,United States,New Mexico,35,,
+HYOD,United States,New Mexico,35,Bernalillo,001
+HYOD,United States,New Mexico,35,Catron,003
+HYOD,United States,New Mexico,35,Chaves,005
+HYOD,United States,New Mexico,35,Curry,009
+HYOD,United States,New Mexico,35,Dona Ana,013
+HYOD,United States,New Mexico,35,Grant,017
+HYOD,United States,New Mexico,35,Harding,021
+HYOD,United States,New Mexico,35,Hidalgo,023
+HYOD,United States,New Mexico,35,Lincoln,027
+HYOD,United States,New Mexico,35,Luna,029
+HYOD,United States,New Mexico,35,Quay,037
+HYOD,United States,New Mexico,35,San Juan,045
+HYOD,United States,New Mexico,35,Sandoval,043
+HYOD,United States,New Mexico,35,Socorro,053
+HYOD,United States,New Mexico,35,Torrance,057
+HYOD,United States,New Mexico,35,Union,059
+HYOD,United States,New Mexico,35,Valencia,061
+HYOD,United States,Oklahoma,40,,
+HYOD,United States,Oklahoma,40,Cimarron,025
+HYOD,United States,Oklahoma,40,Greer,055
+HYOD,United States,Oklahoma,40,Harmon,057
+HYOD,United States,Oklahoma,40,Jackson,065
+HYOD,United States,Oklahoma,40,Kiowa,075
+HYOD,United States,Oklahoma,40,Texas,139
+HYOD,United States,Oklahoma,40,Tillman,141
+HYOD,United States,Texas,48,,
+HYOD,United States,Texas,48,Archer,009
+HYOD,United States,Texas,48,Bailey,017
+HYOD,United States,Texas,48,Bandera,019
+HYOD,United States,Texas,48,Baylor,023
+HYOD,United States,Texas,48,Borden,033
+HYOD,United States,Texas,48,Brewster,043
+HYOD,United States,Texas,48,Briscoe,045
+HYOD,United States,Texas,48,Brown,049
+HYOD,United States,Texas,48,Carson,065
+HYOD,United States,Texas,48,Castro,069
+HYOD,United States,Texas,48,Childress,075
+HYOD,United States,Texas,48,Concho,095
+HYOD,United States,Texas,48,Crane,103
+HYOD,United States,Texas,48,Crockett,105
+HYOD,United States,Texas,48,Crosby,107
+HYOD,United States,Texas,48,Culberson,109
+HYOD,United States,Texas,48,Deaf Smith,117
+HYOD,United States,Texas,48,Dickens,125
+HYOD,United States,Texas,48,Dimmit,127
+HYOD,United States,Texas,48,Duval,131
+HYOD,United States,Texas,48,Eastland,133
+HYOD,United States,Texas,48,Edwards,137
+HYOD,United States,Texas,48,El Paso,141
+HYOD,United States,Texas,48,Foard,155
+HYOD,United States,Texas,48,Garza,169
+HYOD,United States,Texas,48,Gillespie,171
+HYOD,United States,Texas,48,Glasscock,173
+HYOD,United States,Texas,48,Gray,179
+HYOD,United States,Texas,48,Hardeman,197
+HYOD,United States,Texas,48,Haskell,207
+HYOD,United States,Texas,48,Hill,217
+HYOD,United States,Texas,48,Hockley,219
+HYOD,United States,Texas,48,Howard,227
+HYOD,United States,Texas,48,Hudspeth,229
+HYOD,United States,Texas,48,Hutchinson,233
+HYOD,United States,Texas,48,Irion,235
+HYOD,United States,Texas,48,Jeff Davis,243
+HYOD,United States,Texas,48,Jim Hogg,247
+HYOD,United States,Texas,48,Jim Wells,249
+HYOD,United States,Texas,48,Jones,253
+HYOD,United States,Texas,48,Karnes,255
+HYOD,United States,Texas,48,Kimble,267
+HYOD,United States,Texas,48,King,269
+HYOD,United States,Texas,48,Kinney,271
+HYOD,United States,Texas,48,La Salle,283
+HYOD,United States,Texas,48,Llano,299
+HYOD,United States,Texas,48,Loving,301
+HYOD,United States,Texas,48,Maverick,323
+HYOD,United States,Texas,48,McMullen,311
+HYOD,United States,Texas,48,Menard,327
+HYOD,United States,Texas,48,Mitchell,335
+HYOD,United States,Texas,48,Moore,341
+HYOD,United States,Texas,48,Nolan,353
+HYOD,United States,Texas,48,Ochiltree,357
+HYOD,United States,Texas,48,Pecos,371
+HYOD,United States,Texas,48,Potter,375
+HYOD,United States,Texas,48,Presidio,377
+HYOD,United States,Texas,48,Randall,381
+HYOD,United States,Texas,48,Reagan,383
+HYOD,United States,Texas,48,Real,385
+HYOD,United States,Texas,48,Reeves,389
+HYOD,United States,Texas,48,Runnels,399
+HYOD,United States,Texas,48,Schleicher,413
+HYOD,United States,Texas,48,Scurry,415
+HYOD,United States,Texas,48,Sherman,421
+HYOD,United States,Texas,48,Starr,427
+HYOD,United States,Texas,48,Sterling,431
+HYOD,United States,Texas,48,Stonewall,433
+HYOD,United States,Texas,48,Sutton,435
+HYOD,United States,Texas,48,Taylor,441
+HYOD,United States,Texas,48,Terrell,443
+HYOD,United States,Texas,48,Throckmorton,447
+HYOD,United States,Texas,48,Tom Green,451
+HYOD,United States,Texas,48,Upton,461
+HYOD,United States,Texas,48,Uvalde,463
+HYOD,United States,Texas,48,Val Verde,465
+HYOD,United States,Texas,48,Ward,475
+HYOD,United States,Texas,48,Webb,479
+HYOD,United States,Texas,48,Young,503
+HYOD,United States,Texas,48,Zapata,505
+HYOD,United States,Texas,48,Zavala,507

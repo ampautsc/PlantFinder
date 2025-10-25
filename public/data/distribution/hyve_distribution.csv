@@ -1,0 +1,156 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+HYVE,United States,Arizona,04,,
+HYVE,United States,Arizona,04,Cochise,003
+HYVE,United States,Arizona,04,Coconino,005
+HYVE,United States,Arizona,04,Gila,007
+HYVE,United States,Arizona,04,Graham,009
+HYVE,United States,Arizona,04,Greenlee,011
+HYVE,United States,Arizona,04,Maricopa,013
+HYVE,United States,Arizona,04,Mohave,015
+HYVE,United States,Arizona,04,Navajo,017
+HYVE,United States,Arizona,04,Pima,019
+HYVE,United States,Arizona,04,Santa Cruz,023
+HYVE,United States,Arizona,04,Yavapai,025
+HYVE,United States,Colorado,08,,
+HYVE,United States,Colorado,08,Baca,009
+HYVE,United States,Colorado,08,Boulder,013
+HYVE,United States,Colorado,08,Fremont,043
+HYVE,United States,Colorado,08,Jefferson,059
+HYVE,United States,Colorado,08,Las Animas,071
+HYVE,United States,Colorado,08,Otero,089
+HYVE,United States,Colorado,08,Prowers,099
+HYVE,United States,Colorado,08,Pueblo,101
+HYVE,United States,Kansas,20,,
+HYVE,United States,Kansas,20,Barber,007
+HYVE,United States,Kansas,20,Chase,017
+HYVE,United States,Kansas,20,Clark,025
+HYVE,United States,Kansas,20,Cowley,035
+HYVE,United States,Kansas,20,Elk,049
+HYVE,United States,Kansas,20,Ellis,051
+HYVE,United States,Kansas,20,Finney,055
+HYVE,United States,Kansas,20,Geary,061
+HYVE,United States,Kansas,20,Gove,063
+HYVE,United States,Kansas,20,Gray,069
+HYVE,United States,Kansas,20,Kiowa,097
+HYVE,United States,Kansas,20,Logan,109
+HYVE,United States,Kansas,20,Lyon,111
+HYVE,United States,Kansas,20,Meade,119
+HYVE,United States,Kansas,20,Montgomery,125
+HYVE,United States,Kansas,20,Morton,129
+HYVE,United States,Kansas,20,Osborne,141
+HYVE,United States,Kansas,20,Pottawatomie,149
+HYVE,United States,Kansas,20,Riley,161
+HYVE,United States,Kansas,20,Rooks,163
+HYVE,United States,Kansas,20,Russell,167
+HYVE,United States,Kansas,20,Scott,171
+HYVE,United States,Kansas,20,Wabaunsee,197
+HYVE,United States,Kansas,20,Wilson,205
+HYVE,United States,Kansas,20,Wyandotte,209
+HYVE,United States,New Mexico,35,,
+HYVE,United States,New Mexico,35,Dona Ana,013
+HYVE,United States,New Mexico,35,Eddy,015
+HYVE,United States,New Mexico,35,Hidalgo,023
+HYVE,United States,New Mexico,35,Luna,029
+HYVE,United States,New Mexico,35,Sierra,051
+HYVE,United States,New Mexico,35,Socorro,053
+HYVE,United States,Oklahoma,40,,
+HYVE,United States,Oklahoma,40,Blaine,011
+HYVE,United States,Oklahoma,40,Bryan,013
+HYVE,United States,Oklahoma,40,Cimarron,025
+HYVE,United States,Oklahoma,40,Coal,029
+HYVE,United States,Oklahoma,40,Grady,051
+HYVE,United States,Oklahoma,40,Greer,055
+HYVE,United States,Oklahoma,40,Harper,059
+HYVE,United States,Oklahoma,40,Jefferson,067
+HYVE,United States,Oklahoma,40,Kiowa,075
+HYVE,United States,Oklahoma,40,Love,085
+HYVE,United States,Oklahoma,40,Major,093
+HYVE,United States,Oklahoma,40,Murray,099
+HYVE,United States,Oklahoma,40,Roger Mills,129
+HYVE,United States,Oklahoma,40,Texas,139
+HYVE,United States,Oklahoma,40,Tillman,141
+HYVE,United States,Oklahoma,40,Tulsa,143
+HYVE,United States,Oklahoma,40,Woods,151
+HYVE,United States,Oklahoma,40,Woodward,153
+HYVE,United States,Texas,48,,
+HYVE,United States,Texas,48,Bandera,019
+HYVE,United States,Texas,48,Bastrop,021
+HYVE,United States,Texas,48,Bee,025
+HYVE,United States,Texas,48,Bell,027
+HYVE,United States,Texas,48,Bexar,029
+HYVE,United States,Texas,48,Blanco,031
+HYVE,United States,Texas,48,Borden,033
+HYVE,United States,Texas,48,Brazoria,039
+HYVE,United States,Texas,48,Brewster,043
+HYVE,United States,Texas,48,Brooks,047
+HYVE,United States,Texas,48,Burnet,053
+HYVE,United States,Texas,48,Caldwell,055
+HYVE,United States,Texas,48,Callahan,059
+HYVE,United States,Texas,48,Cameron,061
+HYVE,United States,Texas,48,Carson,065
+HYVE,United States,Texas,48,Castro,069
+HYVE,United States,Texas,48,Collin,085
+HYVE,United States,Texas,48,Comal,091
+HYVE,United States,Texas,48,Crane,103
+HYVE,United States,Texas,48,Crockett,105
+HYVE,United States,Texas,48,Culberson,109
+HYVE,United States,Texas,48,Dallas,113
+HYVE,United States,Texas,48,Deaf Smith,117
+HYVE,United States,Texas,48,Delta,119
+HYVE,United States,Texas,48,Denton,121
+HYVE,United States,Texas,48,Dimmit,127
+HYVE,United States,Texas,48,Duval,131
+HYVE,United States,Texas,48,Eastland,133
+HYVE,United States,Texas,48,Ellis,139
+HYVE,United States,Texas,48,Erath,143
+HYVE,United States,Texas,48,Fayette,149
+HYVE,United States,Texas,48,Freestone,161
+HYVE,United States,Texas,48,Frio,163
+HYVE,United States,Texas,48,Garza,169
+HYVE,United States,Texas,48,Gonzales,177
+HYVE,United States,Texas,48,Grimes,185
+HYVE,United States,Texas,48,Guadalupe,187
+HYVE,United States,Texas,48,Hamilton,193
+HYVE,United States,Texas,48,Hardeman,197
+HYVE,United States,Texas,48,Hemphill,211
+HYVE,United States,Texas,48,Hidalgo,215
+HYVE,United States,Texas,48,Howard,227
+HYVE,United States,Texas,48,Jeff Davis,243
+HYVE,United States,Texas,48,Jim Hogg,247
+HYVE,United States,Texas,48,Jim Wells,249
+HYVE,United States,Texas,48,Karnes,255
+HYVE,United States,Texas,48,Kenedy,261
+HYVE,United States,Texas,48,Kinney,271
+HYVE,United States,Texas,48,Lampasas,281
+HYVE,United States,Texas,48,Live Oak,297
+HYVE,United States,Texas,48,Llano,299
+HYVE,United States,Texas,48,Lubbock,303
+HYVE,United States,Texas,48,Marion,315
+HYVE,United States,Texas,48,Martin,317
+HYVE,United States,Texas,48,McLennan,309
+HYVE,United States,Texas,48,McMullen,311
+HYVE,United States,Texas,48,Navarro,349
+HYVE,United States,Texas,48,Nueces,355
+HYVE,United States,Texas,48,Oldham,359
+HYVE,United States,Texas,48,Pecos,371
+HYVE,United States,Texas,48,Presidio,377
+HYVE,United States,Texas,48,Real,385
+HYVE,United States,Texas,48,Reeves,389
+HYVE,United States,Texas,48,San Patricio,409
+HYVE,United States,Texas,48,Shackelford,417
+HYVE,United States,Texas,48,Somervell,425
+HYVE,United States,Texas,48,Starr,427
+HYVE,United States,Texas,48,Sutton,435
+HYVE,United States,Texas,48,Tarrant,439
+HYVE,United States,Texas,48,Taylor,441
+HYVE,United States,Texas,48,Terrell,443
+HYVE,United States,Texas,48,Travis,453
+HYVE,United States,Texas,48,Val Verde,465
+HYVE,United States,Texas,48,Victoria,469
+HYVE,United States,Texas,48,Walker,471
+HYVE,United States,Texas,48,Washington,477
+HYVE,United States,Texas,48,Webb,479
+HYVE,United States,Texas,48,Willacy,489
+HYVE,United States,Texas,48,Williamson,491
+HYVE,United States,Texas,48,Wilson,493

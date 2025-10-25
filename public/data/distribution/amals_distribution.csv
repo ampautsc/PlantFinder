@@ -1,0 +1,84 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+AMALS,Canada,British Columbia,02,,
+AMALS,United States,Alaska,02,,
+AMALS,United States,Alaska,02,Fairbanks North Star,090
+AMALS,United States,Alaska,02,Haines,100
+AMALS,United States,Alaska,02,Kodiak Island,150
+AMALS,United States,California,06,,
+AMALS,United States,California,06,Alameda,001
+AMALS,United States,California,06,Alpine,003
+AMALS,United States,California,06,Amador,005
+AMALS,United States,California,06,Butte,007
+AMALS,United States,California,06,Del Norte,015
+AMALS,United States,California,06,El Dorado,017
+AMALS,United States,California,06,Fresno,019
+AMALS,United States,California,06,Humboldt,023
+AMALS,United States,California,06,Inyo,027
+AMALS,United States,California,06,Kern,029
+AMALS,United States,California,06,Lake,033
+AMALS,United States,California,06,Lassen,035
+AMALS,United States,California,06,Los Angeles,037
+AMALS,United States,California,06,Madera,039
+AMALS,United States,California,06,Marin,041
+AMALS,United States,California,06,Mariposa,043
+AMALS,United States,California,06,Mendocino,045
+AMALS,United States,California,06,Modoc,049
+AMALS,United States,California,06,Mono,051
+AMALS,United States,California,06,Napa,055
+AMALS,United States,California,06,Nevada,057
+AMALS,United States,California,06,Placer,061
+AMALS,United States,California,06,Plumas,063
+AMALS,United States,California,06,Riverside,065
+AMALS,United States,California,06,San Benito,069
+AMALS,United States,California,06,San Bernardino,071
+AMALS,United States,California,06,San Diego,073
+AMALS,United States,California,06,San Luis Obispo,079
+AMALS,United States,California,06,Santa Clara,085
+AMALS,United States,California,06,Shasta,089
+AMALS,United States,California,06,Sierra,091
+AMALS,United States,California,06,Siskiyou,093
+AMALS,United States,California,06,Sonoma,097
+AMALS,United States,California,06,Tehama,103
+AMALS,United States,California,06,Trinity,105
+AMALS,United States,California,06,Tulare,107
+AMALS,United States,California,06,Tuolumne,109
+AMALS,United States,California,06,Ventura,111
+AMALS,United States,California,06,Yuba,115
+AMALS,United States,Oregon,41,,
+AMALS,United States,Oregon,41,Benton,003
+AMALS,United States,Oregon,41,Clackamas,005
+AMALS,United States,Oregon,41,Clatsop,007
+AMALS,United States,Oregon,41,Columbia,009
+AMALS,United States,Oregon,41,Curry,015
+AMALS,United States,Oregon,41,Deschutes,017
+AMALS,United States,Oregon,41,Douglas,019
+AMALS,United States,Oregon,41,Hood River,027
+AMALS,United States,Oregon,41,Jackson,029
+AMALS,United States,Oregon,41,Josephine,033
+AMALS,United States,Oregon,41,Lane,039
+AMALS,United States,Oregon,41,Linn,043
+AMALS,United States,Oregon,41,Marion,047
+AMALS,United States,Oregon,41,Multnomah,051
+AMALS,United States,Oregon,41,Polk,053
+AMALS,United States,Oregon,41,Washington,067
+AMALS,United States,Oregon,41,Yamhill,071
+AMALS,United States,Washington,53,,
+AMALS,United States,Washington,53,Clallam,009
+AMALS,United States,Washington,53,Cowlitz,015
+AMALS,United States,Washington,53,Grays Harbor,027
+AMALS,United States,Washington,53,Island,029
+AMALS,United States,Washington,53,Jefferson,031
+AMALS,United States,Washington,53,King,033
+AMALS,United States,Washington,53,Kitsap,035
+AMALS,United States,Washington,53,Lewis,041
+AMALS,United States,Washington,53,Mason,045
+AMALS,United States,Washington,53,Pacific,049
+AMALS,United States,Washington,53,Pierce,053
+AMALS,United States,Washington,53,San Juan,055
+AMALS,United States,Washington,53,Skagit,057
+AMALS,United States,Washington,53,Skamania,059
+AMALS,United States,Washington,53,Snohomish,061
+AMALS,United States,Washington,53,Thurston,067
+AMALS,United States,Washington,53,Wahkiakum,069
+AMALS,United States,Washington,53,Whatcom,073

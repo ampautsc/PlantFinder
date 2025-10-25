@@ -1,0 +1,699 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+KALA,United States,Alabama,01,,
+KALA,United States,Alabama,01,Autauga,001
+KALA,United States,Alabama,01,Barbour,005
+KALA,United States,Alabama,01,Bibb,007
+KALA,United States,Alabama,01,Blount,009
+KALA,United States,Alabama,01,Butler,013
+KALA,United States,Alabama,01,Calhoun,015
+KALA,United States,Alabama,01,Chambers,017
+KALA,United States,Alabama,01,Chilton,021
+KALA,United States,Alabama,01,Choctaw,023
+KALA,United States,Alabama,01,Clarke,025
+KALA,United States,Alabama,01,Clay,027
+KALA,United States,Alabama,01,Cleburne,029
+KALA,United States,Alabama,01,Coffee,031
+KALA,United States,Alabama,01,Colbert,033
+KALA,United States,Alabama,01,Conecuh,035
+KALA,United States,Alabama,01,Coosa,037
+KALA,United States,Alabama,01,Cullman,043
+KALA,United States,Alabama,01,Dale,045
+KALA,United States,Alabama,01,Dallas,047
+KALA,United States,Alabama,01,DeKalb,049
+KALA,United States,Alabama,01,Elmore,051
+KALA,United States,Alabama,01,Escambia,053
+KALA,United States,Alabama,01,Etowah,055
+KALA,United States,Alabama,01,Franklin,059
+KALA,United States,Alabama,01,Geneva,061
+KALA,United States,Alabama,01,Hale,065
+KALA,United States,Alabama,01,Henry,067
+KALA,United States,Alabama,01,Jackson,071
+KALA,United States,Alabama,01,Jefferson,073
+KALA,United States,Alabama,01,Lamar,075
+KALA,United States,Alabama,01,Lauderdale,077
+KALA,United States,Alabama,01,Lawrence,079
+KALA,United States,Alabama,01,Lee,081
+KALA,United States,Alabama,01,Macon,087
+KALA,United States,Alabama,01,Madison,089
+KALA,United States,Alabama,01,Marion,093
+KALA,United States,Alabama,01,Marshall,095
+KALA,United States,Alabama,01,Mobile,097
+KALA,United States,Alabama,01,Monroe,099
+KALA,United States,Alabama,01,Morgan,103
+KALA,United States,Alabama,01,Perry,105
+KALA,United States,Alabama,01,Pike,109
+KALA,United States,Alabama,01,Randolph,111
+KALA,United States,Alabama,01,Russell,113
+KALA,United States,Alabama,01,Shelby,117
+KALA,United States,Alabama,01,St. Clair,115
+KALA,United States,Alabama,01,Talladega,121
+KALA,United States,Alabama,01,Tallapoosa,123
+KALA,United States,Alabama,01,Tuscaloosa,125
+KALA,United States,Alabama,01,Walker,127
+KALA,United States,Alabama,01,Washington,129
+KALA,United States,Alabama,01,Wilcox,131
+KALA,United States,Alabama,01,Winston,133
+KALA,United States,Connecticut,09,,
+KALA,United States,Connecticut,09,Fairfield,001
+KALA,United States,Connecticut,09,Hartford,003
+KALA,United States,Connecticut,09,Litchfield,005
+KALA,United States,Connecticut,09,Middlesex,007
+KALA,United States,Connecticut,09,New Haven,009
+KALA,United States,Connecticut,09,New London,011
+KALA,United States,Connecticut,09,Tolland,013
+KALA,United States,Connecticut,09,Windham,015
+KALA,United States,Delaware,10,,
+KALA,United States,Delaware,10,New Castle,003
+KALA,United States,District of Columbia,11,,
+KALA,United States,District of Columbia,11,District of Columbia,001
+KALA,United States,Florida,12,,
+KALA,United States,Florida,12,Bay,005
+KALA,United States,Florida,12,Calhoun,013
+KALA,United States,Florida,12,Escambia,033
+KALA,United States,Florida,12,Gadsden,039
+KALA,United States,Florida,12,Holmes,059
+KALA,United States,Florida,12,Leon,073
+KALA,United States,Florida,12,Liberty,077
+KALA,United States,Florida,12,Okaloosa,091
+KALA,United States,Florida,12,Santa Rosa,113
+KALA,United States,Florida,12,Suwannee,121
+KALA,United States,Florida,12,Walton,131
+KALA,United States,Florida,12,Washington,133
+KALA,United States,Georgia,13,,
+KALA,United States,Georgia,13,Bartow,015
+KALA,United States,Georgia,13,Carroll,045
+KALA,United States,Georgia,13,Chattooga,055
+KALA,United States,Georgia,13,Cherokee,057
+KALA,United States,Georgia,13,Clarke,059
+KALA,United States,Georgia,13,Clay,061
+KALA,United States,Georgia,13,Cobb,067
+KALA,United States,Georgia,13,Columbia,073
+KALA,United States,Georgia,13,Dade,083
+KALA,United States,Georgia,13,Decatur,087
+KALA,United States,Georgia,13,DeKalb,089
+KALA,United States,Georgia,13,Early,099
+KALA,United States,Georgia,13,Effingham,103
+KALA,United States,Georgia,13,Elbert,105
+KALA,United States,Georgia,13,Fannin,111
+KALA,United States,Georgia,13,Floyd,115
+KALA,United States,Georgia,13,Forsyth,117
+KALA,United States,Georgia,13,Gilmer,123
+KALA,United States,Georgia,13,Gwinnett,135
+KALA,United States,Georgia,13,Habersham,137
+KALA,United States,Georgia,13,Hall,139
+KALA,United States,Georgia,13,Haralson,143
+KALA,United States,Georgia,13,Harris,145
+KALA,United States,Georgia,13,Henry,151
+KALA,United States,Georgia,13,Jackson,157
+KALA,United States,Georgia,13,Madison,195
+KALA,United States,Georgia,13,Meriwether,199
+KALA,United States,Georgia,13,Morgan,211
+KALA,United States,Georgia,13,Murray,213
+KALA,United States,Georgia,13,Oconee,219
+KALA,United States,Georgia,13,Oglethorpe,221
+KALA,United States,Georgia,13,Pickens,227
+KALA,United States,Georgia,13,Pike,231
+KALA,United States,Georgia,13,Rabun,241
+KALA,United States,Georgia,13,Randolph,243
+KALA,United States,Georgia,13,Screven,251
+KALA,United States,Georgia,13,Spalding,255
+KALA,United States,Georgia,13,Stephens,257
+KALA,United States,Georgia,13,Sumter,261
+KALA,United States,Georgia,13,Talbot,263
+KALA,United States,Georgia,13,Toombs,279
+KALA,United States,Georgia,13,Union,291
+KALA,United States,Georgia,13,Upson,293
+KALA,United States,Georgia,13,Walker,295
+KALA,United States,Georgia,13,Walton,297
+KALA,United States,Georgia,13,White,311
+KALA,United States,Georgia,13,Whitfield,313
+KALA,United States,Indiana,18,,
+KALA,United States,Indiana,18,Clark,019
+KALA,United States,Indiana,18,Crawford,025
+KALA,United States,Indiana,18,Floyd,043
+KALA,United States,Indiana,18,Perry,123
+KALA,United States,Kentucky,21,,
+KALA,United States,Kentucky,21,Adair,001
+KALA,United States,Kentucky,21,Barren,009
+KALA,United States,Kentucky,21,Bath,011
+KALA,United States,Kentucky,21,Bell,013
+KALA,United States,Kentucky,21,Boyd,019
+KALA,United States,Kentucky,21,Breathitt,025
+KALA,United States,Kentucky,21,Bullitt,029
+KALA,United States,Kentucky,21,Carter,043
+KALA,United States,Kentucky,21,Casey,045
+KALA,United States,Kentucky,21,Clay,051
+KALA,United States,Kentucky,21,Clinton,053
+KALA,United States,Kentucky,21,Cumberland,057
+KALA,United States,Kentucky,21,Edmonson,061
+KALA,United States,Kentucky,21,Elliott,063
+KALA,United States,Kentucky,21,Estill,065
+KALA,United States,Kentucky,21,Fleming,069
+KALA,United States,Kentucky,21,Floyd,071
+KALA,United States,Kentucky,21,Garrard,079
+KALA,United States,Kentucky,21,Grayson,085
+KALA,United States,Kentucky,21,Greenup,089
+KALA,United States,Kentucky,21,Hardin,093
+KALA,United States,Kentucky,21,Harlan,095
+KALA,United States,Kentucky,21,Hart,099
+KALA,United States,Kentucky,21,Jackson,109
+KALA,United States,Kentucky,21,Johnson,115
+KALA,United States,Kentucky,21,Knott,119
+KALA,United States,Kentucky,21,Knox,121
+KALA,United States,Kentucky,21,Larue,123
+KALA,United States,Kentucky,21,Laurel,125
+KALA,United States,Kentucky,21,Lawrence,127
+KALA,United States,Kentucky,21,Lee,129
+KALA,United States,Kentucky,21,Leslie,131
+KALA,United States,Kentucky,21,Letcher,133
+KALA,United States,Kentucky,21,Lewis,135
+KALA,United States,Kentucky,21,Lincoln,137
+KALA,United States,Kentucky,21,Lyon,143
+KALA,United States,Kentucky,21,Madison,151
+KALA,United States,Kentucky,21,Magoffin,153
+KALA,United States,Kentucky,21,Marion,155
+KALA,United States,Kentucky,21,McCreary,147
+KALA,United States,Kentucky,21,Menifee,165
+KALA,United States,Kentucky,21,Monroe,171
+KALA,United States,Kentucky,21,Montgomery,173
+KALA,United States,Kentucky,21,Morgan,175
+KALA,United States,Kentucky,21,Muhlenberg,177
+KALA,United States,Kentucky,21,Owsley,189
+KALA,United States,Kentucky,21,Perry,193
+KALA,United States,Kentucky,21,Pike,195
+KALA,United States,Kentucky,21,Powell,197
+KALA,United States,Kentucky,21,Pulaski,199
+KALA,United States,Kentucky,21,Rockcastle,203
+KALA,United States,Kentucky,21,Rowan,205
+KALA,United States,Kentucky,21,Taylor,217
+KALA,United States,Kentucky,21,Todd,219
+KALA,United States,Kentucky,21,Trigg,221
+KALA,United States,Kentucky,21,Trimble,223
+KALA,United States,Kentucky,21,Warren,227
+KALA,United States,Kentucky,21,Whitley,235
+KALA,United States,Kentucky,21,Wolfe,237
+KALA,United States,Louisiana,22,,
+KALA,United States,Louisiana,22,Natchitoches,069
+KALA,United States,Louisiana,22,Washington,117
+KALA,United States,Maine,23,,
+KALA,United States,Maine,23,Cumberland,005
+KALA,United States,Maine,23,Franklin,007
+KALA,United States,Maine,23,Hancock,009
+KALA,United States,Maine,23,Oxford,017
+KALA,United States,Maine,23,Penobscot,019
+KALA,United States,Maine,23,Sagadahoc,023
+KALA,United States,Maine,23,Washington,029
+KALA,United States,Maine,23,York,031
+KALA,United States,Maryland,24,,
+KALA,United States,Maryland,24,Dorchester,019
+KALA,United States,Massachusetts,25,,
+KALA,United States,Massachusetts,25,Barnstable,001
+KALA,United States,Massachusetts,25,Berkshire,003
+KALA,United States,Massachusetts,25,Bristol,005
+KALA,United States,Massachusetts,25,Dukes,007
+KALA,United States,Massachusetts,25,Essex,009
+KALA,United States,Massachusetts,25,Franklin,011
+KALA,United States,Massachusetts,25,Hampden,013
+KALA,United States,Massachusetts,25,Hampshire,015
+KALA,United States,Massachusetts,25,Middlesex,017
+KALA,United States,Massachusetts,25,Nantucket,019
+KALA,United States,Massachusetts,25,Norfolk,021
+KALA,United States,Massachusetts,25,Plymouth,023
+KALA,United States,Massachusetts,25,Suffolk,025
+KALA,United States,Massachusetts,25,Worcester,027
+KALA,United States,Mississippi,28,,
+KALA,United States,Mississippi,28,Clarke,023
+KALA,United States,Mississippi,28,Covington,031
+KALA,United States,Mississippi,28,Forrest,035
+KALA,United States,Mississippi,28,George,039
+KALA,United States,Mississippi,28,Greene,041
+KALA,United States,Mississippi,28,Hancock,045
+KALA,United States,Mississippi,28,Harrison,047
+KALA,United States,Mississippi,28,Jackson,059
+KALA,United States,Mississippi,28,Jones,067
+KALA,United States,Mississippi,28,Lauderdale,075
+KALA,United States,Mississippi,28,Perry,111
+KALA,United States,Mississippi,28,Stone,131
+KALA,United States,Mississippi,28,Tishomingo,141
+KALA,United States,Mississippi,28,Wayne,153
+KALA,United States,New Hampshire,33,,
+KALA,United States,New Hampshire,33,Belknap,001
+KALA,United States,New Hampshire,33,Carroll,003
+KALA,United States,New Hampshire,33,Cheshire,005
+KALA,United States,New Hampshire,33,Grafton,009
+KALA,United States,New Hampshire,33,Hillsborough,011
+KALA,United States,New Hampshire,33,Merrimack,013
+KALA,United States,New Hampshire,33,Rockingham,015
+KALA,United States,New Hampshire,33,Strafford,017
+KALA,United States,New Jersey,34,,
+KALA,United States,New Jersey,34,Atlantic,001
+KALA,United States,New Jersey,34,Bergen,003
+KALA,United States,New Jersey,34,Burlington,005
+KALA,United States,New Jersey,34,Camden,007
+KALA,United States,New Jersey,34,Cape May,009
+KALA,United States,New Jersey,34,Cumberland,011
+KALA,United States,New Jersey,34,Essex,013
+KALA,United States,New Jersey,34,Gloucester,015
+KALA,United States,New Jersey,34,Hunterdon,019
+KALA,United States,New Jersey,34,Mercer,021
+KALA,United States,New Jersey,34,Middlesex,023
+KALA,United States,New Jersey,34,Monmouth,025
+KALA,United States,New Jersey,34,Morris,027
+KALA,United States,New Jersey,34,Ocean,029
+KALA,United States,New Jersey,34,Passaic,031
+KALA,United States,New Jersey,34,Salem,033
+KALA,United States,New Jersey,34,Somerset,035
+KALA,United States,New Jersey,34,Sussex,037
+KALA,United States,New Jersey,34,Union,039
+KALA,United States,New Jersey,34,Warren,041
+KALA,United States,New York,36,,
+KALA,United States,New York,36,Albany,001
+KALA,United States,New York,36,Bronx,005
+KALA,United States,New York,36,Broome,007
+KALA,United States,New York,36,Cattaraugus,009
+KALA,United States,New York,36,Chemung,015
+KALA,United States,New York,36,Chenango,017
+KALA,United States,New York,36,Columbia,021
+KALA,United States,New York,36,Delaware,025
+KALA,United States,New York,36,Dutchess,027
+KALA,United States,New York,36,Erie,029
+KALA,United States,New York,36,Kings,047
+KALA,United States,New York,36,Madison,053
+KALA,United States,New York,36,Nassau,059
+KALA,United States,New York,36,New York,061
+KALA,United States,New York,36,Oneida,065
+KALA,United States,New York,36,Orange,071
+KALA,United States,New York,36,Putnam,079
+KALA,United States,New York,36,Queens,081
+KALA,United States,New York,36,Rensselaer,083
+KALA,United States,New York,36,Richmond,085
+KALA,United States,New York,36,Rockland,087
+KALA,United States,New York,36,Saratoga,091
+KALA,United States,New York,36,Schuyler,097
+KALA,United States,New York,36,Steuben,101
+KALA,United States,New York,36,Suffolk,103
+KALA,United States,New York,36,Sullivan,105
+KALA,United States,New York,36,Tioga,107
+KALA,United States,New York,36,Tompkins,109
+KALA,United States,New York,36,Ulster,111
+KALA,United States,New York,36,Warren,113
+KALA,United States,New York,36,Washington,115
+KALA,United States,New York,36,Wayne,117
+KALA,United States,New York,36,Westchester,119
+KALA,United States,North Carolina,37,,
+KALA,United States,North Carolina,37,Alamance,001
+KALA,United States,North Carolina,37,Alexander,003
+KALA,United States,North Carolina,37,Alleghany,005
+KALA,United States,North Carolina,37,Anson,007
+KALA,United States,North Carolina,37,Ashe,009
+KALA,United States,North Carolina,37,Avery,011
+KALA,United States,North Carolina,37,Bladen,017
+KALA,United States,North Carolina,37,Buncombe,021
+KALA,United States,North Carolina,37,Burke,023
+KALA,United States,North Carolina,37,Cabarrus,025
+KALA,United States,North Carolina,37,Caldwell,027
+KALA,United States,North Carolina,37,Catawba,035
+KALA,United States,North Carolina,37,Chatham,037
+KALA,United States,North Carolina,37,Cherokee,039
+KALA,United States,North Carolina,37,Clay,043
+KALA,United States,North Carolina,37,Cleveland,045
+KALA,United States,North Carolina,37,Cumberland,051
+KALA,United States,North Carolina,37,Davidson,057
+KALA,United States,North Carolina,37,Davie,059
+KALA,United States,North Carolina,37,Durham,063
+KALA,United States,North Carolina,37,Edgecombe,065
+KALA,United States,North Carolina,37,Forsyth,067
+KALA,United States,North Carolina,37,Franklin,069
+KALA,United States,North Carolina,37,Gaston,071
+KALA,United States,North Carolina,37,Graham,075
+KALA,United States,North Carolina,37,Granville,077
+KALA,United States,North Carolina,37,Guilford,081
+KALA,United States,North Carolina,37,Halifax,083
+KALA,United States,North Carolina,37,Harnett,085
+KALA,United States,North Carolina,37,Haywood,087
+KALA,United States,North Carolina,37,Henderson,089
+KALA,United States,North Carolina,37,Hertford,091
+KALA,United States,North Carolina,37,Hoke,093
+KALA,United States,North Carolina,37,Iredell,097
+KALA,United States,North Carolina,37,Jackson,099
+KALA,United States,North Carolina,37,Johnston,101
+KALA,United States,North Carolina,37,Lee,105
+KALA,United States,North Carolina,37,Lincoln,109
+KALA,United States,North Carolina,37,Macon,113
+KALA,United States,North Carolina,37,Madison,115
+KALA,United States,North Carolina,37,McDowell,111
+KALA,United States,North Carolina,37,Mecklenburg,119
+KALA,United States,North Carolina,37,Mitchell,121
+KALA,United States,North Carolina,37,Montgomery,123
+KALA,United States,North Carolina,37,Moore,125
+KALA,United States,North Carolina,37,Nash,127
+KALA,United States,North Carolina,37,Northampton,131
+KALA,United States,North Carolina,37,Orange,135
+KALA,United States,North Carolina,37,Person,145
+KALA,United States,North Carolina,37,Pitt,147
+KALA,United States,North Carolina,37,Polk,149
+KALA,United States,North Carolina,37,Randolph,151
+KALA,United States,North Carolina,37,Richmond,153
+KALA,United States,North Carolina,37,Rockingham,157
+KALA,United States,North Carolina,37,Rowan,159
+KALA,United States,North Carolina,37,Scotland,165
+KALA,United States,North Carolina,37,Stanly,167
+KALA,United States,North Carolina,37,Stokes,169
+KALA,United States,North Carolina,37,Surry,171
+KALA,United States,North Carolina,37,Swain,173
+KALA,United States,North Carolina,37,Transylvania,175
+KALA,United States,North Carolina,37,Union,179
+KALA,United States,North Carolina,37,Vance,181
+KALA,United States,North Carolina,37,Wake,183
+KALA,United States,North Carolina,37,Warren,185
+KALA,United States,North Carolina,37,Watauga,189
+KALA,United States,North Carolina,37,Wayne,191
+KALA,United States,North Carolina,37,Wilkes,193
+KALA,United States,North Carolina,37,Yancey,199
+KALA,United States,Ohio,39,,
+KALA,United States,Ohio,39,Adams,001
+KALA,United States,Ohio,39,Athens,009
+KALA,United States,Ohio,39,Belmont,013
+KALA,United States,Ohio,39,Columbiana,029
+KALA,United States,Ohio,39,Coshocton,031
+KALA,United States,Ohio,39,Fairfield,045
+KALA,United States,Ohio,39,Gallia,053
+KALA,United States,Ohio,39,Guernsey,059
+KALA,United States,Ohio,39,Hocking,073
+KALA,United States,Ohio,39,Holmes,075
+KALA,United States,Ohio,39,Jackson,079
+KALA,United States,Ohio,39,Jefferson,081
+KALA,United States,Ohio,39,Knox,083
+KALA,United States,Ohio,39,Lawrence,087
+KALA,United States,Ohio,39,Licking,089
+KALA,United States,Ohio,39,Meigs,105
+KALA,United States,Ohio,39,Monroe,111
+KALA,United States,Ohio,39,Morgan,115
+KALA,United States,Ohio,39,Muskingum,119
+KALA,United States,Ohio,39,Perry,127
+KALA,United States,Ohio,39,Pike,131
+KALA,United States,Ohio,39,Ross,141
+KALA,United States,Ohio,39,Scioto,145
+KALA,United States,Ohio,39,Tuscarawas,157
+KALA,United States,Ohio,39,Vinton,163
+KALA,United States,Ohio,39,Washington,167
+KALA,United States,Pennsylvania,42,,
+KALA,United States,Pennsylvania,42,Adams,001
+KALA,United States,Pennsylvania,42,Allegheny,003
+KALA,United States,Pennsylvania,42,Armstrong,005
+KALA,United States,Pennsylvania,42,Beaver,007
+KALA,United States,Pennsylvania,42,Bedford,009
+KALA,United States,Pennsylvania,42,Berks,011
+KALA,United States,Pennsylvania,42,Blair,013
+KALA,United States,Pennsylvania,42,Bradford,015
+KALA,United States,Pennsylvania,42,Bucks,017
+KALA,United States,Pennsylvania,42,Butler,019
+KALA,United States,Pennsylvania,42,Cambria,021
+KALA,United States,Pennsylvania,42,Cameron,023
+KALA,United States,Pennsylvania,42,Carbon,025
+KALA,United States,Pennsylvania,42,Centre,027
+KALA,United States,Pennsylvania,42,Chester,029
+KALA,United States,Pennsylvania,42,Clarion,031
+KALA,United States,Pennsylvania,42,Clearfield,033
+KALA,United States,Pennsylvania,42,Clinton,035
+KALA,United States,Pennsylvania,42,Columbia,037
+KALA,United States,Pennsylvania,42,Cumberland,041
+KALA,United States,Pennsylvania,42,Dauphin,043
+KALA,United States,Pennsylvania,42,Delaware,045
+KALA,United States,Pennsylvania,42,Elk,047
+KALA,United States,Pennsylvania,42,Erie,049
+KALA,United States,Pennsylvania,42,Fayette,051
+KALA,United States,Pennsylvania,42,Forest,053
+KALA,United States,Pennsylvania,42,Franklin,055
+KALA,United States,Pennsylvania,42,Fulton,057
+KALA,United States,Pennsylvania,42,Greene,059
+KALA,United States,Pennsylvania,42,Huntingdon,061
+KALA,United States,Pennsylvania,42,Indiana,063
+KALA,United States,Pennsylvania,42,Jefferson,065
+KALA,United States,Pennsylvania,42,Juniata,067
+KALA,United States,Pennsylvania,42,Lackawanna,069
+KALA,United States,Pennsylvania,42,Lancaster,071
+KALA,United States,Pennsylvania,42,Lawrence,073
+KALA,United States,Pennsylvania,42,Lebanon,075
+KALA,United States,Pennsylvania,42,Lehigh,077
+KALA,United States,Pennsylvania,42,Luzerne,079
+KALA,United States,Pennsylvania,42,Lycoming,081
+KALA,United States,Pennsylvania,42,McKean,083
+KALA,United States,Pennsylvania,42,Mifflin,087
+KALA,United States,Pennsylvania,42,Monroe,089
+KALA,United States,Pennsylvania,42,Montgomery,091
+KALA,United States,Pennsylvania,42,Northampton,095
+KALA,United States,Pennsylvania,42,Northumberland,097
+KALA,United States,Pennsylvania,42,Perry,099
+KALA,United States,Pennsylvania,42,Philadelphia,101
+KALA,United States,Pennsylvania,42,Pike,103
+KALA,United States,Pennsylvania,42,Potter,105
+KALA,United States,Pennsylvania,42,Schuylkill,107
+KALA,United States,Pennsylvania,42,Snyder,109
+KALA,United States,Pennsylvania,42,Somerset,111
+KALA,United States,Pennsylvania,42,Sullivan,113
+KALA,United States,Pennsylvania,42,Susquehanna,115
+KALA,United States,Pennsylvania,42,Tioga,117
+KALA,United States,Pennsylvania,42,Union,119
+KALA,United States,Pennsylvania,42,Venango,121
+KALA,United States,Pennsylvania,42,Warren,123
+KALA,United States,Pennsylvania,42,Washington,125
+KALA,United States,Pennsylvania,42,Wayne,127
+KALA,United States,Pennsylvania,42,Westmoreland,129
+KALA,United States,Pennsylvania,42,Wyoming,131
+KALA,United States,Pennsylvania,42,York,133
+KALA,United States,Rhode Island,44,,
+KALA,United States,Rhode Island,44,Kent,003
+KALA,United States,Rhode Island,44,Newport,005
+KALA,United States,Rhode Island,44,Providence,007
+KALA,United States,Rhode Island,44,Washington,009
+KALA,United States,South Carolina,45,,
+KALA,United States,South Carolina,45,Aiken,003
+KALA,United States,South Carolina,45,Anderson,007
+KALA,United States,South Carolina,45,Barnwell,011
+KALA,United States,South Carolina,45,Calhoun,017
+KALA,United States,South Carolina,45,Cherokee,021
+KALA,United States,South Carolina,45,Chesterfield,025
+KALA,United States,South Carolina,45,Darlington,031
+KALA,United States,South Carolina,45,Edgefield,037
+KALA,United States,South Carolina,45,Florence,041
+KALA,United States,South Carolina,45,Georgetown,043
+KALA,United States,South Carolina,45,Greenville,045
+KALA,United States,South Carolina,45,Greenwood,047
+KALA,United States,South Carolina,45,Kershaw,055
+KALA,United States,South Carolina,45,Lancaster,057
+KALA,United States,South Carolina,45,Laurens,059
+KALA,United States,South Carolina,45,Lexington,063
+KALA,United States,South Carolina,45,Marlboro,069
+KALA,United States,South Carolina,45,Oconee,073
+KALA,United States,South Carolina,45,Pickens,077
+KALA,United States,South Carolina,45,Richland,079
+KALA,United States,South Carolina,45,Spartanburg,083
+KALA,United States,South Carolina,45,Sumter,085
+KALA,United States,Tennessee,47,,
+KALA,United States,Tennessee,47,Anderson,001
+KALA,United States,Tennessee,47,Benton,005
+KALA,United States,Tennessee,47,Bledsoe,007
+KALA,United States,Tennessee,47,Blount,009
+KALA,United States,Tennessee,47,Campbell,013
+KALA,United States,Tennessee,47,Cannon,015
+KALA,United States,Tennessee,47,Carter,019
+KALA,United States,Tennessee,47,Cheatham,021
+KALA,United States,Tennessee,47,Claiborne,025
+KALA,United States,Tennessee,47,Cocke,029
+KALA,United States,Tennessee,47,Coffee,031
+KALA,United States,Tennessee,47,Cumberland,035
+KALA,United States,Tennessee,47,Davidson,037
+KALA,United States,Tennessee,47,DeKalb,041
+KALA,United States,Tennessee,47,Dickson,043
+KALA,United States,Tennessee,47,Fentress,049
+KALA,United States,Tennessee,47,Franklin,051
+KALA,United States,Tennessee,47,Giles,055
+KALA,United States,Tennessee,47,Grainger,057
+KALA,United States,Tennessee,47,Greene,059
+KALA,United States,Tennessee,47,Grundy,061
+KALA,United States,Tennessee,47,Hamilton,065
+KALA,United States,Tennessee,47,Hardin,071
+KALA,United States,Tennessee,47,Hawkins,073
+KALA,United States,Tennessee,47,Hickman,081
+KALA,United States,Tennessee,47,Humphreys,085
+KALA,United States,Tennessee,47,Jackson,087
+KALA,United States,Tennessee,47,Johnson,091
+KALA,United States,Tennessee,47,Knox,093
+KALA,United States,Tennessee,47,Lawrence,099
+KALA,United States,Tennessee,47,Lewis,101
+KALA,United States,Tennessee,47,Macon,111
+KALA,United States,Tennessee,47,Marion,115
+KALA,United States,Tennessee,47,McMinn,107
+KALA,United States,Tennessee,47,Meigs,121
+KALA,United States,Tennessee,47,Monroe,123
+KALA,United States,Tennessee,47,Morgan,129
+KALA,United States,Tennessee,47,Overton,133
+KALA,United States,Tennessee,47,Perry,135
+KALA,United States,Tennessee,47,Pickett,137
+KALA,United States,Tennessee,47,Polk,139
+KALA,United States,Tennessee,47,Putnam,141
+KALA,United States,Tennessee,47,Rhea,143
+KALA,United States,Tennessee,47,Roane,145
+KALA,United States,Tennessee,47,Robertson,147
+KALA,United States,Tennessee,47,Scott,151
+KALA,United States,Tennessee,47,Sequatchie,153
+KALA,United States,Tennessee,47,Sevier,155
+KALA,United States,Tennessee,47,Smith,159
+KALA,United States,Tennessee,47,Stewart,161
+KALA,United States,Tennessee,47,Unicoi,171
+KALA,United States,Tennessee,47,Union,173
+KALA,United States,Tennessee,47,Van Buren,175
+KALA,United States,Tennessee,47,Warren,177
+KALA,United States,Tennessee,47,Washington,179
+KALA,United States,Tennessee,47,Wayne,181
+KALA,United States,Tennessee,47,White,185
+KALA,United States,Tennessee,47,Williamson,187
+KALA,United States,Vermont,50,,
+KALA,United States,Vermont,50,Bennington,003
+KALA,United States,Vermont,50,Windham,025
+KALA,United States,Virginia,51,,
+KALA,United States,Virginia,51,Accomack,001
+KALA,United States,Virginia,51,Albemarle,003
+KALA,United States,Virginia,51,Alleghany,005
+KALA,United States,Virginia,51,Amelia,007
+KALA,United States,Virginia,51,Amherst,009
+KALA,United States,Virginia,51,Appomattox,011
+KALA,United States,Virginia,51,Arlington,013
+KALA,United States,Virginia,51,Augusta,015
+KALA,United States,Virginia,51,Bath,017
+KALA,United States,Virginia,51,Bedford,019
+KALA,United States,Virginia,51,Bland,021
+KALA,United States,Virginia,51,Botetourt,023
+KALA,United States,Virginia,51,Brunswick,025
+KALA,United States,Virginia,51,Buchanan,027
+KALA,United States,Virginia,51,Buckingham,029
+KALA,United States,Virginia,51,Campbell,031
+KALA,United States,Virginia,51,Caroline,033
+KALA,United States,Virginia,51,Carroll,035
+KALA,United States,Virginia,51,Charles City,036
+KALA,United States,Virginia,51,Charlotte,037
+KALA,United States,Virginia,51,Chesapeake ,550
+KALA,United States,Virginia,51,Chesterfield,041
+KALA,United States,Virginia,51,Clarke,043
+KALA,United States,Virginia,51,Craig,045
+KALA,United States,Virginia,51,Culpeper,047
+KALA,United States,Virginia,51,Cumberland,049
+KALA,United States,Virginia,51,Dickenson,051
+KALA,United States,Virginia,51,Essex,057
+KALA,United States,Virginia,51,Fairfax,059
+KALA,United States,Virginia,51,Fauquier,061
+KALA,United States,Virginia,51,Floyd,063
+KALA,United States,Virginia,51,Fluvanna,065
+KALA,United States,Virginia,51,Franklin,067
+KALA,United States,Virginia,51,Frederick,069
+KALA,United States,Virginia,51,Giles,071
+KALA,United States,Virginia,51,Gloucester,073
+KALA,United States,Virginia,51,Goochland,075
+KALA,United States,Virginia,51,Grayson,077
+KALA,United States,Virginia,51,Greene,079
+KALA,United States,Virginia,51,Greensville,081
+KALA,United States,Virginia,51,Halifax,083
+KALA,United States,Virginia,51,Hanover,085
+KALA,United States,Virginia,51,Henrico,087
+KALA,United States,Virginia,51,Henry,089
+KALA,United States,Virginia,51,Highland,091
+KALA,United States,Virginia,51,Isle of Wight,093
+KALA,United States,Virginia,51,James City,095
+KALA,United States,Virginia,51,King and Queen,097
+KALA,United States,Virginia,51,King George,099
+KALA,United States,Virginia,51,King William,101
+KALA,United States,Virginia,51,Lancaster,103
+KALA,United States,Virginia,51,Lee,105
+KALA,United States,Virginia,51,Loudoun,107
+KALA,United States,Virginia,51,Louisa,109
+KALA,United States,Virginia,51,Lunenburg,111
+KALA,United States,Virginia,51,Madison,113
+KALA,United States,Virginia,51,Mathews,115
+KALA,United States,Virginia,51,Mecklenburg,117
+KALA,United States,Virginia,51,Middlesex,119
+KALA,United States,Virginia,51,Montgomery,121
+KALA,United States,Virginia,51,Nelson,125
+KALA,United States,Virginia,51,New Kent,127
+KALA,United States,Virginia,51,Newport News ,700
+KALA,United States,Virginia,51,Northampton,131
+KALA,United States,Virginia,51,Northumberland,133
+KALA,United States,Virginia,51,Nottoway,135
+KALA,United States,Virginia,51,Orange,137
+KALA,United States,Virginia,51,Page,139
+KALA,United States,Virginia,51,Patrick,141
+KALA,United States,Virginia,51,Pittsylvania,143
+KALA,United States,Virginia,51,Powhatan,145
+KALA,United States,Virginia,51,Prince Edward,147
+KALA,United States,Virginia,51,Prince George,149
+KALA,United States,Virginia,51,Prince William,153
+KALA,United States,Virginia,51,Pulaski,155
+KALA,United States,Virginia,51,Rappahannock,157
+KALA,United States,Virginia,51,Richmond,159
+KALA,United States,Virginia,51,Roanoke,161
+KALA,United States,Virginia,51,Rockbridge,163
+KALA,United States,Virginia,51,Rockingham,165
+KALA,United States,Virginia,51,Russell,167
+KALA,United States,Virginia,51,Scott,169
+KALA,United States,Virginia,51,Shenandoah,171
+KALA,United States,Virginia,51,Smyth,173
+KALA,United States,Virginia,51,Spotsylvania,177
+KALA,United States,Virginia,51,Stafford,179
+KALA,United States,Virginia,51,Suffolk ,800
+KALA,United States,Virginia,51,Surry,181
+KALA,United States,Virginia,51,Sussex,183
+KALA,United States,Virginia,51,Tazewell,185
+KALA,United States,Virginia,51,Virginia Beach ,810
+KALA,United States,Virginia,51,Warren,187
+KALA,United States,Virginia,51,Washington,191
+KALA,United States,Virginia,51,Westmoreland,193
+KALA,United States,Virginia,51,Wise,195
+KALA,United States,Virginia,51,Wythe,197
+KALA,United States,Virginia,51,York,199
+KALA,United States,West Virginia,54,,
+KALA,United States,West Virginia,54,Barbour,001
+KALA,United States,West Virginia,54,Berkeley,003
+KALA,United States,West Virginia,54,Braxton,007
+KALA,United States,West Virginia,54,Calhoun,013
+KALA,United States,West Virginia,54,Clay,015
+KALA,United States,West Virginia,54,Doddridge,017
+KALA,United States,West Virginia,54,Fayette,019
+KALA,United States,West Virginia,54,Gilmer,021
+KALA,United States,West Virginia,54,Grant,023
+KALA,United States,West Virginia,54,Greenbrier,025
+KALA,United States,West Virginia,54,Hampshire,027
+KALA,United States,West Virginia,54,Hancock,029
+KALA,United States,West Virginia,54,Hardy,031
+KALA,United States,West Virginia,54,Harrison,033
+KALA,United States,West Virginia,54,Jackson,035
+KALA,United States,West Virginia,54,Kanawha,039
+KALA,United States,West Virginia,54,Lewis,041
+KALA,United States,West Virginia,54,Marion,049
+KALA,United States,West Virginia,54,Marshall,051
+KALA,United States,West Virginia,54,McDowell,047
+KALA,United States,West Virginia,54,Mercer,055
+KALA,United States,West Virginia,54,Mineral,057
+KALA,United States,West Virginia,54,Mingo,059
+KALA,United States,West Virginia,54,Monongalia,061
+KALA,United States,West Virginia,54,Monroe,063
+KALA,United States,West Virginia,54,Morgan,065
+KALA,United States,West Virginia,54,Nicholas,067
+KALA,United States,West Virginia,54,Pendleton,071
+KALA,United States,West Virginia,54,Pocahontas,075
+KALA,United States,West Virginia,54,Preston,077
+KALA,United States,West Virginia,54,Raleigh,081
+KALA,United States,West Virginia,54,Randolph,083
+KALA,United States,West Virginia,54,Ritchie,085
+KALA,United States,West Virginia,54,Roane,087
+KALA,United States,West Virginia,54,Summers,089
+KALA,United States,West Virginia,54,Taylor,091
+KALA,United States,West Virginia,54,Tucker,093
+KALA,United States,West Virginia,54,Tyler,095
+KALA,United States,West Virginia,54,Upshur,097
+KALA,United States,West Virginia,54,Wayne,099
+KALA,United States,West Virginia,54,Webster,101
+KALA,United States,West Virginia,54,Wetzel,103
+KALA,United States,West Virginia,54,Wirt,105
+KALA,United States,West Virginia,54,Wood,107
+KALA,United States,West Virginia,54,Wyoming,109

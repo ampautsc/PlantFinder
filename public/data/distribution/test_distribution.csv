@@ -1,0 +1,46 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+TEST,United States,Arizona,04,,
+TEST,United States,Arizona,04,Cochise,003
+TEST,United States,Arizona,04,Gila,007
+TEST,United States,Arizona,04,Graham,009
+TEST,United States,Arizona,04,Pima,019
+TEST,United States,Arizona,04,Pinal,021
+TEST,United States,Arizona,04,Santa Cruz,023
+TEST,United States,Florida,12,,
+TEST,United States,Florida,12,Brevard,009
+TEST,United States,Florida,12,Collier,021
+TEST,United States,Florida,12,Lee,071
+TEST,United States,Florida,12,Miami-Dade,086
+TEST,United States,Florida,12,Monroe,087
+TEST,United States,Hawaii,15,,
+TEST,United States,Hawaii,15,Hawaii,001
+TEST,United States,Hawaii,15,Honolulu,003
+TEST,United States,Hawaii,15,Maui,009
+TEST,United States,New Mexico,35,,
+TEST,United States,New Mexico,35,Dona Ana,013
+TEST,United States,Texas,48,,
+TEST,United States,Texas,48,Bexar,029
+TEST,United States,Texas,48,Brewster,043
+TEST,United States,Texas,48,Cameron,061
+TEST,United States,Texas,48,Culberson,109
+TEST,United States,Texas,48,El Paso,141
+TEST,United States,Texas,48,Goliad,175
+TEST,United States,Texas,48,Hays,209
+TEST,United States,Texas,48,Hidalgo,215
+TEST,United States,Texas,48,Hudspeth,229
+TEST,United States,Texas,48,Jeff Davis,243
+TEST,United States,Texas,48,Jim Wells,249
+TEST,United States,Texas,48,Pecos,371
+TEST,United States,Texas,48,Polk,373
+TEST,United States,Texas,48,Presidio,377
+TEST,United States,Texas,48,Terrell,443
+TEST,United States,Texas,48,Victoria,469
+TEST,United States,Texas,48,Webb,479
+TEST,United States,Texas,48,Wilson,493
+TEST,United States,Texas,48,Zapata,505
+TEST,United States,Guam,66,,
+TEST,United States,Palau,70,,
+TEST,United States,Palau,70,Koror,150
+TEST,United States,Puerto Rico,72,,
+TEST,United States,Virgin Islands,78,,

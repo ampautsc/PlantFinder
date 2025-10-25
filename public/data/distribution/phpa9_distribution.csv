@@ -1,0 +1,746 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+PHPA9,United States,Alabama,01,,
+PHPA9,United States,Alabama,01,Clay,027
+PHPA9,United States,Alabama,01,Lawrence,079
+PHPA9,Canada,New Brunswick,04,,
+PHPA9,United States,Arkansas,05,,
+PHPA9,United States,Arkansas,05,Benton,007
+PHPA9,United States,Arkansas,05,Boone,009
+PHPA9,United States,Arkansas,05,Carroll,015
+PHPA9,United States,Arkansas,05,Cleburne,023
+PHPA9,United States,Arkansas,05,Faulkner,045
+PHPA9,United States,Arkansas,05,Franklin,047
+PHPA9,United States,Arkansas,05,Fulton,049
+PHPA9,United States,Arkansas,05,Independence,063
+PHPA9,United States,Arkansas,05,Madison,087
+PHPA9,United States,Arkansas,05,Marion,089
+PHPA9,United States,Arkansas,05,Newton,101
+PHPA9,United States,Arkansas,05,Randolph,121
+PHPA9,United States,Arkansas,05,Searcy,129
+PHPA9,United States,Arkansas,05,Sharp,135
+PHPA9,United States,Arkansas,05,Van Buren,141
+PHPA9,United States,Arkansas,05,Washington,143
+PHPA9,Canada,Nova Scotia,07,,
+PHPA9,Canada,Ontario,08,,
+PHPA9,United States,Connecticut,09,,
+PHPA9,United States,Connecticut,09,Fairfield,001
+PHPA9,United States,Connecticut,09,Hartford,003
+PHPA9,United States,Connecticut,09,Litchfield,005
+PHPA9,United States,Connecticut,09,Middlesex,007
+PHPA9,United States,Connecticut,09,New Haven,009
+PHPA9,United States,Connecticut,09,New London,011
+PHPA9,United States,Connecticut,09,Tolland,013
+PHPA9,Canada,Quebec,10,,
+PHPA9,United States,Delaware,10,,
+PHPA9,United States,District of Columbia,11,,
+PHPA9,United States,District of Columbia,11,District of Columbia,001
+PHPA9,United States,Georgia,13,,
+PHPA9,United States,Georgia,13,Murray,213
+PHPA9,United States,Georgia,13,Stephens,257
+PHPA9,United States,Georgia,13,Union,291
+PHPA9,United States,Illinois,17,,
+PHPA9,United States,Illinois,17,Adams,001
+PHPA9,United States,Illinois,17,Alexander,003
+PHPA9,United States,Illinois,17,Bond,005
+PHPA9,United States,Illinois,17,Boone,007
+PHPA9,United States,Illinois,17,Brown,009
+PHPA9,United States,Illinois,17,Bureau,011
+PHPA9,United States,Illinois,17,Calhoun,013
+PHPA9,United States,Illinois,17,Carroll,015
+PHPA9,United States,Illinois,17,Cass,017
+PHPA9,United States,Illinois,17,Champaign,019
+PHPA9,United States,Illinois,17,Clark,023
+PHPA9,United States,Illinois,17,Clay,025
+PHPA9,United States,Illinois,17,Coles,029
+PHPA9,United States,Illinois,17,Cook,031
+PHPA9,United States,Illinois,17,Crawford,033
+PHPA9,United States,Illinois,17,Cumberland,035
+PHPA9,United States,Illinois,17,DeKalb,037
+PHPA9,United States,Illinois,17,Douglas,041
+PHPA9,United States,Illinois,17,DuPage,043
+PHPA9,United States,Illinois,17,Edgar,045
+PHPA9,United States,Illinois,17,Edwards,047
+PHPA9,United States,Illinois,17,Effingham,049
+PHPA9,United States,Illinois,17,Fayette,051
+PHPA9,United States,Illinois,17,Franklin,055
+PHPA9,United States,Illinois,17,Fulton,057
+PHPA9,United States,Illinois,17,Gallatin,059
+PHPA9,United States,Illinois,17,Greene,061
+PHPA9,United States,Illinois,17,Grundy,063
+PHPA9,United States,Illinois,17,Hamilton,065
+PHPA9,United States,Illinois,17,Hancock,067
+PHPA9,United States,Illinois,17,Hardin,069
+PHPA9,United States,Illinois,17,Jackson,077
+PHPA9,United States,Illinois,17,Jasper,079
+PHPA9,United States,Illinois,17,Jefferson,081
+PHPA9,United States,Illinois,17,Jersey,083
+PHPA9,United States,Illinois,17,Jo Daviess,085
+PHPA9,United States,Illinois,17,Johnson,087
+PHPA9,United States,Illinois,17,Kane,089
+PHPA9,United States,Illinois,17,Kankakee,091
+PHPA9,United States,Illinois,17,Kendall,093
+PHPA9,United States,Illinois,17,Knox,095
+PHPA9,United States,Illinois,17,Lake,097
+PHPA9,United States,Illinois,17,Lawrence,101
+PHPA9,United States,Illinois,17,Livingston,105
+PHPA9,United States,Illinois,17,Logan,107
+PHPA9,United States,Illinois,17,Macon,115
+PHPA9,United States,Illinois,17,Macoupin,117
+PHPA9,United States,Illinois,17,Madison,119
+PHPA9,United States,Illinois,17,Marion,121
+PHPA9,United States,Illinois,17,Mason,125
+PHPA9,United States,Illinois,17,Massac,127
+PHPA9,United States,Illinois,17,McDonough,109
+PHPA9,United States,Illinois,17,McHenry,111
+PHPA9,United States,Illinois,17,McLean,113
+PHPA9,United States,Illinois,17,Menard,129
+PHPA9,United States,Illinois,17,Montgomery,135
+PHPA9,United States,Illinois,17,Morgan,137
+PHPA9,United States,Illinois,17,Peoria,143
+PHPA9,United States,Illinois,17,Perry,145
+PHPA9,United States,Illinois,17,Piatt,147
+PHPA9,United States,Illinois,17,Pike,149
+PHPA9,United States,Illinois,17,Pope,151
+PHPA9,United States,Illinois,17,Pulaski,153
+PHPA9,United States,Illinois,17,Richland,159
+PHPA9,United States,Illinois,17,Sangamon,167
+PHPA9,United States,Illinois,17,Schuyler,169
+PHPA9,United States,Illinois,17,Scott,171
+PHPA9,United States,Illinois,17,Shelby,173
+PHPA9,United States,Illinois,17,St. Clair,163
+PHPA9,United States,Illinois,17,Union,181
+PHPA9,United States,Illinois,17,Vermilion,183
+PHPA9,United States,Illinois,17,Wabash,185
+PHPA9,United States,Illinois,17,Washington,189
+PHPA9,United States,Illinois,17,Wayne,191
+PHPA9,United States,Illinois,17,White,193
+PHPA9,United States,Illinois,17,Will,197
+PHPA9,United States,Illinois,17,Williamson,199
+PHPA9,United States,Illinois,17,Woodford,203
+PHPA9,United States,Indiana,18,,
+PHPA9,United States,Indiana,18,Bartholomew,005
+PHPA9,United States,Indiana,18,Boone,011
+PHPA9,United States,Indiana,18,Brown,013
+PHPA9,United States,Indiana,18,Carroll,015
+PHPA9,United States,Indiana,18,Cass,017
+PHPA9,United States,Indiana,18,Clark,019
+PHPA9,United States,Indiana,18,Clay,021
+PHPA9,United States,Indiana,18,Clinton,023
+PHPA9,United States,Indiana,18,Crawford,025
+PHPA9,United States,Indiana,18,Daviess,027
+PHPA9,United States,Indiana,18,Decatur,031
+PHPA9,United States,Indiana,18,Floyd,043
+PHPA9,United States,Indiana,18,Fountain,045
+PHPA9,United States,Indiana,18,Franklin,047
+PHPA9,United States,Indiana,18,Gibson,051
+PHPA9,United States,Indiana,18,Grant,053
+PHPA9,United States,Indiana,18,Greene,055
+PHPA9,United States,Indiana,18,Hamilton,057
+PHPA9,United States,Indiana,18,Harrison,061
+PHPA9,United States,Indiana,18,Hendricks,063
+PHPA9,United States,Indiana,18,Henry,065
+PHPA9,United States,Indiana,18,Howard,067
+PHPA9,United States,Indiana,18,Jay,075
+PHPA9,United States,Indiana,18,Jefferson,077
+PHPA9,United States,Indiana,18,Jennings,079
+PHPA9,United States,Indiana,18,Knox,083
+PHPA9,United States,Indiana,18,Kosciusko,085
+PHPA9,United States,Indiana,18,LaPorte,091
+PHPA9,United States,Indiana,18,Lawrence,093
+PHPA9,United States,Indiana,18,Madison,095
+PHPA9,United States,Indiana,18,Marion,097
+PHPA9,United States,Indiana,18,Marshall,099
+PHPA9,United States,Indiana,18,Martin,101
+PHPA9,United States,Indiana,18,Miami,103
+PHPA9,United States,Indiana,18,Monroe,105
+PHPA9,United States,Indiana,18,Montgomery,107
+PHPA9,United States,Indiana,18,Morgan,109
+PHPA9,United States,Indiana,18,Owen,119
+PHPA9,United States,Indiana,18,Parke,121
+PHPA9,United States,Indiana,18,Perry,123
+PHPA9,United States,Indiana,18,Porter,127
+PHPA9,United States,Indiana,18,Posey,129
+PHPA9,United States,Indiana,18,Putnam,133
+PHPA9,United States,Indiana,18,Ripley,137
+PHPA9,United States,Indiana,18,Rush,139
+PHPA9,United States,Indiana,18,Shelby,145
+PHPA9,United States,Indiana,18,Spencer,147
+PHPA9,United States,Indiana,18,St. Joseph,141
+PHPA9,United States,Indiana,18,Sullivan,153
+PHPA9,United States,Indiana,18,Tippecanoe,157
+PHPA9,United States,Indiana,18,Union,161
+PHPA9,United States,Indiana,18,Vermillion,165
+PHPA9,United States,Indiana,18,Vigo,167
+PHPA9,United States,Indiana,18,Warren,171
+PHPA9,United States,Indiana,18,Warrick,173
+PHPA9,United States,Indiana,18,Washington,175
+PHPA9,United States,Indiana,18,Wayne,177
+PHPA9,United States,Indiana,18,Wells,179
+PHPA9,United States,Iowa,19,,
+PHPA9,United States,Iowa,19,Harrison,085
+PHPA9,United States,Kansas,20,,
+PHPA9,United States,Kansas,20,Atchison,005
+PHPA9,United States,Kansas,20,Cherokee,021
+PHPA9,United States,Kentucky,21,,
+PHPA9,United States,Kentucky,21,Allen,003
+PHPA9,United States,Kentucky,21,Anderson,005
+PHPA9,United States,Kentucky,21,Bath,011
+PHPA9,United States,Kentucky,21,Bracken,023
+PHPA9,United States,Kentucky,21,Breathitt,025
+PHPA9,United States,Kentucky,21,Bullitt,029
+PHPA9,United States,Kentucky,21,Caldwell,033
+PHPA9,United States,Kentucky,21,Calloway,035
+PHPA9,United States,Kentucky,21,Carter,043
+PHPA9,United States,Kentucky,21,Casey,045
+PHPA9,United States,Kentucky,21,Clark,049
+PHPA9,United States,Kentucky,21,Clay,051
+PHPA9,United States,Kentucky,21,Clinton,053
+PHPA9,United States,Kentucky,21,Daviess,059
+PHPA9,United States,Kentucky,21,Edmonson,061
+PHPA9,United States,Kentucky,21,Estill,065
+PHPA9,United States,Kentucky,21,Fayette,067
+PHPA9,United States,Kentucky,21,Fleming,069
+PHPA9,United States,Kentucky,21,Franklin,073
+PHPA9,United States,Kentucky,21,Gallatin,077
+PHPA9,United States,Kentucky,21,Grant,081
+PHPA9,United States,Kentucky,21,Graves,083
+PHPA9,United States,Kentucky,21,Green,087
+PHPA9,United States,Kentucky,21,Greenup,089
+PHPA9,United States,Kentucky,21,Hardin,093
+PHPA9,United States,Kentucky,21,Harlan,095
+PHPA9,United States,Kentucky,21,Hart,099
+PHPA9,United States,Kentucky,21,Henry,103
+PHPA9,United States,Kentucky,21,Hickman,105
+PHPA9,United States,Kentucky,21,Jackson,109
+PHPA9,United States,Kentucky,21,Jefferson,111
+PHPA9,United States,Kentucky,21,Jessamine,113
+PHPA9,United States,Kentucky,21,Kenton,117
+PHPA9,United States,Kentucky,21,Laurel,125
+PHPA9,United States,Kentucky,21,Lee,129
+PHPA9,United States,Kentucky,21,Letcher,133
+PHPA9,United States,Kentucky,21,Lewis,135
+PHPA9,United States,Kentucky,21,Lincoln,137
+PHPA9,United States,Kentucky,21,Livingston,139
+PHPA9,United States,Kentucky,21,Lyon,143
+PHPA9,United States,Kentucky,21,Madison,151
+PHPA9,United States,Kentucky,21,Marshall,157
+PHPA9,United States,Kentucky,21,McCracken,145
+PHPA9,United States,Kentucky,21,McCreary,147
+PHPA9,United States,Kentucky,21,McLean,149
+PHPA9,United States,Kentucky,21,Meade,163
+PHPA9,United States,Kentucky,21,Menifee,165
+PHPA9,United States,Kentucky,21,Mercer,167
+PHPA9,United States,Kentucky,21,Montgomery,173
+PHPA9,United States,Kentucky,21,Nelson,179
+PHPA9,United States,Kentucky,21,Oldham,185
+PHPA9,United States,Kentucky,21,Pendleton,191
+PHPA9,United States,Kentucky,21,Perry,193
+PHPA9,United States,Kentucky,21,Powell,197
+PHPA9,United States,Kentucky,21,Pulaski,199
+PHPA9,United States,Kentucky,21,Rockcastle,203
+PHPA9,United States,Kentucky,21,Rowan,205
+PHPA9,United States,Kentucky,21,Spencer,215
+PHPA9,United States,Kentucky,21,Warren,227
+PHPA9,United States,Kentucky,21,Wolfe,237
+PHPA9,United States,Kentucky,21,Woodford,239
+PHPA9,United States,Louisiana,22,,
+PHPA9,United States,Louisiana,22,Bienville,013
+PHPA9,United States,Louisiana,22,Claiborne,027
+PHPA9,United States,Louisiana,22,Franklin,041
+PHPA9,United States,Louisiana,22,Lincoln,061
+PHPA9,United States,Louisiana,22,Madison,065
+PHPA9,United States,Louisiana,22,Ouachita,073
+PHPA9,United States,Louisiana,22,Richland,083
+PHPA9,United States,Louisiana,22,Union,111
+PHPA9,United States,Maine,23,,
+PHPA9,United States,Maine,23,Cumberland,005
+PHPA9,United States,Maine,23,Knox,013
+PHPA9,United States,Maine,23,Waldo,027
+PHPA9,United States,Maryland,24,,
+PHPA9,United States,Massachusetts,25,,
+PHPA9,United States,Massachusetts,25,Berkshire,003
+PHPA9,United States,Massachusetts,25,Bristol,005
+PHPA9,United States,Massachusetts,25,Essex,009
+PHPA9,United States,Massachusetts,25,Hampden,013
+PHPA9,United States,Massachusetts,25,Middlesex,017
+PHPA9,United States,Massachusetts,25,Norfolk,021
+PHPA9,United States,Massachusetts,25,Worcester,027
+PHPA9,United States,Michigan,26,,
+PHPA9,United States,Michigan,26,Alpena,007
+PHPA9,United States,Michigan,26,Benzie,019
+PHPA9,United States,Michigan,26,Berrien,021
+PHPA9,United States,Michigan,26,Branch,023
+PHPA9,United States,Michigan,26,Cass,027
+PHPA9,United States,Michigan,26,Cheboygan,031
+PHPA9,United States,Michigan,26,Dickinson,043
+PHPA9,United States,Michigan,26,Emmet,047
+PHPA9,United States,Michigan,26,Hillsdale,059
+PHPA9,United States,Michigan,26,Houghton,061
+PHPA9,United States,Michigan,26,Ingham,065
+PHPA9,United States,Michigan,26,Kalamazoo,077
+PHPA9,United States,Michigan,26,Kent,081
+PHPA9,United States,Michigan,26,Keweenaw,083
+PHPA9,United States,Michigan,26,Leelanau,089
+PHPA9,United States,Michigan,26,Lenawee,091
+PHPA9,United States,Michigan,26,Macomb,099
+PHPA9,United States,Michigan,26,Marquette,103
+PHPA9,United States,Michigan,26,Menominee,109
+PHPA9,United States,Michigan,26,Monroe,115
+PHPA9,United States,Michigan,26,Oakland,125
+PHPA9,United States,Michigan,26,Ogemaw,129
+PHPA9,United States,Michigan,26,Presque Isle,141
+PHPA9,United States,Michigan,26,Schoolcraft,153
+PHPA9,United States,Michigan,26,St. Clair,147
+PHPA9,United States,Michigan,26,Washtenaw,161
+PHPA9,United States,Michigan,26,Wayne,163
+PHPA9,United States,Minnesota,27,,
+PHPA9,United States,Minnesota,27,Dakota,037
+PHPA9,United States,Minnesota,27,Fillmore,045
+PHPA9,United States,Minnesota,27,Goodhue,049
+PHPA9,United States,Minnesota,27,Hennepin,053
+PHPA9,United States,Minnesota,27,Isanti,059
+PHPA9,United States,Minnesota,27,Lyon,083
+PHPA9,United States,Minnesota,27,St. Louis,137
+PHPA9,United States,Minnesota,27,Washington,163
+PHPA9,United States,Mississippi,28,,
+PHPA9,United States,Mississippi,28,Alcorn,003
+PHPA9,United States,Mississippi,28,Prentiss,117
+PHPA9,United States,Mississippi,28,Tippah,139
+PHPA9,United States,Mississippi,28,Union,145
+PHPA9,United States,Missouri,29,,
+PHPA9,United States,Missouri,29,Adair,001
+PHPA9,United States,Missouri,29,Barry,009
+PHPA9,United States,Missouri,29,Barton,011
+PHPA9,United States,Missouri,29,Bollinger,017
+PHPA9,United States,Missouri,29,Callaway,027
+PHPA9,United States,Missouri,29,Camden,029
+PHPA9,United States,Missouri,29,Carter,035
+PHPA9,United States,Missouri,29,Cedar,039
+PHPA9,United States,Missouri,29,Christian,043
+PHPA9,United States,Missouri,29,Cole,051
+PHPA9,United States,Missouri,29,Crawford,055
+PHPA9,United States,Missouri,29,Dade,057
+PHPA9,United States,Missouri,29,Dallas,059
+PHPA9,United States,Missouri,29,Dent,065
+PHPA9,United States,Missouri,29,Douglas,067
+PHPA9,United States,Missouri,29,Franklin,071
+PHPA9,United States,Missouri,29,Gasconade,073
+PHPA9,United States,Missouri,29,Greene,077
+PHPA9,United States,Missouri,29,Hickory,085
+PHPA9,United States,Missouri,29,Holt,087
+PHPA9,United States,Missouri,29,Howell,091
+PHPA9,United States,Missouri,29,Jackson,095
+PHPA9,United States,Missouri,29,Jefferson,099
+PHPA9,United States,Missouri,29,Laclede,105
+PHPA9,United States,Missouri,29,Lawrence,109
+PHPA9,United States,Missouri,29,Lincoln,113
+PHPA9,United States,Missouri,29,Madison,123
+PHPA9,United States,Missouri,29,Maries,125
+PHPA9,United States,Missouri,29,Marion,127
+PHPA9,United States,Missouri,29,McDonald,119
+PHPA9,United States,Missouri,29,Miller,131
+PHPA9,United States,Missouri,29,Montgomery,139
+PHPA9,United States,Missouri,29,New Madrid,143
+PHPA9,United States,Missouri,29,Oregon,149
+PHPA9,United States,Missouri,29,Osage,151
+PHPA9,United States,Missouri,29,Ozark,153
+PHPA9,United States,Missouri,29,Pettis,159
+PHPA9,United States,Missouri,29,Phelps,161
+PHPA9,United States,Missouri,29,Pike,163
+PHPA9,United States,Missouri,29,Polk,167
+PHPA9,United States,Missouri,29,Pulaski,169
+PHPA9,United States,Missouri,29,Ralls,173
+PHPA9,United States,Missouri,29,Reynolds,179
+PHPA9,United States,Missouri,29,Ripley,181
+PHPA9,United States,Missouri,29,Scott,201
+PHPA9,United States,Missouri,29,Shannon,203
+PHPA9,United States,Missouri,29,St. Charles,183
+PHPA9,United States,Missouri,29,St. Clair,185
+PHPA9,United States,Missouri,29,St. Francois,187
+PHPA9,United States,Missouri,29,St. Louis,189
+PHPA9,United States,Missouri,29,Ste. Genevieve,186
+PHPA9,United States,Missouri,29,Stoddard,207
+PHPA9,United States,Missouri,29,Stone,209
+PHPA9,United States,Missouri,29,Taney,213
+PHPA9,United States,Missouri,29,Texas,215
+PHPA9,United States,Missouri,29,Vernon,217
+PHPA9,United States,Missouri,29,Warren,219
+PHPA9,United States,Missouri,29,Wayne,223
+PHPA9,United States,Missouri,29,Webster,225
+PHPA9,United States,Missouri,29,Worth,227
+PHPA9,United States,Missouri,29,Wright,229
+PHPA9,United States,Nebraska,31,,
+PHPA9,United States,Nebraska,31,Jefferson,095
+PHPA9,United States,Nebraska,31,Nance,125
+PHPA9,United States,New Hampshire,33,,
+PHPA9,United States,New Hampshire,33,Belknap,001
+PHPA9,United States,New Hampshire,33,Carroll,003
+PHPA9,United States,New Hampshire,33,Coos,007
+PHPA9,United States,New Hampshire,33,Merrimack,013
+PHPA9,United States,New Hampshire,33,Strafford,017
+PHPA9,United States,New Hampshire,33,Sullivan,019
+PHPA9,United States,New Jersey,34,,
+PHPA9,United States,New Jersey,34,Cape May,009
+PHPA9,United States,New Jersey,34,Hunterdon,019
+PHPA9,United States,New Jersey,34,Mercer,021
+PHPA9,United States,New Jersey,34,Middlesex,023
+PHPA9,United States,New Jersey,34,Monmouth,025
+PHPA9,United States,New Jersey,34,Morris,027
+PHPA9,United States,New Jersey,34,Ocean,029
+PHPA9,United States,New Jersey,34,Passaic,031
+PHPA9,United States,New Jersey,34,Salem,033
+PHPA9,United States,New Jersey,34,Somerset,035
+PHPA9,United States,New Jersey,34,Sussex,037
+PHPA9,United States,New Jersey,34,Warren,041
+PHPA9,United States,New York,36,,
+PHPA9,United States,New York,36,Albany,001
+PHPA9,United States,New York,36,Bronx,005
+PHPA9,United States,New York,36,Cattaraugus,009
+PHPA9,United States,New York,36,Chautauqua,013
+PHPA9,United States,New York,36,Delaware,025
+PHPA9,United States,New York,36,Dutchess,027
+PHPA9,United States,New York,36,Erie,029
+PHPA9,United States,New York,36,Essex,031
+PHPA9,United States,New York,36,Herkimer,043
+PHPA9,United States,New York,36,Kings,047
+PHPA9,United States,New York,36,Madison,053
+PHPA9,United States,New York,36,Nassau,059
+PHPA9,United States,New York,36,New York,061
+PHPA9,United States,New York,36,Onondaga,067
+PHPA9,United States,New York,36,Oswego,075
+PHPA9,United States,New York,36,Queens,081
+PHPA9,United States,New York,36,Rensselaer,083
+PHPA9,United States,New York,36,Richmond,085
+PHPA9,United States,New York,36,Saratoga,091
+PHPA9,United States,New York,36,Schenectady,093
+PHPA9,United States,New York,36,Suffolk,103
+PHPA9,United States,New York,36,Tompkins,109
+PHPA9,United States,New York,36,Ulster,111
+PHPA9,United States,New York,36,Warren,113
+PHPA9,United States,New York,36,Washington,115
+PHPA9,United States,New York,36,Westchester,119
+PHPA9,United States,North Carolina,37,,
+PHPA9,United States,North Carolina,37,Ashe,009
+PHPA9,United States,North Carolina,37,Avery,011
+PHPA9,United States,North Carolina,37,Beaufort,013
+PHPA9,United States,North Carolina,37,Buncombe,021
+PHPA9,United States,North Carolina,37,Caldwell,027
+PHPA9,United States,North Carolina,37,Chowan,041
+PHPA9,United States,North Carolina,37,Greene,079
+PHPA9,United States,North Carolina,37,Haywood,087
+PHPA9,United States,North Carolina,37,Iredell,097
+PHPA9,United States,North Carolina,37,Jackson,099
+PHPA9,United States,North Carolina,37,Macon,113
+PHPA9,United States,North Carolina,37,Madison,115
+PHPA9,United States,North Carolina,37,Mitchell,121
+PHPA9,United States,North Carolina,37,Orange,135
+PHPA9,United States,North Carolina,37,Randolph,151
+PHPA9,United States,North Carolina,37,Rockingham,157
+PHPA9,United States,North Carolina,37,Rutherford,161
+PHPA9,United States,North Carolina,37,Swain,173
+PHPA9,United States,North Carolina,37,Transylvania,175
+PHPA9,United States,North Carolina,37,Wilson,195
+PHPA9,United States,Ohio,39,,
+PHPA9,United States,Ohio,39,Adams,001
+PHPA9,United States,Ohio,39,Ashland,005
+PHPA9,United States,Ohio,39,Ashtabula,007
+PHPA9,United States,Ohio,39,Athens,009
+PHPA9,United States,Ohio,39,Auglaize,011
+PHPA9,United States,Ohio,39,Butler,017
+PHPA9,United States,Ohio,39,Carroll,019
+PHPA9,United States,Ohio,39,Clermont,025
+PHPA9,United States,Ohio,39,Clinton,027
+PHPA9,United States,Ohio,39,Columbiana,029
+PHPA9,United States,Ohio,39,Coshocton,031
+PHPA9,United States,Ohio,39,Crawford,033
+PHPA9,United States,Ohio,39,Cuyahoga,035
+PHPA9,United States,Ohio,39,Defiance,039
+PHPA9,United States,Ohio,39,Delaware,041
+PHPA9,United States,Ohio,39,Erie,043
+PHPA9,United States,Ohio,39,Fairfield,045
+PHPA9,United States,Ohio,39,Franklin,049
+PHPA9,United States,Ohio,39,Gallia,053
+PHPA9,United States,Ohio,39,Geauga,055
+PHPA9,United States,Ohio,39,Greene,057
+PHPA9,United States,Ohio,39,Hamilton,061
+PHPA9,United States,Ohio,39,Harrison,067
+PHPA9,United States,Ohio,39,Highland,071
+PHPA9,United States,Ohio,39,Hocking,073
+PHPA9,United States,Ohio,39,Holmes,075
+PHPA9,United States,Ohio,39,Huron,077
+PHPA9,United States,Ohio,39,Jackson,079
+PHPA9,United States,Ohio,39,Jefferson,081
+PHPA9,United States,Ohio,39,Knox,083
+PHPA9,United States,Ohio,39,Lake,085
+PHPA9,United States,Ohio,39,Lawrence,087
+PHPA9,United States,Ohio,39,Licking,089
+PHPA9,United States,Ohio,39,Lorain,093
+PHPA9,United States,Ohio,39,Lucas,095
+PHPA9,United States,Ohio,39,Mahoning,099
+PHPA9,United States,Ohio,39,Marion,101
+PHPA9,United States,Ohio,39,Medina,103
+PHPA9,United States,Ohio,39,Meigs,105
+PHPA9,United States,Ohio,39,Miami,109
+PHPA9,United States,Ohio,39,Monroe,111
+PHPA9,United States,Ohio,39,Morgan,115
+PHPA9,United States,Ohio,39,Noble,121
+PHPA9,United States,Ohio,39,Ottawa,123
+PHPA9,United States,Ohio,39,Perry,127
+PHPA9,United States,Ohio,39,Portage,133
+PHPA9,United States,Ohio,39,Putnam,137
+PHPA9,United States,Ohio,39,Richland,139
+PHPA9,United States,Ohio,39,Ross,141
+PHPA9,United States,Ohio,39,Scioto,145
+PHPA9,United States,Ohio,39,Shelby,149
+PHPA9,United States,Ohio,39,Stark,151
+PHPA9,United States,Ohio,39,Summit,153
+PHPA9,United States,Ohio,39,Trumbull,155
+PHPA9,United States,Ohio,39,Tuscarawas,157
+PHPA9,United States,Ohio,39,Union,159
+PHPA9,United States,Ohio,39,Vinton,163
+PHPA9,United States,Ohio,39,Warren,165
+PHPA9,United States,Ohio,39,Washington,167
+PHPA9,United States,Ohio,39,Wayne,169
+PHPA9,United States,Ohio,39,Wood,173
+PHPA9,United States,Oklahoma,40,,
+PHPA9,United States,Pennsylvania,42,,
+PHPA9,United States,Pennsylvania,42,Adams,001
+PHPA9,United States,Pennsylvania,42,Allegheny,003
+PHPA9,United States,Pennsylvania,42,Armstrong,005
+PHPA9,United States,Pennsylvania,42,Beaver,007
+PHPA9,United States,Pennsylvania,42,Bedford,009
+PHPA9,United States,Pennsylvania,42,Berks,011
+PHPA9,United States,Pennsylvania,42,Blair,013
+PHPA9,United States,Pennsylvania,42,Bucks,017
+PHPA9,United States,Pennsylvania,42,Butler,019
+PHPA9,United States,Pennsylvania,42,Cameron,023
+PHPA9,United States,Pennsylvania,42,Centre,027
+PHPA9,United States,Pennsylvania,42,Chester,029
+PHPA9,United States,Pennsylvania,42,Clearfield,033
+PHPA9,United States,Pennsylvania,42,Clinton,035
+PHPA9,United States,Pennsylvania,42,Columbia,037
+PHPA9,United States,Pennsylvania,42,Crawford,039
+PHPA9,United States,Pennsylvania,42,Dauphin,043
+PHPA9,United States,Pennsylvania,42,Delaware,045
+PHPA9,United States,Pennsylvania,42,Elk,047
+PHPA9,United States,Pennsylvania,42,Erie,049
+PHPA9,United States,Pennsylvania,42,Fayette,051
+PHPA9,United States,Pennsylvania,42,Franklin,055
+PHPA9,United States,Pennsylvania,42,Fulton,057
+PHPA9,United States,Pennsylvania,42,Greene,059
+PHPA9,United States,Pennsylvania,42,Huntingdon,061
+PHPA9,United States,Pennsylvania,42,Indiana,063
+PHPA9,United States,Pennsylvania,42,Jefferson,065
+PHPA9,United States,Pennsylvania,42,Lackawanna,069
+PHPA9,United States,Pennsylvania,42,Lancaster,071
+PHPA9,United States,Pennsylvania,42,Lawrence,073
+PHPA9,United States,Pennsylvania,42,Lebanon,075
+PHPA9,United States,Pennsylvania,42,Lehigh,077
+PHPA9,United States,Pennsylvania,42,Luzerne,079
+PHPA9,United States,Pennsylvania,42,Lycoming,081
+PHPA9,United States,Pennsylvania,42,McKean,083
+PHPA9,United States,Pennsylvania,42,Mercer,085
+PHPA9,United States,Pennsylvania,42,Mifflin,087
+PHPA9,United States,Pennsylvania,42,Monroe,089
+PHPA9,United States,Pennsylvania,42,Montgomery,091
+PHPA9,United States,Pennsylvania,42,Northampton,095
+PHPA9,United States,Pennsylvania,42,Perry,099
+PHPA9,United States,Pennsylvania,42,Philadelphia,101
+PHPA9,United States,Pennsylvania,42,Schuylkill,107
+PHPA9,United States,Pennsylvania,42,Snyder,109
+PHPA9,United States,Pennsylvania,42,Somerset,111
+PHPA9,United States,Pennsylvania,42,Sullivan,113
+PHPA9,United States,Pennsylvania,42,Susquehanna,115
+PHPA9,United States,Pennsylvania,42,Venango,121
+PHPA9,United States,Pennsylvania,42,Warren,123
+PHPA9,United States,Pennsylvania,42,Washington,125
+PHPA9,United States,Pennsylvania,42,Wayne,127
+PHPA9,United States,Pennsylvania,42,Westmoreland,129
+PHPA9,United States,Pennsylvania,42,York,133
+PHPA9,United States,Rhode Island,44,,
+PHPA9,United States,Rhode Island,44,Newport,005
+PHPA9,United States,Rhode Island,44,Providence,007
+PHPA9,United States,Rhode Island,44,Washington,009
+PHPA9,United States,South Carolina,45,,
+PHPA9,United States,Tennessee,47,,
+PHPA9,United States,Tennessee,47,Anderson,001
+PHPA9,United States,Tennessee,47,Bedford,003
+PHPA9,United States,Tennessee,47,Benton,005
+PHPA9,United States,Tennessee,47,Bledsoe,007
+PHPA9,United States,Tennessee,47,Blount,009
+PHPA9,United States,Tennessee,47,Cannon,015
+PHPA9,United States,Tennessee,47,Carter,019
+PHPA9,United States,Tennessee,47,Cheatham,021
+PHPA9,United States,Tennessee,47,Cocke,029
+PHPA9,United States,Tennessee,47,Cumberland,035
+PHPA9,United States,Tennessee,47,Davidson,037
+PHPA9,United States,Tennessee,47,Decatur,039
+PHPA9,United States,Tennessee,47,DeKalb,041
+PHPA9,United States,Tennessee,47,Dickson,043
+PHPA9,United States,Tennessee,47,Dyer,045
+PHPA9,United States,Tennessee,47,Franklin,051
+PHPA9,United States,Tennessee,47,Gibson,053
+PHPA9,United States,Tennessee,47,Grainger,057
+PHPA9,United States,Tennessee,47,Hardin,071
+PHPA9,United States,Tennessee,47,Hawkins,073
+PHPA9,United States,Tennessee,47,Haywood,075
+PHPA9,United States,Tennessee,47,Houston,083
+PHPA9,United States,Tennessee,47,Jackson,087
+PHPA9,United States,Tennessee,47,Lake,095
+PHPA9,United States,Tennessee,47,Lauderdale,097
+PHPA9,United States,Tennessee,47,Madison,113
+PHPA9,United States,Tennessee,47,McNairy,109
+PHPA9,United States,Tennessee,47,Monroe,123
+PHPA9,United States,Tennessee,47,Montgomery,125
+PHPA9,United States,Tennessee,47,Morgan,129
+PHPA9,United States,Tennessee,47,Obion,131
+PHPA9,United States,Tennessee,47,Overton,133
+PHPA9,United States,Tennessee,47,Polk,139
+PHPA9,United States,Tennessee,47,Putnam,141
+PHPA9,United States,Tennessee,47,Roane,145
+PHPA9,United States,Tennessee,47,Scott,151
+PHPA9,United States,Tennessee,47,Sevier,155
+PHPA9,United States,Tennessee,47,Shelby,157
+PHPA9,United States,Tennessee,47,Smith,159
+PHPA9,United States,Tennessee,47,Stewart,161
+PHPA9,United States,Tennessee,47,Sullivan,163
+PHPA9,United States,Tennessee,47,Sumner,165
+PHPA9,United States,Tennessee,47,Tipton,167
+PHPA9,United States,Tennessee,47,Warren,177
+PHPA9,United States,Tennessee,47,Wayne,181
+PHPA9,United States,Tennessee,47,White,185
+PHPA9,United States,Tennessee,47,Williamson,187
+PHPA9,United States,Utah,49,,
+PHPA9,United States,Vermont,50,,
+PHPA9,United States,Vermont,50,Franklin,011
+PHPA9,United States,Vermont,50,Orange,017
+PHPA9,United States,Vermont,50,Windham,025
+PHPA9,United States,Vermont,50,Windsor,027
+PHPA9,United States,Virginia,51,,
+PHPA9,United States,Virginia,51,Accomack,001
+PHPA9,United States,Virginia,51,Albemarle,003
+PHPA9,United States,Virginia,51,Amherst,009
+PHPA9,United States,Virginia,51,Appomattox,011
+PHPA9,United States,Virginia,51,Arlington,013
+PHPA9,United States,Virginia,51,Bath,017
+PHPA9,United States,Virginia,51,Bedford,019
+PHPA9,United States,Virginia,51,Botetourt,023
+PHPA9,United States,Virginia,51,Campbell,031
+PHPA9,United States,Virginia,51,Caroline,033
+PHPA9,United States,Virginia,51,Carroll,035
+PHPA9,United States,Virginia,51,Chesterfield,041
+PHPA9,United States,Virginia,51,Clarke,043
+PHPA9,United States,Virginia,51,Craig,045
+PHPA9,United States,Virginia,51,Culpeper,047
+PHPA9,United States,Virginia,51,Dickenson,051
+PHPA9,United States,Virginia,51,Essex,057
+PHPA9,United States,Virginia,51,Fairfax,059
+PHPA9,United States,Virginia,51,Fauquier,061
+PHPA9,United States,Virginia,51,Fluvanna,065
+PHPA9,United States,Virginia,51,Frederick,069
+PHPA9,United States,Virginia,51,Giles,071
+PHPA9,United States,Virginia,51,Gloucester,073
+PHPA9,United States,Virginia,51,Grayson,077
+PHPA9,United States,Virginia,51,Greene,079
+PHPA9,United States,Virginia,51,Hanover,085
+PHPA9,United States,Virginia,51,Henrico,087
+PHPA9,United States,Virginia,51,Henry,089
+PHPA9,United States,Virginia,51,Highland,091
+PHPA9,United States,Virginia,51,Isle of Wight,093
+PHPA9,United States,Virginia,51,James City,095
+PHPA9,United States,Virginia,51,King and Queen,097
+PHPA9,United States,Virginia,51,King George,099
+PHPA9,United States,Virginia,51,King William,101
+PHPA9,United States,Virginia,51,Lee,105
+PHPA9,United States,Virginia,51,Loudoun,107
+PHPA9,United States,Virginia,51,Louisa,109
+PHPA9,United States,Virginia,51,Madison,113
+PHPA9,United States,Virginia,51,Montgomery,121
+PHPA9,United States,Virginia,51,Nelson,125
+PHPA9,United States,Virginia,51,New Kent,127
+PHPA9,United States,Virginia,51,Nottoway,135
+PHPA9,United States,Virginia,51,Orange,137
+PHPA9,United States,Virginia,51,Page,139
+PHPA9,United States,Virginia,51,Patrick,141
+PHPA9,United States,Virginia,51,Pittsylvania,143
+PHPA9,United States,Virginia,51,Prince William,153
+PHPA9,United States,Virginia,51,Rappahannock,157
+PHPA9,United States,Virginia,51,Roanoke,161
+PHPA9,United States,Virginia,51,Rockingham,165
+PHPA9,United States,Virginia,51,Russell,167
+PHPA9,United States,Virginia,51,Scott,169
+PHPA9,United States,Virginia,51,Shenandoah,171
+PHPA9,United States,Virginia,51,Smyth,173
+PHPA9,United States,Virginia,51,Spotsylvania,177
+PHPA9,United States,Virginia,51,Stafford,179
+PHPA9,United States,Virginia,51,Sussex,183
+PHPA9,United States,Virginia,51,Tazewell,185
+PHPA9,United States,Virginia,51,Virginia Beach ,810
+PHPA9,United States,Virginia,51,Warren,187
+PHPA9,United States,Virginia,51,Wise,195
+PHPA9,United States,Washington,53,,
+PHPA9,United States,West Virginia,54,,
+PHPA9,United States,West Virginia,54,Barbour,001
+PHPA9,United States,West Virginia,54,Berkeley,003
+PHPA9,United States,West Virginia,54,Boone,005
+PHPA9,United States,West Virginia,54,Braxton,007
+PHPA9,United States,West Virginia,54,Brooke,009
+PHPA9,United States,West Virginia,54,Clay,015
+PHPA9,United States,West Virginia,54,Fayette,019
+PHPA9,United States,West Virginia,54,Gilmer,021
+PHPA9,United States,West Virginia,54,Grant,023
+PHPA9,United States,West Virginia,54,Greenbrier,025
+PHPA9,United States,West Virginia,54,Hampshire,027
+PHPA9,United States,West Virginia,54,Hancock,029
+PHPA9,United States,West Virginia,54,Harrison,033
+PHPA9,United States,West Virginia,54,Marion,049
+PHPA9,United States,West Virginia,54,Marshall,051
+PHPA9,United States,West Virginia,54,Mineral,057
+PHPA9,United States,West Virginia,54,Monongalia,061
+PHPA9,United States,West Virginia,54,Morgan,065
+PHPA9,United States,West Virginia,54,Nicholas,067
+PHPA9,United States,West Virginia,54,Pendleton,071
+PHPA9,United States,West Virginia,54,Pocahontas,075
+PHPA9,United States,West Virginia,54,Preston,077
+PHPA9,United States,West Virginia,54,Putnam,079
+PHPA9,United States,West Virginia,54,Raleigh,081
+PHPA9,United States,West Virginia,54,Randolph,083
+PHPA9,United States,West Virginia,54,Ritchie,085
+PHPA9,United States,West Virginia,54,Summers,089
+PHPA9,United States,West Virginia,54,Taylor,091
+PHPA9,United States,West Virginia,54,Tucker,093
+PHPA9,United States,West Virginia,54,Upshur,097
+PHPA9,United States,West Virginia,54,Wayne,099
+PHPA9,United States,West Virginia,54,Wetzel,103
+PHPA9,United States,West Virginia,54,Wirt,105
+PHPA9,United States,West Virginia,54,Wyoming,109
+PHPA9,United States,Wisconsin,55,,
+PHPA9,United States,Wisconsin,55,Chippewa,017
+PHPA9,United States,Wisconsin,55,Columbia,021
+PHPA9,United States,Wisconsin,55,Crawford,023
+PHPA9,United States,Wisconsin,55,Dane,025
+PHPA9,United States,Wisconsin,55,Door,029
+PHPA9,United States,Wisconsin,55,Douglas,031
+PHPA9,United States,Wisconsin,55,Grant,043
+PHPA9,United States,Wisconsin,55,Green,045
+PHPA9,United States,Wisconsin,55,Green Lake,047
+PHPA9,United States,Wisconsin,55,Iowa,049
+PHPA9,United States,Wisconsin,55,Jefferson,055
+PHPA9,United States,Wisconsin,55,Kenosha,059
+PHPA9,United States,Wisconsin,55,La Crosse,063
+PHPA9,United States,Wisconsin,55,Marathon,073
+PHPA9,United States,Wisconsin,55,Milwaukee,079
+PHPA9,United States,Wisconsin,55,Monroe,081
+PHPA9,United States,Wisconsin,55,Pierce,093
+PHPA9,United States,Wisconsin,55,Portage,097
+PHPA9,United States,Wisconsin,55,Racine,101
+PHPA9,United States,Wisconsin,55,Richland,103
+PHPA9,United States,Wisconsin,55,Rock,105
+PHPA9,United States,Wisconsin,55,Sauk,111
+PHPA9,United States,Wisconsin,55,Vernon,123
+PHPA9,United States,Wisconsin,55,Vilas,125
+PHPA9,United States,Wisconsin,55,Walworth,127
+PHPA9,United States,Wisconsin,55,Waukesha,133
+PHPA9,United States,Wisconsin,55,Waupaca,135
+PHPA9,Canada,Newfoundland,NF,,

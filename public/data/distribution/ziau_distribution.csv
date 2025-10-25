@@ -1,0 +1,1065 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ZIAU,United States,Alabama,01,,
+ZIAU,United States,Alabama,01,Baldwin,003
+ZIAU,United States,Alabama,01,Bibb,007
+ZIAU,United States,Alabama,01,Calhoun,015
+ZIAU,United States,Alabama,01,Cleburne,029
+ZIAU,United States,Alabama,01,Colbert,033
+ZIAU,United States,Alabama,01,Dallas,047
+ZIAU,United States,Alabama,01,Greene,063
+ZIAU,United States,Alabama,01,Jefferson,073
+ZIAU,United States,Alabama,01,Lauderdale,077
+ZIAU,United States,Alabama,01,Lawrence,079
+ZIAU,United States,Alabama,01,Lee,081
+ZIAU,United States,Alabama,01,Lowndes,085
+ZIAU,United States,Alabama,01,Macon,087
+ZIAU,United States,Alabama,01,Marion,093
+ZIAU,United States,Alabama,01,Montgomery,101
+ZIAU,United States,Alabama,01,Morgan,103
+ZIAU,United States,Alabama,01,Perry,105
+ZIAU,United States,Alabama,01,Shelby,117
+ZIAU,United States,Alabama,01,Talladega,121
+ZIAU,United States,Alabama,01,Tuscaloosa,125
+ZIAU,Canada,Manitoba,03,,
+ZIAU,Canada,New Brunswick,04,,
+ZIAU,United States,Arkansas,05,,
+ZIAU,United States,Arkansas,05,Ashley,003
+ZIAU,United States,Arkansas,05,Baxter,005
+ZIAU,United States,Arkansas,05,Benton,007
+ZIAU,United States,Arkansas,05,Boone,009
+ZIAU,United States,Arkansas,05,Carroll,015
+ZIAU,United States,Arkansas,05,Clark,019
+ZIAU,United States,Arkansas,05,Cleburne,023
+ZIAU,United States,Arkansas,05,Conway,029
+ZIAU,United States,Arkansas,05,Crawford,033
+ZIAU,United States,Arkansas,05,Drew,043
+ZIAU,United States,Arkansas,05,Faulkner,045
+ZIAU,United States,Arkansas,05,Franklin,047
+ZIAU,United States,Arkansas,05,Fulton,049
+ZIAU,United States,Arkansas,05,Garland,051
+ZIAU,United States,Arkansas,05,Hempstead,057
+ZIAU,United States,Arkansas,05,Hot Spring,059
+ZIAU,United States,Arkansas,05,Howard,061
+ZIAU,United States,Arkansas,05,Independence,063
+ZIAU,United States,Arkansas,05,Izard,065
+ZIAU,United States,Arkansas,05,Jefferson,069
+ZIAU,United States,Arkansas,05,Lawrence,075
+ZIAU,United States,Arkansas,05,Lincoln,079
+ZIAU,United States,Arkansas,05,Logan,083
+ZIAU,United States,Arkansas,05,Marion,089
+ZIAU,United States,Arkansas,05,Montgomery,097
+ZIAU,United States,Arkansas,05,Nevada,099
+ZIAU,United States,Arkansas,05,Newton,101
+ZIAU,United States,Arkansas,05,Ouachita,103
+ZIAU,United States,Arkansas,05,Perry,105
+ZIAU,United States,Arkansas,05,Pike,109
+ZIAU,United States,Arkansas,05,Polk,113
+ZIAU,United States,Arkansas,05,Pope,115
+ZIAU,United States,Arkansas,05,Prairie,117
+ZIAU,United States,Arkansas,05,Pulaski,119
+ZIAU,United States,Arkansas,05,Saline,125
+ZIAU,United States,Arkansas,05,Scott,127
+ZIAU,United States,Arkansas,05,Searcy,129
+ZIAU,United States,Arkansas,05,Sharp,135
+ZIAU,United States,Arkansas,05,St. Francis,123
+ZIAU,United States,Arkansas,05,Stone,137
+ZIAU,United States,Arkansas,05,Van Buren,141
+ZIAU,United States,Arkansas,05,Washington,143
+ZIAU,United States,Arkansas,05,Yell,149
+ZIAU,Canada,Nova Scotia,07,,
+ZIAU,Canada,Ontario,08,,
+ZIAU,United States,Connecticut,09,,
+ZIAU,United States,Connecticut,09,Fairfield,001
+ZIAU,United States,Connecticut,09,Hartford,003
+ZIAU,United States,Connecticut,09,Litchfield,005
+ZIAU,United States,Connecticut,09,Middlesex,007
+ZIAU,United States,Connecticut,09,New Haven,009
+ZIAU,United States,Connecticut,09,New London,011
+ZIAU,United States,Connecticut,09,Tolland,013
+ZIAU,United States,Connecticut,09,Windham,015
+ZIAU,Canada,Quebec,10,,
+ZIAU,United States,Delaware,10,,
+ZIAU,United States,Delaware,10,New Castle,003
+ZIAU,United States,District of Columbia,11,,
+ZIAU,United States,District of Columbia,11,District of Columbia,001
+ZIAU,United States,Florida,12,,
+ZIAU,United States,Florida,12,Alachua,001
+ZIAU,United States,Florida,12,Gadsden,039
+ZIAU,United States,Florida,12,Jackson,063
+ZIAU,United States,Florida,12,Leon,073
+ZIAU,United States,Florida,12,Levy,075
+ZIAU,United States,Florida,12,Liberty,077
+ZIAU,United States,Florida,12,Walton,131
+ZIAU,United States,Florida,12,Washington,133
+ZIAU,United States,Georgia,13,,
+ZIAU,United States,Georgia,13,Catoosa,047
+ZIAU,United States,Georgia,13,Clarke,059
+ZIAU,United States,Georgia,13,Clay,061
+ZIAU,United States,Georgia,13,Cobb,067
+ZIAU,United States,Georgia,13,Elbert,105
+ZIAU,United States,Georgia,13,Floyd,115
+ZIAU,United States,Georgia,13,Forsyth,117
+ZIAU,United States,Georgia,13,Fulton,121
+ZIAU,United States,Georgia,13,Harris,145
+ZIAU,United States,Georgia,13,Lincoln,181
+ZIAU,United States,Georgia,13,Oconee,219
+ZIAU,United States,Georgia,13,Randolph,243
+ZIAU,United States,Georgia,13,Union,291
+ZIAU,United States,Illinois,17,,
+ZIAU,United States,Illinois,17,Adams,001
+ZIAU,United States,Illinois,17,Boone,007
+ZIAU,United States,Illinois,17,Brown,009
+ZIAU,United States,Illinois,17,Bureau,011
+ZIAU,United States,Illinois,17,Carroll,015
+ZIAU,United States,Illinois,17,Cass,017
+ZIAU,United States,Illinois,17,Champaign,019
+ZIAU,United States,Illinois,17,Christian,021
+ZIAU,United States,Illinois,17,Clark,023
+ZIAU,United States,Illinois,17,Clay,025
+ZIAU,United States,Illinois,17,Clinton,027
+ZIAU,United States,Illinois,17,Coles,029
+ZIAU,United States,Illinois,17,Cook,031
+ZIAU,United States,Illinois,17,Crawford,033
+ZIAU,United States,Illinois,17,Cumberland,035
+ZIAU,United States,Illinois,17,De Witt,039
+ZIAU,United States,Illinois,17,DeKalb,037
+ZIAU,United States,Illinois,17,Douglas,041
+ZIAU,United States,Illinois,17,DuPage,043
+ZIAU,United States,Illinois,17,Edgar,045
+ZIAU,United States,Illinois,17,Edwards,047
+ZIAU,United States,Illinois,17,Effingham,049
+ZIAU,United States,Illinois,17,Fayette,051
+ZIAU,United States,Illinois,17,Ford,053
+ZIAU,United States,Illinois,17,Fulton,057
+ZIAU,United States,Illinois,17,Gallatin,059
+ZIAU,United States,Illinois,17,Greene,061
+ZIAU,United States,Illinois,17,Grundy,063
+ZIAU,United States,Illinois,17,Hamilton,065
+ZIAU,United States,Illinois,17,Hancock,067
+ZIAU,United States,Illinois,17,Hardin,069
+ZIAU,United States,Illinois,17,Henry,073
+ZIAU,United States,Illinois,17,Iroquois,075
+ZIAU,United States,Illinois,17,Jackson,077
+ZIAU,United States,Illinois,17,Jasper,079
+ZIAU,United States,Illinois,17,Jersey,083
+ZIAU,United States,Illinois,17,Jo Daviess,085
+ZIAU,United States,Illinois,17,Johnson,087
+ZIAU,United States,Illinois,17,Kane,089
+ZIAU,United States,Illinois,17,Kankakee,091
+ZIAU,United States,Illinois,17,Kendall,093
+ZIAU,United States,Illinois,17,Knox,095
+ZIAU,United States,Illinois,17,Lake,097
+ZIAU,United States,Illinois,17,LaSalle,099
+ZIAU,United States,Illinois,17,Lee,103
+ZIAU,United States,Illinois,17,Livingston,105
+ZIAU,United States,Illinois,17,Logan,107
+ZIAU,United States,Illinois,17,Macon,115
+ZIAU,United States,Illinois,17,Macoupin,117
+ZIAU,United States,Illinois,17,Madison,119
+ZIAU,United States,Illinois,17,Marion,121
+ZIAU,United States,Illinois,17,Mason,125
+ZIAU,United States,Illinois,17,McDonough,109
+ZIAU,United States,Illinois,17,McHenry,111
+ZIAU,United States,Illinois,17,McLean,113
+ZIAU,United States,Illinois,17,Menard,129
+ZIAU,United States,Illinois,17,Mercer,131
+ZIAU,United States,Illinois,17,Monroe,133
+ZIAU,United States,Illinois,17,Morgan,137
+ZIAU,United States,Illinois,17,Moultrie,139
+ZIAU,United States,Illinois,17,Ogle,141
+ZIAU,United States,Illinois,17,Peoria,143
+ZIAU,United States,Illinois,17,Perry,145
+ZIAU,United States,Illinois,17,Piatt,147
+ZIAU,United States,Illinois,17,Pope,151
+ZIAU,United States,Illinois,17,Putnam,155
+ZIAU,United States,Illinois,17,Richland,159
+ZIAU,United States,Illinois,17,Rock Island,161
+ZIAU,United States,Illinois,17,Saline,165
+ZIAU,United States,Illinois,17,Sangamon,167
+ZIAU,United States,Illinois,17,Scott,171
+ZIAU,United States,Illinois,17,Shelby,173
+ZIAU,United States,Illinois,17,St. Clair,163
+ZIAU,United States,Illinois,17,Stark,175
+ZIAU,United States,Illinois,17,Stephenson,177
+ZIAU,United States,Illinois,17,Tazewell,179
+ZIAU,United States,Illinois,17,Vermilion,183
+ZIAU,United States,Illinois,17,Wabash,185
+ZIAU,United States,Illinois,17,Wayne,191
+ZIAU,United States,Illinois,17,Whiteside,195
+ZIAU,United States,Illinois,17,Will,197
+ZIAU,United States,Illinois,17,Winnebago,201
+ZIAU,United States,Indiana,18,,
+ZIAU,United States,Indiana,18,Allen,003
+ZIAU,United States,Indiana,18,Benton,007
+ZIAU,United States,Indiana,18,Blackford,009
+ZIAU,United States,Indiana,18,Boone,011
+ZIAU,United States,Indiana,18,Carroll,015
+ZIAU,United States,Indiana,18,Cass,017
+ZIAU,United States,Indiana,18,Clark,019
+ZIAU,United States,Indiana,18,Crawford,025
+ZIAU,United States,Indiana,18,Daviess,027
+ZIAU,United States,Indiana,18,Dearborn,029
+ZIAU,United States,Indiana,18,DeKalb,033
+ZIAU,United States,Indiana,18,Delaware,035
+ZIAU,United States,Indiana,18,Elkhart,039
+ZIAU,United States,Indiana,18,Fountain,045
+ZIAU,United States,Indiana,18,Franklin,047
+ZIAU,United States,Indiana,18,Fulton,049
+ZIAU,United States,Indiana,18,Greene,055
+ZIAU,United States,Indiana,18,Hamilton,057
+ZIAU,United States,Indiana,18,Henry,065
+ZIAU,United States,Indiana,18,Howard,067
+ZIAU,United States,Indiana,18,Huntington,069
+ZIAU,United States,Indiana,18,Jasper,073
+ZIAU,United States,Indiana,18,Jay,075
+ZIAU,United States,Indiana,18,Jefferson,077
+ZIAU,United States,Indiana,18,Jennings,079
+ZIAU,United States,Indiana,18,Knox,083
+ZIAU,United States,Indiana,18,Kosciusko,085
+ZIAU,United States,Indiana,18,Lagrange,087
+ZIAU,United States,Indiana,18,Lake,089
+ZIAU,United States,Indiana,18,LaPorte,091
+ZIAU,United States,Indiana,18,Madison,095
+ZIAU,United States,Indiana,18,Marion,097
+ZIAU,United States,Indiana,18,Marshall,099
+ZIAU,United States,Indiana,18,Miami,103
+ZIAU,United States,Indiana,18,Montgomery,107
+ZIAU,United States,Indiana,18,Morgan,109
+ZIAU,United States,Indiana,18,Newton,111
+ZIAU,United States,Indiana,18,Noble,113
+ZIAU,United States,Indiana,18,Owen,119
+ZIAU,United States,Indiana,18,Parke,121
+ZIAU,United States,Indiana,18,Porter,127
+ZIAU,United States,Indiana,18,Posey,129
+ZIAU,United States,Indiana,18,Pulaski,131
+ZIAU,United States,Indiana,18,Putnam,133
+ZIAU,United States,Indiana,18,Randolph,135
+ZIAU,United States,Indiana,18,Rush,139
+ZIAU,United States,Indiana,18,Shelby,145
+ZIAU,United States,Indiana,18,St. Joseph,141
+ZIAU,United States,Indiana,18,Starke,149
+ZIAU,United States,Indiana,18,Steuben,151
+ZIAU,United States,Indiana,18,Tippecanoe,157
+ZIAU,United States,Indiana,18,Tipton,159
+ZIAU,United States,Indiana,18,Wayne,177
+ZIAU,United States,Indiana,18,Wells,179
+ZIAU,United States,Indiana,18,White,181
+ZIAU,United States,Iowa,19,,
+ZIAU,United States,Iowa,19,Allamakee,005
+ZIAU,United States,Iowa,19,Audubon,009
+ZIAU,United States,Iowa,19,Boone,015
+ZIAU,United States,Iowa,19,Buena Vista,021
+ZIAU,United States,Iowa,19,Calhoun,025
+ZIAU,United States,Iowa,19,Cerro Gordo,033
+ZIAU,United States,Iowa,19,Cherokee,035
+ZIAU,United States,Iowa,19,Clay,041
+ZIAU,United States,Iowa,19,Crawford,047
+ZIAU,United States,Iowa,19,Dickinson,059
+ZIAU,United States,Iowa,19,Emmet,063
+ZIAU,United States,Iowa,19,Guthrie,077
+ZIAU,United States,Iowa,19,Hancock,081
+ZIAU,United States,Iowa,19,Harrison,085
+ZIAU,United States,Iowa,19,Howard,089
+ZIAU,United States,Iowa,19,Humboldt,091
+ZIAU,United States,Iowa,19,Ida,093
+ZIAU,United States,Iowa,19,Jasper,099
+ZIAU,United States,Iowa,19,Kossuth,109
+ZIAU,United States,Iowa,19,Lyon,119
+ZIAU,United States,Iowa,19,Madison,121
+ZIAU,United States,Iowa,19,Marshall,127
+ZIAU,United States,Iowa,19,Mitchell,131
+ZIAU,United States,Iowa,19,Monona,133
+ZIAU,United States,Iowa,19,O'Brien,141
+ZIAU,United States,Iowa,19,Osceola,143
+ZIAU,United States,Iowa,19,Palo Alto,147
+ZIAU,United States,Iowa,19,Pocahontas,151
+ZIAU,United States,Iowa,19,Polk,153
+ZIAU,United States,Iowa,19,Pottawattamie,155
+ZIAU,United States,Iowa,19,Ringgold,159
+ZIAU,United States,Iowa,19,Sac,161
+ZIAU,United States,Iowa,19,Shelby,165
+ZIAU,United States,Iowa,19,Sioux,167
+ZIAU,United States,Iowa,19,Story,169
+ZIAU,United States,Iowa,19,Taylor,173
+ZIAU,United States,Iowa,19,Webster,187
+ZIAU,United States,Iowa,19,Winnebago,189
+ZIAU,United States,Iowa,19,Winneshiek,191
+ZIAU,United States,Iowa,19,Worth,195
+ZIAU,United States,Iowa,19,Wright,197
+ZIAU,United States,Kansas,20,,
+ZIAU,United States,Kansas,20,Allen,001
+ZIAU,United States,Kansas,20,Anderson,003
+ZIAU,United States,Kansas,20,Atchison,005
+ZIAU,United States,Kansas,20,Bourbon,011
+ZIAU,United States,Kansas,20,Brown,013
+ZIAU,United States,Kansas,20,Chase,017
+ZIAU,United States,Kansas,20,Cherokee,021
+ZIAU,United States,Kansas,20,Clay,027
+ZIAU,United States,Kansas,20,Coffey,031
+ZIAU,United States,Kansas,20,Cowley,035
+ZIAU,United States,Kansas,20,Crawford,037
+ZIAU,United States,Kansas,20,Douglas,045
+ZIAU,United States,Kansas,20,Elk,049
+ZIAU,United States,Kansas,20,Franklin,059
+ZIAU,United States,Kansas,20,Geary,061
+ZIAU,United States,Kansas,20,Greenwood,073
+ZIAU,United States,Kansas,20,Jackson,085
+ZIAU,United States,Kansas,20,Jefferson,087
+ZIAU,United States,Kansas,20,Johnson,091
+ZIAU,United States,Kansas,20,Labette,099
+ZIAU,United States,Kansas,20,Leavenworth,103
+ZIAU,United States,Kansas,20,Linn,107
+ZIAU,United States,Kansas,20,Lyon,111
+ZIAU,United States,Kansas,20,Marshall,117
+ZIAU,United States,Kansas,20,Miami,121
+ZIAU,United States,Kansas,20,Montgomery,125
+ZIAU,United States,Kansas,20,Morris,127
+ZIAU,United States,Kansas,20,Neosho,133
+ZIAU,United States,Kansas,20,Osage,139
+ZIAU,United States,Kansas,20,Ottawa,143
+ZIAU,United States,Kansas,20,Pottawatomie,149
+ZIAU,United States,Kansas,20,Riley,161
+ZIAU,United States,Kansas,20,Shawnee,177
+ZIAU,United States,Kansas,20,Wabaunsee,197
+ZIAU,United States,Kansas,20,Wilson,205
+ZIAU,United States,Kansas,20,Woodson,207
+ZIAU,United States,Kansas,20,Wyandotte,209
+ZIAU,United States,Kentucky,21,,
+ZIAU,United States,Kentucky,21,Allen,003
+ZIAU,United States,Kentucky,21,Boone,015
+ZIAU,United States,Kentucky,21,Breckinridge,027
+ZIAU,United States,Kentucky,21,Bullitt,029
+ZIAU,United States,Kentucky,21,Campbell,037
+ZIAU,United States,Kentucky,21,Carter,043
+ZIAU,United States,Kentucky,21,Christian,047
+ZIAU,United States,Kentucky,21,Clark,049
+ZIAU,United States,Kentucky,21,Fayette,067
+ZIAU,United States,Kentucky,21,Fleming,069
+ZIAU,United States,Kentucky,21,Franklin,073
+ZIAU,United States,Kentucky,21,Grant,081
+ZIAU,United States,Kentucky,21,Green,087
+ZIAU,United States,Kentucky,21,Hardin,093
+ZIAU,United States,Kentucky,21,Henry,103
+ZIAU,United States,Kentucky,21,Jefferson,111
+ZIAU,United States,Kentucky,21,McCreary,147
+ZIAU,United States,Kentucky,21,Meade,163
+ZIAU,United States,Kentucky,21,Nicholas,181
+ZIAU,United States,Kentucky,21,Oldham,185
+ZIAU,United States,Kentucky,21,Pendleton,191
+ZIAU,United States,Kentucky,21,Pulaski,199
+ZIAU,United States,Kentucky,21,Robertson,201
+ZIAU,United States,Kentucky,21,Rockcastle,203
+ZIAU,United States,Kentucky,21,Rowan,205
+ZIAU,United States,Kentucky,21,Warren,227
+ZIAU,United States,Kentucky,21,Wayne,231
+ZIAU,United States,Louisiana,22,,
+ZIAU,United States,Louisiana,22,Allen,003
+ZIAU,United States,Louisiana,22,Beauregard,011
+ZIAU,United States,Louisiana,22,Bienville,013
+ZIAU,United States,Louisiana,22,Bossier,015
+ZIAU,United States,Louisiana,22,Caddo,017
+ZIAU,United States,Louisiana,22,Calcasieu,019
+ZIAU,United States,Louisiana,22,De Soto,031
+ZIAU,United States,Louisiana,22,Jackson,049
+ZIAU,United States,Louisiana,22,LaSalle,059
+ZIAU,United States,Louisiana,22,Lincoln,061
+ZIAU,United States,Louisiana,22,Natchitoches,069
+ZIAU,United States,Louisiana,22,Sabine,085
+ZIAU,United States,Louisiana,22,St. Helena,091
+ZIAU,United States,Louisiana,22,St. Tammany,103
+ZIAU,United States,Louisiana,22,Vernon,115
+ZIAU,United States,Louisiana,22,Washington,117
+ZIAU,United States,Louisiana,22,Winn,127
+ZIAU,United States,Maine,23,,
+ZIAU,United States,Maine,23,Aroostook,003
+ZIAU,United States,Maine,23,Cumberland,005
+ZIAU,United States,Maine,23,Hancock,009
+ZIAU,United States,Maine,23,Kennebec,011
+ZIAU,United States,Maine,23,Oxford,017
+ZIAU,United States,Maine,23,Penobscot,019
+ZIAU,United States,Maine,23,Piscataquis,021
+ZIAU,United States,Maine,23,Somerset,025
+ZIAU,United States,Maine,23,Waldo,027
+ZIAU,United States,Maine,23,York,031
+ZIAU,United States,Maryland,24,,
+ZIAU,United States,Massachusetts,25,,
+ZIAU,United States,Massachusetts,25,Berkshire,003
+ZIAU,United States,Massachusetts,25,Bristol,005
+ZIAU,United States,Massachusetts,25,Essex,009
+ZIAU,United States,Massachusetts,25,Franklin,011
+ZIAU,United States,Massachusetts,25,Hampden,013
+ZIAU,United States,Massachusetts,25,Hampshire,015
+ZIAU,United States,Massachusetts,25,Middlesex,017
+ZIAU,United States,Massachusetts,25,Nantucket,019
+ZIAU,United States,Massachusetts,25,Norfolk,021
+ZIAU,United States,Massachusetts,25,Plymouth,023
+ZIAU,United States,Massachusetts,25,Suffolk,025
+ZIAU,United States,Massachusetts,25,Worcester,027
+ZIAU,United States,Michigan,26,,
+ZIAU,United States,Michigan,26,Bay,017
+ZIAU,United States,Michigan,26,Benzie,019
+ZIAU,United States,Michigan,26,Berrien,021
+ZIAU,United States,Michigan,26,Calhoun,025
+ZIAU,United States,Michigan,26,Cass,027
+ZIAU,United States,Michigan,26,Clinton,037
+ZIAU,United States,Michigan,26,Delta,041
+ZIAU,United States,Michigan,26,Eaton,045
+ZIAU,United States,Michigan,26,Genesee,049
+ZIAU,United States,Michigan,26,Gratiot,057
+ZIAU,United States,Michigan,26,Hillsdale,059
+ZIAU,United States,Michigan,26,Ingham,065
+ZIAU,United States,Michigan,26,Ionia,067
+ZIAU,United States,Michigan,26,Jackson,075
+ZIAU,United States,Michigan,26,Kalamazoo,077
+ZIAU,United States,Michigan,26,Kent,081
+ZIAU,United States,Michigan,26,Keweenaw,083
+ZIAU,United States,Michigan,26,Lapeer,087
+ZIAU,United States,Michigan,26,Lenawee,091
+ZIAU,United States,Michigan,26,Livingston,093
+ZIAU,United States,Michigan,26,Macomb,099
+ZIAU,United States,Michigan,26,Marquette,103
+ZIAU,United States,Michigan,26,Midland,111
+ZIAU,United States,Michigan,26,Monroe,115
+ZIAU,United States,Michigan,26,Montcalm,117
+ZIAU,United States,Michigan,26,Muskegon,121
+ZIAU,United States,Michigan,26,Newaygo,123
+ZIAU,United States,Michigan,26,Oakland,125
+ZIAU,United States,Michigan,26,Saginaw,145
+ZIAU,United States,Michigan,26,St. Clair,147
+ZIAU,United States,Michigan,26,St. Joseph,149
+ZIAU,United States,Michigan,26,Van Buren,159
+ZIAU,United States,Michigan,26,Washtenaw,161
+ZIAU,United States,Michigan,26,Wayne,163
+ZIAU,United States,Minnesota,27,,
+ZIAU,United States,Minnesota,27,Anoka,003
+ZIAU,United States,Minnesota,27,Becker,005
+ZIAU,United States,Minnesota,27,Benton,009
+ZIAU,United States,Minnesota,27,Big Stone,011
+ZIAU,United States,Minnesota,27,Blue Earth,013
+ZIAU,United States,Minnesota,27,Brown,015
+ZIAU,United States,Minnesota,27,Carlton,017
+ZIAU,United States,Minnesota,27,Carver,019
+ZIAU,United States,Minnesota,27,Cass,021
+ZIAU,United States,Minnesota,27,Chippewa,023
+ZIAU,United States,Minnesota,27,Chisago,025
+ZIAU,United States,Minnesota,27,Clay,027
+ZIAU,United States,Minnesota,27,Clearwater,029
+ZIAU,United States,Minnesota,27,Cook,031
+ZIAU,United States,Minnesota,27,Cottonwood,033
+ZIAU,United States,Minnesota,27,Dakota,037
+ZIAU,United States,Minnesota,27,Dodge,039
+ZIAU,United States,Minnesota,27,Douglas,041
+ZIAU,United States,Minnesota,27,Faribault,043
+ZIAU,United States,Minnesota,27,Fillmore,045
+ZIAU,United States,Minnesota,27,Freeborn,047
+ZIAU,United States,Minnesota,27,Goodhue,049
+ZIAU,United States,Minnesota,27,Grant,051
+ZIAU,United States,Minnesota,27,Hennepin,053
+ZIAU,United States,Minnesota,27,Houston,055
+ZIAU,United States,Minnesota,27,Itasca,061
+ZIAU,United States,Minnesota,27,Jackson,063
+ZIAU,United States,Minnesota,27,Kanabec,065
+ZIAU,United States,Minnesota,27,Kandiyohi,067
+ZIAU,United States,Minnesota,27,Kittson,069
+ZIAU,United States,Minnesota,27,Koochiching,071
+ZIAU,United States,Minnesota,27,Lac qui Parle,073
+ZIAU,United States,Minnesota,27,Lake,075
+ZIAU,United States,Minnesota,27,Lake of the Woods,077
+ZIAU,United States,Minnesota,27,Le Sueur,079
+ZIAU,United States,Minnesota,27,Lincoln,081
+ZIAU,United States,Minnesota,27,Lyon,083
+ZIAU,United States,Minnesota,27,Mahnomen,087
+ZIAU,United States,Minnesota,27,Marshall,089
+ZIAU,United States,Minnesota,27,Martin,091
+ZIAU,United States,Minnesota,27,McLeod,085
+ZIAU,United States,Minnesota,27,Meeker,093
+ZIAU,United States,Minnesota,27,Morrison,097
+ZIAU,United States,Minnesota,27,Mower,099
+ZIAU,United States,Minnesota,27,Murray,101
+ZIAU,United States,Minnesota,27,Nicollet,103
+ZIAU,United States,Minnesota,27,Nobles,105
+ZIAU,United States,Minnesota,27,Norman,107
+ZIAU,United States,Minnesota,27,Olmsted,109
+ZIAU,United States,Minnesota,27,Otter Tail,111
+ZIAU,United States,Minnesota,27,Pennington,113
+ZIAU,United States,Minnesota,27,Pine,115
+ZIAU,United States,Minnesota,27,Pipestone,117
+ZIAU,United States,Minnesota,27,Polk,119
+ZIAU,United States,Minnesota,27,Pope,121
+ZIAU,United States,Minnesota,27,Ramsey,123
+ZIAU,United States,Minnesota,27,Red Lake,125
+ZIAU,United States,Minnesota,27,Redwood,127
+ZIAU,United States,Minnesota,27,Renville,129
+ZIAU,United States,Minnesota,27,Rice,131
+ZIAU,United States,Minnesota,27,Rock,133
+ZIAU,United States,Minnesota,27,Roseau,135
+ZIAU,United States,Minnesota,27,Scott,139
+ZIAU,United States,Minnesota,27,Sherburne,141
+ZIAU,United States,Minnesota,27,St. Louis,137
+ZIAU,United States,Minnesota,27,Stearns,145
+ZIAU,United States,Minnesota,27,Steele,147
+ZIAU,United States,Minnesota,27,Stevens,149
+ZIAU,United States,Minnesota,27,Swift,151
+ZIAU,United States,Minnesota,27,Todd,153
+ZIAU,United States,Minnesota,27,Traverse,155
+ZIAU,United States,Minnesota,27,Wabasha,157
+ZIAU,United States,Minnesota,27,Wadena,159
+ZIAU,United States,Minnesota,27,Waseca,161
+ZIAU,United States,Minnesota,27,Washington,163
+ZIAU,United States,Minnesota,27,Watonwan,165
+ZIAU,United States,Minnesota,27,Wilkin,167
+ZIAU,United States,Minnesota,27,Winona,169
+ZIAU,United States,Minnesota,27,Wright,171
+ZIAU,United States,Minnesota,27,Yellow Medicine,173
+ZIAU,United States,Mississippi,28,,
+ZIAU,United States,Mississippi,28,Chickasaw,017
+ZIAU,United States,Mississippi,28,Clay,025
+ZIAU,United States,Mississippi,28,Lee,081
+ZIAU,United States,Mississippi,28,Lowndes,087
+ZIAU,United States,Mississippi,28,Pontotoc,115
+ZIAU,United States,Mississippi,28,Scott,123
+ZIAU,United States,Mississippi,28,Stone,131
+ZIAU,United States,Mississippi,28,Tishomingo,141
+ZIAU,United States,Missouri,29,,
+ZIAU,United States,Missouri,29,Adair,001
+ZIAU,United States,Missouri,29,Andrew,003
+ZIAU,United States,Missouri,29,Audrain,007
+ZIAU,United States,Missouri,29,Barry,009
+ZIAU,United States,Missouri,29,Barton,011
+ZIAU,United States,Missouri,29,Benton,015
+ZIAU,United States,Missouri,29,Bollinger,017
+ZIAU,United States,Missouri,29,Boone,019
+ZIAU,United States,Missouri,29,Caldwell,025
+ZIAU,United States,Missouri,29,Callaway,027
+ZIAU,United States,Missouri,29,Camden,029
+ZIAU,United States,Missouri,29,Cape Girardeau,031
+ZIAU,United States,Missouri,29,Carroll,033
+ZIAU,United States,Missouri,29,Carter,035
+ZIAU,United States,Missouri,29,Cass,037
+ZIAU,United States,Missouri,29,Cedar,039
+ZIAU,United States,Missouri,29,Chariton,041
+ZIAU,United States,Missouri,29,Christian,043
+ZIAU,United States,Missouri,29,Clark,045
+ZIAU,United States,Missouri,29,Clinton,049
+ZIAU,United States,Missouri,29,Cooper,053
+ZIAU,United States,Missouri,29,Crawford,055
+ZIAU,United States,Missouri,29,Dade,057
+ZIAU,United States,Missouri,29,Daviess,061
+ZIAU,United States,Missouri,29,DeKalb,063
+ZIAU,United States,Missouri,29,Dent,065
+ZIAU,United States,Missouri,29,Franklin,071
+ZIAU,United States,Missouri,29,Gasconade,073
+ZIAU,United States,Missouri,29,Greene,077
+ZIAU,United States,Missouri,29,Grundy,079
+ZIAU,United States,Missouri,29,Harrison,081
+ZIAU,United States,Missouri,29,Henry,083
+ZIAU,United States,Missouri,29,Hickory,085
+ZIAU,United States,Missouri,29,Howell,091
+ZIAU,United States,Missouri,29,Iron,093
+ZIAU,United States,Missouri,29,Jackson,095
+ZIAU,United States,Missouri,29,Jasper,097
+ZIAU,United States,Missouri,29,Jefferson,099
+ZIAU,United States,Missouri,29,Johnson,101
+ZIAU,United States,Missouri,29,Knox,103
+ZIAU,United States,Missouri,29,Laclede,105
+ZIAU,United States,Missouri,29,Lawrence,109
+ZIAU,United States,Missouri,29,Lewis,111
+ZIAU,United States,Missouri,29,Lincoln,113
+ZIAU,United States,Missouri,29,Linn,115
+ZIAU,United States,Missouri,29,Livingston,117
+ZIAU,United States,Missouri,29,Macon,121
+ZIAU,United States,Missouri,29,Madison,123
+ZIAU,United States,Missouri,29,Maries,125
+ZIAU,United States,Missouri,29,Marion,127
+ZIAU,United States,Missouri,29,McDonald,119
+ZIAU,United States,Missouri,29,Mercer,129
+ZIAU,United States,Missouri,29,Miller,131
+ZIAU,United States,Missouri,29,Moniteau,135
+ZIAU,United States,Missouri,29,Monroe,137
+ZIAU,United States,Missouri,29,Morgan,141
+ZIAU,United States,Missouri,29,Newton,145
+ZIAU,United States,Missouri,29,Nodaway,147
+ZIAU,United States,Missouri,29,Oregon,149
+ZIAU,United States,Missouri,29,Ozark,153
+ZIAU,United States,Missouri,29,Perry,157
+ZIAU,United States,Missouri,29,Pettis,159
+ZIAU,United States,Missouri,29,Phelps,161
+ZIAU,United States,Missouri,29,Pike,163
+ZIAU,United States,Missouri,29,Polk,167
+ZIAU,United States,Missouri,29,Ralls,173
+ZIAU,United States,Missouri,29,Randolph,175
+ZIAU,United States,Missouri,29,Reynolds,179
+ZIAU,United States,Missouri,29,Ripley,181
+ZIAU,United States,Missouri,29,Saline,195
+ZIAU,United States,Missouri,29,Schuyler,197
+ZIAU,United States,Missouri,29,Scotland,199
+ZIAU,United States,Missouri,29,Shannon,203
+ZIAU,United States,Missouri,29,Shelby,205
+ZIAU,United States,Missouri,29,St. Charles,183
+ZIAU,United States,Missouri,29,St. Clair,185
+ZIAU,United States,Missouri,29,St. Francois,187
+ZIAU,United States,Missouri,29,St. Louis,189
+ZIAU,United States,Missouri,29,Stoddard,207
+ZIAU,United States,Missouri,29,Stone,209
+ZIAU,United States,Missouri,29,Sullivan,211
+ZIAU,United States,Missouri,29,Taney,213
+ZIAU,United States,Missouri,29,Vernon,217
+ZIAU,United States,Missouri,29,Warren,219
+ZIAU,United States,Missouri,29,Washington,221
+ZIAU,United States,Missouri,29,Wayne,223
+ZIAU,United States,Missouri,29,Webster,225
+ZIAU,United States,Missouri,29,Worth,227
+ZIAU,United States,Missouri,29,Wright,229
+ZIAU,United States,Montana,30,,
+ZIAU,United States,Montana,30,Carter,011
+ZIAU,United States,Nebraska,31,,
+ZIAU,United States,Nebraska,31,Burt,021
+ZIAU,United States,Nebraska,31,Cass,025
+ZIAU,United States,Nebraska,31,Cuming,039
+ZIAU,United States,Nebraska,31,Dixon,051
+ZIAU,United States,Nebraska,31,Dodge,053
+ZIAU,United States,Nebraska,31,Douglas,055
+ZIAU,United States,Nebraska,31,Otoe,131
+ZIAU,United States,Nebraska,31,Pawnee,133
+ZIAU,United States,Nebraska,31,Richardson,147
+ZIAU,United States,Nebraska,31,Sarpy,153
+ZIAU,United States,Nebraska,31,Saunders,155
+ZIAU,United States,New Hampshire,33,,
+ZIAU,United States,New Hampshire,33,Belknap,001
+ZIAU,United States,New Hampshire,33,Carroll,003
+ZIAU,United States,New Hampshire,33,Cheshire,005
+ZIAU,United States,New Hampshire,33,Coos,007
+ZIAU,United States,New Hampshire,33,Grafton,009
+ZIAU,United States,New Hampshire,33,Hillsborough,011
+ZIAU,United States,New Hampshire,33,Merrimack,013
+ZIAU,United States,New Hampshire,33,Rockingham,015
+ZIAU,United States,New Hampshire,33,Strafford,017
+ZIAU,United States,New Hampshire,33,Sullivan,019
+ZIAU,United States,New Jersey,34,,
+ZIAU,United States,New Jersey,34,Bergen,003
+ZIAU,United States,New Jersey,34,Cape May,009
+ZIAU,United States,New Jersey,34,Essex,013
+ZIAU,United States,New Jersey,34,Hunterdon,019
+ZIAU,United States,New Jersey,34,Mercer,021
+ZIAU,United States,New Jersey,34,Middlesex,023
+ZIAU,United States,New Jersey,34,Monmouth,025
+ZIAU,United States,New Jersey,34,Morris,027
+ZIAU,United States,New Jersey,34,Ocean,029
+ZIAU,United States,New Jersey,34,Passaic,031
+ZIAU,United States,New Jersey,34,Somerset,035
+ZIAU,United States,New Jersey,34,Sussex,037
+ZIAU,United States,New Jersey,34,Warren,041
+ZIAU,United States,New York,36,,
+ZIAU,United States,New York,36,Albany,001
+ZIAU,United States,New York,36,Bronx,005
+ZIAU,United States,New York,36,Cattaraugus,009
+ZIAU,United States,New York,36,Cayuga,011
+ZIAU,United States,New York,36,Chautauqua,013
+ZIAU,United States,New York,36,Chemung,015
+ZIAU,United States,New York,36,Chenango,017
+ZIAU,United States,New York,36,Columbia,021
+ZIAU,United States,New York,36,Delaware,025
+ZIAU,United States,New York,36,Dutchess,027
+ZIAU,United States,New York,36,Erie,029
+ZIAU,United States,New York,36,Essex,031
+ZIAU,United States,New York,36,Fulton,035
+ZIAU,United States,New York,36,Genesee,037
+ZIAU,United States,New York,36,Greene,039
+ZIAU,United States,New York,36,Hamilton,041
+ZIAU,United States,New York,36,Herkimer,043
+ZIAU,United States,New York,36,Jefferson,045
+ZIAU,United States,New York,36,Lewis,049
+ZIAU,United States,New York,36,Livingston,051
+ZIAU,United States,New York,36,Madison,053
+ZIAU,United States,New York,36,Monroe,055
+ZIAU,United States,New York,36,Montgomery,057
+ZIAU,United States,New York,36,Nassau,059
+ZIAU,United States,New York,36,Niagara,063
+ZIAU,United States,New York,36,Oneida,065
+ZIAU,United States,New York,36,Orange,071
+ZIAU,United States,New York,36,Oswego,075
+ZIAU,United States,New York,36,Otsego,077
+ZIAU,United States,New York,36,Putnam,079
+ZIAU,United States,New York,36,Queens,081
+ZIAU,United States,New York,36,Rensselaer,083
+ZIAU,United States,New York,36,Richmond,085
+ZIAU,United States,New York,36,Rockland,087
+ZIAU,United States,New York,36,Saratoga,091
+ZIAU,United States,New York,36,St. Lawrence,089
+ZIAU,United States,New York,36,Suffolk,103
+ZIAU,United States,New York,36,Sullivan,105
+ZIAU,United States,New York,36,Tompkins,109
+ZIAU,United States,New York,36,Ulster,111
+ZIAU,United States,New York,36,Warren,113
+ZIAU,United States,New York,36,Washington,115
+ZIAU,United States,New York,36,Westchester,119
+ZIAU,United States,North Carolina,37,,
+ZIAU,United States,North Carolina,37,Alamance,001
+ZIAU,United States,North Carolina,37,Alleghany,005
+ZIAU,United States,North Carolina,37,Ashe,009
+ZIAU,United States,North Carolina,37,Avery,011
+ZIAU,United States,North Carolina,37,Caldwell,027
+ZIAU,United States,North Carolina,37,Chatham,037
+ZIAU,United States,North Carolina,37,Clay,043
+ZIAU,United States,North Carolina,37,Davie,059
+ZIAU,United States,North Carolina,37,Durham,063
+ZIAU,United States,North Carolina,37,Forsyth,067
+ZIAU,United States,North Carolina,37,Franklin,069
+ZIAU,United States,North Carolina,37,Graham,075
+ZIAU,United States,North Carolina,37,Granville,077
+ZIAU,United States,North Carolina,37,Haywood,087
+ZIAU,United States,North Carolina,37,Henderson,089
+ZIAU,United States,North Carolina,37,Iredell,097
+ZIAU,United States,North Carolina,37,Jackson,099
+ZIAU,United States,North Carolina,37,Johnston,101
+ZIAU,United States,North Carolina,37,Lee,105
+ZIAU,United States,North Carolina,37,Montgomery,123
+ZIAU,United States,North Carolina,37,Orange,135
+ZIAU,United States,North Carolina,37,Person,145
+ZIAU,United States,North Carolina,37,Randolph,151
+ZIAU,United States,North Carolina,37,Rowan,159
+ZIAU,United States,North Carolina,37,Stanly,167
+ZIAU,United States,North Carolina,37,Swain,173
+ZIAU,United States,North Carolina,37,Union,179
+ZIAU,United States,North Carolina,37,Wake,183
+ZIAU,United States,North Dakota,38,,
+ZIAU,United States,North Dakota,38,Barnes,003
+ZIAU,United States,North Dakota,38,Benson,005
+ZIAU,United States,North Dakota,38,Bottineau,009
+ZIAU,United States,North Dakota,38,Cass,017
+ZIAU,United States,North Dakota,38,Cavalier,019
+ZIAU,United States,North Dakota,38,Grand Forks,035
+ZIAU,United States,North Dakota,38,Griggs,039
+ZIAU,United States,North Dakota,38,LaMoure,045
+ZIAU,United States,North Dakota,38,McHenry,049
+ZIAU,United States,North Dakota,38,Pembina,067
+ZIAU,United States,North Dakota,38,Ransom,073
+ZIAU,United States,North Dakota,38,Richland,077
+ZIAU,United States,North Dakota,38,Sargent,081
+ZIAU,United States,North Dakota,38,Steele,091
+ZIAU,United States,North Dakota,38,Stutsman,093
+ZIAU,United States,Ohio,39,,
+ZIAU,United States,Ohio,39,Adams,001
+ZIAU,United States,Ohio,39,Ashtabula,007
+ZIAU,United States,Ohio,39,Athens,009
+ZIAU,United States,Ohio,39,Auglaize,011
+ZIAU,United States,Ohio,39,Brown,015
+ZIAU,United States,Ohio,39,Butler,017
+ZIAU,United States,Ohio,39,Carroll,019
+ZIAU,United States,Ohio,39,Champaign,021
+ZIAU,United States,Ohio,39,Clermont,025
+ZIAU,United States,Ohio,39,Clinton,027
+ZIAU,United States,Ohio,39,Columbiana,029
+ZIAU,United States,Ohio,39,Cuyahoga,035
+ZIAU,United States,Ohio,39,Delaware,041
+ZIAU,United States,Ohio,39,Erie,043
+ZIAU,United States,Ohio,39,Franklin,049
+ZIAU,United States,Ohio,39,Fulton,051
+ZIAU,United States,Ohio,39,Greene,057
+ZIAU,United States,Ohio,39,Guernsey,059
+ZIAU,United States,Ohio,39,Hamilton,061
+ZIAU,United States,Ohio,39,Henry,069
+ZIAU,United States,Ohio,39,Huron,077
+ZIAU,United States,Ohio,39,Jefferson,081
+ZIAU,United States,Ohio,39,Knox,083
+ZIAU,United States,Ohio,39,Lake,085
+ZIAU,United States,Ohio,39,Licking,089
+ZIAU,United States,Ohio,39,Logan,091
+ZIAU,United States,Ohio,39,Lorain,093
+ZIAU,United States,Ohio,39,Mahoning,099
+ZIAU,United States,Ohio,39,Miami,109
+ZIAU,United States,Ohio,39,Montgomery,113
+ZIAU,United States,Ohio,39,Morrow,117
+ZIAU,United States,Ohio,39,Noble,121
+ZIAU,United States,Ohio,39,Paulding,125
+ZIAU,United States,Ohio,39,Pickaway,129
+ZIAU,United States,Ohio,39,Richland,139
+ZIAU,United States,Ohio,39,Scioto,145
+ZIAU,United States,Ohio,39,Summit,153
+ZIAU,United States,Ohio,39,Trumbull,155
+ZIAU,United States,Ohio,39,Union,159
+ZIAU,United States,Ohio,39,Van Wert,161
+ZIAU,United States,Ohio,39,Vinton,163
+ZIAU,United States,Ohio,39,Washington,167
+ZIAU,United States,Ohio,39,Williams,171
+ZIAU,United States,Ohio,39,Wood,173
+ZIAU,United States,Oklahoma,40,,
+ZIAU,United States,Oklahoma,40,Atoka,005
+ZIAU,United States,Oklahoma,40,Bryan,013
+ZIAU,United States,Oklahoma,40,Cherokee,021
+ZIAU,United States,Oklahoma,40,Delaware,041
+ZIAU,United States,Oklahoma,40,Johnston,069
+ZIAU,United States,Oklahoma,40,Le Flore,079
+ZIAU,United States,Oklahoma,40,Marshall,095
+ZIAU,United States,Oklahoma,40,Mayes,097
+ZIAU,United States,Oklahoma,40,McCurtain,089
+ZIAU,United States,Oklahoma,40,Murray,099
+ZIAU,United States,Oklahoma,40,Muskogee,101
+ZIAU,United States,Oklahoma,40,Nowata,105
+ZIAU,United States,Oklahoma,40,Ottawa,115
+ZIAU,United States,Oklahoma,40,Pontotoc,123
+ZIAU,United States,Oklahoma,40,Pushmataha,127
+ZIAU,United States,Oklahoma,40,Sequoyah,135
+ZIAU,United States,Oklahoma,40,Tulsa,143
+ZIAU,United States,Oklahoma,40,Washington,147
+ZIAU,United States,Pennsylvania,42,,
+ZIAU,United States,Pennsylvania,42,Adams,001
+ZIAU,United States,Pennsylvania,42,Allegheny,003
+ZIAU,United States,Pennsylvania,42,Armstrong,005
+ZIAU,United States,Pennsylvania,42,Beaver,007
+ZIAU,United States,Pennsylvania,42,Bedford,009
+ZIAU,United States,Pennsylvania,42,Berks,011
+ZIAU,United States,Pennsylvania,42,Blair,013
+ZIAU,United States,Pennsylvania,42,Bradford,015
+ZIAU,United States,Pennsylvania,42,Bucks,017
+ZIAU,United States,Pennsylvania,42,Butler,019
+ZIAU,United States,Pennsylvania,42,Carbon,025
+ZIAU,United States,Pennsylvania,42,Centre,027
+ZIAU,United States,Pennsylvania,42,Chester,029
+ZIAU,United States,Pennsylvania,42,Clarion,031
+ZIAU,United States,Pennsylvania,42,Clearfield,033
+ZIAU,United States,Pennsylvania,42,Crawford,039
+ZIAU,United States,Pennsylvania,42,Dauphin,043
+ZIAU,United States,Pennsylvania,42,Delaware,045
+ZIAU,United States,Pennsylvania,42,Elk,047
+ZIAU,United States,Pennsylvania,42,Erie,049
+ZIAU,United States,Pennsylvania,42,Fayette,051
+ZIAU,United States,Pennsylvania,42,Franklin,055
+ZIAU,United States,Pennsylvania,42,Fulton,057
+ZIAU,United States,Pennsylvania,42,Greene,059
+ZIAU,United States,Pennsylvania,42,Huntingdon,061
+ZIAU,United States,Pennsylvania,42,Indiana,063
+ZIAU,United States,Pennsylvania,42,Jefferson,065
+ZIAU,United States,Pennsylvania,42,Juniata,067
+ZIAU,United States,Pennsylvania,42,Lackawanna,069
+ZIAU,United States,Pennsylvania,42,Lancaster,071
+ZIAU,United States,Pennsylvania,42,Lawrence,073
+ZIAU,United States,Pennsylvania,42,Lehigh,077
+ZIAU,United States,Pennsylvania,42,Luzerne,079
+ZIAU,United States,Pennsylvania,42,Lycoming,081
+ZIAU,United States,Pennsylvania,42,McKean,083
+ZIAU,United States,Pennsylvania,42,Mercer,085
+ZIAU,United States,Pennsylvania,42,Mifflin,087
+ZIAU,United States,Pennsylvania,42,Monroe,089
+ZIAU,United States,Pennsylvania,42,Montgomery,091
+ZIAU,United States,Pennsylvania,42,Northampton,095
+ZIAU,United States,Pennsylvania,42,Northumberland,097
+ZIAU,United States,Pennsylvania,42,Perry,099
+ZIAU,United States,Pennsylvania,42,Philadelphia,101
+ZIAU,United States,Pennsylvania,42,Pike,103
+ZIAU,United States,Pennsylvania,42,Snyder,109
+ZIAU,United States,Pennsylvania,42,Somerset,111
+ZIAU,United States,Pennsylvania,42,Sullivan,113
+ZIAU,United States,Pennsylvania,42,Susquehanna,115
+ZIAU,United States,Pennsylvania,42,Tioga,117
+ZIAU,United States,Pennsylvania,42,Union,119
+ZIAU,United States,Pennsylvania,42,Venango,121
+ZIAU,United States,Pennsylvania,42,Warren,123
+ZIAU,United States,Pennsylvania,42,Washington,125
+ZIAU,United States,Pennsylvania,42,Wayne,127
+ZIAU,United States,Pennsylvania,42,Westmoreland,129
+ZIAU,United States,Pennsylvania,42,Wyoming,131
+ZIAU,United States,Pennsylvania,42,York,133
+ZIAU,United States,Rhode Island,44,,
+ZIAU,United States,Rhode Island,44,Kent,003
+ZIAU,United States,Rhode Island,44,Providence,007
+ZIAU,United States,South Carolina,45,,
+ZIAU,United States,South Carolina,45,Calhoun,017
+ZIAU,United States,South Carolina,45,Charleston,019
+ZIAU,United States,South Carolina,45,Chesterfield,025
+ZIAU,United States,South Carolina,45,Greenville,045
+ZIAU,United States,South Carolina,45,Greenwood,047
+ZIAU,United States,South Carolina,45,Kershaw,055
+ZIAU,United States,South Carolina,45,Lancaster,057
+ZIAU,United States,South Carolina,45,Oconee,073
+ZIAU,United States,South Carolina,45,Union,087
+ZIAU,United States,South Dakota,46,,
+ZIAU,United States,South Dakota,46,Brookings,011
+ZIAU,United States,South Dakota,46,Clay,027
+ZIAU,United States,South Dakota,46,Codington,029
+ZIAU,United States,South Dakota,46,Custer,033
+ZIAU,United States,South Dakota,46,Day,037
+ZIAU,United States,South Dakota,46,Grant,051
+ZIAU,United States,South Dakota,46,Lake,079
+ZIAU,United States,South Dakota,46,Lincoln,083
+ZIAU,United States,South Dakota,46,Marshall,091
+ZIAU,United States,South Dakota,46,Minnehaha,099
+ZIAU,United States,South Dakota,46,Pennington,103
+ZIAU,United States,South Dakota,46,Roberts,109
+ZIAU,United States,South Dakota,46,Union,127
+ZIAU,United States,Tennessee,47,,
+ZIAU,United States,Tennessee,47,Cheatham,021
+ZIAU,United States,Tennessee,47,Coffee,031
+ZIAU,United States,Tennessee,47,Davidson,037
+ZIAU,United States,Tennessee,47,Dickson,043
+ZIAU,United States,Tennessee,47,Fayette,047
+ZIAU,United States,Tennessee,47,Franklin,051
+ZIAU,United States,Tennessee,47,Giles,055
+ZIAU,United States,Tennessee,47,Hickman,081
+ZIAU,United States,Tennessee,47,Houston,083
+ZIAU,United States,Tennessee,47,Humphreys,085
+ZIAU,United States,Tennessee,47,Jefferson,089
+ZIAU,United States,Tennessee,47,Lewis,101
+ZIAU,United States,Tennessee,47,Marion,115
+ZIAU,United States,Tennessee,47,Marshall,117
+ZIAU,United States,Tennessee,47,Maury,119
+ZIAU,United States,Tennessee,47,Meigs,121
+ZIAU,United States,Tennessee,47,Montgomery,125
+ZIAU,United States,Tennessee,47,Rutherford,149
+ZIAU,United States,Tennessee,47,Scott,151
+ZIAU,United States,Tennessee,47,Sevier,155
+ZIAU,United States,Tennessee,47,Shelby,157
+ZIAU,United States,Tennessee,47,Stewart,161
+ZIAU,United States,Tennessee,47,Sumner,165
+ZIAU,United States,Tennessee,47,White,185
+ZIAU,United States,Tennessee,47,Williamson,187
+ZIAU,United States,Tennessee,47,Wilson,189
+ZIAU,United States,Texas,48,,
+ZIAU,United States,Texas,48,Brazos,041
+ZIAU,United States,Texas,48,Dallas,113
+ZIAU,United States,Texas,48,Fannin,147
+ZIAU,United States,Texas,48,Franklin,159
+ZIAU,United States,Texas,48,Grayson,181
+ZIAU,United States,Texas,48,Hardin,199
+ZIAU,United States,Texas,48,Harris,201
+ZIAU,United States,Texas,48,Hopkins,223
+ZIAU,United States,Texas,48,Houston,225
+ZIAU,United States,Texas,48,Jasper,241
+ZIAU,United States,Texas,48,Jefferson,245
+ZIAU,United States,Texas,48,Lamar,277
+ZIAU,United States,Texas,48,Polk,373
+ZIAU,United States,Texas,48,Red River,387
+ZIAU,United States,Texas,48,Rockwall,397
+ZIAU,United States,Texas,48,San Jacinto,407
+ZIAU,United States,Texas,48,Smith,423
+ZIAU,United States,Texas,48,Upshur,459
+ZIAU,United States,Texas,48,Walker,471
+ZIAU,United States,Vermont,50,,
+ZIAU,United States,Vermont,50,Addison,001
+ZIAU,United States,Vermont,50,Bennington,003
+ZIAU,United States,Vermont,50,Caledonia,005
+ZIAU,United States,Vermont,50,Chittenden,007
+ZIAU,United States,Vermont,50,Essex,009
+ZIAU,United States,Vermont,50,Franklin,011
+ZIAU,United States,Vermont,50,Grand Isle,013
+ZIAU,United States,Vermont,50,Lamoille,015
+ZIAU,United States,Vermont,50,Orange,017
+ZIAU,United States,Vermont,50,Orleans,019
+ZIAU,United States,Vermont,50,Rutland,021
+ZIAU,United States,Vermont,50,Windham,025
+ZIAU,United States,Vermont,50,Windsor,027
+ZIAU,United States,Virginia,51,,
+ZIAU,United States,Virginia,51,Albemarle,003
+ZIAU,United States,Virginia,51,Amherst,009
+ZIAU,United States,Virginia,51,Bath,017
+ZIAU,United States,Virginia,51,Campbell,031
+ZIAU,United States,Virginia,51,Caroline,033
+ZIAU,United States,Virginia,51,Chesterfield,041
+ZIAU,United States,Virginia,51,Clarke,043
+ZIAU,United States,Virginia,51,Craig,045
+ZIAU,United States,Virginia,51,Culpeper,047
+ZIAU,United States,Virginia,51,Dickenson,051
+ZIAU,United States,Virginia,51,Fairfax,059
+ZIAU,United States,Virginia,51,Fauquier,061
+ZIAU,United States,Virginia,51,Floyd,063
+ZIAU,United States,Virginia,51,Frederick,069
+ZIAU,United States,Virginia,51,Giles,071
+ZIAU,United States,Virginia,51,Grayson,077
+ZIAU,United States,Virginia,51,Hanover,085
+ZIAU,United States,Virginia,51,Henrico,087
+ZIAU,United States,Virginia,51,Highland,091
+ZIAU,United States,Virginia,51,Isle of Wight,093
+ZIAU,United States,Virginia,51,Loudoun,107
+ZIAU,United States,Virginia,51,Madison,113
+ZIAU,United States,Virginia,51,Montgomery,121
+ZIAU,United States,Virginia,51,Page,139
+ZIAU,United States,Virginia,51,Pittsylvania,143
+ZIAU,United States,Virginia,51,Prince William,153
+ZIAU,United States,Virginia,51,Pulaski,155
+ZIAU,United States,Virginia,51,Rappahannock,157
+ZIAU,United States,Virginia,51,Roanoke,161
+ZIAU,United States,Virginia,51,Rockbridge,163
+ZIAU,United States,Virginia,51,Russell,167
+ZIAU,United States,Virginia,51,Shenandoah,171
+ZIAU,United States,Virginia,51,Smyth,173
+ZIAU,United States,Virginia,51,Sussex,183
+ZIAU,United States,Virginia,51,Warren,187
+ZIAU,United States,Virginia,51,Washington,191
+ZIAU,United States,Virginia,51,Wise,195
+ZIAU,United States,West Virginia,54,,
+ZIAU,United States,West Virginia,54,Berkeley,003
+ZIAU,United States,West Virginia,54,Braxton,007
+ZIAU,United States,West Virginia,54,Brooke,009
+ZIAU,United States,West Virginia,54,Fayette,019
+ZIAU,United States,West Virginia,54,Grant,023
+ZIAU,United States,West Virginia,54,Greenbrier,025
+ZIAU,United States,West Virginia,54,Hancock,029
+ZIAU,United States,West Virginia,54,Hardy,031
+ZIAU,United States,West Virginia,54,Marion,049
+ZIAU,United States,West Virginia,54,McDowell,047
+ZIAU,United States,West Virginia,54,Mercer,055
+ZIAU,United States,West Virginia,54,Mingo,059
+ZIAU,United States,West Virginia,54,Monongalia,061
+ZIAU,United States,West Virginia,54,Monroe,063
+ZIAU,United States,West Virginia,54,Nicholas,067
+ZIAU,United States,West Virginia,54,Pendleton,071
+ZIAU,United States,West Virginia,54,Pocahontas,075
+ZIAU,United States,West Virginia,54,Raleigh,081
+ZIAU,United States,West Virginia,54,Randolph,083
+ZIAU,United States,West Virginia,54,Ritchie,085
+ZIAU,United States,West Virginia,54,Summers,089
+ZIAU,United States,West Virginia,54,Wyoming,109
+ZIAU,United States,Wisconsin,55,,
+ZIAU,United States,Wisconsin,55,Adams,001
+ZIAU,United States,Wisconsin,55,Ashland,003
+ZIAU,United States,Wisconsin,55,Bayfield,007
+ZIAU,United States,Wisconsin,55,Brown,009
+ZIAU,United States,Wisconsin,55,Buffalo,011
+ZIAU,United States,Wisconsin,55,Calumet,015
+ZIAU,United States,Wisconsin,55,Chippewa,017
+ZIAU,United States,Wisconsin,55,Clark,019
+ZIAU,United States,Wisconsin,55,Columbia,021
+ZIAU,United States,Wisconsin,55,Crawford,023
+ZIAU,United States,Wisconsin,55,Dane,025
+ZIAU,United States,Wisconsin,55,Dodge,027
+ZIAU,United States,Wisconsin,55,Douglas,031
+ZIAU,United States,Wisconsin,55,Dunn,033
+ZIAU,United States,Wisconsin,55,Eau Claire,035
+ZIAU,United States,Wisconsin,55,Fond du Lac,039
+ZIAU,United States,Wisconsin,55,Forest,041
+ZIAU,United States,Wisconsin,55,Grant,043
+ZIAU,United States,Wisconsin,55,Green,045
+ZIAU,United States,Wisconsin,55,Green Lake,047
+ZIAU,United States,Wisconsin,55,Iowa,049
+ZIAU,United States,Wisconsin,55,Jackson,053
+ZIAU,United States,Wisconsin,55,Jefferson,055
+ZIAU,United States,Wisconsin,55,Kenosha,059
+ZIAU,United States,Wisconsin,55,La Crosse,063
+ZIAU,United States,Wisconsin,55,Lafayette,065
+ZIAU,United States,Wisconsin,55,Langlade,067
+ZIAU,United States,Wisconsin,55,Lincoln,069
+ZIAU,United States,Wisconsin,55,Manitowoc,071
+ZIAU,United States,Wisconsin,55,Marathon,073
+ZIAU,United States,Wisconsin,55,Marquette,077
+ZIAU,United States,Wisconsin,55,Milwaukee,079
+ZIAU,United States,Wisconsin,55,Monroe,081
+ZIAU,United States,Wisconsin,55,Oconto,083
+ZIAU,United States,Wisconsin,55,Outagamie,087
+ZIAU,United States,Wisconsin,55,Ozaukee,089
+ZIAU,United States,Wisconsin,55,Pepin,091
+ZIAU,United States,Wisconsin,55,Polk,095
+ZIAU,United States,Wisconsin,55,Racine,101
+ZIAU,United States,Wisconsin,55,Richland,103
+ZIAU,United States,Wisconsin,55,Rock,105
+ZIAU,United States,Wisconsin,55,Sauk,111
+ZIAU,United States,Wisconsin,55,Sawyer,113
+ZIAU,United States,Wisconsin,55,Sheboygan,117
+ZIAU,United States,Wisconsin,55,Trempealeau,121
+ZIAU,United States,Wisconsin,55,Vernon,123
+ZIAU,United States,Wisconsin,55,Walworth,127
+ZIAU,United States,Wisconsin,55,Washington,131
+ZIAU,United States,Wisconsin,55,Waukesha,133
+ZIAU,United States,Wisconsin,55,Waupaca,135
+ZIAU,United States,Wisconsin,55,Waushara,137
+ZIAU,United States,Wisconsin,55,Winnebago,139

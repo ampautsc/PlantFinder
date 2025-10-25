@@ -1,0 +1,88 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SYSUS,Canada,Alberta,01,,
+SYSUS,Canada,British Columbia,02,,
+SYSUS,United States,Alaska,02,,
+SYSUS,United States,Alaska,02,Aleutians West,016
+SYSUS,United States,Alaska,02,Chugach,063
+SYSUS,United States,Alaska,02,Copper River,066
+SYSUS,United States,Alaska,02,Haines,100
+SYSUS,United States,Alaska,02,Juneau,110
+SYSUS,United States,Alaska,02,Kenai Peninsula,122
+SYSUS,United States,Alaska,02,Ketchikan Gateway,130
+SYSUS,United States,Alaska,02,Kodiak Island,150
+SYSUS,United States,Alaska,02,Matanuska-Susitna,170
+SYSUS,United States,Alaska,02,Sitka,220
+SYSUS,United States,Alaska,02,Yakutat,282
+SYSUS,United States,California,06,,
+SYSUS,United States,California,06,Del Norte,015
+SYSUS,United States,California,06,Marin,041
+SYSUS,United States,California,06,Mendocino,045
+SYSUS,United States,California,06,Monterey,053
+SYSUS,United States,California,06,San Francisco,075
+SYSUS,United States,California,06,San Mateo,081
+SYSUS,United States,Idaho,16,,
+SYSUS,United States,Idaho,16,Bonner,017
+SYSUS,United States,Idaho,16,Boundary,021
+SYSUS,United States,Idaho,16,Cassia,031
+SYSUS,United States,Idaho,16,Clearwater,035
+SYSUS,United States,Idaho,16,Kootenai,055
+SYSUS,United States,Idaho,16,Latah,057
+SYSUS,United States,Idaho,16,Nez Perce,069
+SYSUS,United States,Montana,30,,
+SYSUS,United States,Montana,30,Deer Lodge,023
+SYSUS,United States,Montana,30,Gallatin,031
+SYSUS,United States,Montana,30,Meagher,059
+SYSUS,United States,Montana,30,Silver Bow,093
+SYSUS,United States,Montana,30,Sweet Grass,097
+SYSUS,United States,Oregon,41,,
+SYSUS,United States,Oregon,41,Benton,003
+SYSUS,United States,Oregon,41,Clackamas,005
+SYSUS,United States,Oregon,41,Clatsop,007
+SYSUS,United States,Oregon,41,Columbia,009
+SYSUS,United States,Oregon,41,Coos,011
+SYSUS,United States,Oregon,41,Curry,015
+SYSUS,United States,Oregon,41,Deschutes,017
+SYSUS,United States,Oregon,41,Douglas,019
+SYSUS,United States,Oregon,41,Hood River,027
+SYSUS,United States,Oregon,41,Josephine,033
+SYSUS,United States,Oregon,41,Klamath,035
+SYSUS,United States,Oregon,41,Lane,039
+SYSUS,United States,Oregon,41,Lincoln,041
+SYSUS,United States,Oregon,41,Linn,043
+SYSUS,United States,Oregon,41,Marion,047
+SYSUS,United States,Oregon,41,Multnomah,051
+SYSUS,United States,Oregon,41,Polk,053
+SYSUS,United States,Oregon,41,Tillamook,057
+SYSUS,United States,Oregon,41,Umatilla,059
+SYSUS,United States,Oregon,41,Wasco,065
+SYSUS,United States,Oregon,41,Washington,067
+SYSUS,United States,Oregon,41,Yamhill,071
+SYSUS,United States,Washington,53,,
+SYSUS,United States,Washington,53,Chelan,007
+SYSUS,United States,Washington,53,Clallam,009
+SYSUS,United States,Washington,53,Clark,011
+SYSUS,United States,Washington,53,Columbia,013
+SYSUS,United States,Washington,53,Grays Harbor,027
+SYSUS,United States,Washington,53,Island,029
+SYSUS,United States,Washington,53,Jefferson,031
+SYSUS,United States,Washington,53,King,033
+SYSUS,United States,Washington,53,Kitsap,035
+SYSUS,United States,Washington,53,Kittitas,037
+SYSUS,United States,Washington,53,Klickitat,039
+SYSUS,United States,Washington,53,Mason,045
+SYSUS,United States,Washington,53,Okanogan,047
+SYSUS,United States,Washington,53,Pacific,049
+SYSUS,United States,Washington,53,Pend Oreille,051
+SYSUS,United States,Washington,53,Pierce,053
+SYSUS,United States,Washington,53,San Juan,055
+SYSUS,United States,Washington,53,Skagit,057
+SYSUS,United States,Washington,53,Skamania,059
+SYSUS,United States,Washington,53,Snohomish,061
+SYSUS,United States,Washington,53,Spokane,063
+SYSUS,United States,Washington,53,Stevens,065
+SYSUS,United States,Washington,53,Thurston,067
+SYSUS,United States,Washington,53,Wahkiakum,069
+SYSUS,United States,Washington,53,Walla Walla,071
+SYSUS,United States,Washington,53,Whatcom,073
+SYSUS,United States,Washington,53,Yakima,077

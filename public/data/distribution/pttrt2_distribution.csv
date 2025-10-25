@@ -1,0 +1,420 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+PTTRT2,United States,Alabama,01,,
+PTTRT2,United States,Alabama,01,Autauga,001
+PTTRT2,United States,Alabama,01,Barbour,005
+PTTRT2,United States,Alabama,01,Bibb,007
+PTTRT2,United States,Alabama,01,Bullock,011
+PTTRT2,United States,Alabama,01,Calhoun,015
+PTTRT2,United States,Alabama,01,Chambers,017
+PTTRT2,United States,Alabama,01,Clarke,025
+PTTRT2,United States,Alabama,01,Clay,027
+PTTRT2,United States,Alabama,01,Coffee,031
+PTTRT2,United States,Alabama,01,Dallas,047
+PTTRT2,United States,Alabama,01,Etowah,055
+PTTRT2,United States,Alabama,01,Hale,065
+PTTRT2,United States,Alabama,01,Jefferson,073
+PTTRT2,United States,Alabama,01,Lee,081
+PTTRT2,United States,Alabama,01,Lowndes,085
+PTTRT2,United States,Alabama,01,Macon,087
+PTTRT2,United States,Alabama,01,Madison,089
+PTTRT2,United States,Alabama,01,Monroe,099
+PTTRT2,United States,Alabama,01,Montgomery,101
+PTTRT2,United States,Alabama,01,Perry,105
+PTTRT2,United States,Alabama,01,Russell,113
+PTTRT2,United States,Alabama,01,Tuscaloosa,125
+PTTRT2,United States,Alabama,01,Wilcox,131
+PTTRT2,United States,Arkansas,05,,
+PTTRT2,Canada,Ontario,08,,
+PTTRT2,United States,Connecticut,09,,
+PTTRT2,United States,Connecticut,09,Fairfield,001
+PTTRT2,United States,Connecticut,09,Hartford,003
+PTTRT2,United States,Connecticut,09,Litchfield,005
+PTTRT2,United States,Connecticut,09,New Haven,009
+PTTRT2,United States,Connecticut,09,Windham,015
+PTTRT2,Canada,Quebec,10,,
+PTTRT2,United States,Delaware,10,,
+PTTRT2,United States,District of Columbia,11,,
+PTTRT2,United States,District of Columbia,11,District of Columbia,001
+PTTRT2,United States,Florida,12,,
+PTTRT2,United States,Georgia,13,,
+PTTRT2,United States,Illinois,17,,
+PTTRT2,United States,Illinois,17,Adams,001
+PTTRT2,United States,Illinois,17,Alexander,003
+PTTRT2,United States,Illinois,17,Boone,007
+PTTRT2,United States,Illinois,17,Brown,009
+PTTRT2,United States,Illinois,17,Calhoun,013
+PTTRT2,United States,Illinois,17,Carroll,015
+PTTRT2,United States,Illinois,17,Cass,017
+PTTRT2,United States,Illinois,17,Champaign,019
+PTTRT2,United States,Illinois,17,Christian,021
+PTTRT2,United States,Illinois,17,Clark,023
+PTTRT2,United States,Illinois,17,Clay,025
+PTTRT2,United States,Illinois,17,Coles,029
+PTTRT2,United States,Illinois,17,Cook,031
+PTTRT2,United States,Illinois,17,Crawford,033
+PTTRT2,United States,Illinois,17,Cumberland,035
+PTTRT2,United States,Illinois,17,De Witt,039
+PTTRT2,United States,Illinois,17,DeKalb,037
+PTTRT2,United States,Illinois,17,Douglas,041
+PTTRT2,United States,Illinois,17,DuPage,043
+PTTRT2,United States,Illinois,17,Edgar,045
+PTTRT2,United States,Illinois,17,Effingham,049
+PTTRT2,United States,Illinois,17,Fayette,051
+PTTRT2,United States,Illinois,17,Franklin,055
+PTTRT2,United States,Illinois,17,Fulton,057
+PTTRT2,United States,Illinois,17,Greene,061
+PTTRT2,United States,Illinois,17,Grundy,063
+PTTRT2,United States,Illinois,17,Hancock,067
+PTTRT2,United States,Illinois,17,Henderson,071
+PTTRT2,United States,Illinois,17,Henry,073
+PTTRT2,United States,Illinois,17,Jackson,077
+PTTRT2,United States,Illinois,17,Jersey,083
+PTTRT2,United States,Illinois,17,Johnson,087
+PTTRT2,United States,Illinois,17,Kane,089
+PTTRT2,United States,Illinois,17,Kankakee,091
+PTTRT2,United States,Illinois,17,Kendall,093
+PTTRT2,United States,Illinois,17,Knox,095
+PTTRT2,United States,Illinois,17,Lake,097
+PTTRT2,United States,Illinois,17,LaSalle,099
+PTTRT2,United States,Illinois,17,Lawrence,101
+PTTRT2,United States,Illinois,17,Lee,103
+PTTRT2,United States,Illinois,17,Livingston,105
+PTTRT2,United States,Illinois,17,Logan,107
+PTTRT2,United States,Illinois,17,Macon,115
+PTTRT2,United States,Illinois,17,Macoupin,117
+PTTRT2,United States,Illinois,17,Madison,119
+PTTRT2,United States,Illinois,17,Marion,121
+PTTRT2,United States,Illinois,17,Marshall,123
+PTTRT2,United States,Illinois,17,Mason,125
+PTTRT2,United States,Illinois,17,Massac,127
+PTTRT2,United States,Illinois,17,McDonough,109
+PTTRT2,United States,Illinois,17,McHenry,111
+PTTRT2,United States,Illinois,17,McLean,113
+PTTRT2,United States,Illinois,17,Menard,129
+PTTRT2,United States,Illinois,17,Monroe,133
+PTTRT2,United States,Illinois,17,Morgan,137
+PTTRT2,United States,Illinois,17,Moultrie,139
+PTTRT2,United States,Illinois,17,Ogle,141
+PTTRT2,United States,Illinois,17,Peoria,143
+PTTRT2,United States,Illinois,17,Piatt,147
+PTTRT2,United States,Illinois,17,Pike,149
+PTTRT2,United States,Illinois,17,Pope,151
+PTTRT2,United States,Illinois,17,Putnam,155
+PTTRT2,United States,Illinois,17,Randolph,157
+PTTRT2,United States,Illinois,17,Richland,159
+PTTRT2,United States,Illinois,17,Rock Island,161
+PTTRT2,United States,Illinois,17,Saline,165
+PTTRT2,United States,Illinois,17,Sangamon,167
+PTTRT2,United States,Illinois,17,Schuyler,169
+PTTRT2,United States,Illinois,17,Scott,171
+PTTRT2,United States,Illinois,17,Shelby,173
+PTTRT2,United States,Illinois,17,St. Clair,163
+PTTRT2,United States,Illinois,17,Stark,175
+PTTRT2,United States,Illinois,17,Stephenson,177
+PTTRT2,United States,Illinois,17,Tazewell,179
+PTTRT2,United States,Illinois,17,Union,181
+PTTRT2,United States,Illinois,17,Vermilion,183
+PTTRT2,United States,Illinois,17,Wabash,185
+PTTRT2,United States,Illinois,17,Washington,189
+PTTRT2,United States,Illinois,17,Wayne,191
+PTTRT2,United States,Illinois,17,Whiteside,195
+PTTRT2,United States,Illinois,17,Will,197
+PTTRT2,United States,Illinois,17,Williamson,199
+PTTRT2,United States,Illinois,17,Winnebago,201
+PTTRT2,United States,Illinois,17,Woodford,203
+PTTRT2,United States,Indiana,18,,
+PTTRT2,United States,Iowa,19,,
+PTTRT2,United States,Kansas,20,,
+PTTRT2,United States,Kansas,20,Anderson,003
+PTTRT2,United States,Kansas,20,Bourbon,011
+PTTRT2,United States,Kansas,20,Chautauqua,019
+PTTRT2,United States,Kansas,20,Cherokee,021
+PTTRT2,United States,Kansas,20,Cowley,035
+PTTRT2,United States,Kansas,20,Crawford,037
+PTTRT2,United States,Kansas,20,Franklin,059
+PTTRT2,United States,Kansas,20,Greenwood,073
+PTTRT2,United States,Kansas,20,Labette,099
+PTTRT2,United States,Kansas,20,Lyon,111
+PTTRT2,United States,Kansas,20,Marshall,117
+PTTRT2,United States,Kansas,20,Montgomery,125
+PTTRT2,United States,Kansas,20,Neosho,133
+PTTRT2,United States,Kansas,20,Riley,161
+PTTRT2,United States,Kansas,20,Shawnee,177
+PTTRT2,United States,Kansas,20,Wilson,205
+PTTRT2,United States,Kansas,20,Woodson,207
+PTTRT2,United States,Kentucky,21,,
+PTTRT2,United States,Kentucky,21,Clark,049
+PTTRT2,United States,Kentucky,21,Fayette,067
+PTTRT2,United States,Kentucky,21,Franklin,073
+PTTRT2,United States,Kentucky,21,Jefferson,111
+PTTRT2,United States,Kentucky,21,Jessamine,113
+PTTRT2,United States,Kentucky,21,Kenton,117
+PTTRT2,United States,Kentucky,21,Livingston,139
+PTTRT2,United States,Kentucky,21,Madison,151
+PTTRT2,United States,Kentucky,21,McCreary,147
+PTTRT2,United States,Kentucky,21,Meade,163
+PTTRT2,United States,Kentucky,21,Mercer,167
+PTTRT2,United States,Kentucky,21,Oldham,185
+PTTRT2,United States,Kentucky,21,Owen,187
+PTTRT2,United States,Kentucky,21,Pendleton,191
+PTTRT2,United States,Kentucky,21,Spencer,215
+PTTRT2,United States,Kentucky,21,Warren,227
+PTTRT2,United States,Kentucky,21,Woodford,239
+PTTRT2,United States,Maine,23,,
+PTTRT2,United States,Maryland,24,,
+PTTRT2,United States,Massachusetts,25,,
+PTTRT2,United States,Massachusetts,25,Berkshire,003
+PTTRT2,United States,Massachusetts,25,Bristol,005
+PTTRT2,United States,Massachusetts,25,Essex,009
+PTTRT2,United States,Massachusetts,25,Hampden,013
+PTTRT2,United States,Massachusetts,25,Hampshire,015
+PTTRT2,United States,Massachusetts,25,Middlesex,017
+PTTRT2,United States,Massachusetts,25,Norfolk,021
+PTTRT2,United States,Massachusetts,25,Plymouth,023
+PTTRT2,United States,Massachusetts,25,Suffolk,025
+PTTRT2,United States,Massachusetts,25,Worcester,027
+PTTRT2,United States,Michigan,26,,
+PTTRT2,United States,Minnesota,27,,
+PTTRT2,United States,Minnesota,27,Hennepin,053
+PTTRT2,United States,Mississippi,28,,
+PTTRT2,United States,Missouri,29,,
+PTTRT2,United States,Missouri,29,Adair,001
+PTTRT2,United States,Missouri,29,Atchison,005
+PTTRT2,United States,Missouri,29,Audrain,007
+PTTRT2,United States,Missouri,29,Barry,009
+PTTRT2,United States,Missouri,29,Barton,011
+PTTRT2,United States,Missouri,29,Benton,015
+PTTRT2,United States,Missouri,29,Boone,019
+PTTRT2,United States,Missouri,29,Butler,023
+PTTRT2,United States,Missouri,29,Callaway,027
+PTTRT2,United States,Missouri,29,Camden,029
+PTTRT2,United States,Missouri,29,Cape Girardeau,031
+PTTRT2,United States,Missouri,29,Carter,035
+PTTRT2,United States,Missouri,29,Cedar,039
+PTTRT2,United States,Missouri,29,Chariton,041
+PTTRT2,United States,Missouri,29,Christian,043
+PTTRT2,United States,Missouri,29,Clark,045
+PTTRT2,United States,Missouri,29,Cooper,053
+PTTRT2,United States,Missouri,29,Crawford,055
+PTTRT2,United States,Missouri,29,Dade,057
+PTTRT2,United States,Missouri,29,Dallas,059
+PTTRT2,United States,Missouri,29,Dent,065
+PTTRT2,United States,Missouri,29,Douglas,067
+PTTRT2,United States,Missouri,29,Franklin,071
+PTTRT2,United States,Missouri,29,Gasconade,073
+PTTRT2,United States,Missouri,29,Greene,077
+PTTRT2,United States,Missouri,29,Hickory,085
+PTTRT2,United States,Missouri,29,Howard,089
+PTTRT2,United States,Missouri,29,Howell,091
+PTTRT2,United States,Missouri,29,Iron,093
+PTTRT2,United States,Missouri,29,Jasper,097
+PTTRT2,United States,Missouri,29,Jefferson,099
+PTTRT2,United States,Missouri,29,Knox,103
+PTTRT2,United States,Missouri,29,Laclede,105
+PTTRT2,United States,Missouri,29,Lawrence,109
+PTTRT2,United States,Missouri,29,Lewis,111
+PTTRT2,United States,Missouri,29,Lincoln,113
+PTTRT2,United States,Missouri,29,Madison,123
+PTTRT2,United States,Missouri,29,Maries,125
+PTTRT2,United States,Missouri,29,Marion,127
+PTTRT2,United States,Missouri,29,McDonald,119
+PTTRT2,United States,Missouri,29,Miller,131
+PTTRT2,United States,Missouri,29,Moniteau,135
+PTTRT2,United States,Missouri,29,Monroe,137
+PTTRT2,United States,Missouri,29,Montgomery,139
+PTTRT2,United States,Missouri,29,Morgan,141
+PTTRT2,United States,Missouri,29,Newton,145
+PTTRT2,United States,Missouri,29,Oregon,149
+PTTRT2,United States,Missouri,29,Osage,151
+PTTRT2,United States,Missouri,29,Ozark,153
+PTTRT2,United States,Missouri,29,Pettis,159
+PTTRT2,United States,Missouri,29,Phelps,161
+PTTRT2,United States,Missouri,29,Pike,163
+PTTRT2,United States,Missouri,29,Polk,167
+PTTRT2,United States,Missouri,29,Pulaski,169
+PTTRT2,United States,Missouri,29,Ralls,173
+PTTRT2,United States,Missouri,29,Randolph,175
+PTTRT2,United States,Missouri,29,Reynolds,179
+PTTRT2,United States,Missouri,29,Ripley,181
+PTTRT2,United States,Missouri,29,Saline,195
+PTTRT2,United States,Missouri,29,Shannon,203
+PTTRT2,United States,Missouri,29,Shelby,205
+PTTRT2,United States,Missouri,29,St. Charles,183
+PTTRT2,United States,Missouri,29,St. Francois,187
+PTTRT2,United States,Missouri,29,St. Louis,189
+PTTRT2,United States,Missouri,29,Ste. Genevieve,186
+PTTRT2,United States,Missouri,29,Stone,209
+PTTRT2,United States,Missouri,29,Taney,213
+PTTRT2,United States,Missouri,29,Texas,215
+PTTRT2,United States,Missouri,29,Vernon,217
+PTTRT2,United States,Missouri,29,Warren,219
+PTTRT2,United States,Missouri,29,Washington,221
+PTTRT2,United States,Missouri,29,Wayne,223
+PTTRT2,United States,Missouri,29,Webster,225
+PTTRT2,United States,Missouri,29,Wright,229
+PTTRT2,United States,Nebraska,31,,
+PTTRT2,United States,New Hampshire,33,,
+PTTRT2,United States,New Hampshire,33,Rockingham,015
+PTTRT2,United States,New Hampshire,33,Strafford,017
+PTTRT2,United States,New Jersey,34,,
+PTTRT2,United States,New Jersey,34,Burlington,005
+PTTRT2,United States,New Jersey,34,Hudson,017
+PTTRT2,United States,New Jersey,34,Hunterdon,019
+PTTRT2,United States,New Jersey,34,Mercer,021
+PTTRT2,United States,New Jersey,34,Middlesex,023
+PTTRT2,United States,New Jersey,34,Morris,027
+PTTRT2,United States,New Jersey,34,Somerset,035
+PTTRT2,United States,New Jersey,34,Warren,041
+PTTRT2,United States,New York,36,,
+PTTRT2,United States,New York,36,Bronx,005
+PTTRT2,United States,New York,36,Chautauqua,013
+PTTRT2,United States,New York,36,Delaware,025
+PTTRT2,United States,New York,36,Erie,029
+PTTRT2,United States,New York,36,Monroe,055
+PTTRT2,United States,New York,36,Nassau,059
+PTTRT2,United States,New York,36,New York,061
+PTTRT2,United States,New York,36,Niagara,063
+PTTRT2,United States,New York,36,Queens,081
+PTTRT2,United States,New York,36,Richmond,085
+PTTRT2,United States,New York,36,Rockland,087
+PTTRT2,United States,New York,36,Suffolk,103
+PTTRT2,United States,New York,36,Warren,113
+PTTRT2,United States,New York,36,Westchester,119
+PTTRT2,United States,New York,36,Wyoming,121
+PTTRT2,United States,North Carolina,37,,
+PTTRT2,United States,Ohio,39,,
+PTTRT2,United States,Ohio,39,Adams,001
+PTTRT2,United States,Ohio,39,Ashland,005
+PTTRT2,United States,Ohio,39,Ashtabula,007
+PTTRT2,United States,Ohio,39,Athens,009
+PTTRT2,United States,Ohio,39,Auglaize,011
+PTTRT2,United States,Ohio,39,Butler,017
+PTTRT2,United States,Ohio,39,Champaign,021
+PTTRT2,United States,Ohio,39,Clark,023
+PTTRT2,United States,Ohio,39,Clermont,025
+PTTRT2,United States,Ohio,39,Clinton,027
+PTTRT2,United States,Ohio,39,Coshocton,031
+PTTRT2,United States,Ohio,39,Cuyahoga,035
+PTTRT2,United States,Ohio,39,Darke,037
+PTTRT2,United States,Ohio,39,Defiance,039
+PTTRT2,United States,Ohio,39,Delaware,041
+PTTRT2,United States,Ohio,39,Erie,043
+PTTRT2,United States,Ohio,39,Fayette,047
+PTTRT2,United States,Ohio,39,Franklin,049
+PTTRT2,United States,Ohio,39,Fulton,051
+PTTRT2,United States,Ohio,39,Greene,057
+PTTRT2,United States,Ohio,39,Hamilton,061
+PTTRT2,United States,Ohio,39,Hancock,063
+PTTRT2,United States,Ohio,39,Henry,069
+PTTRT2,United States,Ohio,39,Huron,077
+PTTRT2,United States,Ohio,39,Jackson,079
+PTTRT2,United States,Ohio,39,Knox,083
+PTTRT2,United States,Ohio,39,Lake,085
+PTTRT2,United States,Ohio,39,Licking,089
+PTTRT2,United States,Ohio,39,Logan,091
+PTTRT2,United States,Ohio,39,Lorain,093
+PTTRT2,United States,Ohio,39,Lucas,095
+PTTRT2,United States,Ohio,39,Madison,097
+PTTRT2,United States,Ohio,39,Marion,101
+PTTRT2,United States,Ohio,39,Meigs,105
+PTTRT2,United States,Ohio,39,Mercer,107
+PTTRT2,United States,Ohio,39,Miami,109
+PTTRT2,United States,Ohio,39,Monroe,111
+PTTRT2,United States,Ohio,39,Montgomery,113
+PTTRT2,United States,Ohio,39,Muskingum,119
+PTTRT2,United States,Ohio,39,Ottawa,123
+PTTRT2,United States,Ohio,39,Paulding,125
+PTTRT2,United States,Ohio,39,Pike,131
+PTTRT2,United States,Ohio,39,Portage,133
+PTTRT2,United States,Ohio,39,Preble,135
+PTTRT2,United States,Ohio,39,Putnam,137
+PTTRT2,United States,Ohio,39,Richland,139
+PTTRT2,United States,Ohio,39,Ross,141
+PTTRT2,United States,Ohio,39,Sandusky,143
+PTTRT2,United States,Ohio,39,Scioto,145
+PTTRT2,United States,Ohio,39,Seneca,147
+PTTRT2,United States,Ohio,39,Shelby,149
+PTTRT2,United States,Ohio,39,Stark,151
+PTTRT2,United States,Ohio,39,Tuscarawas,157
+PTTRT2,United States,Ohio,39,Union,159
+PTTRT2,United States,Ohio,39,Warren,165
+PTTRT2,United States,Ohio,39,Washington,167
+PTTRT2,United States,Ohio,39,Wayne,169
+PTTRT2,United States,Ohio,39,Williams,171
+PTTRT2,United States,Ohio,39,Wood,173
+PTTRT2,United States,Oklahoma,40,,
+PTTRT2,United States,Pennsylvania,42,,
+PTTRT2,United States,Pennsylvania,42,Allegheny,003
+PTTRT2,United States,Pennsylvania,42,Berks,011
+PTTRT2,United States,Pennsylvania,42,Bucks,017
+PTTRT2,United States,Pennsylvania,42,Delaware,045
+PTTRT2,United States,Pennsylvania,42,Erie,049
+PTTRT2,United States,Pennsylvania,42,Franklin,055
+PTTRT2,United States,Pennsylvania,42,Fulton,057
+PTTRT2,United States,Pennsylvania,42,Montgomery,091
+PTTRT2,United States,Pennsylvania,42,Northampton,095
+PTTRT2,United States,Pennsylvania,42,Perry,099
+PTTRT2,United States,Pennsylvania,42,Philadelphia,101
+PTTRT2,United States,Pennsylvania,42,Westmoreland,129
+PTTRT2,United States,Rhode Island,44,,
+PTTRT2,United States,Rhode Island,44,Kent,003
+PTTRT2,United States,South Carolina,45,,
+PTTRT2,United States,Tennessee,47,,
+PTTRT2,United States,Tennessee,47,Bedford,003
+PTTRT2,United States,Tennessee,47,Cannon,015
+PTTRT2,United States,Tennessee,47,Cheatham,021
+PTTRT2,United States,Tennessee,47,Claiborne,025
+PTTRT2,United States,Tennessee,47,Clay,027
+PTTRT2,United States,Tennessee,47,Cumberland,035
+PTTRT2,United States,Tennessee,47,Davidson,037
+PTTRT2,United States,Tennessee,47,Decatur,039
+PTTRT2,United States,Tennessee,47,DeKalb,041
+PTTRT2,United States,Tennessee,47,Grainger,057
+PTTRT2,United States,Tennessee,47,Hardin,071
+PTTRT2,United States,Tennessee,47,Hickman,081
+PTTRT2,United States,Tennessee,47,Houston,083
+PTTRT2,United States,Tennessee,47,Humphreys,085
+PTTRT2,United States,Tennessee,47,Knox,093
+PTTRT2,United States,Tennessee,47,Lawrence,099
+PTTRT2,United States,Tennessee,47,Lincoln,103
+PTTRT2,United States,Tennessee,47,Loudon,105
+PTTRT2,United States,Tennessee,47,Marshall,117
+PTTRT2,United States,Tennessee,47,Maury,119
+PTTRT2,United States,Tennessee,47,Montgomery,125
+PTTRT2,United States,Tennessee,47,Morgan,129
+PTTRT2,United States,Tennessee,47,Perry,135
+PTTRT2,United States,Tennessee,47,Polk,139
+PTTRT2,United States,Tennessee,47,Putnam,141
+PTTRT2,United States,Tennessee,47,Roane,145
+PTTRT2,United States,Tennessee,47,Robertson,147
+PTTRT2,United States,Tennessee,47,Rutherford,149
+PTTRT2,United States,Tennessee,47,Sevier,155
+PTTRT2,United States,Tennessee,47,Smith,159
+PTTRT2,United States,Tennessee,47,Stewart,161
+PTTRT2,United States,Tennessee,47,Sumner,165
+PTTRT2,United States,Tennessee,47,Washington,179
+PTTRT2,United States,Tennessee,47,White,185
+PTTRT2,United States,Tennessee,47,Wilson,189
+PTTRT2,United States,Texas,48,,
+PTTRT2,United States,Vermont,50,,
+PTTRT2,United States,Virginia,51,,
+PTTRT2,United States,West Virginia,54,,
+PTTRT2,United States,West Virginia,54,Fayette,019
+PTTRT2,United States,West Virginia,54,Mercer,055
+PTTRT2,United States,West Virginia,54,Morgan,065
+PTTRT2,United States,West Virginia,54,Preston,077
+PTTRT2,United States,West Virginia,54,Wyoming,109
+PTTRT2,United States,Wisconsin,55,,
+PTTRT2,United States,Wisconsin,55,Dane,025
+PTTRT2,United States,Wisconsin,55,Dodge,027
+PTTRT2,United States,Wisconsin,55,Grant,043
+PTTRT2,United States,Wisconsin,55,Green,045
+PTTRT2,United States,Wisconsin,55,Kenosha,059
+PTTRT2,United States,Wisconsin,55,Menominee,078
+PTTRT2,United States,Wisconsin,55,Milwaukee,079
+PTTRT2,United States,Wisconsin,55,Ozaukee,089
+PTTRT2,United States,Wisconsin,55,Racine,101
+PTTRT2,United States,Wisconsin,55,Rock,105
+PTTRT2,United States,Wisconsin,55,Walworth,127
+PTTRT2,United States,Wisconsin,55,Waukesha,133

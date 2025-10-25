@@ -1,0 +1,108 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ARDO3,United States,California,06,,
+ARDO3,United States,California,06,Alameda,001
+ARDO3,United States,California,06,Alpine,003
+ARDO3,United States,California,06,Amador,005
+ARDO3,United States,California,06,Butte,007
+ARDO3,United States,California,06,Calaveras,009
+ARDO3,United States,California,06,Colusa,011
+ARDO3,United States,California,06,Contra Costa,013
+ARDO3,United States,California,06,Del Norte,015
+ARDO3,United States,California,06,El Dorado,017
+ARDO3,United States,California,06,Fresno,019
+ARDO3,United States,California,06,Glenn,021
+ARDO3,United States,California,06,Humboldt,023
+ARDO3,United States,California,06,Inyo,027
+ARDO3,United States,California,06,Kern,029
+ARDO3,United States,California,06,Kings,031
+ARDO3,United States,California,06,Lake,033
+ARDO3,United States,California,06,Lassen,035
+ARDO3,United States,California,06,Los Angeles,037
+ARDO3,United States,California,06,Madera,039
+ARDO3,United States,California,06,Marin,041
+ARDO3,United States,California,06,Mariposa,043
+ARDO3,United States,California,06,Mendocino,045
+ARDO3,United States,California,06,Merced,047
+ARDO3,United States,California,06,Modoc,049
+ARDO3,United States,California,06,Mono,051
+ARDO3,United States,California,06,Monterey,053
+ARDO3,United States,California,06,Napa,055
+ARDO3,United States,California,06,Nevada,057
+ARDO3,United States,California,06,Orange,059
+ARDO3,United States,California,06,Placer,061
+ARDO3,United States,California,06,Plumas,063
+ARDO3,United States,California,06,Riverside,065
+ARDO3,United States,California,06,Sacramento,067
+ARDO3,United States,California,06,San Benito,069
+ARDO3,United States,California,06,San Bernardino,071
+ARDO3,United States,California,06,San Diego,073
+ARDO3,United States,California,06,San Francisco,075
+ARDO3,United States,California,06,San Joaquin,077
+ARDO3,United States,California,06,San Luis Obispo,079
+ARDO3,United States,California,06,San Mateo,081
+ARDO3,United States,California,06,Santa Barbara,083
+ARDO3,United States,California,06,Santa Clara,085
+ARDO3,United States,California,06,Santa Cruz,087
+ARDO3,United States,California,06,Shasta,089
+ARDO3,United States,California,06,Sierra,091
+ARDO3,United States,California,06,Siskiyou,093
+ARDO3,United States,California,06,Solano,095
+ARDO3,United States,California,06,Sonoma,097
+ARDO3,United States,California,06,Stanislaus,099
+ARDO3,United States,California,06,Sutter,101
+ARDO3,United States,California,06,Tehama,103
+ARDO3,United States,California,06,Trinity,105
+ARDO3,United States,California,06,Tulare,107
+ARDO3,United States,California,06,Tuolumne,109
+ARDO3,United States,California,06,Ventura,111
+ARDO3,United States,California,06,Yolo,113
+ARDO3,United States,California,06,Yuba,115
+ARDO3,United States,Idaho,16,,
+ARDO3,United States,Idaho,16,Benewah,009
+ARDO3,United States,Idaho,16,Boise,015
+ARDO3,United States,Idaho,16,Bonner,017
+ARDO3,United States,Idaho,16,Canyon,027
+ARDO3,United States,Idaho,16,Clearwater,035
+ARDO3,United States,Idaho,16,Elmore,039
+ARDO3,United States,Idaho,16,Kootenai,055
+ARDO3,United States,Idaho,16,Latah,057
+ARDO3,United States,Idaho,16,Nez Perce,069
+ARDO3,United States,Idaho,16,Valley,085
+ARDO3,United States,Nevada,32,,
+ARDO3,United States,Nevada,32,Carson City,510
+ARDO3,United States,Nevada,32,Douglas,005
+ARDO3,United States,Nevada,32,Humboldt,013
+ARDO3,United States,Nevada,32,Lyon,019
+ARDO3,United States,Nevada,32,Pershing,027
+ARDO3,United States,Nevada,32,Storey,029
+ARDO3,United States,Nevada,32,Washoe,031
+ARDO3,United States,Oregon,41,,
+ARDO3,United States,Oregon,41,Benton,003
+ARDO3,United States,Oregon,41,Clackamas,005
+ARDO3,United States,Oregon,41,Clatsop,007
+ARDO3,United States,Oregon,41,Curry,015
+ARDO3,United States,Oregon,41,Douglas,019
+ARDO3,United States,Oregon,41,Hood River,027
+ARDO3,United States,Oregon,41,Jackson,029
+ARDO3,United States,Oregon,41,Josephine,033
+ARDO3,United States,Oregon,41,Klamath,035
+ARDO3,United States,Oregon,41,Lane,039
+ARDO3,United States,Oregon,41,Linn,043
+ARDO3,United States,Oregon,41,Marion,047
+ARDO3,United States,Oregon,41,Multnomah,051
+ARDO3,United States,Oregon,41,Polk,053
+ARDO3,United States,Oregon,41,Umatilla,059
+ARDO3,United States,Oregon,41,Washington,067
+ARDO3,United States,Oregon,41,Yamhill,071
+ARDO3,United States,Washington,53,,
+ARDO3,United States,Washington,53,Adams,001
+ARDO3,United States,Washington,53,Chelan,007
+ARDO3,United States,Washington,53,Grant,025
+ARDO3,United States,Washington,53,Kittitas,037
+ARDO3,United States,Washington,53,Klickitat,039
+ARDO3,United States,Washington,53,Pierce,053
+ARDO3,United States,Washington,53,Skamania,059
+ARDO3,United States,Washington,53,Spokane,063
+ARDO3,United States,Washington,53,Whitman,075
+ARDO3,United States,Washington,53,Yakima,077

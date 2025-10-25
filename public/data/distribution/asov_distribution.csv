@@ -1,0 +1,154 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ASOV,Canada,Alberta,01,,
+ASOV,Canada,British Columbia,02,,
+ASOV,Canada,Manitoba,03,,
+ASOV,Canada,Ontario,08,,
+ASOV,Canada,Saskatchewan,11,,
+ASOV,United States,Illinois,17,,
+ASOV,United States,Illinois,17,Cook,031
+ASOV,United States,Illinois,17,Kankakee,091
+ASOV,United States,Illinois,17,Kendall,093
+ASOV,United States,Illinois,17,Lake,097
+ASOV,United States,Illinois,17,McHenry,111
+ASOV,United States,Iowa,19,,
+ASOV,United States,Iowa,19,Adair,001
+ASOV,United States,Iowa,19,Clay,041
+ASOV,United States,Iowa,19,Emmet,063
+ASOV,United States,Iowa,19,Mitchell,131
+ASOV,United States,Michigan,26,,
+ASOV,United States,Michigan,26,Menominee,109
+ASOV,United States,Minnesota,27,,
+ASOV,United States,Minnesota,27,Anoka,003
+ASOV,United States,Minnesota,27,Becker,005
+ASOV,United States,Minnesota,27,Beltrami,007
+ASOV,United States,Minnesota,27,Benton,009
+ASOV,United States,Minnesota,27,Carlton,017
+ASOV,United States,Minnesota,27,Cass,021
+ASOV,United States,Minnesota,27,Chippewa,023
+ASOV,United States,Minnesota,27,Clay,027
+ASOV,United States,Minnesota,27,Clearwater,029
+ASOV,United States,Minnesota,27,Crow Wing,035
+ASOV,United States,Minnesota,27,Dakota,037
+ASOV,United States,Minnesota,27,Douglas,041
+ASOV,United States,Minnesota,27,Goodhue,049
+ASOV,United States,Minnesota,27,Hennepin,053
+ASOV,United States,Minnesota,27,Houston,055
+ASOV,United States,Minnesota,27,Hubbard,057
+ASOV,United States,Minnesota,27,Isanti,059
+ASOV,United States,Minnesota,27,Kandiyohi,067
+ASOV,United States,Minnesota,27,Kittson,069
+ASOV,United States,Minnesota,27,Lac qui Parle,073
+ASOV,United States,Minnesota,27,Lake of the Woods,077
+ASOV,United States,Minnesota,27,Lincoln,081
+ASOV,United States,Minnesota,27,Lyon,083
+ASOV,United States,Minnesota,27,Mahnomen,087
+ASOV,United States,Minnesota,27,Marshall,089
+ASOV,United States,Minnesota,27,Martin,091
+ASOV,United States,Minnesota,27,McLeod,085
+ASOV,United States,Minnesota,27,Meeker,093
+ASOV,United States,Minnesota,27,Morrison,097
+ASOV,United States,Minnesota,27,Mower,099
+ASOV,United States,Minnesota,27,Murray,101
+ASOV,United States,Minnesota,27,Nicollet,103
+ASOV,United States,Minnesota,27,Norman,107
+ASOV,United States,Minnesota,27,Olmsted,109
+ASOV,United States,Minnesota,27,Otter Tail,111
+ASOV,United States,Minnesota,27,Pennington,113
+ASOV,United States,Minnesota,27,Pipestone,117
+ASOV,United States,Minnesota,27,Polk,119
+ASOV,United States,Minnesota,27,Pope,121
+ASOV,United States,Minnesota,27,Ramsey,123
+ASOV,United States,Minnesota,27,Redwood,127
+ASOV,United States,Minnesota,27,Rock,133
+ASOV,United States,Minnesota,27,Roseau,135
+ASOV,United States,Minnesota,27,Sherburne,141
+ASOV,United States,Minnesota,27,St. Louis,137
+ASOV,United States,Minnesota,27,Stearns,145
+ASOV,United States,Minnesota,27,Todd,153
+ASOV,United States,Minnesota,27,Traverse,155
+ASOV,United States,Minnesota,27,Wabasha,157
+ASOV,United States,Minnesota,27,Wadena,159
+ASOV,United States,Minnesota,27,Waseca,161
+ASOV,United States,Minnesota,27,Washington,163
+ASOV,United States,Minnesota,27,Winona,169
+ASOV,United States,Minnesota,27,Wright,171
+ASOV,United States,Minnesota,27,Yellow Medicine,173
+ASOV,United States,Montana,30,,
+ASOV,United States,North Dakota,38,,
+ASOV,United States,North Dakota,38,Barnes,003
+ASOV,United States,North Dakota,38,Benson,005
+ASOV,United States,North Dakota,38,Bottineau,009
+ASOV,United States,North Dakota,38,Burke,013
+ASOV,United States,North Dakota,38,Burleigh,015
+ASOV,United States,North Dakota,38,Cass,017
+ASOV,United States,North Dakota,38,Dickey,021
+ASOV,United States,North Dakota,38,Divide,023
+ASOV,United States,North Dakota,38,Eddy,027
+ASOV,United States,North Dakota,38,Kidder,043
+ASOV,United States,North Dakota,38,LaMoure,045
+ASOV,United States,North Dakota,38,McHenry,049
+ASOV,United States,North Dakota,38,McIntosh,051
+ASOV,United States,North Dakota,38,McLean,055
+ASOV,United States,North Dakota,38,Mercer,057
+ASOV,United States,North Dakota,38,Morton,059
+ASOV,United States,North Dakota,38,Mountrail,061
+ASOV,United States,North Dakota,38,Oliver,065
+ASOV,United States,North Dakota,38,Pembina,067
+ASOV,United States,North Dakota,38,Pierce,069
+ASOV,United States,North Dakota,38,Ransom,073
+ASOV,United States,North Dakota,38,Richland,077
+ASOV,United States,North Dakota,38,Rolette,079
+ASOV,United States,North Dakota,38,Sargent,081
+ASOV,United States,North Dakota,38,Steele,091
+ASOV,United States,North Dakota,38,Stutsman,093
+ASOV,United States,North Dakota,38,Ward,101
+ASOV,United States,North Dakota,38,Wells,103
+ASOV,United States,North Dakota,38,Williams,105
+ASOV,United States,South Dakota,46,,
+ASOV,United States,South Dakota,46,Beadle,005
+ASOV,United States,South Dakota,46,Brookings,011
+ASOV,United States,South Dakota,46,Clay,027
+ASOV,United States,South Dakota,46,Codington,029
+ASOV,United States,South Dakota,46,Custer,033
+ASOV,United States,South Dakota,46,Day,037
+ASOV,United States,South Dakota,46,Lawrence,081
+ASOV,United States,South Dakota,46,Marshall,091
+ASOV,United States,South Dakota,46,Meade,093
+ASOV,United States,South Dakota,46,Pennington,103
+ASOV,United States,South Dakota,46,Roberts,109
+ASOV,United States,South Dakota,46,Spink,115
+ASOV,United States,Wisconsin,55,,
+ASOV,United States,Wisconsin,55,Adams,001
+ASOV,United States,Wisconsin,55,Barron,005
+ASOV,United States,Wisconsin,55,Bayfield,007
+ASOV,United States,Wisconsin,55,Burnett,013
+ASOV,United States,Wisconsin,55,Chippewa,017
+ASOV,United States,Wisconsin,55,Columbia,021
+ASOV,United States,Wisconsin,55,Dane,025
+ASOV,United States,Wisconsin,55,Dodge,027
+ASOV,United States,Wisconsin,55,Douglas,031
+ASOV,United States,Wisconsin,55,Dunn,033
+ASOV,United States,Wisconsin,55,Eau Claire,035
+ASOV,United States,Wisconsin,55,Green,045
+ASOV,United States,Wisconsin,55,Jackson,053
+ASOV,United States,Wisconsin,55,Jefferson,055
+ASOV,United States,Wisconsin,55,Marinette,075
+ASOV,United States,Wisconsin,55,Milwaukee,079
+ASOV,United States,Wisconsin,55,Monroe,081
+ASOV,United States,Wisconsin,55,Oconto,083
+ASOV,United States,Wisconsin,55,Pierce,093
+ASOV,United States,Wisconsin,55,Polk,095
+ASOV,United States,Wisconsin,55,Portage,097
+ASOV,United States,Wisconsin,55,Racine,101
+ASOV,United States,Wisconsin,55,Richland,103
+ASOV,United States,Wisconsin,55,Rock,105
+ASOV,United States,Wisconsin,55,Sauk,111
+ASOV,United States,Wisconsin,55,Shawano,115
+ASOV,United States,Wisconsin,55,Washburn,129
+ASOV,United States,Wisconsin,55,Waupaca,135
+ASOV,United States,Wisconsin,55,Waushara,137
+ASOV,United States,Wisconsin,55,Winnebago,139
+ASOV,United States,Wisconsin,55,Wood,141
+ASOV,United States,Wyoming,56,,
+ASOV,United States,Wyoming,56,Crook,011
