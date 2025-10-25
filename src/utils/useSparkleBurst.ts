@@ -3,41 +3,41 @@
  * Used for celebration effects when adding plants to the garden.
  * 
  * @param el - The HTML element to center the burst animation on
- * @param n - Number of sparkle particles to create (default: 60)
+ * @param n - Number of sparkle particles to create (default: 120)
  */
-export function sparkleBurst(el: HTMLElement, n = 60) {
+export function sparkleBurst(el: HTMLElement, n = 120) {
   const rect = el.getBoundingClientRect();
   const cx = rect.left + rect.width / 2;
   const cy = rect.top + rect.height / 2;
   const TAU = Math.PI * 2;
   
   // Constants for sparkle appearance and behavior
-  const DOT_SIZE = 120;
+  const DOT_SIZE = 4;
   const DOT_RADIUS = DOT_SIZE / 2;
-  const PLANT_GREEN_WEIGHT = 0.6; // 60% chance of plant green colors
-  const PLANT_GREEN_COUNT = 4; // Number of plant green color variants
   
-  // Define plant green with rainbow flecks colors
+  // Define colors for sparkles
+  const plantGreen = '#4CAF50';
   const colors = [
-    '#4CAF50', // Plant green
-    '#66BB6A', // Light plant green
-    '#2E7D32', // Dark plant green
-    '#8BC34A', // Lime green
-    '#FF6B6B', // Rainbow red
-    '#4ECDC4', // Rainbow cyan
-    '#FFE66D', // Rainbow yellow
-    '#9C27B0', // Rainbow purple
-    '#FF9800', // Rainbow orange
+    '#FF0000', // red
+    '#FF9800', // orange
+    '#FFFF00', // yellow
+    '#00FF00', // green
+    '#0000FF', // blue
+    '#9C27B0', // purple
   ];
   
   for (let i = 0; i < n; i++) {
     const dot = document.createElement("div");
     
-    // Pick a color (favor plant greens, with occasional rainbow)
-    const colorIndex = Math.random() < PLANT_GREEN_WEIGHT
-      ? Math.floor(Math.random() * PLANT_GREEN_COUNT) // Plant green shades
-      : Math.floor(Math.random() * colors.length); // Any color including rainbow
-    const color = colors[colorIndex];
+    // First 60 particles are plant green, remaining 60 distributed evenly among rainbow colors
+    let color;
+    if (i < 60) {
+      color = plantGreen;
+    } else {
+      // Each rainbow color gets 10 particles
+      const rainbowIndex = Math.floor((i - 60) / 10);
+      color = colors[rainbowIndex];
+    }
     
     dot.style.cssText = `
       position: fixed;
