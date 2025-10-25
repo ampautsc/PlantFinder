@@ -60,15 +60,19 @@ export function sparkleBurst(el: HTMLElement, n = 24) {
     dot.style.left = cx - DOT_RADIUS + "px";
     dot.style.top = cy - DOT_RADIUS + "px";
     
-    dot.animate(
-      [
-        { transform: "translate(0,0)", opacity: 1 },
-        { transform: `translate(${tx - (cx - DOT_RADIUS)}px,${ty - (cy - DOT_RADIUS)}px)`, opacity: 0 }
-      ],
-      {
-        duration: 600 + Math.random() * 300,
-        easing: "cubic-bezier(.2,.6,.2,1)"
-      }
-    ).onfinish = () => dot.remove();
+    // Use requestAnimationFrame to ensure the DOM has painted before animating
+    requestAnimationFrame(() => {
+      const animation = dot.animate(
+        [
+          { transform: "translate(0,0)", opacity: 1 },
+          { transform: `translate(${tx - (cx - DOT_RADIUS)}px,${ty - (cy - DOT_RADIUS)}px)`, opacity: 0 }
+        ],
+        {
+          duration: 600 + Math.random() * 300,
+          easing: "cubic-bezier(.2,.6,.2,1)"
+        }
+      );
+      animation.onfinish = () => dot.remove();
+    });
   }
 }
