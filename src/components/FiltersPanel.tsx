@@ -2,6 +2,7 @@ import { useState, useRef, useEffect } from 'react';
 import { createPortal } from 'react-dom';
 import { useTranslation } from 'react-i18next';
 import { PlantFilters } from '../types/Plant';
+import { parseAndGeocodeLocation } from '../utils/geocodingUtils';
 
 interface FiltersPanelProps {
   filters: PlantFilters;
@@ -21,7 +22,7 @@ interface FiltersPanelProps {
   onSearchChange: (query: string) => void;
 }
 
-type FilterCategory = 'wildlife' | 'sun' | 'moisture' | 'soil' | 'bloomColor' | 'bloomTime' | 'nativeRange' | 'hardinessZones';
+type FilterCategory = 'location' | 'wildlife' | 'sun' | 'moisture' | 'soil' | 'bloomColor' | 'bloomTime' | 'nativeRange' | 'hardinessZones';
 
 function FiltersPanel({
   filters,
@@ -38,6 +39,18 @@ function FiltersPanel({
   const buttonRefs = useRef<{ [key: string]: HTMLButtonElement | null }>({});
   const expansionPanelRef = useRef<HTMLDivElement | null>(null);
   const filtersPanelRef = useRef<HTMLDivElement | null>(null);
+  
+  // Location filter state
+  const [locationInput, setLocationInput] = useState<string>(filters.location || '');
+  const [geocodingStatus, setGeocodingStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
+
+  // Sync locationInput with filters.location when filters change externally
+  useEffect(() => {
+    setLocationInput(filters.location || '');
+    if (!filters.location) {
+      setGeocodingStatus('idle');
+    }
+  }, [filters.location]);
 
   // Handle click outside to close expansion panel
   useEffect(() => {
@@ -201,6 +214,55 @@ function FiltersPanel({
     }
   };
 
+  // Handle location search with geocoding
+  const handleLocationSearch = async () => {
+    if (!locationInput.trim()) {
+      // Clear location filter
+      onFiltersChange({
+        ...filters,
+        location: undefined,
+        countyFips: undefined,
+        stateFips: undefined,
+      });
+      setGeocodingStatus('idle');
+      return;
+    }
+
+    setGeocodingStatus('loading');
+    
+    try {
+      const result = await parseAndGeocodeLocation(locationInput);
+      
+      if (result) {
+        // Successfully geocoded - apply filter
+        onFiltersChange({
+          ...filters,
+          location: locationInput,
+          countyFips: [result.countyFips],
+          stateFips: [result.stateFips],
+        });
+        setGeocodingStatus('success');
+      } else {
+        // Failed to geocode
+        setGeocodingStatus('error');
+      }
+    } catch (error) {
+      console.error('Geocoding error:', error);
+      setGeocodingStatus('error');
+    }
+  };
+
+  const handleLocationClear = () => {
+    setLocationInput('');
+    onFiltersChange({
+      ...filters,
+      location: undefined,
+      countyFips: undefined,
+      stateFips: undefined,
+    });
+    setGeocodingStatus('idle');
+  };
+
   // Helper function to translate filter values
   const translateFilterValue = (value: string): string => {
     // Try to find a translation key for the value
@@ -224,6 +286,8 @@ function FiltersPanel({
 
   const hasActiveFilters = (category: FilterCategory): boolean => {
     switch (category) {
+      case 'location':
+        return !!(filters.location || filters.countyFips || filters.stateFips);
       case 'wildlife':
         return (
           ((filters.hostPlantTo as string[] | undefined) || []).length > 0 ||
@@ -244,9 +308,10 @@ function FiltersPanel({
   };
 
   const filterCategories = [
+    { key: 'location' as FilterCategory, icon: '📍', label: t('filters.location') },
     { key: 'wildlife' as FilterCategory, icon: '🦋', label: t('filters.wildlife') },
     { key: 'hardinessZones' as FilterCategory, icon: '🌡️', label: t('filters.hardinessZones') },
-    { key: 'nativeRange' as FilterCategory, icon: '📍', label: t('filters.nativeRange') },
+    { key: 'nativeRange' as FilterCategory, icon: '🌎', label: t('filters.nativeRange') },
     { key: 'sun' as FilterCategory, icon: '☀️', label: t('filters.sun') },
     { key: 'moisture' as FilterCategory, icon: '💧', label: t('filters.moisture') },
     { key: 'soil' as FilterCategory, icon: '🌱', label: t('filters.soil') },
@@ -300,6 +365,55 @@ function FiltersPanel({
       {/* Expanded filter options - rendered via portal to document body */}
       {expandedCategory && document.body && createPortal(
         <div ref={expansionPanelRef} className="filter-expansion" style={{ top: `${expansionPosition.top}px`, left: `${expansionPosition.left}px` }}>
+          {expandedCategory === 'location' && (
+            <div className="filter-options-column">
+              <div className="filter-section">
+                <div className="filter-section-title">{t('filters.locationHelp')}</div>
+                <div className="location-input-container">
+                  <input
+                    type="text"
+                    className="location-input"
+                    placeholder={t('filters.locationPlaceholder')}
+                    value={locationInput}
+                    onChange={(e) => setLocationInput(e.target.value)}
+                    onKeyPress={(e) => {
+                      if (e.key === 'Enter') {
+                        handleLocationSearch();
+                      }
+                    }}
+                  />
+                  <div className="location-buttons">
+                    <button
+                      className="location-search-btn"
+                      onClick={handleLocationSearch}
+                      disabled={geocodingStatus === 'loading'}
+                    >
+                      {geocodingStatus === 'loading' ? t('filters.searching') : t('filters.search')}
+                    </button>
+                    {(filters.location || locationInput) && (
+                      <button
+                        className="location-clear-btn"
+                        onClick={handleLocationClear}
+                      >
+                        {t('filters.clear')}
+                      </button>
+                    )}
+                  </div>
+                </div>
+                {geocodingStatus === 'success' && filters.location && (
+                  <div className="location-status location-success">
+                    ✓ {t('filters.locationFound')}: {filters.location}
+                  </div>
+                )}
+                {geocodingStatus === 'error' && (
+                  <div className="location-status location-error">
+                    ✗ {t('filters.locationNotFound')}
+                  </div>
+                )}
+              </div>
+            </div>
+          )}
+
           {expandedCategory === 'wildlife' && (
             <div className="filter-options-column">
               <div className="filter-section">
