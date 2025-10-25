@@ -142,7 +142,7 @@
 
 /* Content Area */
 .detail-content {
-  padding: 0 1rem 2rem;
+  padding: 0 1rem 1rem;
 }
 
 /* Sections */
@@ -214,57 +214,188 @@
   font-weight: 500;
 }
 
-/* Description Section */
-.description-section {
-  line-height: 1.7;
-}
-
-.plant-description {
-  color: var(--text-color);
-  font-size: 1rem;
+/* Compact Description */
+.description-compact {
   margin-bottom: 1rem;
-  opacity: 0.9;
 }
 
-.bloom-info {
+.plant-description-compact {
+  color: var(--text-color);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  opacity: 0.9;
+  margin: 0;
+}
+
+/* Dashboard Grid Layout */
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.dashboard-card {
+  background-color: var(--panel-background);
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+}
+
+.card-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--primary-color);
+  margin: 0 0 0.75rem 0;
+}
+
+[data-theme="light"] .card-title {
+  color: #000000;
+}
+
+/* Compact Growth Conditions */
+.conditions-compact {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+}
+
+.condition-row {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
-  margin-top: 0.75rem;
-  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.85rem;
 }
 
-.bloom-label {
-  font-weight: 600;
+.condition-icon {
+  font-size: 1.25rem;
+  flex-shrink: 0;
+}
+
+.condition-value {
   color: var(--text-color);
-  font-size: 0.95rem;
-  opacity: 0.7;
+  opacity: 0.9;
+  text-transform: capitalize;
+  line-height: 1.3;
 }
 
-.bloom-colors {
+/* Host Species - Compact Icon Grid */
+.host-species-compact {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
 }
 
-.bloom-tag {
+.host-icon-button {
+  background: none;
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  padding: 0;
+  cursor: pointer;
+  transition: all 0.2s;
+  width: 56px;
+  height: 56px;
+  overflow: hidden;
+}
+
+.host-icon-button:hover {
+  border-color: var(--primary-color);
+  transform: scale(1.05);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.host-icon-button:focus {
+  outline: 2px solid var(--primary-color);
+  outline-offset: 2px;
+}
+
+.host-icon-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Wildlife Support - Compact */
+.support-compact {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.support-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.support-icon {
+  font-size: 1.25rem;
+  flex-shrink: 0;
+}
+
+.support-text {
+  color: var(--text-color);
+  opacity: 0.9;
+  text-transform: capitalize;
+  line-height: 1.3;
+}
+
+/* Quick Links */
+.quick-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.quick-link-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 0.75rem;
+  background-color: var(--card-background);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  text-decoration: none;
+  color: var(--text-color);
+  transition: all 0.2s;
+  font-size: 0.85rem;
+}
+
+.quick-link-button:hover {
+  background-color: var(--hover-background);
+  border-color: var(--primary-color);
+  transform: translateX(2px);
+}
+
+.quick-link-button.usda-link {
   background-color: var(--primary-color);
   color: #1a1a1a;
-  padding: 0.35rem 0.75rem;
-  border-radius: 16px;
-  font-size: 0.9rem;
+  border-color: var(--primary-color);
   font-weight: 600;
-  text-transform: capitalize;
 }
 
-.bloom-value {
-  color: var(--text-color);
-  font-size: 0.95rem;
-  text-transform: capitalize;
+[data-theme="light"] .quick-link-button.usda-link {
+  background-color: #000000;
+  color: #ffffff;
+  border-color: #000000;
+}
+
+.quick-link-button.usda-link:hover {
   opacity: 0.9;
+  transform: translateX(2px);
 }
 
-/* Wildlife Section */
+.link-icon {
+  font-size: 1.25rem;
+  flex-shrink: 0;
+}
+
+.link-text {
+  flex: 1;
+}
+
+/* Wildlife Section - Legacy (kept for backward compatibility) */
 .wildlife-section {
   background-color: var(--panel-background);
   padding: 1.5rem;
@@ -304,7 +435,7 @@
   opacity: 0.9;
 }
 
-/* Host Species List with Thumbnails */
+/* Host Species List with Thumbnails - Legacy */
 .host-species-list {
   display: flex;
   flex-direction: column;
@@ -362,15 +493,15 @@
   flex: 1;
 }
 
-/* Expandable Sections */
+/* Expandable Sections - More Compact */
 .expandable-sections {
-  margin-top: 2rem;
+  margin-top: 0.75rem;
 }
 
 .expandable-section {
   border: 1px solid var(--border-color);
-  border-radius: 8px;
-  margin-bottom: 0.75rem;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
   overflow: hidden;
   transition: all 0.2s;
   background-color: var(--panel-background);
@@ -382,7 +513,7 @@
 
 .section-header {
   width: 100%;
-  padding: 1rem 1.25rem;
+  padding: 0.75rem 1rem;
   background-color: var(--card-background);
   border: none;
   display: flex;
@@ -390,7 +521,7 @@
   justify-content: space-between;
   cursor: pointer;
   transition: background-color 0.2s;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 .section-header:hover {
@@ -410,7 +541,7 @@
 }
 
 .section-icon {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 }
 
 .expand-icon {
@@ -429,7 +560,7 @@
 }
 
 .section-content {
-  padding: 1.25rem;
+  padding: 1rem;
   background-color: var(--background-color);
   border-top: 1px solid var(--border-color);
   animation: expandDown 0.2s ease-out;
