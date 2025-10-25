@@ -317,9 +317,10 @@
   align-items: center;
   gap: 0.75rem;
   padding: 0.5rem;
+  background: none;
+  border: 1px solid var(--border-color);
   background-color: var(--background-color);
   border-radius: 8px;
-  border: 1px solid var(--border-color);
   transition: all 0.2s;
   cursor: pointer;
   width: 100%;
