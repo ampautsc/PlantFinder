@@ -4,7 +4,7 @@
  */
 export function playBonusSound() {
   try {
-    const audio = new Audio('/game-bonus-02-294436.mp3');
+    const audio = new Audio('/happy-pop-2-185287.mp3');
     audio.volume = 0.5; // Set to moderate volume
     audio.play().catch(error => {
       // Silently handle errors (e.g., user hasn't interacted with page yet)
