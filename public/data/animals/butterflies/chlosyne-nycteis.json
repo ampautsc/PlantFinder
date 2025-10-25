@@ -1,0 +1,53 @@
+{
+  "id": "chlosyne-nycteis",
+  "commonName": "Silvery Checkerspot butterfly",
+  "scientificName": "Chlosyne nycteis",
+  "description": "Silvery Checkerspot butterfly is a native butterfly found in woodlands and meadows. Caterpillars feed on various aster and sunflower species. Important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer"
+    ],
+    "size": "small"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Symphyotrichum novae-angliae",
+      "Helianthus annuus"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "woodlands",
+      "meadows"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Connecticut",
+    "New York",
+    "Pennsylvania",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas"
+  ],
+  "imageUrl": "/images/animals/butterflies/chlosyne-nycteis/chlosyne-nycteis-2025-10-24T22-30-53-005Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/chlosyne-nycteis/chlosyne-nycteis-2025-10-24T22-30-53-005Z-thumb.jpg"
+}

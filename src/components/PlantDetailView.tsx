@@ -1,9 +1,13 @@
 import { useState, useEffect, useCallback } from 'react';
 import { Plant } from '../types/Plant';
 import { mockSeedShareService } from '../api/MockSeedShareService';
+import { mockGardenService } from '../api/MockGardenService';
 import { PlantSeedShareVolume, UserPlantSeedShare, MatchDetails } from '../types/SeedShare';
+import { GardenPlant } from '../types/Garden';
 import SeedExchangeOverlay from './SeedExchangeOverlay';
 import MatchTracker from './MatchTracker';
+import GardenIcon from './GardenIcon';
+import GardenConfigDialog from './GardenConfigDialog';
 import { getButterflyThumbnail } from '../data/butterflyThumbnails';
 import './PlantDetailView.css';
 
@@ -28,6 +32,8 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     hasActiveRequest: false,
   });
   const [matches, setMatches] = useState<MatchDetails[]>([]);
+  const [gardenPlant, setGardenPlant] = useState<GardenPlant | null>(null);
+  const [showGardenConfig, setShowGardenConfig] = useState(false);
 
   const loadSeedShareData = useCallback(async () => {
     try {
@@ -44,12 +50,22 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     }
   }, [plant.id]);
 
-  // Load seed share data
+  const loadGardenData = useCallback(async () => {
+    try {
+      const gardenData = await mockGardenService.getGardenPlant(plant.id);
+      setGardenPlant(gardenData);
+    } catch (error) {
+      console.error('Error loading garden data:', error);
+    }
+  }, [plant.id]);
+
+  // Load seed share data and garden data
   useEffect(() => {
     loadSeedShareData();
+    loadGardenData();
     // Register plant data with the service for match display
     mockSeedShareService.registerPlantData(plant.id, plant.commonName, plant.scientificName);
-  }, [plant.id, plant.commonName, plant.scientificName, loadSeedShareData]);
+  }, [plant.id, plant.commonName, plant.scientificName, loadSeedShareData, loadGardenData]);
 
   const handleCreateOffer = async (quantity: number) => {
     try {
@@ -121,6 +137,36 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     }
   };
 
+  const handleAddToGarden = async () => {
+    try {
+      await mockGardenService.addToGarden(plant.id);
+      await loadGardenData();
+    } catch (error) {
+      console.error('Error adding to garden:', error);
+      alert(error instanceof Error ? error.message : 'Failed to add to garden');
+    }
+  };
+
+  const handleUpdateGardenPlant = async (updates: Partial<Omit<GardenPlant, 'plantId' | 'addedAt'>>) => {
+    try {
+      await mockGardenService.updateGardenPlant(plant.id, updates);
+      await loadGardenData();
+    } catch (error) {
+      console.error('Error updating garden plant:', error);
+      alert(error instanceof Error ? error.message : 'Failed to update garden plant');
+    }
+  };
+
+  const handleRemoveFromGarden = async () => {
+    try {
+      await mockGardenService.removeFromGarden(plant.id);
+      await loadGardenData();
+    } catch (error) {
+      console.error('Error removing from garden:', error);
+      alert(error instanceof Error ? error.message : 'Failed to remove from garden');
+    }
+  };
+
   const toggleSection = (section: string) => {
     const newExpanded = new Set(expandedSections);
     if (newExpanded.has(section)) {
@@ -179,6 +225,23 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     return plant.characteristics.perennial ? 'Perennial' : 'Annual';
   };
 
+  const handleButterflyClick = (butterflyId: string | undefined) => {
+    if (!butterflyId) return;
+    
+    // Get the butterfly thumbnail data which now includes the taxonId
+    const thumbnail = getButterflyThumbnail(butterflyId);
+    
+    if (!thumbnail || !thumbnail.taxonId) {
+      console.warn(`No taxon ID found for butterfly: ${butterflyId}`);
+      return;
+    }
+    
+    // Open iNaturalist species page directly using the taxon ID
+    // Format: https://www.inaturalist.org/taxa/{taxonId}-{Scientific-Name-With-Dashes}
+    const url = `https://www.inaturalist.org/taxa/${thumbnail.taxonId}-${thumbnail.id}`;
+    window.open(url, '_blank', 'noopener,noreferrer');
+  };
+
   return (
     <div className="plant-detail-overlay" onClick={onClose}>
       <div className="plant-detail-container" onClick={(e) => e.stopPropagation()}>
@@ -195,6 +258,11 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
           {plant.imageUrl ? (
             <div className="detail-hero-image">
               <img src={plant.imageUrl} alt={plant.commonName} />
+              <GardenIcon
+                isInGarden={!!gardenPlant}
+                onAddToGarden={handleAddToGarden}
+                onOpenConfig={() => setShowGardenConfig(true)}
+              />
               <SeedExchangeOverlay
                 hasActiveOffer={userActivity.hasActiveOffer}
                 hasActiveRequest={userActivity.hasActiveRequest}
@@ -212,6 +280,11 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
           ) : (
             <div className="detail-hero-placeholder">
               <span className="placeholder-icon">🌸</span>
+              <GardenIcon
+                isInGarden={!!gardenPlant}
+                onAddToGarden={handleAddToGarden}
+                onOpenConfig={() => setShowGardenConfig(true)}
+              />
               <SeedExchangeOverlay
                 hasActiveOffer={userActivity.hasActiveOffer}
                 hasActiveRequest={userActivity.hasActiveRequest}
@@ -273,7 +346,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                     <div className="host-species-list">
                       {(() => {
                         // Deduplicate butterflies by their common name
-                        const speciesMap = new Map<string, { commonName: string; thumbnail: ReturnType<typeof getButterflyThumbnail> }>();
+                        const speciesMap = new Map<string, { speciesName: string; commonName: string; thumbnail: ReturnType<typeof getButterflyThumbnail> }>();
                         
                         plant.relationships.hostPlantTo.forEach(species => {
                           const thumbnail = getButterflyThumbnail(species);
@@ -281,13 +354,18 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                           
                           // Only add if we haven't seen this common name before
                           if (!speciesMap.has(commonName)) {
-                            speciesMap.set(commonName, { commonName, thumbnail });
+                            speciesMap.set(commonName, { speciesName: species, commonName, thumbnail });
                           }
                         });
                         
                         // Convert to array and render
-                        return Array.from(speciesMap.values()).map(({ commonName, thumbnail }) => (
-                          <div key={commonName} className="host-species-item">
+                        return Array.from(speciesMap.values()).map(({ speciesName, commonName, thumbnail }) => (
+                          <button
+                            key={commonName}
+                            className="host-species-item"
+                            onClick={() => handleButterflyClick(speciesName)}
+                            aria-label={`View ${commonName} on iNaturalist`}
+                          >
                             {thumbnail && thumbnail.thumbnailUrl && (
                               <img 
                                 src={thumbnail.thumbnailUrl} 
@@ -297,7 +375,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                               />
                             )}
                             <span className="host-species-name">{commonName}</span>
-                          </div>
+                          </button>
                         ));
                       })()}
                     </div>
@@ -507,6 +585,17 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
           </div>
         </div>
       </div>
+      
+      {/* Garden Config Dialog */}
+      {showGardenConfig && gardenPlant && (
+        <GardenConfigDialog
+          gardenPlant={gardenPlant}
+          plantName={plant.commonName}
+          onSave={handleUpdateGardenPlant}
+          onRemove={handleRemoveFromGarden}
+          onClose={() => setShowGardenConfig(false)}
+        />
+      )}
     </div>
   );
 }

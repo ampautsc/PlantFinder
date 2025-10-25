@@ -215,3 +215,190 @@
 [2025-10-23 19:42:43] Successfully processed: 15 animals
 [2025-10-23 19:42:43] Failed: 1 animals
 [2025-10-23 19:42:43] Total animals with images: 15/16
+[2025-10-24 19:40:51] Batch job started (version 1.0.0)
+[2025-10-24 19:40:51] Limit set to 2 images
+[2025-10-24 19:40:51] Scanning for animals without images...
+[2025-10-24 19:40:51] Found 2 animals without images
+[2025-10-24 19:40:51] Processing 2 animals
+[2025-10-24 19:40:51] [1/2]
+[2025-10-24 19:40:51] Processing: Queen butterfly (Danaus gilippus)
+[2025-10-24 19:40:51]   Searching Wikipedia for: Danaus gilippus (Queen butterfly)
+[2025-10-24 19:40:51]     No image found on Wikipedia
+[2025-10-24 19:40:51]   Searching iNaturalist for: Danaus gilippus (Queen butterfly)
+[2025-10-24 19:40:51]     Found taxon ID: 51743
+[2025-10-24 19:40:52]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/462120729/original.jpeg
+[2025-10-24 19:40:52]   Downloading from inaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/462120729/original.jpeg
+[2025-10-24 19:40:52]     Downloaded 854932 bytes
+[2025-10-24 19:40:52]     Saved optimized image: 854932 bytes (0.0% reduction)
+[2025-10-24 19:40:52]       Cannot create thumbnail without PIL
+[2025-10-24 19:40:52]     Updated danaus-gilippus.json with imageUrl and thumbnailUrl
+[2025-10-24 19:40:52]   ✓ Successfully processed Queen butterfly
+[2025-10-24 19:40:53] [2/2]
+[2025-10-24 19:40:53] Processing: Milkweed Tussock Moth (Euchaetes egle)
+[2025-10-24 19:40:53]   Searching Wikipedia for: Euchaetes egle (Milkweed Tussock Moth)
+[2025-10-24 19:40:54]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/8/8e/Euchaetes_eglePCCA20060825-6935B.jpg
+[2025-10-24 19:40:54]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/8/8e/Euchaetes_eglePCCA20060825-6935B.jpg
+[2025-10-24 19:40:54]     Downloaded 38659 bytes
+[2025-10-24 19:40:54]     Saved optimized image: 38659 bytes (0.0% reduction)
+[2025-10-24 19:40:54]       Cannot create thumbnail without PIL
+[2025-10-24 19:40:54]     Updated euchaetes-egle.json with imageUrl and thumbnailUrl
+[2025-10-24 19:40:54]   ✓ Successfully processed Milkweed Tussock Moth
+[2025-10-24 19:40:54] Batch job completed
+[2025-10-24 19:40:54] Successfully processed: 2 animals
+[2025-10-24 19:40:54] Failed: 0 animals
+[2025-10-24 19:40:54] Total animals with images: 18/18
+[2025-10-24 22:30:48] Batch job started (version 1.0.0)
+[2025-10-24 22:30:48] Scanning for animals without images...
+[2025-10-24 22:30:48] Found 13 animals without images
+[2025-10-24 22:30:48] Processing 13 animals
+[2025-10-24 22:30:48] [1/13]
+[2025-10-24 22:30:48] Processing: Milbert's Tortoiseshell (Aglais milberti)
+[2025-10-24 22:30:48]   Searching Wikipedia for: Aglais milberti (Milbert's Tortoiseshell)
+[2025-10-24 22:30:48]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/d/d8/Aglais_milberti1.jpg
+[2025-10-24 22:30:48]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/d/d8/Aglais_milberti1.jpg
+[2025-10-24 22:30:49]     Downloaded 575008 bytes
+[2025-10-24 22:30:49]       Resized from 1601x1203 to 1200x901
+[2025-10-24 22:30:49]     Saved optimized image: 186938 bytes (67.5% reduction)
+[2025-10-24 22:30:49]       Created thumbnail (6672 bytes)
+[2025-10-24 22:30:49]     Updated aglais-milberti.json with imageUrl and thumbnailUrl
+[2025-10-24 22:30:49]   ✓ Successfully processed Milbert's Tortoiseshell
+[2025-10-24 22:30:50] [2/13]
+[2025-10-24 22:30:50] Processing: Meadow Fritillary (Boloria bellona)
+[2025-10-24 22:30:50]   Searching Wikipedia for: Boloria bellona (Meadow Fritillary)
+[2025-10-24 22:30:50]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/c/c0/Boloria_bellona.jpg
+[2025-10-24 22:30:50]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/c/c0/Boloria_bellona.jpg
+[2025-10-24 22:30:50]     Downloaded 314392 bytes
+[2025-10-24 22:30:50]     Saved optimized image: 106731 bytes (66.1% reduction)
+[2025-10-24 22:30:50]       Created thumbnail (8172 bytes)
+[2025-10-24 22:30:50]     Updated boloria-bellona.json with imageUrl and thumbnailUrl
+[2025-10-24 22:30:50]   ✓ Successfully processed Meadow Fritillary
+[2025-10-24 22:30:51] [3/13]
+[2025-10-24 22:30:51] Processing: Bordered Patch butterfly (Chlosyne lacinia)
+[2025-10-24 22:30:51]   Searching Wikipedia for: Chlosyne lacinia (Bordered Patch butterfly)
+[2025-10-24 22:30:51]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/c/c5/Chlosyne_lacinia_%28cropped%29.jpg
+[2025-10-24 22:30:51]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/c/c5/Chlosyne_lacinia_%28cropped%29.jpg
+[2025-10-24 22:30:51]     Downloaded 428616 bytes
+[2025-10-24 22:30:51]       Resized from 1478x1212 to 1200x984
+[2025-10-24 22:30:51]     Saved optimized image: 146687 bytes (65.8% reduction)
+[2025-10-24 22:30:51]       Created thumbnail (4106 bytes)
+[2025-10-24 22:30:51]     Updated chlosyne-lacinia.json with imageUrl and thumbnailUrl
+[2025-10-24 22:30:51]   ✓ Successfully processed Bordered Patch butterfly
+[2025-10-24 22:30:52] [4/13]
+[2025-10-24 22:30:52] Processing: Silvery Checkerspot butterfly (Chlosyne nycteis)
+[2025-10-24 22:30:52]   Searching Wikipedia for: Chlosyne nycteis (Silvery Checkerspot butterfly)
+[2025-10-24 22:30:53]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/0/01/Silvery_Checkerspot%2C_Megan_McCarty116.jpg
+[2025-10-24 22:30:53]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/0/01/Silvery_Checkerspot%2C_Megan_McCarty116.jpg
+[2025-10-24 22:30:53]     Downloaded 1307524 bytes
+[2025-10-24 22:30:53]       Resized from 1560x1099 to 1200x845
+[2025-10-24 22:30:53]     Saved optimized image: 264249 bytes (79.8% reduction)
+[2025-10-24 22:30:53]       Created thumbnail (6365 bytes)
+[2025-10-24 22:30:53]     Updated chlosyne-nycteis.json with imageUrl and thumbnailUrl
+[2025-10-24 22:30:53]   ✓ Successfully processed Silvery Checkerspot butterfly
+[2025-10-24 22:30:54] [5/13]
+[2025-10-24 22:30:54] Processing: Orange Sulphur (Colias eurytheme)
+[2025-10-24 22:30:54]   Searching Wikipedia for: Colias eurytheme (Orange Sulphur)
+[2025-10-24 22:30:54]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/a/a1/McGeorge_Colias_eurytheme.JPG
+[2025-10-24 22:30:54]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/a/a1/McGeorge_Colias_eurytheme.JPG
+[2025-10-24 22:30:54]     Downloaded 3257997 bytes
+[2025-10-24 22:30:54]       Resized from 3888x2592 to 1200x800
+[2025-10-24 22:30:54]     Saved optimized image: 94887 bytes (97.1% reduction)
+[2025-10-24 22:30:54]       Created thumbnail (4065 bytes)
+[2025-10-24 22:30:54]     Updated colias-eurytheme.json with imageUrl and thumbnailUrl
+[2025-10-24 22:30:54]   ✓ Successfully processed Orange Sulphur
+[2025-10-24 22:30:55] [6/13]
+[2025-10-24 22:30:55] Processing: Eastern Tailed-Blue (Cupido comyntas)
+[2025-10-24 22:30:55]   Searching Wikipedia for: Cupido comyntas (Eastern Tailed-Blue)
+[2025-10-24 22:30:55]     No image found on Wikipedia
+[2025-10-24 22:30:55]   Searching iNaturalist for: Cupido comyntas (Eastern Tailed-Blue)
+[2025-10-24 22:30:59]     Found taxon ID: 122381
+[2025-10-24 22:31:00]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/25798530/original.jpeg
+[2025-10-24 22:31:00]   Downloading from inaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/25798530/original.jpeg
+[2025-10-24 22:31:00]     Downloaded 449699 bytes
+[2025-10-24 22:31:00]       Resized from 1700x1133 to 1200x799
+[2025-10-24 22:31:00]     Saved optimized image: 96715 bytes (78.5% reduction)
+[2025-10-24 22:31:00]       Created thumbnail (4371 bytes)
+[2025-10-24 22:31:00]     Updated cupido-comyntas.json with imageUrl and thumbnailUrl
+[2025-10-24 22:31:00]   ✓ Successfully processed Eastern Tailed-Blue
+[2025-10-24 22:31:01] [7/13]
+[2025-10-24 22:31:01] Processing: Columbine Duskywing butterfly (Erynnis lucilius)
+[2025-10-24 22:31:01]   Searching Wikipedia for: Erynnis lucilius (Columbine Duskywing butterfly)
+[2025-10-24 22:31:01]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/9/9f/Columbine_Duskywing_%28Erynnis_lucilius%29_%287762864482%29.jpg
+[2025-10-24 22:31:01]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/9/9f/Columbine_Duskywing_%28Erynnis_lucilius%29_%287762864482%29.jpg
+[2025-10-24 22:31:02]     Downloaded 1463870 bytes
+[2025-10-24 22:31:02]       Resized from 1418x1140 to 1200x964
+[2025-10-24 22:31:02]     Saved optimized image: 213908 bytes (85.4% reduction)
+[2025-10-24 22:31:02]       Created thumbnail (6543 bytes)
+[2025-10-24 22:31:02]     Updated erynnis-lucilius.json with imageUrl and thumbnailUrl
+[2025-10-24 22:31:02]   ✓ Successfully processed Columbine Duskywing butterfly
+[2025-10-24 22:31:03] [8/13]
+[2025-10-24 22:31:03] Processing: Atala butterfly (Eumaeus atala)
+[2025-10-24 22:31:03]   Searching Wikipedia for: Eumaeus atala (Atala butterfly)
+[2025-10-24 22:31:03]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/e/e3/Eumaeus_atalaPCCA20040418-1454A.jpg
+[2025-10-24 22:31:03]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/e/e3/Eumaeus_atalaPCCA20040418-1454A.jpg
+[2025-10-24 22:31:03]     Downloaded 210836 bytes
+[2025-10-24 22:31:03]     Saved optimized image: 163448 bytes (22.5% reduction)
+[2025-10-24 22:31:03]       Created thumbnail (6112 bytes)
+[2025-10-24 22:31:03]     Updated eumaeus-atala.json with imageUrl and thumbnailUrl
+[2025-10-24 22:31:03]   ✓ Successfully processed Atala butterfly
+[2025-10-24 22:31:04] [9/13]
+[2025-10-24 22:31:04] Processing: Variegated Fritillary (Euptoieta claudia)
+[2025-10-24 22:31:04]   Searching Wikipedia for: Euptoieta claudia (Variegated Fritillary)
+[2025-10-24 22:31:04]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/2/2f/Variegated_Fritillary%2C_Megan_McCarty83.jpg
+[2025-10-24 22:31:04]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/2/2f/Variegated_Fritillary%2C_Megan_McCarty83.jpg
+[2025-10-24 22:31:04]     Downloaded 652131 bytes
+[2025-10-24 22:31:04]       Resized from 2225x1585 to 1200x854
+[2025-10-24 22:31:04]     Saved optimized image: 164701 bytes (74.7% reduction)
+[2025-10-24 22:31:04]       Created thumbnail (5707 bytes)
+[2025-10-24 22:31:04]     Updated euptoieta-claudia.json with imageUrl and thumbnailUrl
+[2025-10-24 22:31:04]   ✓ Successfully processed Variegated Fritillary
+[2025-10-24 22:31:05] [10/13]
+[2025-10-24 22:31:05] Processing: Pearl Crescent butterfly (Phyciodes tharos)
+[2025-10-24 22:31:05]   Searching Wikipedia for: Phyciodes tharos (Pearl Crescent butterfly)
+[2025-10-24 22:31:06]     No image found on Wikipedia
+[2025-10-24 22:31:06]   Searching iNaturalist for: Phyciodes tharos (Pearl Crescent butterfly)
+[2025-10-24 22:31:06]     Found taxon ID: 52925
+[2025-10-24 22:31:06]     Found image on iNaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/320664780/original.jpg
+[2025-10-24 22:31:06]   Downloading from inaturalist: https://inaturalist-open-data.s3.amazonaws.com/photos/320664780/original.jpg
+[2025-10-24 22:31:07]     Downloaded 1196409 bytes
+[2025-10-24 22:31:07]       Resized from 1536x2048 to 900x1200
+[2025-10-24 22:31:07]     Saved optimized image: 354091 bytes (70.4% reduction)
+[2025-10-24 22:31:07]       Created thumbnail (10349 bytes)
+[2025-10-24 22:31:07]     Updated phyciodes-tharos.json with imageUrl and thumbnailUrl
+[2025-10-24 22:31:07]   ✓ Successfully processed Pearl Crescent butterfly
+[2025-10-24 22:31:08] [11/13]
+[2025-10-24 22:31:08] Processing: Eastern Comma (Polygonia comma)
+[2025-10-24 22:31:08]   Searching Wikipedia for: Polygonia comma (Eastern Comma)
+[2025-10-24 22:31:08]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/4/4b/Eastern_Comma_Polygonia_comma_JG.jpg
+[2025-10-24 22:31:08]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/4/4b/Eastern_Comma_Polygonia_comma_JG.jpg
+[2025-10-24 22:31:08]     Downloaded 705532 bytes
+[2025-10-24 22:31:08]       Resized from 1476x1107 to 1200x900
+[2025-10-24 22:31:08]     Saved optimized image: 184778 bytes (73.8% reduction)
+[2025-10-24 22:31:08]       Created thumbnail (4914 bytes)
+[2025-10-24 22:31:08]     Updated polygonia-comma.json with imageUrl and thumbnailUrl
+[2025-10-24 22:31:08]   ✓ Successfully processed Eastern Comma
+[2025-10-24 22:31:09] [12/13]
+[2025-10-24 22:31:09] Processing: Question Mark (Polygonia interrogationis)
+[2025-10-24 22:31:09]   Searching Wikipedia for: Polygonia interrogationis (Question Mark)
+[2025-10-24 22:31:09]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/a/a5/Question_Mark_Polygonia_interrogationis_Wings_3008px.jpg
+[2025-10-24 22:31:09]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/a/a5/Question_Mark_Polygonia_interrogationis_Wings_3008px.jpg
+[2025-10-24 22:31:09]     Downloaded 2416161 bytes
+[2025-10-24 22:31:10]       Resized from 3008x2000 to 1200x797
+[2025-10-24 22:31:10]     Saved optimized image: 180069 bytes (92.5% reduction)
+[2025-10-24 22:31:10]       Created thumbnail (6008 bytes)
+[2025-10-24 22:31:10]     Updated polygonia-interrogationis.json with imageUrl and thumbnailUrl
+[2025-10-24 22:31:10]   ✓ Successfully processed Question Mark
+[2025-10-24 22:31:11] [13/13]
+[2025-10-24 22:31:11] Processing: Red Admiral (Vanessa atalanta)
+[2025-10-24 22:31:11]   Searching Wikipedia for: Vanessa atalanta (Red Admiral)
+[2025-10-24 22:31:11]     Found image on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/9/9d/Red_admiral_%28Vanessa_atalanta%29_Hungary.jpg
+[2025-10-24 22:31:11]   Downloading from wikipedia: https://upload.wikimedia.org/wikipedia/commons/9/9d/Red_admiral_%28Vanessa_atalanta%29_Hungary.jpg
+[2025-10-24 22:31:11]     Downloaded 7105990 bytes
+[2025-10-24 22:31:11]       Resized from 4500x3001 to 1200x800
+[2025-10-24 22:31:11]     Saved optimized image: 193938 bytes (97.3% reduction)
+[2025-10-24 22:31:11]       Created thumbnail (6300 bytes)
+[2025-10-24 22:31:11]     Updated vanessa-atalanta.json with imageUrl and thumbnailUrl
+[2025-10-24 22:31:11]   ✓ Successfully processed Red Admiral
+[2025-10-24 22:31:11] Batch job completed
+[2025-10-24 22:31:11] Successfully processed: 13 animals
+[2025-10-24 22:31:11] Failed: 0 animals
+[2025-10-24 22:31:11] Total animals with images: 31/31

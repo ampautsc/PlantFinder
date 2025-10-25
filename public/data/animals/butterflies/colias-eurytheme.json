@@ -1,0 +1,64 @@
+{
+  "id": "colias-eurytheme",
+  "commonName": "Orange Sulphur",
+  "scientificName": "Colias eurytheme",
+  "description": "Orange Sulphur is a common native butterfly found across North America. Caterpillars feed on various legume species including alfalfa and clover. Important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "medium"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Trifolium repens",
+      "Chamaecrista fasciculata"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "meadows",
+      "fields",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Delaware",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Florida",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas"
+  ],
+  "imageUrl": "/images/animals/butterflies/colias-eurytheme/colias-eurytheme-2025-10-24T22-30-54-332Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/colias-eurytheme/colias-eurytheme-2025-10-24T22-30-54-332Z-thumb.jpg"
+}

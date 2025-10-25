@@ -1,0 +1,64 @@
+{
+  "id": "phyciodes-tharos",
+  "commonName": "Pearl Crescent butterfly",
+  "scientificName": "Phyciodes tharos",
+  "description": "Pearl Crescent butterfly is a common native butterfly found across eastern North America. Caterpillars feed on various aster species. An important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "small"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Symphyotrichum novae-angliae",
+      "Symphyotrichum ericoides"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "meadows",
+      "fields",
+      "gardens"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Delaware",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Florida",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas"
+  ],
+  "imageUrl": "/images/animals/butterflies/phyciodes-tharos/phyciodes-tharos-2025-10-24T22-31-06-822Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/phyciodes-tharos/phyciodes-tharos-2025-10-24T22-31-06-822Z-thumb.jpg"
+}

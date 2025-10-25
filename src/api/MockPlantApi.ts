@@ -1,6 +1,12 @@
 import { IPlantApi } from './PlantApi';
 import { Plant, PlantFilters } from '../types/Plant';
 import { PlantDataLoader } from './PlantDataLoader';
+import { PlantSeedShareVolume } from '../types/SeedShare';
+import {
+  calculatePlantPriorityScore,
+  getHostedSpeciesCount,
+  getFoodOrShelterGroupsCount,
+} from '../config/plantPrioritization';
 
 /**
  * Mock implementation of the Plant API
@@ -8,6 +14,18 @@ import { PlantDataLoader } from './PlantDataLoader';
  */
 export class MockPlantApi implements IPlantApi {
   private plantsCache: Plant[] | null = null;
+  private seedShareVolumes: Map<string, PlantSeedShareVolume> = new Map();
+
+  /**
+   * Set seed share volumes for prioritization
+   * This should be called before searching to enable priority sorting
+   */
+  setSeedShareVolumes(volumes: PlantSeedShareVolume[]): void {
+    this.seedShareVolumes.clear();
+    volumes.forEach(volume => {
+      this.seedShareVolumes.set(volume.plantId, volume);
+    });
+  }
 
   async getAllPlants(): Promise<Plant[]> {
     // Load plants from data loader if not cached
@@ -148,7 +166,47 @@ export class MockPlantApi implements IPlantApi {
       );
     }
 
+    // Sort by priority score (highest priority first)
+    results = this.sortByPriority(results);
+
     return results;
+  }
+
+  /**
+   * Sort plants by priority score
+   * Prioritizes based on: hosted species count, food/shelter groups, seeds offered, adoption requests
+   */
+  private sortByPriority(plants: Plant[]): Plant[] {
+    return plants.sort((a, b) => {
+      const scoreA = this.calculatePlantScore(a);
+      const scoreB = this.calculatePlantScore(b);
+      
+      // Sort by score descending (higher score = higher priority)
+      if (scoreA !== scoreB) {
+        return scoreB - scoreA;
+      }
+      
+      // If scores are equal, sort alphabetically by common name
+      return a.commonName.localeCompare(b.commonName);
+    });
+  }
+
+  /**
+   * Calculate priority score for a plant
+   */
+  private calculatePlantScore(plant: Plant): number {
+    const volume = this.seedShareVolumes.get(plant.id);
+    const seedsOffered = volume?.openOffers || 0;
+    const adoptionRequests = volume?.openRequests || 0;
+    const hostedSpecies = getHostedSpeciesCount(plant);
+    const foodShelterGroups = getFoodOrShelterGroupsCount(plant);
+
+    return calculatePlantPriorityScore(
+      hostedSpecies,
+      foodShelterGroups,
+      seedsOffered,
+      adoptionRequests
+    );
   }
 
   async getFilterOptions(): Promise<{

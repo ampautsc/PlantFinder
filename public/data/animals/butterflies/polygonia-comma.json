@@ -1,0 +1,62 @@
+{
+  "id": "polygonia-comma",
+  "commonName": "Eastern Comma",
+  "scientificName": "Polygonia comma",
+  "description": "Eastern Comma is a native butterfly with distinctive comma-shaped marking on underside. Caterpillars feed on nettles, elms, and hops. Important pollinator that overwinters as an adult.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "size": "medium"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Urtica dioica",
+      "Ulmus americana",
+      "Boehmeria cylindrica"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "woodlands",
+      "gardens",
+      "meadows"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Delaware",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Alabama",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri",
+    "Arkansas",
+    "Oklahoma",
+    "Texas"
+  ],
+  "imageUrl": "/images/animals/butterflies/polygonia-comma/polygonia-comma-2025-10-24T22-31-08-358Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/polygonia-comma/polygonia-comma-2025-10-24T22-31-08-358Z-thumb.jpg"
+}

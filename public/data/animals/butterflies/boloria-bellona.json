@@ -1,0 +1,50 @@
+{
+  "id": "boloria-bellona",
+  "commonName": "Meadow Fritillary",
+  "scientificName": "Boloria bellona",
+  "description": "Meadow Fritillary is a native butterfly found in meadows and wetlands. Caterpillars feed on various violet species. Important pollinator for native wildflowers.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer"
+    ],
+    "size": "small"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Viola sororia",
+      "Viola pubescens"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "meadows",
+      "wetlands"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Connecticut",
+    "New York",
+    "Pennsylvania",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Indiana",
+    "Illinois",
+    "Michigan",
+    "Wisconsin",
+    "Minnesota",
+    "Iowa",
+    "Missouri"
+  ],
+  "imageUrl": "/images/animals/butterflies/boloria-bellona/boloria-bellona-2025-10-24T22-30-50-353Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/boloria-bellona/boloria-bellona-2025-10-24T22-30-50-353Z-thumb.jpg"
+}

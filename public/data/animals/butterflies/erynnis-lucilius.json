@@ -1,0 +1,44 @@
+{
+  "id": "erynnis-lucilius",
+  "commonName": "Columbine Duskywing butterfly",
+  "scientificName": "Erynnis lucilius",
+  "description": "Columbine Duskywing butterfly is a native skipper found in eastern North America. Caterpillars feed on wild columbine (Aquilegia canadensis). Prefers woodland edges and rocky hillsides.",
+  "type": "butterfly",
+  "characteristics": {
+    "flightSeason": [
+      "spring",
+      "summer"
+    ],
+    "size": "small"
+  },
+  "relationships": {
+    "hostPlants": [
+      "Aquilegia canadensis"
+    ],
+    "nectarPlants": [],
+    "habitat": [
+      "woodlands",
+      "rocky slopes"
+    ]
+  },
+  "nativeRange": [
+    "Maine",
+    "New Hampshire",
+    "Vermont",
+    "Massachusetts",
+    "Connecticut",
+    "New York",
+    "Pennsylvania",
+    "Maryland",
+    "Virginia",
+    "West Virginia",
+    "North Carolina",
+    "Tennessee",
+    "Kentucky",
+    "Ohio",
+    "Michigan",
+    "Wisconsin"
+  ],
+  "imageUrl": "/images/animals/butterflies/erynnis-lucilius/erynnis-lucilius-2025-10-24T22-31-01-955Z.jpg",
+  "thumbnailUrl": "/images/animals/butterflies/erynnis-lucilius/erynnis-lucilius-2025-10-24T22-31-01-955Z-thumb.jpg"
+}
