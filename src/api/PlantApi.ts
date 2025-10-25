@@ -30,4 +30,10 @@ export interface IPlantApi {
     foodFor: string[];
     shelterFor: string[];
   }>;
+
+  /**
+   * Set garden plants for filtering
+   * This should be called when garden data changes to enable garden filtering
+   */
+  setGardenPlants(plantIds: Set<string>): void;
 }
