@@ -66,10 +66,10 @@ function App() {
     // Only detect once and only if we haven't already detected
     if (hasDetectedLocation.current) return;
     
+    // Mark as detected immediately to prevent race conditions in Strict Mode
+    hasDetectedLocation.current = true;
+    
     detectLocationWithCache().then(location => {
-      // Mark as detected after the async operation completes
-      hasDetectedLocation.current = true;
-      
       if (location) {
         console.log('Auto-detected location:', location);
         // Set the detected state in filters (only if user hasn't manually set one)
@@ -80,7 +80,6 @@ function App() {
         );
       }
     }).catch(error => {
-      hasDetectedLocation.current = true;
       console.error('Failed to auto-detect location:', error);
     });
   }, []); // Run only once on mount
