@@ -17,6 +17,7 @@ export function sparkleBurst(el: HTMLElement, n = 120) {
   
   // Define colors for sparkles
   const plantGreen = '#4CAF50';
+  // Rainbow colors: 6 colors for 60 particles (10 each)
   const colors = [
     '#FF0000', // red
     '#FF9800', // orange
