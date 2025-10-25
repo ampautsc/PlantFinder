@@ -15,6 +15,7 @@ import PlantDetailView from './components/PlantDetailView';
 import ThemeToggle from './components/ThemeToggle';
 import LanguageSelector from './components/LanguageSelector';
 import { useTheme } from './contexts/ThemeContext';
+import { detectLocationWithCache } from './utils/ipGeolocation';
 
 const plantApi = new MockPlantApi();
 const CURRENT_USER_ID = 'current';
@@ -41,6 +42,25 @@ function App() {
   const [plantVolumes, setPlantVolumes] = useState<Map<string, PlantSeedShareVolume>>(new Map());
   const [userActivities, setUserActivities] = useState<Map<string, UserPlantSeedShare>>(new Map());
   const resultsContainerRef = useRef<HTMLDivElement>(null);
+
+  // Auto-detect location from IP on mount
+  useEffect(() => {
+    // Only detect if no location is already set in filters
+    if (!filters.stateFips && !filters.countyFips) {
+      detectLocationWithCache().then(location => {
+        if (location) {
+          console.log('Auto-detected location:', location);
+          // Set the detected state in filters
+          setFilters(prev => ({
+            ...prev,
+            stateFips: [location.stateFips],
+          }));
+        }
+      }).catch(error => {
+        console.error('Failed to auto-detect location:', error);
+      });
+    }
+  }, []); // Run only once on mount
 
   // Load all plants, filter options, and seed share data on mount
   useEffect(() => {

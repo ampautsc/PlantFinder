@@ -2,7 +2,8 @@ import { useState, useRef, useEffect } from 'react';
 import { createPortal } from 'react-dom';
 import { useTranslation } from 'react-i18next';
 import { PlantFilters } from '../types/Plant';
-import { parseAndGeocodeLocation } from '../utils/geocodingUtils';
+import { FIPS_TO_STATE } from '../utils/fipsUtils';
+import { getCountiesForState, County } from '../utils/countyData';
 
 interface FiltersPanelProps {
   filters: PlantFilters;
@@ -40,17 +41,32 @@ function FiltersPanel({
   const expansionPanelRef = useRef<HTMLDivElement | null>(null);
   const filtersPanelRef = useRef<HTMLDivElement | null>(null);
   
-  // Location filter state
-  const [locationInput, setLocationInput] = useState<string>(filters.location || '');
-  const [geocodingStatus, setGeocodingStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
+  // Location filter state - state and county selection
+  const [selectedStateFips, setSelectedStateFips] = useState<string | undefined>(
+    filters.stateFips?.[0]
+  );
+  const [selectedCountyFips, setSelectedCountyFips] = useState<string | undefined>(
+    filters.countyFips?.[0]
+  );
+  const [availableCounties, setAvailableCounties] = useState<County[]>([]);
 
-  // Sync locationInput with filters.location when filters change externally
+  // Sync state/county selection with filters when they change externally
   useEffect(() => {
-    setLocationInput(filters.location || '');
-    if (!filters.location) {
-      setGeocodingStatus('idle');
+    setSelectedStateFips(filters.stateFips?.[0]);
+    setSelectedCountyFips(filters.countyFips?.[0]);
+  }, [filters.stateFips, filters.countyFips]);
+
+  // Load counties when state changes
+  useEffect(() => {
+    if (selectedStateFips) {
+      getCountiesForState(selectedStateFips).then(counties => {
+        setAvailableCounties(counties);
+      });
+    } else {
+      setAvailableCounties([]);
+      setSelectedCountyFips(undefined);
     }
-  }, [filters.location]);
+  }, [selectedStateFips]);
 
   // Handle click outside to close expansion panel
   useEffect(() => {
@@ -214,53 +230,37 @@ function FiltersPanel({
     }
   };
 
-  // Handle location search with geocoding
-  const handleLocationSearch = async () => {
-    if (!locationInput.trim()) {
-      // Clear location filter
-      onFiltersChange({
-        ...filters,
-        location: undefined,
-        countyFips: undefined,
-        stateFips: undefined,
-      });
-      setGeocodingStatus('idle');
-      return;
-    }
-
-    setGeocodingStatus('loading');
+  // Handle state selection
+  const handleStateChange = (stateFips: string) => {
+    setSelectedStateFips(stateFips);
+    setSelectedCountyFips(undefined); // Reset county when state changes
     
-    try {
-      const result = await parseAndGeocodeLocation(locationInput);
-      
-      if (result) {
-        // Successfully geocoded - apply filter
-        onFiltersChange({
-          ...filters,
-          location: locationInput,
-          countyFips: [result.countyFips],
-          stateFips: [result.stateFips],
-        });
-        setGeocodingStatus('success');
-      } else {
-        // Failed to geocode
-        setGeocodingStatus('error');
-      }
-    } catch (error) {
-      console.error('Geocoding error:', error);
-      setGeocodingStatus('error');
-    }
-  };
-
-  const handleLocationClear = () => {
-    setLocationInput('');
     onFiltersChange({
       ...filters,
-      location: undefined,
-      countyFips: undefined,
-      stateFips: undefined,
+      stateFips: stateFips ? [stateFips] : undefined,
+      countyFips: undefined, // Clear county when changing state
     });
-    setGeocodingStatus('idle');
+  };
+
+  // Handle county selection
+  const handleCountyChange = (countyFips: string) => {
+    setSelectedCountyFips(countyFips);
+    
+    onFiltersChange({
+      ...filters,
+      countyFips: countyFips ? [countyFips] : undefined,
+    });
+  };
+
+  // Clear location filter
+  const handleLocationClear = () => {
+    setSelectedStateFips(undefined);
+    setSelectedCountyFips(undefined);
+    onFiltersChange({
+      ...filters,
+      stateFips: undefined,
+      countyFips: undefined,
+    });
   };
 
   // Helper function to translate filter values
@@ -287,7 +287,7 @@ function FiltersPanel({
   const hasActiveFilters = (category: FilterCategory): boolean => {
     switch (category) {
       case 'location':
-        return !!(filters.location || filters.countyFips || filters.stateFips);
+        return !!(filters.stateFips || filters.countyFips);
       case 'wildlife':
         return (
           ((filters.hostPlantTo as string[] | undefined) || []).length > 0 ||
@@ -368,49 +368,51 @@ function FiltersPanel({
           {expandedCategory === 'location' && (
             <div className="filter-options-column">
               <div className="filter-section">
-                <div className="filter-section-title">{t('filters.locationHelp')}</div>
-                <div className="location-input-container">
-                  <input
-                    type="text"
-                    className="location-input"
-                    placeholder={t('filters.locationPlaceholder')}
-                    value={locationInput}
-                    onChange={(e) => setLocationInput(e.target.value)}
-                    onKeyPress={(e) => {
-                      if (e.key === 'Enter') {
-                        handleLocationSearch();
-                      }
-                    }}
-                  />
-                  <div className="location-buttons">
-                    <button
-                      className="location-search-btn"
-                      onClick={handleLocationSearch}
-                      disabled={geocodingStatus === 'loading'}
-                    >
-                      {geocodingStatus === 'loading' ? t('filters.searching') : t('filters.search')}
-                    </button>
-                    {(filters.location || locationInput) && (
-                      <button
-                        className="location-clear-btn"
-                        onClick={handleLocationClear}
-                      >
-                        {t('filters.clear')}
-                      </button>
-                    )}
-                  </div>
-                </div>
-                {geocodingStatus === 'success' && filters.location && (
-                  <div className="location-status location-success">
-                    ✓ {t('filters.locationFound')}: {filters.location}
-                  </div>
-                )}
-                {geocodingStatus === 'error' && (
-                  <div className="location-status location-error">
-                    ✗ {t('filters.locationNotFound')}
-                  </div>
-                )}
+                <div className="filter-section-title">{t('filters.stateLabel')}</div>
+                <select
+                  className="location-select"
+                  value={selectedStateFips || ''}
+                  onChange={(e) => handleStateChange(e.target.value)}
+                >
+                  <option value="">{t('filters.selectState')}</option>
+                  {Object.entries(FIPS_TO_STATE)
+                    .sort((a, b) => a[1].localeCompare(b[1]))
+                    .map(([fips, name]) => (
+                      <option key={fips} value={fips}>
+                        {name}
+                      </option>
+                    ))}
+                </select>
               </div>
+
+              {selectedStateFips && availableCounties.length > 0 && (
+                <div className="filter-section">
+                  <div className="filter-section-title">{t('filters.countyLabel')}</div>
+                  <select
+                    className="location-select"
+                    value={selectedCountyFips || ''}
+                    onChange={(e) => handleCountyChange(e.target.value)}
+                  >
+                    <option value="">{t('filters.allCounties')}</option>
+                    {availableCounties.map(county => (
+                      <option key={county.fips} value={county.fips}>
+                        {county.name}
+                      </option>
+                    ))}
+                  </select>
+                </div>
+              )}
+
+              {(selectedStateFips || selectedCountyFips) && (
+                <div className="filter-section">
+                  <button
+                    className="location-clear-btn"
+                    onClick={handleLocationClear}
+                  >
+                    {t('filters.clear')}
+                  </button>
+                </div>
+              )}
             </div>
           )}
 
