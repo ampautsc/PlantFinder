@@ -34,3 +34,6 @@ __pycache__/
 # Ignore PNG files except in docs/screenshots directory
 *.png
 !docs/screenshots/*.png
+
+# Local development test server
+test-api-server.cjs
