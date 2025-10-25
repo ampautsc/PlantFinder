@@ -228,14 +228,17 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
   const handleButterflyClick = (butterflyId: string | undefined) => {
     if (!butterflyId) return;
     
-    // Convert butterfly ID (e.g., "papilio-polyxenes-asterius") to scientific name for search
-    // The ID is the scientific name in kebab-case format
-    const scientificName = butterflyId.split('-').map((word, index) => 
-      index === 0 ? word.charAt(0).toUpperCase() + word.slice(1) : word
-    ).join(' ');
+    // Get the butterfly thumbnail data which now includes the taxonId
+    const thumbnail = getButterflyThumbnail(butterflyId);
     
-    // Open iNaturalist taxa search in a new window
-    const url = `https://www.inaturalist.org/taxa/search?q=${encodeURIComponent(scientificName)}`;
+    if (!thumbnail || !thumbnail.taxonId) {
+      console.warn(`No taxon ID found for butterfly: ${butterflyId}`);
+      return;
+    }
+    
+    // Open iNaturalist species page directly using the taxon ID
+    // Format: https://www.inaturalist.org/taxa/{taxonId}-{Scientific-Name-With-Dashes}
+    const url = `https://www.inaturalist.org/taxa/${thumbnail.taxonId}-${thumbnail.id}`;
     window.open(url, '_blank', 'noopener,noreferrer');
   };
 
