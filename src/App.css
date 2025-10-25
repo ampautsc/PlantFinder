@@ -393,6 +393,83 @@ body {
   font-weight: 600;
 }
 
+/* Location Filter */
+.location-input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.location-input {
+  padding: 0.5rem;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  font-size: 0.9rem;
+  background-color: var(--card-background);
+  color: var(--text-color);
+  width: 100%;
+}
+
+.location-input:focus {
+  outline: none;
+  border-color: var(--primary-color);
+}
+
+.location-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.location-search-btn,
+.location-clear-btn {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  background-color: var(--primary-color);
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+  font-weight: 600;
+}
+
+.location-search-btn:hover,
+.location-clear-btn:hover {
+  background-color: var(--primary-hover);
+}
+
+.location-search-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.location-clear-btn {
+  background-color: #666;
+}
+
+.location-clear-btn:hover {
+  background-color: #777;
+}
+
+.location-status {
+  padding: 0.5rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.location-success {
+  background-color: rgba(76, 175, 80, 0.2);
+  color: #4caf50;
+  border: 1px solid #4caf50;
+}
+
+.location-error {
+  background-color: rgba(244, 67, 54, 0.2);
+  color: #f44336;
+  border: 1px solid #f44336;
+}
+
 /* Results */
 .results-container {
   flex: 1;
