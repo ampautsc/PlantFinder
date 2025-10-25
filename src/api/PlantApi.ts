@@ -26,8 +26,6 @@ export interface IPlantApi {
   getFilterOptions(): Promise<{
     bloomColors: string[];
     bloomTimes: string[];
-    nativeRanges: string[];
-    hardinessZones: string[];
     hostPlantTo: string[];
     foodFor: string[];
     shelterFor: string[];

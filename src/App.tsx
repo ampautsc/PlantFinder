@@ -34,8 +34,6 @@ function App() {
   const [filterOptions, setFilterOptions] = useState({
     bloomColors: [] as string[],
     bloomTimes: [] as string[],
-    nativeRanges: [] as string[],
-    hardinessZones: [] as string[],
     hostPlantTo: [] as string[],
     foodFor: [] as string[],
     shelterFor: [] as string[],
@@ -55,6 +53,9 @@ function App() {
         gardenSet.add(plant.plantId);
       });
       setGardenPlants(gardenSet);
+      
+      // Set garden plants in plant API for filtering
+      plantApi.setGardenPlants(gardenSet);
     } catch (error) {
       console.error('Error loading garden data:', error);
     }

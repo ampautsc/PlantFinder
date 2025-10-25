@@ -16,6 +16,7 @@ import { stateNamesToFips } from '../utils/fipsUtils';
 export class MockPlantApi implements IPlantApi {
   private plantsCache: Plant[] | null = null;
   private seedShareVolumes: Map<string, PlantSeedShareVolume> = new Map();
+  private gardenPlantIds: Set<string> = new Set();
 
   /**
    * Set seed share volumes for prioritization
@@ -26,6 +27,14 @@ export class MockPlantApi implements IPlantApi {
     volumes.forEach(volume => {
       this.seedShareVolumes.set(volume.plantId, volume);
     });
+  }
+
+  /**
+   * Set garden plant IDs for filtering
+   * This should be called before searching to enable garden filtering
+   */
+  setGardenPlants(plantIds: Set<string>): void {
+    this.gardenPlantIds = plantIds;
   }
 
   async getAllPlants(): Promise<Plant[]> {
@@ -106,18 +115,7 @@ export class MockPlantApi implements IPlantApi {
       );
     }
 
-    // Filter by native range (DEPRECATED - use stateFips/countyFips instead)
-    if (filters.nativeRange && filters.nativeRange.length > 0) {
-      results = results.filter(plant =>
-        plant.characteristics && 
-        plant.characteristics.nativeRange && 
-        filters.nativeRange!.every(range =>
-          plant.characteristics.nativeRange.includes(range)
-        )
-      );
-    }
-
-    // Filter by state FIPS codes (NEW)
+    // Filter by state FIPS codes
     if (filters.stateFips && filters.stateFips.length > 0) {
       results = results.filter(plant => {
         // Use distribution data if available
@@ -148,17 +146,6 @@ export class MockPlantApi implements IPlantApi {
         }
         return false;
       });
-    }
-
-    // Filter by hardiness zones
-    if (filters.hardinessZones && filters.hardinessZones.length > 0) {
-      results = results.filter(plant =>
-        plant.characteristics && 
-        plant.characteristics.hardinessZones && 
-        plant.characteristics.hardinessZones.some(zone =>
-          filters.hardinessZones!.includes(zone)
-        )
-      );
     }
 
     // Filter by host plant relationships
@@ -198,6 +185,29 @@ export class MockPlantApi implements IPlantApi {
           )
         )
       );
+    }
+
+    // Filter by availability - in my garden
+    if (filters.inMyGarden) {
+      results = results.filter(plant =>
+        this.gardenPlantIds.has(plant.id)
+      );
+    }
+
+    // Filter by availability - seeds offered
+    if (filters.seedsOffered) {
+      results = results.filter(plant => {
+        const volume = this.seedShareVolumes.get(plant.id);
+        return volume && volume.openOffers > 0;
+      });
+    }
+
+    // Filter by availability - adoption offered (requests for seeds)
+    if (filters.adoptionOffered) {
+      results = results.filter(plant => {
+        const volume = this.seedShareVolumes.get(plant.id);
+        return volume && volume.openRequests > 0;
+      });
     }
 
     // Sort by priority score (highest priority first)
@@ -246,8 +256,6 @@ export class MockPlantApi implements IPlantApi {
   async getFilterOptions(): Promise<{
     bloomColors: string[];
     bloomTimes: string[];
-    nativeRanges: string[];
-    hardinessZones: string[];
     hostPlantTo: string[];
     foodFor: string[];
     shelterFor: string[];
@@ -261,8 +269,6 @@ export class MockPlantApi implements IPlantApi {
 
     const bloomColors = new Set<string>();
     const bloomTimes = new Set<string>();
-    const nativeRanges = new Set<string>();
-    const hardinessZones = new Set<string>();
     const hostPlantTo = new Set<string>();
     const foodFor = new Set<string>();
     const shelterFor = new Set<string>();
@@ -274,12 +280,6 @@ export class MockPlantApi implements IPlantApi {
         }
         if (plant.characteristics.bloomTime) {
           plant.characteristics.bloomTime.forEach(time => bloomTimes.add(time));
-        }
-        if (plant.characteristics.nativeRange) {
-          plant.characteristics.nativeRange.forEach(range => nativeRanges.add(range));
-        }
-        if (plant.characteristics.hardinessZones) {
-          plant.characteristics.hardinessZones.forEach(zone => hardinessZones.add(zone));
         }
       }
       if (plant.relationships) {
@@ -298,8 +298,6 @@ export class MockPlantApi implements IPlantApi {
     return {
       bloomColors: Array.from(bloomColors).sort(),
       bloomTimes: Array.from(bloomTimes).sort(),
-      nativeRanges: Array.from(nativeRanges).sort(),
-      hardinessZones: Array.from(hardinessZones).sort((a, b) => parseInt(a) - parseInt(b)),
       hostPlantTo: Array.from(hostPlantTo).sort(),
       foodFor: Array.from(foodFor).sort(),
       shelterFor: Array.from(shelterFor).sort(),
