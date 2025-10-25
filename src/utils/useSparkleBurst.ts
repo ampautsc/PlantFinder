@@ -69,7 +69,7 @@ export function sparkleBurst(el: HTMLElement, n = 120) {
           { transform: `translate(${tx - (cx - DOT_RADIUS)}px,${ty - (cy - DOT_RADIUS)}px)`, opacity: 0 }
         ],
         {
-          duration: 600 + Math.random() * 300,
+          duration: 1200 + Math.random() * 600,
           easing: "cubic-bezier(.2,.6,.2,1)"
         }
       );
