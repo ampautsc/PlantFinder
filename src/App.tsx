@@ -49,23 +49,21 @@ function App() {
     // Only detect once and only if we haven't already detected
     if (hasDetectedLocation.current) return;
     
-    hasDetectedLocation.current = true;
     detectLocationWithCache().then(location => {
+      // Mark as detected after the async operation completes
+      hasDetectedLocation.current = true;
+      
       if (location) {
         console.log('Auto-detected location:', location);
-        // Set the detected state in filters
-        setFilters(prev => {
-          // Only set if user hasn't already set a location
-          if (!prev.stateFips && !prev.countyFips) {
-            return {
-              ...prev,
-              stateFips: [location.stateFips],
-            };
-          }
-          return prev;
-        });
+        // Set the detected state in filters (only if user hasn't manually set one)
+        setFilters(prev => 
+          (!prev.stateFips && !prev.countyFips)
+            ? { ...prev, stateFips: [location.stateFips] }
+            : prev
+        );
       }
     }).catch(error => {
+      hasDetectedLocation.current = true;
       console.error('Failed to auto-detect location:', error);
     });
   }, []); // Run only once on mount
