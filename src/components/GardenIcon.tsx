@@ -17,12 +17,16 @@ function GardenIcon({ isInGarden, onAddToGarden, onOpenConfig }: GardenIconProps
     if (isInGarden) {
       onOpenConfig();
     } else {
-      // Trigger celebration with sparkle burst and sound
+      // Trigger celebration with sound first, then sparkle burst
       setCelebrating(true);
       playBonusSound();
-      if (buttonRef.current) {
-        sparkleBurst(buttonRef.current);
-      }
+      
+      // Delay sparkle burst slightly to let sound start playing first
+      setTimeout(() => {
+        if (buttonRef.current) {
+          sparkleBurst(buttonRef.current);
+        }
+      }, 50);
       
       // Add to garden after a brief delay
       setTimeout(() => {
