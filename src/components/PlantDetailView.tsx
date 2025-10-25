@@ -217,14 +217,6 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     return labels[moisture as keyof typeof labels] || moisture;
   };
 
-  const getPlantTypeIcon = () => {
-    return plant.characteristics.perennial ? '🌱' : '🌿';
-  };
-
-  const getPlantTypeLabel = () => {
-    return plant.characteristics.perennial ? 'Perennial' : 'Annual';
-  };
-
   const handleButterflyClick = (butterflyId: string | undefined) => {
     if (!butterflyId) return;
     
@@ -303,136 +295,132 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
         </div>
 
         <div className="detail-content">
-          {/* Description */}
-          <section className="detail-section description-section">
-            <h2 className="section-title">About This Plant</h2>
-            <p className="plant-description">{plant.description}</p>
-            {plant.characteristics.bloomColor.length > 0 && (
-              <div className="bloom-info">
-                <span className="bloom-label">Bloom Colors:</span>
-                <div className="bloom-colors">
-                  {plant.characteristics.bloomColor.map(color => (
-                    <span key={color} className="bloom-tag">{color}</span>
-                  ))}
-                </div>
-              </div>
-            )}
-            {plant.characteristics.bloomTime.length > 0 && (
-              <div className="bloom-info">
-                <span className="bloom-label">Bloom Time:</span>
-                <span className="bloom-value">{plant.characteristics.bloomTime.join(', ')}</span>
-              </div>
-            )}
+          {/* Compact Dashboard Layout */}
+          
+          {/* Description - Compact */}
+          <section className="detail-section description-compact">
+            <p className="plant-description-compact">{plant.description}</p>
           </section>
 
-          {/* Wildlife Benefits */}
-          {(plant.relationships.foodFor.length > 0 || plant.relationships.hostPlantTo.length > 0) && (
-            <section className="detail-section wildlife-section">
-              <h2 className="section-title">Wildlife Benefits</h2>
-              {plant.relationships.foodFor.length > 0 && (
-                <div className="wildlife-info">
-                  <span className="wildlife-icon">🦋</span>
-                  <div>
-                    <span className="wildlife-label">Food For:</span>
-                    <span className="wildlife-value">{plant.relationships.foodFor.join(', ')}</span>
-                  </div>
+          {/* Dashboard Grid - Main Info */}
+          <div className="dashboard-grid">
+            
+            {/* Growth Conditions - Compact */}
+            <section className="dashboard-card conditions-card">
+              <h3 className="card-title">Growing Conditions</h3>
+              <div className="conditions-compact">
+                <div className="condition-row">
+                  <span className="condition-icon">{getSunIcon(plant.requirements.sun)}</span>
+                  <span className="condition-value">{getSunLabel(plant.requirements.sun)}</span>
                 </div>
-              )}
-              {plant.relationships.hostPlantTo.length > 0 && (
-                <div className="wildlife-info">
-                  <span className="wildlife-icon">🐛</span>
-                  <div>
-                    <span className="wildlife-label">Host Plant To:</span>
-                    <div className="host-species-list">
-                      {(() => {
-                        // Deduplicate butterflies by their common name
-                        const speciesMap = new Map<string, { speciesName: string; commonName: string; thumbnail: ReturnType<typeof getButterflyThumbnail> }>();
-                        
-                        plant.relationships.hostPlantTo.forEach(species => {
-                          const thumbnail = getButterflyThumbnail(species);
-                          const commonName = thumbnail?.commonName || species;
-                          
-                          // Only add if we haven't seen this common name before
-                          if (!speciesMap.has(commonName)) {
-                            speciesMap.set(commonName, { speciesName: species, commonName, thumbnail });
-                          }
-                        });
-                        
-                        // Convert to array and render
-                        return Array.from(speciesMap.values()).map(({ speciesName, commonName, thumbnail }) => (
-                          <button
-                            key={commonName}
-                            className="host-species-item"
-                            onClick={() => handleButterflyClick(speciesName)}
-                            aria-label={`View ${commonName} on iNaturalist`}
-                          >
-                            {thumbnail && thumbnail.thumbnailUrl && (
-                              <img 
-                                src={thumbnail.thumbnailUrl} 
-                                alt={commonName}
-                                className="host-species-thumbnail"
-                                title={commonName}
-                              />
-                            )}
-                            <span className="host-species-name">{commonName}</span>
-                          </button>
-                        ));
-                      })()}
-                    </div>
-                  </div>
+                <div className="condition-row">
+                  <span className="condition-icon">{getMoistureIcon(plant.requirements.moisture)}</span>
+                  <span className="condition-value">{getMoistureLabel(plant.requirements.moisture)}</span>
                 </div>
-              )}
+                <div className="condition-row">
+                  <span className="condition-icon">🌍</span>
+                  <span className="condition-value">{plant.requirements.soil}</span>
+                </div>
+                <div className="condition-row">
+                  <span className="condition-icon">🌡️</span>
+                  <span className="condition-value">Zones {plant.characteristics.hardinessZones.join(', ')}</span>
+                </div>
+                {plant.characteristics.bloomColor.length > 0 && (
+                  <div className="condition-row">
+                    <span className="condition-icon">🌸</span>
+                    <span className="condition-value">{plant.characteristics.bloomColor.join(', ')}</span>
+                  </div>
+                )}
+              </div>
             </section>
-          )}
 
-          {/* Essential Information */}
-          <section className="detail-section essential-info">
-            <h2 className="section-title">Growth Conditions</h2>
-            <div className="info-grid">
-              <div className="info-item">
-                <span className="info-icon">{getSunIcon(plant.requirements.sun)}</span>
-                <div className="info-details">
-                  <span className="info-label">Sunlight</span>
-                  <span className="info-value">{getSunLabel(plant.requirements.sun)}</span>
+            {/* Host Plant Species - Compact with Icons */}
+            {plant.relationships.hostPlantTo.length > 0 && (
+              <section className="dashboard-card host-card">
+                <h3 className="card-title">🐛 Host Plant For</h3>
+                <div className="host-species-compact">
+                  {(() => {
+                    const speciesMap = new Map<string, { speciesName: string; commonName: string; thumbnail: ReturnType<typeof getButterflyThumbnail> }>();
+                    
+                    plant.relationships.hostPlantTo.forEach(species => {
+                      const thumbnail = getButterflyThumbnail(species);
+                      const commonName = thumbnail?.commonName || species;
+                      
+                      if (!speciesMap.has(commonName)) {
+                        speciesMap.set(commonName, { speciesName: species, commonName, thumbnail });
+                      }
+                    });
+                    
+                    return Array.from(speciesMap.values()).map(({ speciesName, commonName, thumbnail }) => (
+                      <button
+                        key={commonName}
+                        className="host-icon-button"
+                        onClick={() => handleButterflyClick(speciesName)}
+                        aria-label={`View ${commonName} on iNaturalist`}
+                        title={commonName}
+                      >
+                        {thumbnail && thumbnail.thumbnailUrl && (
+                          <img 
+                            src={thumbnail.thumbnailUrl} 
+                            alt={commonName}
+                            className="host-icon-img"
+                          />
+                        )}
+                      </button>
+                    ));
+                  })()}
                 </div>
-              </div>
-              <div className="info-item">
-                <span className="info-icon">{getMoistureIcon(plant.requirements.moisture)}</span>
-                <div className="info-details">
-                  <span className="info-label">Water Needs</span>
-                  <span className="info-value">{getMoistureLabel(plant.requirements.moisture)}</span>
+              </section>
+            )}
+
+            {/* Wildlife Support - Compact */}
+            {(plant.relationships.foodFor.length > 0 || plant.relationships.shelterFor.length > 0) && (
+              <section className="dashboard-card support-card">
+                <h3 className="card-title">Wildlife Support</h3>
+                <div className="support-compact">
+                  {plant.relationships.foodFor.length > 0 && (
+                    <div className="support-item">
+                      <span className="support-icon">🦋</span>
+                      <span className="support-text">{plant.relationships.foodFor.slice(0, 3).join(', ')}</span>
+                    </div>
+                  )}
+                  {plant.relationships.shelterFor.length > 0 && (
+                    <div className="support-item">
+                      <span className="support-icon">🏠</span>
+                      <span className="support-text">{plant.relationships.shelterFor.slice(0, 2).join(', ')}</span>
+                    </div>
+                  )}
                 </div>
+              </section>
+            )}
+
+            {/* Quick Links - USDA and More */}
+            <section className="dashboard-card links-card">
+              <h3 className="card-title">Learn More</h3>
+              <div className="quick-links">
+                {plant.usdaPlantId && (
+                  <a 
+                    href={`https://plants.usda.gov/home/plantProfile?symbol=${plant.usdaPlantId}`}
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="quick-link-button usda-link"
+                  >
+                    <span className="link-icon">🗺️</span>
+                    <span className="link-text">USDA Native Range Map</span>
+                  </a>
+                )}
+                <a 
+                  href={`https://www.wildflower.org/plants/result.php?id_plant=${plant.scientificName.replace(' ', '+')}`}
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="quick-link-button"
+                >
+                  <span className="link-icon">🌿</span>
+                  <span className="link-text">Wildflower Center</span>
+                </a>
               </div>
-              <div className="info-item">
-                <span className="info-icon">🌍</span>
-                <div className="info-details">
-                  <span className="info-label">Soil Type</span>
-                  <span className="info-value">{plant.requirements.soil}</span>
-                </div>
-              </div>
-              <div className="info-item">
-                <span className="info-icon">🌡️</span>
-                <div className="info-details">
-                  <span className="info-label">Hardiness Zones</span>
-                  <span className="info-value">{plant.characteristics.hardinessZones.join(', ')}</span>
-                </div>
-              </div>
-              <div className="info-item">
-                <span className="info-icon">{getPlantTypeIcon()}</span>
-                <div className="info-details">
-                  <span className="info-label">Plant Type</span>
-                  <span className="info-value">{getPlantTypeLabel()}</span>
-                </div>
-              </div>
-              <div className="info-item">
-                <span className="info-icon">📏</span>
-                <div className="info-details">
-                  <span className="info-label">Size</span>
-                  <span className="info-value">{`${plant.characteristics.height}" H × ${plant.characteristics.width}" W`}</span>
-                </div>
-              </div>
-            </div>
-          </section>
+            </section>
+          </div>
 
           {/* Match Tracker */}
           {matches.length > 0 && (
