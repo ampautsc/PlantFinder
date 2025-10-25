@@ -45,5 +45,32 @@
   },
   "imageUrl": "/images/plants/abutilon-incanum/abutilon-incanum-2025-10-23T01-27-48-026Z.jpg",
   "thumbnailUrl": "/images/plants/abutilon-incanum/abutilon-incanum-2025-10-23T01-27-48-026Z-thumb.jpg",
-  "usdaPlantId": "ABIN"
+  "usdaPlantId": "ABIN",
+  "distribution": {
+    "fipsCodes": [
+      "04003",
+      "04009",
+      "04011",
+      "04012",
+      "04013",
+      "04015",
+      "04019",
+      "04021",
+      "04025",
+      "04027",
+      "08009",
+      "15003",
+      "15007",
+      "15009",
+      "35017",
+      "35029",
+      "35051"
+    ],
+    "statesFips": [
+      "04",
+      "08",
+      "15",
+      "35"
+    ]
+  }
 }

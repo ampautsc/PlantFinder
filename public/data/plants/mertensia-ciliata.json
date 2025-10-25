@@ -54,5 +54,32 @@
   },
   "imageUrl": "/images/plants/mertensia-ciliata/mertensia-ciliata-2025-10-17T01-15-40-447Z.jpg",
   "thumbnailUrl": "/images/plants/mertensia-ciliata/mertensia-ciliata-2025-10-17T01-15-40-447Z-thumb.jpg",
-  "usdaPlantId": "MECIS"
+  "usdaPlantId": "MECIS",
+  "distribution": {
+    "fipsCodes": [
+      "06003",
+      "06007",
+      "06017",
+      "06019",
+      "06035",
+      "06043",
+      "06049",
+      "06051",
+      "06063",
+      "06091",
+      "06107",
+      "06109",
+      "32009",
+      "32027",
+      "32031",
+      "32510",
+      "41025",
+      "41037"
+    ],
+    "statesFips": [
+      "06",
+      "32",
+      "41"
+    ]
+  }
 }

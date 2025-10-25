@@ -45,5 +45,21 @@
   },
   "imageUrl": "/images/plants/astragalus-alpinus/astragalus-alpinus-2025-10-23T01-26-05-351Z.jpg",
   "thumbnailUrl": "/images/plants/astragalus-alpinus/astragalus-alpinus-2025-10-23T01-26-05-351Z-thumb.jpg",
-  "usdaPlantId": "ASALB"
+  "usdaPlantId": "ASALB",
+  "distribution": {
+    "fipsCodes": [
+      "23003",
+      "23011",
+      "33009",
+      "33019",
+      "50005",
+      "50019",
+      "50025"
+    ],
+    "statesFips": [
+      "23",
+      "33",
+      "50"
+    ]
+  }
 }

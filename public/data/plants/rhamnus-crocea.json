@@ -46,5 +46,15 @@
   },
   "imageUrl": "/images/plants/rhamnus-crocea/rhamnus-crocea-2025-10-23T01-27-52-759Z.jpg",
   "thumbnailUrl": "/images/plants/rhamnus-crocea/rhamnus-crocea-2025-10-23T01-27-52-759Z-thumb.jpg",
-  "usdaPlantId": "RHCRP2"
+  "usdaPlantId": "RHCRP2",
+  "distribution": {
+    "fipsCodes": [
+      "06065",
+      "06073"
+    ],
+    "statesFips": [
+      "04",
+      "06"
+    ]
+  }
 }

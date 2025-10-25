@@ -43,5 +43,34 @@
   },
   "imageUrl": "/images/plants/suriana-maritima/suriana-maritima-2025-10-23T01-27-25-609Z.jpg",
   "thumbnailUrl": "/images/plants/suriana-maritima/suriana-maritima-2025-10-23T01-27-25-609Z-thumb.jpg",
-  "usdaPlantId": "SUMA2"
+  "usdaPlantId": "SUMA2",
+  "distribution": {
+    "fipsCodes": [
+      "12011",
+      "12015",
+      "12021",
+      "12061",
+      "12071",
+      "12081",
+      "12085",
+      "12086",
+      "12087",
+      "12099",
+      "12103",
+      "12111",
+      "12115",
+      "70150",
+      "70370",
+      "74050",
+      "74400"
+    ],
+    "statesFips": [
+      "12",
+      "66",
+      "70",
+      "72",
+      "74",
+      "78"
+    ]
+  }
 }

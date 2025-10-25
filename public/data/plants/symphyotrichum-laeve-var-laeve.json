@@ -49,5 +49,32 @@
   },
   "imageUrl": "/images/plants/symphyotrichum-laeve-var-laeve/symphyotrichum-laeve-var-laeve-2025-10-23T01-25-57-314Z.jpg",
   "thumbnailUrl": "/images/plants/symphyotrichum-laeve-var-laeve/symphyotrichum-laeve-var-laeve-2025-10-23T01-25-57-314Z-thumb.jpg",
-  "usdaPlantId": "SYLAP"
+  "usdaPlantId": "SYLAP",
+  "distribution": {
+    "fipsCodes": [
+      "22017",
+      "22021",
+      "22025",
+      "22053",
+      "22067",
+      "22069",
+      "22073",
+      "22113",
+      "22127",
+      "28059",
+      "28103",
+      "28123",
+      "48241",
+      "48373",
+      "48457"
+    ],
+    "statesFips": [
+      "01",
+      "05",
+      "13",
+      "22",
+      "28",
+      "48"
+    ]
+  }
 }

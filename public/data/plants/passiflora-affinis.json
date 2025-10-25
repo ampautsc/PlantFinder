@@ -47,5 +47,28 @@
   },
   "imageUrl": "/images/plants/passiflora-affinis/passiflora-affinis-2025-10-23T01-26-31-232Z.jpg",
   "thumbnailUrl": "/images/plants/passiflora-affinis/passiflora-affinis-2025-10-23T01-26-31-232Z-thumb.jpg",
-  "usdaPlantId": "PAAF"
+  "usdaPlantId": "PAAF",
+  "distribution": {
+    "fipsCodes": [
+      "48019",
+      "48027",
+      "48029",
+      "48091",
+      "48137",
+      "48149",
+      "48171",
+      "48209",
+      "48265",
+      "48267",
+      "48271",
+      "48299",
+      "48435",
+      "48453",
+      "48463",
+      "48465"
+    ],
+    "statesFips": [
+      "48"
+    ]
+  }
 }

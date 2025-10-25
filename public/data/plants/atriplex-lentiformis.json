@@ -45,5 +45,46 @@
   },
   "imageUrl": "/images/plants/atriplex-lentiformis/atriplex-lentiformis-2025-10-23T01-26-04-518Z.jpg",
   "thumbnailUrl": "/images/plants/atriplex-lentiformis/atriplex-lentiformis-2025-10-23T01-26-04-518Z-thumb.jpg",
-  "usdaPlantId": "ATLEL"
+  "usdaPlantId": "ATLEL",
+  "distribution": {
+    "fipsCodes": [
+      "04005",
+      "04012",
+      "04013",
+      "04015",
+      "04019",
+      "04025",
+      "04027",
+      "06007",
+      "06019",
+      "06021",
+      "06025",
+      "06027",
+      "06029",
+      "06037",
+      "06047",
+      "06051",
+      "06053",
+      "06059",
+      "06065",
+      "06069",
+      "06071",
+      "06073",
+      "06079",
+      "06083",
+      "06111",
+      "15003",
+      "32003",
+      "32017",
+      "32023",
+      "49053"
+    ],
+    "statesFips": [
+      "04",
+      "06",
+      "15",
+      "32",
+      "49"
+    ]
+  }
 }

@@ -47,5 +47,40 @@
   },
   "imageUrl": "/images/plants/humulus-lupulus/humulus-lupulus-2025-10-23T01-25-52-534Z.jpg",
   "thumbnailUrl": "/images/plants/humulus-lupulus/humulus-lupulus-2025-10-23T01-25-52-534Z-thumb.jpg",
-  "usdaPlantId": "HULUP"
+  "usdaPlantId": "HULUP",
+  "distribution": {
+    "fipsCodes": [
+      "05007",
+      "05021",
+      "05047",
+      "05143",
+      "13257",
+      "40037",
+      "40101",
+      "55063",
+      "55103"
+    ],
+    "statesFips": [
+      "01",
+      "05",
+      "13",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "24",
+      "27",
+      "29",
+      "31",
+      "36",
+      "37",
+      "39",
+      "40",
+      "42",
+      "51",
+      "54",
+      "55"
+    ]
+  }
 }

@@ -47,5 +47,30 @@
   },
   "imageUrl": "/images/plants/hedysarum-boreale/hedysarum-boreale-2025-10-17T06-26-55-769Z.jpg",
   "thumbnailUrl": "/images/plants/hedysarum-boreale/hedysarum-boreale-2025-10-17T06-26-55-769Z-thumb.jpg",
-  "usdaPlantId": "HEBOM"
+  "usdaPlantId": "HEBOM",
+  "distribution": {
+    "fipsCodes": [
+      "02050",
+      "02063",
+      "02066",
+      "02068",
+      "02090",
+      "02100",
+      "02170",
+      "02180",
+      "02185",
+      "02188",
+      "02240",
+      "02282",
+      "02290",
+      "41061",
+      "41063",
+      "53047"
+    ],
+    "statesFips": [
+      "02",
+      "41",
+      "53"
+    ]
+  }
 }

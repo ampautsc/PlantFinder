@@ -47,5 +47,34 @@
   },
   "imageUrl": "/images/plants/manfreda-maculosa/manfreda-maculosa-2025-10-23T01-27-20-532Z.jpg",
   "thumbnailUrl": "/images/plants/manfreda-maculosa/manfreda-maculosa-2025-10-23T01-27-20-532Z-thumb.jpg",
-  "usdaPlantId": "MAMA7"
+  "usdaPlantId": "MAMA7",
+  "distribution": {
+    "fipsCodes": [
+      "48025",
+      "48029",
+      "48047",
+      "48127",
+      "48131",
+      "48177",
+      "48247",
+      "48249",
+      "48255",
+      "48271",
+      "48273",
+      "48283",
+      "48311",
+      "48323",
+      "48325",
+      "48355",
+      "48409",
+      "48427",
+      "48463",
+      "48479",
+      "48493",
+      "48505"
+    ],
+    "statesFips": [
+      "48"
+    ]
+  }
 }

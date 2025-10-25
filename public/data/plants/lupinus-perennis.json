@@ -59,5 +59,47 @@
   },
   "imageUrl": "/images/plants/lupinus-perennis/lupinus-perennis-2025-10-17T01-15-04-062Z.jpg",
   "thumbnailUrl": "/images/plants/lupinus-perennis/lupinus-perennis-2025-10-17T01-15-04-062Z-thumb.jpg",
-  "usdaPlantId": "LUPEP3"
+  "usdaPlantId": "LUPEP3",
+  "distribution": {
+    "fipsCodes": [
+      "10001",
+      "10003",
+      "10005",
+      "11001",
+      "21203",
+      "23003",
+      "23017",
+      "44003",
+      "44007",
+      "44009",
+      "55001",
+      "55021",
+      "55053",
+      "55083"
+    ],
+    "statesFips": [
+      "09",
+      "10",
+      "11",
+      "13",
+      "21",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "33",
+      "34",
+      "36",
+      "37",
+      "39",
+      "42",
+      "44",
+      "45",
+      "50",
+      "51",
+      "54",
+      "55"
+    ]
+  }
 }

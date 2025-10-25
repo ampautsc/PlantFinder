@@ -47,5 +47,44 @@
   },
   "imageUrl": "/images/plants/leucophyllum-frutescens/leucophyllum-frutescens-2025-10-23T01-26-05-223Z.jpg",
   "thumbnailUrl": "/images/plants/leucophyllum-frutescens/leucophyllum-frutescens-2025-10-23T01-26-05-223Z-thumb.jpg",
-  "usdaPlantId": "LEFR3"
+  "usdaPlantId": "LEFR3",
+  "distribution": {
+    "fipsCodes": [
+      "48029",
+      "48041",
+      "48043",
+      "48061",
+      "48105",
+      "48131",
+      "48209",
+      "48215",
+      "48247",
+      "48249",
+      "48261",
+      "48267",
+      "48271",
+      "48273",
+      "48281",
+      "48297",
+      "48311",
+      "48355",
+      "48371",
+      "48377",
+      "48409",
+      "48411",
+      "48427",
+      "48439",
+      "48443",
+      "48453",
+      "48463",
+      "48465",
+      "48469",
+      "48479",
+      "48489",
+      "48505"
+    ],
+    "statesFips": [
+      "48"
+    ]
+  }
 }

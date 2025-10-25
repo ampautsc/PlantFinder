@@ -47,5 +47,34 @@
   },
   "imageUrl": "/images/plants/eugenia-axillaris/eugenia-axillaris-2025-10-23T01-25-48-183Z.jpg",
   "thumbnailUrl": "/images/plants/eugenia-axillaris/eugenia-axillaris-2025-10-23T01-25-48-183Z-thumb.jpg",
-  "usdaPlantId": "EUAX"
+  "usdaPlantId": "EUAX",
+  "distribution": {
+    "fipsCodes": [
+      "12009",
+      "12011",
+      "12015",
+      "12017",
+      "12021",
+      "12051",
+      "12061",
+      "12071",
+      "12075",
+      "12081",
+      "12085",
+      "12086",
+      "12087",
+      "12097",
+      "12099",
+      "12103",
+      "12111",
+      "12115",
+      "12127"
+    ],
+    "statesFips": [
+      "12",
+      "72",
+      "78",
+      "NI"
+    ]
+  }
 }

@@ -47,5 +47,34 @@
   },
   "imageUrl": "/images/plants/polemonium-acutiflorum/polemonium-acutiflorum-2025-10-17T01-15-42-694Z.jpg",
   "thumbnailUrl": "/images/plants/polemonium-acutiflorum/polemonium-acutiflorum-2025-10-17T01-15-42-694Z-thumb.jpg",
-  "usdaPlantId": "POAC"
+  "usdaPlantId": "POAC",
+  "distribution": {
+    "fipsCodes": [
+      "02013",
+      "02016",
+      "02020",
+      "02050",
+      "02060",
+      "02063",
+      "02066",
+      "02068",
+      "02070",
+      "02090",
+      "02100",
+      "02110",
+      "02122",
+      "02150",
+      "02164",
+      "02170",
+      "02180",
+      "02185",
+      "02188",
+      "02240",
+      "02282",
+      "02290"
+    ],
+    "statesFips": [
+      "02"
+    ]
+  }
 }

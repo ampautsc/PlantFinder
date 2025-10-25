@@ -47,5 +47,24 @@
   },
   "imageUrl": "/images/plants/malpighia-glabra/malpighia-glabra-2025-10-23T01-27-26-470Z.jpg",
   "thumbnailUrl": "/images/plants/malpighia-glabra/malpighia-glabra-2025-10-23T01-27-26-470Z-thumb.jpg",
-  "usdaPlantId": "MAGL6"
+  "usdaPlantId": "MAGL6",
+  "distribution": {
+    "fipsCodes": [
+      "48061",
+      "48121",
+      "48201",
+      "48215",
+      "48249",
+      "48261",
+      "48273",
+      "48355",
+      "48427",
+      "48453",
+      "48479"
+    ],
+    "statesFips": [
+      "48",
+      "78"
+    ]
+  }
 }

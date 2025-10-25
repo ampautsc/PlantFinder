@@ -46,5 +46,36 @@
   },
   "imageUrl": "/images/plants/ruellia-nudiflora/ruellia-nudiflora-2025-10-23T01-27-21-371Z.jpg",
   "thumbnailUrl": "/images/plants/ruellia-nudiflora/ruellia-nudiflora-2025-10-23T01-27-21-371Z-thumb.jpg",
-  "usdaPlantId": "RUNUR"
+  "usdaPlantId": "RUNUR",
+  "distribution": {
+    "fipsCodes": [
+      "48029",
+      "48047",
+      "48061",
+      "48123",
+      "48127",
+      "48163",
+      "48215",
+      "48249",
+      "48255",
+      "48261",
+      "48271",
+      "48273",
+      "48283",
+      "48297",
+      "48311",
+      "48355",
+      "48371",
+      "48427",
+      "48463",
+      "48465",
+      "48479",
+      "48493",
+      "48505",
+      "48507"
+    ],
+    "statesFips": [
+      "48"
+    ]
+  }
 }

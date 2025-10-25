@@ -45,5 +45,11 @@
   },
   "imageUrl": "/images/plants/atriplex-canescens/atriplex-canescens-2025-10-23T01-27-07-710Z.jpg",
   "thumbnailUrl": "/images/plants/atriplex-canescens/atriplex-canescens-2025-10-23T01-27-07-710Z-thumb.jpg",
-  "usdaPlantId": "ATCAM"
+  "usdaPlantId": "ATCAM",
+  "distribution": {
+    "fipsCodes": [],
+    "statesFips": [
+      "06"
+    ]
+  }
 }

@@ -47,5 +47,17 @@
   },
   "imageUrl": "/images/plants/horkelia-fusca/horkelia-fusca-2025-10-23T01-26-49-149Z.jpg",
   "thumbnailUrl": "/images/plants/horkelia-fusca/horkelia-fusca-2025-10-23T01-26-49-149Z-thumb.jpg",
-  "usdaPlantId": "HOFUT"
+  "usdaPlantId": "HOFUT",
+  "distribution": {
+    "fipsCodes": [
+      "06007",
+      "06035",
+      "06063",
+      "06089",
+      "06103"
+    ],
+    "statesFips": [
+      "06"
+    ]
+  }
 }

@@ -1,0 +1,1624 @@
+[2025-10-25 16:21:25] ✓ Found 345 distribution CSV files
+[2025-10-25 16:21:25] Processing: ABIN (abin_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ACANH2 (acanh2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ACMIP2 (acmip2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ACRAR (acrar_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AECA (aeca_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AGLE (agle_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AGPA3 (agpa3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AGPAP3 (agpap3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ALHO4 (alho4_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ALSCS2 (alscs2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AMALS (amals_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AMBRC (ambrc_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AMCA6 (amca6_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AMFR (amfr_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AMTAT (amtat_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AMTRT2 (amtrt2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AMTU (amtu_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ANAT (anat_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ANHOP (anhop_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ANMA (anma_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ANPA4 (anpa4_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ANPL (anpl_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ANQUW (anquw_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: APAM (apam_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: APAN2 (apan2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: APCA (apca_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AQBR (aqbr_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AQCA (aqca_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AQCHR (aqchr_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: AQFO (aqfo_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ARCA10 (arca10_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ARDI2 (ardi2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ARDIV (ardiv_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ARDO3 (ardo3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ARER (arer_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ARGL (argl_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ARLA8 (arla8_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ARPU5 (arpu5_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ARSE3 (arse3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ARTO3 (arto3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ARUV (aruv_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASALB (asalb_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASAM3 (asam3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASASC (asasc_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASCRT (ascrt_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASDR3 (asdr3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASEN (asen_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASFA (asfa_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASINP2 (asinp2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASOV (asov_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASSP (assp_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASSU3 (assu3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASSY (assy_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASTR (astr_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASTUT2 (astut2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ASVE (asve_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ATCAM (atcam_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: ATLEL (atlel_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: BAAUM (baaum_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: BAMO (bamo_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: BASA3 (basa3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: BASA (basa_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: BATI (bati_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: BIALR (bialr_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: BOCY (bocy_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CACO26 (caco26_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CACO34 (caco34_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CADI10 (cadi10_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CAINI5 (caini5_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CAINL (cainl_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CAMEM (camem_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CAPUP3 (capup3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CAQUW (caquw_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CARA2 (cara2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CEAM (ceam_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CECO (ceco_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CEFE (cefe_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CEHE (cehe_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CELAT8 (celat8_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CEMOP (cemop_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CENI (ceni_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CEOC2 (ceoc2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CEOC (ceoc_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CESA (cesa_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CHAL8 (chal8_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CHALS2 (chals2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CHANC (chanc_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CHFAM2 (chfam2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CHGL2 (chgl2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CHLIL2 (chlil2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CHVIV (chviv_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CIDI (cidi_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CIHOV (cihov_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CIMU (cimu_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CIOCO2 (cioco2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CIPI (cipi_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CIUNU (ciunu_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CLSE (clse_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COAL2 (coal2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COCA13 (coca13_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COCO13 (coco13_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COCOC2 (cococ2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COFIF (cofif_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COFL2 (cofl2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COGL8 (cogl8_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COHOH (cohoh_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COLA5 (cola5_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CORA6 (cora6_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CORU (coru_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COSES (coses_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COSP3 (cosp3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COTIT (cotit_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COUMU (coumu_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: COVI8 (covi8_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: CRCAL2 (crcal2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: DACAO (dacao_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: DAPUP (dapup_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: DECA7 (deca7_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: DEGL3 (degl3_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: DEGL5 (degl5_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: DIBR2 (dibr2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: DICA (dica_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: DILAO2 (dilao2_distribution.csv)
+[2025-10-25 16:21:25]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:21:25] Processing: DIUN (diun_distribution.csv)
+[2025-10-25 16:22:10] ✓ Found 345 distribution CSV files
+[2025-10-25 16:22:10] Processing: ABIN (abin_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 17 county codes, 4 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: abutilon-incanum
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ACANH2 (acanh2_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 149 county codes, 9 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: acaciella-angustissima
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ACMIP2 (acmip2_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 3 county codes, 1 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: achillea-millefolium
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ACRAR (acrar_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 543 county codes, 25 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: actaea-racemosa
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AECA (aeca_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 44 county codes, 2 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: aesculus-californica
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AGLE (agle_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 16 county codes, 2 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: agave-lechuguilla
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AGPA3 (agpa3_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 9 county codes, 2 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: agave-palmeri
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AGPAP3 (agpap3_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 61 county codes, 17 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: agalinis-paupercula
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ALHO4 (alho4_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 18 county codes, 2 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: allowissadula-holosericea
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ALSCS2 (alscs2_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 38 county codes, 13 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: allium-schoenoprasum
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AMALS (amals_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 77 county codes, 4 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: amelanchier-alnifolia
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AMBRC (ambrc_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 169 county codes, 35 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: amphicarpaea-bracteata
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AMCA6 (amca6_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 632 county codes, 19 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: amorpha-canescens
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AMFR (amfr_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 1252 county codes, 47 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: amorpha-fruticosa
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AMTAT (amtat_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 155 county codes, 22 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: amsonia-tabernaemontana
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AMTRT2 (amtrt2_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 924 county codes, 48 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: ambrosia-trifida
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AMTU (amtu_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 757 county codes, 38 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: amaranthus-tuberculatus
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ANAT (anat_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 325 county codes, 22 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: angelica-atropurpurea
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ANHOP (anhop_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 82 county codes, 20 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: antennaria-howellii
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ANMA (anma_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 547 county codes, 40 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: anaphalis-margaritacea
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ANPA4 (anpa4_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 242 county codes, 19 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: antennaria-parvifolia
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ANPL (anpl_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 827 county codes, 32 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: antennaria-plantaginifolia
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ANQUW (anquw_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 5 county codes, 1 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: anisacanthus-quadrifidus
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: APAM (apam_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 1216 county codes, 39 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: apios-americana
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: APAN2 (apan2_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 955 county codes, 45 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: apocynum-androsaemifolium
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: APCA (apca_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 1855 county codes, 49 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: apocynum-cannabinum
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AQBR (aqbr_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 14 county codes, 5 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: aquilegia-brevistyla
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AQCA (aqca_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 1167 county codes, 37 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: aquilegia-canadensis
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AQCHR (aqchr_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 1 county codes, 3 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: aquilegia-chrysantha
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: AQFO (aqfo_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 148 county codes, 9 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: aquilegia-formosa
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ARCA10 (arca10_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 23 county codes, 1 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: aristolochia-californica
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ARDI2 (ardi2_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 243 county codes, 23 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: arabis-xdivaricarpa
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ARDIV (ardiv_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 0 county codes, 3 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: aruncus-dioicus
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ARDO3 (ardo3_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 101 county codes, 5 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: artemisia-douglasiana
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ARER (arer_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 24 county codes, 1 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: aristolochia-erecta
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ARGL (argl_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 563 county codes, 42 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: arabis-glabra
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ARLA8 (arla8_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 137 county codes, 11 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: arnica-latifolia
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ARPU5 (arpu5_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 34 county codes, 6 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: arctostaphylos-pungens
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ARSE3 (arse3_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 746 county codes, 28 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: aristolochia-serpentaria
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ARTO3 (arto3_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 249 county codes, 22 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: aristolochia-tomentosa
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ARUV (aruv_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 452 county codes, 34 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: arctostaphylos-uva-ursi
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ASALB (asalb_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 7 county codes, 3 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: astragalus-alpinus
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ASAM3 (asam3_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 21 county codes, 5 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: astragalus-americanus
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ASASC (asasc_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 57 county codes, 6 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: asclepias-asperula
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ASCRT (ascrt_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 88 county codes, 7 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: astragalus-crassicarpus
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ASDR3 (asdr3_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 97 county codes, 10 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: astragalus-drummondii
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ASEN (asen_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 150 county codes, 10 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: asclepias-engelmanniana
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ASFA (asfa_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 99 county codes, 6 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: asclepias-fascicularis
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ASINP2 (asinp2_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 127 county codes, 22 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: asclepias-incarnata
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ASOV (asov_distribution.csv)
+[2025-10-25 16:22:10]   ✓ Found 138 county codes, 9 state codes
+[2025-10-25 16:22:10]   ✓ Found plant: asclepias-ovalifolia
+[2025-10-25 16:22:10]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:10] Processing: ASSP (assp_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 478 county codes, 22 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: asclepias-speciosa
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ASSU3 (assu3_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 238 county codes, 14 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: asclepias-sullivantii
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ASSY (assy_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1171 county codes, 39 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: asclepias-syriaca
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ASTR (astr_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1094 county codes, 30 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: asimina-triloba
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ASTUT2 (astut2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 284 county codes, 25 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: asclepias-tuberosa
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ASVE (asve_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1180 county codes, 40 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: asclepias-verticillata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ATCAM (atcam_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 0 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: atriplex-canescens
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ATLEL (atlel_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 30 county codes, 5 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: atriplex-lentiformis
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: BAAUM (baaum_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 157 county codes, 9 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: baptisia-australis
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: BAMO (bamo_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 163 county codes, 18 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: bacopa-monnieri
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: BASA3 (basa3_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 189 county codes, 12 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: balsamorhiza-sagittata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: BASA (basa_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 132 county codes, 6 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: baccharis-salicina
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: BATI (bati_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 422 county codes, 26 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: baptisia-tinctoria
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: BIALR (bialr_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 70 county codes, 17 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: bidens-alba
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: BOCY (bocy_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1412 county codes, 42 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: boehmeria-cylindrica
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CACO26 (caco26_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1037 county codes, 37 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cardamine-concatenata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CACO34 (caco34_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 74 county codes, 5 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: camissonia-contorta
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CADI10 (cadi10_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 482 county codes, 27 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cardamine-diphylla
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CAINI5 (caini5_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 65 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: castilleja-integra
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CAINL (cainl_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 7 county codes, 6 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: callirhoe-involucrata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CAMEM (camem_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 30 county codes, 5 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cassiope-mertensiana
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CAPUP3 (capup3_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 444 county codes, 24 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: castanea-pumila
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CAQUW (caquw_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 5 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: camassia-quamash
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CARA2 (cara2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1251 county codes, 39 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: campsis-radicans
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CEAM (ceam_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1394 county codes, 36 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: ceanothus-americanus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CECO (ceco_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 42 county codes, 3 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: ceanothus-cordulatus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CEFE (cefe_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 75 county codes, 7 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: ceanothus-fendleri
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CEHE (cehe_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 347 county codes, 28 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: ceanothus-herbaceus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CELAT8 (celat8_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 70 county codes, 7 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: celtis-laevigata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CEMOP (cemop_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 29 county codes, 3 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cercocarpus-montanus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CENI (ceni_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 19 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: celosia-nitida
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CEOC2 (ceoc2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1646 county codes, 38 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cephalanthus-occidentalis
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CEOC (ceoc_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1275 county codes, 41 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: celtis-occidentalis
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CESA (cesa_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 69 county codes, 7 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: ceanothus-sanguineus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CHAL8 (chal8_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 25 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: chiococca-alba
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CHALS2 (chals2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 117 county codes, 27 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: chenopodium-album
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CHANC (chanc_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 575 county codes, 38 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: chamerion-angustifolium
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CHFAM2 (chfam2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1 county codes, 2 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: chamaecrista-fasciculata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CHGL2 (chgl2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 851 county codes, 30 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: chelone-glabra
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CHLIL2 (chlil2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: chilopsis-linearis
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CHVIV (chviv_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 129 county codes, 9 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: chrysogonum-virginianum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CIDI (cidi_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 716 county codes, 34 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cirsium-discolor
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CIHOV (cihov_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 0 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cirsium-horridulum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CIMU (cimu_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 496 county codes, 34 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cirsium-muticum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CIOCO2 (cioco2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 176 county codes, 12 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cirsium-ochrocentrum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CIPI (cipi_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 34 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cirsium-pitcheri
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CIUNU (ciunu_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 448 county codes, 26 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cirsium-undulatum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CLSE (clse_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 360 county codes, 29 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cleome-serrulata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COAL2 (coal2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 791 county codes, 30 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cornus-alternifolia
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COCA13 (coca13_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 411 county codes, 29 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cornus-canadensis
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COCO13 (coco13_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 976 county codes, 27 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: conoclinium-coelestinum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COCOC2 (cococ2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 438 county codes, 31 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: corylus-cornuta
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COFIF (cofif_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 24 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: corethrogyne-filaginifolia
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COFL2 (cofl2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1363 county codes, 32 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cornus-florida
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COGL8 (cogl8_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 6 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: coursetia-glandulosa
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COHOH (cohoh_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 0 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: condalia-hookeri
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COLA5 (cola5_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 634 county codes, 44 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: coreopsis-lanceolata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CORA6 (cora6_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 725 county codes, 29 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cornus-racemosa
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CORU (coru_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 338 county codes, 23 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cornus-rugosa
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COSES (coses_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 907 county codes, 37 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: cornus-sericea
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COSP3 (cosp3_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 5 county codes, 2 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: condalia-spathulata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COTIT (cotit_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 571 county codes, 47 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: coreopsis-tinctoria
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COUMU (coumu_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 822 county codes, 35 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: comandra-umbellata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: COVI8 (covi8_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 15 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: condalia-viridis
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: CRCAL2 (crcal2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 185 county codes, 13 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: croton-capitatus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: DACAO (dacao_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 326 county codes, 15 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: dalea-candida
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: DAPUP (dapup_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 744 county codes, 27 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: dalea-purpurea
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: DECA7 (deca7_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 633 county codes, 29 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: desmodium-canadense
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: DEGL3 (degl3_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 65 county codes, 11 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: delphinium-glaucum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: DEGL5 (degl5_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 936 county codes, 38 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: desmodium-glutinosum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: DIBR2 (dibr2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 228 county codes, 17 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: dicliptera-brachiata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: DICA (dica_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 467 county codes, 25 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: dicentra-canadensis
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: DILAO2 (dilao2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 12 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: diapensia-lapponica
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: DIUN (diun_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 76 county codes, 9 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: dicentra-uniflora
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: DRINS (drins_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 6 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: dryas-integrifolia
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: DROCP8 (drocp8_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 0 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: dryas-octopetala
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ECANS (ecans_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 22 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: echinacea-angustifolia
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ECPU (ecpu_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 313 county codes, 28 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: echinacea-purpurea
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: EMNIN (emnin_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: empetrum-nigrum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: EPCAL (epcal_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 49 county codes, 5 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: epilobium-canum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: EPRE2 (epre2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 684 county codes, 29 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: epigaea-repens
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ERAB2 (erab2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 41 county codes, 3 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eriogonum-abertianum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ERFAP (erfap_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 36 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eriogonum-fasciculatum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ERGIG (ergig_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 6 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eriogonum-giganteum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ERLAO (erlao_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 4 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eriophyllum-lanatum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ERNAW (ernaw_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 6 county codes, 2 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: ericameria-nauseosa
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ERNUW (ernuw_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 5 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eriogonum-nudum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ERPHP2 (erphp2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 0 county codes, 2 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: erigeron-philadelphicus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ERSPS (ersps_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 81 county codes, 8 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: erigeron-speciosus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ERUMV2 (erumv2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 7 county codes, 2 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eriogonum-umbellatum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ERWRW (erwrw_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 37 county codes, 6 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eriogonum-wrightii
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: ESCAM (escam_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 24 county codes, 6 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eschscholzia-californica
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: EUAX (euax_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 19 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eugenia-axillaris
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: EUDI16 (eudi16_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 407 county codes, 22 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eurybia-divaricata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: EUFI14 (eufi14_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 676 county codes, 31 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eutrochium-fistulosum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: EUMA27 (euma27_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 527 county codes, 25 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eurybia-macrophylla
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: EUPEP (eupep_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1286 county codes, 38 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eupatorium-perfoliatum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: EUPUP4 (eupup4_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 545 county codes, 34 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eutrochium-purpureum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: EUSE2 (euse2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 983 county codes, 33 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eupatorium-serotinum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: EUSI13 (eusi13_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 24 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: eurybia-sibirica
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: FRAM2 (fram2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1305 county codes, 38 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: fraxinus-americana
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: FRCHS2 (frchs2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 2 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: fragaria-chiloensis
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: FRVIV (frviv_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 452 county codes, 37 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: fragaria-virginiana
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: GAAR (gaar_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 240 county codes, 20 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: gaillardia-aristata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: GAHI2 (gahi2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 232 county codes, 17 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: gaultheria-hispidula
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: GAPUP2 (gapup2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 394 county codes, 37 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: gaillardia-pulchella
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: GEER2 (geer2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 19 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: geranium-erianthum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: GEMA (gema_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1145 county codes, 36 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: geranium-maculatum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: GERI (geri_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 173 county codes, 12 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: geranium-richardsonii
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: GLBIC (glbic_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 82 county codes, 6 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: glandularia-bipinnatifida
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: GLLE3 (glle3_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 623 county codes, 31 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: glycyrrhiza-lepidota
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HAPA3 (hapa3_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 20 county codes, 4 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: hamelia-patens
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HEAL (heal_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 36 county codes, 11 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: hedysarum-alpinum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HEAN2 (hean2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 439 county codes, 24 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: helianthus-angustifolius
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HEAN3 (hean3_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1113 county codes, 52 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: helianthus-annuus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HEAR3 (hear3_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 21 county codes, 3 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: helianthus-argophyllus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HEBOM (hebom_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 16 county codes, 3 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: hedysarum-boreale
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HEDE (hede_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 622 county codes, 31 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: helianthus-decapetalus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HEDI2 (hedi2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 721 county codes, 32 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: helianthus-divaricatus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HEGR4 (hegr4_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 614 county codes, 34 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: helianthus-grosseserratus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HEMA2 (hema2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 558 county codes, 37 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: helianthus-maximiliani
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HEPAS (hepas_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 172 county codes, 24 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: helianthus-pauciflorus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HEPEP (hepep_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 503 county codes, 39 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: helianthus-petiolaris
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HOFUT (hofut_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 5 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: horkelia-fusca
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HULUP (hulup_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 9 county codes, 20 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: humulus-lupulus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HYAR (hyar_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 830 county codes, 26 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: hydrangea-arborescens
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HYOD (hyod_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 131 county codes, 8 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: hymenoxys-odorata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: HYVE (hyve_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 148 county codes, 6 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: hybanthus-verticillatus
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: IPAGW (ipagw_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 4 county codes, 3 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: ipomopsis-aggregata
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: IRSES (irses_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 2 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: iris-setosa
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: KAAN (kaan_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 175 county codes, 15 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: kalmia-angustifolia
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: KALA (kala_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 672 county codes, 25 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: kalmia-latifolia
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: LACA3 (laca3_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 1103 county codes, 37 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: laportea-canadensis
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: LEFR3 (lefr3_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 32 county codes, 1 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: leucophyllum-frutescens
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: LEGR (legr_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 235 county codes, 18 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: ledum-groenlandicum
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: LEHIH2 (lehih2_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 556 county codes, 32 state codes
+[2025-10-25 16:22:11]   ✓ Found plant: lespedeza-hirta
+[2025-10-25 16:22:11]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:11] Processing: LIAL (lial_distribution.csv)
+[2025-10-25 16:22:11]   ✓ Found 4 county codes, 3 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: lippia-alba
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LIASS (liass_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 0 county codes, 2 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: liatris-aspera
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LIBEP (libep_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 107 county codes, 25 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: lindera-benzoin
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LILEL4 (lilel4_distribution.csv)
+[2025-10-25 16:22:12]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:22:12] Processing: LIPUP (lipup_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 229 county codes, 20 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: liatris-punctata
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LIPYP (lipyp_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 426 county codes, 22 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: liatris-pycnostachya
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LISPS (lisps_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 177 county codes, 26 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: liatris-spicata
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LITU (litu_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 996 county codes, 29 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: liriodendron-tulipifera
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LOCA2 (loca2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 1393 county codes, 42 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: lobelia-cardinalis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LOSCS2 (loscs2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 36 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: lotus-scoparius
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LOSE (lose_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 695 county codes, 33 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: lonicera-sempervirens
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LUNON (lunon_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 0 county codes, 2 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: lupinus-nootkatensis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LUPEP3 (lupep3_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 14 county codes, 22 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: lupinus-perennis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: LUTE (lute_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 109 county codes, 4 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: lupinus-texensis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MAAQ2 (maaq2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 121 county codes, 12 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: berberis-aquifolium
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MAGL6 (magl6_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 11 county codes, 2 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: malpighia-glabra
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MAIOT8 (maiot8_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 0 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: malus-ioensis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MAMA7 (mama7_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 22 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: manfreda-maculosa
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MATA2 (mata2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 199 county codes, 15 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: machaeranthera-tanacetifolia
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MECIS (mecis_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 18 county codes, 3 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: mertensia-ciliata
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MEMUM2 (memum2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 75 county codes, 9 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: mentzelia-multiflora
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MEPAP (mepap_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 44 county codes, 10 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: mertensia-paniculata
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MEVI3 (mevi3_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 575 county codes, 27 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: mertensia-virginica
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MIRIR (mirir_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 984 county codes, 43 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: mimulus-ringens
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MOCA6 (moca6_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 29 county codes, 3 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: morella-californica
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MOCE2 (moce2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 424 county codes, 17 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: morella-cerifera
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MOCIP2 (mocip2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 1 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: monarda-citriodora
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MOFIR (mofir_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 5 county codes, 12 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: monarda-fistulosa
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MOODP (moodp_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 31 county codes, 3 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: monardella-odoratissima
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MOPE6 (mope6_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 132 county codes, 15 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: morella-pensylvanica
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: MOVIV (moviv_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 34 county codes, 2 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: monardella-villosa
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: NOTE (note_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 41 county codes, 5 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: nolina-texana
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: OECAN (oecan_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 21 county codes, 4 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: oenothera-caespitosa
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: OEFRT (oefrt_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 264 county codes, 25 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: oenothera-fruticosa
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: OESP2 (oesp2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 651 county codes, 28 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: oenothera-speciosa
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: OLRIG (olrig_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 41 county codes, 12 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: solidago-rigida
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: OLRIR (olrir_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 609 county codes, 28 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: oligoneuron-rigidum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: OXCAW (oxcaw_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 1 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: oxytropis-campestris
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PAAF (paaf_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 16 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: passiflora-affinis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PAAU3 (paau3_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 855 county codes, 33 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: packera-aurea
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PAFOL (pafol_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 0 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: passiflora-foetida
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PAIN6 (pain6_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 628 county codes, 24 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: passiflora-incarnata
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PALU2 (palu2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 719 county codes, 23 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: passiflora-lutea
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PAQU2 (paqu2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 1516 county codes, 39 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: parthenocissus-quinquefolia
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PATE9 (pate9_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 39 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: passiflora-tenuiloba
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PEAL2 (peal2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 302 county codes, 12 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: penstemon-albidus
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PECO4 (peco4_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 189 county codes, 12 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: penstemon-cobaea
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PEDI (pedi_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 790 county codes, 36 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: penstemon-digitalis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PEGR7 (pegr7_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 176 county codes, 20 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: penstemon-grandiflorus
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PEHI (pehi_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 344 county codes, 21 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: penstemon-hirsutus
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PELA8 (pela8_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 308 county codes, 20 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: penstemon-laevigatus
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PHLE4 (phle4_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 114 county codes, 5 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: philadelphus-lewisii
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PHLI (phli_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 140 county codes, 11 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: phacelia-linearis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PHNO2 (phno2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 306 county codes, 30 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: phyla-nodiflora
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PHPA9 (phpa9_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 703 county codes, 36 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: phlox-paniculata
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PLRUR (plrur_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 1179 county codes, 39 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: plantago-rugelii
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: POAC (poac_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 22 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: polemonium-acutiflorum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: POBI6 (pobi6_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 237 county codes, 11 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: polygonum-bistortoides
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: POCAV (pocav_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 67 county codes, 16 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: potentilla-canadensis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: POTE3 (pote3_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 92 county codes, 2 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: polytaenia-texana
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: POVI3 (povi3_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 105 county codes, 17 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: polygonum-viviparum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PRVIV (prviv_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 593 county codes, 30 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: prunus-virginiana
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PSOBS (psobs_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 6 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: pseudognaphalium-obtusifolium-obtusifolium
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PTTRT2 (pttrt2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 381 county codes, 35 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: ptelea-trifoliata
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: PUPAP2 (pupap2_distribution.csv)
+[2025-10-25 16:22:12]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:22:12] Processing: PYTE (pyte_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 1060 county codes, 36 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: pycnanthemum-tenuifolium
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RACO3 (raco3_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 713 county codes, 37 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: ratibida-columnifera
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RAPI (rapi_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 600 county codes, 29 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: ratibida-pinnata
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RHAL (rhal_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 306 county codes, 29 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: rhamnus-alnifolia
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RHARS (rhars_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 236 county codes, 10 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: rhus-aromatica
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RHCA6 (rhca6_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 80 county codes, 9 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: rhododendron-canadense
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RHCRP2 (rhcrp2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 2 county codes, 2 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: rhamnus-crocea
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RHLA3 (rhla3_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 62 county codes, 4 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: rhus-lanceolata
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RHOCS (rhocs_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 2 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: rhododendron-occidentale
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RICEP (ricep_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 136 county codes, 13 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: ribes-cereum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RISAS (risas_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 48 county codes, 4 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: ribes-sanguineum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RONUS (ronus_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 0 county codes, 2 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: rosa-nutkana
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RUDR (rudr_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 17 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: ruellia-drummondiana
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RUFUU (rufuu_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 90 county codes, 12 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: rudbeckia-fulgida
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RUHIP (ruhip_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 819 county codes, 47 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: rudbeckia-hirta-pulcherrima
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RUNUR (runur_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 24 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: ruellia-nudiflora
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RUOC2 (ruoc2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 90 county codes, 8 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: rudbeckia-occidentalis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: RUPAV (rupav_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 9 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: rubus-parviflorus
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SAAL5 (saal5_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 1322 county codes, 34 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: sassafras-albidum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SABRV2 (sabrv2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 15 county codes, 3 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: saxifraga-bronchialis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SACA13 (saca13_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 1257 county codes, 38 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: sanguinaria-canadensis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SADI (sadi_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 502 county codes, 29 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: salix-discolor
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SADOP (sadop_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 16 county codes, 3 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: salvia-dorrii
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SASAS (sasas_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 33 county codes, 8 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: sapindus-saponaria-drummondii
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SEBE3 (sebe3_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 6 county codes, 1 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: senegalia-berlandieri
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SEFLM (seflm_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 26 county codes, 6 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: senecio-flaccidus
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SEHE3 (sehe3_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 394 county codes, 24 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: senna-hebecarpa
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SELI4 (seli4_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 31 county codes, 3 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: senna-lindheimeriana
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SERE2 (sere2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 91 county codes, 7 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: serenoa-repens
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SIRHR (sirhr_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 12 county codes, 2 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: sida-rhombifolia
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SOAL6 (soal6_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 1295 county codes, 44 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: solidago-altissima
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SOCAS (socas_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 201 county codes, 17 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: solidago-canadensis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SOMUS (somus_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 134 county codes, 12 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: solidago-multiradiata
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SONEN (sonen_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 844 county codes, 36 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: solidago-nemoralis
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SOODO (soodo_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 474 county codes, 27 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: solidago-odora
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SORUV (soruv_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 44 county codes, 15 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: solidago-rugosa
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SOSPS4 (sosps4_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 210 county codes, 27 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: solidago-speciosa
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SPALL (spall_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 205 county codes, 19 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: spiraea-alba
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SPCOE (spcoe_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 2 county codes, 7 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: sphaeralcea-coccinea
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SPMUS2 (spmus2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 6 county codes, 4 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: sphaeralcea-munroana
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SPTO2 (spto2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 478 county codes, 31 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: spiraea-tomentosa
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: STBA (stba_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 16 county codes, 2 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: stenandrium-barbatum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: STBI2 (stbi2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 838 county codes, 27 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: stylosanthes-biflora
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SUMA2 (suma2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 17 county codes, 6 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: suriana-maritima
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SYALL (syall_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 236 county codes, 29 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: symphoricarpos-albus
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SYCI (syci_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 160 county codes, 13 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: symphyotrichum-ciliolatum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SYERS (syers_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 13 county codes, 9 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: symphyotrichum-ericoides-var-ericoides
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SYLAL6 (sylal6_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 1026 county codes, 39 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: symphyotrichum-lanceolatum-var-lanceolatum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SYLAP (sylap_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 15 county codes, 6 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: symphyotrichum-laeve-var-laeve
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SYLAT (sylat_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 2 county codes, 6 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: symphyotrichum-lateriflorum-var-lateriflorum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SYNO2 (syno2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 843 county codes, 43 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: symphyotrichum-novae-angliae
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SYNOV (synov_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 10 county codes, 8 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: symphyotrichum-novi-belgii-var-novi-belgii
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SYSE2 (syse2_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 320 county codes, 16 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: symphyotrichum-sericeum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SYSUS (sysus_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 78 county codes, 6 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: symphyotrichum-subspicatum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: SYUN (syun_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 592 county codes, 27 state codes
+[2025-10-25 16:22:12]   ✓ Found plant: symphyotrichum-undulatum
+[2025-10-25 16:22:12]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:12] Processing: TAIN (tain_distribution.csv)
+[2025-10-25 16:22:12]   ✓ Found 704 county codes, 32 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: taenidia-integerrima
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: TEST (test_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 35 county codes, 9 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: tecoma-stans
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: THME (thme_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 287 county codes, 19 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: thelesperma-megapotamicum
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: THTE2 (thte2_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 75 county codes, 4 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: thamnosma-texana
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: THTRT (thtrt_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 111 county codes, 19 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: thaspium-trifoliatum
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: TROCS (trocs_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 29 county codes, 4 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: tradescantia-occidentalis
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: TROH (troh_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 827 county codes, 34 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: tradescantia-ohiensis
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: TRREG3 (trreg3_distribution.csv)
+[2025-10-25 16:22:13]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:22:13] Processing: URDIH (urdih_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 127 county codes, 11 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: urtica-dioica
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VACE (vace_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 172 county codes, 18 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: vaccinium-cespitosum
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VAMY (vamy_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 249 county codes, 21 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: vaccinium-myrtilloides
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VAOX (vaox_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 306 county codes, 22 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: vaccinium-oxycoccos
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VAUL (vaul_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 105 county codes, 15 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: vaccinium-uliginosum
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VEENE3 (veene3_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 53 county codes, 18 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: verbesina-encelioides
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VEGIO (vegio_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 0 county codes, 2 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: vernonia-gigantea
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VEHAS (vehas_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 82 county codes, 22 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: verbena-hastata
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VESI (vesi_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 577 county codes, 33 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: verbena-simplex
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VEST (vest_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 866 county codes, 38 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: verbena-stricta
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VIAC (viac_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 837 county codes, 30 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viburnum-acerifolium
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VIADO2 (viado2_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 6 county codes, 3 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viola-adunca
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VIDEV (videv_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 29 county codes, 9 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viburnum-dentatum
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VIGL (vigl_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 119 county codes, 6 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viola-glabella
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VILA11 (vila11_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 185 county codes, 17 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viburnum-lantanoides
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VILE (vile_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 548 county codes, 29 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viburnum-lentago
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VINE (vine_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 592 county codes, 35 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viola-nephrophylla
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VINU2 (vinu2_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 175 county codes, 10 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viola-nuttallii
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VIOPS (viops_distribution.csv)
+[2025-10-25 16:22:13]   ⚠ No FIPS codes found in CSV
+[2025-10-25 16:22:13] Processing: VIPE (vipe_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 832 county codes, 34 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viola-pedata
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VIPUV2 (vipuv2_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 83 county codes, 9 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viola-purpurea
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VIRO2 (viro2_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 263 county codes, 19 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viola-rotundifolia
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: VISO (viso_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 1503 county codes, 38 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: viola-sororia
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: WIFR (wifr_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 382 county codes, 28 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: wisteria-frutescens
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: YUFI (yufi_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 500 county codes, 29 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: yucca-filamentosa
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: YUGLG2 (yuglg2_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 161 county codes, 13 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: yucca-glauca
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: ZAAM (zaam_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 745 county codes, 36 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: zanthoxylum-americanum
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: ZAFA (zafa_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 41 county codes, 2 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: zanthoxylum-fagara
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: ZAPUP2 (zapup2_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 0 county codes, 1 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: zamia-pumila
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: ZIAU (ziau_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 1019 county codes, 39 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: zizia-aurea
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] Processing: ZIGR (zigr_distribution.csv)
+[2025-10-25 16:22:13]   ✓ Found 141 county codes, 6 state codes
+[2025-10-25 16:22:13]   ✓ Found plant: zinnia-grandiflora
+[2025-10-25 16:22:13]   ✓ Updated plant file with distribution data
+[2025-10-25 16:22:13] ✓ Processing complete
+[2025-10-25 16:22:13]   Success: 341/345
+[2025-10-25 16:22:13]   Failures: 4/345

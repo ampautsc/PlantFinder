@@ -48,5 +48,31 @@
   },
   "imageUrl": "/images/plants/geranium-erianthum/geranium-erianthum-2025-10-17T01-15-40-016Z.jpg",
   "thumbnailUrl": "/images/plants/geranium-erianthum/geranium-erianthum-2025-10-17T01-15-40-016Z-thumb.jpg",
-  "usdaPlantId": "GEER2"
+  "usdaPlantId": "GEER2",
+  "distribution": {
+    "fipsCodes": [
+      "02013",
+      "02016",
+      "02020",
+      "02050",
+      "02060",
+      "02063",
+      "02066",
+      "02068",
+      "02070",
+      "02100",
+      "02110",
+      "02122",
+      "02150",
+      "02164",
+      "02170",
+      "02220",
+      "02240",
+      "02282",
+      "02290"
+    ],
+    "statesFips": [
+      "02"
+    ]
+  }
 }

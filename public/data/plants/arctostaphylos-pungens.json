@@ -45,5 +45,51 @@
   },
   "imageUrl": "/images/plants/arctostaphylos-pungens/arctostaphylos-pungens-2025-10-23T01-27-19-651Z.jpg",
   "thumbnailUrl": "/images/plants/arctostaphylos-pungens/arctostaphylos-pungens-2025-10-23T01-27-19-651Z-thumb.jpg",
-  "usdaPlantId": "ARPU5"
+  "usdaPlantId": "ARPU5",
+  "distribution": {
+    "fipsCodes": [
+      "04001",
+      "04003",
+      "04005",
+      "04007",
+      "04009",
+      "04013",
+      "04015",
+      "04017",
+      "04019",
+      "04023",
+      "04025",
+      "06029",
+      "06053",
+      "06065",
+      "06069",
+      "06071",
+      "06073",
+      "06079",
+      "06083",
+      "06087",
+      "06107",
+      "32003",
+      "32017",
+      "35003",
+      "35017",
+      "35023",
+      "35027",
+      "35043",
+      "35049",
+      "35051",
+      "48243",
+      "49025",
+      "49037",
+      "49053"
+    ],
+    "statesFips": [
+      "04",
+      "06",
+      "32",
+      "35",
+      "48",
+      "49"
+    ]
+  }
 }

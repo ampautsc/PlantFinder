@@ -46,5 +46,15 @@
   },
   "imageUrl": "/images/plants/achillea-millefolium/achillea-millefolium-2025-10-17T01-13-20-697Z.jpg",
   "thumbnailUrl": "/images/plants/achillea-millefolium/achillea-millefolium-2025-10-17T01-13-20-697Z-thumb.jpg",
-  "usdaPlantId": "ACMIP2"
+  "usdaPlantId": "ACMIP2",
+  "distribution": {
+    "fipsCodes": [
+      "06013",
+      "06041",
+      "06095"
+    ],
+    "statesFips": [
+      "06"
+    ]
+  }
 }

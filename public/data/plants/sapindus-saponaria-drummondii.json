@@ -46,5 +46,52 @@
   },
   "imageUrl": "/images/plants/sapindus-saponaria-drummondii/sapindus-saponaria-drummondii-2025-10-23T01-27-44-310Z.jpg",
   "thumbnailUrl": "/images/plants/sapindus-saponaria-drummondii/sapindus-saponaria-drummondii-2025-10-23T01-27-44-310Z-thumb.jpg",
-  "usdaPlantId": "SASAS"
+  "usdaPlantId": "SASAS",
+  "distribution": {
+    "fipsCodes": [
+      "01003",
+      "01097",
+      "12001",
+      "12009",
+      "12011",
+      "12013",
+      "12017",
+      "12021",
+      "12023",
+      "12029",
+      "12037",
+      "12051",
+      "12053",
+      "12055",
+      "12057",
+      "12071",
+      "12075",
+      "12081",
+      "12083",
+      "12086",
+      "12087",
+      "12091",
+      "12095",
+      "12101",
+      "12105",
+      "12107",
+      "12119",
+      "12127",
+      "13051",
+      "13179",
+      "13191",
+      "15001",
+      "28059"
+    ],
+    "statesFips": [
+      "01",
+      "12",
+      "13",
+      "15",
+      "28",
+      "45",
+      "72",
+      "78"
+    ]
+  }
 }

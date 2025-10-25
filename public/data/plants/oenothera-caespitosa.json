@@ -69,5 +69,36 @@
   },
   "imageUrl": "/images/plants/oenothera-caespitosa/oenothera-caespitosa-2025-10-17T03-23-07-558Z.jpg",
   "thumbnailUrl": "/images/plants/oenothera-caespitosa/oenothera-caespitosa-2025-10-17T03-23-07-558Z-thumb.jpg",
-  "usdaPlantId": "OECAN"
+  "usdaPlantId": "OECAN",
+  "distribution": {
+    "fipsCodes": [
+      "04001",
+      "04005",
+      "04017",
+      "35031",
+      "35039",
+      "35043",
+      "35045",
+      "49007",
+      "49009",
+      "49013",
+      "49015",
+      "49017",
+      "49019",
+      "49025",
+      "49037",
+      "49039",
+      "49041",
+      "49047",
+      "49051",
+      "49053",
+      "49055"
+    ],
+    "statesFips": [
+      "04",
+      "08",
+      "35",
+      "49"
+    ]
+  }
 }

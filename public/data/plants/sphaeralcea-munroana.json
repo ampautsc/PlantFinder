@@ -69,5 +69,21 @@
   },
   "imageUrl": "/images/plants/sphaeralcea-munroana/sphaeralcea-munroana-2025-10-17T01-14-33-499Z.jpg",
   "thumbnailUrl": "/images/plants/sphaeralcea-munroana/sphaeralcea-munroana-2025-10-17T01-14-33-499Z-thumb.jpg",
-  "usdaPlantId": "SPMUS2"
+  "usdaPlantId": "SPMUS2",
+  "distribution": {
+    "fipsCodes": [
+      "41023",
+      "49003",
+      "49023",
+      "49043",
+      "49049",
+      "49051"
+    ],
+    "statesFips": [
+      "16",
+      "41",
+      "49",
+      "56"
+    ]
+  }
 }

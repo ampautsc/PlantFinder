@@ -46,5 +46,18 @@
   },
   "imageUrl": "/images/plants/senegalia-berlandieri/senegalia-berlandieri-2025-10-23T01-27-29-885Z.jpg",
   "thumbnailUrl": "/images/plants/senegalia-berlandieri/senegalia-berlandieri-2025-10-23T01-27-29-885Z-thumb.jpg",
-  "usdaPlantId": "SEBE3"
+  "usdaPlantId": "SEBE3",
+  "distribution": {
+    "fipsCodes": [
+      "48215",
+      "48271",
+      "48297",
+      "48323",
+      "48463",
+      "48465"
+    ],
+    "statesFips": [
+      "48"
+    ]
+  }
 }

@@ -93,5 +93,28 @@
   },
   "imageUrl": "/images/plants/monarda-fistulosa/monarda-fistulosa-2025-10-23T01-27-39-734Z.jpg",
   "thumbnailUrl": "/images/plants/monarda-fistulosa/monarda-fistulosa-2025-10-23T01-27-39-734Z-thumb.jpg",
-  "usdaPlantId": "MOFIR"
+  "usdaPlantId": "MOFIR",
+  "distribution": {
+    "fipsCodes": [
+      "42007",
+      "42069",
+      "42077",
+      "42095",
+      "54075"
+    ],
+    "statesFips": [
+      "09",
+      "13",
+      "17",
+      "23",
+      "33",
+      "34",
+      "36",
+      "37",
+      "42",
+      "47",
+      "51",
+      "54"
+    ]
+  }
 }

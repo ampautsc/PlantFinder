@@ -46,5 +46,18 @@
   },
   "imageUrl": "/images/plants/pseudognaphalium-obtusifolium-obtusifolium/pseudognaphalium-obtusifolium-obtusifolium-2025-10-17T06-26-57-168Z.jpg",
   "thumbnailUrl": "/images/plants/pseudognaphalium-obtusifolium-obtusifolium/pseudognaphalium-obtusifolium-obtusifolium-2025-10-17T06-26-57-168Z-thumb.jpg",
-  "usdaPlantId": "PSOBS"
+  "usdaPlantId": "PSOBS",
+  "distribution": {
+    "fipsCodes": [
+      "55001",
+      "55021",
+      "55027",
+      "55103",
+      "55111",
+      "55123"
+    ],
+    "statesFips": [
+      "55"
+    ]
+  }
 }

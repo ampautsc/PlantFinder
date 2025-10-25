@@ -46,5 +46,29 @@
   },
   "imageUrl": "/images/plants/saxifraga-bronchialis/saxifraga-bronchialis-2025-10-23T01-26-56-569Z.jpg",
   "thumbnailUrl": "/images/plants/saxifraga-bronchialis/saxifraga-bronchialis-2025-10-23T01-26-56-569Z-thumb.jpg",
-  "usdaPlantId": "SABRV2"
+  "usdaPlantId": "SABRV2",
+  "distribution": {
+    "fipsCodes": [
+      "41005",
+      "41007",
+      "41019",
+      "41027",
+      "41039",
+      "41043",
+      "41047",
+      "41051",
+      "41057",
+      "53027",
+      "53041",
+      "53049",
+      "53053",
+      "53059",
+      "53077"
+    ],
+    "statesFips": [
+      "02",
+      "41",
+      "53"
+    ]
+  }
 }

@@ -45,5 +45,13 @@
   },
   "imageUrl": "/images/plants/aruncus-dioicus/aruncus-dioicus-2025-10-23T01-27-31-473Z.jpg",
   "thumbnailUrl": "/images/plants/aruncus-dioicus/aruncus-dioicus-2025-10-23T01-27-31-473Z-thumb.jpg",
-  "usdaPlantId": "ARDIV"
+  "usdaPlantId": "ARDIV",
+  "distribution": {
+    "fipsCodes": [],
+    "statesFips": [
+      "23",
+      "26",
+      "36"
+    ]
+  }
 }

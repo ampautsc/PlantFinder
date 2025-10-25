@@ -80,5 +80,44 @@
   },
   "imageUrl": "/images/plants/tradescantia-occidentalis/tradescantia-occidentalis-2025-10-17T01-14-13-582Z.jpg",
   "thumbnailUrl": "/images/plants/tradescantia-occidentalis/tradescantia-occidentalis-2025-10-17T01-14-13-582Z-thumb.jpg",
-  "usdaPlantId": "TROCS"
+  "usdaPlantId": "TROCS",
+  "distribution": {
+    "fipsCodes": [
+      "04001",
+      "04003",
+      "04007",
+      "04009",
+      "04013",
+      "04017",
+      "04019",
+      "04021",
+      "08009",
+      "08011",
+      "08013",
+      "08017",
+      "08031",
+      "08035",
+      "08039",
+      "08041",
+      "08043",
+      "08059",
+      "08069",
+      "08071",
+      "08073",
+      "08075",
+      "08087",
+      "08115",
+      "08121",
+      "08123",
+      "08125",
+      "35031",
+      "35039"
+    ],
+    "statesFips": [
+      "04",
+      "08",
+      "35",
+      "49"
+    ]
+  }
 }

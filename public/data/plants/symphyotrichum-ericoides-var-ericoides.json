@@ -48,5 +48,33 @@
   },
   "imageUrl": "/images/plants/symphyotrichum-ericoides-var-ericoides/symphyotrichum-ericoides-var-ericoides-2025-10-23T01-26-12-593Z.jpg",
   "thumbnailUrl": "/images/plants/symphyotrichum-ericoides-var-ericoides/symphyotrichum-ericoides-var-ericoides-2025-10-23T01-26-12-593Z-thumb.jpg",
-  "usdaPlantId": "SYERS"
+  "usdaPlantId": "SYERS",
+  "distribution": {
+    "fipsCodes": [
+      "49009",
+      "49019",
+      "49037",
+      "49047",
+      "49049",
+      "49053",
+      "56005",
+      "56009",
+      "56015",
+      "56019",
+      "56029",
+      "56033",
+      "56045"
+    ],
+    "statesFips": [
+      "08",
+      "20",
+      "27",
+      "30",
+      "31",
+      "38",
+      "46",
+      "49",
+      "56"
+    ]
+  }
 }

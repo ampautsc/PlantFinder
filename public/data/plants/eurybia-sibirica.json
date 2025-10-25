@@ -47,5 +47,39 @@
   },
   "imageUrl": "/images/plants/eurybia-sibirica/eurybia-sibirica-2025-10-17T01-14-27-524Z.jpg",
   "thumbnailUrl": "/images/plants/eurybia-sibirica/eurybia-sibirica-2025-10-17T01-14-27-524Z-thumb.jpg",
-  "usdaPlantId": "EUSI13"
+  "usdaPlantId": "EUSI13",
+  "distribution": {
+    "fipsCodes": [
+      "02013",
+      "02016",
+      "02020",
+      "02050",
+      "02063",
+      "02066",
+      "02068",
+      "02070",
+      "02090",
+      "02122",
+      "02150",
+      "02164",
+      "02170",
+      "02180",
+      "02185",
+      "02188",
+      "02240",
+      "02282",
+      "02290",
+      "16037",
+      "30029",
+      "30099",
+      "53007",
+      "53073"
+    ],
+    "statesFips": [
+      "02",
+      "16",
+      "30",
+      "53"
+    ]
+  }
 }

@@ -45,5 +45,22 @@
   },
   "imageUrl": "/images/plants/agave-palmeri/agave-palmeri-2025-10-23T01-27-10-991Z.jpg",
   "thumbnailUrl": "/images/plants/agave-palmeri/agave-palmeri-2025-10-23T01-27-10-991Z-thumb.jpg",
-  "usdaPlantId": "AGPA3"
+  "usdaPlantId": "AGPA3",
+  "distribution": {
+    "fipsCodes": [
+      "04003",
+      "04007",
+      "04009",
+      "04019",
+      "04021",
+      "04023",
+      "35015",
+      "35023",
+      "35029"
+    ],
+    "statesFips": [
+      "04",
+      "35"
+    ]
+  }
 }

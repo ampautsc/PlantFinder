@@ -54,5 +54,37 @@
   },
   "imageUrl": "/images/plants/echinacea-angustifolia/echinacea-angustifolia-2025-10-17T01-14-44-820Z.jpg",
   "thumbnailUrl": "/images/plants/echinacea-angustifolia/echinacea-angustifolia-2025-10-17T01-14-44-820Z-thumb.jpg",
-  "usdaPlantId": "ECANS"
+  "usdaPlantId": "ECANS",
+  "distribution": {
+    "fipsCodes": [
+      "20015",
+      "20079",
+      "20191",
+      "40011",
+      "40013",
+      "40027",
+      "40039",
+      "40051",
+      "40053",
+      "40059",
+      "40073",
+      "40079",
+      "40083",
+      "40087",
+      "40099",
+      "40109",
+      "40119",
+      "40129",
+      "40133",
+      "40137",
+      "40149",
+      "40151"
+    ],
+    "statesFips": [
+      "20",
+      "22",
+      "40",
+      "48"
+    ]
+  }
 }

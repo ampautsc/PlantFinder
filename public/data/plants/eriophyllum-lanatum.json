@@ -69,5 +69,16 @@
   },
   "imageUrl": "/images/plants/eriophyllum-lanatum/eriophyllum-lanatum-2025-10-17T01-13-29-748Z.jpg",
   "thumbnailUrl": "/images/plants/eriophyllum-lanatum/eriophyllum-lanatum-2025-10-17T01-13-29-748Z-thumb.jpg",
-  "usdaPlantId": "ERLAO"
+  "usdaPlantId": "ERLAO",
+  "distribution": {
+    "fipsCodes": [
+      "06019",
+      "06029",
+      "06071",
+      "06107"
+    ],
+    "statesFips": [
+      "06"
+    ]
+  }
 }
