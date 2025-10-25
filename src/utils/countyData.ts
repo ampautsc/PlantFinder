@@ -1,7 +1,6 @@
 /**
  * County data structure for US states
- * Note: This is a minimal implementation. For full county support,
- * county data should be loaded from an external API or data file.
+ * County data is loaded from a static JSON file extracted from USDA distribution data
  */
 
 export interface County {
@@ -9,27 +8,42 @@ export interface County {
   fips: string; // 5-digit county FIPS code (state + county)
 }
 
+// Cache for county data to avoid repeated fetches
+let countyDataCache: Record<string, County[]> | null = null;
+
+/**
+ * Load county data from the static JSON file
+ * @returns Record of state FIPS to counties array
+ */
+async function loadCountyData(): Promise<Record<string, County[]>> {
+  if (countyDataCache) {
+    return countyDataCache;
+  }
+  
+  try {
+    const response = await fetch('/data/us-counties.json');
+    if (!response.ok) {
+      console.error('Failed to load county data:', response.statusText);
+      return {};
+    }
+    
+    const data = await response.json();
+    countyDataCache = data;
+    return data;
+  } catch (error) {
+    console.error('Error loading county data:', error);
+    return {};
+  }
+}
+
 /**
  * Get counties for a specific state
  * @param stateFips 2-digit state FIPS code
  * @returns Array of counties for the state
- * 
- * Note: This currently returns an empty array.
- * In a full implementation, this would load county data from an external source.
- * For now, we'll focus on state-level filtering only.
  */
 export async function getCountiesForState(stateFips: string): Promise<County[]> {
-  // TODO: Implement county data loading
-  // This could load from:
-  // 1. A local JSON file with county data
-  // 2. An external API
-  // 3. The Census Bureau API
-  
-  // Suppress unused parameter warning - will be used when counties are implemented
-  void stateFips;
-  
-  // For now, return empty array - county selection will be optional
-  return [];
+  const countyData = await loadCountyData();
+  return countyData[stateFips] || [];
 }
 
 /**
