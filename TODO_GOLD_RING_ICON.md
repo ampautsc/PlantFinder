@@ -10,7 +10,7 @@ An image editor (like GIMP, Photoshop, or Photopea) is needed to properly create
 
 1. **Open** `public/images/Camp Monarch_LOGO B1 square.png` in an image editor
 2. **Locate** the existing outer ring/border that is part of the original logo design
-3. **Change** only that ring's color to gold (approximately #FFD700 or similar gold tone to match the theme)
+3. **Change** only that ring's color to gold (approximately `#FFD700` or similar gold tone to match the theme)
 4. **Save** the result, replacing `public/images/Camp Monarch_LOGO B1_monarch_gold_ring.png`
 
 ## Important Notes
