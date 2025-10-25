@@ -1,6 +1,7 @@
 import { useState, useRef } from 'react';
 import './GardenIcon.css';
 import { sparkleBurst } from '../utils/useSparkleBurst';
+import { playBonusSound } from '../utils/playBonusSound';
 
 interface GardenIconProps {
   isInGarden: boolean;
@@ -16,8 +17,9 @@ function GardenIcon({ isInGarden, onAddToGarden, onOpenConfig }: GardenIconProps
     if (isInGarden) {
       onOpenConfig();
     } else {
-      // Trigger celebration with sparkle burst
+      // Trigger celebration with sparkle burst and sound
       setCelebrating(true);
+      playBonusSound();
       if (buttonRef.current) {
         sparkleBurst(buttonRef.current);
       }
