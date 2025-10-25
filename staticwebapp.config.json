@@ -1,7 +1,7 @@
 {
   "navigationFallback": {
     "rewrite": "/index.html",
-    "exclude": ["/assets/*", "/images/*", "/data/*"]
+    "exclude": ["/assets/*", "/images/*", "/data/*", "/api/*"]
   },
   "mimeTypes": {
     ".json": "application/json"
@@ -10,6 +10,10 @@
     "Cache-Control": "no-cache, no-store, must-revalidate"
   },
   "routes": [
+    {
+      "route": "/api/*",
+      "allowedRoles": ["anonymous"]
+    },
     {
       "route": "/assets/*",
       "headers": {

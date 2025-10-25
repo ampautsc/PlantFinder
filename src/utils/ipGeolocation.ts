@@ -1,9 +1,7 @@
 /**
  * Utility for IP-based geolocation to detect user's state and county
- * Uses ipapi.co free API (no API key required for reasonable usage)
+ * Uses our backend API endpoint (/api/geolocation) to avoid CORS and ad-blocker issues
  */
-
-import { STATE_TO_FIPS } from './fipsUtils';
 
 export interface IPGeolocationResult {
   state: string; // State name (e.g., "Texas")
@@ -14,12 +12,14 @@ export interface IPGeolocationResult {
 
 /**
  * Get user's location (state and county) from their IP address
+ * Uses our backend API to avoid CORS and ad-blocker issues
  * @returns IPGeolocationResult or null if detection fails
  */
 export async function detectLocationFromIP(): Promise<IPGeolocationResult | null> {
   try {
-    // Use ipapi.co free API - allows 1,000 requests per day without API key
-    const response = await fetch('https://ipapi.co/json/');
+    // Use our backend API endpoint which proxies the request
+    // This avoids CORS issues and ad-blocker blocking
+    const response = await fetch('/api/geolocation');
     
     if (!response.ok) {
       console.warn('IP geolocation API error:', response.status);
@@ -28,25 +28,25 @@ export async function detectLocationFromIP(): Promise<IPGeolocationResult | null
 
     const data = await response.json();
     
-    // Check if we got state information
-    if (!data.region) {
-      console.warn('No region information from IP geolocation');
+    // Check if we got an error response
+    if (data.error) {
+      console.warn('IP geolocation error:', data.error);
       return null;
     }
-
-    const stateName = data.region;
-    const stateFips = STATE_TO_FIPS[stateName];
     
-    if (!stateFips) {
-      console.warn('Unknown state from IP geolocation:', stateName);
+    // Check if we got state information
+    if (!data.state || !data.stateFips) {
+      console.warn('No state information from IP geolocation');
       return null;
     }
 
     // Note: IP geolocation typically doesn't provide county-level data
     // We only get state-level information
     return {
-      state: stateName,
-      stateFips: stateFips,
+      state: data.state,
+      stateFips: data.stateFips,
+      county: data.county,
+      countyFips: data.countyFips,
     };
   } catch (error) {
     console.error('Error detecting location from IP:', error);
