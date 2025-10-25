@@ -346,7 +346,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                     <div className="host-species-list">
                       {(() => {
                         // Deduplicate butterflies by their common name
-                        const speciesMap = new Map<string, { commonName: string; thumbnail: ReturnType<typeof getButterflyThumbnail> }>();
+                        const speciesMap = new Map<string, { speciesName: string; commonName: string; thumbnail: ReturnType<typeof getButterflyThumbnail> }>();
                         
                         plant.relationships.hostPlantTo.forEach(species => {
                           const thumbnail = getButterflyThumbnail(species);
@@ -354,16 +354,16 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                           
                           // Only add if we haven't seen this common name before
                           if (!speciesMap.has(commonName)) {
-                            speciesMap.set(commonName, { commonName, thumbnail });
+                            speciesMap.set(commonName, { speciesName: species, commonName, thumbnail });
                           }
                         });
                         
                         // Convert to array and render
-                        return Array.from(speciesMap.values()).map(({ commonName, thumbnail }) => (
+                        return Array.from(speciesMap.values()).map(({ speciesName, commonName, thumbnail }) => (
                           <button
                             key={commonName}
                             className="host-species-item"
-                            onClick={() => handleButterflyClick(thumbnail?.id)}
+                            onClick={() => handleButterflyClick(speciesName)}
                             aria-label={`View ${commonName} on iNaturalist`}
                           >
                             {thumbnail && thumbnail.thumbnailUrl && (
