@@ -54,8 +54,6 @@ export interface PlantFilters {
   bloomColor?: string[];
   bloomTime?: string[];
   perennial?: boolean;
-  nativeRange?: string[]; // DEPRECATED: Use location/countyFips/stateFips instead
-  hardinessZones?: string[];
   minHeight?: number;
   maxHeight?: number;
   minWidth?: number;
@@ -65,8 +63,12 @@ export interface PlantFilters {
   shelterFor?: string[];
   usefulFor?: string[];
   searchQuery?: string;
-  // NEW: Location-based filtering
+  // Location-based filtering
   location?: string; // User's address/ZIP input
   countyFips?: string[]; // Filter by specific county FIPS codes
   stateFips?: string[]; // Filter by state FIPS codes
+  // Availability filters
+  inMyGarden?: boolean; // Show only plants in user's garden
+  seedsOffered?: boolean; // Show only plants with seeds offered
+  adoptionOffered?: boolean; // Show only plants with adoption requests
 }

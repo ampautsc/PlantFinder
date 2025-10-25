@@ -10,8 +10,6 @@ interface FiltersPanelProps {
   filterOptions: {
     bloomColors: string[];
     bloomTimes: string[];
-    nativeRanges: string[];
-    hardinessZones: string[];
     hostPlantTo: string[];
     foodFor: string[];
     shelterFor: string[];
@@ -23,7 +21,7 @@ interface FiltersPanelProps {
   onSearchChange: (query: string) => void;
 }
 
-type FilterCategory = 'location' | 'wildlife' | 'sun' | 'moisture' | 'soil' | 'bloomColor' | 'bloomTime' | 'nativeRange' | 'hardinessZones';
+type FilterCategory = 'location' | 'wildlife' | 'sun' | 'moisture' | 'soil' | 'bloomColor' | 'bloomTime' | 'availability';
 
 function FiltersPanel({
   filters,
@@ -294,13 +292,13 @@ function FiltersPanel({
           ((filters.foodFor as string[] | undefined) || []).length > 0 ||
           ((filters.shelterFor as string[] | undefined) || []).length > 0
         );
+      case 'availability':
+        return !!(filters.inMyGarden || filters.seedsOffered || filters.adoptionOffered);
       case 'sun':
       case 'moisture':
       case 'soil':
       case 'bloomColor':
       case 'bloomTime':
-      case 'nativeRange':
-      case 'hardinessZones':
         return ((filters[category] as string[] | undefined) || []).length > 0;
       default:
         return false;
@@ -309,9 +307,8 @@ function FiltersPanel({
 
   const filterCategories = [
     { key: 'location' as FilterCategory, icon: '📍', label: t('filters.location') },
+    { key: 'availability' as FilterCategory, icon: '🌼', label: t('filters.availability') },
     { key: 'wildlife' as FilterCategory, icon: '🦋', label: t('filters.wildlife') },
-    { key: 'hardinessZones' as FilterCategory, icon: '🌡️', label: t('filters.hardinessZones') },
-    { key: 'nativeRange' as FilterCategory, icon: '🌎', label: t('filters.nativeRange') },
     { key: 'sun' as FilterCategory, icon: '☀️', label: t('filters.sun') },
     { key: 'moisture' as FilterCategory, icon: '💧', label: t('filters.moisture') },
     { key: 'soil' as FilterCategory, icon: '🌱', label: t('filters.soil') },
@@ -533,31 +530,30 @@ function FiltersPanel({
             </div>
           )}
 
-          {expandedCategory === 'nativeRange' && (
-            <div className="filter-options-row">
-              {filterOptions.nativeRanges.map(range => (
-                <button
-                  key={range}
-                  className={`filter-chip ${(filters.nativeRange || []).includes(range) ? 'selected' : ''}`}
-                  onClick={() => toggleArrayFilter('nativeRange', range)}
-                >
-                  {translateFilterValue(range)}
-                </button>
-              ))}
-            </div>
-          )}
-
-          {expandedCategory === 'hardinessZones' && (
-            <div className="filter-options-row">
-              {filterOptions.hardinessZones.map(zone => (
-                <button
-                  key={zone}
-                  className={`filter-chip ${(filters.hardinessZones || []).includes(zone) ? 'selected' : ''}`}
-                  onClick={() => toggleArrayFilter('hardinessZones', zone)}
-                >
-                  {t('filters.zone')} {zone}
-                </button>
-              ))}
+          {expandedCategory === 'availability' && (
+            <div className="filter-options-column">
+              <div className="filter-section">
+                <div className="filter-options-row">
+                  <button
+                    className={`filter-chip ${filters.inMyGarden ? 'selected' : ''}`}
+                    onClick={() => onFiltersChange({ ...filters, inMyGarden: !filters.inMyGarden })}
+                  >
+                    {t('filters.inMyGarden')}
+                  </button>
+                  <button
+                    className={`filter-chip ${filters.seedsOffered ? 'selected' : ''}`}
+                    onClick={() => onFiltersChange({ ...filters, seedsOffered: !filters.seedsOffered })}
+                  >
+                    {t('filters.seedsOffered')}
+                  </button>
+                  <button
+                    className={`filter-chip ${filters.adoptionOffered ? 'selected' : ''}`}
+                    onClick={() => onFiltersChange({ ...filters, adoptionOffered: !filters.adoptionOffered })}
+                  >
+                    {t('filters.adoptionOffered')}
+                  </button>
+                </div>
+              </div>
             </div>
           )}
 

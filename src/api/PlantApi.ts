@@ -26,10 +26,14 @@ export interface IPlantApi {
   getFilterOptions(): Promise<{
     bloomColors: string[];
     bloomTimes: string[];
-    nativeRanges: string[];
-    hardinessZones: string[];
     hostPlantTo: string[];
     foodFor: string[];
     shelterFor: string[];
   }>;
+
+  /**
+   * Set garden plants for filtering
+   * This should be called when garden data changes to enable garden filtering
+   */
+  setGardenPlants(plantIds: Set<string>): void;
 }
