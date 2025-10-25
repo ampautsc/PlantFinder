@@ -1,0 +1,43 @@
+{
+  "scraped_at": "2025-10-24T22:48:29.939454+00:00",
+  "scraper_version": "1.0.0",
+  "source": "usda",
+  "usda_symbol": "SERE2",
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
+  },
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=SERE2",
+      "fetched_at": "2025-10-24T22:48:30.033888+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
+    },
+    "plant_guide_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_sere2.pdf",
+      "size_bytes": 590399,
+      "stored_at": "src/data/usda/usda-sere2-plantguide.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    }
+  },
+  "extracted_data": {
+    "source_type": "plant_guide_pdf",
+    "pdf_pages": 7,
+    "common_name": "USDA IS AN EQUAL OPPORTUNITY PROVIDER AND EMPLOYER",
+    "scientific_name": "Serenoa repens",
+    "description": "Palm family (Arecaceae). Saw palmetto is a low\nshrubby palm with a creeping, horizontal, simple or\nbranched stem. Long-lived, some of the larger palms are\ncenturies old (Abrahamson 1995). The leaves are fan-\nshaped, up to one meter across, and are divided into 18-30\nsegments (Radford et al. 1968; Hale 1898). They have\npetioles up to 1.5 m in length nearly always with sharp,\nrigid recurved teeth (Radford et al. 1968). Fertile ramets\nproduce between one and five inflorescences with small,\ncream-co",
+    "distribution": "This palm occurs in Louisiana, Alabama,\nfoster the growth of important food plants, keep areas\nMississippi, Georgia, South Carolina, and Florida (Zona\nopen to increase visibility and movement, drive game,\n2000). Both William Bartram and Edwin Hale wrote\nincrease palatability, accessibility, and nutr",
+    "adaptation": "3543.\nappropriately sized individuals, it also influences whether\n_______________1995. Habitat distribution and\nthat stimulus will result in inflorescences via overstory\ncompetitive neighborhoods of two Florida\ncanopy reduction and enhancement of available light\npalmettos. Bulletin of the Torrey Botanical Club\n(Abrahamson 1999). Burning saw palmetto understories\n122:1-14.\nevery 3 to 5 years, will ",
+    "uses": "Saw palmetto featured prominently in the\nmaterial cultures of some Southeastern tribes. The\nTequesta, Creek, Miccosukee, and Seminole gathered and\nate the berries in late summer or fall (Bennett and Hicklin\n1998; Tebeau 1968; Rusby 1906). Romans (1999:145)\nsaid in 1775 in reference to the Creek: \u201c\u2026 they dry\npeaches and persimmons, chestnuts and the fruit of the\nchamaerops [Serenoa repens].\u201d The young, sweet, and\ntender shoots are also edible (Small 1926). Naturalist\nWilliam Bartram (1996:559), i",
+    "wildlife_value": "Ecologically, saw palmetto is labeled a\n\u201ckeystone species\u201d in southeastern, and particularly\nFlorida ecosystems (Carrington and Mullahey 2006).\nOver 100 animal species use saw palmetto for nesting,\nforaging, or for cover (Maehr and Layne 1996). Both the\nthreatened Florida panther (Felis concolor ssp. coryi) and\nthe threatened Florida black bear (Ursus americanus ssp.\nfloridanus) use colonies of sa",
+    "management": "3543.\nappropriately sized individuals, it also influences whether\n_______________1995. Habitat distribution and\nthat stimulus will result in inflorescences via overstory\ncompetitive neighborhoods of two Florida\ncanopy reduction and enhancement of available light\npalmettos. Bulletin of the Torrey Botanical Club\n(Abrahamson 1999). Burning saw palmetto understories\n122:1-14.\nevery 3 to 5 years, will ",
+    "full_text_excerpt": "Plant Guide\nfood\u201d and very likely saw palmetto was one of them.\nEvidence for saw palmetto use is widespread in\nSaw Palmetto\ncoastal archaeological sites in southern and central\nFlorida, being an extremely important food for Florida\u2019s\nSerenoa repens (Bartram) Small\npre-Columbian peoples ( McGoun 1993 cited in Bennett\nPlant Symbol = SERE2\nand Hicklin 1998). The seeds of these fruits also are\nfound at sites in northern Florida and in the Lower\nContributed by: USDA NRCS National Plants Data Mississippi Valley (Alexander 1984 and Kidder and Fritz\nTeam, Davis, California and the Mississippi Choctaw 1993 cited in Scarry 2003).\nTribal Field Office Choctaw, Mississippi\nThe Choctaw, Koasati, Miccosukee, and Seminole used\nand continue to use the split leaf petioles for basketry\n(Bennett and Hicklin 1998; Bushnell 1909; Colvin 2006;\nSturtevant 1955:504). Thomas Colvin (2006:80) describes\nthe sustainable harvest practices of the Choctaw that he\nlearned from the Johnsons: \u201cThe best palmetto (Serrenoa\nserrulata) [now Serenoa repens] grows where the marsh\nmeets the swamp or bayou. When cutting it, I always\nleave stalks with one or two green fronds, as well as the\ncenter growing core of the plant, as the Johnsons\n[Choctaw] taught me to do, so that the plant will not die.\nThis can be done twice each year. Palmetto baskets are\nmade from the cortical layer of the stalks, not from the\nfronds.\u201d The Choctaw remove the rigid teeth from the\npetioles and split the stalks into five or six straws, peeled\nand trimmed them to the proper width, and dried them in\nthe sun. They might be then dyed black, red, or yellow.\nSifters, pack, heart, and elbow baskets all carry its leaves.\nThe Seminole pounded corn into a powder, sifted it\nthrough woven palmetto fibers, and then placed it in a\nkettle of boiling water to make a porridge called sofkee\n(Covington 1993).\nFigure 1. (Serenoa repens with fruits.) Photo by Ted Bodner.\nAlternate Name Palmetto\nUses\nCultural: Saw palmetto featured prominently in the\nma"
+  },
+  "data_extracted_at": "2025-10-24T23:07:34.778239+00:00"
+}

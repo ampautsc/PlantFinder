@@ -1,0 +1,43 @@
+{
+  "scraped_at": "2025-10-24T22:52:58.122318+00:00",
+  "scraper_version": "1.0.0",
+  "source": "usda",
+  "usda_symbol": "YUFI",
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
+  },
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=YUFI",
+      "fetched_at": "2025-10-24T22:52:58.216700+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
+    },
+    "plant_guide_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_yufi.pdf",
+      "size_bytes": 97722,
+      "stored_at": "src/data/usda/usda-yufi-plantguide.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    }
+  },
+  "extracted_data": {
+    "source_type": "plant_guide_pdf",
+    "pdf_pages": 3,
+    "scientific_name": "Yucca moths",
+    "family_common": "Agave",
+    "family_scientific": "Agavaceae",
+    "distribution": "Adam\u2019s needle is native to the\nSoutheastern United States and Mexico.",
+    "uses": "The Catawba, Cherokee, Nanticoke appear from a rosette at or near the ground. The\nand other Native American tribes used Yucca leaves are stiff and sword-shaped (30 to 76 cm long\nfilamentosa for a variety of purposes including food, and 2.5 cm wide) with sharp, pointed tips and long,\nmedicine, cordage and even soap. The roots, which curly, filamentous threads at the margins. The bell-\ncontain saponin, were prepared by boiling and shaped flowers (5 to 8 cm wide) are a creamy white\npounding for use",
+    "wildlife_value": "Hummingbirds visit the flowers. Yuccas\nare pollinated by small, white Yucca moths\n(Tegeticula yucasella and related species) with which\nthey have a special plant-insect mutualism. At night,\nthe fragrant flowers attract the female moth that feeds\non the nectar. She then rolls pollen from the flowers\ninto a ball that is three times the size of her head and\ncarries the pollen ball to the next flower.",
+    "ethnobotanic_uses": "The Catawba, Cherokee, Nanticoke appear from a rosette at or near the ground. The\nand other Native American tribes used Yucca leaves are stiff and sword-shaped (30 to 76 cm long\nfilamentosa for a variety of purposes including food, and 2.5 cm wide) with sharp, pointed tips and long,\nmedicine, cordage and even soap. The roots, which curly, filamentous threads at the margins. The bell-\ncontain sapon",
+    "management": "A guide to wildlife food\narea of origin) habits. Dover Publications, New York. 500 pp.\nThese plant materials are readily available from\ncommercial sources. Contact your local Natural Moerman, D.E. 1998. Native American ethnobotany.\nResources Conservation Service (formerly Soil Timber Press, Portland, Oregon. 927 pp.\nSpecies Coordinator\nMoerman, D.E. 1999. Native American Ethnobotany M. Kat Anderso",
+    "full_text_excerpt": "Plant Guide\nADAM\u2019S NEEDLE sprains or applied to sores on the skin. The roots\nwere used to treat gonorrhea and rheumatism. Skin\nYucca filamentosa L. diseases were treated by rubbing the roots on the skin\nand by taking a decoction of the roots. The plant was\nPlant Symbol = YUFI\nused as a sedative to induce sleep. An infusion of the\nplant was used to treat diabetes. The flowers were\nContributed by: USDA NRCS National Plant Data eaten both raw and cooked. The pounded roots were\nCenter thrown into fishing waters to \u201cintoxicate fishers\u201d\nallowing for easier catch. The green leaves are easily\nsplit into long strips that can be plied into cord. The\nleaves have long, very strong fibers, a type of sisal,\nwhich were twisted into strong thread used as\ncordage for binding and to construct baskets, fishing\nnets, fishing lines and clothing. The leaves of Yucca\nfilamentosa contain the strongest fibers native to\nNorth America.\nWildlife: Hummingbirds visit the flowers. Yuccas\nare pollinated by small, white Yucca moths\n(Tegeticula yucasella and related species) with which\nthey have a special plant-insect mutualism. At night,\nthe fragrant flowers attract the female moth that feeds\non the nectar. She then rolls pollen from the flowers\ninto a ball that is three times the size of her head and\ncarries the pollen ball to the next flower. There, she\nfirst lays eggs inside the immature ovary and then\ndeposits the pollen on the flower\u2019s stigma insuring\nthat seeds will form to feed her progeny. Because the\nlarvae mature before they are able to consume all of\nthe seeds (60 to 80% of the seeds remain viable), the\nplants are able to reproduce as well.\nOther: The flowers are used for corsages.\nUSDA, NRCS Status\n@ PLANTS Please consult the PLANTS Web site and your State\nDepartment of Natural Resources for this plant\u2019s\nAlternate Names current status (e.g. threatened or endangered species,\nNeedle palm, bear grass, bear\u2019s thread, Christmas state noxious status, and wetland indicator values).\nbells, Conf"
+  },
+  "data_extracted_at": "2025-10-24T23:07:35.964641+00:00"
+}

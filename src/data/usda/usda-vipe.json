@@ -1,0 +1,57 @@
+{
+  "scraped_at": "2025-10-24T22:52:36.079932+00:00",
+  "scraper_version": "1.0.0",
+  "source": "usda",
+  "usda_symbol": "VIPE",
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
+  },
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=VIPE",
+      "fetched_at": "2025-10-24T22:52:36.174868+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
+    }
+  },
+  "extracted_data": {
+    "source_type": "browser_scrape",
+    "scraped_url": "https://plants.usda.gov/home/plantProfile?symbol=VIPE",
+    "scraped_at": "2025-10-25T00:05:02.048164+00:00",
+    "common_name": "Natural Resources Conservation Service",
+    "content_paragraphs": [
+      "An official website of the United States government",
+      "Official websites use .govA .gov website\n              belongs to an official government organization in the United States.",
+      "Secure .gov websites use HTTPSA lock (\n              \n                  Lock\n                  Locked padlock icon\n                  \n                 ) or https:// means you\u2019ve safely connected to the .gov website.\n              Share sensitive information only on official, secure websites.",
+      "Choose the search type above and then enter your search query here.",
+      "We\u2019re sorry, we can\u2019t find the page you're looking for. The site administrator may have removed\n  it, changed its location, or made it otherwise unavailable.",
+      "If you typed the URL directly, check your spelling and capitalization. Our URLs look like this:\n  <plants.usda.gov/example>.",
+      "Visit our homepage for helpful tools and resources, or contact us and we\u2019ll point you in the right\n  direction.",
+      "For immediate assistance:"
+    ],
+    "full_content": "An official website of the United States government\n\nOfficial websites use .govA .gov website\n              belongs to an official government organization in the United States.\n\nSecure .gov websites use HTTPSA lock (\n              \n                  Lock\n                  Locked padlock icon\n                  \n                 ) or https:// means you\u2019ve safely connected to the .gov website.\n              Share sensitive information only on official, secure websites.\n\nChoose the search type above and then enter your search query here.\n\nWe\u2019re sorry, we can\u2019t find the page you're looking for. The site administrator may have removed\n  it, changed its location, or made it otherwise unavailable.\n\nIf you typed the URL directly, check your spelling and capitalization. Our URLs look like this:\n  <plants.usda.gov/example>.\n\nVisit our homepage for helpful tools and resources, or contact us and we\u2019ll point you in the right\n  direction.\n\nFor immediate assistance:",
+    "html_length": 37126,
+    "list_items": [
+      "PLANTS Database Home",
+      "Related Tools",
+      "Release Notes",
+      "Characteristic Search",
+      "Duration Search",
+      "Fact Sheets/Plant Guides",
+      "Group Search",
+      "Growth Habit Search",
+      "Image Search",
+      "Invasive/Noxious Search",
+      "Rarity Search",
+      "State Search",
+      "Wetland Search"
+    ]
+  },
+  "data_extracted_at": "2025-10-25T00:05:32.177948+00:00"
+}

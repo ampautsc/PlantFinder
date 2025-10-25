@@ -1,0 +1,41 @@
+{
+  "scraped_at": "2025-10-24T22:53:11.662116+00:00",
+  "scraper_version": "1.0.0",
+  "source": "usda",
+  "usda_symbol": "ZAAM",
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
+  },
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=ZAAM",
+      "fetched_at": "2025-10-24T22:53:11.756548+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
+    },
+    "plant_guide_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_zaam.pdf",
+      "size_bytes": 85029,
+      "stored_at": "src/data/usda/usda-zaam-plantguide.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    }
+  },
+  "extracted_data": {
+    "source_type": "plant_guide_pdf",
+    "pdf_pages": 3,
+    "scientific_name": "The leaf buds",
+    "family_common": "Rue",
+    "family_scientific": "Rutaceae",
+    "distribution": "",
+    "uses": "The Alabama, Cherokee, Chippewa,\ncurrent status (e.g. threatened or endangered species,\nComanche, Creek, Delaware, Iroquois, Oklahoma,\nstate noxious status, and wetland indicator values).\nMenominee, Meskwaki, Ojibwa, Pawnee, and\nPotawatomi were among the Native American tribes\nDescription\nthat used common pricklyash for many, mostly\nGeneral: Rue Family (Rutaceae). It is an aromatic,\nmedicinal purposes. An infusion of the bark was\nnative, perennial tree or shrub that can grow from 1\nused as a was",
+    "wildlife_value": "The fruits are eaten by a variety of birds and\nNortheastern Illinois University\nsmall mammals including bobwhite quails, vireos,\npheasants, cottontails, and eastern chipmunks. Bees\nAlternate Names are attracted to the flowers. Giant swallowtail\nNorthern prickly ash, toothache tree; this genus is\nbutterflies lay their eggs on the plants leaves.\nincorrectly spelled Xanthoxylum in much of the\nliterat",
+    "full_text_excerpt": "Plant Guide\nCOMMON and gonorrhea. An ointment, made my mixing the\nplant with bear grease, was applied to ulcers and\nPRICKLYASH sores. Infusions of the berries were used to spray on\nthe chest and throat to treat bronchial diseases, to\nZanthoxylum americanum P. wash sores, and to flavor medicines. The bark and\nthe berries were used to treat hemorrhages, to make\nMill.\ncough syrup, as an expectorant, and to treat\nPlant Symbol = ZAAM tuberculosis. Children who were weak were washed\nwith a decoction of the bark to make their legs and\nfeet strong. The bark was used in different forms to\nContributed by: USDA NRCS National Plant Data\nalleviate toothaches. Smoking the bark treated\nCenter\ntoothache. Bark, either beaten or powdered was\npacked in and around an aching tooth. Pieces of the\nbark were chewed to help breakup a tooth that was to\nbe remove. The plant was an ingredient in\ncompounds that were used for kidney trouble, to\nstrengthen convalescing patients, and to induce\nvomiting. An infusion of the bark was, at least once,\nplaced on a dog\u2019s nose to improve its scenting\ncapabilities during hunting. The fruits were\nadministered as diuretics to horses. Young men of\nthe Omaha tribe used a perfume made from the fruits.\nThe plant is probably still used today for various\npurposes by various Native American tribes.\n\u00a9John Kasmer\nWildlife: The fruits are eaten by a variety of birds and\nNortheastern Illinois University\nsmall mammals including bobwhite quails, vireos,\npheasants, cottontails, and eastern chipmunks. Bees\nAlternate Names are attracted to the flowers. Giant swallowtail\nNorthern prickly ash, toothache tree; this genus is\nbutterflies lay their eggs on the plants leaves.\nincorrectly spelled Xanthoxylum in much of the\nliterature.\nStatus\nPlease consult the PLANTS Web site and your State\nUses Department of Natural Resources for this plant\u2019s\nEthnobotanic: The Alabama, Cherokee, Chippewa,\ncurrent status (e.g. threatened or endangered species,\nComanche, Creek, Delaware, Iroquois, O"
+  },
+  "data_extracted_at": "2025-10-24T23:07:36.240893+00:00"
+}

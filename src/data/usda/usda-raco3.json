@@ -1,0 +1,51 @@
+{
+  "scraped_at": "2025-10-24T22:46:27.768739+00:00",
+  "scraper_version": "1.0.0",
+  "source": "usda",
+  "usda_symbol": "RACO3",
+  "data": {
+    "profile": {
+      "title": "USDA Plants Database",
+      "meta_description": null,
+      "note": "USDA plant profile pages are JavaScript-rendered. Full data extraction requires browser automation (Selenium/Playwright)."
+    }
+  },
+  "raw_data": {
+    "profile_page": {
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=RACO3",
+      "fetched_at": "2025-10-24T22:46:27.863799+00:00",
+      "status_code": 200,
+      "html_length": 7611,
+      "html_stored": false,
+      "note": "Full HTML not stored in JSON. Use browser automation for complete data extraction."
+    },
+    "plant_guide_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_raco3.pdf",
+      "size_bytes": 79042,
+      "stored_at": "src/data/usda/usda-raco3-plantguide.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    },
+    "fact_sheet_pdf": {
+      "url": "https://plants.usda.gov/DocumentLibrary/factsheet/pdf/fs_raco3.pdf",
+      "size_bytes": 192307,
+      "stored_at": "src/data/usda/usda-raco3-factsheet.pdf",
+      "note": "PDF content stored separately. Use PDF parsing library to extract structured data."
+    }
+  },
+  "extracted_data": {
+    "source_type": "plant_guide_pdf",
+    "pdf_pages": 2,
+    "common_name": "PRAIRIE",
+    "scientific_name": "Ratibida columnifera",
+    "family_common": "Composite",
+    "family_scientific": "Asteraceae",
+    "description": "Composite Family (Asteraceae). Prairie\nconeflower is a native perennial about a foot and a\nhalf tall. The rays are generally three to five\ncentimeters long, much longer than the disk (solid\npart between the rays). The floral disk is somewhat\nglobe-shaped, ovoid, or shortly ellipsoid, twelve to\ntwenty millimeters high (Steyermark 1963). Prairie\nconeflower has well-developed leaves up to fifteen\ncentimeters long and six centimeters wide, pinnatifid\nto partly bipinnatifid, with ultimate segments li",
+    "distribution": "Prairie coneflower ranges from Alberta\nto Mexico, east to Manitoba, Minnesota, Illinois,\nMissouri, Arkansas, Oklahoma, Texas; and New\nEngland (Steyermark 1963).",
+    "adaptation": "Tea was made from the leaves and\nroadsides and railroads.\nflower heads. Cheyenne Indians boiled prairie\nconeflower leaves and stems to make a solution",
+    "uses": "Tea was made from the leaves and\nroadsides and railroads.\nflower heads. Cheyenne Indians boiled prairie\nconeflower leaves and stems to make a solution",
+    "ethnobotanic_uses": "Tea was made from the leaves and\nroadsides and railroads.\nflower heads. Cheyenne Indians boiled prairie\nconeflower leaves and stems to make a solution\nEstablishment\napplied externally to draw the poison out of\nPropagation by Seed: Ratibida columnifera seeds are\nrattlesnake bites. An infusion was used to relieve the\nbest sown in early spring in a cold frame. Cover the\npain of headaches and to treat",
+    "management": "western slope.\narea of origin) Colorado Associated University Press, Boulder,\nAvailable through native plant seed sources Colorado.\nspecializing in Great Plains species. Contact your\nlocal Natural Resources Conservation Service",
+    "full_text_excerpt": "Plant Guide\nPRAIRIE\nLandscaping: Prairie coneflower is suggested for use\nCONEFLOWER in roadside plantings, parks, recreational areas and\nprairie restoration projects; where annual\nRatibida columnifera (Nutt.) precipitation is from ten to thirty inches. This species\nis sometimes grown as an ornamental.\nWoot. & Standl.\nPlant Symbol = RACO3 Status\nPlease consult the Plants Web site and your State\nDepartment of Natural Resources for this plant\u2019s\nContributed by: USDA NRCS National Plant Data\ncurrent status, such as, state noxious status and\nCenter\nwetland indicator values.\nDescription\nGeneral: Composite Family (Asteraceae). Prairie\nconeflower is a native perennial about a foot and a\nhalf tall. The rays are generally three to five\ncentimeters long, much longer than the disk (solid\npart between the rays). The floral disk is somewhat\nglobe-shaped, ovoid, or shortly ellipsoid, twelve to\ntwenty millimeters high (Steyermark 1963). Prairie\nconeflower has well-developed leaves up to fifteen\ncentimeters long and six centimeters wide, pinnatifid\nto partly bipinnatifid, with ultimate segments linear\nto oblong, often very unequal (Great Plains Flora\nAssociation 1986). This species has one to several\nstems twelve to forty-seven inches tall. The fruit is a\nsmall ashen.\nDistribution: Prairie coneflower ranges from Alberta\nto Mexico, east to Manitoba, Minnesota, Illinois,\nMissouri, Arkansas, Oklahoma, Texas; and New\nEngland (Steyermark 1963). For current distribution,\nplease consult the Plant profile page for this species\non the PLANTS Web site.\n@ PLANTS\nAdaptation\nRatibida columnifera grows well on loam, sandy\nAlternate Names\nloam, and clayey loam soils. It prefers a sunny\nMexican hat, yellow Mexican hat, upright prairie\nposition and well-drained rich soil types. This\nconeflower, long-head coneflower, columnar prairie\nspecies is tolerant of weakly acidic to moderately\nconeflower\nalkaline soils and weak saline soils. It has low to\nmoderate water requirements. Prairie coneflower is\nUses\n"
+  },
+  "data_extracted_at": "2025-10-24T23:07:33.036908+00:00"
+}
