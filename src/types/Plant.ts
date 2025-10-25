@@ -12,7 +12,7 @@ export interface PlantCharacteristics {
   bloomColor: string[];
   bloomTime: string[];
   perennial: boolean;
-  nativeRange: string[];
+  nativeRange: string[]; // DEPRECATED: Use Plant.distribution instead
   hardinessZones: string[];
 }
 
@@ -24,6 +24,13 @@ export interface PlantRelationships {
   usefulFor: string[]; // erosion control, wildlife habitat, etc.
 }
 
+// Plant Distribution (county-level using FIPS codes)
+export interface PlantDistribution {
+  fipsCodes: string[]; // 5-digit county FIPS codes where plant is native
+  statesFips?: string[]; // 2-digit state FIPS codes (optional, for quick state-level queries)
+  distributionFile?: string; // Optional: path to external distribution file for widespread plants
+}
+
 // Complete Plant interface
 export interface Plant {
   id: string;
@@ -33,6 +40,7 @@ export interface Plant {
   requirements: PlantRequirements;
   characteristics: PlantCharacteristics;
   relationships: PlantRelationships;
+  distribution?: PlantDistribution; // NEW: County-level distribution via FIPS codes
   imageUrl?: string;
   thumbnailUrl?: string; // Smaller image for cards (target: ≤25KB)
   usdaPlantId?: string; // USDA PLANTS Database identifier
@@ -46,7 +54,7 @@ export interface PlantFilters {
   bloomColor?: string[];
   bloomTime?: string[];
   perennial?: boolean;
-  nativeRange?: string[];
+  nativeRange?: string[]; // DEPRECATED: Use location/countyFips/stateFips instead
   hardinessZones?: string[];
   minHeight?: number;
   maxHeight?: number;
@@ -57,4 +65,8 @@ export interface PlantFilters {
   shelterFor?: string[];
   usefulFor?: string[];
   searchQuery?: string;
+  // NEW: Location-based filtering
+  location?: string; // User's address/ZIP input
+  countyFips?: string[]; // Filter by specific county FIPS codes
+  stateFips?: string[]; // Filter by state FIPS codes
 }
