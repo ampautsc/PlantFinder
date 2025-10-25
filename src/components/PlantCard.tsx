@@ -43,19 +43,24 @@ function PlantCard({ plant, plantVolume, userActivity, isInGarden, onAddToGarden
 
   const userStatus = getUserStatus();
 
+  // Garden icon component to avoid duplication
+  const gardenIconElement = (
+    <div onClick={(e) => e.stopPropagation()}>
+      <GardenIcon
+        isInGarden={isInGarden}
+        onAddToGarden={onAddToGarden}
+        onRemoveFromGarden={onRemoveFromGarden}
+      />
+    </div>
+  );
+
   return (
     <div className="plant-card" onClick={onClick} role="button" tabIndex={0} onKeyDown={(e) => e.key === 'Enter' && onClick?.()}>
       {plant.thumbnailUrl || plant.imageUrl ? (
         <div className="plant-image">
           <img src={plant.thumbnailUrl || plant.imageUrl} alt={plant.commonName} loading="lazy" />
           {/* Garden Icon - Always show */}
-          <div onClick={(e) => e.stopPropagation()}>
-            <GardenIcon
-              isInGarden={isInGarden}
-              onAddToGarden={onAddToGarden}
-              onRemoveFromGarden={onRemoveFromGarden}
-            />
-          </div>
+          {gardenIconElement}
           {/* Seed Share Badge - Show EITHER offers OR requests (prioritize offers) */}
           {(showOfferBadge || showRequestBadge) && (
             <div className="seed-share-badge">
@@ -78,13 +83,7 @@ function PlantCard({ plant, plantVolume, userActivity, isInGarden, onAddToGarden
         <div className="plant-image-placeholder">
           <div className="no-image-indicator">📷 Image Coming Soon</div>
           {/* Garden Icon - Always show */}
-          <div onClick={(e) => e.stopPropagation()}>
-            <GardenIcon
-              isInGarden={isInGarden}
-              onAddToGarden={onAddToGarden}
-              onRemoveFromGarden={onRemoveFromGarden}
-            />
-          </div>
+          {gardenIconElement}
           {/* Seed Share Badge - Show EITHER offers OR requests (prioritize offers) */}
           {(showOfferBadge || showRequestBadge) && (
             <div className="seed-share-badge">
