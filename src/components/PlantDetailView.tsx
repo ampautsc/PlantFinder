@@ -242,7 +242,6 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                 isInGarden={!!gardenPlant}
                 onAddToGarden={handleAddToGarden}
                 onRemoveFromGarden={handleRemoveFromGarden}
-                plantName={plant.commonName}
               />
               <SeedExchangeOverlay
                 hasActiveOffer={userActivity.hasActiveOffer}
@@ -265,7 +264,6 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                 isInGarden={!!gardenPlant}
                 onAddToGarden={handleAddToGarden}
                 onRemoveFromGarden={handleRemoveFromGarden}
-                plantName={plant.commonName}
               />
               <SeedExchangeOverlay
                 hasActiveOffer={userActivity.hasActiveOffer}

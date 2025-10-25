@@ -1,15 +1,19 @@
 import { Plant } from '../types/Plant';
 import { PlantSeedShareVolume, UserPlantSeedShare } from '../types/SeedShare';
+import GardenIcon from './GardenIcon';
 import './SeedShareBadge.css';
 
 interface PlantCardProps {
   plant: Plant;
   plantVolume: PlantSeedShareVolume | null;
   userActivity: UserPlantSeedShare | null;
+  isInGarden: boolean;
+  onAddToGarden: () => void;
+  onRemoveFromGarden: () => void;
   onClick?: () => void;
 }
 
-function PlantCard({ plant, plantVolume, userActivity, onClick }: PlantCardProps) {
+function PlantCard({ plant, plantVolume, userActivity, isInGarden, onAddToGarden, onRemoveFromGarden, onClick }: PlantCardProps) {
 
   // Determine what badge to show in top-right corner
   // Priority: offers > requests (can't show both)
@@ -44,6 +48,14 @@ function PlantCard({ plant, plantVolume, userActivity, onClick }: PlantCardProps
       {plant.thumbnailUrl || plant.imageUrl ? (
         <div className="plant-image">
           <img src={plant.thumbnailUrl || plant.imageUrl} alt={plant.commonName} loading="lazy" />
+          {/* Garden Icon - Always show */}
+          <div onClick={(e) => e.stopPropagation()}>
+            <GardenIcon
+              isInGarden={isInGarden}
+              onAddToGarden={onAddToGarden}
+              onRemoveFromGarden={onRemoveFromGarden}
+            />
+          </div>
           {/* Seed Share Badge - Show EITHER offers OR requests (prioritize offers) */}
           {(showOfferBadge || showRequestBadge) && (
             <div className="seed-share-badge">
@@ -65,6 +77,14 @@ function PlantCard({ plant, plantVolume, userActivity, onClick }: PlantCardProps
       ) : (
         <div className="plant-image-placeholder">
           <div className="no-image-indicator">📷 Image Coming Soon</div>
+          {/* Garden Icon - Always show */}
+          <div onClick={(e) => e.stopPropagation()}>
+            <GardenIcon
+              isInGarden={isInGarden}
+              onAddToGarden={onAddToGarden}
+              onRemoveFromGarden={onRemoveFromGarden}
+            />
+          </div>
           {/* Seed Share Badge - Show EITHER offers OR requests (prioritize offers) */}
           {(showOfferBadge || showRequestBadge) && (
             <div className="seed-share-badge">
