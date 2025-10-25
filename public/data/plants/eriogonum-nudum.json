@@ -47,5 +47,17 @@
   },
   "imageUrl": "/images/plants/eriogonum-nudum/eriogonum-nudum-2025-10-23T01-26-35-106Z.jpg",
   "thumbnailUrl": "/images/plants/eriogonum-nudum/eriogonum-nudum-2025-10-23T01-26-35-106Z-thumb.jpg",
-  "usdaPlantId": "ERNUW"
+  "usdaPlantId": "ERNUW",
+  "distribution": {
+    "fipsCodes": [
+      "06027",
+      "06029",
+      "06051",
+      "06071",
+      "06107"
+    ],
+    "statesFips": [
+      "06"
+    ]
+  }
 }

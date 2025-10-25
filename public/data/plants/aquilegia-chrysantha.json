@@ -45,5 +45,15 @@
   },
   "imageUrl": "/images/plants/aquilegia-chrysantha/aquilegia-chrysantha-2025-10-17T06-26-55-545Z.jpg",
   "thumbnailUrl": "/images/plants/aquilegia-chrysantha/aquilegia-chrysantha-2025-10-17T06-26-55-545Z-thumb.jpg",
-  "usdaPlantId": "AQCHR"
+  "usdaPlantId": "AQCHR",
+  "distribution": {
+    "fipsCodes": [
+      "08041"
+    ],
+    "statesFips": [
+      "04",
+      "08",
+      "35"
+    ]
+  }
 }

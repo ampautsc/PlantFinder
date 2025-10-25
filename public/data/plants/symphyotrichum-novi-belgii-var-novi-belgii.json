@@ -50,5 +50,29 @@
   },
   "imageUrl": "/images/plants/symphyotrichum-novi-belgii-var-novi-belgii/symphyotrichum-novi-belgii-var-novi-belgii-2025-10-23T01-26-14-070Z.jpg",
   "thumbnailUrl": "/images/plants/symphyotrichum-novi-belgii-var-novi-belgii/symphyotrichum-novi-belgii-var-novi-belgii-2025-10-23T01-26-14-070Z-thumb.jpg",
-  "usdaPlantId": "SYNOV"
+  "usdaPlantId": "SYNOV",
+  "distribution": {
+    "fipsCodes": [
+      "25003",
+      "25005",
+      "25009",
+      "25011",
+      "25015",
+      "25017",
+      "25021",
+      "25023",
+      "25025",
+      "25027"
+    ],
+    "statesFips": [
+      "09",
+      "23",
+      "25",
+      "33",
+      "34",
+      "36",
+      "42",
+      "50"
+    ]
+  }
 }

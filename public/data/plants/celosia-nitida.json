@@ -45,5 +45,34 @@
   },
   "imageUrl": "/images/plants/celosia-nitida/celosia-nitida-2025-10-23T01-26-48-510Z.jpg",
   "thumbnailUrl": "/images/plants/celosia-nitida/celosia-nitida-2025-10-23T01-26-48-510Z-thumb.jpg",
-  "usdaPlantId": "CENI"
+  "usdaPlantId": "CENI",
+  "distribution": {
+    "fipsCodes": [
+      "12069",
+      "12071",
+      "12086",
+      "12087",
+      "12111",
+      "48029",
+      "48057",
+      "48061",
+      "48091",
+      "48175",
+      "48209",
+      "48215",
+      "48239",
+      "48261",
+      "48271",
+      "48273",
+      "48427",
+      "48453",
+      "48479"
+    ],
+    "statesFips": [
+      "12",
+      "48",
+      "72",
+      "78"
+    ]
+  }
 }

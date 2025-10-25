@@ -46,5 +46,25 @@
   },
   "imageUrl": "/images/plants/sida-rhombifolia/sida-rhombifolia-2025-10-23T01-25-46-599Z.jpg",
   "thumbnailUrl": "/images/plants/sida-rhombifolia/sida-rhombifolia-2025-10-23T01-25-46-599Z-thumb.jpg",
-  "usdaPlantId": "SIRHR"
+  "usdaPlantId": "SIRHR",
+  "distribution": {
+    "fipsCodes": [
+      "70002",
+      "70004",
+      "70010",
+      "70150",
+      "70212",
+      "70214",
+      "70218",
+      "70222",
+      "70224",
+      "70226",
+      "70227",
+      "70228"
+    ],
+    "statesFips": [
+      "66",
+      "70"
+    ]
+  }
 }

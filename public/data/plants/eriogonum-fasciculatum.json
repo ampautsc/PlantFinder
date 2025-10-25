@@ -47,5 +47,51 @@
   },
   "imageUrl": "/images/plants/eriogonum-fasciculatum/eriogonum-fasciculatum-2025-10-23T01-27-40-775Z.jpg",
   "thumbnailUrl": "/images/plants/eriogonum-fasciculatum/eriogonum-fasciculatum-2025-10-23T01-27-40-775Z-thumb.jpg",
-  "usdaPlantId": "ERFAP"
+  "usdaPlantId": "ERFAP",
+  "distribution": {
+    "fipsCodes": [
+      "04005",
+      "04007",
+      "04009",
+      "04012",
+      "04013",
+      "04015",
+      "04019",
+      "04021",
+      "04025",
+      "04027",
+      "06019",
+      "06025",
+      "06027",
+      "06029",
+      "06031",
+      "06037",
+      "06047",
+      "06051",
+      "06053",
+      "06059",
+      "06065",
+      "06069",
+      "06071",
+      "06073",
+      "06077",
+      "06079",
+      "06083",
+      "06099",
+      "06107",
+      "06111",
+      "32003",
+      "32009",
+      "32017",
+      "32023",
+      "49025",
+      "49053"
+    ],
+    "statesFips": [
+      "04",
+      "06",
+      "32",
+      "49"
+    ]
+  }
 }

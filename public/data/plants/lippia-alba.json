@@ -47,5 +47,18 @@
   },
   "imageUrl": "/images/plants/lippia-alba/lippia-alba-2025-10-23T01-26-40-474Z.jpg",
   "thumbnailUrl": "/images/plants/lippia-alba/lippia-alba-2025-10-23T01-26-40-474Z-thumb.jpg",
-  "usdaPlantId": "LIAL"
+  "usdaPlantId": "LIAL",
+  "distribution": {
+    "fipsCodes": [
+      "12087",
+      "48061",
+      "48215",
+      "48489"
+    ],
+    "statesFips": [
+      "12",
+      "48",
+      "72"
+    ]
+  }
 }

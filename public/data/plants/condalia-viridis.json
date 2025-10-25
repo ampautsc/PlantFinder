@@ -47,5 +47,27 @@
   },
   "imageUrl": "/images/plants/condalia-viridis/condalia-viridis-2025-10-23T01-26-28-118Z.jpg",
   "thumbnailUrl": "/images/plants/condalia-viridis/condalia-viridis-2025-10-23T01-26-28-118Z-thumb.jpg",
-  "usdaPlantId": "COVI8"
+  "usdaPlantId": "COVI8",
+  "distribution": {
+    "fipsCodes": [
+      "48019",
+      "48029",
+      "48043",
+      "48049",
+      "48105",
+      "48137",
+      "48267",
+      "48271",
+      "48311",
+      "48371",
+      "48377",
+      "48443",
+      "48461",
+      "48463",
+      "48465"
+    ],
+    "statesFips": [
+      "48"
+    ]
+  }
 }

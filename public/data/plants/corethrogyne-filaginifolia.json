@@ -49,5 +49,36 @@
   },
   "imageUrl": "/images/plants/corethrogyne-filaginifolia/corethrogyne-filaginifolia-2025-10-17T03-22-22-916Z.jpg",
   "thumbnailUrl": "/images/plants/corethrogyne-filaginifolia/corethrogyne-filaginifolia-2025-10-17T03-22-22-916Z-thumb.jpg",
-  "usdaPlantId": "COFIF"
+  "usdaPlantId": "COFIF",
+  "distribution": {
+    "fipsCodes": [
+      "06001",
+      "06019",
+      "06027",
+      "06029",
+      "06037",
+      "06039",
+      "06043",
+      "06047",
+      "06053",
+      "06059",
+      "06065",
+      "06069",
+      "06071",
+      "06073",
+      "06075",
+      "06077",
+      "06079",
+      "06081",
+      "06083",
+      "06085",
+      "06087",
+      "06107",
+      "06109",
+      "06111"
+    ],
+    "statesFips": [
+      "06"
+    ]
+  }
 }

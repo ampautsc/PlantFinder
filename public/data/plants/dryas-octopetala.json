@@ -47,5 +47,11 @@
   },
   "imageUrl": "/images/plants/dryas-octopetala/dryas-octopetala-2025-10-23T01-27-48-290Z.jpg",
   "thumbnailUrl": "/images/plants/dryas-octopetala/dryas-octopetala-2025-10-23T01-27-48-290Z-thumb.jpg",
-  "usdaPlantId": "DROCP8"
+  "usdaPlantId": "DROCP8",
+  "distribution": {
+    "fipsCodes": [],
+    "statesFips": [
+      "02"
+    ]
+  }
 }

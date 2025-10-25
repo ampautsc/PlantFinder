@@ -48,5 +48,16 @@
   },
   "imageUrl": "/images/plants/chilopsis-linearis/chilopsis-linearis-2025-10-17T03-22-59-894Z.jpg",
   "thumbnailUrl": "/images/plants/chilopsis-linearis/chilopsis-linearis-2025-10-17T03-22-59-894Z-thumb.jpg",
-  "usdaPlantId": "CHLIL2"
+  "usdaPlantId": "CHLIL2",
+  "distribution": {
+    "fipsCodes": [
+      "35051"
+    ],
+    "statesFips": [
+      "20",
+      "35",
+      "40",
+      "48"
+    ]
+  }
 }

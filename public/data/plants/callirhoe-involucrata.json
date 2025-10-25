@@ -79,5 +79,24 @@
   },
   "imageUrl": "/images/plants/callirhoe-involucrata/callirhoe-involucrata-2025-10-17T01-15-37-053Z.jpg",
   "thumbnailUrl": "/images/plants/callirhoe-involucrata/callirhoe-involucrata-2025-10-17T01-15-37-053Z-thumb.jpg",
-  "usdaPlantId": "CAINL"
+  "usdaPlantId": "CAINL",
+  "distribution": {
+    "fipsCodes": [
+      "12057",
+      "20129",
+      "48041",
+      "48313",
+      "48383",
+      "48461",
+      "48491"
+    ],
+    "statesFips": [
+      "08",
+      "12",
+      "20",
+      "35",
+      "40",
+      "48"
+    ]
+  }
 }

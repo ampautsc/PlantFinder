@@ -49,5 +49,19 @@
   },
   "imageUrl": "/images/plants/symphyotrichum-lateriflorum-var-lateriflorum/symphyotrichum-lateriflorum-var-lateriflorum-2025-10-23T01-26-32-788Z.jpg",
   "thumbnailUrl": "/images/plants/symphyotrichum-lateriflorum-var-lateriflorum/symphyotrichum-lateriflorum-var-lateriflorum-2025-10-23T01-26-32-788Z-thumb.jpg",
-  "usdaPlantId": "SYLAT"
+  "usdaPlantId": "SYLAT",
+  "distribution": {
+    "fipsCodes": [
+      "21147",
+      "21157"
+    ],
+    "statesFips": [
+      "21",
+      "23",
+      "26",
+      "33",
+      "36",
+      "50"
+    ]
+  }
 }

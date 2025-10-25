@@ -69,5 +69,18 @@
   },
   "imageUrl": "/images/plants/ipomopsis-aggregata/ipomopsis-aggregata-2025-10-17T01-15-33-141Z.jpg",
   "thumbnailUrl": "/images/plants/ipomopsis-aggregata/ipomopsis-aggregata-2025-10-17T01-15-33-141Z-thumb.jpg",
-  "usdaPlantId": "IPAGW"
+  "usdaPlantId": "IPAGW",
+  "distribution": {
+    "fipsCodes": [
+      "08049",
+      "08057",
+      "08069",
+      "08107"
+    ],
+    "statesFips": [
+      "08",
+      "16",
+      "56"
+    ]
+  }
 }

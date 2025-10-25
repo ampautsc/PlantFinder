@@ -50,5 +50,30 @@
   },
   "imageUrl": "/images/plants/salvia-dorrii/salvia-dorrii-2025-10-17T01-13-23-654Z.jpg",
   "thumbnailUrl": "/images/plants/salvia-dorrii/salvia-dorrii-2025-10-17T01-13-23-654Z-thumb.jpg",
-  "usdaPlantId": "SADOP"
+  "usdaPlantId": "SADOP",
+  "distribution": {
+    "fipsCodes": [
+      "04005",
+      "04015",
+      "04025",
+      "06027",
+      "06029",
+      "06037",
+      "06051",
+      "06063",
+      "06071",
+      "06073",
+      "06111",
+      "32003",
+      "32013",
+      "32017",
+      "32023",
+      "32031"
+    ],
+    "statesFips": [
+      "04",
+      "06",
+      "32"
+    ]
+  }
 }

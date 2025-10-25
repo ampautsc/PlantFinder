@@ -70,5 +70,17 @@
   },
   "imageUrl": "/images/plants/camassia-quamash/camassia-quamash-2025-10-17T01-13-35-634Z.jpg",
   "thumbnailUrl": "/images/plants/camassia-quamash/camassia-quamash-2025-10-17T01-13-35-634Z-thumb.jpg",
-  "usdaPlantId": "CAQUW"
+  "usdaPlantId": "CAQUW",
+  "distribution": {
+    "fipsCodes": [
+      "41025",
+      "41029",
+      "41033",
+      "41035",
+      "41037"
+    ],
+    "statesFips": [
+      "41"
+    ]
+  }
 }

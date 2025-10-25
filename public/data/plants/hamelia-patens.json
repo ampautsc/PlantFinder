@@ -47,5 +47,35 @@
   },
   "imageUrl": "/images/plants/hamelia-patens/hamelia-patens-2025-10-23T01-27-26-692Z.jpg",
   "thumbnailUrl": "/images/plants/hamelia-patens/hamelia-patens-2025-10-23T01-27-26-692Z-thumb.jpg",
-  "usdaPlantId": "HAPA3"
+  "usdaPlantId": "HAPA3",
+  "distribution": {
+    "fipsCodes": [
+      "12009",
+      "12011",
+      "12021",
+      "12055",
+      "12057",
+      "12061",
+      "12069",
+      "12071",
+      "12081",
+      "12083",
+      "12085",
+      "12086",
+      "12087",
+      "12093",
+      "12095",
+      "12101",
+      "12103",
+      "12105",
+      "12119",
+      "12127"
+    ],
+    "statesFips": [
+      "12",
+      "72",
+      "78",
+      "NI"
+    ]
+  }
 }

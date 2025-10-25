@@ -45,5 +45,29 @@
   },
   "imageUrl": "/images/plants/agave-lechuguilla/agave-lechuguilla-2025-10-23T01-27-38-048Z.jpg",
   "thumbnailUrl": "/images/plants/agave-lechuguilla/agave-lechuguilla-2025-10-23T01-27-38-048Z-thumb.jpg",
-  "usdaPlantId": "AGLE"
+  "usdaPlantId": "AGLE",
+  "distribution": {
+    "fipsCodes": [
+      "35013",
+      "35015",
+      "48043",
+      "48103",
+      "48105",
+      "48109",
+      "48141",
+      "48229",
+      "48243",
+      "48319",
+      "48371",
+      "48377",
+      "48443",
+      "48461",
+      "48463",
+      "48465"
+    ],
+    "statesFips": [
+      "35",
+      "48"
+    ]
+  }
 }

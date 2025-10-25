@@ -50,5 +50,41 @@
   },
   "imageUrl": "/images/plants/eschscholzia-californica/eschscholzia-californica-2025-10-17T01-14-29-278Z.jpg",
   "thumbnailUrl": "/images/plants/eschscholzia-californica/eschscholzia-californica-2025-10-17T01-14-29-278Z-thumb.jpg",
-  "usdaPlantId": "ESCAM"
+  "usdaPlantId": "ESCAM",
+  "distribution": {
+    "fipsCodes": [
+      "04003",
+      "04007",
+      "04009",
+      "04011",
+      "04012",
+      "04013",
+      "04015",
+      "04019",
+      "04021",
+      "04023",
+      "04025",
+      "04027",
+      "06071",
+      "32003",
+      "32017",
+      "35013",
+      "35017",
+      "35023",
+      "35029",
+      "35049",
+      "48139",
+      "48141",
+      "48439",
+      "49053"
+    ],
+    "statesFips": [
+      "04",
+      "06",
+      "32",
+      "35",
+      "48",
+      "49"
+    ]
+  }
 }

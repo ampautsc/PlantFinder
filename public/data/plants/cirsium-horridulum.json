@@ -47,5 +47,14 @@
   },
   "imageUrl": "/images/plants/cirsium-horridulum/cirsium-horridulum-2025-10-23T01-27-16-697Z.jpg",
   "thumbnailUrl": "/images/plants/cirsium-horridulum/cirsium-horridulum-2025-10-23T01-27-16-697Z-thumb.jpg",
-  "usdaPlantId": "CIHOV"
+  "usdaPlantId": "CIHOV",
+  "distribution": {
+    "fipsCodes": [],
+    "statesFips": [
+      "12",
+      "13",
+      "37",
+      "45"
+    ]
+  }
 }

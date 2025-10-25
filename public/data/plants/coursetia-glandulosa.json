@@ -47,5 +47,18 @@
   },
   "imageUrl": "/images/plants/coursetia-glandulosa/coursetia-glandulosa-2025-10-23T01-27-51-024Z.jpg",
   "thumbnailUrl": "/images/plants/coursetia-glandulosa/coursetia-glandulosa-2025-10-23T01-27-51-024Z-thumb.jpg",
-  "usdaPlantId": "COGL8"
+  "usdaPlantId": "COGL8",
+  "distribution": {
+    "fipsCodes": [
+      "04007",
+      "04013",
+      "04019",
+      "04021",
+      "04025",
+      "04027"
+    ],
+    "statesFips": [
+      "04"
+    ]
+  }
 }

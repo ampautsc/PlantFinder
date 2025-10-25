@@ -47,5 +47,43 @@
   },
   "imageUrl": "/images/plants/morella-californica/morella-californica-2025-10-23T01-26-36-184Z.jpg",
   "thumbnailUrl": "/images/plants/morella-californica/morella-californica-2025-10-23T01-26-36-184Z-thumb.jpg",
-  "usdaPlantId": "MOCA6"
+  "usdaPlantId": "MOCA6",
+  "distribution": {
+    "fipsCodes": [
+      "06001",
+      "06013",
+      "06015",
+      "06023",
+      "06037",
+      "06041",
+      "06045",
+      "06053",
+      "06069",
+      "06075",
+      "06079",
+      "06081",
+      "06083",
+      "06085",
+      "06087",
+      "06097",
+      "06111",
+      "41007",
+      "41011",
+      "41015",
+      "41019",
+      "41027",
+      "41033",
+      "41035",
+      "41039",
+      "41041",
+      "41057",
+      "53027",
+      "53049"
+    ],
+    "statesFips": [
+      "06",
+      "41",
+      "53"
+    ]
+  }
 }

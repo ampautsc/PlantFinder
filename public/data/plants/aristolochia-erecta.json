@@ -45,5 +45,36 @@
   },
   "imageUrl": "/images/plants/aristolochia-erecta/aristolochia-erecta-2025-10-23T01-27-47-005Z.jpg",
   "thumbnailUrl": "/images/plants/aristolochia-erecta/aristolochia-erecta-2025-10-23T01-27-47-005Z-thumb.jpg",
-  "usdaPlantId": "ARER"
+  "usdaPlantId": "ARER",
+  "distribution": {
+    "fipsCodes": [
+      "48013",
+      "48021",
+      "48029",
+      "48047",
+      "48055",
+      "48057",
+      "48123",
+      "48131",
+      "48171",
+      "48175",
+      "48177",
+      "48215",
+      "48247",
+      "48273",
+      "48287",
+      "48297",
+      "48299",
+      "48339",
+      "48427",
+      "48453",
+      "48477",
+      "48479",
+      "48493",
+      "48505"
+    ],
+    "statesFips": [
+      "48"
+    ]
+  }
 }

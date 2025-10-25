@@ -69,5 +69,45 @@
   },
   "imageUrl": "/images/plants/monardella-odoratissima/monardella-odoratissima-2025-10-17T01-13-33-656Z.jpg",
   "thumbnailUrl": "/images/plants/monardella-odoratissima/monardella-odoratissima-2025-10-17T01-13-33-656Z-thumb.jpg",
-  "usdaPlantId": "MOODP"
+  "usdaPlantId": "MOODP",
+  "distribution": {
+    "fipsCodes": [
+      "06003",
+      "06005",
+      "06007",
+      "06009",
+      "06011",
+      "06017",
+      "06019",
+      "06021",
+      "06023",
+      "06027",
+      "06029",
+      "06033",
+      "06035",
+      "06039",
+      "06043",
+      "06045",
+      "06051",
+      "06057",
+      "06061",
+      "06063",
+      "06089",
+      "06091",
+      "06093",
+      "06103",
+      "06105",
+      "06107",
+      "06109",
+      "32009",
+      "32021",
+      "32031",
+      "32510"
+    ],
+    "statesFips": [
+      "06",
+      "32",
+      "41"
+    ]
+  }
 }

@@ -47,5 +47,35 @@
   },
   "imageUrl": "/images/plants/helianthus-argophyllus/helianthus-argophyllus-2025-10-23T01-27-34-330Z.jpg",
   "thumbnailUrl": "/images/plants/helianthus-argophyllus/helianthus-argophyllus-2025-10-23T01-27-34-330Z-thumb.jpg",
-  "usdaPlantId": "HEAR3"
+  "usdaPlantId": "HEAR3",
+  "distribution": {
+    "fipsCodes": [
+      "12023",
+      "12037",
+      "12073",
+      "12127",
+      "48007",
+      "48047",
+      "48057",
+      "48071",
+      "48123",
+      "48175",
+      "48177",
+      "48187",
+      "48239",
+      "48255",
+      "48261",
+      "48273",
+      "48321",
+      "48355",
+      "48391",
+      "48409",
+      "48493"
+    ],
+    "statesFips": [
+      "12",
+      "37",
+      "48"
+    ]
+  }
 }

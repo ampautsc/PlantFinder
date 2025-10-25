@@ -47,5 +47,18 @@
   },
   "imageUrl": "/images/plants/condalia-spathulata/condalia-spathulata-2025-10-23T01-26-26-152Z.jpg",
   "thumbnailUrl": "/images/plants/condalia-spathulata/condalia-spathulata-2025-10-23T01-26-26-152Z-thumb.jpg",
-  "usdaPlantId": "COSP3"
+  "usdaPlantId": "COSP3",
+  "distribution": {
+    "fipsCodes": [
+      "48273",
+      "48427",
+      "48465",
+      "48479",
+      "48505"
+    ],
+    "statesFips": [
+      "35",
+      "48"
+    ]
+  }
 }

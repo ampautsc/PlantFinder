@@ -46,5 +46,29 @@
   },
   "imageUrl": "/images/plants/ruellia-drummondiana/ruellia-drummondiana-2025-10-23T01-26-53-414Z.jpg",
   "thumbnailUrl": "/images/plants/ruellia-drummondiana/ruellia-drummondiana-2025-10-23T01-26-53-414Z-thumb.jpg",
-  "usdaPlantId": "RUDR"
+  "usdaPlantId": "RUDR",
+  "distribution": {
+    "fipsCodes": [
+      "48019",
+      "48027",
+      "48029",
+      "48035",
+      "48091",
+      "48113",
+      "48171",
+      "48177",
+      "48187",
+      "48193",
+      "48209",
+      "48265",
+      "48299",
+      "48309",
+      "48453",
+      "48463",
+      "48491"
+    ],
+    "statesFips": [
+      "48"
+    ]
+  }
 }

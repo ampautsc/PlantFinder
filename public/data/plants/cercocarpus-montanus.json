@@ -45,5 +45,43 @@
   },
   "imageUrl": "/images/plants/cercocarpus-montanus/cercocarpus-montanus-2025-10-23T01-27-12-304Z.jpg",
   "thumbnailUrl": "/images/plants/cercocarpus-montanus/cercocarpus-montanus-2025-10-23T01-27-12-304Z-thumb.jpg",
-  "usdaPlantId": "CEMOP"
+  "usdaPlantId": "CEMOP",
+  "distribution": {
+    "fipsCodes": [
+      "04001",
+      "04003",
+      "04005",
+      "04007",
+      "04009",
+      "04011",
+      "04017",
+      "04019",
+      "04021",
+      "04023",
+      "04025",
+      "35001",
+      "35003",
+      "35013",
+      "35015",
+      "35017",
+      "35023",
+      "35027",
+      "35035",
+      "35043",
+      "35051",
+      "35053",
+      "35057",
+      "48043",
+      "48109",
+      "48139",
+      "48229",
+      "48243",
+      "48377"
+    ],
+    "statesFips": [
+      "04",
+      "35",
+      "48"
+    ]
+  }
 }

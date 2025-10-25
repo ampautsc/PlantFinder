@@ -47,5 +47,18 @@
   },
   "imageUrl": "/images/plants/eriogonum-giganteum/eriogonum-giganteum-2025-10-23T01-26-01-212Z.jpg",
   "thumbnailUrl": "/images/plants/eriogonum-giganteum/eriogonum-giganteum-2025-10-23T01-26-01-212Z-thumb.jpg",
-  "usdaPlantId": "ERGIG"
+  "usdaPlantId": "ERGIG",
+  "distribution": {
+    "fipsCodes": [
+      "06037",
+      "06073",
+      "06079",
+      "06083",
+      "06085",
+      "06111"
+    ],
+    "statesFips": [
+      "06"
+    ]
+  }
 }

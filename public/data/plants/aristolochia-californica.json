@@ -45,5 +45,35 @@
   },
   "imageUrl": "/images/plants/aristolochia-californica/aristolochia-californica-2025-10-23T01-27-13-540Z.jpg",
   "thumbnailUrl": "/images/plants/aristolochia-californica/aristolochia-californica-2025-10-23T01-27-13-540Z-thumb.jpg",
-  "usdaPlantId": "ARCA10"
+  "usdaPlantId": "ARCA10",
+  "distribution": {
+    "fipsCodes": [
+      "06007",
+      "06013",
+      "06021",
+      "06039",
+      "06041",
+      "06045",
+      "06053",
+      "06055",
+      "06057",
+      "06061",
+      "06063",
+      "06067",
+      "06075",
+      "06081",
+      "06089",
+      "06093",
+      "06095",
+      "06097",
+      "06099",
+      "06101",
+      "06103",
+      "06113",
+      "06115"
+    ],
+    "statesFips": [
+      "06"
+    ]
+  }
 }

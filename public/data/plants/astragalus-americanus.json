@@ -48,5 +48,37 @@
   },
   "imageUrl": "/images/plants/astragalus-americanus/astragalus-americanus-2025-10-17T03-22-50-495Z.jpg",
   "thumbnailUrl": "/images/plants/astragalus-americanus/astragalus-americanus-2025-10-17T03-22-50-495Z-thumb.jpg",
-  "usdaPlantId": "ASAM3"
+  "usdaPlantId": "ASAM3",
+  "distribution": {
+    "fipsCodes": [
+      "02063",
+      "02066",
+      "02170",
+      "02240",
+      "30013",
+      "30027",
+      "30029",
+      "30031",
+      "30043",
+      "30057",
+      "30067",
+      "30071",
+      "30085",
+      "30095",
+      "46081",
+      "46103",
+      "56003",
+      "56019",
+      "56029",
+      "56033",
+      "56043"
+    ],
+    "statesFips": [
+      "02",
+      "08",
+      "30",
+      "46",
+      "56"
+    ]
+  }
 }

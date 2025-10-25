@@ -47,5 +47,18 @@
   },
   "imageUrl": "/images/plants/dryas-integrifolia/dryas-integrifolia-2025-10-23T01-26-45-146Z.jpg",
   "thumbnailUrl": "/images/plants/dryas-integrifolia/dryas-integrifolia-2025-10-23T01-26-45-146Z-thumb.jpg",
-  "usdaPlantId": "DRINS"
+  "usdaPlantId": "DRINS",
+  "distribution": {
+    "fipsCodes": [
+      "02050",
+      "02068",
+      "02122",
+      "02185",
+      "02188",
+      "02290"
+    ],
+    "statesFips": [
+      "02"
+    ]
+  }
 }

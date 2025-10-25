@@ -85,5 +85,14 @@
   },
   "imageUrl": "/images/plants/chamaecrista-fasciculata/chamaecrista-fasciculata-2025-10-23T19-46-35-432Z.jpg",
   "thumbnailUrl": "/images/plants/chamaecrista-fasciculata/chamaecrista-fasciculata-2025-10-23T19-46-35-432Z-thumb.jpg",
-  "usdaPlantId": "CHFAM2"
+  "usdaPlantId": "CHFAM2",
+  "distribution": {
+    "fipsCodes": [
+      "24019"
+    ],
+    "statesFips": [
+      "24",
+      "51"
+    ]
+  }
 }

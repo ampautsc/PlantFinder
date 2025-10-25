@@ -45,5 +45,31 @@
   },
   "imageUrl": "/images/plants/allowissadula-holosericea/allowissadula-holosericea-2025-10-23T01-26-09-853Z.jpg",
   "thumbnailUrl": "/images/plants/allowissadula-holosericea/allowissadula-holosericea-2025-10-23T01-26-09-853Z-thumb.jpg",
-  "usdaPlantId": "ALHO4"
+  "usdaPlantId": "ALHO4",
+  "distribution": {
+    "fipsCodes": [
+      "35015",
+      "48013",
+      "48029",
+      "48043",
+      "48053",
+      "48091",
+      "48105",
+      "48109",
+      "48137",
+      "48209",
+      "48243",
+      "48371",
+      "48377",
+      "48435",
+      "48443",
+      "48453",
+      "48463",
+      "48465"
+    ],
+    "statesFips": [
+      "35",
+      "48"
+    ]
+  }
 }

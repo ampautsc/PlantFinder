@@ -48,5 +48,45 @@
   },
   "imageUrl": "/images/plants/senna-lindheimeriana/senna-lindheimeriana-2025-10-23T01-27-34-748Z.jpg",
   "thumbnailUrl": "/images/plants/senna-lindheimeriana/senna-lindheimeriana-2025-10-23T01-27-34-748Z-thumb.jpg",
-  "usdaPlantId": "SELI4"
+  "usdaPlantId": "SELI4",
+  "distribution": {
+    "fipsCodes": [
+      "04003",
+      "35013",
+      "35015",
+      "35017",
+      "35023",
+      "35027",
+      "35029",
+      "35035",
+      "35053",
+      "48019",
+      "48029",
+      "48043",
+      "48053",
+      "48061",
+      "48091",
+      "48109",
+      "48127",
+      "48141",
+      "48171",
+      "48209",
+      "48229",
+      "48243",
+      "48271",
+      "48299",
+      "48319",
+      "48377",
+      "48385",
+      "48443",
+      "48453",
+      "48463",
+      "48465"
+    ],
+    "statesFips": [
+      "04",
+      "35",
+      "48"
+    ]
+  }
 }

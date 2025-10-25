@@ -49,5 +49,47 @@
   },
   "imageUrl": "/images/plants/monardella-villosa/monardella-villosa-2025-10-17T01-13-35-106Z.jpg",
   "thumbnailUrl": "/images/plants/monardella-villosa/monardella-villosa-2025-10-17T01-13-35-106Z-thumb.jpg",
-  "usdaPlantId": "MOVIV"
+  "usdaPlantId": "MOVIV",
+  "distribution": {
+    "fipsCodes": [
+      "06001",
+      "06005",
+      "06007",
+      "06009",
+      "06011",
+      "06013",
+      "06017",
+      "06021",
+      "06023",
+      "06033",
+      "06041",
+      "06043",
+      "06045",
+      "06053",
+      "06055",
+      "06057",
+      "06063",
+      "06069",
+      "06075",
+      "06079",
+      "06081",
+      "06083",
+      "06085",
+      "06087",
+      "06089",
+      "06095",
+      "06097",
+      "06099",
+      "06103",
+      "06107",
+      "06109",
+      "41019",
+      "41029",
+      "41033"
+    ],
+    "statesFips": [
+      "06",
+      "41"
+    ]
+  }
 }
