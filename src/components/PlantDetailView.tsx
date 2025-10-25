@@ -228,14 +228,17 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
   const handleButterflyClick = (butterflyId: string | undefined) => {
     if (!butterflyId) return;
     
-    // Convert butterfly ID (e.g., "papilio-polyxenes-asterius") to scientific name for search
-    // The ID is the scientific name in kebab-case format
-    const scientificName = butterflyId.split('-').map((word, index) => 
-      index === 0 ? word.charAt(0).toUpperCase() + word.slice(1) : word
-    ).join(' ');
+    // Get the butterfly thumbnail data which now includes the taxonId
+    const thumbnail = getButterflyThumbnail(butterflyId);
     
-    // Open iNaturalist taxa search in a new window
-    const url = `https://www.inaturalist.org/taxa/search?q=${encodeURIComponent(scientificName)}`;
+    if (!thumbnail || !thumbnail.taxonId) {
+      console.warn(`No taxon ID found for butterfly: ${butterflyId}`);
+      return;
+    }
+    
+    // Open iNaturalist species page directly using the taxon ID
+    // Format: https://www.inaturalist.org/taxa/{taxonId}-{Scientific-Name-With-Dashes}
+    const url = `https://www.inaturalist.org/taxa/${thumbnail.taxonId}-${thumbnail.id}`;
     window.open(url, '_blank', 'noopener,noreferrer');
   };
 
@@ -343,7 +346,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                     <div className="host-species-list">
                       {(() => {
                         // Deduplicate butterflies by their common name
-                        const speciesMap = new Map<string, { commonName: string; thumbnail: ReturnType<typeof getButterflyThumbnail> }>();
+                        const speciesMap = new Map<string, { speciesName: string; commonName: string; thumbnail: ReturnType<typeof getButterflyThumbnail> }>();
                         
                         plant.relationships.hostPlantTo.forEach(species => {
                           const thumbnail = getButterflyThumbnail(species);
@@ -351,16 +354,16 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                           
                           // Only add if we haven't seen this common name before
                           if (!speciesMap.has(commonName)) {
-                            speciesMap.set(commonName, { commonName, thumbnail });
+                            speciesMap.set(commonName, { speciesName: species, commonName, thumbnail });
                           }
                         });
                         
                         // Convert to array and render
-                        return Array.from(speciesMap.values()).map(({ commonName, thumbnail }) => (
+                        return Array.from(speciesMap.values()).map(({ speciesName, commonName, thumbnail }) => (
                           <button
                             key={commonName}
                             className="host-species-item"
-                            onClick={() => handleButterflyClick(thumbnail?.id)}
+                            onClick={() => handleButterflyClick(speciesName)}
                             aria-label={`View ${commonName} on iNaturalist`}
                           >
                             {thumbnail && thumbnail.thumbnailUrl && (
