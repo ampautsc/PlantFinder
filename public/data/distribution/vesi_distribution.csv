@@ -1,0 +1,614 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VESI,United States,Alabama,01,,
+VESI,United States,Alabama,01,Autauga,001
+VESI,United States,Alabama,01,Colbert,033
+VESI,United States,Alabama,01,Greene,063
+VESI,United States,Alabama,01,Hale,065
+VESI,United States,Alabama,01,Lawrence,079
+VESI,United States,Alabama,01,Limestone,083
+VESI,United States,Alabama,01,Lowndes,085
+VESI,United States,Alabama,01,Marengo,091
+VESI,United States,Alabama,01,Montgomery,101
+VESI,United States,Alabama,01,Perry,105
+VESI,United States,Alabama,01,Sumter,119
+VESI,United States,Alabama,01,Wilcox,131
+VESI,United States,Arkansas,05,,
+VESI,United States,Arkansas,05,Baxter,005
+VESI,United States,Arkansas,05,Benton,007
+VESI,United States,Arkansas,05,Boone,009
+VESI,United States,Arkansas,05,Carroll,015
+VESI,United States,Arkansas,05,Clark,019
+VESI,United States,Arkansas,05,Craighead,031
+VESI,United States,Arkansas,05,Crawford,033
+VESI,United States,Arkansas,05,Fulton,049
+VESI,United States,Arkansas,05,Independence,063
+VESI,United States,Arkansas,05,Izard,065
+VESI,United States,Arkansas,05,Johnson,071
+VESI,United States,Arkansas,05,Lawrence,075
+VESI,United States,Arkansas,05,Little River,081
+VESI,United States,Arkansas,05,Logan,083
+VESI,United States,Arkansas,05,Madison,087
+VESI,United States,Arkansas,05,Marion,089
+VESI,United States,Arkansas,05,Newton,101
+VESI,United States,Arkansas,05,Pope,115
+VESI,United States,Arkansas,05,Randolph,121
+VESI,United States,Arkansas,05,Sebastian,131
+VESI,United States,Arkansas,05,Sharp,135
+VESI,United States,Arkansas,05,Stone,137
+VESI,United States,Arkansas,05,Washington,143
+VESI,Canada,Ontario,08,,
+VESI,United States,Connecticut,09,,
+VESI,United States,Connecticut,09,Hartford,003
+VESI,United States,Connecticut,09,Litchfield,005
+VESI,United States,Connecticut,09,Middlesex,007
+VESI,United States,Connecticut,09,New Haven,009
+VESI,Canada,Quebec,10,,
+VESI,United States,Delaware,10,,
+VESI,United States,Delaware,10,New Castle,003
+VESI,United States,District of Columbia,11,,
+VESI,United States,District of Columbia,11,District of Columbia,001
+VESI,United States,Florida,12,,
+VESI,United States,Florida,12,Jackson,063
+VESI,United States,Georgia,13,,
+VESI,United States,Georgia,13,Bartow,015
+VESI,United States,Georgia,13,Cherokee,057
+VESI,United States,Georgia,13,Clayton,063
+VESI,United States,Georgia,13,Dade,083
+VESI,United States,Georgia,13,Floyd,115
+VESI,United States,Georgia,13,Walker,295
+VESI,United States,Georgia,13,Whitfield,313
+VESI,United States,Illinois,17,,
+VESI,United States,Illinois,17,Adams,001
+VESI,United States,Illinois,17,Bond,005
+VESI,United States,Illinois,17,Boone,007
+VESI,United States,Illinois,17,Calhoun,013
+VESI,United States,Illinois,17,Champaign,019
+VESI,United States,Illinois,17,Christian,021
+VESI,United States,Illinois,17,Clinton,027
+VESI,United States,Illinois,17,Coles,029
+VESI,United States,Illinois,17,Cook,031
+VESI,United States,Illinois,17,DuPage,043
+VESI,United States,Illinois,17,Effingham,049
+VESI,United States,Illinois,17,Ford,053
+VESI,United States,Illinois,17,Gallatin,059
+VESI,United States,Illinois,17,Greene,061
+VESI,United States,Illinois,17,Grundy,063
+VESI,United States,Illinois,17,Hardin,069
+VESI,United States,Illinois,17,Jackson,077
+VESI,United States,Illinois,17,Jersey,083
+VESI,United States,Illinois,17,Jo Daviess,085
+VESI,United States,Illinois,17,Johnson,087
+VESI,United States,Illinois,17,Kane,089
+VESI,United States,Illinois,17,Kankakee,091
+VESI,United States,Illinois,17,Kendall,093
+VESI,United States,Illinois,17,LaSalle,099
+VESI,United States,Illinois,17,Lee,103
+VESI,United States,Illinois,17,Marion,121
+VESI,United States,Illinois,17,Marshall,123
+VESI,United States,Illinois,17,McHenry,111
+VESI,United States,Illinois,17,McLean,113
+VESI,United States,Illinois,17,Monroe,133
+VESI,United States,Illinois,17,Morgan,137
+VESI,United States,Illinois,17,Ogle,141
+VESI,United States,Illinois,17,Peoria,143
+VESI,United States,Illinois,17,Perry,145
+VESI,United States,Illinois,17,Pike,149
+VESI,United States,Illinois,17,Pope,151
+VESI,United States,Illinois,17,Pulaski,153
+VESI,United States,Illinois,17,Putnam,155
+VESI,United States,Illinois,17,Randolph,157
+VESI,United States,Illinois,17,Rock Island,161
+VESI,United States,Illinois,17,Saline,165
+VESI,United States,Illinois,17,Sangamon,167
+VESI,United States,Illinois,17,St. Clair,163
+VESI,United States,Illinois,17,Union,181
+VESI,United States,Illinois,17,Wabash,185
+VESI,United States,Illinois,17,Washington,189
+VESI,United States,Illinois,17,Will,197
+VESI,United States,Illinois,17,Williamson,199
+VESI,United States,Illinois,17,Winnebago,201
+VESI,United States,Indiana,18,,
+VESI,United States,Indiana,18,Carroll,015
+VESI,United States,Indiana,18,Cass,017
+VESI,United States,Indiana,18,Clark,019
+VESI,United States,Indiana,18,Crawford,025
+VESI,United States,Indiana,18,Daviess,027
+VESI,United States,Indiana,18,DeKalb,033
+VESI,United States,Indiana,18,Hamilton,057
+VESI,United States,Indiana,18,Hancock,059
+VESI,United States,Indiana,18,Harrison,061
+VESI,United States,Indiana,18,Henry,065
+VESI,United States,Indiana,18,Jackson,071
+VESI,United States,Indiana,18,Jasper,073
+VESI,United States,Indiana,18,Jay,075
+VESI,United States,Indiana,18,Jefferson,077
+VESI,United States,Indiana,18,Kosciusko,085
+VESI,United States,Indiana,18,Lake,089
+VESI,United States,Indiana,18,Lawrence,093
+VESI,United States,Indiana,18,Marion,097
+VESI,United States,Indiana,18,Marshall,099
+VESI,United States,Indiana,18,Martin,101
+VESI,United States,Indiana,18,Monroe,105
+VESI,United States,Indiana,18,Newton,111
+VESI,United States,Indiana,18,Noble,113
+VESI,United States,Indiana,18,Orange,117
+VESI,United States,Indiana,18,Posey,129
+VESI,United States,Indiana,18,Putnam,133
+VESI,United States,Indiana,18,St. Joseph,141
+VESI,United States,Indiana,18,Tippecanoe,157
+VESI,United States,Indiana,18,Tipton,159
+VESI,United States,Indiana,18,Vermillion,165
+VESI,United States,Indiana,18,Warren,171
+VESI,United States,Indiana,18,Washington,175
+VESI,United States,Indiana,18,Wayne,177
+VESI,United States,Iowa,19,,
+VESI,United States,Iowa,19,Johnson,103
+VESI,United States,Iowa,19,Lyon,119
+VESI,United States,Kansas,20,,
+VESI,United States,Kansas,20,Allen,001
+VESI,United States,Kansas,20,Anderson,003
+VESI,United States,Kansas,20,Bourbon,011
+VESI,United States,Kansas,20,Butler,015
+VESI,United States,Kansas,20,Chase,017
+VESI,United States,Kansas,20,Chautauqua,019
+VESI,United States,Kansas,20,Cherokee,021
+VESI,United States,Kansas,20,Coffey,031
+VESI,United States,Kansas,20,Cowley,035
+VESI,United States,Kansas,20,Crawford,037
+VESI,United States,Kansas,20,Douglas,045
+VESI,United States,Kansas,20,Elk,049
+VESI,United States,Kansas,20,Franklin,059
+VESI,United States,Kansas,20,Greenwood,073
+VESI,United States,Kansas,20,Harper,077
+VESI,United States,Kansas,20,Jackson,085
+VESI,United States,Kansas,20,Jefferson,087
+VESI,United States,Kansas,20,Johnson,091
+VESI,United States,Kansas,20,Labette,099
+VESI,United States,Kansas,20,Leavenworth,103
+VESI,United States,Kansas,20,Linn,107
+VESI,United States,Kansas,20,Lyon,111
+VESI,United States,Kansas,20,Marshall,117
+VESI,United States,Kansas,20,Miami,121
+VESI,United States,Kansas,20,Montgomery,125
+VESI,United States,Kansas,20,Morris,127
+VESI,United States,Kansas,20,Neosho,133
+VESI,United States,Kansas,20,Osage,139
+VESI,United States,Kansas,20,Republic,157
+VESI,United States,Kansas,20,Shawnee,177
+VESI,United States,Kansas,20,Wabaunsee,197
+VESI,United States,Kansas,20,Wilson,205
+VESI,United States,Kansas,20,Woodson,207
+VESI,United States,Kansas,20,Wyandotte,209
+VESI,United States,Kentucky,21,,
+VESI,United States,Kentucky,21,Allen,003
+VESI,United States,Kentucky,21,Anderson,005
+VESI,United States,Kentucky,21,Barren,009
+VESI,United States,Kentucky,21,Bell,013
+VESI,United States,Kentucky,21,Bourbon,017
+VESI,United States,Kentucky,21,Boyle,021
+VESI,United States,Kentucky,21,Breckinridge,027
+VESI,United States,Kentucky,21,Bullitt,029
+VESI,United States,Kentucky,21,Caldwell,033
+VESI,United States,Kentucky,21,Calloway,035
+VESI,United States,Kentucky,21,Carter,043
+VESI,United States,Kentucky,21,Christian,047
+VESI,United States,Kentucky,21,Clark,049
+VESI,United States,Kentucky,21,Crittenden,055
+VESI,United States,Kentucky,21,Edmonson,061
+VESI,United States,Kentucky,21,Estill,065
+VESI,United States,Kentucky,21,Fayette,067
+VESI,United States,Kentucky,21,Garrard,079
+VESI,United States,Kentucky,21,Grayson,085
+VESI,United States,Kentucky,21,Hardin,093
+VESI,United States,Kentucky,21,Hart,099
+VESI,United States,Kentucky,21,Henry,103
+VESI,United States,Kentucky,21,Hopkins,107
+VESI,United States,Kentucky,21,Jefferson,111
+VESI,United States,Kentucky,21,Jessamine,113
+VESI,United States,Kentucky,21,Laurel,125
+VESI,United States,Kentucky,21,Logan,141
+VESI,United States,Kentucky,21,Lyon,143
+VESI,United States,Kentucky,21,Madison,151
+VESI,United States,Kentucky,21,Marion,155
+VESI,United States,Kentucky,21,Marshall,157
+VESI,United States,Kentucky,21,McCreary,147
+VESI,United States,Kentucky,21,McLean,149
+VESI,United States,Kentucky,21,Meade,163
+VESI,United States,Kentucky,21,Mercer,167
+VESI,United States,Kentucky,21,Monroe,171
+VESI,United States,Kentucky,21,Muhlenberg,177
+VESI,United States,Kentucky,21,Nelson,179
+VESI,United States,Kentucky,21,Oldham,185
+VESI,United States,Kentucky,21,Pulaski,199
+VESI,United States,Kentucky,21,Rockcastle,203
+VESI,United States,Kentucky,21,Rowan,205
+VESI,United States,Kentucky,21,Simpson,213
+VESI,United States,Kentucky,21,Spencer,215
+VESI,United States,Kentucky,21,Taylor,217
+VESI,United States,Kentucky,21,Todd,219
+VESI,United States,Kentucky,21,Trigg,221
+VESI,United States,Kentucky,21,Warren,227
+VESI,United States,Kentucky,21,Washington,229
+VESI,United States,Kentucky,21,Wayne,231
+VESI,United States,Kentucky,21,Woodford,239
+VESI,United States,Maryland,24,,
+VESI,United States,Massachusetts,25,,
+VESI,United States,Massachusetts,25,Berkshire,003
+VESI,United States,Massachusetts,25,Hampden,013
+VESI,United States,Massachusetts,25,Hampshire,015
+VESI,United States,Massachusetts,25,Middlesex,017
+VESI,United States,Michigan,26,,
+VESI,United States,Michigan,26,Alpena,007
+VESI,United States,Michigan,26,Chippewa,033
+VESI,United States,Michigan,26,Emmet,047
+VESI,United States,Michigan,26,Leelanau,089
+VESI,United States,Michigan,26,Lenawee,091
+VESI,United States,Michigan,26,Monroe,115
+VESI,United States,Michigan,26,St. Clair,147
+VESI,United States,Michigan,26,Wayne,163
+VESI,United States,Minnesota,27,,
+VESI,United States,Minnesota,27,Fillmore,045
+VESI,United States,Minnesota,27,Houston,055
+VESI,United States,Minnesota,27,Rock,133
+VESI,United States,Minnesota,27,Scott,139
+VESI,United States,Mississippi,28,,
+VESI,United States,Mississippi,28,Calhoun,013
+VESI,United States,Mississippi,28,Chickasaw,017
+VESI,United States,Mississippi,28,Clarke,023
+VESI,United States,Mississippi,28,Clay,025
+VESI,United States,Mississippi,28,Forrest,035
+VESI,United States,Mississippi,28,Lee,081
+VESI,United States,Mississippi,28,Monroe,095
+VESI,United States,Mississippi,28,Pontotoc,115
+VESI,United States,Mississippi,28,Scott,123
+VESI,United States,Mississippi,28,Smith,129
+VESI,United States,Mississippi,28,Tishomingo,141
+VESI,United States,Missouri,29,,
+VESI,United States,Missouri,29,Atchison,005
+VESI,United States,Missouri,29,Barry,009
+VESI,United States,Missouri,29,Barton,011
+VESI,United States,Missouri,29,Bates,013
+VESI,United States,Missouri,29,Benton,015
+VESI,United States,Missouri,29,Boone,019
+VESI,United States,Missouri,29,Butler,023
+VESI,United States,Missouri,29,Caldwell,025
+VESI,United States,Missouri,29,Callaway,027
+VESI,United States,Missouri,29,Camden,029
+VESI,United States,Missouri,29,Cape Girardeau,031
+VESI,United States,Missouri,29,Carroll,033
+VESI,United States,Missouri,29,Carter,035
+VESI,United States,Missouri,29,Cass,037
+VESI,United States,Missouri,29,Cedar,039
+VESI,United States,Missouri,29,Christian,043
+VESI,United States,Missouri,29,Clay,047
+VESI,United States,Missouri,29,Clinton,049
+VESI,United States,Missouri,29,Cole,051
+VESI,United States,Missouri,29,Cooper,053
+VESI,United States,Missouri,29,Crawford,055
+VESI,United States,Missouri,29,Dade,057
+VESI,United States,Missouri,29,Dallas,059
+VESI,United States,Missouri,29,Daviess,061
+VESI,United States,Missouri,29,Dent,065
+VESI,United States,Missouri,29,Douglas,067
+VESI,United States,Missouri,29,Franklin,071
+VESI,United States,Missouri,29,Gasconade,073
+VESI,United States,Missouri,29,Greene,077
+VESI,United States,Missouri,29,Grundy,079
+VESI,United States,Missouri,29,Henry,083
+VESI,United States,Missouri,29,Hickory,085
+VESI,United States,Missouri,29,Howell,091
+VESI,United States,Missouri,29,Iron,093
+VESI,United States,Missouri,29,Jackson,095
+VESI,United States,Missouri,29,Jasper,097
+VESI,United States,Missouri,29,Jefferson,099
+VESI,United States,Missouri,29,Johnson,101
+VESI,United States,Missouri,29,Laclede,105
+VESI,United States,Missouri,29,Lawrence,109
+VESI,United States,Missouri,29,Lincoln,113
+VESI,United States,Missouri,29,Livingston,117
+VESI,United States,Missouri,29,Madison,123
+VESI,United States,Missouri,29,Maries,125
+VESI,United States,Missouri,29,Marion,127
+VESI,United States,Missouri,29,McDonald,119
+VESI,United States,Missouri,29,Miller,131
+VESI,United States,Missouri,29,Moniteau,135
+VESI,United States,Missouri,29,Monroe,137
+VESI,United States,Missouri,29,Montgomery,139
+VESI,United States,Missouri,29,Morgan,141
+VESI,United States,Missouri,29,Newton,145
+VESI,United States,Missouri,29,Nodaway,147
+VESI,United States,Missouri,29,Oregon,149
+VESI,United States,Missouri,29,Osage,151
+VESI,United States,Missouri,29,Ozark,153
+VESI,United States,Missouri,29,Perry,157
+VESI,United States,Missouri,29,Pettis,159
+VESI,United States,Missouri,29,Phelps,161
+VESI,United States,Missouri,29,Pike,163
+VESI,United States,Missouri,29,Polk,167
+VESI,United States,Missouri,29,Ralls,173
+VESI,United States,Missouri,29,Ray,177
+VESI,United States,Missouri,29,Reynolds,179
+VESI,United States,Missouri,29,Ripley,181
+VESI,United States,Missouri,29,Saline,195
+VESI,United States,Missouri,29,Shannon,203
+VESI,United States,Missouri,29,St. Charles,183
+VESI,United States,Missouri,29,St. Clair,185
+VESI,United States,Missouri,29,St. Francois,187
+VESI,United States,Missouri,29,St. Louis,189
+VESI,United States,Missouri,29,Ste. Genevieve,186
+VESI,United States,Missouri,29,Stone,209
+VESI,United States,Missouri,29,Taney,213
+VESI,United States,Missouri,29,Texas,215
+VESI,United States,Missouri,29,Vernon,217
+VESI,United States,Missouri,29,Warren,219
+VESI,United States,Missouri,29,Washington,221
+VESI,United States,Missouri,29,Wayne,223
+VESI,United States,Missouri,29,Webster,225
+VESI,United States,Missouri,29,Wright,229
+VESI,United States,Nebraska,31,,
+VESI,United States,Nebraska,31,Lancaster,109
+VESI,United States,Nebraska,31,Richardson,147
+VESI,United States,New Hampshire,33,,
+VESI,United States,New Hampshire,33,Grafton,009
+VESI,United States,New Jersey,34,,
+VESI,United States,New Jersey,34,Atlantic,001
+VESI,United States,New Jersey,34,Bergen,003
+VESI,United States,New Jersey,34,Burlington,005
+VESI,United States,New Jersey,34,Camden,007
+VESI,United States,New Jersey,34,Cape May,009
+VESI,United States,New Jersey,34,Essex,013
+VESI,United States,New Jersey,34,Gloucester,015
+VESI,United States,New Jersey,34,Hudson,017
+VESI,United States,New Jersey,34,Hunterdon,019
+VESI,United States,New Jersey,34,Mercer,021
+VESI,United States,New Jersey,34,Middlesex,023
+VESI,United States,New Jersey,34,Monmouth,025
+VESI,United States,New Jersey,34,Morris,027
+VESI,United States,New Jersey,34,Ocean,029
+VESI,United States,New Jersey,34,Passaic,031
+VESI,United States,New Jersey,34,Somerset,035
+VESI,United States,New Jersey,34,Sussex,037
+VESI,United States,New Jersey,34,Union,039
+VESI,United States,New Jersey,34,Warren,041
+VESI,United States,New York,36,,
+VESI,United States,New York,36,Bronx,005
+VESI,United States,New York,36,Cattaraugus,009
+VESI,United States,New York,36,Cayuga,011
+VESI,United States,New York,36,Columbia,021
+VESI,United States,New York,36,Delaware,025
+VESI,United States,New York,36,Dutchess,027
+VESI,United States,New York,36,Kings,047
+VESI,United States,New York,36,Monroe,055
+VESI,United States,New York,36,Nassau,059
+VESI,United States,New York,36,New York,061
+VESI,United States,New York,36,Orange,071
+VESI,United States,New York,36,Queens,081
+VESI,United States,New York,36,Rockland,087
+VESI,United States,New York,36,Saratoga,091
+VESI,United States,New York,36,Tompkins,109
+VESI,United States,New York,36,Ulster,111
+VESI,United States,New York,36,Warren,113
+VESI,United States,New York,36,Washington,115
+VESI,United States,New York,36,Westchester,119
+VESI,United States,North Carolina,37,,
+VESI,United States,North Carolina,37,Catawba,035
+VESI,United States,North Carolina,37,Chatham,037
+VESI,United States,North Carolina,37,Durham,063
+VESI,United States,North Carolina,37,Forsyth,067
+VESI,United States,North Carolina,37,Granville,077
+VESI,United States,North Carolina,37,Orange,135
+VESI,United States,North Carolina,37,Person,145
+VESI,United States,North Carolina,37,Rowan,159
+VESI,United States,North Carolina,37,Vance,181
+VESI,United States,Ohio,39,,
+VESI,United States,Ohio,39,Adams,001
+VESI,United States,Ohio,39,Auglaize,011
+VESI,United States,Ohio,39,Butler,017
+VESI,United States,Ohio,39,Champaign,021
+VESI,United States,Ohio,39,Clermont,025
+VESI,United States,Ohio,39,Cuyahoga,035
+VESI,United States,Ohio,39,Delaware,041
+VESI,United States,Ohio,39,Erie,043
+VESI,United States,Ohio,39,Franklin,049
+VESI,United States,Ohio,39,Gallia,053
+VESI,United States,Ohio,39,Hamilton,061
+VESI,United States,Ohio,39,Highland,071
+VESI,United States,Ohio,39,Hocking,073
+VESI,United States,Ohio,39,Jackson,079
+VESI,United States,Ohio,39,Lake,085
+VESI,United States,Ohio,39,Lorain,093
+VESI,United States,Ohio,39,Madison,097
+VESI,United States,Ohio,39,Mahoning,099
+VESI,United States,Ohio,39,Montgomery,113
+VESI,United States,Ohio,39,Ottawa,123
+VESI,United States,Ohio,39,Pickaway,129
+VESI,United States,Ohio,39,Pike,131
+VESI,United States,Ohio,39,Sandusky,143
+VESI,United States,Ohio,39,Trumbull,155
+VESI,United States,Ohio,39,Wood,173
+VESI,United States,Oklahoma,40,,
+VESI,United States,Oklahoma,40,Bryan,013
+VESI,United States,Oklahoma,40,Cherokee,021
+VESI,United States,Oklahoma,40,Choctaw,023
+VESI,United States,Oklahoma,40,Craig,035
+VESI,United States,Oklahoma,40,Delaware,041
+VESI,United States,Oklahoma,40,Le Flore,079
+VESI,United States,Oklahoma,40,Marshall,095
+VESI,United States,Oklahoma,40,Mayes,097
+VESI,United States,Oklahoma,40,McCurtain,089
+VESI,United States,Oklahoma,40,Muskogee,101
+VESI,United States,Oklahoma,40,Osage,113
+VESI,United States,Oklahoma,40,Ottawa,115
+VESI,United States,Oklahoma,40,Payne,119
+VESI,United States,Oklahoma,40,Rogers,131
+VESI,United States,Oklahoma,40,Tulsa,143
+VESI,United States,Oklahoma,40,Wagoner,145
+VESI,United States,Pennsylvania,42,,
+VESI,United States,Pennsylvania,42,Adams,001
+VESI,United States,Pennsylvania,42,Bedford,009
+VESI,United States,Pennsylvania,42,Berks,011
+VESI,United States,Pennsylvania,42,Bucks,017
+VESI,United States,Pennsylvania,42,Centre,027
+VESI,United States,Pennsylvania,42,Chester,029
+VESI,United States,Pennsylvania,42,Cumberland,041
+VESI,United States,Pennsylvania,42,Dauphin,043
+VESI,United States,Pennsylvania,42,Delaware,045
+VESI,United States,Pennsylvania,42,Erie,049
+VESI,United States,Pennsylvania,42,Fayette,051
+VESI,United States,Pennsylvania,42,Franklin,055
+VESI,United States,Pennsylvania,42,Fulton,057
+VESI,United States,Pennsylvania,42,Huntingdon,061
+VESI,United States,Pennsylvania,42,Lancaster,071
+VESI,United States,Pennsylvania,42,Lebanon,075
+VESI,United States,Pennsylvania,42,Lehigh,077
+VESI,United States,Pennsylvania,42,Montour,093
+VESI,United States,Pennsylvania,42,Northampton,095
+VESI,United States,Pennsylvania,42,Perry,099
+VESI,United States,Pennsylvania,42,Philadelphia,101
+VESI,United States,Pennsylvania,42,Schuylkill,107
+VESI,United States,Pennsylvania,42,Snyder,109
+VESI,United States,Pennsylvania,42,York,133
+VESI,United States,South Carolina,45,,
+VESI,United States,South Carolina,45,Union,087
+VESI,United States,South Carolina,45,York,091
+VESI,United States,Tennessee,47,,
+VESI,United States,Tennessee,47,Anderson,001
+VESI,United States,Tennessee,47,Bedford,003
+VESI,United States,Tennessee,47,Benton,005
+VESI,United States,Tennessee,47,Bledsoe,007
+VESI,United States,Tennessee,47,Blount,009
+VESI,United States,Tennessee,47,Bradley,011
+VESI,United States,Tennessee,47,Campbell,013
+VESI,United States,Tennessee,47,Carroll,017
+VESI,United States,Tennessee,47,Carter,019
+VESI,United States,Tennessee,47,Cheatham,021
+VESI,United States,Tennessee,47,Claiborne,025
+VESI,United States,Tennessee,47,Clay,027
+VESI,United States,Tennessee,47,Coffee,031
+VESI,United States,Tennessee,47,Cumberland,035
+VESI,United States,Tennessee,47,Davidson,037
+VESI,United States,Tennessee,47,Decatur,039
+VESI,United States,Tennessee,47,Dickson,043
+VESI,United States,Tennessee,47,Fayette,047
+VESI,United States,Tennessee,47,Fentress,049
+VESI,United States,Tennessee,47,Franklin,051
+VESI,United States,Tennessee,47,Grainger,057
+VESI,United States,Tennessee,47,Greene,059
+VESI,United States,Tennessee,47,Grundy,061
+VESI,United States,Tennessee,47,Hamilton,065
+VESI,United States,Tennessee,47,Hardin,071
+VESI,United States,Tennessee,47,Hawkins,073
+VESI,United States,Tennessee,47,Henry,079
+VESI,United States,Tennessee,47,Houston,083
+VESI,United States,Tennessee,47,Jackson,087
+VESI,United States,Tennessee,47,Jefferson,089
+VESI,United States,Tennessee,47,Knox,093
+VESI,United States,Tennessee,47,Lewis,101
+VESI,United States,Tennessee,47,Loudon,105
+VESI,United States,Tennessee,47,Marshall,117
+VESI,United States,Tennessee,47,Maury,119
+VESI,United States,Tennessee,47,McMinn,107
+VESI,United States,Tennessee,47,Meigs,121
+VESI,United States,Tennessee,47,Montgomery,125
+VESI,United States,Tennessee,47,Perry,135
+VESI,United States,Tennessee,47,Pickett,137
+VESI,United States,Tennessee,47,Polk,139
+VESI,United States,Tennessee,47,Putnam,141
+VESI,United States,Tennessee,47,Rhea,143
+VESI,United States,Tennessee,47,Roane,145
+VESI,United States,Tennessee,47,Rutherford,149
+VESI,United States,Tennessee,47,Sequatchie,153
+VESI,United States,Tennessee,47,Stewart,161
+VESI,United States,Tennessee,47,Sumner,165
+VESI,United States,Tennessee,47,Trousdale,169
+VESI,United States,Tennessee,47,Van Buren,175
+VESI,United States,Tennessee,47,Warren,177
+VESI,United States,Tennessee,47,Weakley,183
+VESI,United States,Tennessee,47,White,185
+VESI,United States,Tennessee,47,Williamson,187
+VESI,United States,Tennessee,47,Wilson,189
+VESI,United States,Texas,48,,
+VESI,United States,Texas,48,Red River,387
+VESI,United States,Vermont,50,,
+VESI,United States,Vermont,50,Bennington,003
+VESI,United States,Vermont,50,Windsor,027
+VESI,United States,Virginia,51,,
+VESI,United States,Virginia,51,Albemarle,003
+VESI,United States,Virginia,51,Alleghany,005
+VESI,United States,Virginia,51,Amelia,007
+VESI,United States,Virginia,51,Amherst,009
+VESI,United States,Virginia,51,Appomattox,011
+VESI,United States,Virginia,51,Augusta,015
+VESI,United States,Virginia,51,Bath,017
+VESI,United States,Virginia,51,Bedford,019
+VESI,United States,Virginia,51,Botetourt,023
+VESI,United States,Virginia,51,Brunswick,025
+VESI,United States,Virginia,51,Buckingham,029
+VESI,United States,Virginia,51,Campbell,031
+VESI,United States,Virginia,51,Charlotte,037
+VESI,United States,Virginia,51,Chesterfield,041
+VESI,United States,Virginia,51,Clarke,043
+VESI,United States,Virginia,51,Culpeper,047
+VESI,United States,Virginia,51,Cumberland,049
+VESI,United States,Virginia,51,Dinwiddie,053
+VESI,United States,Virginia,51,Fairfax,059
+VESI,United States,Virginia,51,Fauquier,061
+VESI,United States,Virginia,51,Fluvanna,065
+VESI,United States,Virginia,51,Franklin,067
+VESI,United States,Virginia,51,Frederick,069
+VESI,United States,Virginia,51,Giles,071
+VESI,United States,Virginia,51,Gloucester,073
+VESI,United States,Virginia,51,Goochland,075
+VESI,United States,Virginia,51,Greene,079
+VESI,United States,Virginia,51,Halifax,083
+VESI,United States,Virginia,51,Hanover,085
+VESI,United States,Virginia,51,Henrico,087
+VESI,United States,Virginia,51,Henry,089
+VESI,United States,Virginia,51,James City,095
+VESI,United States,Virginia,51,Lancaster,103
+VESI,United States,Virginia,51,Lee,105
+VESI,United States,Virginia,51,Loudoun,107
+VESI,United States,Virginia,51,Lunenburg,111
+VESI,United States,Virginia,51,Mecklenburg,117
+VESI,United States,Virginia,51,Middlesex,119
+VESI,United States,Virginia,51,Montgomery,121
+VESI,United States,Virginia,51,New Kent,127
+VESI,United States,Virginia,51,Nottoway,135
+VESI,United States,Virginia,51,Orange,137
+VESI,United States,Virginia,51,Page,139
+VESI,United States,Virginia,51,Pittsylvania,143
+VESI,United States,Virginia,51,Prince Edward,147
+VESI,United States,Virginia,51,Prince William,153
+VESI,United States,Virginia,51,Roanoke,161
+VESI,United States,Virginia,51,Rockbridge,163
+VESI,United States,Virginia,51,Rockingham,165
+VESI,United States,Virginia,51,Russell,167
+VESI,United States,Virginia,51,Scott,169
+VESI,United States,Virginia,51,Shenandoah,171
+VESI,United States,Virginia,51,Smyth,173
+VESI,United States,Virginia,51,Spotsylvania,177
+VESI,United States,Virginia,51,Virginia Beach ,810
+VESI,United States,Virginia,51,Warren,187
+VESI,United States,Virginia,51,Washington,191
+VESI,United States,Virginia,51,Wythe,197
+VESI,United States,Virginia,51,York,199
+VESI,United States,West Virginia,54,,
+VESI,United States,West Virginia,54,Berkeley,003
+VESI,United States,West Virginia,54,Fayette,019
+VESI,United States,West Virginia,54,Grant,023
+VESI,United States,West Virginia,54,Hampshire,027
+VESI,United States,West Virginia,54,Hardy,031
+VESI,United States,West Virginia,54,Jefferson,037
+VESI,United States,West Virginia,54,Kanawha,039
+VESI,United States,West Virginia,54,Mineral,057
+VESI,United States,West Virginia,54,Morgan,065
+VESI,United States,Wisconsin,55,,
+VESI,United States,Wisconsin,55,Fond du Lac,039
+VESI,United States,Wisconsin,55,Lafayette,065
+VESI,United States,Wisconsin,55,Milwaukee,079
+VESI,United States,Wisconsin,55,Rock,105
+VESI,United States,Wisconsin,55,Sauk,111
+VESI,United States,Wisconsin,55,Sheboygan,117
+VESI,United States,Wisconsin,55,Walworth,127
+VESI,United States,Wisconsin,55,Winnebago,139

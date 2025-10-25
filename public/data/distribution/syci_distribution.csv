@@ -1,0 +1,186 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SYCI,Canada,Alberta,01,,
+SYCI,Canada,British Columbia,02,,
+SYCI,Canada,Manitoba,03,,
+SYCI,Canada,New Brunswick,04,,
+SYCI,Canada,Nova Scotia,07,,
+SYCI,Canada,Ontario,08,,
+SYCI,Canada,Quebec,10,,
+SYCI,Canada,Saskatchewan,11,,
+SYCI,Canada,Yukon,12,,
+SYCI,Canada,Northwest Territories,13,,
+SYCI,United States,Illinois,17,,
+SYCI,United States,Indiana,18,,
+SYCI,United States,Indiana,18,Floyd,043
+SYCI,United States,Maine,23,,
+SYCI,United States,Maine,23,Androscoggin,001
+SYCI,United States,Maine,23,Aroostook,003
+SYCI,United States,Maine,23,Cumberland,005
+SYCI,United States,Maine,23,Franklin,007
+SYCI,United States,Maine,23,Hancock,009
+SYCI,United States,Maine,23,Kennebec,011
+SYCI,United States,Maine,23,Penobscot,019
+SYCI,United States,Maine,23,Piscataquis,021
+SYCI,United States,Maine,23,Sagadahoc,023
+SYCI,United States,Maine,23,Waldo,027
+SYCI,United States,Maine,23,Washington,029
+SYCI,United States,Massachusetts,25,,
+SYCI,United States,Massachusetts,25,Berkshire,003
+SYCI,United States,Massachusetts,25,Franklin,011
+SYCI,United States,Michigan,26,,
+SYCI,United States,Michigan,26,Alcona,001
+SYCI,United States,Michigan,26,Alger,003
+SYCI,United States,Michigan,26,Alpena,007
+SYCI,United States,Michigan,26,Arenac,011
+SYCI,United States,Michigan,26,Baraga,013
+SYCI,United States,Michigan,26,Bay,017
+SYCI,United States,Michigan,26,Charlevoix,029
+SYCI,United States,Michigan,26,Cheboygan,031
+SYCI,United States,Michigan,26,Chippewa,033
+SYCI,United States,Michigan,26,Crawford,039
+SYCI,United States,Michigan,26,Delta,041
+SYCI,United States,Michigan,26,Dickinson,043
+SYCI,United States,Michigan,26,Emmet,047
+SYCI,United States,Michigan,26,Gogebic,053
+SYCI,United States,Michigan,26,Houghton,061
+SYCI,United States,Michigan,26,Iron,071
+SYCI,United States,Michigan,26,Kalkaska,079
+SYCI,United States,Michigan,26,Keweenaw,083
+SYCI,United States,Michigan,26,Leelanau,089
+SYCI,United States,Michigan,26,Mackinac,097
+SYCI,United States,Michigan,26,Manistee,101
+SYCI,United States,Michigan,26,Marquette,103
+SYCI,United States,Michigan,26,Missaukee,113
+SYCI,United States,Michigan,26,Ogemaw,129
+SYCI,United States,Michigan,26,Ontonagon,131
+SYCI,United States,Michigan,26,Presque Isle,141
+SYCI,United States,Michigan,26,Schoolcraft,153
+SYCI,United States,Minnesota,27,,
+SYCI,United States,Minnesota,27,Aitkin,001
+SYCI,United States,Minnesota,27,Anoka,003
+SYCI,United States,Minnesota,27,Becker,005
+SYCI,United States,Minnesota,27,Beltrami,007
+SYCI,United States,Minnesota,27,Benton,009
+SYCI,United States,Minnesota,27,Carlton,017
+SYCI,United States,Minnesota,27,Cass,021
+SYCI,United States,Minnesota,27,Chisago,025
+SYCI,United States,Minnesota,27,Clay,027
+SYCI,United States,Minnesota,27,Clearwater,029
+SYCI,United States,Minnesota,27,Cook,031
+SYCI,United States,Minnesota,27,Crow Wing,035
+SYCI,United States,Minnesota,27,Fillmore,045
+SYCI,United States,Minnesota,27,Hennepin,053
+SYCI,United States,Minnesota,27,Houston,055
+SYCI,United States,Minnesota,27,Hubbard,057
+SYCI,United States,Minnesota,27,Isanti,059
+SYCI,United States,Minnesota,27,Itasca,061
+SYCI,United States,Minnesota,27,Jackson,063
+SYCI,United States,Minnesota,27,Kanabec,065
+SYCI,United States,Minnesota,27,Kandiyohi,067
+SYCI,United States,Minnesota,27,Kittson,069
+SYCI,United States,Minnesota,27,Koochiching,071
+SYCI,United States,Minnesota,27,Lake,075
+SYCI,United States,Minnesota,27,Lake of the Woods,077
+SYCI,United States,Minnesota,27,Marshall,089
+SYCI,United States,Minnesota,27,Mille Lacs,095
+SYCI,United States,Minnesota,27,Morrison,097
+SYCI,United States,Minnesota,27,Norman,107
+SYCI,United States,Minnesota,27,Otter Tail,111
+SYCI,United States,Minnesota,27,Pennington,113
+SYCI,United States,Minnesota,27,Pine,115
+SYCI,United States,Minnesota,27,Polk,119
+SYCI,United States,Minnesota,27,Ramsey,123
+SYCI,United States,Minnesota,27,Red Lake,125
+SYCI,United States,Minnesota,27,Roseau,135
+SYCI,United States,Minnesota,27,Sherburne,141
+SYCI,United States,Minnesota,27,St. Louis,137
+SYCI,United States,Minnesota,27,Stearns,145
+SYCI,United States,Minnesota,27,Todd,153
+SYCI,United States,Minnesota,27,Washington,163
+SYCI,United States,Minnesota,27,Wright,171
+SYCI,United States,Montana,30,,
+SYCI,United States,Montana,30,Cascade,013
+SYCI,United States,Montana,30,Golden Valley,037
+SYCI,United States,Montana,30,Meagher,059
+SYCI,United States,Montana,30,Phillips,071
+SYCI,United States,Montana,30,Stillwater,095
+SYCI,United States,Montana,30,Sweet Grass,097
+SYCI,United States,New Hampshire,33,,
+SYCI,United States,New Hampshire,33,Coos,007
+SYCI,United States,New Hampshire,33,Grafton,009
+SYCI,United States,New York,36,,
+SYCI,United States,New York,36,Jefferson,045
+SYCI,United States,New York,36,New York,061
+SYCI,United States,New York,36,Onondaga,067
+SYCI,United States,New York,36,Richmond,085
+SYCI,United States,New York,36,St. Lawrence,089
+SYCI,United States,New York,36,Washington,115
+SYCI,United States,New York,36,Wayne,117
+SYCI,United States,North Dakota,38,,
+SYCI,United States,North Dakota,38,Barnes,003
+SYCI,United States,North Dakota,38,Bottineau,009
+SYCI,United States,North Dakota,38,Cavalier,019
+SYCI,United States,North Dakota,38,Pembina,067
+SYCI,United States,South Dakota,46,,
+SYCI,United States,South Dakota,46,Corson,031
+SYCI,United States,South Dakota,46,Custer,033
+SYCI,United States,South Dakota,46,Lawrence,081
+SYCI,United States,South Dakota,46,Pennington,103
+SYCI,United States,South Dakota,46,Roberts,109
+SYCI,United States,Wisconsin,55,,
+SYCI,United States,Wisconsin,55,Adams,001
+SYCI,United States,Wisconsin,55,Ashland,003
+SYCI,United States,Wisconsin,55,Barron,005
+SYCI,United States,Wisconsin,55,Bayfield,007
+SYCI,United States,Wisconsin,55,Brown,009
+SYCI,United States,Wisconsin,55,Burnett,013
+SYCI,United States,Wisconsin,55,Calumet,015
+SYCI,United States,Wisconsin,55,Chippewa,017
+SYCI,United States,Wisconsin,55,Clark,019
+SYCI,United States,Wisconsin,55,Dane,025
+SYCI,United States,Wisconsin,55,Door,029
+SYCI,United States,Wisconsin,55,Douglas,031
+SYCI,United States,Wisconsin,55,Eau Claire,035
+SYCI,United States,Wisconsin,55,Florence,037
+SYCI,United States,Wisconsin,55,Forest,041
+SYCI,United States,Wisconsin,55,Iron,051
+SYCI,United States,Wisconsin,55,Jackson,053
+SYCI,United States,Wisconsin,55,Kewaunee,061
+SYCI,United States,Wisconsin,55,Lafayette,065
+SYCI,United States,Wisconsin,55,Langlade,067
+SYCI,United States,Wisconsin,55,Lincoln,069
+SYCI,United States,Wisconsin,55,Manitowoc,071
+SYCI,United States,Wisconsin,55,Marathon,073
+SYCI,United States,Wisconsin,55,Marinette,075
+SYCI,United States,Wisconsin,55,Menominee,078
+SYCI,United States,Wisconsin,55,Milwaukee,079
+SYCI,United States,Wisconsin,55,Monroe,081
+SYCI,United States,Wisconsin,55,Oconto,083
+SYCI,United States,Wisconsin,55,Oneida,085
+SYCI,United States,Wisconsin,55,Ozaukee,089
+SYCI,United States,Wisconsin,55,Polk,095
+SYCI,United States,Wisconsin,55,Portage,097
+SYCI,United States,Wisconsin,55,Price,099
+SYCI,United States,Wisconsin,55,Rusk,107
+SYCI,United States,Wisconsin,55,Sawyer,113
+SYCI,United States,Wisconsin,55,Shawano,115
+SYCI,United States,Wisconsin,55,Sheboygan,117
+SYCI,United States,Wisconsin,55,St. Croix,109
+SYCI,United States,Wisconsin,55,Taylor,119
+SYCI,United States,Wisconsin,55,Vilas,125
+SYCI,United States,Wisconsin,55,Washburn,129
+SYCI,United States,Wisconsin,55,Waupaca,135
+SYCI,United States,Wisconsin,55,Waushara,137
+SYCI,United States,Wisconsin,55,Wood,141
+SYCI,United States,Wyoming,56,,
+SYCI,United States,Wyoming,56,Albany,001
+SYCI,United States,Wyoming,56,Carbon,007
+SYCI,United States,Wyoming,56,Converse,009
+SYCI,United States,Wyoming,56,Crook,011
+SYCI,United States,Wyoming,56,Johnson,019
+SYCI,United States,Wyoming,56,Natrona,025
+SYCI,United States,Wyoming,56,Sheridan,033
+SYCI,United States,Wyoming,56,Washakie,043
+SYCI,United States,Wyoming,56,Weston,045
+SYCI,Canada,Newfoundland,NF,,

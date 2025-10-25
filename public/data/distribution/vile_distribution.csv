@@ -1,0 +1,584 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VILE,United States,Alabama,01,,
+VILE,Canada,Manitoba,03,,
+VILE,Canada,New Brunswick,04,,
+VILE,Canada,Ontario,08,,
+VILE,United States,Colorado,08,,
+VILE,United States,Colorado,08,Boulder,013
+VILE,United States,Colorado,08,Jefferson,059
+VILE,United States,Connecticut,09,,
+VILE,United States,Connecticut,09,Fairfield,001
+VILE,United States,Connecticut,09,Hartford,003
+VILE,United States,Connecticut,09,Litchfield,005
+VILE,United States,Connecticut,09,Middlesex,007
+VILE,United States,Connecticut,09,New Haven,009
+VILE,United States,Connecticut,09,New London,011
+VILE,United States,Connecticut,09,Tolland,013
+VILE,United States,Connecticut,09,Windham,015
+VILE,Canada,Quebec,10,,
+VILE,Canada,Saskatchewan,11,,
+VILE,United States,Georgia,13,,
+VILE,United States,Illinois,17,,
+VILE,United States,Illinois,17,Boone,007
+VILE,United States,Illinois,17,Bureau,011
+VILE,United States,Illinois,17,Carroll,015
+VILE,United States,Illinois,17,Champaign,019
+VILE,United States,Illinois,17,Cook,031
+VILE,United States,Illinois,17,De Witt,039
+VILE,United States,Illinois,17,DeKalb,037
+VILE,United States,Illinois,17,DuPage,043
+VILE,United States,Illinois,17,Fulton,057
+VILE,United States,Illinois,17,Grundy,063
+VILE,United States,Illinois,17,Iroquois,075
+VILE,United States,Illinois,17,Jersey,083
+VILE,United States,Illinois,17,Jo Daviess,085
+VILE,United States,Illinois,17,Kane,089
+VILE,United States,Illinois,17,Kankakee,091
+VILE,United States,Illinois,17,Kendall,093
+VILE,United States,Illinois,17,Knox,095
+VILE,United States,Illinois,17,Lake,097
+VILE,United States,Illinois,17,LaSalle,099
+VILE,United States,Illinois,17,Lee,103
+VILE,United States,Illinois,17,Livingston,105
+VILE,United States,Illinois,17,Marshall,123
+VILE,United States,Illinois,17,Mason,125
+VILE,United States,Illinois,17,McHenry,111
+VILE,United States,Illinois,17,Menard,129
+VILE,United States,Illinois,17,Morgan,137
+VILE,United States,Illinois,17,Ogle,141
+VILE,United States,Illinois,17,Peoria,143
+VILE,United States,Illinois,17,Pike,149
+VILE,United States,Illinois,17,Randolph,157
+VILE,United States,Illinois,17,Sangamon,167
+VILE,United States,Illinois,17,Stark,175
+VILE,United States,Illinois,17,Stephenson,177
+VILE,United States,Illinois,17,Tazewell,179
+VILE,United States,Illinois,17,Whiteside,195
+VILE,United States,Illinois,17,Will,197
+VILE,United States,Illinois,17,Winnebago,201
+VILE,United States,Illinois,17,Woodford,203
+VILE,United States,Indiana,18,,
+VILE,United States,Indiana,18,Allen,003
+VILE,United States,Indiana,18,Blackford,009
+VILE,United States,Indiana,18,Carroll,015
+VILE,United States,Indiana,18,Cass,017
+VILE,United States,Indiana,18,DeKalb,033
+VILE,United States,Indiana,18,Delaware,035
+VILE,United States,Indiana,18,Fountain,045
+VILE,United States,Indiana,18,Fulton,049
+VILE,United States,Indiana,18,Hancock,059
+VILE,United States,Indiana,18,Henry,065
+VILE,United States,Indiana,18,Howard,067
+VILE,United States,Indiana,18,Huntington,069
+VILE,United States,Indiana,18,Jasper,073
+VILE,United States,Indiana,18,Kosciusko,085
+VILE,United States,Indiana,18,Lagrange,087
+VILE,United States,Indiana,18,Lake,089
+VILE,United States,Indiana,18,LaPorte,091
+VILE,United States,Indiana,18,Madison,095
+VILE,United States,Indiana,18,Miami,103
+VILE,United States,Indiana,18,Montgomery,107
+VILE,United States,Indiana,18,Newton,111
+VILE,United States,Indiana,18,Noble,113
+VILE,United States,Indiana,18,Parke,121
+VILE,United States,Indiana,18,Porter,127
+VILE,United States,Indiana,18,Pulaski,131
+VILE,United States,Indiana,18,Randolph,135
+VILE,United States,Indiana,18,Shelby,145
+VILE,United States,Indiana,18,St. Joseph,141
+VILE,United States,Indiana,18,Starke,149
+VILE,United States,Indiana,18,Steuben,151
+VILE,United States,Indiana,18,Tippecanoe,157
+VILE,United States,Indiana,18,Vigo,167
+VILE,United States,Indiana,18,Wayne,177
+VILE,United States,Indiana,18,Wells,179
+VILE,United States,Indiana,18,White,181
+VILE,United States,Indiana,18,Whitley,183
+VILE,United States,Iowa,19,,
+VILE,United States,Iowa,19,Adams,003
+VILE,United States,Iowa,19,Dickinson,059
+VILE,United States,Iowa,19,Guthrie,077
+VILE,United States,Iowa,19,Howard,089
+VILE,United States,Iowa,19,Johnson,103
+VILE,United States,Iowa,19,Lyon,119
+VILE,United States,Iowa,19,Osceola,143
+VILE,United States,Iowa,19,Pottawattamie,155
+VILE,United States,Iowa,19,Shelby,165
+VILE,United States,Iowa,19,Taylor,173
+VILE,United States,Iowa,19,Webster,187
+VILE,United States,Kentucky,21,,
+VILE,United States,Kentucky,21,Rowan,205
+VILE,United States,Maine,23,,
+VILE,United States,Maine,23,Androscoggin,001
+VILE,United States,Maine,23,Aroostook,003
+VILE,United States,Maine,23,Cumberland,005
+VILE,United States,Maine,23,Franklin,007
+VILE,United States,Maine,23,Hancock,009
+VILE,United States,Maine,23,Kennebec,011
+VILE,United States,Maine,23,Knox,013
+VILE,United States,Maine,23,Oxford,017
+VILE,United States,Maine,23,Penobscot,019
+VILE,United States,Maine,23,Piscataquis,021
+VILE,United States,Maine,23,Sagadahoc,023
+VILE,United States,Maine,23,Somerset,025
+VILE,United States,Maine,23,Waldo,027
+VILE,United States,Maine,23,Washington,029
+VILE,United States,Maine,23,York,031
+VILE,United States,Maryland,24,,
+VILE,United States,Maryland,24,Baltimore,005
+VILE,United States,Maryland,24,Garrett,023
+VILE,United States,Massachusetts,25,,
+VILE,United States,Massachusetts,25,Berkshire,003
+VILE,United States,Massachusetts,25,Bristol,005
+VILE,United States,Massachusetts,25,Essex,009
+VILE,United States,Massachusetts,25,Franklin,011
+VILE,United States,Massachusetts,25,Hampden,013
+VILE,United States,Massachusetts,25,Hampshire,015
+VILE,United States,Massachusetts,25,Middlesex,017
+VILE,United States,Massachusetts,25,Norfolk,021
+VILE,United States,Massachusetts,25,Plymouth,023
+VILE,United States,Massachusetts,25,Suffolk,025
+VILE,United States,Massachusetts,25,Worcester,027
+VILE,United States,Michigan,26,,
+VILE,United States,Michigan,26,Alcona,001
+VILE,United States,Michigan,26,Alger,003
+VILE,United States,Michigan,26,Allegan,005
+VILE,United States,Michigan,26,Antrim,009
+VILE,United States,Michigan,26,Arenac,011
+VILE,United States,Michigan,26,Baraga,013
+VILE,United States,Michigan,26,Barry,015
+VILE,United States,Michigan,26,Bay,017
+VILE,United States,Michigan,26,Benzie,019
+VILE,United States,Michigan,26,Berrien,021
+VILE,United States,Michigan,26,Calhoun,025
+VILE,United States,Michigan,26,Cass,027
+VILE,United States,Michigan,26,Charlevoix,029
+VILE,United States,Michigan,26,Cheboygan,031
+VILE,United States,Michigan,26,Chippewa,033
+VILE,United States,Michigan,26,Clare,035
+VILE,United States,Michigan,26,Clinton,037
+VILE,United States,Michigan,26,Crawford,039
+VILE,United States,Michigan,26,Delta,041
+VILE,United States,Michigan,26,Dickinson,043
+VILE,United States,Michigan,26,Eaton,045
+VILE,United States,Michigan,26,Emmet,047
+VILE,United States,Michigan,26,Genesee,049
+VILE,United States,Michigan,26,Gladwin,051
+VILE,United States,Michigan,26,Grand Traverse,055
+VILE,United States,Michigan,26,Gratiot,057
+VILE,United States,Michigan,26,Hillsdale,059
+VILE,United States,Michigan,26,Houghton,061
+VILE,United States,Michigan,26,Ingham,065
+VILE,United States,Michigan,26,Ionia,067
+VILE,United States,Michigan,26,Iron,071
+VILE,United States,Michigan,26,Isabella,073
+VILE,United States,Michigan,26,Jackson,075
+VILE,United States,Michigan,26,Kalamazoo,077
+VILE,United States,Michigan,26,Kalkaska,079
+VILE,United States,Michigan,26,Kent,081
+VILE,United States,Michigan,26,Lapeer,087
+VILE,United States,Michigan,26,Leelanau,089
+VILE,United States,Michigan,26,Lenawee,091
+VILE,United States,Michigan,26,Livingston,093
+VILE,United States,Michigan,26,Macomb,099
+VILE,United States,Michigan,26,Marquette,103
+VILE,United States,Michigan,26,Mecosta,107
+VILE,United States,Michigan,26,Midland,111
+VILE,United States,Michigan,26,Monroe,115
+VILE,United States,Michigan,26,Montcalm,117
+VILE,United States,Michigan,26,Montmorency,119
+VILE,United States,Michigan,26,Muskegon,121
+VILE,United States,Michigan,26,Newaygo,123
+VILE,United States,Michigan,26,Oakland,125
+VILE,United States,Michigan,26,Oceana,127
+VILE,United States,Michigan,26,Ontonagon,131
+VILE,United States,Michigan,26,Osceola,133
+VILE,United States,Michigan,26,Oscoda,135
+VILE,United States,Michigan,26,Otsego,137
+VILE,United States,Michigan,26,Ottawa,139
+VILE,United States,Michigan,26,Saginaw,145
+VILE,United States,Michigan,26,Sanilac,151
+VILE,United States,Michigan,26,Schoolcraft,153
+VILE,United States,Michigan,26,Shiawassee,155
+VILE,United States,Michigan,26,St. Clair,147
+VILE,United States,Michigan,26,St. Joseph,149
+VILE,United States,Michigan,26,Van Buren,159
+VILE,United States,Michigan,26,Washtenaw,161
+VILE,United States,Michigan,26,Wayne,163
+VILE,United States,Minnesota,27,,
+VILE,United States,Minnesota,27,Aitkin,001
+VILE,United States,Minnesota,27,Anoka,003
+VILE,United States,Minnesota,27,Becker,005
+VILE,United States,Minnesota,27,Benton,009
+VILE,United States,Minnesota,27,Big Stone,011
+VILE,United States,Minnesota,27,Blue Earth,013
+VILE,United States,Minnesota,27,Brown,015
+VILE,United States,Minnesota,27,Carlton,017
+VILE,United States,Minnesota,27,Cass,021
+VILE,United States,Minnesota,27,Chippewa,023
+VILE,United States,Minnesota,27,Chisago,025
+VILE,United States,Minnesota,27,Clay,027
+VILE,United States,Minnesota,27,Clearwater,029
+VILE,United States,Minnesota,27,Crow Wing,035
+VILE,United States,Minnesota,27,Dakota,037
+VILE,United States,Minnesota,27,Fillmore,045
+VILE,United States,Minnesota,27,Freeborn,047
+VILE,United States,Minnesota,27,Goodhue,049
+VILE,United States,Minnesota,27,Hennepin,053
+VILE,United States,Minnesota,27,Houston,055
+VILE,United States,Minnesota,27,Isanti,059
+VILE,United States,Minnesota,27,Itasca,061
+VILE,United States,Minnesota,27,Jackson,063
+VILE,United States,Minnesota,27,Kanabec,065
+VILE,United States,Minnesota,27,Kandiyohi,067
+VILE,United States,Minnesota,27,Kittson,069
+VILE,United States,Minnesota,27,Koochiching,071
+VILE,United States,Minnesota,27,Lake of the Woods,077
+VILE,United States,Minnesota,27,Le Sueur,079
+VILE,United States,Minnesota,27,Lincoln,081
+VILE,United States,Minnesota,27,Martin,091
+VILE,United States,Minnesota,27,McLeod,085
+VILE,United States,Minnesota,27,Meeker,093
+VILE,United States,Minnesota,27,Mille Lacs,095
+VILE,United States,Minnesota,27,Morrison,097
+VILE,United States,Minnesota,27,Norman,107
+VILE,United States,Minnesota,27,Otter Tail,111
+VILE,United States,Minnesota,27,Pennington,113
+VILE,United States,Minnesota,27,Pine,115
+VILE,United States,Minnesota,27,Pipestone,117
+VILE,United States,Minnesota,27,Polk,119
+VILE,United States,Minnesota,27,Pope,121
+VILE,United States,Minnesota,27,Ramsey,123
+VILE,United States,Minnesota,27,Red Lake,125
+VILE,United States,Minnesota,27,Rice,131
+VILE,United States,Minnesota,27,Scott,139
+VILE,United States,Minnesota,27,Sherburne,141
+VILE,United States,Minnesota,27,St. Louis,137
+VILE,United States,Minnesota,27,Stearns,145
+VILE,United States,Minnesota,27,Swift,151
+VILE,United States,Minnesota,27,Todd,153
+VILE,United States,Minnesota,27,Wabasha,157
+VILE,United States,Minnesota,27,Waseca,161
+VILE,United States,Minnesota,27,Washington,163
+VILE,United States,Minnesota,27,Wilkin,167
+VILE,United States,Minnesota,27,Winona,169
+VILE,United States,Minnesota,27,Wright,171
+VILE,United States,Missouri,29,,
+VILE,United States,Missouri,29,Schuyler,197
+VILE,United States,Montana,30,,
+VILE,United States,Nebraska,31,,
+VILE,United States,Nebraska,31,Cass,025
+VILE,United States,Nebraska,31,Dakota,043
+VILE,United States,Nebraska,31,Dawes,045
+VILE,United States,Nebraska,31,Douglas,055
+VILE,United States,Nebraska,31,Nemaha,127
+VILE,United States,Nebraska,31,Saunders,155
+VILE,United States,New Hampshire,33,,
+VILE,United States,New Hampshire,33,Belknap,001
+VILE,United States,New Hampshire,33,Carroll,003
+VILE,United States,New Hampshire,33,Cheshire,005
+VILE,United States,New Hampshire,33,Coos,007
+VILE,United States,New Hampshire,33,Grafton,009
+VILE,United States,New Hampshire,33,Hillsborough,011
+VILE,United States,New Hampshire,33,Merrimack,013
+VILE,United States,New Hampshire,33,Rockingham,015
+VILE,United States,New Hampshire,33,Strafford,017
+VILE,United States,New Hampshire,33,Sullivan,019
+VILE,United States,New Jersey,34,,
+VILE,United States,New Jersey,34,Bergen,003
+VILE,United States,New Jersey,34,Essex,013
+VILE,United States,New Jersey,34,Hunterdon,019
+VILE,United States,New Jersey,34,Mercer,021
+VILE,United States,New Jersey,34,Middlesex,023
+VILE,United States,New Jersey,34,Monmouth,025
+VILE,United States,New Jersey,34,Morris,027
+VILE,United States,New Jersey,34,Passaic,031
+VILE,United States,New Jersey,34,Somerset,035
+VILE,United States,New Jersey,34,Sussex,037
+VILE,United States,New Jersey,34,Union,039
+VILE,United States,New Jersey,34,Warren,041
+VILE,United States,New York,36,,
+VILE,United States,New York,36,Albany,001
+VILE,United States,New York,36,Bronx,005
+VILE,United States,New York,36,Broome,007
+VILE,United States,New York,36,Cattaraugus,009
+VILE,United States,New York,36,Cayuga,011
+VILE,United States,New York,36,Chautauqua,013
+VILE,United States,New York,36,Chemung,015
+VILE,United States,New York,36,Clinton,019
+VILE,United States,New York,36,Columbia,021
+VILE,United States,New York,36,Delaware,025
+VILE,United States,New York,36,Dutchess,027
+VILE,United States,New York,36,Erie,029
+VILE,United States,New York,36,Essex,031
+VILE,United States,New York,36,Genesee,037
+VILE,United States,New York,36,Herkimer,043
+VILE,United States,New York,36,Jefferson,045
+VILE,United States,New York,36,Lewis,049
+VILE,United States,New York,36,Livingston,051
+VILE,United States,New York,36,Madison,053
+VILE,United States,New York,36,Monroe,055
+VILE,United States,New York,36,Nassau,059
+VILE,United States,New York,36,Niagara,063
+VILE,United States,New York,36,Oneida,065
+VILE,United States,New York,36,Onondaga,067
+VILE,United States,New York,36,Ontario,069
+VILE,United States,New York,36,Orange,071
+VILE,United States,New York,36,Oswego,075
+VILE,United States,New York,36,Otsego,077
+VILE,United States,New York,36,Putnam,079
+VILE,United States,New York,36,Queens,081
+VILE,United States,New York,36,Rensselaer,083
+VILE,United States,New York,36,Richmond,085
+VILE,United States,New York,36,Rockland,087
+VILE,United States,New York,36,Saratoga,091
+VILE,United States,New York,36,Schenectady,093
+VILE,United States,New York,36,St. Lawrence,089
+VILE,United States,New York,36,Suffolk,103
+VILE,United States,New York,36,Sullivan,105
+VILE,United States,New York,36,Tompkins,109
+VILE,United States,New York,36,Ulster,111
+VILE,United States,New York,36,Warren,113
+VILE,United States,New York,36,Washington,115
+VILE,United States,New York,36,Westchester,119
+VILE,United States,New York,36,Wyoming,121
+VILE,United States,North Dakota,38,,
+VILE,United States,North Dakota,38,Barnes,003
+VILE,United States,North Dakota,38,Benson,005
+VILE,United States,North Dakota,38,Bottineau,009
+VILE,United States,North Dakota,38,Burke,013
+VILE,United States,North Dakota,38,Burleigh,015
+VILE,United States,North Dakota,38,Cass,017
+VILE,United States,North Dakota,38,Cavalier,019
+VILE,United States,North Dakota,38,Dunn,025
+VILE,United States,North Dakota,38,Eddy,027
+VILE,United States,North Dakota,38,Emmons,029
+VILE,United States,North Dakota,38,Grand Forks,035
+VILE,United States,North Dakota,38,Grant,037
+VILE,United States,North Dakota,38,Griggs,039
+VILE,United States,North Dakota,38,McIntosh,051
+VILE,United States,North Dakota,38,McKenzie,053
+VILE,United States,North Dakota,38,McLean,055
+VILE,United States,North Dakota,38,Mercer,057
+VILE,United States,North Dakota,38,Morton,059
+VILE,United States,North Dakota,38,Mountrail,061
+VILE,United States,North Dakota,38,Nelson,063
+VILE,United States,North Dakota,38,Oliver,065
+VILE,United States,North Dakota,38,Pembina,067
+VILE,United States,North Dakota,38,Ransom,073
+VILE,United States,North Dakota,38,Richland,077
+VILE,United States,North Dakota,38,Rolette,079
+VILE,United States,North Dakota,38,Sargent,081
+VILE,United States,North Dakota,38,Sioux,085
+VILE,United States,North Dakota,38,Stark,089
+VILE,United States,North Dakota,38,Steele,091
+VILE,United States,North Dakota,38,Stutsman,093
+VILE,United States,North Dakota,38,Ward,101
+VILE,United States,Ohio,39,,
+VILE,United States,Ohio,39,Ashland,005
+VILE,United States,Ohio,39,Ashtabula,007
+VILE,United States,Ohio,39,Auglaize,011
+VILE,United States,Ohio,39,Butler,017
+VILE,United States,Ohio,39,Carroll,019
+VILE,United States,Ohio,39,Champaign,021
+VILE,United States,Ohio,39,Clinton,027
+VILE,United States,Ohio,39,Columbiana,029
+VILE,United States,Ohio,39,Coshocton,031
+VILE,United States,Ohio,39,Crawford,033
+VILE,United States,Ohio,39,Cuyahoga,035
+VILE,United States,Ohio,39,Defiance,039
+VILE,United States,Ohio,39,Erie,043
+VILE,United States,Ohio,39,Franklin,049
+VILE,United States,Ohio,39,Geauga,055
+VILE,United States,Ohio,39,Hancock,063
+VILE,United States,Ohio,39,Harrison,067
+VILE,United States,Ohio,39,Henry,069
+VILE,United States,Ohio,39,Holmes,075
+VILE,United States,Ohio,39,Huron,077
+VILE,United States,Ohio,39,Jefferson,081
+VILE,United States,Ohio,39,Knox,083
+VILE,United States,Ohio,39,Lake,085
+VILE,United States,Ohio,39,Licking,089
+VILE,United States,Ohio,39,Logan,091
+VILE,United States,Ohio,39,Lorain,093
+VILE,United States,Ohio,39,Lucas,095
+VILE,United States,Ohio,39,Madison,097
+VILE,United States,Ohio,39,Mahoning,099
+VILE,United States,Ohio,39,Medina,103
+VILE,United States,Ohio,39,Miami,109
+VILE,United States,Ohio,39,Morgan,115
+VILE,United States,Ohio,39,Muskingum,119
+VILE,United States,Ohio,39,Ottawa,123
+VILE,United States,Ohio,39,Paulding,125
+VILE,United States,Ohio,39,Perry,127
+VILE,United States,Ohio,39,Portage,133
+VILE,United States,Ohio,39,Putnam,137
+VILE,United States,Ohio,39,Richland,139
+VILE,United States,Ohio,39,Ross,141
+VILE,United States,Ohio,39,Sandusky,143
+VILE,United States,Ohio,39,Seneca,147
+VILE,United States,Ohio,39,Stark,151
+VILE,United States,Ohio,39,Summit,153
+VILE,United States,Ohio,39,Trumbull,155
+VILE,United States,Ohio,39,Tuscarawas,157
+VILE,United States,Ohio,39,Van Wert,161
+VILE,United States,Ohio,39,Wayne,169
+VILE,United States,Ohio,39,Wood,173
+VILE,United States,Pennsylvania,42,,
+VILE,United States,Pennsylvania,42,Allegheny,003
+VILE,United States,Pennsylvania,42,Armstrong,005
+VILE,United States,Pennsylvania,42,Beaver,007
+VILE,United States,Pennsylvania,42,Bedford,009
+VILE,United States,Pennsylvania,42,Berks,011
+VILE,United States,Pennsylvania,42,Blair,013
+VILE,United States,Pennsylvania,42,Bradford,015
+VILE,United States,Pennsylvania,42,Bucks,017
+VILE,United States,Pennsylvania,42,Butler,019
+VILE,United States,Pennsylvania,42,Cambria,021
+VILE,United States,Pennsylvania,42,Centre,027
+VILE,United States,Pennsylvania,42,Chester,029
+VILE,United States,Pennsylvania,42,Clarion,031
+VILE,United States,Pennsylvania,42,Clearfield,033
+VILE,United States,Pennsylvania,42,Crawford,039
+VILE,United States,Pennsylvania,42,Delaware,045
+VILE,United States,Pennsylvania,42,Elk,047
+VILE,United States,Pennsylvania,42,Erie,049
+VILE,United States,Pennsylvania,42,Fayette,051
+VILE,United States,Pennsylvania,42,Forest,053
+VILE,United States,Pennsylvania,42,Indiana,063
+VILE,United States,Pennsylvania,42,Jefferson,065
+VILE,United States,Pennsylvania,42,Lancaster,071
+VILE,United States,Pennsylvania,42,Lawrence,073
+VILE,United States,Pennsylvania,42,Lebanon,075
+VILE,United States,Pennsylvania,42,Lehigh,077
+VILE,United States,Pennsylvania,42,McKean,083
+VILE,United States,Pennsylvania,42,Mercer,085
+VILE,United States,Pennsylvania,42,Monroe,089
+VILE,United States,Pennsylvania,42,Montgomery,091
+VILE,United States,Pennsylvania,42,Montour,093
+VILE,United States,Pennsylvania,42,Northampton,095
+VILE,United States,Pennsylvania,42,Philadelphia,101
+VILE,United States,Pennsylvania,42,Pike,103
+VILE,United States,Pennsylvania,42,Potter,105
+VILE,United States,Pennsylvania,42,Snyder,109
+VILE,United States,Pennsylvania,42,Somerset,111
+VILE,United States,Pennsylvania,42,Sullivan,113
+VILE,United States,Pennsylvania,42,Tioga,117
+VILE,United States,Pennsylvania,42,Union,119
+VILE,United States,Pennsylvania,42,Venango,121
+VILE,United States,Pennsylvania,42,Warren,123
+VILE,United States,Pennsylvania,42,Washington,125
+VILE,United States,Pennsylvania,42,Wayne,127
+VILE,United States,Pennsylvania,42,Westmoreland,129
+VILE,United States,Rhode Island,44,,
+VILE,United States,Rhode Island,44,Kent,003
+VILE,United States,Rhode Island,44,Newport,005
+VILE,United States,Rhode Island,44,Providence,007
+VILE,United States,Rhode Island,44,Washington,009
+VILE,United States,South Dakota,46,,
+VILE,United States,South Dakota,46,Brookings,011
+VILE,United States,South Dakota,46,Clay,027
+VILE,United States,South Dakota,46,Deuel,039
+VILE,United States,South Dakota,46,Grant,051
+VILE,United States,South Dakota,46,Harding,063
+VILE,United States,South Dakota,46,Lawrence,081
+VILE,United States,South Dakota,46,Marshall,091
+VILE,United States,South Dakota,46,Minnehaha,099
+VILE,United States,South Dakota,46,Pennington,103
+VILE,United States,South Dakota,46,Roberts,109
+VILE,United States,South Dakota,46,Union,127
+VILE,United States,Vermont,50,,
+VILE,United States,Vermont,50,Addison,001
+VILE,United States,Vermont,50,Bennington,003
+VILE,United States,Vermont,50,Caledonia,005
+VILE,United States,Vermont,50,Chittenden,007
+VILE,United States,Vermont,50,Essex,009
+VILE,United States,Vermont,50,Franklin,011
+VILE,United States,Vermont,50,Grand Isle,013
+VILE,United States,Vermont,50,Lamoille,015
+VILE,United States,Vermont,50,Orange,017
+VILE,United States,Vermont,50,Rutland,021
+VILE,United States,Vermont,50,Washington,023
+VILE,United States,Vermont,50,Windsor,027
+VILE,United States,Virginia,51,,
+VILE,United States,Virginia,51,Augusta,015
+VILE,United States,Virginia,51,Giles,071
+VILE,United States,Virginia,51,Highland,091
+VILE,United States,Virginia,51,Page,139
+VILE,United States,West Virginia,54,,
+VILE,United States,West Virginia,54,Grant,023
+VILE,United States,West Virginia,54,Greenbrier,025
+VILE,United States,West Virginia,54,Hampshire,027
+VILE,United States,West Virginia,54,Monongalia,061
+VILE,United States,West Virginia,54,Ohio,069
+VILE,United States,West Virginia,54,Pendleton,071
+VILE,United States,West Virginia,54,Pocahontas,075
+VILE,United States,West Virginia,54,Preston,077
+VILE,United States,West Virginia,54,Tucker,093
+VILE,United States,Wisconsin,55,,
+VILE,United States,Wisconsin,55,Adams,001
+VILE,United States,Wisconsin,55,Ashland,003
+VILE,United States,Wisconsin,55,Barron,005
+VILE,United States,Wisconsin,55,Bayfield,007
+VILE,United States,Wisconsin,55,Brown,009
+VILE,United States,Wisconsin,55,Calumet,015
+VILE,United States,Wisconsin,55,Chippewa,017
+VILE,United States,Wisconsin,55,Clark,019
+VILE,United States,Wisconsin,55,Columbia,021
+VILE,United States,Wisconsin,55,Crawford,023
+VILE,United States,Wisconsin,55,Dane,025
+VILE,United States,Wisconsin,55,Dodge,027
+VILE,United States,Wisconsin,55,Door,029
+VILE,United States,Wisconsin,55,Douglas,031
+VILE,United States,Wisconsin,55,Dunn,033
+VILE,United States,Wisconsin,55,Florence,037
+VILE,United States,Wisconsin,55,Fond du Lac,039
+VILE,United States,Wisconsin,55,Forest,041
+VILE,United States,Wisconsin,55,Grant,043
+VILE,United States,Wisconsin,55,Green,045
+VILE,United States,Wisconsin,55,Green Lake,047
+VILE,United States,Wisconsin,55,Iowa,049
+VILE,United States,Wisconsin,55,Iron,051
+VILE,United States,Wisconsin,55,Jackson,053
+VILE,United States,Wisconsin,55,Jefferson,055
+VILE,United States,Wisconsin,55,Kenosha,059
+VILE,United States,Wisconsin,55,Kewaunee,061
+VILE,United States,Wisconsin,55,La Crosse,063
+VILE,United States,Wisconsin,55,Lafayette,065
+VILE,United States,Wisconsin,55,Lincoln,069
+VILE,United States,Wisconsin,55,Manitowoc,071
+VILE,United States,Wisconsin,55,Marathon,073
+VILE,United States,Wisconsin,55,Marinette,075
+VILE,United States,Wisconsin,55,Marquette,077
+VILE,United States,Wisconsin,55,Menominee,078
+VILE,United States,Wisconsin,55,Monroe,081
+VILE,United States,Wisconsin,55,Oconto,083
+VILE,United States,Wisconsin,55,Outagamie,087
+VILE,United States,Wisconsin,55,Ozaukee,089
+VILE,United States,Wisconsin,55,Pierce,093
+VILE,United States,Wisconsin,55,Polk,095
+VILE,United States,Wisconsin,55,Portage,097
+VILE,United States,Wisconsin,55,Racine,101
+VILE,United States,Wisconsin,55,Richland,103
+VILE,United States,Wisconsin,55,Rock,105
+VILE,United States,Wisconsin,55,Rusk,107
+VILE,United States,Wisconsin,55,Sauk,111
+VILE,United States,Wisconsin,55,Sawyer,113
+VILE,United States,Wisconsin,55,Shawano,115
+VILE,United States,Wisconsin,55,Sheboygan,117
+VILE,United States,Wisconsin,55,St. Croix,109
+VILE,United States,Wisconsin,55,Taylor,119
+VILE,United States,Wisconsin,55,Trempealeau,121
+VILE,United States,Wisconsin,55,Vernon,123
+VILE,United States,Wisconsin,55,Vilas,125
+VILE,United States,Wisconsin,55,Walworth,127
+VILE,United States,Wisconsin,55,Washington,131
+VILE,United States,Wisconsin,55,Waukesha,133
+VILE,United States,Wisconsin,55,Waupaca,135
+VILE,United States,Wisconsin,55,Waushara,137
+VILE,United States,Wisconsin,55,Wood,141
+VILE,United States,Wyoming,56,,
+VILE,United States,Wyoming,56,Crook,011
+VILE,United States,Wyoming,56,Johnson,019
+VILE,United States,Wyoming,56,Sheridan,033

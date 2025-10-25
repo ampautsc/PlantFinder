@@ -1,0 +1,263 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+GAHI2,Canada,Alberta,01,,
+GAHI2,Canada,British Columbia,02,,
+GAHI2,Canada,Manitoba,03,,
+GAHI2,Canada,New Brunswick,04,,
+GAHI2,Canada,Nova Scotia,07,,
+GAHI2,Canada,Ontario,08,,
+GAHI2,Canada,Prince Edward Island,09,,
+GAHI2,United States,Connecticut,09,,
+GAHI2,United States,Connecticut,09,Fairfield,001
+GAHI2,United States,Connecticut,09,Hartford,003
+GAHI2,United States,Connecticut,09,Litchfield,005
+GAHI2,United States,Connecticut,09,New Haven,009
+GAHI2,United States,Connecticut,09,Tolland,013
+GAHI2,United States,Connecticut,09,Windham,015
+GAHI2,Canada,Quebec,10,,
+GAHI2,Canada,Saskatchewan,11,,
+GAHI2,Canada,Nunavut,14,,
+GAHI2,United States,Idaho,16,,
+GAHI2,United States,Idaho,16,Bonner,017
+GAHI2,United States,Idaho,16,Boundary,021
+GAHI2,United States,Maine,23,,
+GAHI2,United States,Maine,23,Androscoggin,001
+GAHI2,United States,Maine,23,Aroostook,003
+GAHI2,United States,Maine,23,Cumberland,005
+GAHI2,United States,Maine,23,Franklin,007
+GAHI2,United States,Maine,23,Hancock,009
+GAHI2,United States,Maine,23,Kennebec,011
+GAHI2,United States,Maine,23,Knox,013
+GAHI2,United States,Maine,23,Lincoln,015
+GAHI2,United States,Maine,23,Oxford,017
+GAHI2,United States,Maine,23,Penobscot,019
+GAHI2,United States,Maine,23,Piscataquis,021
+GAHI2,United States,Maine,23,Somerset,025
+GAHI2,United States,Maine,23,Waldo,027
+GAHI2,United States,Maine,23,Washington,029
+GAHI2,United States,Maine,23,York,031
+GAHI2,United States,Maryland,24,,
+GAHI2,United States,Maryland,24,Garrett,023
+GAHI2,United States,Massachusetts,25,,
+GAHI2,United States,Massachusetts,25,Berkshire,003
+GAHI2,United States,Massachusetts,25,Bristol,005
+GAHI2,United States,Massachusetts,25,Essex,009
+GAHI2,United States,Massachusetts,25,Franklin,011
+GAHI2,United States,Massachusetts,25,Hampden,013
+GAHI2,United States,Massachusetts,25,Hampshire,015
+GAHI2,United States,Massachusetts,25,Middlesex,017
+GAHI2,United States,Massachusetts,25,Nantucket,019
+GAHI2,United States,Massachusetts,25,Norfolk,021
+GAHI2,United States,Massachusetts,25,Plymouth,023
+GAHI2,United States,Massachusetts,25,Worcester,027
+GAHI2,United States,Michigan,26,,
+GAHI2,United States,Michigan,26,Alcona,001
+GAHI2,United States,Michigan,26,Alger,003
+GAHI2,United States,Michigan,26,Antrim,009
+GAHI2,United States,Michigan,26,Arenac,011
+GAHI2,United States,Michigan,26,Baraga,013
+GAHI2,United States,Michigan,26,Bay,017
+GAHI2,United States,Michigan,26,Benzie,019
+GAHI2,United States,Michigan,26,Charlevoix,029
+GAHI2,United States,Michigan,26,Cheboygan,031
+GAHI2,United States,Michigan,26,Chippewa,033
+GAHI2,United States,Michigan,26,Clare,035
+GAHI2,United States,Michigan,26,Crawford,039
+GAHI2,United States,Michigan,26,Delta,041
+GAHI2,United States,Michigan,26,Dickinson,043
+GAHI2,United States,Michigan,26,Emmet,047
+GAHI2,United States,Michigan,26,Gogebic,053
+GAHI2,United States,Michigan,26,Grand Traverse,055
+GAHI2,United States,Michigan,26,Gratiot,057
+GAHI2,United States,Michigan,26,Houghton,061
+GAHI2,United States,Michigan,26,Ingham,065
+GAHI2,United States,Michigan,26,Ionia,067
+GAHI2,United States,Michigan,26,Iosco,069
+GAHI2,United States,Michigan,26,Iron,071
+GAHI2,United States,Michigan,26,Kalkaska,079
+GAHI2,United States,Michigan,26,Keweenaw,083
+GAHI2,United States,Michigan,26,Leelanau,089
+GAHI2,United States,Michigan,26,Luce,095
+GAHI2,United States,Michigan,26,Mackinac,097
+GAHI2,United States,Michigan,26,Macomb,099
+GAHI2,United States,Michigan,26,Manistee,101
+GAHI2,United States,Michigan,26,Marquette,103
+GAHI2,United States,Michigan,26,Mason,105
+GAHI2,United States,Michigan,26,Menominee,109
+GAHI2,United States,Michigan,26,Missaukee,113
+GAHI2,United States,Michigan,26,Montcalm,117
+GAHI2,United States,Michigan,26,Montmorency,119
+GAHI2,United States,Michigan,26,Oakland,125
+GAHI2,United States,Michigan,26,Ogemaw,129
+GAHI2,United States,Michigan,26,Ontonagon,131
+GAHI2,United States,Michigan,26,Oscoda,135
+GAHI2,United States,Michigan,26,Otsego,137
+GAHI2,United States,Michigan,26,Ottawa,139
+GAHI2,United States,Michigan,26,Presque Isle,141
+GAHI2,United States,Michigan,26,Roscommon,143
+GAHI2,United States,Michigan,26,Schoolcraft,153
+GAHI2,United States,Michigan,26,St. Clair,147
+GAHI2,United States,Michigan,26,St. Joseph,149
+GAHI2,United States,Michigan,26,Washtenaw,161
+GAHI2,United States,Minnesota,27,,
+GAHI2,United States,Minnesota,27,Aitkin,001
+GAHI2,United States,Minnesota,27,Anoka,003
+GAHI2,United States,Minnesota,27,Beltrami,007
+GAHI2,United States,Minnesota,27,Carlton,017
+GAHI2,United States,Minnesota,27,Cass,021
+GAHI2,United States,Minnesota,27,Chisago,025
+GAHI2,United States,Minnesota,27,Clearwater,029
+GAHI2,United States,Minnesota,27,Cook,031
+GAHI2,United States,Minnesota,27,Hubbard,057
+GAHI2,United States,Minnesota,27,Isanti,059
+GAHI2,United States,Minnesota,27,Itasca,061
+GAHI2,United States,Minnesota,27,Koochiching,071
+GAHI2,United States,Minnesota,27,Lake,075
+GAHI2,United States,Minnesota,27,Lake of the Woods,077
+GAHI2,United States,Minnesota,27,Marshall,089
+GAHI2,United States,Minnesota,27,Pine,115
+GAHI2,United States,Minnesota,27,St. Louis,137
+GAHI2,United States,New Hampshire,33,,
+GAHI2,United States,New Hampshire,33,Belknap,001
+GAHI2,United States,New Hampshire,33,Carroll,003
+GAHI2,United States,New Hampshire,33,Cheshire,005
+GAHI2,United States,New Hampshire,33,Coos,007
+GAHI2,United States,New Hampshire,33,Grafton,009
+GAHI2,United States,New Hampshire,33,Hillsborough,011
+GAHI2,United States,New Hampshire,33,Merrimack,013
+GAHI2,United States,New Hampshire,33,Rockingham,015
+GAHI2,United States,New Hampshire,33,Strafford,017
+GAHI2,United States,New Hampshire,33,Sullivan,019
+GAHI2,United States,New Jersey,34,,
+GAHI2,United States,New Jersey,34,Bergen,003
+GAHI2,United States,New Jersey,34,Hudson,017
+GAHI2,United States,New Jersey,34,Passaic,031
+GAHI2,United States,New Jersey,34,Sussex,037
+GAHI2,United States,New York,36,,
+GAHI2,United States,New York,36,Albany,001
+GAHI2,United States,New York,36,Broome,007
+GAHI2,United States,New York,36,Cattaraugus,009
+GAHI2,United States,New York,36,Cayuga,011
+GAHI2,United States,New York,36,Chenango,017
+GAHI2,United States,New York,36,Clinton,019
+GAHI2,United States,New York,36,Columbia,021
+GAHI2,United States,New York,36,Cortland,023
+GAHI2,United States,New York,36,Delaware,025
+GAHI2,United States,New York,36,Erie,029
+GAHI2,United States,New York,36,Essex,031
+GAHI2,United States,New York,36,Franklin,033
+GAHI2,United States,New York,36,Fulton,035
+GAHI2,United States,New York,36,Genesee,037
+GAHI2,United States,New York,36,Greene,039
+GAHI2,United States,New York,36,Hamilton,041
+GAHI2,United States,New York,36,Herkimer,043
+GAHI2,United States,New York,36,Lewis,049
+GAHI2,United States,New York,36,Madison,053
+GAHI2,United States,New York,36,New York,061
+GAHI2,United States,New York,36,Oneida,065
+GAHI2,United States,New York,36,Onondaga,067
+GAHI2,United States,New York,36,Orange,071
+GAHI2,United States,New York,36,Oswego,075
+GAHI2,United States,New York,36,Richmond,085
+GAHI2,United States,New York,36,Saratoga,091
+GAHI2,United States,New York,36,St. Lawrence,089
+GAHI2,United States,New York,36,Steuben,101
+GAHI2,United States,New York,36,Suffolk,103
+GAHI2,United States,New York,36,Sullivan,105
+GAHI2,United States,New York,36,Tioga,107
+GAHI2,United States,New York,36,Tompkins,109
+GAHI2,United States,New York,36,Ulster,111
+GAHI2,United States,New York,36,Warren,113
+GAHI2,United States,New York,36,Washington,115
+GAHI2,United States,New York,36,Wayne,117
+GAHI2,United States,New York,36,Westchester,119
+GAHI2,United States,New York,36,Yates,123
+GAHI2,United States,Ohio,39,,
+GAHI2,United States,Ohio,39,Ashtabula,007
+GAHI2,United States,Ohio,39,Lake,085
+GAHI2,United States,Ohio,39,Stark,151
+GAHI2,United States,Ohio,39,Summit,153
+GAHI2,United States,Pennsylvania,42,,
+GAHI2,United States,Pennsylvania,42,Clearfield,033
+GAHI2,United States,Pennsylvania,42,Clinton,035
+GAHI2,United States,Pennsylvania,42,Elk,047
+GAHI2,United States,Pennsylvania,42,Erie,049
+GAHI2,United States,Pennsylvania,42,Lackawanna,069
+GAHI2,United States,Pennsylvania,42,Luzerne,079
+GAHI2,United States,Pennsylvania,42,Lycoming,081
+GAHI2,United States,Pennsylvania,42,McKean,083
+GAHI2,United States,Pennsylvania,42,Monroe,089
+GAHI2,United States,Pennsylvania,42,Pike,103
+GAHI2,United States,Pennsylvania,42,Potter,105
+GAHI2,United States,Pennsylvania,42,Sullivan,113
+GAHI2,United States,Pennsylvania,42,Susquehanna,115
+GAHI2,United States,Pennsylvania,42,Tioga,117
+GAHI2,United States,Pennsylvania,42,Warren,123
+GAHI2,United States,Pennsylvania,42,Wayne,127
+GAHI2,United States,Pennsylvania,42,Wyoming,131
+GAHI2,United States,Rhode Island,44,,
+GAHI2,United States,Rhode Island,44,Providence,007
+GAHI2,United States,Vermont,50,,
+GAHI2,United States,Vermont,50,Addison,001
+GAHI2,United States,Vermont,50,Bennington,003
+GAHI2,United States,Vermont,50,Caledonia,005
+GAHI2,United States,Vermont,50,Chittenden,007
+GAHI2,United States,Vermont,50,Essex,009
+GAHI2,United States,Vermont,50,Franklin,011
+GAHI2,United States,Vermont,50,Lamoille,015
+GAHI2,United States,Vermont,50,Orange,017
+GAHI2,United States,Vermont,50,Orleans,019
+GAHI2,United States,Vermont,50,Rutland,021
+GAHI2,United States,Vermont,50,Washington,023
+GAHI2,United States,Vermont,50,Windham,025
+GAHI2,United States,Vermont,50,Windsor,027
+GAHI2,United States,Washington,53,,
+GAHI2,United States,Washington,53,Pend Oreille,051
+GAHI2,United States,West Virginia,54,,
+GAHI2,United States,West Virginia,54,Grant,023
+GAHI2,United States,West Virginia,54,Mineral,057
+GAHI2,United States,West Virginia,54,Pendleton,071
+GAHI2,United States,West Virginia,54,Pocahontas,075
+GAHI2,United States,West Virginia,54,Preston,077
+GAHI2,United States,West Virginia,54,Randolph,083
+GAHI2,United States,West Virginia,54,Tucker,093
+GAHI2,United States,Wisconsin,55,,
+GAHI2,United States,Wisconsin,55,Ashland,003
+GAHI2,United States,Wisconsin,55,Barron,005
+GAHI2,United States,Wisconsin,55,Bayfield,007
+GAHI2,United States,Wisconsin,55,Brown,009
+GAHI2,United States,Wisconsin,55,Burnett,013
+GAHI2,United States,Wisconsin,55,Clark,019
+GAHI2,United States,Wisconsin,55,Door,029
+GAHI2,United States,Wisconsin,55,Douglas,031
+GAHI2,United States,Wisconsin,55,Florence,037
+GAHI2,United States,Wisconsin,55,Fond du Lac,039
+GAHI2,United States,Wisconsin,55,Forest,041
+GAHI2,United States,Wisconsin,55,Iron,051
+GAHI2,United States,Wisconsin,55,Jackson,053
+GAHI2,United States,Wisconsin,55,Jefferson,055
+GAHI2,United States,Wisconsin,55,Kewaunee,061
+GAHI2,United States,Wisconsin,55,Langlade,067
+GAHI2,United States,Wisconsin,55,Lincoln,069
+GAHI2,United States,Wisconsin,55,Manitowoc,071
+GAHI2,United States,Wisconsin,55,Marathon,073
+GAHI2,United States,Wisconsin,55,Marinette,075
+GAHI2,United States,Wisconsin,55,Menominee,078
+GAHI2,United States,Wisconsin,55,Milwaukee,079
+GAHI2,United States,Wisconsin,55,Oconto,083
+GAHI2,United States,Wisconsin,55,Oneida,085
+GAHI2,United States,Wisconsin,55,Outagamie,087
+GAHI2,United States,Wisconsin,55,Polk,095
+GAHI2,United States,Wisconsin,55,Portage,097
+GAHI2,United States,Wisconsin,55,Price,099
+GAHI2,United States,Wisconsin,55,Rusk,107
+GAHI2,United States,Wisconsin,55,Sawyer,113
+GAHI2,United States,Wisconsin,55,Sheboygan,117
+GAHI2,United States,Wisconsin,55,Taylor,119
+GAHI2,United States,Wisconsin,55,Vilas,125
+GAHI2,United States,Wisconsin,55,Walworth,127
+GAHI2,United States,Wisconsin,55,Washburn,129
+GAHI2,United States,Wisconsin,55,Waupaca,135
+GAHI2,United States,Wisconsin,55,Wood,141
+GAHI2,Canada,Labrador,LB,,
+GAHI2,Canada,Newfoundland,NF,,

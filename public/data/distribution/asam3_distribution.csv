@@ -1,0 +1,36 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ASAM3,Canada,Alberta,01,,
+ASAM3,Canada,British Columbia,02,,
+ASAM3,United States,Alaska,02,,
+ASAM3,United States,Alaska,02,Chugach,063
+ASAM3,United States,Alaska,02,Copper River,066
+ASAM3,United States,Alaska,02,Matanuska-Susitna,170
+ASAM3,United States,Alaska,02,Southeast Fairbanks,240
+ASAM3,Canada,Manitoba,03,,
+ASAM3,Canada,Ontario,08,,
+ASAM3,United States,Colorado,08,,
+ASAM3,Canada,Quebec,10,,
+ASAM3,Canada,Saskatchewan,11,,
+ASAM3,Canada,Yukon,12,,
+ASAM3,Canada,Northwest Territories,13,,
+ASAM3,United States,Montana,30,,
+ASAM3,United States,Montana,30,Cascade,013
+ASAM3,United States,Montana,30,Fergus,027
+ASAM3,United States,Montana,30,Flathead,029
+ASAM3,United States,Montana,30,Gallatin,031
+ASAM3,United States,Montana,30,Jefferson,043
+ASAM3,United States,Montana,30,Madison,057
+ASAM3,United States,Montana,30,Park,067
+ASAM3,United States,Montana,30,Phillips,071
+ASAM3,United States,Montana,30,Roosevelt,085
+ASAM3,United States,Montana,30,Stillwater,095
+ASAM3,United States,South Dakota,46,,
+ASAM3,United States,South Dakota,46,Lawrence,081
+ASAM3,United States,South Dakota,46,Pennington,103
+ASAM3,United States,Wyoming,56,,
+ASAM3,United States,Wyoming,56,Big Horn,003
+ASAM3,United States,Wyoming,56,Johnson,019
+ASAM3,United States,Wyoming,56,Park,029
+ASAM3,United States,Wyoming,56,Sheridan,033
+ASAM3,United States,Wyoming,56,Washakie,043

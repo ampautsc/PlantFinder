@@ -1,0 +1,506 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ASSP,Canada,Alberta,01,,
+ASSP,Canada,British Columbia,02,,
+ASSP,Canada,Manitoba,03,,
+ASSP,United States,Arizona,04,,
+ASSP,United States,Arizona,04,Apache,001
+ASSP,United States,Arizona,04,Coconino,005
+ASSP,United States,Arizona,04,Greenlee,011
+ASSP,United States,Arizona,04,Navajo,017
+ASSP,United States,California,06,,
+ASSP,United States,California,06,Alpine,003
+ASSP,United States,California,06,Amador,005
+ASSP,United States,California,06,Butte,007
+ASSP,United States,California,06,Calaveras,009
+ASSP,United States,California,06,Colusa,011
+ASSP,United States,California,06,El Dorado,017
+ASSP,United States,California,06,Fresno,019
+ASSP,United States,California,06,Glenn,021
+ASSP,United States,California,06,Humboldt,023
+ASSP,United States,California,06,Inyo,027
+ASSP,United States,California,06,Lake,033
+ASSP,United States,California,06,Lassen,035
+ASSP,United States,California,06,Marin,041
+ASSP,United States,California,06,Mariposa,043
+ASSP,United States,California,06,Mendocino,045
+ASSP,United States,California,06,Mono,051
+ASSP,United States,California,06,Nevada,057
+ASSP,United States,California,06,Placer,061
+ASSP,United States,California,06,Plumas,063
+ASSP,United States,California,06,Shasta,089
+ASSP,United States,California,06,Sierra,091
+ASSP,United States,California,06,Siskiyou,093
+ASSP,United States,California,06,Solano,095
+ASSP,United States,California,06,Sonoma,097
+ASSP,United States,California,06,Tehama,103
+ASSP,United States,California,06,Trinity,105
+ASSP,United States,California,06,Tuolumne,109
+ASSP,United States,California,06,Yolo,113
+ASSP,United States,Colorado,08,,
+ASSP,United States,Colorado,08,Adams,001
+ASSP,United States,Colorado,08,Alamosa,003
+ASSP,United States,Colorado,08,Archuleta,007
+ASSP,United States,Colorado,08,Bent,011
+ASSP,United States,Colorado,08,Boulder,013
+ASSP,United States,Colorado,08,Cheyenne,017
+ASSP,United States,Colorado,08,Conejos,021
+ASSP,United States,Colorado,08,Crowley,025
+ASSP,United States,Colorado,08,El Paso,041
+ASSP,United States,Colorado,08,Elbert,039
+ASSP,United States,Colorado,08,Fremont,043
+ASSP,United States,Colorado,08,Gilpin,047
+ASSP,United States,Colorado,08,Gunnison,051
+ASSP,United States,Colorado,08,Huerfano,055
+ASSP,United States,Colorado,08,Jefferson,059
+ASSP,United States,Colorado,08,Kiowa,061
+ASSP,United States,Colorado,08,Kit Carson,063
+ASSP,United States,Colorado,08,La Plata,067
+ASSP,United States,Colorado,08,Larimer,069
+ASSP,United States,Colorado,08,Las Animas,071
+ASSP,United States,Colorado,08,Lincoln,073
+ASSP,United States,Colorado,08,Logan,075
+ASSP,United States,Colorado,08,Mesa,077
+ASSP,United States,Colorado,08,Mineral,079
+ASSP,United States,Colorado,08,Moffat,081
+ASSP,United States,Colorado,08,Montezuma,083
+ASSP,United States,Colorado,08,Montrose,085
+ASSP,United States,Colorado,08,Otero,089
+ASSP,United States,Colorado,08,Phillips,095
+ASSP,United States,Colorado,08,Pitkin,097
+ASSP,United States,Colorado,08,Prowers,099
+ASSP,United States,Colorado,08,Pueblo,101
+ASSP,United States,Colorado,08,Rio Blanco,103
+ASSP,United States,Colorado,08,Routt,107
+ASSP,United States,Colorado,08,Sedgwick,115
+ASSP,United States,Colorado,08,Washington,121
+ASSP,United States,Colorado,08,Weld,123
+ASSP,United States,Colorado,08,Yuma,125
+ASSP,Canada,Saskatchewan,11,,
+ASSP,United States,Idaho,16,,
+ASSP,United States,Idaho,16,Ada,001
+ASSP,United States,Idaho,16,Adams,003
+ASSP,United States,Idaho,16,Bannock,005
+ASSP,United States,Idaho,16,Bear Lake,007
+ASSP,United States,Idaho,16,Bingham,011
+ASSP,United States,Idaho,16,Butte,023
+ASSP,United States,Idaho,16,Canyon,027
+ASSP,United States,Idaho,16,Cassia,031
+ASSP,United States,Idaho,16,Clearwater,035
+ASSP,United States,Idaho,16,Custer,037
+ASSP,United States,Idaho,16,Elmore,039
+ASSP,United States,Idaho,16,Franklin,041
+ASSP,United States,Idaho,16,Fremont,043
+ASSP,United States,Idaho,16,Gem,045
+ASSP,United States,Idaho,16,Gooding,047
+ASSP,United States,Idaho,16,Idaho,049
+ASSP,United States,Idaho,16,Jefferson,051
+ASSP,United States,Idaho,16,Kootenai,055
+ASSP,United States,Idaho,16,Latah,057
+ASSP,United States,Idaho,16,Lemhi,059
+ASSP,United States,Idaho,16,Madison,065
+ASSP,United States,Idaho,16,Nez Perce,069
+ASSP,United States,Idaho,16,Owyhee,073
+ASSP,United States,Idaho,16,Payette,075
+ASSP,United States,Idaho,16,Power,077
+ASSP,United States,Idaho,16,Twin Falls,083
+ASSP,United States,Idaho,16,Valley,085
+ASSP,United States,Idaho,16,Washington,087
+ASSP,United States,Illinois,17,,
+ASSP,United States,Illinois,17,Cook,031
+ASSP,United States,Iowa,19,,
+ASSP,United States,Iowa,19,Clay,041
+ASSP,United States,Iowa,19,Emmet,063
+ASSP,United States,Iowa,19,Lyon,119
+ASSP,United States,Iowa,19,Palo Alto,147
+ASSP,United States,Kansas,20,,
+ASSP,United States,Kansas,20,Barber,007
+ASSP,United States,Kansas,20,Barton,009
+ASSP,United States,Kansas,20,Cheyenne,023
+ASSP,United States,Kansas,20,Clark,025
+ASSP,United States,Kansas,20,Clay,027
+ASSP,United States,Kansas,20,Cloud,029
+ASSP,United States,Kansas,20,Comanche,033
+ASSP,United States,Kansas,20,Decatur,039
+ASSP,United States,Kansas,20,Dickinson,041
+ASSP,United States,Kansas,20,Edwards,047
+ASSP,United States,Kansas,20,Ellis,051
+ASSP,United States,Kansas,20,Ellsworth,053
+ASSP,United States,Kansas,20,Finney,055
+ASSP,United States,Kansas,20,Ford,057
+ASSP,United States,Kansas,20,Geary,061
+ASSP,United States,Kansas,20,Gove,063
+ASSP,United States,Kansas,20,Graham,065
+ASSP,United States,Kansas,20,Grant,067
+ASSP,United States,Kansas,20,Gray,069
+ASSP,United States,Kansas,20,Hamilton,075
+ASSP,United States,Kansas,20,Harper,077
+ASSP,United States,Kansas,20,Harvey,079
+ASSP,United States,Kansas,20,Hodgeman,083
+ASSP,United States,Kansas,20,Kearny,093
+ASSP,United States,Kansas,20,Kingman,095
+ASSP,United States,Kansas,20,Kiowa,097
+ASSP,United States,Kansas,20,Logan,109
+ASSP,United States,Kansas,20,McPherson,113
+ASSP,United States,Kansas,20,Meade,119
+ASSP,United States,Kansas,20,Morton,129
+ASSP,United States,Kansas,20,Norton,137
+ASSP,United States,Kansas,20,Osborne,141
+ASSP,United States,Kansas,20,Ottawa,143
+ASSP,United States,Kansas,20,Pawnee,145
+ASSP,United States,Kansas,20,Pottawatomie,149
+ASSP,United States,Kansas,20,Pratt,151
+ASSP,United States,Kansas,20,Rawlins,153
+ASSP,United States,Kansas,20,Reno,155
+ASSP,United States,Kansas,20,Republic,157
+ASSP,United States,Kansas,20,Rice,159
+ASSP,United States,Kansas,20,Riley,161
+ASSP,United States,Kansas,20,Rooks,163
+ASSP,United States,Kansas,20,Rush,165
+ASSP,United States,Kansas,20,Russell,167
+ASSP,United States,Kansas,20,Saline,169
+ASSP,United States,Kansas,20,Scott,171
+ASSP,United States,Kansas,20,Sedgwick,173
+ASSP,United States,Kansas,20,Seward,175
+ASSP,United States,Kansas,20,Sheridan,179
+ASSP,United States,Kansas,20,Sherman,181
+ASSP,United States,Kansas,20,Stafford,185
+ASSP,United States,Kansas,20,Stanton,187
+ASSP,United States,Kansas,20,Thomas,193
+ASSP,United States,Kansas,20,Trego,195
+ASSP,United States,Kansas,20,Wallace,199
+ASSP,United States,Michigan,26,,
+ASSP,United States,Michigan,26,Mackinac,097
+ASSP,United States,Minnesota,27,,
+ASSP,United States,Minnesota,27,Anoka,003
+ASSP,United States,Minnesota,27,Becker,005
+ASSP,United States,Minnesota,27,Big Stone,011
+ASSP,United States,Minnesota,27,Cass,021
+ASSP,United States,Minnesota,27,Chippewa,023
+ASSP,United States,Minnesota,27,Clay,027
+ASSP,United States,Minnesota,27,Clearwater,029
+ASSP,United States,Minnesota,27,Cottonwood,033
+ASSP,United States,Minnesota,27,Crow Wing,035
+ASSP,United States,Minnesota,27,Dakota,037
+ASSP,United States,Minnesota,27,Douglas,041
+ASSP,United States,Minnesota,27,Goodhue,049
+ASSP,United States,Minnesota,27,Grant,051
+ASSP,United States,Minnesota,27,Hennepin,053
+ASSP,United States,Minnesota,27,Houston,055
+ASSP,United States,Minnesota,27,Isanti,059
+ASSP,United States,Minnesota,27,Itasca,061
+ASSP,United States,Minnesota,27,Jackson,063
+ASSP,United States,Minnesota,27,Kandiyohi,067
+ASSP,United States,Minnesota,27,Kittson,069
+ASSP,United States,Minnesota,27,Lac qui Parle,073
+ASSP,United States,Minnesota,27,Lake of the Woods,077
+ASSP,United States,Minnesota,27,Lincoln,081
+ASSP,United States,Minnesota,27,Lyon,083
+ASSP,United States,Minnesota,27,Mahnomen,087
+ASSP,United States,Minnesota,27,McLeod,085
+ASSP,United States,Minnesota,27,Morrison,097
+ASSP,United States,Minnesota,27,Mower,099
+ASSP,United States,Minnesota,27,Nobles,105
+ASSP,United States,Minnesota,27,Norman,107
+ASSP,United States,Minnesota,27,Otter Tail,111
+ASSP,United States,Minnesota,27,Pennington,113
+ASSP,United States,Minnesota,27,Pine,115
+ASSP,United States,Minnesota,27,Pipestone,117
+ASSP,United States,Minnesota,27,Polk,119
+ASSP,United States,Minnesota,27,Pope,121
+ASSP,United States,Minnesota,27,Rice,131
+ASSP,United States,Minnesota,27,Scott,139
+ASSP,United States,Minnesota,27,Sherburne,141
+ASSP,United States,Minnesota,27,St. Louis,137
+ASSP,United States,Minnesota,27,Stearns,145
+ASSP,United States,Minnesota,27,Swift,151
+ASSP,United States,Minnesota,27,Traverse,155
+ASSP,United States,Minnesota,27,Wabasha,157
+ASSP,United States,Minnesota,27,Washington,163
+ASSP,United States,Minnesota,27,Wilkin,167
+ASSP,United States,Minnesota,27,Winona,169
+ASSP,United States,Minnesota,27,Wright,171
+ASSP,United States,Minnesota,27,Yellow Medicine,173
+ASSP,United States,Montana,30,,
+ASSP,United States,Montana,30,Big Horn,003
+ASSP,United States,Montana,30,Blaine,005
+ASSP,United States,Montana,30,Carbon,009
+ASSP,United States,Montana,30,Carter,011
+ASSP,United States,Montana,30,Cascade,013
+ASSP,United States,Montana,30,Custer,017
+ASSP,United States,Montana,30,Daniels,019
+ASSP,United States,Montana,30,Fallon,025
+ASSP,United States,Montana,30,Gallatin,031
+ASSP,United States,Montana,30,Garfield,033
+ASSP,United States,Montana,30,Lewis and Clark,049
+ASSP,United States,Montana,30,Lincoln,053
+ASSP,United States,Montana,30,McCone,055
+ASSP,United States,Montana,30,Musselshell,065
+ASSP,United States,Montana,30,Park,067
+ASSP,United States,Montana,30,Petroleum,069
+ASSP,United States,Montana,30,Phillips,071
+ASSP,United States,Montana,30,Powder River,075
+ASSP,United States,Montana,30,Prairie,079
+ASSP,United States,Montana,30,Richland,083
+ASSP,United States,Montana,30,Roosevelt,085
+ASSP,United States,Montana,30,Rosebud,087
+ASSP,United States,Montana,30,Sheridan,091
+ASSP,United States,Montana,30,Stillwater,095
+ASSP,United States,Montana,30,Sweet Grass,097
+ASSP,United States,Montana,30,Teton,099
+ASSP,United States,Montana,30,Treasure,103
+ASSP,United States,Montana,30,Valley,105
+ASSP,United States,Montana,30,Wibaux,109
+ASSP,United States,Montana,30,Yellowstone,111
+ASSP,United States,Nebraska,31,,
+ASSP,United States,Nebraska,31,Arthur,005
+ASSP,United States,Nebraska,31,Banner,007
+ASSP,United States,Nebraska,31,Box Butte,013
+ASSP,United States,Nebraska,31,Buffalo,019
+ASSP,United States,Nebraska,31,Chase,029
+ASSP,United States,Nebraska,31,Cherry,031
+ASSP,United States,Nebraska,31,Cheyenne,033
+ASSP,United States,Nebraska,31,Custer,041
+ASSP,United States,Nebraska,31,Dawes,045
+ASSP,United States,Nebraska,31,Dawson,047
+ASSP,United States,Nebraska,31,Deuel,049
+ASSP,United States,Nebraska,31,Dundy,057
+ASSP,United States,Nebraska,31,Franklin,061
+ASSP,United States,Nebraska,31,Furnas,065
+ASSP,United States,Nebraska,31,Garden,069
+ASSP,United States,Nebraska,31,Grant,075
+ASSP,United States,Nebraska,31,Hall,079
+ASSP,United States,Nebraska,31,Hayes,085
+ASSP,United States,Nebraska,31,Kearney,099
+ASSP,United States,Nebraska,31,Keith,101
+ASSP,United States,Nebraska,31,Keya Paha,103
+ASSP,United States,Nebraska,31,Kimball,105
+ASSP,United States,Nebraska,31,Lancaster,109
+ASSP,United States,Nebraska,31,Lincoln,111
+ASSP,United States,Nebraska,31,Logan,113
+ASSP,United States,Nebraska,31,McPherson,117
+ASSP,United States,Nebraska,31,Morrill,123
+ASSP,United States,Nebraska,31,Perkins,135
+ASSP,United States,Nebraska,31,Phelps,137
+ASSP,United States,Nebraska,31,Platte,141
+ASSP,United States,Nebraska,31,Red Willow,145
+ASSP,United States,Nebraska,31,Scotts Bluff,157
+ASSP,United States,Nebraska,31,Sheridan,161
+ASSP,United States,Nebraska,31,Sioux,165
+ASSP,United States,Nebraska,31,Thomas,171
+ASSP,United States,Nevada,32,,
+ASSP,United States,Nevada,32,Carson City,510
+ASSP,United States,Nevada,32,Churchill,001
+ASSP,United States,Nevada,32,Clark,003
+ASSP,United States,Nevada,32,Douglas,005
+ASSP,United States,Nevada,32,Elko,007
+ASSP,United States,Nevada,32,Eureka,011
+ASSP,United States,Nevada,32,Humboldt,013
+ASSP,United States,Nevada,32,Lander,015
+ASSP,United States,Nevada,32,Lincoln,017
+ASSP,United States,Nevada,32,Lyon,019
+ASSP,United States,Nevada,32,Mineral,021
+ASSP,United States,Nevada,32,Nye,023
+ASSP,United States,Nevada,32,Pershing,027
+ASSP,United States,Nevada,32,Storey,029
+ASSP,United States,Nevada,32,Washoe,031
+ASSP,United States,Nevada,32,White Pine,033
+ASSP,United States,New Mexico,35,,
+ASSP,United States,New Mexico,35,Bernalillo,001
+ASSP,United States,New Mexico,35,Chaves,005
+ASSP,United States,New Mexico,35,Colfax,007
+ASSP,United States,New Mexico,35,Guadalupe,019
+ASSP,United States,New Mexico,35,Lincoln,027
+ASSP,United States,New Mexico,35,Los Alamos,028
+ASSP,United States,New Mexico,35,McKinley,031
+ASSP,United States,New Mexico,35,Mora,033
+ASSP,United States,New Mexico,35,Rio Arriba,039
+ASSP,United States,New Mexico,35,San Juan,045
+ASSP,United States,New Mexico,35,San Miguel,047
+ASSP,United States,New Mexico,35,Sandoval,043
+ASSP,United States,New Mexico,35,Santa Fe,049
+ASSP,United States,New Mexico,35,Socorro,053
+ASSP,United States,New Mexico,35,Taos,055
+ASSP,United States,New Mexico,35,Union,059
+ASSP,United States,North Dakota,38,,
+ASSP,United States,North Dakota,38,Barnes,003
+ASSP,United States,North Dakota,38,Benson,005
+ASSP,United States,North Dakota,38,Billings,007
+ASSP,United States,North Dakota,38,Bottineau,009
+ASSP,United States,North Dakota,38,Bowman,011
+ASSP,United States,North Dakota,38,Burke,013
+ASSP,United States,North Dakota,38,Cass,017
+ASSP,United States,North Dakota,38,Dickey,021
+ASSP,United States,North Dakota,38,Divide,023
+ASSP,United States,North Dakota,38,Dunn,025
+ASSP,United States,North Dakota,38,Eddy,027
+ASSP,United States,North Dakota,38,Foster,031
+ASSP,United States,North Dakota,38,Golden Valley,033
+ASSP,United States,North Dakota,38,Grand Forks,035
+ASSP,United States,North Dakota,38,Grant,037
+ASSP,United States,North Dakota,38,Griggs,039
+ASSP,United States,North Dakota,38,Kidder,043
+ASSP,United States,North Dakota,38,LaMoure,045
+ASSP,United States,North Dakota,38,McIntosh,051
+ASSP,United States,North Dakota,38,McKenzie,053
+ASSP,United States,North Dakota,38,Morton,059
+ASSP,United States,North Dakota,38,Mountrail,061
+ASSP,United States,North Dakota,38,Pembina,067
+ASSP,United States,North Dakota,38,Ramsey,071
+ASSP,United States,North Dakota,38,Ransom,073
+ASSP,United States,North Dakota,38,Richland,077
+ASSP,United States,North Dakota,38,Rolette,079
+ASSP,United States,North Dakota,38,Sargent,081
+ASSP,United States,North Dakota,38,Sheridan,083
+ASSP,United States,North Dakota,38,Sioux,085
+ASSP,United States,North Dakota,38,Slope,087
+ASSP,United States,North Dakota,38,Stark,089
+ASSP,United States,North Dakota,38,Stutsman,093
+ASSP,United States,North Dakota,38,Walsh,099
+ASSP,United States,North Dakota,38,Ward,101
+ASSP,United States,North Dakota,38,Williams,105
+ASSP,United States,Oklahoma,40,,
+ASSP,United States,Oklahoma,40,Alfalfa,003
+ASSP,United States,Oklahoma,40,Beckham,009
+ASSP,United States,Oklahoma,40,Garfield,047
+ASSP,United States,Oklahoma,40,Harper,059
+ASSP,United States,Oklahoma,40,Kingfisher,073
+ASSP,United States,Oklahoma,40,Major,093
+ASSP,United States,Oklahoma,40,McClain,087
+ASSP,United States,Oklahoma,40,Oklahoma,109
+ASSP,United States,Oklahoma,40,Washita,149
+ASSP,United States,Oklahoma,40,Woods,151
+ASSP,United States,Oklahoma,40,Woodward,153
+ASSP,United States,Oregon,41,,
+ASSP,United States,Oregon,41,Baker,001
+ASSP,United States,Oregon,41,Benton,003
+ASSP,United States,Oregon,41,Crook,013
+ASSP,United States,Oregon,41,Curry,015
+ASSP,United States,Oregon,41,Deschutes,017
+ASSP,United States,Oregon,41,Douglas,019
+ASSP,United States,Oregon,41,Gilliam,021
+ASSP,United States,Oregon,41,Grant,023
+ASSP,United States,Oregon,41,Harney,025
+ASSP,United States,Oregon,41,Hood River,027
+ASSP,United States,Oregon,41,Jackson,029
+ASSP,United States,Oregon,41,Jefferson,031
+ASSP,United States,Oregon,41,Josephine,033
+ASSP,United States,Oregon,41,Klamath,035
+ASSP,United States,Oregon,41,Lake,037
+ASSP,United States,Oregon,41,Lane,039
+ASSP,United States,Oregon,41,Linn,043
+ASSP,United States,Oregon,41,Malheur,045
+ASSP,United States,Oregon,41,Morrow,049
+ASSP,United States,Oregon,41,Polk,053
+ASSP,United States,Oregon,41,Sherman,055
+ASSP,United States,Oregon,41,Umatilla,059
+ASSP,United States,Oregon,41,Wallowa,063
+ASSP,United States,Oregon,41,Wasco,065
+ASSP,United States,Oregon,41,Wheeler,069
+ASSP,United States,Oregon,41,Yamhill,071
+ASSP,United States,South Dakota,46,,
+ASSP,United States,South Dakota,46,Brookings,011
+ASSP,United States,South Dakota,46,Butte,019
+ASSP,United States,South Dakota,46,Campbell,021
+ASSP,United States,South Dakota,46,Codington,029
+ASSP,United States,South Dakota,46,Custer,033
+ASSP,United States,South Dakota,46,Day,037
+ASSP,United States,South Dakota,46,Fall River,047
+ASSP,United States,South Dakota,46,Faulk,049
+ASSP,United States,South Dakota,46,Haakon,055
+ASSP,United States,South Dakota,46,Hand,059
+ASSP,United States,South Dakota,46,Harding,063
+ASSP,United States,South Dakota,46,Jones,075
+ASSP,United States,South Dakota,46,Lawrence,081
+ASSP,United States,South Dakota,46,Lyman,085
+ASSP,United States,South Dakota,46,Marshall,091
+ASSP,United States,South Dakota,46,McPherson,089
+ASSP,United States,South Dakota,46,Miner,097
+ASSP,United States,South Dakota,46,Pennington,103
+ASSP,United States,South Dakota,46,Perkins,105
+ASSP,United States,South Dakota,46,Roberts,109
+ASSP,United States,South Dakota,46,Spink,115
+ASSP,United States,South Dakota,46,Stanley,117
+ASSP,United States,South Dakota,46,Sully,119
+ASSP,United States,South Dakota,46,Tripp,123
+ASSP,United States,South Dakota,46,Walworth,129
+ASSP,United States,South Dakota,46,Ziebach,137
+ASSP,United States,Texas,48,,
+ASSP,United States,Texas,48,Collingsworth,087
+ASSP,United States,Texas,48,Deaf Smith,117
+ASSP,United States,Texas,48,Hemphill,211
+ASSP,United States,Texas,48,Lubbock,303
+ASSP,United States,Texas,48,Randall,381
+ASSP,United States,Texas,48,Swisher,437
+ASSP,United States,Texas,48,Wheeler,483
+ASSP,United States,Utah,49,,
+ASSP,United States,Utah,49,Beaver,001
+ASSP,United States,Utah,49,Box Elder,003
+ASSP,United States,Utah,49,Cache,005
+ASSP,United States,Utah,49,Carbon,007
+ASSP,United States,Utah,49,Daggett,009
+ASSP,United States,Utah,49,Davis,011
+ASSP,United States,Utah,49,Duchesne,013
+ASSP,United States,Utah,49,Emery,015
+ASSP,United States,Utah,49,Garfield,017
+ASSP,United States,Utah,49,Grand,019
+ASSP,United States,Utah,49,Iron,021
+ASSP,United States,Utah,49,Juab,023
+ASSP,United States,Utah,49,Kane,025
+ASSP,United States,Utah,49,Millard,027
+ASSP,United States,Utah,49,Morgan,029
+ASSP,United States,Utah,49,Piute,031
+ASSP,United States,Utah,49,Rich,033
+ASSP,United States,Utah,49,Salt Lake,035
+ASSP,United States,Utah,49,San Juan,037
+ASSP,United States,Utah,49,Sanpete,039
+ASSP,United States,Utah,49,Sevier,041
+ASSP,United States,Utah,49,Summit,043
+ASSP,United States,Utah,49,Tooele,045
+ASSP,United States,Utah,49,Uintah,047
+ASSP,United States,Utah,49,Utah,049
+ASSP,United States,Utah,49,Wasatch,051
+ASSP,United States,Utah,49,Washington,053
+ASSP,United States,Utah,49,Wayne,055
+ASSP,United States,Utah,49,Weber,057
+ASSP,United States,Washington,53,,
+ASSP,United States,Washington,53,Adams,001
+ASSP,United States,Washington,53,Asotin,003
+ASSP,United States,Washington,53,Benton,005
+ASSP,United States,Washington,53,Chelan,007
+ASSP,United States,Washington,53,Columbia,013
+ASSP,United States,Washington,53,Douglas,017
+ASSP,United States,Washington,53,Grant,025
+ASSP,United States,Washington,53,Kittitas,037
+ASSP,United States,Washington,53,Klickitat,039
+ASSP,United States,Washington,53,Lincoln,043
+ASSP,United States,Washington,53,Okanogan,047
+ASSP,United States,Washington,53,Skamania,059
+ASSP,United States,Washington,53,Spokane,063
+ASSP,United States,Washington,53,Stevens,065
+ASSP,United States,Washington,53,Thurston,067
+ASSP,United States,Washington,53,Walla Walla,071
+ASSP,United States,Washington,53,Whitman,075
+ASSP,United States,Washington,53,Yakima,077
+ASSP,United States,Wisconsin,55,,
+ASSP,United States,Wisconsin,55,Racine,101
+ASSP,United States,Wyoming,56,,
+ASSP,United States,Wyoming,56,Albany,001
+ASSP,United States,Wyoming,56,Big Horn,003
+ASSP,United States,Wyoming,56,Campbell,005
+ASSP,United States,Wyoming,56,Carbon,007
+ASSP,United States,Wyoming,56,Converse,009
+ASSP,United States,Wyoming,56,Crook,011
+ASSP,United States,Wyoming,56,Fremont,013
+ASSP,United States,Wyoming,56,Goshen,015
+ASSP,United States,Wyoming,56,Hot Springs,017
+ASSP,United States,Wyoming,56,Johnson,019
+ASSP,United States,Wyoming,56,Laramie,021
+ASSP,United States,Wyoming,56,Lincoln,023
+ASSP,United States,Wyoming,56,Niobrara,027
+ASSP,United States,Wyoming,56,Park,029
+ASSP,United States,Wyoming,56,Platte,031
+ASSP,United States,Wyoming,56,Sheridan,033
+ASSP,United States,Wyoming,56,Sweetwater,037
+ASSP,United States,Wyoming,56,Washakie,043
+ASSP,United States,Wyoming,56,Weston,045

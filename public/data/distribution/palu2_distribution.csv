@@ -1,0 +1,744 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+PALU2,United States,Alabama,01,,
+PALU2,United States,Alabama,01,Franklin,059
+PALU2,United States,Alabama,01,Jefferson,073
+PALU2,United States,Alabama,01,Lawrence,079
+PALU2,United States,Alabama,01,Mobile,097
+PALU2,United States,Alabama,01,Sumter,119
+PALU2,United States,Alabama,01,Tuscaloosa,125
+PALU2,United States,Alabama,01,Walker,127
+PALU2,United States,Alabama,01,Wilcox,131
+PALU2,United States,Arkansas,05,,
+PALU2,United States,Arkansas,05,Arkansas,001
+PALU2,United States,Arkansas,05,Ashley,003
+PALU2,United States,Arkansas,05,Baxter,005
+PALU2,United States,Arkansas,05,Benton,007
+PALU2,United States,Arkansas,05,Bradley,011
+PALU2,United States,Arkansas,05,Carroll,015
+PALU2,United States,Arkansas,05,Clark,019
+PALU2,United States,Arkansas,05,Cleburne,023
+PALU2,United States,Arkansas,05,Columbia,027
+PALU2,United States,Arkansas,05,Conway,029
+PALU2,United States,Arkansas,05,Craighead,031
+PALU2,United States,Arkansas,05,Crittenden,035
+PALU2,United States,Arkansas,05,Cross,037
+PALU2,United States,Arkansas,05,Dallas,039
+PALU2,United States,Arkansas,05,Drew,043
+PALU2,United States,Arkansas,05,Faulkner,045
+PALU2,United States,Arkansas,05,Franklin,047
+PALU2,United States,Arkansas,05,Fulton,049
+PALU2,United States,Arkansas,05,Garland,051
+PALU2,United States,Arkansas,05,Greene,055
+PALU2,United States,Arkansas,05,Hempstead,057
+PALU2,United States,Arkansas,05,Hot Spring,059
+PALU2,United States,Arkansas,05,Independence,063
+PALU2,United States,Arkansas,05,Izard,065
+PALU2,United States,Arkansas,05,Jefferson,069
+PALU2,United States,Arkansas,05,Lawrence,075
+PALU2,United States,Arkansas,05,Lee,077
+PALU2,United States,Arkansas,05,Little River,081
+PALU2,United States,Arkansas,05,Logan,083
+PALU2,United States,Arkansas,05,Lonoke,085
+PALU2,United States,Arkansas,05,Marion,089
+PALU2,United States,Arkansas,05,Mississippi,093
+PALU2,United States,Arkansas,05,Montgomery,097
+PALU2,United States,Arkansas,05,Nevada,099
+PALU2,United States,Arkansas,05,Newton,101
+PALU2,United States,Arkansas,05,Perry,105
+PALU2,United States,Arkansas,05,Phillips,107
+PALU2,United States,Arkansas,05,Pike,109
+PALU2,United States,Arkansas,05,Poinsett,111
+PALU2,United States,Arkansas,05,Polk,113
+PALU2,United States,Arkansas,05,Pope,115
+PALU2,United States,Arkansas,05,Pulaski,119
+PALU2,United States,Arkansas,05,Randolph,121
+PALU2,United States,Arkansas,05,Saline,125
+PALU2,United States,Arkansas,05,Scott,127
+PALU2,United States,Arkansas,05,Searcy,129
+PALU2,United States,Arkansas,05,Sebastian,131
+PALU2,United States,Arkansas,05,Sevier,133
+PALU2,United States,Arkansas,05,Sharp,135
+PALU2,United States,Arkansas,05,St. Francis,123
+PALU2,United States,Arkansas,05,Stone,137
+PALU2,United States,Arkansas,05,Van Buren,141
+PALU2,United States,Arkansas,05,Washington,143
+PALU2,United States,Arkansas,05,Yell,149
+PALU2,United States,Delaware,10,,
+PALU2,United States,Delaware,10,Kent,001
+PALU2,United States,Delaware,10,Sussex,005
+PALU2,United States,District of Columbia,11,,
+PALU2,United States,District of Columbia,11,District of Columbia,001
+PALU2,United States,Florida,12,,
+PALU2,United States,Florida,12,Alachua,001
+PALU2,United States,Florida,12,Calhoun,013
+PALU2,United States,Florida,12,Clay,019
+PALU2,United States,Florida,12,Columbia,023
+PALU2,United States,Florida,12,Dixie,029
+PALU2,United States,Florida,12,Duval,031
+PALU2,United States,Florida,12,Escambia,033
+PALU2,United States,Florida,12,Franklin,037
+PALU2,United States,Florida,12,Gadsden,039
+PALU2,United States,Florida,12,Hernando,053
+PALU2,United States,Florida,12,Jackson,063
+PALU2,United States,Florida,12,Lafayette,067
+PALU2,United States,Florida,12,Lake,069
+PALU2,United States,Florida,12,Leon,073
+PALU2,United States,Florida,12,Liberty,077
+PALU2,United States,Florida,12,Marion,083
+PALU2,United States,Florida,12,Santa Rosa,113
+PALU2,United States,Florida,12,Suwannee,121
+PALU2,United States,Florida,12,Walton,131
+PALU2,United States,Florida,12,Washington,133
+PALU2,United States,Georgia,13,,
+PALU2,United States,Georgia,13,Banks,011
+PALU2,United States,Georgia,13,Ben Hill,017
+PALU2,United States,Georgia,13,Clarke,059
+PALU2,United States,Georgia,13,Dade,083
+PALU2,United States,Georgia,13,DeKalb,089
+PALU2,United States,Georgia,13,Elbert,105
+PALU2,United States,Georgia,13,Floyd,115
+PALU2,United States,Georgia,13,Gordon,129
+PALU2,United States,Georgia,13,Hall,139
+PALU2,United States,Georgia,13,Lowndes,185
+PALU2,United States,Georgia,13,Lumpkin,187
+PALU2,United States,Georgia,13,McIntosh,191
+PALU2,United States,Georgia,13,Morgan,211
+PALU2,United States,Georgia,13,Newton,217
+PALU2,United States,Georgia,13,Oglethorpe,221
+PALU2,United States,Georgia,13,Rabun,241
+PALU2,United States,Georgia,13,Spalding,255
+PALU2,United States,Georgia,13,Stephens,257
+PALU2,United States,Georgia,13,Walker,295
+PALU2,United States,Georgia,13,Walton,297
+PALU2,United States,Illinois,17,,
+PALU2,United States,Illinois,17,Alexander,003
+PALU2,United States,Illinois,17,Bond,005
+PALU2,United States,Illinois,17,Calhoun,013
+PALU2,United States,Illinois,17,Champaign,019
+PALU2,United States,Illinois,17,Clark,023
+PALU2,United States,Illinois,17,Clay,025
+PALU2,United States,Illinois,17,Clinton,027
+PALU2,United States,Illinois,17,Coles,029
+PALU2,United States,Illinois,17,Crawford,033
+PALU2,United States,Illinois,17,Cumberland,035
+PALU2,United States,Illinois,17,Edgar,045
+PALU2,United States,Illinois,17,Edwards,047
+PALU2,United States,Illinois,17,Effingham,049
+PALU2,United States,Illinois,17,Franklin,055
+PALU2,United States,Illinois,17,Gallatin,059
+PALU2,United States,Illinois,17,Hamilton,065
+PALU2,United States,Illinois,17,Hardin,069
+PALU2,United States,Illinois,17,Jackson,077
+PALU2,United States,Illinois,17,Jersey,083
+PALU2,United States,Illinois,17,Johnson,087
+PALU2,United States,Illinois,17,Lawrence,101
+PALU2,United States,Illinois,17,Macon,115
+PALU2,United States,Illinois,17,Macoupin,117
+PALU2,United States,Illinois,17,Madison,119
+PALU2,United States,Illinois,17,Massac,127
+PALU2,United States,Illinois,17,Monroe,133
+PALU2,United States,Illinois,17,Montgomery,135
+PALU2,United States,Illinois,17,Perry,145
+PALU2,United States,Illinois,17,Pike,149
+PALU2,United States,Illinois,17,Pope,151
+PALU2,United States,Illinois,17,Pulaski,153
+PALU2,United States,Illinois,17,Randolph,157
+PALU2,United States,Illinois,17,Richland,159
+PALU2,United States,Illinois,17,Saline,165
+PALU2,United States,Illinois,17,St. Clair,163
+PALU2,United States,Illinois,17,Union,181
+PALU2,United States,Illinois,17,Vermilion,183
+PALU2,United States,Illinois,17,Wabash,185
+PALU2,United States,Illinois,17,Washington,189
+PALU2,United States,Illinois,17,Wayne,191
+PALU2,United States,Illinois,17,White,193
+PALU2,United States,Illinois,17,Williamson,199
+PALU2,United States,Indiana,18,,
+PALU2,United States,Indiana,18,Bartholomew,005
+PALU2,United States,Indiana,18,Brown,013
+PALU2,United States,Indiana,18,Carroll,015
+PALU2,United States,Indiana,18,Clark,019
+PALU2,United States,Indiana,18,Clay,021
+PALU2,United States,Indiana,18,Crawford,025
+PALU2,United States,Indiana,18,Floyd,043
+PALU2,United States,Indiana,18,Franklin,047
+PALU2,United States,Indiana,18,Gibson,051
+PALU2,United States,Indiana,18,Greene,055
+PALU2,United States,Indiana,18,Harrison,061
+PALU2,United States,Indiana,18,Jefferson,077
+PALU2,United States,Indiana,18,Jennings,079
+PALU2,United States,Indiana,18,Knox,083
+PALU2,United States,Indiana,18,Lawrence,093
+PALU2,United States,Indiana,18,Marion,097
+PALU2,United States,Indiana,18,Martin,101
+PALU2,United States,Indiana,18,Monroe,105
+PALU2,United States,Indiana,18,Morgan,109
+PALU2,United States,Indiana,18,Orange,117
+PALU2,United States,Indiana,18,Perry,123
+PALU2,United States,Indiana,18,Posey,129
+PALU2,United States,Indiana,18,Putnam,133
+PALU2,United States,Indiana,18,Shelby,145
+PALU2,United States,Indiana,18,Spencer,147
+PALU2,United States,Indiana,18,Sullivan,153
+PALU2,United States,Indiana,18,Tippecanoe,157
+PALU2,United States,Indiana,18,Vanderburgh,163
+PALU2,United States,Indiana,18,Warrick,173
+PALU2,United States,Indiana,18,Washington,175
+PALU2,United States,Indiana,18,Wayne,177
+PALU2,United States,Kansas,20,,
+PALU2,United States,Kansas,20,Cherokee,021
+PALU2,United States,Kansas,20,Crawford,037
+PALU2,United States,Kansas,20,Labette,099
+PALU2,United States,Kansas,20,Montgomery,125
+PALU2,United States,Kentucky,21,,
+PALU2,United States,Kentucky,21,Anderson,005
+PALU2,United States,Kentucky,21,Ballard,007
+PALU2,United States,Kentucky,21,Barren,009
+PALU2,United States,Kentucky,21,Bath,011
+PALU2,United States,Kentucky,21,Bell,013
+PALU2,United States,Kentucky,21,Breathitt,025
+PALU2,United States,Kentucky,21,Bullitt,029
+PALU2,United States,Kentucky,21,Calloway,035
+PALU2,United States,Kentucky,21,Carlisle,039
+PALU2,United States,Kentucky,21,Carter,043
+PALU2,United States,Kentucky,21,Christian,047
+PALU2,United States,Kentucky,21,Clark,049
+PALU2,United States,Kentucky,21,Clay,051
+PALU2,United States,Kentucky,21,Crittenden,055
+PALU2,United States,Kentucky,21,Daviess,059
+PALU2,United States,Kentucky,21,Edmonson,061
+PALU2,United States,Kentucky,21,Estill,065
+PALU2,United States,Kentucky,21,Fayette,067
+PALU2,United States,Kentucky,21,Fleming,069
+PALU2,United States,Kentucky,21,Franklin,073
+PALU2,United States,Kentucky,21,Fulton,075
+PALU2,United States,Kentucky,21,Gallatin,077
+PALU2,United States,Kentucky,21,Garrard,079
+PALU2,United States,Kentucky,21,Grant,081
+PALU2,United States,Kentucky,21,Grayson,085
+PALU2,United States,Kentucky,21,Hancock,091
+PALU2,United States,Kentucky,21,Hardin,093
+PALU2,United States,Kentucky,21,Henderson,101
+PALU2,United States,Kentucky,21,Henry,103
+PALU2,United States,Kentucky,21,Hickman,105
+PALU2,United States,Kentucky,21,Hopkins,107
+PALU2,United States,Kentucky,21,Jefferson,111
+PALU2,United States,Kentucky,21,Jessamine,113
+PALU2,United States,Kentucky,21,Larue,123
+PALU2,United States,Kentucky,21,Laurel,125
+PALU2,United States,Kentucky,21,Lee,129
+PALU2,United States,Kentucky,21,Letcher,133
+PALU2,United States,Kentucky,21,Lewis,135
+PALU2,United States,Kentucky,21,Madison,151
+PALU2,United States,Kentucky,21,McCracken,145
+PALU2,United States,Kentucky,21,McCreary,147
+PALU2,United States,Kentucky,21,McLean,149
+PALU2,United States,Kentucky,21,Meade,163
+PALU2,United States,Kentucky,21,Menifee,165
+PALU2,United States,Kentucky,21,Mercer,167
+PALU2,United States,Kentucky,21,Montgomery,173
+PALU2,United States,Kentucky,21,Nelson,179
+PALU2,United States,Kentucky,21,Ohio,183
+PALU2,United States,Kentucky,21,Oldham,185
+PALU2,United States,Kentucky,21,Owen,187
+PALU2,United States,Kentucky,21,Perry,193
+PALU2,United States,Kentucky,21,Powell,197
+PALU2,United States,Kentucky,21,Pulaski,199
+PALU2,United States,Kentucky,21,Rockcastle,203
+PALU2,United States,Kentucky,21,Rowan,205
+PALU2,United States,Kentucky,21,Spencer,215
+PALU2,United States,Kentucky,21,Taylor,217
+PALU2,United States,Kentucky,21,Todd,219
+PALU2,United States,Kentucky,21,Warren,227
+PALU2,United States,Kentucky,21,Wayne,231
+PALU2,United States,Kentucky,21,Whitley,235
+PALU2,United States,Kentucky,21,Woodford,239
+PALU2,United States,Louisiana,22,,
+PALU2,United States,Louisiana,22,Acadia,001
+PALU2,United States,Louisiana,22,Allen,003
+PALU2,United States,Louisiana,22,Ascension,005
+PALU2,United States,Louisiana,22,Assumption,007
+PALU2,United States,Louisiana,22,Avoyelles,009
+PALU2,United States,Louisiana,22,Beauregard,011
+PALU2,United States,Louisiana,22,Bienville,013
+PALU2,United States,Louisiana,22,Bossier,015
+PALU2,United States,Louisiana,22,Caddo,017
+PALU2,United States,Louisiana,22,Calcasieu,019
+PALU2,United States,Louisiana,22,Caldwell,021
+PALU2,United States,Louisiana,22,Catahoula,025
+PALU2,United States,Louisiana,22,Claiborne,027
+PALU2,United States,Louisiana,22,Concordia,029
+PALU2,United States,Louisiana,22,De Soto,031
+PALU2,United States,Louisiana,22,East Baton Rouge,033
+PALU2,United States,Louisiana,22,East Carroll,035
+PALU2,United States,Louisiana,22,East Feliciana,037
+PALU2,United States,Louisiana,22,Evangeline,039
+PALU2,United States,Louisiana,22,Franklin,041
+PALU2,United States,Louisiana,22,Grant,043
+PALU2,United States,Louisiana,22,Iberia,045
+PALU2,United States,Louisiana,22,Jackson,049
+PALU2,United States,Louisiana,22,Jefferson,051
+PALU2,United States,Louisiana,22,Lafayette,055
+PALU2,United States,Louisiana,22,Lafourche,057
+PALU2,United States,Louisiana,22,LaSalle,059
+PALU2,United States,Louisiana,22,Lincoln,061
+PALU2,United States,Louisiana,22,Livingston,063
+PALU2,United States,Louisiana,22,Madison,065
+PALU2,United States,Louisiana,22,Morehouse,067
+PALU2,United States,Louisiana,22,Natchitoches,069
+PALU2,United States,Louisiana,22,Orleans,071
+PALU2,United States,Louisiana,22,Ouachita,073
+PALU2,United States,Louisiana,22,Plaquemines,075
+PALU2,United States,Louisiana,22,Rapides,079
+PALU2,United States,Louisiana,22,Red River,081
+PALU2,United States,Louisiana,22,Richland,083
+PALU2,United States,Louisiana,22,Sabine,085
+PALU2,United States,Louisiana,22,St. Bernard,087
+PALU2,United States,Louisiana,22,St. Charles,089
+PALU2,United States,Louisiana,22,St. Helena,091
+PALU2,United States,Louisiana,22,St. James,093
+PALU2,United States,Louisiana,22,St. John the Baptist,095
+PALU2,United States,Louisiana,22,St. Landry,097
+PALU2,United States,Louisiana,22,St. Mary,101
+PALU2,United States,Louisiana,22,St. Tammany,103
+PALU2,United States,Louisiana,22,Tangipahoa,105
+PALU2,United States,Louisiana,22,Tensas,107
+PALU2,United States,Louisiana,22,Terrebonne,109
+PALU2,United States,Louisiana,22,Union,111
+PALU2,United States,Louisiana,22,Vermilion,113
+PALU2,United States,Louisiana,22,Vernon,115
+PALU2,United States,Louisiana,22,Washington,117
+PALU2,United States,Louisiana,22,Webster,119
+PALU2,United States,Louisiana,22,West Baton Rouge,121
+PALU2,United States,Louisiana,22,West Carroll,123
+PALU2,United States,Louisiana,22,West Feliciana,125
+PALU2,United States,Louisiana,22,Winn,127
+PALU2,United States,Maryland,24,,
+PALU2,United States,Mississippi,28,,
+PALU2,United States,Mississippi,28,Adams,001
+PALU2,United States,Mississippi,28,Alcorn,003
+PALU2,United States,Mississippi,28,Attala,007
+PALU2,United States,Mississippi,28,Benton,009
+PALU2,United States,Mississippi,28,Bolivar,011
+PALU2,United States,Mississippi,28,Calhoun,013
+PALU2,United States,Mississippi,28,Choctaw,019
+PALU2,United States,Mississippi,28,Coahoma,027
+PALU2,United States,Mississippi,28,Copiah,029
+PALU2,United States,Mississippi,28,DeSoto,033
+PALU2,United States,Mississippi,28,Forrest,035
+PALU2,United States,Mississippi,28,Franklin,037
+PALU2,United States,Mississippi,28,George,039
+PALU2,United States,Mississippi,28,Harrison,047
+PALU2,United States,Mississippi,28,Hinds,049
+PALU2,United States,Mississippi,28,Holmes,051
+PALU2,United States,Mississippi,28,Issaquena,055
+PALU2,United States,Mississippi,28,Itawamba,057
+PALU2,United States,Mississippi,28,Jackson,059
+PALU2,United States,Mississippi,28,Lafayette,071
+PALU2,United States,Mississippi,28,Lamar,073
+PALU2,United States,Mississippi,28,Leake,079
+PALU2,United States,Mississippi,28,Lee,081
+PALU2,United States,Mississippi,28,Leflore,083
+PALU2,United States,Mississippi,28,Madison,089
+PALU2,United States,Mississippi,28,Marion,091
+PALU2,United States,Mississippi,28,Marshall,093
+PALU2,United States,Mississippi,28,Montgomery,097
+PALU2,United States,Mississippi,28,Noxubee,103
+PALU2,United States,Mississippi,28,Pike,113
+PALU2,United States,Mississippi,28,Pontotoc,115
+PALU2,United States,Mississippi,28,Quitman,119
+PALU2,United States,Mississippi,28,Rankin,121
+PALU2,United States,Mississippi,28,Scott,123
+PALU2,United States,Mississippi,28,Sharkey,125
+PALU2,United States,Mississippi,28,Smith,129
+PALU2,United States,Mississippi,28,Sunflower,133
+PALU2,United States,Mississippi,28,Tallahatchie,135
+PALU2,United States,Mississippi,28,Tippah,139
+PALU2,United States,Mississippi,28,Tishomingo,141
+PALU2,United States,Mississippi,28,Tunica,143
+PALU2,United States,Mississippi,28,Union,145
+PALU2,United States,Mississippi,28,Warren,149
+PALU2,United States,Mississippi,28,Washington,151
+PALU2,United States,Mississippi,28,Wilkinson,157
+PALU2,United States,Mississippi,28,Winston,159
+PALU2,United States,Missouri,29,,
+PALU2,United States,Missouri,29,Barry,009
+PALU2,United States,Missouri,29,Barton,011
+PALU2,United States,Missouri,29,Benton,015
+PALU2,United States,Missouri,29,Bollinger,017
+PALU2,United States,Missouri,29,Boone,019
+PALU2,United States,Missouri,29,Butler,023
+PALU2,United States,Missouri,29,Callaway,027
+PALU2,United States,Missouri,29,Camden,029
+PALU2,United States,Missouri,29,Cape Girardeau,031
+PALU2,United States,Missouri,29,Carter,035
+PALU2,United States,Missouri,29,Cedar,039
+PALU2,United States,Missouri,29,Christian,043
+PALU2,United States,Missouri,29,Cole,051
+PALU2,United States,Missouri,29,Crawford,055
+PALU2,United States,Missouri,29,Dade,057
+PALU2,United States,Missouri,29,Dallas,059
+PALU2,United States,Missouri,29,Dent,065
+PALU2,United States,Missouri,29,Douglas,067
+PALU2,United States,Missouri,29,Dunklin,069
+PALU2,United States,Missouri,29,Franklin,071
+PALU2,United States,Missouri,29,Gasconade,073
+PALU2,United States,Missouri,29,Greene,077
+PALU2,United States,Missouri,29,Hickory,085
+PALU2,United States,Missouri,29,Howell,091
+PALU2,United States,Missouri,29,Iron,093
+PALU2,United States,Missouri,29,Jasper,097
+PALU2,United States,Missouri,29,Jefferson,099
+PALU2,United States,Missouri,29,Laclede,105
+PALU2,United States,Missouri,29,Lawrence,109
+PALU2,United States,Missouri,29,Lincoln,113
+PALU2,United States,Missouri,29,Madison,123
+PALU2,United States,Missouri,29,Maries,125
+PALU2,United States,Missouri,29,McDonald,119
+PALU2,United States,Missouri,29,Miller,131
+PALU2,United States,Missouri,29,Mississippi,133
+PALU2,United States,Missouri,29,Montgomery,139
+PALU2,United States,Missouri,29,Morgan,141
+PALU2,United States,Missouri,29,New Madrid,143
+PALU2,United States,Missouri,29,Newton,145
+PALU2,United States,Missouri,29,Oregon,149
+PALU2,United States,Missouri,29,Osage,151
+PALU2,United States,Missouri,29,Ozark,153
+PALU2,United States,Missouri,29,Pemiscot,155
+PALU2,United States,Missouri,29,Perry,157
+PALU2,United States,Missouri,29,Phelps,161
+PALU2,United States,Missouri,29,Polk,167
+PALU2,United States,Missouri,29,Pulaski,169
+PALU2,United States,Missouri,29,Reynolds,179
+PALU2,United States,Missouri,29,Ripley,181
+PALU2,United States,Missouri,29,Scott,201
+PALU2,United States,Missouri,29,Shannon,203
+PALU2,United States,Missouri,29,St. Charles,183
+PALU2,United States,Missouri,29,St. Clair,185
+PALU2,United States,Missouri,29,St. Francois,187
+PALU2,United States,Missouri,29,St. Louis,189
+PALU2,United States,Missouri,29,Ste. Genevieve,186
+PALU2,United States,Missouri,29,Stoddard,207
+PALU2,United States,Missouri,29,Stone,209
+PALU2,United States,Missouri,29,Taney,213
+PALU2,United States,Missouri,29,Texas,215
+PALU2,United States,Missouri,29,Vernon,217
+PALU2,United States,Missouri,29,Warren,219
+PALU2,United States,Missouri,29,Washington,221
+PALU2,United States,Missouri,29,Wayne,223
+PALU2,United States,Missouri,29,Webster,225
+PALU2,United States,Missouri,29,Wright,229
+PALU2,United States,North Carolina,37,,
+PALU2,United States,North Carolina,37,Anson,007
+PALU2,United States,North Carolina,37,Brunswick,019
+PALU2,United States,North Carolina,37,Cabarrus,025
+PALU2,United States,North Carolina,37,Carteret,031
+PALU2,United States,North Carolina,37,Chatham,037
+PALU2,United States,North Carolina,37,Cherokee,039
+PALU2,United States,North Carolina,37,Chowan,041
+PALU2,United States,North Carolina,37,Cleveland,045
+PALU2,United States,North Carolina,37,Cumberland,051
+PALU2,United States,North Carolina,37,Currituck,053
+PALU2,United States,North Carolina,37,Dare,055
+PALU2,United States,North Carolina,37,Durham,063
+PALU2,United States,North Carolina,37,Edgecombe,065
+PALU2,United States,North Carolina,37,Forsyth,067
+PALU2,United States,North Carolina,37,Franklin,069
+PALU2,United States,North Carolina,37,Gates,073
+PALU2,United States,North Carolina,37,Granville,077
+PALU2,United States,North Carolina,37,Greene,079
+PALU2,United States,North Carolina,37,Guilford,081
+PALU2,United States,North Carolina,37,Halifax,083
+PALU2,United States,North Carolina,37,Haywood,087
+PALU2,United States,North Carolina,37,Hyde,095
+PALU2,United States,North Carolina,37,Iredell,097
+PALU2,United States,North Carolina,37,Jackson,099
+PALU2,United States,North Carolina,37,Johnston,101
+PALU2,United States,North Carolina,37,Macon,113
+PALU2,United States,North Carolina,37,Madison,115
+PALU2,United States,North Carolina,37,Martin,117
+PALU2,United States,North Carolina,37,Mecklenburg,119
+PALU2,United States,North Carolina,37,Montgomery,123
+PALU2,United States,North Carolina,37,Nash,127
+PALU2,United States,North Carolina,37,Onslow,133
+PALU2,United States,North Carolina,37,Orange,135
+PALU2,United States,North Carolina,37,Pender,141
+PALU2,United States,North Carolina,37,Perquimans,143
+PALU2,United States,North Carolina,37,Pitt,147
+PALU2,United States,North Carolina,37,Polk,149
+PALU2,United States,North Carolina,37,Randolph,151
+PALU2,United States,North Carolina,37,Robeson,155
+PALU2,United States,North Carolina,37,Rowan,159
+PALU2,United States,North Carolina,37,Stokes,169
+PALU2,United States,North Carolina,37,Surry,171
+PALU2,United States,North Carolina,37,Swain,173
+PALU2,United States,North Carolina,37,Transylvania,175
+PALU2,United States,North Carolina,37,Union,179
+PALU2,United States,North Carolina,37,Wake,183
+PALU2,United States,North Carolina,37,Warren,185
+PALU2,United States,North Carolina,37,Wilkes,193
+PALU2,United States,North Carolina,37,Wilson,195
+PALU2,United States,Ohio,39,,
+PALU2,United States,Ohio,39,Adams,001
+PALU2,United States,Ohio,39,Athens,009
+PALU2,United States,Ohio,39,Butler,017
+PALU2,United States,Ohio,39,Clermont,025
+PALU2,United States,Ohio,39,Coshocton,031
+PALU2,United States,Ohio,39,Darke,037
+PALU2,United States,Ohio,39,Delaware,041
+PALU2,United States,Ohio,39,Fairfield,045
+PALU2,United States,Ohio,39,Franklin,049
+PALU2,United States,Ohio,39,Gallia,053
+PALU2,United States,Ohio,39,Guernsey,059
+PALU2,United States,Ohio,39,Hamilton,061
+PALU2,United States,Ohio,39,Highland,071
+PALU2,United States,Ohio,39,Hocking,073
+PALU2,United States,Ohio,39,Jackson,079
+PALU2,United States,Ohio,39,Lawrence,087
+PALU2,United States,Ohio,39,Licking,089
+PALU2,United States,Ohio,39,Meigs,105
+PALU2,United States,Ohio,39,Montgomery,113
+PALU2,United States,Ohio,39,Morgan,115
+PALU2,United States,Ohio,39,Muskingum,119
+PALU2,United States,Ohio,39,Pickaway,129
+PALU2,United States,Ohio,39,Pike,131
+PALU2,United States,Ohio,39,Preble,135
+PALU2,United States,Ohio,39,Ross,141
+PALU2,United States,Ohio,39,Scioto,145
+PALU2,United States,Ohio,39,Vinton,163
+PALU2,United States,Ohio,39,Warren,165
+PALU2,United States,Ohio,39,Washington,167
+PALU2,United States,Oklahoma,40,,
+PALU2,United States,Oklahoma,40,Bryan,013
+PALU2,United States,Oklahoma,40,Canadian,017
+PALU2,United States,Oklahoma,40,Cherokee,021
+PALU2,United States,Oklahoma,40,Choctaw,023
+PALU2,United States,Oklahoma,40,Cleveland,027
+PALU2,United States,Oklahoma,40,Grady,051
+PALU2,United States,Oklahoma,40,Haskell,061
+PALU2,United States,Oklahoma,40,Johnston,069
+PALU2,United States,Oklahoma,40,Latimer,077
+PALU2,United States,Oklahoma,40,Le Flore,079
+PALU2,United States,Oklahoma,40,Marshall,095
+PALU2,United States,Oklahoma,40,Mayes,097
+PALU2,United States,Oklahoma,40,McCurtain,089
+PALU2,United States,Oklahoma,40,Murray,099
+PALU2,United States,Oklahoma,40,Muskogee,101
+PALU2,United States,Oklahoma,40,Payne,119
+PALU2,United States,Oklahoma,40,Pontotoc,123
+PALU2,United States,Oklahoma,40,Sequoyah,135
+PALU2,United States,Oklahoma,40,Tulsa,143
+PALU2,United States,Pennsylvania,42,,
+PALU2,United States,Pennsylvania,42,Allegheny,003
+PALU2,United States,Pennsylvania,42,Fayette,051
+PALU2,United States,Pennsylvania,42,Greene,059
+PALU2,United States,Pennsylvania,42,Indiana,063
+PALU2,United States,Pennsylvania,42,Lancaster,071
+PALU2,United States,Pennsylvania,42,Westmoreland,129
+PALU2,United States,South Carolina,45,,
+PALU2,United States,South Carolina,45,Abbeville,001
+PALU2,United States,South Carolina,45,Aiken,003
+PALU2,United States,South Carolina,45,Allendale,005
+PALU2,United States,South Carolina,45,Barnwell,011
+PALU2,United States,South Carolina,45,Calhoun,017
+PALU2,United States,South Carolina,45,Charleston,019
+PALU2,United States,South Carolina,45,Cherokee,021
+PALU2,United States,South Carolina,45,Colleton,029
+PALU2,United States,South Carolina,45,Darlington,031
+PALU2,United States,South Carolina,45,Florence,041
+PALU2,United States,South Carolina,45,Georgetown,043
+PALU2,United States,South Carolina,45,Horry,051
+PALU2,United States,South Carolina,45,Lancaster,057
+PALU2,United States,South Carolina,45,Laurens,059
+PALU2,United States,South Carolina,45,Lexington,063
+PALU2,United States,South Carolina,45,Oconee,073
+PALU2,United States,South Carolina,45,Orangeburg,075
+PALU2,United States,South Carolina,45,Pickens,077
+PALU2,United States,South Carolina,45,Richland,079
+PALU2,United States,South Carolina,45,Saluda,081
+PALU2,United States,South Carolina,45,Sumter,085
+PALU2,United States,South Carolina,45,Union,087
+PALU2,United States,South Carolina,45,York,091
+PALU2,United States,Tennessee,47,,
+PALU2,United States,Tennessee,47,Bledsoe,007
+PALU2,United States,Tennessee,47,Blount,009
+PALU2,United States,Tennessee,47,Campbell,013
+PALU2,United States,Tennessee,47,Cannon,015
+PALU2,United States,Tennessee,47,Carroll,017
+PALU2,United States,Tennessee,47,Carter,019
+PALU2,United States,Tennessee,47,Cheatham,021
+PALU2,United States,Tennessee,47,Claiborne,025
+PALU2,United States,Tennessee,47,Cocke,029
+PALU2,United States,Tennessee,47,Coffee,031
+PALU2,United States,Tennessee,47,Cumberland,035
+PALU2,United States,Tennessee,47,Davidson,037
+PALU2,United States,Tennessee,47,DeKalb,041
+PALU2,United States,Tennessee,47,Dickson,043
+PALU2,United States,Tennessee,47,Dyer,045
+PALU2,United States,Tennessee,47,Grainger,057
+PALU2,United States,Tennessee,47,Greene,059
+PALU2,United States,Tennessee,47,Grundy,061
+PALU2,United States,Tennessee,47,Hamilton,065
+PALU2,United States,Tennessee,47,Hardeman,069
+PALU2,United States,Tennessee,47,Hardin,071
+PALU2,United States,Tennessee,47,Knox,093
+PALU2,United States,Tennessee,47,Lake,095
+PALU2,United States,Tennessee,47,Lauderdale,097
+PALU2,United States,Tennessee,47,Lawrence,099
+PALU2,United States,Tennessee,47,Lincoln,103
+PALU2,United States,Tennessee,47,Madison,113
+PALU2,United States,Tennessee,47,Marion,115
+PALU2,United States,Tennessee,47,Marshall,117
+PALU2,United States,Tennessee,47,Maury,119
+PALU2,United States,Tennessee,47,Montgomery,125
+PALU2,United States,Tennessee,47,Morgan,129
+PALU2,United States,Tennessee,47,Obion,131
+PALU2,United States,Tennessee,47,Polk,139
+PALU2,United States,Tennessee,47,Rhea,143
+PALU2,United States,Tennessee,47,Roane,145
+PALU2,United States,Tennessee,47,Rutherford,149
+PALU2,United States,Tennessee,47,Scott,151
+PALU2,United States,Tennessee,47,Sevier,155
+PALU2,United States,Tennessee,47,Shelby,157
+PALU2,United States,Tennessee,47,Stewart,161
+PALU2,United States,Tennessee,47,Sullivan,163
+PALU2,United States,Tennessee,47,Tipton,167
+PALU2,United States,Tennessee,47,Unicoi,171
+PALU2,United States,Tennessee,47,Union,173
+PALU2,United States,Tennessee,47,Warren,177
+PALU2,United States,Tennessee,47,Washington,179
+PALU2,United States,Tennessee,47,White,185
+PALU2,United States,Tennessee,47,Williamson,187
+PALU2,United States,Tennessee,47,Wilson,189
+PALU2,United States,Texas,48,,
+PALU2,United States,Texas,48,Anderson,001
+PALU2,United States,Texas,48,Angelina,005
+PALU2,United States,Texas,48,Bastrop,021
+PALU2,United States,Texas,48,Bowie,037
+PALU2,United States,Texas,48,Brazoria,039
+PALU2,United States,Texas,48,Brazos,041
+PALU2,United States,Texas,48,Cass,067
+PALU2,United States,Texas,48,Dallas,113
+PALU2,United States,Texas,48,Delta,119
+PALU2,United States,Texas,48,Freestone,161
+PALU2,United States,Texas,48,Galveston,167
+PALU2,United States,Texas,48,Gregg,183
+PALU2,United States,Texas,48,Harris,201
+PALU2,United States,Texas,48,Hays,209
+PALU2,United States,Texas,48,Henderson,213
+PALU2,United States,Texas,48,Jackson,239
+PALU2,United States,Texas,48,Limestone,293
+PALU2,United States,Texas,48,Madison,313
+PALU2,United States,Texas,48,Marion,315
+PALU2,United States,Texas,48,McLennan,309
+PALU2,United States,Texas,48,Morris,343
+PALU2,United States,Texas,48,Nacogdoches,347
+PALU2,United States,Texas,48,Newton,351
+PALU2,United States,Texas,48,Parker,367
+PALU2,United States,Texas,48,Robertson,395
+PALU2,United States,Texas,48,Tarrant,439
+PALU2,United States,Texas,48,Travis,453
+PALU2,United States,Texas,48,Van Zandt,467
+PALU2,United States,Texas,48,Victoria,469
+PALU2,United States,Texas,48,Walker,471
+PALU2,United States,Texas,48,Wood,499
+PALU2,United States,Virginia,51,,
+PALU2,United States,Virginia,51,Accomack,001
+PALU2,United States,Virginia,51,Albemarle,003
+PALU2,United States,Virginia,51,Alleghany,005
+PALU2,United States,Virginia,51,Amelia,007
+PALU2,United States,Virginia,51,Amherst,009
+PALU2,United States,Virginia,51,Bedford,019
+PALU2,United States,Virginia,51,Botetourt,023
+PALU2,United States,Virginia,51,Brunswick,025
+PALU2,United States,Virginia,51,Buchanan,027
+PALU2,United States,Virginia,51,Buckingham,029
+PALU2,United States,Virginia,51,Campbell,031
+PALU2,United States,Virginia,51,Charles City,036
+PALU2,United States,Virginia,51,Charlotte,037
+PALU2,United States,Virginia,51,Chesapeake ,550
+PALU2,United States,Virginia,51,Chesterfield,041
+PALU2,United States,Virginia,51,Craig,045
+PALU2,United States,Virginia,51,Culpeper,047
+PALU2,United States,Virginia,51,Cumberland,049
+PALU2,United States,Virginia,51,Dickenson,051
+PALU2,United States,Virginia,51,Dinwiddie,053
+PALU2,United States,Virginia,51,Fairfax,059
+PALU2,United States,Virginia,51,Fauquier,061
+PALU2,United States,Virginia,51,Fluvanna,065
+PALU2,United States,Virginia,51,Franklin,067
+PALU2,United States,Virginia,51,Frederick,069
+PALU2,United States,Virginia,51,Giles,071
+PALU2,United States,Virginia,51,Gloucester,073
+PALU2,United States,Virginia,51,Greensville,081
+PALU2,United States,Virginia,51,Halifax,083
+PALU2,United States,Virginia,51,Hampton ,650
+PALU2,United States,Virginia,51,Hanover,085
+PALU2,United States,Virginia,51,Henrico,087
+PALU2,United States,Virginia,51,Isle of Wight,093
+PALU2,United States,Virginia,51,James City,095
+PALU2,United States,Virginia,51,King George,099
+PALU2,United States,Virginia,51,King William,101
+PALU2,United States,Virginia,51,Lancaster,103
+PALU2,United States,Virginia,51,Lee,105
+PALU2,United States,Virginia,51,Loudoun,107
+PALU2,United States,Virginia,51,Louisa,109
+PALU2,United States,Virginia,51,Lunenburg,111
+PALU2,United States,Virginia,51,Madison,113
+PALU2,United States,Virginia,51,Mathews,115
+PALU2,United States,Virginia,51,Mecklenburg,117
+PALU2,United States,Virginia,51,Middlesex,119
+PALU2,United States,Virginia,51,Montgomery,121
+PALU2,United States,Virginia,51,Nelson,125
+PALU2,United States,Virginia,51,Newport News ,700
+PALU2,United States,Virginia,51,Northampton,131
+PALU2,United States,Virginia,51,Northumberland,133
+PALU2,United States,Virginia,51,Nottoway,135
+PALU2,United States,Virginia,51,Orange,137
+PALU2,United States,Virginia,51,Patrick,141
+PALU2,United States,Virginia,51,Pittsylvania,143
+PALU2,United States,Virginia,51,Powhatan,145
+PALU2,United States,Virginia,51,Prince Edward,147
+PALU2,United States,Virginia,51,Prince George,149
+PALU2,United States,Virginia,51,Rappahannock,157
+PALU2,United States,Virginia,51,Richmond,159
+PALU2,United States,Virginia,51,Rockbridge,163
+PALU2,United States,Virginia,51,Russell,167
+PALU2,United States,Virginia,51,Shenandoah,171
+PALU2,United States,Virginia,51,Smyth,173
+PALU2,United States,Virginia,51,Southampton,175
+PALU2,United States,Virginia,51,Stafford,179
+PALU2,United States,Virginia,51,Surry,181
+PALU2,United States,Virginia,51,Sussex,183
+PALU2,United States,Virginia,51,Virginia Beach ,810
+PALU2,United States,Virginia,51,Washington,191
+PALU2,United States,Virginia,51,Westmoreland,193
+PALU2,United States,Virginia,51,Wise,195
+PALU2,United States,Virginia,51,York,199
+PALU2,United States,West Virginia,54,,
+PALU2,United States,West Virginia,54,Braxton,007
+PALU2,United States,West Virginia,54,Calhoun,013
+PALU2,United States,West Virginia,54,Clay,015
+PALU2,United States,West Virginia,54,Doddridge,017
+PALU2,United States,West Virginia,54,Fayette,019
+PALU2,United States,West Virginia,54,Hampshire,027
+PALU2,United States,West Virginia,54,Jackson,035
+PALU2,United States,West Virginia,54,Kanawha,039
+PALU2,United States,West Virginia,54,Lewis,041
+PALU2,United States,West Virginia,54,Marion,049
+PALU2,United States,West Virginia,54,Marshall,051
+PALU2,United States,West Virginia,54,Mason,053
+PALU2,United States,West Virginia,54,McDowell,047
+PALU2,United States,West Virginia,54,Mingo,059
+PALU2,United States,West Virginia,54,Monongalia,061
+PALU2,United States,West Virginia,54,Nicholas,067
+PALU2,United States,West Virginia,54,Pendleton,071
+PALU2,United States,West Virginia,54,Raleigh,081
+PALU2,United States,West Virginia,54,Ritchie,085
+PALU2,United States,West Virginia,54,Summers,089
+PALU2,United States,West Virginia,54,Upshur,097
+PALU2,United States,West Virginia,54,Wayne,099
+PALU2,United States,West Virginia,54,Wetzel,103
+PALU2,United States,West Virginia,54,Wirt,105
+PALU2,United States,West Virginia,54,Wyoming,109

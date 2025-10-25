@@ -1,0 +1,84 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+CEFE,United States,Arizona,04,,
+CEFE,United States,Arizona,04,Apache,001
+CEFE,United States,Arizona,04,Cochise,003
+CEFE,United States,Arizona,04,Coconino,005
+CEFE,United States,Arizona,04,Graham,009
+CEFE,United States,Arizona,04,Mohave,015
+CEFE,United States,Arizona,04,Navajo,017
+CEFE,United States,Arizona,04,Pima,019
+CEFE,United States,Arizona,04,Santa Cruz,023
+CEFE,United States,Arizona,04,Yavapai,025
+CEFE,United States,Colorado,08,,
+CEFE,United States,Colorado,08,Archuleta,007
+CEFE,United States,Colorado,08,Boulder,013
+CEFE,United States,Colorado,08,Chaffee,015
+CEFE,United States,Colorado,08,Conejos,021
+CEFE,United States,Colorado,08,Costilla,023
+CEFE,United States,Colorado,08,Custer,027
+CEFE,United States,Colorado,08,Douglas,035
+CEFE,United States,Colorado,08,Gunnison,051
+CEFE,United States,Colorado,08,Jefferson,059
+CEFE,United States,Colorado,08,La Plata,067
+CEFE,United States,Colorado,08,Larimer,069
+CEFE,United States,Colorado,08,Las Animas,071
+CEFE,United States,Colorado,08,Mesa,077
+CEFE,United States,Colorado,08,Mineral,079
+CEFE,United States,Colorado,08,Montezuma,083
+CEFE,United States,Colorado,08,Montrose,085
+CEFE,United States,Colorado,08,Ouray,091
+CEFE,United States,Colorado,08,Pitkin,097
+CEFE,United States,Colorado,08,Pueblo,101
+CEFE,United States,Colorado,08,Rio Blanco,103
+CEFE,United States,Colorado,08,Routt,107
+CEFE,United States,New Mexico,35,,
+CEFE,United States,New Mexico,35,Bernalillo,001
+CEFE,United States,New Mexico,35,Catron,003
+CEFE,United States,New Mexico,35,Colfax,007
+CEFE,United States,New Mexico,35,Dona Ana,013
+CEFE,United States,New Mexico,35,Grant,017
+CEFE,United States,New Mexico,35,Hidalgo,023
+CEFE,United States,New Mexico,35,Lincoln,027
+CEFE,United States,New Mexico,35,Los Alamos,028
+CEFE,United States,New Mexico,35,McKinley,031
+CEFE,United States,New Mexico,35,Mora,033
+CEFE,United States,New Mexico,35,Rio Arriba,039
+CEFE,United States,New Mexico,35,San Juan,045
+CEFE,United States,New Mexico,35,San Miguel,047
+CEFE,United States,New Mexico,35,Sandoval,043
+CEFE,United States,New Mexico,35,Santa Fe,049
+CEFE,United States,New Mexico,35,Sierra,051
+CEFE,United States,New Mexico,35,Socorro,053
+CEFE,United States,New Mexico,35,Taos,055
+CEFE,United States,New Mexico,35,Torrance,057
+CEFE,United States,New Mexico,35,Valencia,061
+CEFE,United States,South Dakota,46,,
+CEFE,United States,South Dakota,46,Custer,033
+CEFE,United States,South Dakota,46,Lawrence,081
+CEFE,United States,Texas,48,,
+CEFE,United States,Texas,48,Childress,075
+CEFE,United States,Texas,48,Cottle,101
+CEFE,United States,Texas,48,Foard,155
+CEFE,United States,Texas,48,Hardeman,197
+CEFE,United States,Texas,48,Jeff Davis,243
+CEFE,United States,Texas,48,Motley,345
+CEFE,United States,Utah,49,,
+CEFE,United States,Utah,49,Beaver,001
+CEFE,United States,Utah,49,Daggett,009
+CEFE,United States,Utah,49,Duchesne,013
+CEFE,United States,Utah,49,Garfield,017
+CEFE,United States,Utah,49,Grand,019
+CEFE,United States,Utah,49,Iron,021
+CEFE,United States,Utah,49,Kane,025
+CEFE,United States,Utah,49,Piute,031
+CEFE,United States,Utah,49,San Juan,037
+CEFE,United States,Utah,49,Sevier,041
+CEFE,United States,Utah,49,Uintah,047
+CEFE,United States,Utah,49,Washington,053
+CEFE,United States,Utah,49,Wayne,055
+CEFE,United States,Wyoming,56,,
+CEFE,United States,Wyoming,56,Albany,001
+CEFE,United States,Wyoming,56,Converse,009
+CEFE,United States,Wyoming,56,Crook,011
+CEFE,United States,Wyoming,56,Weston,045

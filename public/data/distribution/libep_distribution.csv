@@ -1,0 +1,134 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+LIBEP,United States,Alabama,01,,
+LIBEP,United States,Alabama,01,Barbour,005
+LIBEP,United States,Alabama,01,Bibb,007
+LIBEP,United States,Alabama,01,Calhoun,015
+LIBEP,United States,Alabama,01,Chambers,017
+LIBEP,United States,Alabama,01,Clay,027
+LIBEP,United States,Alabama,01,Cleburne,029
+LIBEP,United States,Alabama,01,Colbert,033
+LIBEP,United States,Alabama,01,Conecuh,035
+LIBEP,United States,Alabama,01,Coosa,037
+LIBEP,United States,Alabama,01,Cullman,043
+LIBEP,United States,Alabama,01,Etowah,055
+LIBEP,United States,Alabama,01,Franklin,059
+LIBEP,United States,Alabama,01,Houston,069
+LIBEP,United States,Alabama,01,Jackson,071
+LIBEP,United States,Alabama,01,Lawrence,079
+LIBEP,United States,Alabama,01,Lowndes,085
+LIBEP,United States,Alabama,01,Madison,089
+LIBEP,United States,Alabama,01,Marengo,091
+LIBEP,United States,Alabama,01,Marion,093
+LIBEP,United States,Alabama,01,Marshall,095
+LIBEP,United States,Alabama,01,Montgomery,101
+LIBEP,United States,Alabama,01,Morgan,103
+LIBEP,United States,Alabama,01,Russell,113
+LIBEP,United States,Alabama,01,St. Clair,115
+LIBEP,United States,Alabama,01,Sumter,119
+LIBEP,United States,Alabama,01,Talladega,121
+LIBEP,United States,Alabama,01,Tuscaloosa,125
+LIBEP,United States,Alabama,01,Walker,127
+LIBEP,United States,Alabama,01,Winston,133
+LIBEP,United States,Arkansas,05,,
+LIBEP,United States,Delaware,10,,
+LIBEP,United States,Florida,12,,
+LIBEP,United States,Florida,12,Brevard,009
+LIBEP,United States,Florida,12,Calhoun,013
+LIBEP,United States,Florida,12,Gadsden,039
+LIBEP,United States,Florida,12,Jackson,063
+LIBEP,United States,Florida,12,Liberty,077
+LIBEP,United States,Florida,12,Okaloosa,091
+LIBEP,United States,Florida,12,Orange,095
+LIBEP,United States,Florida,12,Putnam,107
+LIBEP,United States,Florida,12,Volusia,127
+LIBEP,United States,Georgia,13,,
+LIBEP,United States,Illinois,17,,
+LIBEP,United States,Illinois,17,Jackson,077
+LIBEP,United States,Illinois,17,Johnson,087
+LIBEP,United States,Illinois,17,Union,181
+LIBEP,United States,Indiana,18,,
+LIBEP,United States,Iowa,19,,
+LIBEP,United States,Kansas,20,,
+LIBEP,United States,Kentucky,21,,
+LIBEP,United States,Kentucky,21,Carter,043
+LIBEP,United States,Louisiana,22,,
+LIBEP,United States,Louisiana,22,Assumption,007
+LIBEP,United States,Louisiana,22,Bienville,013
+LIBEP,United States,Louisiana,22,Bossier,015
+LIBEP,United States,Louisiana,22,Caddo,017
+LIBEP,United States,Louisiana,22,Caldwell,021
+LIBEP,United States,Louisiana,22,Catahoula,025
+LIBEP,United States,Louisiana,22,Claiborne,027
+LIBEP,United States,Louisiana,22,De Soto,031
+LIBEP,United States,Louisiana,22,East Baton Rouge,033
+LIBEP,United States,Louisiana,22,East Feliciana,037
+LIBEP,United States,Louisiana,22,Evangeline,039
+LIBEP,United States,Louisiana,22,Iberia,045
+LIBEP,United States,Louisiana,22,Iberville,047
+LIBEP,United States,Louisiana,22,Jackson,049
+LIBEP,United States,Louisiana,22,LaSalle,059
+LIBEP,United States,Louisiana,22,Lincoln,061
+LIBEP,United States,Louisiana,22,Madison,065
+LIBEP,United States,Louisiana,22,Morehouse,067
+LIBEP,United States,Louisiana,22,Natchitoches,069
+LIBEP,United States,Louisiana,22,Orleans,071
+LIBEP,United States,Louisiana,22,Ouachita,073
+LIBEP,United States,Louisiana,22,Pointe Coupee,077
+LIBEP,United States,Louisiana,22,Rapides,079
+LIBEP,United States,Louisiana,22,Richland,083
+LIBEP,United States,Louisiana,22,Sabine,085
+LIBEP,United States,Louisiana,22,St. Helena,091
+LIBEP,United States,Louisiana,22,St. Landry,097
+LIBEP,United States,Louisiana,22,St. Martin,099
+LIBEP,United States,Louisiana,22,St. Mary,101
+LIBEP,United States,Louisiana,22,Union,111
+LIBEP,United States,Louisiana,22,Vernon,115
+LIBEP,United States,Louisiana,22,West Baton Rouge,121
+LIBEP,United States,Louisiana,22,West Feliciana,125
+LIBEP,United States,Louisiana,22,Winn,127
+LIBEP,United States,Maryland,24,,
+LIBEP,United States,Michigan,26,,
+LIBEP,United States,Mississippi,28,,
+LIBEP,United States,Missouri,29,,
+LIBEP,United States,Missouri,29,Boone,019
+LIBEP,United States,Missouri,29,Callaway,027
+LIBEP,United States,Missouri,29,Camden,029
+LIBEP,United States,Missouri,29,Cape Girardeau,031
+LIBEP,United States,Missouri,29,Dent,065
+LIBEP,United States,Missouri,29,Hickory,085
+LIBEP,United States,Missouri,29,Iron,093
+LIBEP,United States,Missouri,29,Jasper,097
+LIBEP,United States,Missouri,29,Jefferson,099
+LIBEP,United States,Missouri,29,Lawrence,109
+LIBEP,United States,Missouri,29,Lincoln,113
+LIBEP,United States,Missouri,29,McDonald,119
+LIBEP,United States,Missouri,29,Mississippi,133
+LIBEP,United States,Missouri,29,Moniteau,135
+LIBEP,United States,Missouri,29,Montgomery,139
+LIBEP,United States,Missouri,29,Morgan,141
+LIBEP,United States,Missouri,29,New Madrid,143
+LIBEP,United States,Missouri,29,Newton,145
+LIBEP,United States,Missouri,29,Oregon,149
+LIBEP,United States,Missouri,29,Osage,151
+LIBEP,United States,Missouri,29,Ozark,153
+LIBEP,United States,Missouri,29,Pike,163
+LIBEP,United States,Missouri,29,Polk,167
+LIBEP,United States,Missouri,29,Reynolds,179
+LIBEP,United States,Missouri,29,Scott,201
+LIBEP,United States,Missouri,29,Shannon,203
+LIBEP,United States,Missouri,29,St. Francois,187
+LIBEP,United States,Missouri,29,St. Louis,189
+LIBEP,United States,Missouri,29,Stoddard,207
+LIBEP,United States,Missouri,29,Stone,209
+LIBEP,United States,Missouri,29,Taney,213
+LIBEP,United States,New Jersey,34,,
+LIBEP,United States,North Carolina,37,,
+LIBEP,United States,Ohio,39,,
+LIBEP,United States,Oklahoma,40,,
+LIBEP,United States,Pennsylvania,42,,
+LIBEP,United States,South Carolina,45,,
+LIBEP,United States,Tennessee,47,,
+LIBEP,United States,Texas,48,,
+LIBEP,United States,Virginia,51,,
+LIBEP,United States,West Virginia,54,,

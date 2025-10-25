@@ -1,0 +1,132 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+THTRT,United States,Alabama,01,,
+THTRT,United States,Arkansas,05,,
+THTRT,United States,Arkansas,05,Carroll,015
+THTRT,United States,Arkansas,05,Madison,087
+THTRT,United States,Florida,12,,
+THTRT,United States,Georgia,13,,
+THTRT,United States,Illinois,17,,
+THTRT,United States,Kansas,20,,
+THTRT,United States,Kentucky,21,,
+THTRT,United States,Kentucky,21,Breathitt,025
+THTRT,United States,Kentucky,21,Bullitt,029
+THTRT,United States,Kentucky,21,Floyd,071
+THTRT,United States,Kentucky,21,Harlan,095
+THTRT,United States,Kentucky,21,Letcher,133
+THTRT,United States,Kentucky,21,Livingston,139
+THTRT,United States,Kentucky,21,Russell,207
+THTRT,United States,Kentucky,21,Whitley,235
+THTRT,United States,Louisiana,22,,
+THTRT,United States,Mississippi,28,,
+THTRT,United States,Mississippi,28,Choctaw,019
+THTRT,United States,Missouri,29,,
+THTRT,United States,Missouri,29,Laclede,105
+THTRT,United States,New Jersey,34,,
+THTRT,United States,New Jersey,34,Bergen,003
+THTRT,United States,New Jersey,34,Burlington,005
+THTRT,United States,New Jersey,34,Camden,007
+THTRT,United States,New Jersey,34,Gloucester,015
+THTRT,United States,New Jersey,34,Hunterdon,019
+THTRT,United States,New Jersey,34,Mercer,021
+THTRT,United States,New Jersey,34,Middlesex,023
+THTRT,United States,New Jersey,34,Monmouth,025
+THTRT,United States,New Jersey,34,Ocean,029
+THTRT,United States,New Jersey,34,Somerset,035
+THTRT,United States,New Jersey,34,Sussex,037
+THTRT,United States,New Jersey,34,Union,039
+THTRT,United States,New Jersey,34,Warren,041
+THTRT,United States,North Carolina,37,,
+THTRT,United States,North Carolina,37,Avery,011
+THTRT,United States,North Carolina,37,Beaufort,013
+THTRT,United States,North Carolina,37,Buncombe,021
+THTRT,United States,North Carolina,37,Caswell,033
+THTRT,United States,North Carolina,37,Clay,043
+THTRT,United States,North Carolina,37,Craven,049
+THTRT,United States,North Carolina,37,Davidson,057
+THTRT,United States,North Carolina,37,Durham,063
+THTRT,United States,North Carolina,37,Franklin,069
+THTRT,United States,North Carolina,37,Graham,075
+THTRT,United States,North Carolina,37,Granville,077
+THTRT,United States,North Carolina,37,Guilford,081
+THTRT,United States,North Carolina,37,Halifax,083
+THTRT,United States,North Carolina,37,Harnett,085
+THTRT,United States,North Carolina,37,Haywood,087
+THTRT,United States,North Carolina,37,Henderson,089
+THTRT,United States,North Carolina,37,Hoke,093
+THTRT,United States,North Carolina,37,Iredell,097
+THTRT,United States,North Carolina,37,Jackson,099
+THTRT,United States,North Carolina,37,Lee,105
+THTRT,United States,North Carolina,37,Macon,113
+THTRT,United States,North Carolina,37,Madison,115
+THTRT,United States,North Carolina,37,McDowell,111
+THTRT,United States,North Carolina,37,Mecklenburg,119
+THTRT,United States,North Carolina,37,Mitchell,121
+THTRT,United States,North Carolina,37,Montgomery,123
+THTRT,United States,North Carolina,37,Northampton,131
+THTRT,United States,North Carolina,37,Orange,135
+THTRT,United States,North Carolina,37,Richmond,153
+THTRT,United States,North Carolina,37,Rowan,159
+THTRT,United States,North Carolina,37,Swain,173
+THTRT,United States,North Carolina,37,Transylvania,175
+THTRT,United States,North Carolina,37,Vance,181
+THTRT,United States,North Carolina,37,Warren,185
+THTRT,United States,North Carolina,37,Yancey,199
+THTRT,United States,Ohio,39,,
+THTRT,United States,Ohio,39,Columbiana,029
+THTRT,United States,Ohio,39,Scioto,145
+THTRT,United States,Pennsylvania,42,,
+THTRT,United States,Pennsylvania,42,Bucks,017
+THTRT,United States,Pennsylvania,42,Delaware,045
+THTRT,United States,Pennsylvania,42,Erie,049
+THTRT,United States,Pennsylvania,42,Lehigh,077
+THTRT,United States,Pennsylvania,42,Montgomery,091
+THTRT,United States,Pennsylvania,42,Northampton,095
+THTRT,United States,Pennsylvania,42,Philadelphia,101
+THTRT,United States,Pennsylvania,42,Warren,123
+THTRT,United States,Pennsylvania,42,Westmoreland,129
+THTRT,United States,Rhode Island,44,,
+THTRT,United States,South Carolina,45,,
+THTRT,United States,South Carolina,45,Abbeville,001
+THTRT,United States,South Carolina,45,Barnwell,011
+THTRT,United States,South Carolina,45,Chester,023
+THTRT,United States,South Carolina,45,Jasper,053
+THTRT,United States,South Carolina,45,Lancaster,057
+THTRT,United States,South Carolina,45,McCormick,065
+THTRT,United States,South Carolina,45,Oconee,073
+THTRT,United States,South Carolina,45,Richland,079
+THTRT,United States,South Carolina,45,York,091
+THTRT,United States,Tennessee,47,,
+THTRT,United States,Tennessee,47,Cheatham,021
+THTRT,United States,Tennessee,47,Claiborne,025
+THTRT,United States,Tennessee,47,Davidson,037
+THTRT,United States,Tennessee,47,Franklin,051
+THTRT,United States,Tennessee,47,Hamilton,065
+THTRT,United States,Tennessee,47,Johnson,091
+THTRT,United States,Tennessee,47,Montgomery,125
+THTRT,United States,Tennessee,47,Stewart,161
+THTRT,United States,Tennessee,47,Sumner,165
+THTRT,United States,Virginia,51,,
+THTRT,United States,West Virginia,54,,
+THTRT,United States,West Virginia,54,Berkeley,003
+THTRT,United States,West Virginia,54,Boone,005
+THTRT,United States,West Virginia,54,Calhoun,013
+THTRT,United States,West Virginia,54,Fayette,019
+THTRT,United States,West Virginia,54,Greenbrier,025
+THTRT,United States,West Virginia,54,Hampshire,027
+THTRT,United States,West Virginia,54,Hardy,031
+THTRT,United States,West Virginia,54,Jackson,035
+THTRT,United States,West Virginia,54,Logan,045
+THTRT,United States,West Virginia,54,Marion,049
+THTRT,United States,West Virginia,54,McDowell,047
+THTRT,United States,West Virginia,54,Mingo,059
+THTRT,United States,West Virginia,54,Monongalia,061
+THTRT,United States,West Virginia,54,Monroe,063
+THTRT,United States,West Virginia,54,Raleigh,081
+THTRT,United States,West Virginia,54,Ritchie,085
+THTRT,United States,West Virginia,54,Summers,089
+THTRT,United States,West Virginia,54,Tucker,093
+THTRT,United States,West Virginia,54,Webster,101
+THTRT,United States,West Virginia,54,Wetzel,103
+THTRT,United States,West Virginia,54,Wirt,105
+THTRT,United States,West Virginia,54,Wyoming,109

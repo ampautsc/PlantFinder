@@ -1,0 +1,154 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ARLA8,Canada,Alberta,01,,
+ARLA8,Canada,British Columbia,02,,
+ARLA8,United States,Alaska,02,,
+ARLA8,United States,Alaska,02,Anchorage,020
+ARLA8,United States,Alaska,02,Bethel,050
+ARLA8,United States,Alaska,02,Chugach,063
+ARLA8,United States,Alaska,02,Copper River,066
+ARLA8,United States,Alaska,02,Denali,068
+ARLA8,United States,Alaska,02,Haines,100
+ARLA8,United States,Alaska,02,Juneau,110
+ARLA8,United States,Alaska,02,Kenai Peninsula,122
+ARLA8,United States,Alaska,02,Ketchikan Gateway,130
+ARLA8,United States,Alaska,02,Kodiak Island,150
+ARLA8,United States,Alaska,02,Lake and Peninsula,164
+ARLA8,United States,Alaska,02,Matanuska-Susitna,170
+ARLA8,United States,Alaska,02,Sitka,220
+ARLA8,United States,Alaska,02,Yakutat,282
+ARLA8,United States,California,06,,
+ARLA8,United States,California,06,Butte,007
+ARLA8,United States,California,06,El Dorado,017
+ARLA8,United States,California,06,Humboldt,023
+ARLA8,United States,California,06,Placer,061
+ARLA8,United States,California,06,Plumas,063
+ARLA8,United States,California,06,Shasta,089
+ARLA8,United States,California,06,Siskiyou,093
+ARLA8,United States,California,06,Trinity,105
+ARLA8,United States,Colorado,08,,
+ARLA8,United States,Colorado,08,Boulder,013
+ARLA8,United States,Colorado,08,Clear Creek,019
+ARLA8,United States,Colorado,08,El Paso,041
+ARLA8,United States,Colorado,08,Garfield,045
+ARLA8,United States,Colorado,08,Gilpin,047
+ARLA8,United States,Colorado,08,Grand,049
+ARLA8,United States,Colorado,08,Gunnison,051
+ARLA8,United States,Colorado,08,Jackson,057
+ARLA8,United States,Colorado,08,Larimer,069
+ARLA8,United States,Colorado,08,Ouray,091
+ARLA8,United States,Colorado,08,Pitkin,097
+ARLA8,United States,Colorado,08,Routt,107
+ARLA8,United States,Colorado,08,San Juan,111
+ARLA8,United States,Colorado,08,San Miguel,113
+ARLA8,United States,Colorado,08,Summit,117
+ARLA8,Canada,Yukon,12,,
+ARLA8,Canada,Northwest Territories,13,,
+ARLA8,United States,Idaho,16,,
+ARLA8,United States,Idaho,16,Bannock,005
+ARLA8,United States,Idaho,16,Bear Lake,007
+ARLA8,United States,Idaho,16,Benewah,009
+ARLA8,United States,Idaho,16,Blaine,013
+ARLA8,United States,Idaho,16,Boise,015
+ARLA8,United States,Idaho,16,Bonner,017
+ARLA8,United States,Idaho,16,Bonneville,019
+ARLA8,United States,Idaho,16,Boundary,021
+ARLA8,United States,Idaho,16,Clearwater,035
+ARLA8,United States,Idaho,16,Custer,037
+ARLA8,United States,Idaho,16,Elmore,039
+ARLA8,United States,Idaho,16,Franklin,041
+ARLA8,United States,Idaho,16,Fremont,043
+ARLA8,United States,Idaho,16,Idaho,049
+ARLA8,United States,Idaho,16,Kootenai,055
+ARLA8,United States,Idaho,16,Latah,057
+ARLA8,United States,Idaho,16,Lemhi,059
+ARLA8,United States,Idaho,16,Shoshone,079
+ARLA8,United States,Idaho,16,Valley,085
+ARLA8,United States,Montana,30,,
+ARLA8,United States,Montana,30,Beaverhead,001
+ARLA8,United States,Montana,30,Carbon,009
+ARLA8,United States,Montana,30,Cascade,013
+ARLA8,United States,Montana,30,Flathead,029
+ARLA8,United States,Montana,30,Gallatin,031
+ARLA8,United States,Montana,30,Glacier,035
+ARLA8,United States,Montana,30,Granite,039
+ARLA8,United States,Montana,30,Judith Basin,045
+ARLA8,United States,Montana,30,Lake,047
+ARLA8,United States,Montana,30,Lewis and Clark,049
+ARLA8,United States,Montana,30,Madison,057
+ARLA8,United States,Montana,30,Meagher,059
+ARLA8,United States,Montana,30,Missoula,063
+ARLA8,United States,Montana,30,Park,067
+ARLA8,United States,Montana,30,Powell,077
+ARLA8,United States,Montana,30,Stillwater,095
+ARLA8,United States,Montana,30,Sweet Grass,097
+ARLA8,United States,Nevada,32,,
+ARLA8,United States,Nevada,32,Elko,007
+ARLA8,United States,New Mexico,35,,
+ARLA8,United States,New Mexico,35,Taos,055
+ARLA8,United States,Oregon,41,,
+ARLA8,United States,Oregon,41,Clackamas,005
+ARLA8,United States,Oregon,41,Clatsop,007
+ARLA8,United States,Oregon,41,Curry,015
+ARLA8,United States,Oregon,41,Deschutes,017
+ARLA8,United States,Oregon,41,Douglas,019
+ARLA8,United States,Oregon,41,Grant,023
+ARLA8,United States,Oregon,41,Harney,025
+ARLA8,United States,Oregon,41,Hood River,027
+ARLA8,United States,Oregon,41,Jackson,029
+ARLA8,United States,Oregon,41,Jefferson,031
+ARLA8,United States,Oregon,41,Josephine,033
+ARLA8,United States,Oregon,41,Klamath,035
+ARLA8,United States,Oregon,41,Lane,039
+ARLA8,United States,Oregon,41,Linn,043
+ARLA8,United States,Oregon,41,Marion,047
+ARLA8,United States,Oregon,41,Multnomah,051
+ARLA8,United States,Oregon,41,Tillamook,057
+ARLA8,United States,Oregon,41,Umatilla,059
+ARLA8,United States,Oregon,41,Union,061
+ARLA8,United States,Oregon,41,Wallowa,063
+ARLA8,United States,Oregon,41,Wasco,065
+ARLA8,United States,Oregon,41,Washington,067
+ARLA8,United States,Utah,49,,
+ARLA8,United States,Utah,49,Cache,005
+ARLA8,United States,Utah,49,Daggett,009
+ARLA8,United States,Utah,49,Davis,011
+ARLA8,United States,Utah,49,Duchesne,013
+ARLA8,United States,Utah,49,Salt Lake,035
+ARLA8,United States,Utah,49,Summit,043
+ARLA8,United States,Utah,49,Uintah,047
+ARLA8,United States,Utah,49,Utah,049
+ARLA8,United States,Utah,49,Wasatch,051
+ARLA8,United States,Washington,53,,
+ARLA8,United States,Washington,53,Chelan,007
+ARLA8,United States,Washington,53,Clallam,009
+ARLA8,United States,Washington,53,Columbia,013
+ARLA8,United States,Washington,53,Garfield,023
+ARLA8,United States,Washington,53,Grays Harbor,027
+ARLA8,United States,Washington,53,Jefferson,031
+ARLA8,United States,Washington,53,King,033
+ARLA8,United States,Washington,53,Kittitas,037
+ARLA8,United States,Washington,53,Klickitat,039
+ARLA8,United States,Washington,53,Lewis,041
+ARLA8,United States,Washington,53,Mason,045
+ARLA8,United States,Washington,53,Okanogan,047
+ARLA8,United States,Washington,53,Pierce,053
+ARLA8,United States,Washington,53,Skagit,057
+ARLA8,United States,Washington,53,Skamania,059
+ARLA8,United States,Washington,53,Snohomish,061
+ARLA8,United States,Washington,53,Spokane,063
+ARLA8,United States,Washington,53,Thurston,067
+ARLA8,United States,Washington,53,Walla Walla,071
+ARLA8,United States,Washington,53,Whatcom,073
+ARLA8,United States,Washington,53,Yakima,077
+ARLA8,United States,Wyoming,56,,
+ARLA8,United States,Wyoming,56,Albany,001
+ARLA8,United States,Wyoming,56,Big Horn,003
+ARLA8,United States,Wyoming,56,Carbon,007
+ARLA8,United States,Wyoming,56,Fremont,013
+ARLA8,United States,Wyoming,56,Johnson,019
+ARLA8,United States,Wyoming,56,Lincoln,023
+ARLA8,United States,Wyoming,56,Park,029
+ARLA8,United States,Wyoming,56,Sheridan,033
+ARLA8,United States,Wyoming,56,Sublette,035
+ARLA8,United States,Wyoming,56,Teton,039

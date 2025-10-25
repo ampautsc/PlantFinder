@@ -1,0 +1,35 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+TROCS,United States,Arizona,04,,
+TROCS,United States,Arizona,04,Apache,001
+TROCS,United States,Arizona,04,Cochise,003
+TROCS,United States,Arizona,04,Gila,007
+TROCS,United States,Arizona,04,Graham,009
+TROCS,United States,Arizona,04,Maricopa,013
+TROCS,United States,Arizona,04,Navajo,017
+TROCS,United States,Arizona,04,Pima,019
+TROCS,United States,Arizona,04,Pinal,021
+TROCS,United States,Colorado,08,,
+TROCS,United States,Colorado,08,Baca,009
+TROCS,United States,Colorado,08,Bent,011
+TROCS,United States,Colorado,08,Boulder,013
+TROCS,United States,Colorado,08,Cheyenne,017
+TROCS,United States,Colorado,08,Denver,031
+TROCS,United States,Colorado,08,Douglas,035
+TROCS,United States,Colorado,08,El Paso,041
+TROCS,United States,Colorado,08,Elbert,039
+TROCS,United States,Colorado,08,Fremont,043
+TROCS,United States,Colorado,08,Jefferson,059
+TROCS,United States,Colorado,08,Larimer,069
+TROCS,United States,Colorado,08,Las Animas,071
+TROCS,United States,Colorado,08,Lincoln,073
+TROCS,United States,Colorado,08,Logan,075
+TROCS,United States,Colorado,08,Morgan,087
+TROCS,United States,Colorado,08,Sedgwick,115
+TROCS,United States,Colorado,08,Washington,121
+TROCS,United States,Colorado,08,Weld,123
+TROCS,United States,Colorado,08,Yuma,125
+TROCS,United States,New Mexico,35,,
+TROCS,United States,New Mexico,35,McKinley,031
+TROCS,United States,New Mexico,35,Rio Arriba,039
+TROCS,United States,Utah,49,,

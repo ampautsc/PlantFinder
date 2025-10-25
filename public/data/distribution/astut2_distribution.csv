@@ -1,0 +1,311 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ASTUT2,United States,Alabama,01,,
+ASTUT2,United States,Connecticut,09,,
+ASTUT2,United States,Delaware,10,,
+ASTUT2,United States,Delaware,10,Kent,001
+ASTUT2,United States,Delaware,10,New Castle,003
+ASTUT2,United States,Delaware,10,Sussex,005
+ASTUT2,United States,District of Columbia,11,,
+ASTUT2,United States,District of Columbia,11,District of Columbia,001
+ASTUT2,United States,Florida,12,,
+ASTUT2,United States,Georgia,13,,
+ASTUT2,United States,Illinois,17,,
+ASTUT2,United States,Indiana,18,,
+ASTUT2,United States,Indiana,18,Bartholomew,005
+ASTUT2,United States,Indiana,18,Franklin,047
+ASTUT2,United States,Indiana,18,Harrison,061
+ASTUT2,United States,Kentucky,21,,
+ASTUT2,United States,Maine,23,,
+ASTUT2,United States,Maine,23,York,031
+ASTUT2,United States,Maryland,24,,
+ASTUT2,United States,Massachusetts,25,,
+ASTUT2,United States,Massachusetts,25,Barnstable,001
+ASTUT2,United States,Massachusetts,25,Berkshire,003
+ASTUT2,United States,Massachusetts,25,Bristol,005
+ASTUT2,United States,Massachusetts,25,Dukes,007
+ASTUT2,United States,Massachusetts,25,Essex,009
+ASTUT2,United States,Massachusetts,25,Franklin,011
+ASTUT2,United States,Massachusetts,25,Hampden,013
+ASTUT2,United States,Massachusetts,25,Hampshire,015
+ASTUT2,United States,Massachusetts,25,Middlesex,017
+ASTUT2,United States,Massachusetts,25,Nantucket,019
+ASTUT2,United States,Massachusetts,25,Norfolk,021
+ASTUT2,United States,Massachusetts,25,Plymouth,023
+ASTUT2,United States,Massachusetts,25,Worcester,027
+ASTUT2,United States,Mississippi,28,,
+ASTUT2,United States,Mississippi,28,Adams,001
+ASTUT2,United States,Mississippi,28,Clarke,023
+ASTUT2,United States,Mississippi,28,Perry,111
+ASTUT2,United States,New Hampshire,33,,
+ASTUT2,United States,New Hampshire,33,Carroll,003
+ASTUT2,United States,New Hampshire,33,Cheshire,005
+ASTUT2,United States,New Hampshire,33,Hillsborough,011
+ASTUT2,United States,New Jersey,34,,
+ASTUT2,United States,New Jersey,34,Atlantic,001
+ASTUT2,United States,New Jersey,34,Bergen,003
+ASTUT2,United States,New Jersey,34,Burlington,005
+ASTUT2,United States,New Jersey,34,Camden,007
+ASTUT2,United States,New Jersey,34,Cape May,009
+ASTUT2,United States,New Jersey,34,Cumberland,011
+ASTUT2,United States,New Jersey,34,Essex,013
+ASTUT2,United States,New Jersey,34,Gloucester,015
+ASTUT2,United States,New Jersey,34,Hunterdon,019
+ASTUT2,United States,New Jersey,34,Middlesex,023
+ASTUT2,United States,New Jersey,34,Monmouth,025
+ASTUT2,United States,New Jersey,34,Morris,027
+ASTUT2,United States,New Jersey,34,Ocean,029
+ASTUT2,United States,New Jersey,34,Salem,033
+ASTUT2,United States,New Jersey,34,Somerset,035
+ASTUT2,United States,New Jersey,34,Sussex,037
+ASTUT2,United States,New Jersey,34,Union,039
+ASTUT2,United States,New Jersey,34,Warren,041
+ASTUT2,United States,New York,36,,
+ASTUT2,United States,North Carolina,37,,
+ASTUT2,United States,North Carolina,37,Alamance,001
+ASTUT2,United States,North Carolina,37,Alexander,003
+ASTUT2,United States,North Carolina,37,Alleghany,005
+ASTUT2,United States,North Carolina,37,Anson,007
+ASTUT2,United States,North Carolina,37,Ashe,009
+ASTUT2,United States,North Carolina,37,Avery,011
+ASTUT2,United States,North Carolina,37,Beaufort,013
+ASTUT2,United States,North Carolina,37,Bertie,015
+ASTUT2,United States,North Carolina,37,Bladen,017
+ASTUT2,United States,North Carolina,37,Brunswick,019
+ASTUT2,United States,North Carolina,37,Buncombe,021
+ASTUT2,United States,North Carolina,37,Burke,023
+ASTUT2,United States,North Carolina,37,Cabarrus,025
+ASTUT2,United States,North Carolina,37,Caldwell,027
+ASTUT2,United States,North Carolina,37,Camden,029
+ASTUT2,United States,North Carolina,37,Caswell,033
+ASTUT2,United States,North Carolina,37,Catawba,035
+ASTUT2,United States,North Carolina,37,Chatham,037
+ASTUT2,United States,North Carolina,37,Cherokee,039
+ASTUT2,United States,North Carolina,37,Chowan,041
+ASTUT2,United States,North Carolina,37,Clay,043
+ASTUT2,United States,North Carolina,37,Cleveland,045
+ASTUT2,United States,North Carolina,37,Columbus,047
+ASTUT2,United States,North Carolina,37,Craven,049
+ASTUT2,United States,North Carolina,37,Cumberland,051
+ASTUT2,United States,North Carolina,37,Currituck,053
+ASTUT2,United States,North Carolina,37,Dare,055
+ASTUT2,United States,North Carolina,37,Davidson,057
+ASTUT2,United States,North Carolina,37,Duplin,061
+ASTUT2,United States,North Carolina,37,Durham,063
+ASTUT2,United States,North Carolina,37,Edgecombe,065
+ASTUT2,United States,North Carolina,37,Forsyth,067
+ASTUT2,United States,North Carolina,37,Franklin,069
+ASTUT2,United States,North Carolina,37,Gaston,071
+ASTUT2,United States,North Carolina,37,Gates,073
+ASTUT2,United States,North Carolina,37,Graham,075
+ASTUT2,United States,North Carolina,37,Granville,077
+ASTUT2,United States,North Carolina,37,Greene,079
+ASTUT2,United States,North Carolina,37,Guilford,081
+ASTUT2,United States,North Carolina,37,Halifax,083
+ASTUT2,United States,North Carolina,37,Harnett,085
+ASTUT2,United States,North Carolina,37,Haywood,087
+ASTUT2,United States,North Carolina,37,Henderson,089
+ASTUT2,United States,North Carolina,37,Hertford,091
+ASTUT2,United States,North Carolina,37,Hoke,093
+ASTUT2,United States,North Carolina,37,Iredell,097
+ASTUT2,United States,North Carolina,37,Jackson,099
+ASTUT2,United States,North Carolina,37,Johnston,101
+ASTUT2,United States,North Carolina,37,Jones,103
+ASTUT2,United States,North Carolina,37,Lee,105
+ASTUT2,United States,North Carolina,37,Lenoir,107
+ASTUT2,United States,North Carolina,37,Lincoln,109
+ASTUT2,United States,North Carolina,37,Macon,113
+ASTUT2,United States,North Carolina,37,Madison,115
+ASTUT2,United States,North Carolina,37,Martin,117
+ASTUT2,United States,North Carolina,37,McDowell,111
+ASTUT2,United States,North Carolina,37,Mecklenburg,119
+ASTUT2,United States,North Carolina,37,Mitchell,121
+ASTUT2,United States,North Carolina,37,Montgomery,123
+ASTUT2,United States,North Carolina,37,Moore,125
+ASTUT2,United States,North Carolina,37,Nash,127
+ASTUT2,United States,North Carolina,37,New Hanover,129
+ASTUT2,United States,North Carolina,37,Northampton,131
+ASTUT2,United States,North Carolina,37,Onslow,133
+ASTUT2,United States,North Carolina,37,Orange,135
+ASTUT2,United States,North Carolina,37,Pender,141
+ASTUT2,United States,North Carolina,37,Person,145
+ASTUT2,United States,North Carolina,37,Pitt,147
+ASTUT2,United States,North Carolina,37,Polk,149
+ASTUT2,United States,North Carolina,37,Randolph,151
+ASTUT2,United States,North Carolina,37,Robeson,155
+ASTUT2,United States,North Carolina,37,Rockingham,157
+ASTUT2,United States,North Carolina,37,Rowan,159
+ASTUT2,United States,North Carolina,37,Rutherford,161
+ASTUT2,United States,North Carolina,37,Sampson,163
+ASTUT2,United States,North Carolina,37,Scotland,165
+ASTUT2,United States,North Carolina,37,Stanly,167
+ASTUT2,United States,North Carolina,37,Stokes,169
+ASTUT2,United States,North Carolina,37,Surry,171
+ASTUT2,United States,North Carolina,37,Swain,173
+ASTUT2,United States,North Carolina,37,Transylvania,175
+ASTUT2,United States,North Carolina,37,Union,179
+ASTUT2,United States,North Carolina,37,Vance,181
+ASTUT2,United States,North Carolina,37,Wake,183
+ASTUT2,United States,North Carolina,37,Warren,185
+ASTUT2,United States,North Carolina,37,Washington,187
+ASTUT2,United States,North Carolina,37,Watauga,189
+ASTUT2,United States,North Carolina,37,Wayne,191
+ASTUT2,United States,North Carolina,37,Wilkes,193
+ASTUT2,United States,North Carolina,37,Wilson,195
+ASTUT2,United States,North Carolina,37,Yadkin,197
+ASTUT2,United States,North Carolina,37,Yancey,199
+ASTUT2,United States,Ohio,39,,
+ASTUT2,United States,Pennsylvania,42,,
+ASTUT2,United States,Rhode Island,44,,
+ASTUT2,United States,Rhode Island,44,Providence,007
+ASTUT2,United States,Rhode Island,44,Washington,009
+ASTUT2,United States,South Carolina,45,,
+ASTUT2,United States,South Carolina,45,Abbeville,001
+ASTUT2,United States,South Carolina,45,Aiken,003
+ASTUT2,United States,South Carolina,45,Allendale,005
+ASTUT2,United States,South Carolina,45,Anderson,007
+ASTUT2,United States,South Carolina,45,Bamberg,009
+ASTUT2,United States,South Carolina,45,Barnwell,011
+ASTUT2,United States,South Carolina,45,Beaufort,013
+ASTUT2,United States,South Carolina,45,Berkeley,015
+ASTUT2,United States,South Carolina,45,Calhoun,017
+ASTUT2,United States,South Carolina,45,Charleston,019
+ASTUT2,United States,South Carolina,45,Cherokee,021
+ASTUT2,United States,South Carolina,45,Chester,023
+ASTUT2,United States,South Carolina,45,Chesterfield,025
+ASTUT2,United States,South Carolina,45,Clarendon,027
+ASTUT2,United States,South Carolina,45,Colleton,029
+ASTUT2,United States,South Carolina,45,Darlington,031
+ASTUT2,United States,South Carolina,45,Dorchester,035
+ASTUT2,United States,South Carolina,45,Edgefield,037
+ASTUT2,United States,South Carolina,45,Fairfield,039
+ASTUT2,United States,South Carolina,45,Florence,041
+ASTUT2,United States,South Carolina,45,Georgetown,043
+ASTUT2,United States,South Carolina,45,Greenville,045
+ASTUT2,United States,South Carolina,45,Greenwood,047
+ASTUT2,United States,South Carolina,45,Hampton,049
+ASTUT2,United States,South Carolina,45,Horry,051
+ASTUT2,United States,South Carolina,45,Jasper,053
+ASTUT2,United States,South Carolina,45,Kershaw,055
+ASTUT2,United States,South Carolina,45,Lancaster,057
+ASTUT2,United States,South Carolina,45,Laurens,059
+ASTUT2,United States,South Carolina,45,Lee,061
+ASTUT2,United States,South Carolina,45,Lexington,063
+ASTUT2,United States,South Carolina,45,Marion,067
+ASTUT2,United States,South Carolina,45,Marlboro,069
+ASTUT2,United States,South Carolina,45,Newberry,071
+ASTUT2,United States,South Carolina,45,Oconee,073
+ASTUT2,United States,South Carolina,45,Orangeburg,075
+ASTUT2,United States,South Carolina,45,Pickens,077
+ASTUT2,United States,South Carolina,45,Richland,079
+ASTUT2,United States,South Carolina,45,Saluda,081
+ASTUT2,United States,South Carolina,45,Spartanburg,083
+ASTUT2,United States,South Carolina,45,Sumter,085
+ASTUT2,United States,South Carolina,45,Union,087
+ASTUT2,United States,South Carolina,45,Williamsburg,089
+ASTUT2,United States,South Carolina,45,York,091
+ASTUT2,United States,Tennessee,47,,
+ASTUT2,United States,Vermont,50,,
+ASTUT2,United States,Vermont,50,Windham,025
+ASTUT2,United States,Virginia,51,,
+ASTUT2,United States,Virginia,51,Accomack,001
+ASTUT2,United States,Virginia,51,Albemarle,003
+ASTUT2,United States,Virginia,51,Alleghany,005
+ASTUT2,United States,Virginia,51,Amelia,007
+ASTUT2,United States,Virginia,51,Amherst,009
+ASTUT2,United States,Virginia,51,Appomattox,011
+ASTUT2,United States,Virginia,51,Arlington,013
+ASTUT2,United States,Virginia,51,Augusta,015
+ASTUT2,United States,Virginia,51,Bath,017
+ASTUT2,United States,Virginia,51,Bedford,019
+ASTUT2,United States,Virginia,51,Bland,021
+ASTUT2,United States,Virginia,51,Botetourt,023
+ASTUT2,United States,Virginia,51,Brunswick,025
+ASTUT2,United States,Virginia,51,Buchanan,027
+ASTUT2,United States,Virginia,51,Buckingham,029
+ASTUT2,United States,Virginia,51,Campbell,031
+ASTUT2,United States,Virginia,51,Caroline,033
+ASTUT2,United States,Virginia,51,Carroll,035
+ASTUT2,United States,Virginia,51,Charles City,036
+ASTUT2,United States,Virginia,51,Charlotte,037
+ASTUT2,United States,Virginia,51,Chesapeake ,550
+ASTUT2,United States,Virginia,51,Chesterfield,041
+ASTUT2,United States,Virginia,51,Clarke,043
+ASTUT2,United States,Virginia,51,Craig,045
+ASTUT2,United States,Virginia,51,Culpeper,047
+ASTUT2,United States,Virginia,51,Cumberland,049
+ASTUT2,United States,Virginia,51,Dickenson,051
+ASTUT2,United States,Virginia,51,Dinwiddie,053
+ASTUT2,United States,Virginia,51,Essex,057
+ASTUT2,United States,Virginia,51,Fairfax,059
+ASTUT2,United States,Virginia,51,Fauquier,061
+ASTUT2,United States,Virginia,51,Floyd,063
+ASTUT2,United States,Virginia,51,Fluvanna,065
+ASTUT2,United States,Virginia,51,Franklin,067
+ASTUT2,United States,Virginia,51,Frederick,069
+ASTUT2,United States,Virginia,51,Giles,071
+ASTUT2,United States,Virginia,51,Gloucester,073
+ASTUT2,United States,Virginia,51,Goochland,075
+ASTUT2,United States,Virginia,51,Grayson,077
+ASTUT2,United States,Virginia,51,Greene,079
+ASTUT2,United States,Virginia,51,Greensville,081
+ASTUT2,United States,Virginia,51,Halifax,083
+ASTUT2,United States,Virginia,51,Hampton ,650
+ASTUT2,United States,Virginia,51,Hanover,085
+ASTUT2,United States,Virginia,51,Henrico,087
+ASTUT2,United States,Virginia,51,Henry,089
+ASTUT2,United States,Virginia,51,Highland,091
+ASTUT2,United States,Virginia,51,Isle of Wight,093
+ASTUT2,United States,Virginia,51,James City,095
+ASTUT2,United States,Virginia,51,King and Queen,097
+ASTUT2,United States,Virginia,51,King George,099
+ASTUT2,United States,Virginia,51,King William,101
+ASTUT2,United States,Virginia,51,Lancaster,103
+ASTUT2,United States,Virginia,51,Lee,105
+ASTUT2,United States,Virginia,51,Loudoun,107
+ASTUT2,United States,Virginia,51,Louisa,109
+ASTUT2,United States,Virginia,51,Lunenburg,111
+ASTUT2,United States,Virginia,51,Madison,113
+ASTUT2,United States,Virginia,51,Mathews,115
+ASTUT2,United States,Virginia,51,Mecklenburg,117
+ASTUT2,United States,Virginia,51,Middlesex,119
+ASTUT2,United States,Virginia,51,Montgomery,121
+ASTUT2,United States,Virginia,51,Nelson,125
+ASTUT2,United States,Virginia,51,New Kent,127
+ASTUT2,United States,Virginia,51,Newport News ,700
+ASTUT2,United States,Virginia,51,Northampton,131
+ASTUT2,United States,Virginia,51,Northumberland,133
+ASTUT2,United States,Virginia,51,Nottoway,135
+ASTUT2,United States,Virginia,51,Orange,137
+ASTUT2,United States,Virginia,51,Page,139
+ASTUT2,United States,Virginia,51,Patrick,141
+ASTUT2,United States,Virginia,51,Pittsylvania,143
+ASTUT2,United States,Virginia,51,Powhatan,145
+ASTUT2,United States,Virginia,51,Prince Edward,147
+ASTUT2,United States,Virginia,51,Prince George,149
+ASTUT2,United States,Virginia,51,Prince William,153
+ASTUT2,United States,Virginia,51,Pulaski,155
+ASTUT2,United States,Virginia,51,Rappahannock,157
+ASTUT2,United States,Virginia,51,Richmond,159
+ASTUT2,United States,Virginia,51,Roanoke,161
+ASTUT2,United States,Virginia,51,Rockbridge,163
+ASTUT2,United States,Virginia,51,Rockingham,165
+ASTUT2,United States,Virginia,51,Russell,167
+ASTUT2,United States,Virginia,51,Scott,169
+ASTUT2,United States,Virginia,51,Shenandoah,171
+ASTUT2,United States,Virginia,51,Smyth,173
+ASTUT2,United States,Virginia,51,Southampton,175
+ASTUT2,United States,Virginia,51,Spotsylvania,177
+ASTUT2,United States,Virginia,51,Stafford,179
+ASTUT2,United States,Virginia,51,Suffolk ,800
+ASTUT2,United States,Virginia,51,Surry,181
+ASTUT2,United States,Virginia,51,Sussex,183
+ASTUT2,United States,Virginia,51,Tazewell,185
+ASTUT2,United States,Virginia,51,Virginia Beach ,810
+ASTUT2,United States,Virginia,51,Warren,187
+ASTUT2,United States,Virginia,51,Washington,191
+ASTUT2,United States,Virginia,51,Westmoreland,193
+ASTUT2,United States,Virginia,51,Wise,195
+ASTUT2,United States,Virginia,51,Wythe,197
+ASTUT2,United States,Virginia,51,York,199
+ASTUT2,United States,West Virginia,54,,

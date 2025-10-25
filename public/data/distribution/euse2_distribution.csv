@@ -1,0 +1,1019 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+EUSE2,United States,Alabama,01,,
+EUSE2,United States,Alabama,01,Baldwin,003
+EUSE2,United States,Alabama,01,Greene,063
+EUSE2,United States,Alabama,01,Hale,065
+EUSE2,United States,Alabama,01,Lamar,075
+EUSE2,United States,Alabama,01,Lowndes,085
+EUSE2,United States,Alabama,01,Mobile,097
+EUSE2,United States,Alabama,01,Pickens,107
+EUSE2,United States,Alabama,01,Sumter,119
+EUSE2,United States,Alabama,01,Tuscaloosa,125
+EUSE2,United States,Alabama,01,Walker,127
+EUSE2,United States,Alabama,01,Wilcox,131
+EUSE2,United States,Arkansas,05,,
+EUSE2,United States,Arkansas,05,Arkansas,001
+EUSE2,United States,Arkansas,05,Ashley,003
+EUSE2,United States,Arkansas,05,Baxter,005
+EUSE2,United States,Arkansas,05,Benton,007
+EUSE2,United States,Arkansas,05,Boone,009
+EUSE2,United States,Arkansas,05,Bradley,011
+EUSE2,United States,Arkansas,05,Calhoun,013
+EUSE2,United States,Arkansas,05,Chicot,017
+EUSE2,United States,Arkansas,05,Clark,019
+EUSE2,United States,Arkansas,05,Clay,021
+EUSE2,United States,Arkansas,05,Cleburne,023
+EUSE2,United States,Arkansas,05,Cleveland,025
+EUSE2,United States,Arkansas,05,Conway,029
+EUSE2,United States,Arkansas,05,Craighead,031
+EUSE2,United States,Arkansas,05,Crawford,033
+EUSE2,United States,Arkansas,05,Crittenden,035
+EUSE2,United States,Arkansas,05,Cross,037
+EUSE2,United States,Arkansas,05,Desha,041
+EUSE2,United States,Arkansas,05,Drew,043
+EUSE2,United States,Arkansas,05,Faulkner,045
+EUSE2,United States,Arkansas,05,Franklin,047
+EUSE2,United States,Arkansas,05,Garland,051
+EUSE2,United States,Arkansas,05,Grant,053
+EUSE2,United States,Arkansas,05,Hempstead,057
+EUSE2,United States,Arkansas,05,Hot Spring,059
+EUSE2,United States,Arkansas,05,Howard,061
+EUSE2,United States,Arkansas,05,Independence,063
+EUSE2,United States,Arkansas,05,Izard,065
+EUSE2,United States,Arkansas,05,Jackson,067
+EUSE2,United States,Arkansas,05,Jefferson,069
+EUSE2,United States,Arkansas,05,Johnson,071
+EUSE2,United States,Arkansas,05,Lafayette,073
+EUSE2,United States,Arkansas,05,Lawrence,075
+EUSE2,United States,Arkansas,05,Lee,077
+EUSE2,United States,Arkansas,05,Lincoln,079
+EUSE2,United States,Arkansas,05,Little River,081
+EUSE2,United States,Arkansas,05,Logan,083
+EUSE2,United States,Arkansas,05,Lonoke,085
+EUSE2,United States,Arkansas,05,Madison,087
+EUSE2,United States,Arkansas,05,Marion,089
+EUSE2,United States,Arkansas,05,Miller,091
+EUSE2,United States,Arkansas,05,Mississippi,093
+EUSE2,United States,Arkansas,05,Monroe,095
+EUSE2,United States,Arkansas,05,Montgomery,097
+EUSE2,United States,Arkansas,05,Nevada,099
+EUSE2,United States,Arkansas,05,Newton,101
+EUSE2,United States,Arkansas,05,Perry,105
+EUSE2,United States,Arkansas,05,Pike,109
+EUSE2,United States,Arkansas,05,Poinsett,111
+EUSE2,United States,Arkansas,05,Polk,113
+EUSE2,United States,Arkansas,05,Pope,115
+EUSE2,United States,Arkansas,05,Pulaski,119
+EUSE2,United States,Arkansas,05,Randolph,121
+EUSE2,United States,Arkansas,05,Saline,125
+EUSE2,United States,Arkansas,05,Scott,127
+EUSE2,United States,Arkansas,05,Sebastian,131
+EUSE2,United States,Arkansas,05,Sevier,133
+EUSE2,United States,Arkansas,05,Sharp,135
+EUSE2,United States,Arkansas,05,St. Francis,123
+EUSE2,United States,Arkansas,05,Stone,137
+EUSE2,United States,Arkansas,05,Union,139
+EUSE2,United States,Arkansas,05,Van Buren,141
+EUSE2,United States,Arkansas,05,Washington,143
+EUSE2,United States,Arkansas,05,White,145
+EUSE2,United States,Arkansas,05,Yell,149
+EUSE2,Canada,Ontario,08,,
+EUSE2,United States,Connecticut,09,,
+EUSE2,United States,Connecticut,09,New Haven,009
+EUSE2,United States,Delaware,10,,
+EUSE2,United States,Delaware,10,Kent,001
+EUSE2,United States,District of Columbia,11,,
+EUSE2,United States,District of Columbia,11,District of Columbia,001
+EUSE2,United States,Florida,12,,
+EUSE2,United States,Florida,12,Alachua,001
+EUSE2,United States,Florida,12,Bay,005
+EUSE2,United States,Florida,12,Brevard,009
+EUSE2,United States,Florida,12,Broward,011
+EUSE2,United States,Florida,12,Calhoun,013
+EUSE2,United States,Florida,12,Citrus,017
+EUSE2,United States,Florida,12,Clay,019
+EUSE2,United States,Florida,12,Collier,021
+EUSE2,United States,Florida,12,Columbia,023
+EUSE2,United States,Florida,12,Dixie,029
+EUSE2,United States,Florida,12,Duval,031
+EUSE2,United States,Florida,12,Escambia,033
+EUSE2,United States,Florida,12,Flagler,035
+EUSE2,United States,Florida,12,Franklin,037
+EUSE2,United States,Florida,12,Gadsden,039
+EUSE2,United States,Florida,12,Glades,043
+EUSE2,United States,Florida,12,Hendry,051
+EUSE2,United States,Florida,12,Hernando,053
+EUSE2,United States,Florida,12,Highlands,055
+EUSE2,United States,Florida,12,Hillsborough,057
+EUSE2,United States,Florida,12,Indian River,061
+EUSE2,United States,Florida,12,Lake,069
+EUSE2,United States,Florida,12,Lee,071
+EUSE2,United States,Florida,12,Levy,075
+EUSE2,United States,Florida,12,Liberty,077
+EUSE2,United States,Florida,12,Marion,083
+EUSE2,United States,Florida,12,Martin,085
+EUSE2,United States,Florida,12,Miami-Dade,086
+EUSE2,United States,Florida,12,Monroe,087
+EUSE2,United States,Florida,12,Nassau,089
+EUSE2,United States,Florida,12,Okaloosa,091
+EUSE2,United States,Florida,12,Palm Beach,099
+EUSE2,United States,Florida,12,Pasco,101
+EUSE2,United States,Florida,12,Pinellas,103
+EUSE2,United States,Florida,12,Polk,105
+EUSE2,United States,Florida,12,Putnam,107
+EUSE2,United States,Florida,12,Sarasota,115
+EUSE2,United States,Florida,12,Volusia,127
+EUSE2,United States,Florida,12,Wakulla,129
+EUSE2,United States,Florida,12,Walton,131
+EUSE2,United States,Georgia,13,,
+EUSE2,United States,Georgia,13,Bartow,015
+EUSE2,United States,Georgia,13,Camden,039
+EUSE2,United States,Georgia,13,Chatham,051
+EUSE2,United States,Georgia,13,Cherokee,057
+EUSE2,United States,Georgia,13,Cobb,067
+EUSE2,United States,Georgia,13,Columbia,073
+EUSE2,United States,Georgia,13,Dade,083
+EUSE2,United States,Georgia,13,Dawson,085
+EUSE2,United States,Georgia,13,Fannin,111
+EUSE2,United States,Georgia,13,Gordon,129
+EUSE2,United States,Georgia,13,Hancock,141
+EUSE2,United States,Georgia,13,Harris,145
+EUSE2,United States,Georgia,13,Jones,169
+EUSE2,United States,Georgia,13,Lincoln,181
+EUSE2,United States,Georgia,13,Long,183
+EUSE2,United States,Georgia,13,Lumpkin,187
+EUSE2,United States,Georgia,13,McIntosh,191
+EUSE2,United States,Georgia,13,Murray,213
+EUSE2,United States,Georgia,13,Pickens,227
+EUSE2,United States,Georgia,13,Union,291
+EUSE2,United States,Georgia,13,Walker,295
+EUSE2,United States,Georgia,13,Wilkes,317
+EUSE2,United States,Illinois,17,,
+EUSE2,United States,Illinois,17,Adams,001
+EUSE2,United States,Illinois,17,Alexander,003
+EUSE2,United States,Illinois,17,Bond,005
+EUSE2,United States,Illinois,17,Boone,007
+EUSE2,United States,Illinois,17,Brown,009
+EUSE2,United States,Illinois,17,Bureau,011
+EUSE2,United States,Illinois,17,Calhoun,013
+EUSE2,United States,Illinois,17,Carroll,015
+EUSE2,United States,Illinois,17,Cass,017
+EUSE2,United States,Illinois,17,Champaign,019
+EUSE2,United States,Illinois,17,Christian,021
+EUSE2,United States,Illinois,17,Clark,023
+EUSE2,United States,Illinois,17,Clay,025
+EUSE2,United States,Illinois,17,Clinton,027
+EUSE2,United States,Illinois,17,Coles,029
+EUSE2,United States,Illinois,17,Cook,031
+EUSE2,United States,Illinois,17,Crawford,033
+EUSE2,United States,Illinois,17,Cumberland,035
+EUSE2,United States,Illinois,17,De Witt,039
+EUSE2,United States,Illinois,17,DeKalb,037
+EUSE2,United States,Illinois,17,Douglas,041
+EUSE2,United States,Illinois,17,DuPage,043
+EUSE2,United States,Illinois,17,Edgar,045
+EUSE2,United States,Illinois,17,Edwards,047
+EUSE2,United States,Illinois,17,Effingham,049
+EUSE2,United States,Illinois,17,Fayette,051
+EUSE2,United States,Illinois,17,Ford,053
+EUSE2,United States,Illinois,17,Franklin,055
+EUSE2,United States,Illinois,17,Fulton,057
+EUSE2,United States,Illinois,17,Gallatin,059
+EUSE2,United States,Illinois,17,Greene,061
+EUSE2,United States,Illinois,17,Grundy,063
+EUSE2,United States,Illinois,17,Hamilton,065
+EUSE2,United States,Illinois,17,Hancock,067
+EUSE2,United States,Illinois,17,Hardin,069
+EUSE2,United States,Illinois,17,Henderson,071
+EUSE2,United States,Illinois,17,Henry,073
+EUSE2,United States,Illinois,17,Iroquois,075
+EUSE2,United States,Illinois,17,Jackson,077
+EUSE2,United States,Illinois,17,Jasper,079
+EUSE2,United States,Illinois,17,Jefferson,081
+EUSE2,United States,Illinois,17,Jersey,083
+EUSE2,United States,Illinois,17,Jo Daviess,085
+EUSE2,United States,Illinois,17,Johnson,087
+EUSE2,United States,Illinois,17,Kane,089
+EUSE2,United States,Illinois,17,Kankakee,091
+EUSE2,United States,Illinois,17,Kendall,093
+EUSE2,United States,Illinois,17,Knox,095
+EUSE2,United States,Illinois,17,Lake,097
+EUSE2,United States,Illinois,17,LaSalle,099
+EUSE2,United States,Illinois,17,Lawrence,101
+EUSE2,United States,Illinois,17,Lee,103
+EUSE2,United States,Illinois,17,Livingston,105
+EUSE2,United States,Illinois,17,Logan,107
+EUSE2,United States,Illinois,17,Macon,115
+EUSE2,United States,Illinois,17,Macoupin,117
+EUSE2,United States,Illinois,17,Madison,119
+EUSE2,United States,Illinois,17,Marion,121
+EUSE2,United States,Illinois,17,Marshall,123
+EUSE2,United States,Illinois,17,Mason,125
+EUSE2,United States,Illinois,17,Massac,127
+EUSE2,United States,Illinois,17,McDonough,109
+EUSE2,United States,Illinois,17,McLean,113
+EUSE2,United States,Illinois,17,Menard,129
+EUSE2,United States,Illinois,17,Mercer,131
+EUSE2,United States,Illinois,17,Monroe,133
+EUSE2,United States,Illinois,17,Montgomery,135
+EUSE2,United States,Illinois,17,Morgan,137
+EUSE2,United States,Illinois,17,Moultrie,139
+EUSE2,United States,Illinois,17,Ogle,141
+EUSE2,United States,Illinois,17,Peoria,143
+EUSE2,United States,Illinois,17,Perry,145
+EUSE2,United States,Illinois,17,Piatt,147
+EUSE2,United States,Illinois,17,Pike,149
+EUSE2,United States,Illinois,17,Pope,151
+EUSE2,United States,Illinois,17,Pulaski,153
+EUSE2,United States,Illinois,17,Putnam,155
+EUSE2,United States,Illinois,17,Randolph,157
+EUSE2,United States,Illinois,17,Richland,159
+EUSE2,United States,Illinois,17,Saline,165
+EUSE2,United States,Illinois,17,Sangamon,167
+EUSE2,United States,Illinois,17,Schuyler,169
+EUSE2,United States,Illinois,17,Scott,171
+EUSE2,United States,Illinois,17,Shelby,173
+EUSE2,United States,Illinois,17,St. Clair,163
+EUSE2,United States,Illinois,17,Stark,175
+EUSE2,United States,Illinois,17,Tazewell,179
+EUSE2,United States,Illinois,17,Union,181
+EUSE2,United States,Illinois,17,Vermilion,183
+EUSE2,United States,Illinois,17,Wabash,185
+EUSE2,United States,Illinois,17,Warren,187
+EUSE2,United States,Illinois,17,Washington,189
+EUSE2,United States,Illinois,17,Wayne,191
+EUSE2,United States,Illinois,17,White,193
+EUSE2,United States,Illinois,17,Whiteside,195
+EUSE2,United States,Illinois,17,Will,197
+EUSE2,United States,Illinois,17,Williamson,199
+EUSE2,United States,Illinois,17,Winnebago,201
+EUSE2,United States,Illinois,17,Woodford,203
+EUSE2,United States,Indiana,18,,
+EUSE2,United States,Indiana,18,Adams,001
+EUSE2,United States,Indiana,18,Bartholomew,005
+EUSE2,United States,Indiana,18,Brown,013
+EUSE2,United States,Indiana,18,Cass,017
+EUSE2,United States,Indiana,18,Clark,019
+EUSE2,United States,Indiana,18,Clay,021
+EUSE2,United States,Indiana,18,Crawford,025
+EUSE2,United States,Indiana,18,Daviess,027
+EUSE2,United States,Indiana,18,Dearborn,029
+EUSE2,United States,Indiana,18,Decatur,031
+EUSE2,United States,Indiana,18,Dubois,037
+EUSE2,United States,Indiana,18,Fayette,041
+EUSE2,United States,Indiana,18,Floyd,043
+EUSE2,United States,Indiana,18,Fountain,045
+EUSE2,United States,Indiana,18,Fulton,049
+EUSE2,United States,Indiana,18,Gibson,051
+EUSE2,United States,Indiana,18,Greene,055
+EUSE2,United States,Indiana,18,Hancock,059
+EUSE2,United States,Indiana,18,Harrison,061
+EUSE2,United States,Indiana,18,Hendricks,063
+EUSE2,United States,Indiana,18,Howard,067
+EUSE2,United States,Indiana,18,Jackson,071
+EUSE2,United States,Indiana,18,Jasper,073
+EUSE2,United States,Indiana,18,Jefferson,077
+EUSE2,United States,Indiana,18,Johnson,081
+EUSE2,United States,Indiana,18,Knox,083
+EUSE2,United States,Indiana,18,Lake,089
+EUSE2,United States,Indiana,18,LaPorte,091
+EUSE2,United States,Indiana,18,Lawrence,093
+EUSE2,United States,Indiana,18,Madison,095
+EUSE2,United States,Indiana,18,Marion,097
+EUSE2,United States,Indiana,18,Marshall,099
+EUSE2,United States,Indiana,18,Martin,101
+EUSE2,United States,Indiana,18,Monroe,105
+EUSE2,United States,Indiana,18,Montgomery,107
+EUSE2,United States,Indiana,18,Morgan,109
+EUSE2,United States,Indiana,18,Newton,111
+EUSE2,United States,Indiana,18,Orange,117
+EUSE2,United States,Indiana,18,Owen,119
+EUSE2,United States,Indiana,18,Perry,123
+EUSE2,United States,Indiana,18,Pike,125
+EUSE2,United States,Indiana,18,Porter,127
+EUSE2,United States,Indiana,18,Posey,129
+EUSE2,United States,Indiana,18,Pulaski,131
+EUSE2,United States,Indiana,18,Putnam,133
+EUSE2,United States,Indiana,18,Ripley,137
+EUSE2,United States,Indiana,18,Rush,139
+EUSE2,United States,Indiana,18,Scott,143
+EUSE2,United States,Indiana,18,Spencer,147
+EUSE2,United States,Indiana,18,St. Joseph,141
+EUSE2,United States,Indiana,18,Starke,149
+EUSE2,United States,Indiana,18,Sullivan,153
+EUSE2,United States,Indiana,18,Switzerland,155
+EUSE2,United States,Indiana,18,Union,161
+EUSE2,United States,Indiana,18,Vanderburgh,163
+EUSE2,United States,Indiana,18,Vigo,167
+EUSE2,United States,Indiana,18,Warrick,173
+EUSE2,United States,Indiana,18,Washington,175
+EUSE2,United States,Indiana,18,White,181
+EUSE2,United States,Iowa,19,,
+EUSE2,United States,Iowa,19,Fremont,071
+EUSE2,United States,Iowa,19,Harrison,085
+EUSE2,United States,Kansas,20,,
+EUSE2,United States,Kansas,20,Allen,001
+EUSE2,United States,Kansas,20,Atchison,005
+EUSE2,United States,Kansas,20,Bourbon,011
+EUSE2,United States,Kansas,20,Chautauqua,019
+EUSE2,United States,Kansas,20,Cherokee,021
+EUSE2,United States,Kansas,20,Coffey,031
+EUSE2,United States,Kansas,20,Crawford,037
+EUSE2,United States,Kansas,20,Doniphan,043
+EUSE2,United States,Kansas,20,Douglas,045
+EUSE2,United States,Kansas,20,Elk,049
+EUSE2,United States,Kansas,20,Greenwood,073
+EUSE2,United States,Kansas,20,Johnson,091
+EUSE2,United States,Kansas,20,Labette,099
+EUSE2,United States,Kansas,20,Linn,107
+EUSE2,United States,Kansas,20,Miami,121
+EUSE2,United States,Kansas,20,Montgomery,125
+EUSE2,United States,Kansas,20,Neosho,133
+EUSE2,United States,Kansas,20,Wilson,205
+EUSE2,United States,Kansas,20,Woodson,207
+EUSE2,United States,Kansas,20,Wyandotte,209
+EUSE2,United States,Kentucky,21,,
+EUSE2,United States,Kentucky,21,Adair,001
+EUSE2,United States,Kentucky,21,Allen,003
+EUSE2,United States,Kentucky,21,Anderson,005
+EUSE2,United States,Kentucky,21,Ballard,007
+EUSE2,United States,Kentucky,21,Barren,009
+EUSE2,United States,Kentucky,21,Bath,011
+EUSE2,United States,Kentucky,21,Bell,013
+EUSE2,United States,Kentucky,21,Boyd,019
+EUSE2,United States,Kentucky,21,Bracken,023
+EUSE2,United States,Kentucky,21,Breathitt,025
+EUSE2,United States,Kentucky,21,Breckinridge,027
+EUSE2,United States,Kentucky,21,Bullitt,029
+EUSE2,United States,Kentucky,21,Butler,031
+EUSE2,United States,Kentucky,21,Caldwell,033
+EUSE2,United States,Kentucky,21,Calloway,035
+EUSE2,United States,Kentucky,21,Campbell,037
+EUSE2,United States,Kentucky,21,Carlisle,039
+EUSE2,United States,Kentucky,21,Casey,045
+EUSE2,United States,Kentucky,21,Christian,047
+EUSE2,United States,Kentucky,21,Clark,049
+EUSE2,United States,Kentucky,21,Crittenden,055
+EUSE2,United States,Kentucky,21,Daviess,059
+EUSE2,United States,Kentucky,21,Edmonson,061
+EUSE2,United States,Kentucky,21,Estill,065
+EUSE2,United States,Kentucky,21,Fayette,067
+EUSE2,United States,Kentucky,21,Fleming,069
+EUSE2,United States,Kentucky,21,Franklin,073
+EUSE2,United States,Kentucky,21,Gallatin,077
+EUSE2,United States,Kentucky,21,Graves,083
+EUSE2,United States,Kentucky,21,Grayson,085
+EUSE2,United States,Kentucky,21,Green,087
+EUSE2,United States,Kentucky,21,Greenup,089
+EUSE2,United States,Kentucky,21,Hardin,093
+EUSE2,United States,Kentucky,21,Harlan,095
+EUSE2,United States,Kentucky,21,Hart,099
+EUSE2,United States,Kentucky,21,Henderson,101
+EUSE2,United States,Kentucky,21,Henry,103
+EUSE2,United States,Kentucky,21,Hickman,105
+EUSE2,United States,Kentucky,21,Hopkins,107
+EUSE2,United States,Kentucky,21,Jackson,109
+EUSE2,United States,Kentucky,21,Jefferson,111
+EUSE2,United States,Kentucky,21,Johnson,115
+EUSE2,United States,Kentucky,21,Knott,119
+EUSE2,United States,Kentucky,21,Laurel,125
+EUSE2,United States,Kentucky,21,Lee,129
+EUSE2,United States,Kentucky,21,Letcher,133
+EUSE2,United States,Kentucky,21,Lewis,135
+EUSE2,United States,Kentucky,21,Lincoln,137
+EUSE2,United States,Kentucky,21,Logan,141
+EUSE2,United States,Kentucky,21,Lyon,143
+EUSE2,United States,Kentucky,21,Madison,151
+EUSE2,United States,Kentucky,21,Magoffin,153
+EUSE2,United States,Kentucky,21,Marion,155
+EUSE2,United States,Kentucky,21,McCracken,145
+EUSE2,United States,Kentucky,21,McCreary,147
+EUSE2,United States,Kentucky,21,McLean,149
+EUSE2,United States,Kentucky,21,Meade,163
+EUSE2,United States,Kentucky,21,Mercer,167
+EUSE2,United States,Kentucky,21,Metcalfe,169
+EUSE2,United States,Kentucky,21,Montgomery,173
+EUSE2,United States,Kentucky,21,Muhlenberg,177
+EUSE2,United States,Kentucky,21,Nelson,179
+EUSE2,United States,Kentucky,21,Oldham,185
+EUSE2,United States,Kentucky,21,Owsley,189
+EUSE2,United States,Kentucky,21,Pike,195
+EUSE2,United States,Kentucky,21,Powell,197
+EUSE2,United States,Kentucky,21,Pulaski,199
+EUSE2,United States,Kentucky,21,Rockcastle,203
+EUSE2,United States,Kentucky,21,Rowan,205
+EUSE2,United States,Kentucky,21,Russell,207
+EUSE2,United States,Kentucky,21,Simpson,213
+EUSE2,United States,Kentucky,21,Spencer,215
+EUSE2,United States,Kentucky,21,Taylor,217
+EUSE2,United States,Kentucky,21,Todd,219
+EUSE2,United States,Kentucky,21,Trigg,221
+EUSE2,United States,Kentucky,21,Trimble,223
+EUSE2,United States,Kentucky,21,Union,225
+EUSE2,United States,Kentucky,21,Warren,227
+EUSE2,United States,Kentucky,21,Webster,233
+EUSE2,United States,Kentucky,21,Whitley,235
+EUSE2,United States,Kentucky,21,Wolfe,237
+EUSE2,United States,Kentucky,21,Woodford,239
+EUSE2,United States,Louisiana,22,,
+EUSE2,United States,Louisiana,22,Acadia,001
+EUSE2,United States,Louisiana,22,Allen,003
+EUSE2,United States,Louisiana,22,Ascension,005
+EUSE2,United States,Louisiana,22,Avoyelles,009
+EUSE2,United States,Louisiana,22,Beauregard,011
+EUSE2,United States,Louisiana,22,Bienville,013
+EUSE2,United States,Louisiana,22,Bossier,015
+EUSE2,United States,Louisiana,22,Caddo,017
+EUSE2,United States,Louisiana,22,Calcasieu,019
+EUSE2,United States,Louisiana,22,Caldwell,021
+EUSE2,United States,Louisiana,22,Cameron,023
+EUSE2,United States,Louisiana,22,Catahoula,025
+EUSE2,United States,Louisiana,22,Claiborne,027
+EUSE2,United States,Louisiana,22,Concordia,029
+EUSE2,United States,Louisiana,22,De Soto,031
+EUSE2,United States,Louisiana,22,East Baton Rouge,033
+EUSE2,United States,Louisiana,22,East Carroll,035
+EUSE2,United States,Louisiana,22,East Feliciana,037
+EUSE2,United States,Louisiana,22,Evangeline,039
+EUSE2,United States,Louisiana,22,Franklin,041
+EUSE2,United States,Louisiana,22,Grant,043
+EUSE2,United States,Louisiana,22,Iberia,045
+EUSE2,United States,Louisiana,22,Iberville,047
+EUSE2,United States,Louisiana,22,Jackson,049
+EUSE2,United States,Louisiana,22,Jefferson,051
+EUSE2,United States,Louisiana,22,Jefferson Davis,053
+EUSE2,United States,Louisiana,22,Lafayette,055
+EUSE2,United States,Louisiana,22,Lafourche,057
+EUSE2,United States,Louisiana,22,LaSalle,059
+EUSE2,United States,Louisiana,22,Lincoln,061
+EUSE2,United States,Louisiana,22,Livingston,063
+EUSE2,United States,Louisiana,22,Madison,065
+EUSE2,United States,Louisiana,22,Morehouse,067
+EUSE2,United States,Louisiana,22,Natchitoches,069
+EUSE2,United States,Louisiana,22,Orleans,071
+EUSE2,United States,Louisiana,22,Ouachita,073
+EUSE2,United States,Louisiana,22,Plaquemines,075
+EUSE2,United States,Louisiana,22,Pointe Coupee,077
+EUSE2,United States,Louisiana,22,Rapides,079
+EUSE2,United States,Louisiana,22,Red River,081
+EUSE2,United States,Louisiana,22,Richland,083
+EUSE2,United States,Louisiana,22,Sabine,085
+EUSE2,United States,Louisiana,22,St. Bernard,087
+EUSE2,United States,Louisiana,22,St. Charles,089
+EUSE2,United States,Louisiana,22,St. James,093
+EUSE2,United States,Louisiana,22,St. John the Baptist,095
+EUSE2,United States,Louisiana,22,St. Landry,097
+EUSE2,United States,Louisiana,22,St. Martin,099
+EUSE2,United States,Louisiana,22,St. Mary,101
+EUSE2,United States,Louisiana,22,St. Tammany,103
+EUSE2,United States,Louisiana,22,Tangipahoa,105
+EUSE2,United States,Louisiana,22,Tensas,107
+EUSE2,United States,Louisiana,22,Terrebonne,109
+EUSE2,United States,Louisiana,22,Union,111
+EUSE2,United States,Louisiana,22,Vermilion,113
+EUSE2,United States,Louisiana,22,Vernon,115
+EUSE2,United States,Louisiana,22,Washington,117
+EUSE2,United States,Louisiana,22,Webster,119
+EUSE2,United States,Louisiana,22,West Carroll,123
+EUSE2,United States,Louisiana,22,West Feliciana,125
+EUSE2,United States,Louisiana,22,Winn,127
+EUSE2,United States,Maryland,24,,
+EUSE2,United States,Maryland,24,Dorchester,019
+EUSE2,United States,Massachusetts,25,,
+EUSE2,United States,Massachusetts,25,Franklin,011
+EUSE2,United States,Massachusetts,25,Hampshire,015
+EUSE2,United States,Massachusetts,25,Middlesex,017
+EUSE2,United States,Massachusetts,25,Plymouth,023
+EUSE2,United States,Massachusetts,25,Suffolk,025
+EUSE2,United States,Michigan,26,,
+EUSE2,United States,Michigan,26,Berrien,021
+EUSE2,United States,Michigan,26,Cass,027
+EUSE2,United States,Michigan,26,Monroe,115
+EUSE2,United States,Michigan,26,Wayne,163
+EUSE2,United States,Minnesota,27,,
+EUSE2,United States,Minnesota,27,Hubbard,057
+EUSE2,United States,Mississippi,28,,
+EUSE2,United States,Mississippi,28,Adams,001
+EUSE2,United States,Mississippi,28,Alcorn,003
+EUSE2,United States,Mississippi,28,Amite,005
+EUSE2,United States,Mississippi,28,Attala,007
+EUSE2,United States,Mississippi,28,Bolivar,011
+EUSE2,United States,Mississippi,28,Carroll,015
+EUSE2,United States,Mississippi,28,Chickasaw,017
+EUSE2,United States,Mississippi,28,Claiborne,021
+EUSE2,United States,Mississippi,28,Clarke,023
+EUSE2,United States,Mississippi,28,Clay,025
+EUSE2,United States,Mississippi,28,Coahoma,027
+EUSE2,United States,Mississippi,28,Copiah,029
+EUSE2,United States,Mississippi,28,Covington,031
+EUSE2,United States,Mississippi,28,DeSoto,033
+EUSE2,United States,Mississippi,28,Forrest,035
+EUSE2,United States,Mississippi,28,Franklin,037
+EUSE2,United States,Mississippi,28,Greene,041
+EUSE2,United States,Mississippi,28,Grenada,043
+EUSE2,United States,Mississippi,28,Hancock,045
+EUSE2,United States,Mississippi,28,Harrison,047
+EUSE2,United States,Mississippi,28,Hinds,049
+EUSE2,United States,Mississippi,28,Humphreys,053
+EUSE2,United States,Mississippi,28,Issaquena,055
+EUSE2,United States,Mississippi,28,Jackson,059
+EUSE2,United States,Mississippi,28,Jasper,061
+EUSE2,United States,Mississippi,28,Jefferson,063
+EUSE2,United States,Mississippi,28,Jefferson Davis,065
+EUSE2,United States,Mississippi,28,Jones,067
+EUSE2,United States,Mississippi,28,Kemper,069
+EUSE2,United States,Mississippi,28,Lafayette,071
+EUSE2,United States,Mississippi,28,Lauderdale,075
+EUSE2,United States,Mississippi,28,Lawrence,077
+EUSE2,United States,Mississippi,28,Leake,079
+EUSE2,United States,Mississippi,28,Lee,081
+EUSE2,United States,Mississippi,28,Leflore,083
+EUSE2,United States,Mississippi,28,Lincoln,085
+EUSE2,United States,Mississippi,28,Lowndes,087
+EUSE2,United States,Mississippi,28,Madison,089
+EUSE2,United States,Mississippi,28,Marshall,093
+EUSE2,United States,Mississippi,28,Monroe,095
+EUSE2,United States,Mississippi,28,Montgomery,097
+EUSE2,United States,Mississippi,28,Neshoba,099
+EUSE2,United States,Mississippi,28,Newton,101
+EUSE2,United States,Mississippi,28,Noxubee,103
+EUSE2,United States,Mississippi,28,Oktibbeha,105
+EUSE2,United States,Mississippi,28,Panola,107
+EUSE2,United States,Mississippi,28,Perry,111
+EUSE2,United States,Mississippi,28,Pike,113
+EUSE2,United States,Mississippi,28,Pontotoc,115
+EUSE2,United States,Mississippi,28,Prentiss,117
+EUSE2,United States,Mississippi,28,Rankin,121
+EUSE2,United States,Mississippi,28,Scott,123
+EUSE2,United States,Mississippi,28,Sharkey,125
+EUSE2,United States,Mississippi,28,Simpson,127
+EUSE2,United States,Mississippi,28,Smith,129
+EUSE2,United States,Mississippi,28,Tallahatchie,135
+EUSE2,United States,Mississippi,28,Tate,137
+EUSE2,United States,Mississippi,28,Tishomingo,141
+EUSE2,United States,Mississippi,28,Union,145
+EUSE2,United States,Mississippi,28,Walthall,147
+EUSE2,United States,Mississippi,28,Warren,149
+EUSE2,United States,Mississippi,28,Washington,151
+EUSE2,United States,Mississippi,28,Wayne,153
+EUSE2,United States,Mississippi,28,Webster,155
+EUSE2,United States,Mississippi,28,Wilkinson,157
+EUSE2,United States,Mississippi,28,Winston,159
+EUSE2,United States,Mississippi,28,Yalobusha,161
+EUSE2,United States,Mississippi,28,Yazoo,163
+EUSE2,United States,Missouri,29,,
+EUSE2,United States,Missouri,29,Adair,001
+EUSE2,United States,Missouri,29,Audrain,007
+EUSE2,United States,Missouri,29,Barry,009
+EUSE2,United States,Missouri,29,Barton,011
+EUSE2,United States,Missouri,29,Bates,013
+EUSE2,United States,Missouri,29,Benton,015
+EUSE2,United States,Missouri,29,Bollinger,017
+EUSE2,United States,Missouri,29,Boone,019
+EUSE2,United States,Missouri,29,Butler,023
+EUSE2,United States,Missouri,29,Callaway,027
+EUSE2,United States,Missouri,29,Camden,029
+EUSE2,United States,Missouri,29,Cape Girardeau,031
+EUSE2,United States,Missouri,29,Carroll,033
+EUSE2,United States,Missouri,29,Carter,035
+EUSE2,United States,Missouri,29,Cass,037
+EUSE2,United States,Missouri,29,Chariton,041
+EUSE2,United States,Missouri,29,Clark,045
+EUSE2,United States,Missouri,29,Clay,047
+EUSE2,United States,Missouri,29,Clinton,049
+EUSE2,United States,Missouri,29,Cole,051
+EUSE2,United States,Missouri,29,Cooper,053
+EUSE2,United States,Missouri,29,Crawford,055
+EUSE2,United States,Missouri,29,DeKalb,063
+EUSE2,United States,Missouri,29,Dent,065
+EUSE2,United States,Missouri,29,Douglas,067
+EUSE2,United States,Missouri,29,Dunklin,069
+EUSE2,United States,Missouri,29,Franklin,071
+EUSE2,United States,Missouri,29,Gasconade,073
+EUSE2,United States,Missouri,29,Gentry,075
+EUSE2,United States,Missouri,29,Greene,077
+EUSE2,United States,Missouri,29,Grundy,079
+EUSE2,United States,Missouri,29,Henry,083
+EUSE2,United States,Missouri,29,Hickory,085
+EUSE2,United States,Missouri,29,Howard,089
+EUSE2,United States,Missouri,29,Howell,091
+EUSE2,United States,Missouri,29,Iron,093
+EUSE2,United States,Missouri,29,Jackson,095
+EUSE2,United States,Missouri,29,Jasper,097
+EUSE2,United States,Missouri,29,Jefferson,099
+EUSE2,United States,Missouri,29,Johnson,101
+EUSE2,United States,Missouri,29,Knox,103
+EUSE2,United States,Missouri,29,Laclede,105
+EUSE2,United States,Missouri,29,Lafayette,107
+EUSE2,United States,Missouri,29,Lewis,111
+EUSE2,United States,Missouri,29,Lincoln,113
+EUSE2,United States,Missouri,29,Linn,115
+EUSE2,United States,Missouri,29,Livingston,117
+EUSE2,United States,Missouri,29,Macon,121
+EUSE2,United States,Missouri,29,Madison,123
+EUSE2,United States,Missouri,29,Maries,125
+EUSE2,United States,Missouri,29,Marion,127
+EUSE2,United States,Missouri,29,McDonald,119
+EUSE2,United States,Missouri,29,Miller,131
+EUSE2,United States,Missouri,29,Mississippi,133
+EUSE2,United States,Missouri,29,Moniteau,135
+EUSE2,United States,Missouri,29,Monroe,137
+EUSE2,United States,Missouri,29,Montgomery,139
+EUSE2,United States,Missouri,29,Morgan,141
+EUSE2,United States,Missouri,29,New Madrid,143
+EUSE2,United States,Missouri,29,Newton,145
+EUSE2,United States,Missouri,29,Oregon,149
+EUSE2,United States,Missouri,29,Osage,151
+EUSE2,United States,Missouri,29,Ozark,153
+EUSE2,United States,Missouri,29,Pemiscot,155
+EUSE2,United States,Missouri,29,Perry,157
+EUSE2,United States,Missouri,29,Pettis,159
+EUSE2,United States,Missouri,29,Phelps,161
+EUSE2,United States,Missouri,29,Pike,163
+EUSE2,United States,Missouri,29,Polk,167
+EUSE2,United States,Missouri,29,Pulaski,169
+EUSE2,United States,Missouri,29,Ralls,173
+EUSE2,United States,Missouri,29,Randolph,175
+EUSE2,United States,Missouri,29,Ray,177
+EUSE2,United States,Missouri,29,Reynolds,179
+EUSE2,United States,Missouri,29,Ripley,181
+EUSE2,United States,Missouri,29,Saline,195
+EUSE2,United States,Missouri,29,Scotland,199
+EUSE2,United States,Missouri,29,Scott,201
+EUSE2,United States,Missouri,29,Shannon,203
+EUSE2,United States,Missouri,29,Shelby,205
+EUSE2,United States,Missouri,29,St. Charles,183
+EUSE2,United States,Missouri,29,St. Clair,185
+EUSE2,United States,Missouri,29,St. Francois,187
+EUSE2,United States,Missouri,29,St. Louis,189
+EUSE2,United States,Missouri,29,Ste. Genevieve,186
+EUSE2,United States,Missouri,29,Stoddard,207
+EUSE2,United States,Missouri,29,Stone,209
+EUSE2,United States,Missouri,29,Sullivan,211
+EUSE2,United States,Missouri,29,Taney,213
+EUSE2,United States,Missouri,29,Texas,215
+EUSE2,United States,Missouri,29,Vernon,217
+EUSE2,United States,Missouri,29,Warren,219
+EUSE2,United States,Missouri,29,Washington,221
+EUSE2,United States,Missouri,29,Wayne,223
+EUSE2,United States,Missouri,29,Webster,225
+EUSE2,United States,Nebraska,31,,
+EUSE2,United States,Nebraska,31,Cass,025
+EUSE2,United States,Nebraska,31,Otoe,131
+EUSE2,United States,Nebraska,31,Richardson,147
+EUSE2,United States,New Jersey,34,,
+EUSE2,United States,New Jersey,34,Atlantic,001
+EUSE2,United States,New Jersey,34,Bergen,003
+EUSE2,United States,New Jersey,34,Burlington,005
+EUSE2,United States,New Jersey,34,Camden,007
+EUSE2,United States,New Jersey,34,Cape May,009
+EUSE2,United States,New Jersey,34,Essex,013
+EUSE2,United States,New Jersey,34,Hudson,017
+EUSE2,United States,New Jersey,34,Hunterdon,019
+EUSE2,United States,New Jersey,34,Mercer,021
+EUSE2,United States,New Jersey,34,Middlesex,023
+EUSE2,United States,New Jersey,34,Monmouth,025
+EUSE2,United States,New Jersey,34,Morris,027
+EUSE2,United States,New Jersey,34,Ocean,029
+EUSE2,United States,New Jersey,34,Passaic,031
+EUSE2,United States,New Jersey,34,Salem,033
+EUSE2,United States,New Jersey,34,Somerset,035
+EUSE2,United States,New Jersey,34,Warren,041
+EUSE2,United States,New York,36,,
+EUSE2,United States,New York,36,Albany,001
+EUSE2,United States,New York,36,Bronx,005
+EUSE2,United States,New York,36,Kings,047
+EUSE2,United States,New York,36,Nassau,059
+EUSE2,United States,New York,36,New York,061
+EUSE2,United States,New York,36,Orange,071
+EUSE2,United States,New York,36,Putnam,079
+EUSE2,United States,New York,36,Richmond,085
+EUSE2,United States,New York,36,Rockland,087
+EUSE2,United States,New York,36,Suffolk,103
+EUSE2,United States,North Carolina,37,,
+EUSE2,United States,North Carolina,37,Anson,007
+EUSE2,United States,North Carolina,37,Beaufort,013
+EUSE2,United States,North Carolina,37,Brunswick,019
+EUSE2,United States,North Carolina,37,Caldwell,027
+EUSE2,United States,North Carolina,37,Carteret,031
+EUSE2,United States,North Carolina,37,Caswell,033
+EUSE2,United States,North Carolina,37,Chatham,037
+EUSE2,United States,North Carolina,37,Cherokee,039
+EUSE2,United States,North Carolina,37,Clay,043
+EUSE2,United States,North Carolina,37,Craven,049
+EUSE2,United States,North Carolina,37,Cumberland,051
+EUSE2,United States,North Carolina,37,Currituck,053
+EUSE2,United States,North Carolina,37,Dare,055
+EUSE2,United States,North Carolina,37,Davidson,057
+EUSE2,United States,North Carolina,37,Durham,063
+EUSE2,United States,North Carolina,37,Granville,077
+EUSE2,United States,North Carolina,37,Harnett,085
+EUSE2,United States,North Carolina,37,Henderson,089
+EUSE2,United States,North Carolina,37,Hyde,095
+EUSE2,United States,North Carolina,37,Johnston,101
+EUSE2,United States,North Carolina,37,Lee,105
+EUSE2,United States,North Carolina,37,McDowell,111
+EUSE2,United States,North Carolina,37,Montgomery,123
+EUSE2,United States,North Carolina,37,New Hanover,129
+EUSE2,United States,North Carolina,37,Onslow,133
+EUSE2,United States,North Carolina,37,Orange,135
+EUSE2,United States,North Carolina,37,Pamlico,137
+EUSE2,United States,North Carolina,37,Pasquotank,139
+EUSE2,United States,North Carolina,37,Polk,149
+EUSE2,United States,North Carolina,37,Rowan,159
+EUSE2,United States,North Carolina,37,Rutherford,161
+EUSE2,United States,North Carolina,37,Stanly,167
+EUSE2,United States,North Carolina,37,Stokes,169
+EUSE2,United States,North Carolina,37,Surry,171
+EUSE2,United States,North Carolina,37,Union,179
+EUSE2,United States,North Carolina,37,Wake,183
+EUSE2,United States,North Carolina,37,Wilkes,193
+EUSE2,United States,Ohio,39,,
+EUSE2,United States,Ohio,39,Adams,001
+EUSE2,United States,Ohio,39,Clermont,025
+EUSE2,United States,Ohio,39,Clinton,027
+EUSE2,United States,Ohio,39,Cuyahoga,035
+EUSE2,United States,Ohio,39,Franklin,049
+EUSE2,United States,Ohio,39,Gallia,053
+EUSE2,United States,Ohio,39,Hamilton,061
+EUSE2,United States,Ohio,39,Highland,071
+EUSE2,United States,Ohio,39,Hocking,073
+EUSE2,United States,Ohio,39,Jackson,079
+EUSE2,United States,Ohio,39,Lawrence,087
+EUSE2,United States,Ohio,39,Mahoning,099
+EUSE2,United States,Ohio,39,Meigs,105
+EUSE2,United States,Ohio,39,Preble,135
+EUSE2,United States,Ohio,39,Scioto,145
+EUSE2,United States,Oklahoma,40,,
+EUSE2,United States,Oklahoma,40,Adair,001
+EUSE2,United States,Oklahoma,40,Bryan,013
+EUSE2,United States,Oklahoma,40,Caddo,015
+EUSE2,United States,Oklahoma,40,Canadian,017
+EUSE2,United States,Oklahoma,40,Cherokee,021
+EUSE2,United States,Oklahoma,40,Choctaw,023
+EUSE2,United States,Oklahoma,40,Cleveland,027
+EUSE2,United States,Oklahoma,40,Comanche,031
+EUSE2,United States,Oklahoma,40,Custer,039
+EUSE2,United States,Oklahoma,40,Delaware,041
+EUSE2,United States,Oklahoma,40,Haskell,061
+EUSE2,United States,Oklahoma,40,Hughes,063
+EUSE2,United States,Oklahoma,40,Latimer,077
+EUSE2,United States,Oklahoma,40,Le Flore,079
+EUSE2,United States,Oklahoma,40,Marshall,095
+EUSE2,United States,Oklahoma,40,McCurtain,089
+EUSE2,United States,Oklahoma,40,Murray,099
+EUSE2,United States,Oklahoma,40,Muskogee,101
+EUSE2,United States,Oklahoma,40,Noble,103
+EUSE2,United States,Oklahoma,40,Okfuskee,107
+EUSE2,United States,Oklahoma,40,Oklahoma,109
+EUSE2,United States,Oklahoma,40,Okmulgee,111
+EUSE2,United States,Oklahoma,40,Osage,113
+EUSE2,United States,Oklahoma,40,Ottawa,115
+EUSE2,United States,Oklahoma,40,Pittsburg,121
+EUSE2,United States,Oklahoma,40,Pottawatomie,125
+EUSE2,United States,Oklahoma,40,Pushmataha,127
+EUSE2,United States,Oklahoma,40,Sequoyah,135
+EUSE2,United States,Oklahoma,40,Tulsa,143
+EUSE2,United States,Pennsylvania,42,,
+EUSE2,United States,Pennsylvania,42,Allegheny,003
+EUSE2,United States,Pennsylvania,42,Berks,011
+EUSE2,United States,Pennsylvania,42,Blair,013
+EUSE2,United States,Pennsylvania,42,Bucks,017
+EUSE2,United States,Pennsylvania,42,Delaware,045
+EUSE2,United States,Pennsylvania,42,Erie,049
+EUSE2,United States,Pennsylvania,42,Lackawanna,069
+EUSE2,United States,Pennsylvania,42,Lancaster,071
+EUSE2,United States,Pennsylvania,42,Philadelphia,101
+EUSE2,United States,Pennsylvania,42,Schuylkill,107
+EUSE2,United States,Pennsylvania,42,Westmoreland,129
+EUSE2,United States,Rhode Island,44,,
+EUSE2,United States,Rhode Island,44,Kent,003
+EUSE2,United States,South Carolina,45,,
+EUSE2,United States,South Carolina,45,Abbeville,001
+EUSE2,United States,South Carolina,45,Aiken,003
+EUSE2,United States,South Carolina,45,Allendale,005
+EUSE2,United States,South Carolina,45,Anderson,007
+EUSE2,United States,South Carolina,45,Beaufort,013
+EUSE2,United States,South Carolina,45,Berkeley,015
+EUSE2,United States,South Carolina,45,Charleston,019
+EUSE2,United States,South Carolina,45,Chester,023
+EUSE2,United States,South Carolina,45,Chesterfield,025
+EUSE2,United States,South Carolina,45,Edgefield,037
+EUSE2,United States,South Carolina,45,Georgetown,043
+EUSE2,United States,South Carolina,45,Greenwood,047
+EUSE2,United States,South Carolina,45,Jasper,053
+EUSE2,United States,South Carolina,45,Kershaw,055
+EUSE2,United States,South Carolina,45,Lancaster,057
+EUSE2,United States,South Carolina,45,Laurens,059
+EUSE2,United States,South Carolina,45,Lexington,063
+EUSE2,United States,South Carolina,45,McCormick,065
+EUSE2,United States,South Carolina,45,Newberry,071
+EUSE2,United States,South Carolina,45,Pickens,077
+EUSE2,United States,South Carolina,45,Richland,079
+EUSE2,United States,South Carolina,45,Saluda,081
+EUSE2,United States,South Carolina,45,Spartanburg,083
+EUSE2,United States,South Carolina,45,York,091
+EUSE2,United States,Tennessee,47,,
+EUSE2,United States,Tennessee,47,Anderson,001
+EUSE2,United States,Tennessee,47,Bedford,003
+EUSE2,United States,Tennessee,47,Blount,009
+EUSE2,United States,Tennessee,47,Carroll,017
+EUSE2,United States,Tennessee,47,Clay,027
+EUSE2,United States,Tennessee,47,Coffee,031
+EUSE2,United States,Tennessee,47,Cumberland,035
+EUSE2,United States,Tennessee,47,Davidson,037
+EUSE2,United States,Tennessee,47,Dickson,043
+EUSE2,United States,Tennessee,47,Dyer,045
+EUSE2,United States,Tennessee,47,Fentress,049
+EUSE2,United States,Tennessee,47,Franklin,051
+EUSE2,United States,Tennessee,47,Grundy,061
+EUSE2,United States,Tennessee,47,Hamilton,065
+EUSE2,United States,Tennessee,47,Hardin,071
+EUSE2,United States,Tennessee,47,Haywood,075
+EUSE2,United States,Tennessee,47,Henderson,077
+EUSE2,United States,Tennessee,47,Hickman,081
+EUSE2,United States,Tennessee,47,Humphreys,085
+EUSE2,United States,Tennessee,47,Jackson,087
+EUSE2,United States,Tennessee,47,Knox,093
+EUSE2,United States,Tennessee,47,Lake,095
+EUSE2,United States,Tennessee,47,Lauderdale,097
+EUSE2,United States,Tennessee,47,Lawrence,099
+EUSE2,United States,Tennessee,47,Lewis,101
+EUSE2,United States,Tennessee,47,Lincoln,103
+EUSE2,United States,Tennessee,47,Loudon,105
+EUSE2,United States,Tennessee,47,Madison,113
+EUSE2,United States,Tennessee,47,Marion,115
+EUSE2,United States,Tennessee,47,McMinn,107
+EUSE2,United States,Tennessee,47,Meigs,121
+EUSE2,United States,Tennessee,47,Monroe,123
+EUSE2,United States,Tennessee,47,Montgomery,125
+EUSE2,United States,Tennessee,47,Moore,127
+EUSE2,United States,Tennessee,47,Morgan,129
+EUSE2,United States,Tennessee,47,Overton,133
+EUSE2,United States,Tennessee,47,Perry,135
+EUSE2,United States,Tennessee,47,Rhea,143
+EUSE2,United States,Tennessee,47,Roane,145
+EUSE2,United States,Tennessee,47,Rutherford,149
+EUSE2,United States,Tennessee,47,Scott,151
+EUSE2,United States,Tennessee,47,Sevier,155
+EUSE2,United States,Tennessee,47,Shelby,157
+EUSE2,United States,Tennessee,47,Stewart,161
+EUSE2,United States,Tennessee,47,Sumner,165
+EUSE2,United States,Tennessee,47,Tipton,167
+EUSE2,United States,Tennessee,47,Trousdale,169
+EUSE2,United States,Tennessee,47,Union,173
+EUSE2,United States,Tennessee,47,Van Buren,175
+EUSE2,United States,Tennessee,47,White,185
+EUSE2,United States,Tennessee,47,Williamson,187
+EUSE2,United States,Texas,48,,
+EUSE2,United States,Texas,48,Anderson,001
+EUSE2,United States,Texas,48,Angelina,005
+EUSE2,United States,Texas,48,Aransas,007
+EUSE2,United States,Texas,48,Bandera,019
+EUSE2,United States,Texas,48,Bastrop,021
+EUSE2,United States,Texas,48,Bell,027
+EUSE2,United States,Texas,48,Blanco,031
+EUSE2,United States,Texas,48,Bowie,037
+EUSE2,United States,Texas,48,Brazoria,039
+EUSE2,United States,Texas,48,Brazos,041
+EUSE2,United States,Texas,48,Brown,049
+EUSE2,United States,Texas,48,Burnet,053
+EUSE2,United States,Texas,48,Cass,067
+EUSE2,United States,Texas,48,Chambers,071
+EUSE2,United States,Texas,48,Clay,077
+EUSE2,United States,Texas,48,Coke,081
+EUSE2,United States,Texas,48,Comal,091
+EUSE2,United States,Texas,48,Dallas,113
+EUSE2,United States,Texas,48,Denton,121
+EUSE2,United States,Texas,48,DeWitt,123
+EUSE2,United States,Texas,48,Edwards,137
+EUSE2,United States,Texas,48,Erath,143
+EUSE2,United States,Texas,48,Fannin,147
+EUSE2,United States,Texas,48,Fort Bend,157
+EUSE2,United States,Texas,48,Franklin,159
+EUSE2,United States,Texas,48,Galveston,167
+EUSE2,United States,Texas,48,Gillespie,171
+EUSE2,United States,Texas,48,Gonzales,177
+EUSE2,United States,Texas,48,Grayson,181
+EUSE2,United States,Texas,48,Grimes,185
+EUSE2,United States,Texas,48,Hardin,199
+EUSE2,United States,Texas,48,Harris,201
+EUSE2,United States,Texas,48,Hays,209
+EUSE2,United States,Texas,48,Henderson,213
+EUSE2,United States,Texas,48,Hill,217
+EUSE2,United States,Texas,48,Hopkins,223
+EUSE2,United States,Texas,48,Houston,225
+EUSE2,United States,Texas,48,Hunt,231
+EUSE2,United States,Texas,48,Jefferson,245
+EUSE2,United States,Texas,48,Jim Wells,249
+EUSE2,United States,Texas,48,Johnson,251
+EUSE2,United States,Texas,48,Karnes,255
+EUSE2,United States,Texas,48,Kendall,259
+EUSE2,United States,Texas,48,Kerr,265
+EUSE2,United States,Texas,48,Kimble,267
+EUSE2,United States,Texas,48,Kinney,271
+EUSE2,United States,Texas,48,Kleberg,273
+EUSE2,United States,Texas,48,Lamar,277
+EUSE2,United States,Texas,48,Lee,287
+EUSE2,United States,Texas,48,Liberty,291
+EUSE2,United States,Texas,48,Llano,299
+EUSE2,United States,Texas,48,Madison,313
+EUSE2,United States,Texas,48,Mason,319
+EUSE2,United States,Texas,48,McLennan,309
+EUSE2,United States,Texas,48,Menard,327
+EUSE2,United States,Texas,48,Milam,331
+EUSE2,United States,Texas,48,Montague,337
+EUSE2,United States,Texas,48,Montgomery,339
+EUSE2,United States,Texas,48,Nacogdoches,347
+EUSE2,United States,Texas,48,Navarro,349
+EUSE2,United States,Texas,48,Nueces,355
+EUSE2,United States,Texas,48,Orange,361
+EUSE2,United States,Texas,48,Parker,367
+EUSE2,United States,Texas,48,Polk,373
+EUSE2,United States,Texas,48,Real,385
+EUSE2,United States,Texas,48,Robertson,395
+EUSE2,United States,Texas,48,Rusk,401
+EUSE2,United States,Texas,48,San Patricio,409
+EUSE2,United States,Texas,48,Shelby,419
+EUSE2,United States,Texas,48,Smith,423
+EUSE2,United States,Texas,48,Tarrant,439
+EUSE2,United States,Texas,48,Taylor,441
+EUSE2,United States,Texas,48,Titus,449
+EUSE2,United States,Texas,48,Tom Green,451
+EUSE2,United States,Texas,48,Travis,453
+EUSE2,United States,Texas,48,Uvalde,463
+EUSE2,United States,Texas,48,Val Verde,465
+EUSE2,United States,Texas,48,Van Zandt,467
+EUSE2,United States,Texas,48,Victoria,469
+EUSE2,United States,Texas,48,Walker,471
+EUSE2,United States,Texas,48,Waller,473
+EUSE2,United States,Texas,48,Washington,477
+EUSE2,United States,Texas,48,Wharton,481
+EUSE2,United States,Texas,48,Williamson,491
+EUSE2,United States,Virginia,51,,
+EUSE2,United States,Virginia,51,Accomack,001
+EUSE2,United States,Virginia,51,Albemarle,003
+EUSE2,United States,Virginia,51,Amherst,009
+EUSE2,United States,Virginia,51,Bedford,019
+EUSE2,United States,Virginia,51,Buchanan,027
+EUSE2,United States,Virginia,51,Buckingham,029
+EUSE2,United States,Virginia,51,Caroline,033
+EUSE2,United States,Virginia,51,Carroll,035
+EUSE2,United States,Virginia,51,Charles City,036
+EUSE2,United States,Virginia,51,Charlotte,037
+EUSE2,United States,Virginia,51,Chesapeake ,550
+EUSE2,United States,Virginia,51,Chesterfield,041
+EUSE2,United States,Virginia,51,Dickenson,051
+EUSE2,United States,Virginia,51,Essex,057
+EUSE2,United States,Virginia,51,Fairfax,059
+EUSE2,United States,Virginia,51,Fauquier,061
+EUSE2,United States,Virginia,51,Gloucester,073
+EUSE2,United States,Virginia,51,Hampton ,650
+EUSE2,United States,Virginia,51,Henrico,087
+EUSE2,United States,Virginia,51,Isle of Wight,093
+EUSE2,United States,Virginia,51,James City,095
+EUSE2,United States,Virginia,51,King and Queen,097
+EUSE2,United States,Virginia,51,King George,099
+EUSE2,United States,Virginia,51,King William,101
+EUSE2,United States,Virginia,51,Lancaster,103
+EUSE2,United States,Virginia,51,Lee,105
+EUSE2,United States,Virginia,51,Loudoun,107
+EUSE2,United States,Virginia,51,Mathews,115
+EUSE2,United States,Virginia,51,Middlesex,119
+EUSE2,United States,Virginia,51,New Kent,127
+EUSE2,United States,Virginia,51,Newport News ,700
+EUSE2,United States,Virginia,51,Northampton,131
+EUSE2,United States,Virginia,51,Northumberland,133
+EUSE2,United States,Virginia,51,Prince George,149
+EUSE2,United States,Virginia,51,Prince William,153
+EUSE2,United States,Virginia,51,Pulaski,155
+EUSE2,United States,Virginia,51,Richmond,159
+EUSE2,United States,Virginia,51,Roanoke,161
+EUSE2,United States,Virginia,51,Russell,167
+EUSE2,United States,Virginia,51,Scott,169
+EUSE2,United States,Virginia,51,Southampton,175
+EUSE2,United States,Virginia,51,Stafford,179
+EUSE2,United States,Virginia,51,Suffolk ,800
+EUSE2,United States,Virginia,51,Surry,181
+EUSE2,United States,Virginia,51,Tazewell,185
+EUSE2,United States,Virginia,51,Virginia Beach ,810
+EUSE2,United States,Virginia,51,Washington,191
+EUSE2,United States,Virginia,51,Westmoreland,193
+EUSE2,United States,Virginia,51,Wise,195
+EUSE2,United States,Virginia,51,York,199
+EUSE2,United States,West Virginia,54,,
+EUSE2,United States,West Virginia,54,Cabell,011
+EUSE2,United States,West Virginia,54,Kanawha,039
+EUSE2,United States,West Virginia,54,Lincoln,043
+EUSE2,United States,West Virginia,54,Logan,045
+EUSE2,United States,West Virginia,54,Mason,053
+EUSE2,United States,West Virginia,54,Pocahontas,075
+EUSE2,United States,West Virginia,54,Putnam,079
+EUSE2,United States,West Virginia,54,Raleigh,081
+EUSE2,United States,West Virginia,54,Wayne,099
+EUSE2,United States,West Virginia,54,Wood,107
+EUSE2,United States,Wisconsin,55,,
+EUSE2,United States,Wisconsin,55,Dane,025
+EUSE2,United States,Wisconsin,55,Grant,043
+EUSE2,United States,Wisconsin,55,Milwaukee,079

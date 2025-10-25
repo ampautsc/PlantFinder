@@ -1,0 +1,1262 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+APAM,United States,Alabama,01,,
+APAM,United States,Alabama,01,Lowndes,085
+APAM,United States,Alabama,01,Mobile,097
+APAM,United States,Alabama,01,Wilcox,131
+APAM,Canada,New Brunswick,04,,
+APAM,United States,Arkansas,05,,
+APAM,United States,Arkansas,05,Arkansas,001
+APAM,United States,Arkansas,05,Ashley,003
+APAM,United States,Arkansas,05,Benton,007
+APAM,United States,Arkansas,05,Bradley,011
+APAM,United States,Arkansas,05,Clark,019
+APAM,United States,Arkansas,05,Clay,021
+APAM,United States,Arkansas,05,Cleburne,023
+APAM,United States,Arkansas,05,Conway,029
+APAM,United States,Arkansas,05,Craighead,031
+APAM,United States,Arkansas,05,Crittenden,035
+APAM,United States,Arkansas,05,Drew,043
+APAM,United States,Arkansas,05,Faulkner,045
+APAM,United States,Arkansas,05,Fulton,049
+APAM,United States,Arkansas,05,Garland,051
+APAM,United States,Arkansas,05,Grant,053
+APAM,United States,Arkansas,05,Greene,055
+APAM,United States,Arkansas,05,Hempstead,057
+APAM,United States,Arkansas,05,Howard,061
+APAM,United States,Arkansas,05,Independence,063
+APAM,United States,Arkansas,05,Jackson,067
+APAM,United States,Arkansas,05,Jefferson,069
+APAM,United States,Arkansas,05,Logan,083
+APAM,United States,Arkansas,05,Lonoke,085
+APAM,United States,Arkansas,05,Madison,087
+APAM,United States,Arkansas,05,Marion,089
+APAM,United States,Arkansas,05,Monroe,095
+APAM,United States,Arkansas,05,Montgomery,097
+APAM,United States,Arkansas,05,Nevada,099
+APAM,United States,Arkansas,05,Newton,101
+APAM,United States,Arkansas,05,Ouachita,103
+APAM,United States,Arkansas,05,Pike,109
+APAM,United States,Arkansas,05,Poinsett,111
+APAM,United States,Arkansas,05,Polk,113
+APAM,United States,Arkansas,05,Pope,115
+APAM,United States,Arkansas,05,Pulaski,119
+APAM,United States,Arkansas,05,Scott,127
+APAM,United States,Arkansas,05,Searcy,129
+APAM,United States,Arkansas,05,Sebastian,131
+APAM,United States,Arkansas,05,St. Francis,123
+APAM,United States,Arkansas,05,Stone,137
+APAM,United States,Arkansas,05,Union,139
+APAM,United States,Arkansas,05,Washington,143
+APAM,United States,Arkansas,05,Yell,149
+APAM,Canada,Nova Scotia,07,,
+APAM,Canada,Ontario,08,,
+APAM,United States,Colorado,08,,
+APAM,United States,Colorado,08,Boulder,013
+APAM,United States,Colorado,08,Denver,031
+APAM,Canada,Prince Edward Island,09,,
+APAM,United States,Connecticut,09,,
+APAM,United States,Connecticut,09,Fairfield,001
+APAM,United States,Connecticut,09,Hartford,003
+APAM,United States,Connecticut,09,Litchfield,005
+APAM,United States,Connecticut,09,Middlesex,007
+APAM,United States,Connecticut,09,New Haven,009
+APAM,United States,Connecticut,09,New London,011
+APAM,United States,Connecticut,09,Tolland,013
+APAM,United States,Connecticut,09,Windham,015
+APAM,Canada,Quebec,10,,
+APAM,United States,Delaware,10,,
+APAM,United States,Delaware,10,Kent,001
+APAM,United States,Delaware,10,New Castle,003
+APAM,United States,District of Columbia,11,,
+APAM,United States,District of Columbia,11,District of Columbia,001
+APAM,United States,Florida,12,,
+APAM,United States,Florida,12,Alachua,001
+APAM,United States,Florida,12,Baker,003
+APAM,United States,Florida,12,Bradford,007
+APAM,United States,Florida,12,Brevard,009
+APAM,United States,Florida,12,Broward,011
+APAM,United States,Florida,12,Calhoun,013
+APAM,United States,Florida,12,Citrus,017
+APAM,United States,Florida,12,Clay,019
+APAM,United States,Florida,12,Collier,021
+APAM,United States,Florida,12,Columbia,023
+APAM,United States,Florida,12,DeSoto,027
+APAM,United States,Florida,12,Dixie,029
+APAM,United States,Florida,12,Duval,031
+APAM,United States,Florida,12,Escambia,033
+APAM,United States,Florida,12,Franklin,037
+APAM,United States,Florida,12,Hamilton,047
+APAM,United States,Florida,12,Hardee,049
+APAM,United States,Florida,12,Hernando,053
+APAM,United States,Florida,12,Highlands,055
+APAM,United States,Florida,12,Hillsborough,057
+APAM,United States,Florida,12,Jackson,063
+APAM,United States,Florida,12,Jefferson,065
+APAM,United States,Florida,12,Lake,069
+APAM,United States,Florida,12,Leon,073
+APAM,United States,Florida,12,Liberty,077
+APAM,United States,Florida,12,Manatee,081
+APAM,United States,Florida,12,Marion,083
+APAM,United States,Florida,12,Miami-Dade,086
+APAM,United States,Florida,12,Nassau,089
+APAM,United States,Florida,12,Okaloosa,091
+APAM,United States,Florida,12,Okeechobee,093
+APAM,United States,Florida,12,Osceola,097
+APAM,United States,Florida,12,Palm Beach,099
+APAM,United States,Florida,12,Pasco,101
+APAM,United States,Florida,12,Pinellas,103
+APAM,United States,Florida,12,Polk,105
+APAM,United States,Florida,12,Putnam,107
+APAM,United States,Florida,12,Santa Rosa,113
+APAM,United States,Florida,12,Sarasota,115
+APAM,United States,Florida,12,Seminole,117
+APAM,United States,Florida,12,St. Johns,109
+APAM,United States,Florida,12,Sumter,119
+APAM,United States,Florida,12,Volusia,127
+APAM,United States,Florida,12,Wakulla,129
+APAM,United States,Florida,12,Walton,131
+APAM,United States,Georgia,13,,
+APAM,United States,Georgia,13,Bartow,015
+APAM,United States,Georgia,13,Brooks,027
+APAM,United States,Georgia,13,Bryan,029
+APAM,United States,Georgia,13,Calhoun,037
+APAM,United States,Georgia,13,Chatham,051
+APAM,United States,Georgia,13,Clarke,059
+APAM,United States,Georgia,13,Cobb,067
+APAM,United States,Georgia,13,Decatur,087
+APAM,United States,Georgia,13,Dooly,093
+APAM,United States,Georgia,13,Echols,101
+APAM,United States,Georgia,13,Elbert,105
+APAM,United States,Georgia,13,Forsyth,117
+APAM,United States,Georgia,13,Fulton,121
+APAM,United States,Georgia,13,Hall,139
+APAM,United States,Georgia,13,Harris,145
+APAM,United States,Georgia,13,Madison,195
+APAM,United States,Georgia,13,McIntosh,191
+APAM,United States,Georgia,13,Morgan,211
+APAM,United States,Georgia,13,Oglethorpe,221
+APAM,United States,Georgia,13,Rabun,241
+APAM,United States,Georgia,13,Rockdale,247
+APAM,United States,Georgia,13,Seminole,253
+APAM,United States,Georgia,13,Spalding,255
+APAM,United States,Georgia,13,Stephens,257
+APAM,United States,Georgia,13,Tift,277
+APAM,United States,Georgia,13,Towns,281
+APAM,United States,Georgia,13,Upson,293
+APAM,United States,Georgia,13,Walker,295
+APAM,United States,Georgia,13,Ware,299
+APAM,United States,Georgia,13,Wilkes,317
+APAM,United States,Georgia,13,Worth,321
+APAM,United States,Illinois,17,,
+APAM,United States,Illinois,17,Adams,001
+APAM,United States,Illinois,17,Alexander,003
+APAM,United States,Illinois,17,Bond,005
+APAM,United States,Illinois,17,Boone,007
+APAM,United States,Illinois,17,Bureau,011
+APAM,United States,Illinois,17,Calhoun,013
+APAM,United States,Illinois,17,Cass,017
+APAM,United States,Illinois,17,Champaign,019
+APAM,United States,Illinois,17,Clark,023
+APAM,United States,Illinois,17,Coles,029
+APAM,United States,Illinois,17,Cook,031
+APAM,United States,Illinois,17,Crawford,033
+APAM,United States,Illinois,17,DeKalb,037
+APAM,United States,Illinois,17,DuPage,043
+APAM,United States,Illinois,17,Edgar,045
+APAM,United States,Illinois,17,Effingham,049
+APAM,United States,Illinois,17,Fayette,051
+APAM,United States,Illinois,17,Fulton,057
+APAM,United States,Illinois,17,Gallatin,059
+APAM,United States,Illinois,17,Greene,061
+APAM,United States,Illinois,17,Grundy,063
+APAM,United States,Illinois,17,Hamilton,065
+APAM,United States,Illinois,17,Hancock,067
+APAM,United States,Illinois,17,Henderson,071
+APAM,United States,Illinois,17,Henry,073
+APAM,United States,Illinois,17,Iroquois,075
+APAM,United States,Illinois,17,Jackson,077
+APAM,United States,Illinois,17,Jersey,083
+APAM,United States,Illinois,17,Johnson,087
+APAM,United States,Illinois,17,Kane,089
+APAM,United States,Illinois,17,Kankakee,091
+APAM,United States,Illinois,17,Kendall,093
+APAM,United States,Illinois,17,Knox,095
+APAM,United States,Illinois,17,Lake,097
+APAM,United States,Illinois,17,LaSalle,099
+APAM,United States,Illinois,17,Lawrence,101
+APAM,United States,Illinois,17,Livingston,105
+APAM,United States,Illinois,17,Logan,107
+APAM,United States,Illinois,17,Macon,115
+APAM,United States,Illinois,17,Macoupin,117
+APAM,United States,Illinois,17,Marion,121
+APAM,United States,Illinois,17,Marshall,123
+APAM,United States,Illinois,17,Mason,125
+APAM,United States,Illinois,17,Massac,127
+APAM,United States,Illinois,17,McDonough,109
+APAM,United States,Illinois,17,McHenry,111
+APAM,United States,Illinois,17,McLean,113
+APAM,United States,Illinois,17,Menard,129
+APAM,United States,Illinois,17,Mercer,131
+APAM,United States,Illinois,17,Monroe,133
+APAM,United States,Illinois,17,Morgan,137
+APAM,United States,Illinois,17,Ogle,141
+APAM,United States,Illinois,17,Peoria,143
+APAM,United States,Illinois,17,Piatt,147
+APAM,United States,Illinois,17,Pike,149
+APAM,United States,Illinois,17,Pope,151
+APAM,United States,Illinois,17,Pulaski,153
+APAM,United States,Illinois,17,Putnam,155
+APAM,United States,Illinois,17,Randolph,157
+APAM,United States,Illinois,17,Rock Island,161
+APAM,United States,Illinois,17,Sangamon,167
+APAM,United States,Illinois,17,Schuyler,169
+APAM,United States,Illinois,17,Scott,171
+APAM,United States,Illinois,17,St. Clair,163
+APAM,United States,Illinois,17,Stephenson,177
+APAM,United States,Illinois,17,Tazewell,179
+APAM,United States,Illinois,17,Union,181
+APAM,United States,Illinois,17,Vermilion,183
+APAM,United States,Illinois,17,Wabash,185
+APAM,United States,Illinois,17,Warren,187
+APAM,United States,Illinois,17,Wayne,191
+APAM,United States,Illinois,17,White,193
+APAM,United States,Illinois,17,Will,197
+APAM,United States,Illinois,17,Williamson,199
+APAM,United States,Illinois,17,Winnebago,201
+APAM,United States,Indiana,18,,
+APAM,United States,Indiana,18,Allen,003
+APAM,United States,Indiana,18,Benton,007
+APAM,United States,Indiana,18,Clay,021
+APAM,United States,Indiana,18,Crawford,025
+APAM,United States,Indiana,18,Decatur,031
+APAM,United States,Indiana,18,Dubois,037
+APAM,United States,Indiana,18,Elkhart,039
+APAM,United States,Indiana,18,Floyd,043
+APAM,United States,Indiana,18,Fountain,045
+APAM,United States,Indiana,18,Fulton,049
+APAM,United States,Indiana,18,Greene,055
+APAM,United States,Indiana,18,Hamilton,057
+APAM,United States,Indiana,18,Hancock,059
+APAM,United States,Indiana,18,Harrison,061
+APAM,United States,Indiana,18,Henry,065
+APAM,United States,Indiana,18,Howard,067
+APAM,United States,Indiana,18,Huntington,069
+APAM,United States,Indiana,18,Jackson,071
+APAM,United States,Indiana,18,Jasper,073
+APAM,United States,Indiana,18,Jefferson,077
+APAM,United States,Indiana,18,Knox,083
+APAM,United States,Indiana,18,Kosciusko,085
+APAM,United States,Indiana,18,Lagrange,087
+APAM,United States,Indiana,18,Lake,089
+APAM,United States,Indiana,18,LaPorte,091
+APAM,United States,Indiana,18,Lawrence,093
+APAM,United States,Indiana,18,Madison,095
+APAM,United States,Indiana,18,Miami,103
+APAM,United States,Indiana,18,Monroe,105
+APAM,United States,Indiana,18,Montgomery,107
+APAM,United States,Indiana,18,Morgan,109
+APAM,United States,Indiana,18,Newton,111
+APAM,United States,Indiana,18,Noble,113
+APAM,United States,Indiana,18,Parke,121
+APAM,United States,Indiana,18,Perry,123
+APAM,United States,Indiana,18,Pike,125
+APAM,United States,Indiana,18,Porter,127
+APAM,United States,Indiana,18,Posey,129
+APAM,United States,Indiana,18,Pulaski,131
+APAM,United States,Indiana,18,Putnam,133
+APAM,United States,Indiana,18,Randolph,135
+APAM,United States,Indiana,18,Ripley,137
+APAM,United States,Indiana,18,Spencer,147
+APAM,United States,Indiana,18,St. Joseph,141
+APAM,United States,Indiana,18,Starke,149
+APAM,United States,Indiana,18,Steuben,151
+APAM,United States,Indiana,18,Sullivan,153
+APAM,United States,Indiana,18,Tippecanoe,157
+APAM,United States,Indiana,18,Vermillion,165
+APAM,United States,Indiana,18,Vigo,167
+APAM,United States,Indiana,18,Warren,171
+APAM,United States,Indiana,18,Washington,175
+APAM,United States,Indiana,18,Wayne,177
+APAM,United States,Indiana,18,Wells,179
+APAM,United States,Indiana,18,White,181
+APAM,United States,Iowa,19,,
+APAM,United States,Iowa,19,Allamakee,005
+APAM,United States,Iowa,19,Fremont,071
+APAM,United States,Iowa,19,Guthrie,077
+APAM,United States,Iowa,19,Palo Alto,147
+APAM,United States,Iowa,19,Ringgold,159
+APAM,United States,Iowa,19,Taylor,173
+APAM,United States,Iowa,19,Webster,187
+APAM,United States,Iowa,19,Winneshiek,191
+APAM,United States,Kansas,20,,
+APAM,United States,Kansas,20,Anderson,003
+APAM,United States,Kansas,20,Atchison,005
+APAM,United States,Kansas,20,Barber,007
+APAM,United States,Kansas,20,Bourbon,011
+APAM,United States,Kansas,20,Brown,013
+APAM,United States,Kansas,20,Chautauqua,019
+APAM,United States,Kansas,20,Cherokee,021
+APAM,United States,Kansas,20,Clay,027
+APAM,United States,Kansas,20,Cloud,029
+APAM,United States,Kansas,20,Coffey,031
+APAM,United States,Kansas,20,Cowley,035
+APAM,United States,Kansas,20,Crawford,037
+APAM,United States,Kansas,20,Doniphan,043
+APAM,United States,Kansas,20,Douglas,045
+APAM,United States,Kansas,20,Elk,049
+APAM,United States,Kansas,20,Ellsworth,053
+APAM,United States,Kansas,20,Greenwood,073
+APAM,United States,Kansas,20,Harvey,079
+APAM,United States,Kansas,20,Jefferson,087
+APAM,United States,Kansas,20,Kiowa,097
+APAM,United States,Kansas,20,Labette,099
+APAM,United States,Kansas,20,Leavenworth,103
+APAM,United States,Kansas,20,Lincoln,105
+APAM,United States,Kansas,20,Lyon,111
+APAM,United States,Kansas,20,Marshall,117
+APAM,United States,Kansas,20,Meade,119
+APAM,United States,Kansas,20,Miami,121
+APAM,United States,Kansas,20,Montgomery,125
+APAM,United States,Kansas,20,Neosho,133
+APAM,United States,Kansas,20,Pottawatomie,149
+APAM,United States,Kansas,20,Rice,159
+APAM,United States,Kansas,20,Riley,161
+APAM,United States,Kansas,20,Saline,169
+APAM,United States,Kansas,20,Shawnee,177
+APAM,United States,Kansas,20,Stanton,187
+APAM,United States,Kansas,20,Wilson,205
+APAM,United States,Kansas,20,Woodson,207
+APAM,United States,Kansas,20,Wyandotte,209
+APAM,United States,Kentucky,21,,
+APAM,United States,Kentucky,21,Anderson,005
+APAM,United States,Kentucky,21,Ballard,007
+APAM,United States,Kentucky,21,Bath,011
+APAM,United States,Kentucky,21,Bell,013
+APAM,United States,Kentucky,21,Boone,015
+APAM,United States,Kentucky,21,Breathitt,025
+APAM,United States,Kentucky,21,Breckinridge,027
+APAM,United States,Kentucky,21,Calloway,035
+APAM,United States,Kentucky,21,Campbell,037
+APAM,United States,Kentucky,21,Casey,045
+APAM,United States,Kentucky,21,Clinton,053
+APAM,United States,Kentucky,21,Edmonson,061
+APAM,United States,Kentucky,21,Fayette,067
+APAM,United States,Kentucky,21,Fleming,069
+APAM,United States,Kentucky,21,Floyd,071
+APAM,United States,Kentucky,21,Franklin,073
+APAM,United States,Kentucky,21,Fulton,075
+APAM,United States,Kentucky,21,Gallatin,077
+APAM,United States,Kentucky,21,Greenup,089
+APAM,United States,Kentucky,21,Hardin,093
+APAM,United States,Kentucky,21,Hart,099
+APAM,United States,Kentucky,21,Henderson,101
+APAM,United States,Kentucky,21,Hickman,105
+APAM,United States,Kentucky,21,Hopkins,107
+APAM,United States,Kentucky,21,Jackson,109
+APAM,United States,Kentucky,21,Jefferson,111
+APAM,United States,Kentucky,21,Kenton,117
+APAM,United States,Kentucky,21,Laurel,125
+APAM,United States,Kentucky,21,Lee,129
+APAM,United States,Kentucky,21,Letcher,133
+APAM,United States,Kentucky,21,Lewis,135
+APAM,United States,Kentucky,21,Lincoln,137
+APAM,United States,Kentucky,21,Madison,151
+APAM,United States,Kentucky,21,Marion,155
+APAM,United States,Kentucky,21,Marshall,157
+APAM,United States,Kentucky,21,McCreary,147
+APAM,United States,Kentucky,21,McLean,149
+APAM,United States,Kentucky,21,Meade,163
+APAM,United States,Kentucky,21,Mercer,167
+APAM,United States,Kentucky,21,Metcalfe,169
+APAM,United States,Kentucky,21,Monroe,171
+APAM,United States,Kentucky,21,Montgomery,173
+APAM,United States,Kentucky,21,Muhlenberg,177
+APAM,United States,Kentucky,21,Nelson,179
+APAM,United States,Kentucky,21,Powell,197
+APAM,United States,Kentucky,21,Pulaski,199
+APAM,United States,Kentucky,21,Rockcastle,203
+APAM,United States,Kentucky,21,Rowan,205
+APAM,United States,Kentucky,21,Todd,219
+APAM,United States,Kentucky,21,Trigg,221
+APAM,United States,Kentucky,21,Warren,227
+APAM,United States,Kentucky,21,Wayne,231
+APAM,United States,Kentucky,21,Whitley,235
+APAM,United States,Kentucky,21,Wolfe,237
+APAM,United States,Louisiana,22,,
+APAM,United States,Louisiana,22,Allen,003
+APAM,United States,Louisiana,22,Ascension,005
+APAM,United States,Louisiana,22,Avoyelles,009
+APAM,United States,Louisiana,22,Bienville,013
+APAM,United States,Louisiana,22,Bossier,015
+APAM,United States,Louisiana,22,Caddo,017
+APAM,United States,Louisiana,22,Calcasieu,019
+APAM,United States,Louisiana,22,Caldwell,021
+APAM,United States,Louisiana,22,Cameron,023
+APAM,United States,Louisiana,22,Catahoula,025
+APAM,United States,Louisiana,22,Claiborne,027
+APAM,United States,Louisiana,22,De Soto,031
+APAM,United States,Louisiana,22,East Baton Rouge,033
+APAM,United States,Louisiana,22,East Carroll,035
+APAM,United States,Louisiana,22,East Feliciana,037
+APAM,United States,Louisiana,22,Evangeline,039
+APAM,United States,Louisiana,22,Franklin,041
+APAM,United States,Louisiana,22,Grant,043
+APAM,United States,Louisiana,22,Iberia,045
+APAM,United States,Louisiana,22,Iberville,047
+APAM,United States,Louisiana,22,Jackson,049
+APAM,United States,Louisiana,22,Lafayette,055
+APAM,United States,Louisiana,22,LaSalle,059
+APAM,United States,Louisiana,22,Lincoln,061
+APAM,United States,Louisiana,22,Livingston,063
+APAM,United States,Louisiana,22,Morehouse,067
+APAM,United States,Louisiana,22,Natchitoches,069
+APAM,United States,Louisiana,22,Ouachita,073
+APAM,United States,Louisiana,22,Plaquemines,075
+APAM,United States,Louisiana,22,Pointe Coupee,077
+APAM,United States,Louisiana,22,Rapides,079
+APAM,United States,Louisiana,22,Red River,081
+APAM,United States,Louisiana,22,Richland,083
+APAM,United States,Louisiana,22,Sabine,085
+APAM,United States,Louisiana,22,St. Charles,089
+APAM,United States,Louisiana,22,St. Helena,091
+APAM,United States,Louisiana,22,St. James,093
+APAM,United States,Louisiana,22,St. Landry,097
+APAM,United States,Louisiana,22,St. Martin,099
+APAM,United States,Louisiana,22,St. Mary,101
+APAM,United States,Louisiana,22,St. Tammany,103
+APAM,United States,Louisiana,22,Tangipahoa,105
+APAM,United States,Louisiana,22,Tensas,107
+APAM,United States,Louisiana,22,Terrebonne,109
+APAM,United States,Louisiana,22,Union,111
+APAM,United States,Louisiana,22,Vermilion,113
+APAM,United States,Louisiana,22,Vernon,115
+APAM,United States,Louisiana,22,Washington,117
+APAM,United States,Louisiana,22,Webster,119
+APAM,United States,Louisiana,22,West Feliciana,125
+APAM,United States,Louisiana,22,Winn,127
+APAM,United States,Maine,23,,
+APAM,United States,Maine,23,Androscoggin,001
+APAM,United States,Maine,23,Aroostook,003
+APAM,United States,Maine,23,Cumberland,005
+APAM,United States,Maine,23,Franklin,007
+APAM,United States,Maine,23,Hancock,009
+APAM,United States,Maine,23,Kennebec,011
+APAM,United States,Maine,23,Knox,013
+APAM,United States,Maine,23,Lincoln,015
+APAM,United States,Maine,23,Oxford,017
+APAM,United States,Maine,23,Penobscot,019
+APAM,United States,Maine,23,Sagadahoc,023
+APAM,United States,Maine,23,Somerset,025
+APAM,United States,Maine,23,Waldo,027
+APAM,United States,Maine,23,Washington,029
+APAM,United States,Maine,23,York,031
+APAM,United States,Maryland,24,,
+APAM,United States,Massachusetts,25,,
+APAM,United States,Massachusetts,25,Barnstable,001
+APAM,United States,Massachusetts,25,Berkshire,003
+APAM,United States,Massachusetts,25,Bristol,005
+APAM,United States,Massachusetts,25,Dukes,007
+APAM,United States,Massachusetts,25,Essex,009
+APAM,United States,Massachusetts,25,Franklin,011
+APAM,United States,Massachusetts,25,Hampden,013
+APAM,United States,Massachusetts,25,Hampshire,015
+APAM,United States,Massachusetts,25,Middlesex,017
+APAM,United States,Massachusetts,25,Nantucket,019
+APAM,United States,Massachusetts,25,Norfolk,021
+APAM,United States,Massachusetts,25,Plymouth,023
+APAM,United States,Massachusetts,25,Suffolk,025
+APAM,United States,Massachusetts,25,Worcester,027
+APAM,United States,Michigan,26,,
+APAM,United States,Michigan,26,Allegan,005
+APAM,United States,Michigan,26,Antrim,009
+APAM,United States,Michigan,26,Bay,017
+APAM,United States,Michigan,26,Benzie,019
+APAM,United States,Michigan,26,Berrien,021
+APAM,United States,Michigan,26,Calhoun,025
+APAM,United States,Michigan,26,Cass,027
+APAM,United States,Michigan,26,Cheboygan,031
+APAM,United States,Michigan,26,Clinton,037
+APAM,United States,Michigan,26,Delta,041
+APAM,United States,Michigan,26,Genesee,049
+APAM,United States,Michigan,26,Gratiot,057
+APAM,United States,Michigan,26,Huron,063
+APAM,United States,Michigan,26,Ingham,065
+APAM,United States,Michigan,26,Ionia,067
+APAM,United States,Michigan,26,Jackson,075
+APAM,United States,Michigan,26,Kalamazoo,077
+APAM,United States,Michigan,26,Kent,081
+APAM,United States,Michigan,26,Lenawee,091
+APAM,United States,Michigan,26,Livingston,093
+APAM,United States,Michigan,26,Mackinac,097
+APAM,United States,Michigan,26,Manistee,101
+APAM,United States,Michigan,26,Menominee,109
+APAM,United States,Michigan,26,Midland,111
+APAM,United States,Michigan,26,Monroe,115
+APAM,United States,Michigan,26,Montcalm,117
+APAM,United States,Michigan,26,Muskegon,121
+APAM,United States,Michigan,26,Newaygo,123
+APAM,United States,Michigan,26,Oakland,125
+APAM,United States,Michigan,26,Ottawa,139
+APAM,United States,Michigan,26,Shiawassee,155
+APAM,United States,Michigan,26,St. Clair,147
+APAM,United States,Michigan,26,St. Joseph,149
+APAM,United States,Michigan,26,Washtenaw,161
+APAM,United States,Michigan,26,Wayne,163
+APAM,United States,Minnesota,27,,
+APAM,United States,Minnesota,27,Aitkin,001
+APAM,United States,Minnesota,27,Anoka,003
+APAM,United States,Minnesota,27,Beltrami,007
+APAM,United States,Minnesota,27,Benton,009
+APAM,United States,Minnesota,27,Big Stone,011
+APAM,United States,Minnesota,27,Blue Earth,013
+APAM,United States,Minnesota,27,Crow Wing,035
+APAM,United States,Minnesota,27,Dakota,037
+APAM,United States,Minnesota,27,Dodge,039
+APAM,United States,Minnesota,27,Fillmore,045
+APAM,United States,Minnesota,27,Goodhue,049
+APAM,United States,Minnesota,27,Hennepin,053
+APAM,United States,Minnesota,27,Houston,055
+APAM,United States,Minnesota,27,Isanti,059
+APAM,United States,Minnesota,27,Koochiching,071
+APAM,United States,Minnesota,27,Lincoln,081
+APAM,United States,Minnesota,27,Lyon,083
+APAM,United States,Minnesota,27,Martin,091
+APAM,United States,Minnesota,27,Meeker,093
+APAM,United States,Minnesota,27,Mower,099
+APAM,United States,Minnesota,27,Otter Tail,111
+APAM,United States,Minnesota,27,Pine,115
+APAM,United States,Minnesota,27,Scott,139
+APAM,United States,Minnesota,27,Sherburne,141
+APAM,United States,Minnesota,27,Stearns,145
+APAM,United States,Minnesota,27,Todd,153
+APAM,United States,Minnesota,27,Wabasha,157
+APAM,United States,Minnesota,27,Waseca,161
+APAM,United States,Minnesota,27,Washington,163
+APAM,United States,Minnesota,27,Winona,169
+APAM,United States,Mississippi,28,,
+APAM,United States,Mississippi,28,Adams,001
+APAM,United States,Mississippi,28,Benton,009
+APAM,United States,Mississippi,28,Calhoun,013
+APAM,United States,Mississippi,28,Choctaw,019
+APAM,United States,Mississippi,28,Covington,031
+APAM,United States,Mississippi,28,DeSoto,033
+APAM,United States,Mississippi,28,Forrest,035
+APAM,United States,Mississippi,28,Franklin,037
+APAM,United States,Mississippi,28,Grenada,043
+APAM,United States,Mississippi,28,Hancock,045
+APAM,United States,Mississippi,28,Harrison,047
+APAM,United States,Mississippi,28,Hinds,049
+APAM,United States,Mississippi,28,Issaquena,055
+APAM,United States,Mississippi,28,Itawamba,057
+APAM,United States,Mississippi,28,Jackson,059
+APAM,United States,Mississippi,28,Lafayette,071
+APAM,United States,Mississippi,28,Lamar,073
+APAM,United States,Mississippi,28,Lauderdale,075
+APAM,United States,Mississippi,28,Leflore,083
+APAM,United States,Mississippi,28,Madison,089
+APAM,United States,Mississippi,28,Marshall,093
+APAM,United States,Mississippi,28,Monroe,095
+APAM,United States,Mississippi,28,Panola,107
+APAM,United States,Mississippi,28,Pearl River,109
+APAM,United States,Mississippi,28,Pike,113
+APAM,United States,Mississippi,28,Pontotoc,115
+APAM,United States,Mississippi,28,Prentiss,117
+APAM,United States,Mississippi,28,Quitman,119
+APAM,United States,Mississippi,28,Rankin,121
+APAM,United States,Mississippi,28,Scott,123
+APAM,United States,Mississippi,28,Stone,131
+APAM,United States,Mississippi,28,Tallahatchie,135
+APAM,United States,Mississippi,28,Tate,137
+APAM,United States,Mississippi,28,Union,145
+APAM,United States,Mississippi,28,Winston,159
+APAM,United States,Mississippi,28,Yalobusha,161
+APAM,United States,Missouri,29,,
+APAM,United States,Missouri,29,Adair,001
+APAM,United States,Missouri,29,Andrew,003
+APAM,United States,Missouri,29,Audrain,007
+APAM,United States,Missouri,29,Barry,009
+APAM,United States,Missouri,29,Barton,011
+APAM,United States,Missouri,29,Benton,015
+APAM,United States,Missouri,29,Bollinger,017
+APAM,United States,Missouri,29,Boone,019
+APAM,United States,Missouri,29,Butler,023
+APAM,United States,Missouri,29,Caldwell,025
+APAM,United States,Missouri,29,Callaway,027
+APAM,United States,Missouri,29,Camden,029
+APAM,United States,Missouri,29,Cape Girardeau,031
+APAM,United States,Missouri,29,Carroll,033
+APAM,United States,Missouri,29,Carter,035
+APAM,United States,Missouri,29,Cass,037
+APAM,United States,Missouri,29,Cedar,039
+APAM,United States,Missouri,29,Chariton,041
+APAM,United States,Missouri,29,Christian,043
+APAM,United States,Missouri,29,Clark,045
+APAM,United States,Missouri,29,Clay,047
+APAM,United States,Missouri,29,Clinton,049
+APAM,United States,Missouri,29,Cooper,053
+APAM,United States,Missouri,29,Crawford,055
+APAM,United States,Missouri,29,Dallas,059
+APAM,United States,Missouri,29,Daviess,061
+APAM,United States,Missouri,29,DeKalb,063
+APAM,United States,Missouri,29,Dent,065
+APAM,United States,Missouri,29,Douglas,067
+APAM,United States,Missouri,29,Dunklin,069
+APAM,United States,Missouri,29,Franklin,071
+APAM,United States,Missouri,29,Gasconade,073
+APAM,United States,Missouri,29,Gentry,075
+APAM,United States,Missouri,29,Greene,077
+APAM,United States,Missouri,29,Grundy,079
+APAM,United States,Missouri,29,Harrison,081
+APAM,United States,Missouri,29,Henry,083
+APAM,United States,Missouri,29,Holt,087
+APAM,United States,Missouri,29,Howard,089
+APAM,United States,Missouri,29,Howell,091
+APAM,United States,Missouri,29,Iron,093
+APAM,United States,Missouri,29,Jackson,095
+APAM,United States,Missouri,29,Jasper,097
+APAM,United States,Missouri,29,Jefferson,099
+APAM,United States,Missouri,29,Johnson,101
+APAM,United States,Missouri,29,Knox,103
+APAM,United States,Missouri,29,Laclede,105
+APAM,United States,Missouri,29,Lafayette,107
+APAM,United States,Missouri,29,Lewis,111
+APAM,United States,Missouri,29,Lincoln,113
+APAM,United States,Missouri,29,Linn,115
+APAM,United States,Missouri,29,Livingston,117
+APAM,United States,Missouri,29,Macon,121
+APAM,United States,Missouri,29,Madison,123
+APAM,United States,Missouri,29,Marion,127
+APAM,United States,Missouri,29,Mercer,129
+APAM,United States,Missouri,29,Montgomery,139
+APAM,United States,Missouri,29,New Madrid,143
+APAM,United States,Missouri,29,Newton,145
+APAM,United States,Missouri,29,Nodaway,147
+APAM,United States,Missouri,29,Oregon,149
+APAM,United States,Missouri,29,Osage,151
+APAM,United States,Missouri,29,Ozark,153
+APAM,United States,Missouri,29,Pemiscot,155
+APAM,United States,Missouri,29,Perry,157
+APAM,United States,Missouri,29,Phelps,161
+APAM,United States,Missouri,29,Polk,167
+APAM,United States,Missouri,29,Putnam,171
+APAM,United States,Missouri,29,Ralls,173
+APAM,United States,Missouri,29,Randolph,175
+APAM,United States,Missouri,29,Ray,177
+APAM,United States,Missouri,29,Reynolds,179
+APAM,United States,Missouri,29,Ripley,181
+APAM,United States,Missouri,29,Saline,195
+APAM,United States,Missouri,29,Schuyler,197
+APAM,United States,Missouri,29,Scotland,199
+APAM,United States,Missouri,29,Scott,201
+APAM,United States,Missouri,29,Shannon,203
+APAM,United States,Missouri,29,Shelby,205
+APAM,United States,Missouri,29,St. Charles,183
+APAM,United States,Missouri,29,St. Clair,185
+APAM,United States,Missouri,29,St. Francois,187
+APAM,United States,Missouri,29,St. Louis,189
+APAM,United States,Missouri,29,Ste. Genevieve,186
+APAM,United States,Missouri,29,Stoddard,207
+APAM,United States,Missouri,29,Stone,209
+APAM,United States,Missouri,29,Sullivan,211
+APAM,United States,Missouri,29,Taney,213
+APAM,United States,Missouri,29,Texas,215
+APAM,United States,Missouri,29,Vernon,217
+APAM,United States,Missouri,29,Warren,219
+APAM,United States,Missouri,29,Washington,221
+APAM,United States,Missouri,29,Wayne,223
+APAM,United States,Missouri,29,Webster,225
+APAM,United States,Missouri,29,Worth,227
+APAM,United States,Missouri,29,Wright,229
+APAM,United States,Nebraska,31,,
+APAM,United States,Nebraska,31,Buffalo,019
+APAM,United States,Nebraska,31,Cass,025
+APAM,United States,Nebraska,31,Cherry,031
+APAM,United States,Nebraska,31,Cuming,039
+APAM,United States,Nebraska,31,Dodge,053
+APAM,United States,Nebraska,31,Douglas,055
+APAM,United States,Nebraska,31,Hall,079
+APAM,United States,Nebraska,31,Hooker,091
+APAM,United States,Nebraska,31,Howard,093
+APAM,United States,Nebraska,31,Keya Paha,103
+APAM,United States,Nebraska,31,Lancaster,109
+APAM,United States,Nebraska,31,Nemaha,127
+APAM,United States,Nebraska,31,Otoe,131
+APAM,United States,Nebraska,31,Pawnee,133
+APAM,United States,Nebraska,31,Platte,141
+APAM,United States,Nebraska,31,Richardson,147
+APAM,United States,Nebraska,31,Saunders,155
+APAM,United States,Nebraska,31,Stanton,167
+APAM,United States,Nebraska,31,Thomas,171
+APAM,United States,New Hampshire,33,,
+APAM,United States,New Hampshire,33,Belknap,001
+APAM,United States,New Hampshire,33,Carroll,003
+APAM,United States,New Hampshire,33,Cheshire,005
+APAM,United States,New Hampshire,33,Coos,007
+APAM,United States,New Hampshire,33,Grafton,009
+APAM,United States,New Hampshire,33,Hillsborough,011
+APAM,United States,New Hampshire,33,Merrimack,013
+APAM,United States,New Hampshire,33,Rockingham,015
+APAM,United States,New Hampshire,33,Strafford,017
+APAM,United States,New Hampshire,33,Sullivan,019
+APAM,United States,New Jersey,34,,
+APAM,United States,New Jersey,34,Atlantic,001
+APAM,United States,New Jersey,34,Bergen,003
+APAM,United States,New Jersey,34,Burlington,005
+APAM,United States,New Jersey,34,Cape May,009
+APAM,United States,New Jersey,34,Gloucester,015
+APAM,United States,New Jersey,34,Hudson,017
+APAM,United States,New Jersey,34,Hunterdon,019
+APAM,United States,New Jersey,34,Mercer,021
+APAM,United States,New Jersey,34,Middlesex,023
+APAM,United States,New Jersey,34,Monmouth,025
+APAM,United States,New Jersey,34,Morris,027
+APAM,United States,New Jersey,34,Ocean,029
+APAM,United States,New Jersey,34,Passaic,031
+APAM,United States,New Jersey,34,Somerset,035
+APAM,United States,New Jersey,34,Sussex,037
+APAM,United States,New Jersey,34,Union,039
+APAM,United States,New Jersey,34,Warren,041
+APAM,United States,New York,36,,
+APAM,United States,New York,36,Albany,001
+APAM,United States,New York,36,Bronx,005
+APAM,United States,New York,36,Broome,007
+APAM,United States,New York,36,Cattaraugus,009
+APAM,United States,New York,36,Chautauqua,013
+APAM,United States,New York,36,Chemung,015
+APAM,United States,New York,36,Clinton,019
+APAM,United States,New York,36,Columbia,021
+APAM,United States,New York,36,Delaware,025
+APAM,United States,New York,36,Dutchess,027
+APAM,United States,New York,36,Erie,029
+APAM,United States,New York,36,Fulton,035
+APAM,United States,New York,36,Jefferson,045
+APAM,United States,New York,36,Kings,047
+APAM,United States,New York,36,Livingston,051
+APAM,United States,New York,36,Madison,053
+APAM,United States,New York,36,Monroe,055
+APAM,United States,New York,36,Montgomery,057
+APAM,United States,New York,36,Nassau,059
+APAM,United States,New York,36,New York,061
+APAM,United States,New York,36,Niagara,063
+APAM,United States,New York,36,Oneida,065
+APAM,United States,New York,36,Onondaga,067
+APAM,United States,New York,36,Ontario,069
+APAM,United States,New York,36,Orange,071
+APAM,United States,New York,36,Oswego,075
+APAM,United States,New York,36,Putnam,079
+APAM,United States,New York,36,Queens,081
+APAM,United States,New York,36,Richmond,085
+APAM,United States,New York,36,Rockland,087
+APAM,United States,New York,36,Saratoga,091
+APAM,United States,New York,36,Schuyler,097
+APAM,United States,New York,36,Seneca,099
+APAM,United States,New York,36,Steuben,101
+APAM,United States,New York,36,Suffolk,103
+APAM,United States,New York,36,Tompkins,109
+APAM,United States,New York,36,Ulster,111
+APAM,United States,New York,36,Warren,113
+APAM,United States,New York,36,Washington,115
+APAM,United States,New York,36,Wayne,117
+APAM,United States,New York,36,Westchester,119
+APAM,United States,North Carolina,37,,
+APAM,United States,North Carolina,37,Alleghany,005
+APAM,United States,North Carolina,37,Ashe,009
+APAM,United States,North Carolina,37,Beaufort,013
+APAM,United States,North Carolina,37,Bertie,015
+APAM,United States,North Carolina,37,Brunswick,019
+APAM,United States,North Carolina,37,Burke,023
+APAM,United States,North Carolina,37,Cabarrus,025
+APAM,United States,North Carolina,37,Carteret,031
+APAM,United States,North Carolina,37,Caswell,033
+APAM,United States,North Carolina,37,Catawba,035
+APAM,United States,North Carolina,37,Chatham,037
+APAM,United States,North Carolina,37,Cherokee,039
+APAM,United States,North Carolina,37,Chowan,041
+APAM,United States,North Carolina,37,Clay,043
+APAM,United States,North Carolina,37,Cleveland,045
+APAM,United States,North Carolina,37,Columbus,047
+APAM,United States,North Carolina,37,Craven,049
+APAM,United States,North Carolina,37,Cumberland,051
+APAM,United States,North Carolina,37,Dare,055
+APAM,United States,North Carolina,37,Davidson,057
+APAM,United States,North Carolina,37,Davie,059
+APAM,United States,North Carolina,37,Durham,063
+APAM,United States,North Carolina,37,Forsyth,067
+APAM,United States,North Carolina,37,Franklin,069
+APAM,United States,North Carolina,37,Graham,075
+APAM,United States,North Carolina,37,Greene,079
+APAM,United States,North Carolina,37,Guilford,081
+APAM,United States,North Carolina,37,Halifax,083
+APAM,United States,North Carolina,37,Harnett,085
+APAM,United States,North Carolina,37,Haywood,087
+APAM,United States,North Carolina,37,Henderson,089
+APAM,United States,North Carolina,37,Hertford,091
+APAM,United States,North Carolina,37,Hyde,095
+APAM,United States,North Carolina,37,Iredell,097
+APAM,United States,North Carolina,37,Jackson,099
+APAM,United States,North Carolina,37,Johnston,101
+APAM,United States,North Carolina,37,Jones,103
+APAM,United States,North Carolina,37,Lee,105
+APAM,United States,North Carolina,37,Macon,113
+APAM,United States,North Carolina,37,Madison,115
+APAM,United States,North Carolina,37,Martin,117
+APAM,United States,North Carolina,37,Mitchell,121
+APAM,United States,North Carolina,37,Moore,125
+APAM,United States,North Carolina,37,Nash,127
+APAM,United States,North Carolina,37,New Hanover,129
+APAM,United States,North Carolina,37,Onslow,133
+APAM,United States,North Carolina,37,Orange,135
+APAM,United States,North Carolina,37,Pamlico,137
+APAM,United States,North Carolina,37,Pasquotank,139
+APAM,United States,North Carolina,37,Pender,141
+APAM,United States,North Carolina,37,Pitt,147
+APAM,United States,North Carolina,37,Polk,149
+APAM,United States,North Carolina,37,Randolph,151
+APAM,United States,North Carolina,37,Richmond,153
+APAM,United States,North Carolina,37,Robeson,155
+APAM,United States,North Carolina,37,Rockingham,157
+APAM,United States,North Carolina,37,Sampson,163
+APAM,United States,North Carolina,37,Scotland,165
+APAM,United States,North Carolina,37,Stanly,167
+APAM,United States,North Carolina,37,Stokes,169
+APAM,United States,North Carolina,37,Swain,173
+APAM,United States,North Carolina,37,Transylvania,175
+APAM,United States,North Carolina,37,Tyrrell,177
+APAM,United States,North Carolina,37,Union,179
+APAM,United States,North Carolina,37,Vance,181
+APAM,United States,North Carolina,37,Wake,183
+APAM,United States,North Carolina,37,Washington,187
+APAM,United States,North Carolina,37,Watauga,189
+APAM,United States,North Carolina,37,Wilkes,193
+APAM,United States,North Carolina,37,Wilson,195
+APAM,United States,North Carolina,37,Yancey,199
+APAM,United States,North Dakota,38,,
+APAM,United States,North Dakota,38,Ransom,073
+APAM,United States,Ohio,39,,
+APAM,United States,Ohio,39,Adams,001
+APAM,United States,Ohio,39,Ashland,005
+APAM,United States,Ohio,39,Ashtabula,007
+APAM,United States,Ohio,39,Auglaize,011
+APAM,United States,Ohio,39,Butler,017
+APAM,United States,Ohio,39,Carroll,019
+APAM,United States,Ohio,39,Clark,023
+APAM,United States,Ohio,39,Clinton,027
+APAM,United States,Ohio,39,Columbiana,029
+APAM,United States,Ohio,39,Coshocton,031
+APAM,United States,Ohio,39,Cuyahoga,035
+APAM,United States,Ohio,39,Erie,043
+APAM,United States,Ohio,39,Fairfield,045
+APAM,United States,Ohio,39,Franklin,049
+APAM,United States,Ohio,39,Gallia,053
+APAM,United States,Ohio,39,Geauga,055
+APAM,United States,Ohio,39,Harrison,067
+APAM,United States,Ohio,39,Henry,069
+APAM,United States,Ohio,39,Highland,071
+APAM,United States,Ohio,39,Hocking,073
+APAM,United States,Ohio,39,Holmes,075
+APAM,United States,Ohio,39,Huron,077
+APAM,United States,Ohio,39,Jackson,079
+APAM,United States,Ohio,39,Jefferson,081
+APAM,United States,Ohio,39,Knox,083
+APAM,United States,Ohio,39,Lake,085
+APAM,United States,Ohio,39,Lawrence,087
+APAM,United States,Ohio,39,Licking,089
+APAM,United States,Ohio,39,Lorain,093
+APAM,United States,Ohio,39,Lucas,095
+APAM,United States,Ohio,39,Madison,097
+APAM,United States,Ohio,39,Mahoning,099
+APAM,United States,Ohio,39,Medina,103
+APAM,United States,Ohio,39,Mercer,107
+APAM,United States,Ohio,39,Morgan,115
+APAM,United States,Ohio,39,Morrow,117
+APAM,United States,Ohio,39,Muskingum,119
+APAM,United States,Ohio,39,Perry,127
+APAM,United States,Ohio,39,Pickaway,129
+APAM,United States,Ohio,39,Pike,131
+APAM,United States,Ohio,39,Portage,133
+APAM,United States,Ohio,39,Ross,141
+APAM,United States,Ohio,39,Sandusky,143
+APAM,United States,Ohio,39,Scioto,145
+APAM,United States,Ohio,39,Stark,151
+APAM,United States,Ohio,39,Summit,153
+APAM,United States,Ohio,39,Trumbull,155
+APAM,United States,Ohio,39,Tuscarawas,157
+APAM,United States,Ohio,39,Vinton,163
+APAM,United States,Ohio,39,Warren,165
+APAM,United States,Ohio,39,Washington,167
+APAM,United States,Ohio,39,Wayne,169
+APAM,United States,Ohio,39,Wood,173
+APAM,United States,Oklahoma,40,,
+APAM,United States,Oklahoma,40,Bryan,013
+APAM,United States,Oklahoma,40,Canadian,017
+APAM,United States,Oklahoma,40,Cleveland,027
+APAM,United States,Oklahoma,40,Delaware,041
+APAM,United States,Oklahoma,40,Grady,051
+APAM,United States,Oklahoma,40,Latimer,077
+APAM,United States,Oklahoma,40,Marshall,095
+APAM,United States,Oklahoma,40,McCurtain,089
+APAM,United States,Oklahoma,40,Muskogee,101
+APAM,United States,Oklahoma,40,Oklahoma,109
+APAM,United States,Oklahoma,40,Ottawa,115
+APAM,United States,Oklahoma,40,Pontotoc,123
+APAM,United States,Oklahoma,40,Sequoyah,135
+APAM,United States,Oklahoma,40,Tulsa,143
+APAM,United States,Pennsylvania,42,,
+APAM,United States,Pennsylvania,42,Allegheny,003
+APAM,United States,Pennsylvania,42,Armstrong,005
+APAM,United States,Pennsylvania,42,Beaver,007
+APAM,United States,Pennsylvania,42,Bedford,009
+APAM,United States,Pennsylvania,42,Berks,011
+APAM,United States,Pennsylvania,42,Blair,013
+APAM,United States,Pennsylvania,42,Bradford,015
+APAM,United States,Pennsylvania,42,Bucks,017
+APAM,United States,Pennsylvania,42,Butler,019
+APAM,United States,Pennsylvania,42,Cameron,023
+APAM,United States,Pennsylvania,42,Carbon,025
+APAM,United States,Pennsylvania,42,Centre,027
+APAM,United States,Pennsylvania,42,Chester,029
+APAM,United States,Pennsylvania,42,Clarion,031
+APAM,United States,Pennsylvania,42,Clearfield,033
+APAM,United States,Pennsylvania,42,Clinton,035
+APAM,United States,Pennsylvania,42,Columbia,037
+APAM,United States,Pennsylvania,42,Crawford,039
+APAM,United States,Pennsylvania,42,Cumberland,041
+APAM,United States,Pennsylvania,42,Dauphin,043
+APAM,United States,Pennsylvania,42,Delaware,045
+APAM,United States,Pennsylvania,42,Erie,049
+APAM,United States,Pennsylvania,42,Fayette,051
+APAM,United States,Pennsylvania,42,Forest,053
+APAM,United States,Pennsylvania,42,Franklin,055
+APAM,United States,Pennsylvania,42,Fulton,057
+APAM,United States,Pennsylvania,42,Greene,059
+APAM,United States,Pennsylvania,42,Huntingdon,061
+APAM,United States,Pennsylvania,42,Indiana,063
+APAM,United States,Pennsylvania,42,Jefferson,065
+APAM,United States,Pennsylvania,42,Juniata,067
+APAM,United States,Pennsylvania,42,Lackawanna,069
+APAM,United States,Pennsylvania,42,Lancaster,071
+APAM,United States,Pennsylvania,42,Lebanon,075
+APAM,United States,Pennsylvania,42,Lehigh,077
+APAM,United States,Pennsylvania,42,Luzerne,079
+APAM,United States,Pennsylvania,42,Lycoming,081
+APAM,United States,Pennsylvania,42,McKean,083
+APAM,United States,Pennsylvania,42,Mercer,085
+APAM,United States,Pennsylvania,42,Monroe,089
+APAM,United States,Pennsylvania,42,Montgomery,091
+APAM,United States,Pennsylvania,42,Montour,093
+APAM,United States,Pennsylvania,42,Northampton,095
+APAM,United States,Pennsylvania,42,Northumberland,097
+APAM,United States,Pennsylvania,42,Philadelphia,101
+APAM,United States,Pennsylvania,42,Pike,103
+APAM,United States,Pennsylvania,42,Potter,105
+APAM,United States,Pennsylvania,42,Schuylkill,107
+APAM,United States,Pennsylvania,42,Snyder,109
+APAM,United States,Pennsylvania,42,Somerset,111
+APAM,United States,Pennsylvania,42,Sullivan,113
+APAM,United States,Pennsylvania,42,Union,119
+APAM,United States,Pennsylvania,42,Venango,121
+APAM,United States,Pennsylvania,42,Warren,123
+APAM,United States,Pennsylvania,42,Wayne,127
+APAM,United States,Pennsylvania,42,Westmoreland,129
+APAM,United States,Pennsylvania,42,Wyoming,131
+APAM,United States,Pennsylvania,42,York,133
+APAM,United States,Rhode Island,44,,
+APAM,United States,Rhode Island,44,Kent,003
+APAM,United States,Rhode Island,44,Newport,005
+APAM,United States,Rhode Island,44,Providence,007
+APAM,United States,Rhode Island,44,Washington,009
+APAM,United States,South Carolina,45,,
+APAM,United States,South Carolina,45,Abbeville,001
+APAM,United States,South Carolina,45,Aiken,003
+APAM,United States,South Carolina,45,Anderson,007
+APAM,United States,South Carolina,45,Barnwell,011
+APAM,United States,South Carolina,45,Beaufort,013
+APAM,United States,South Carolina,45,Berkeley,015
+APAM,United States,South Carolina,45,Calhoun,017
+APAM,United States,South Carolina,45,Charleston,019
+APAM,United States,South Carolina,45,Cherokee,021
+APAM,United States,South Carolina,45,Chesterfield,025
+APAM,United States,South Carolina,45,Colleton,029
+APAM,United States,South Carolina,45,Darlington,031
+APAM,United States,South Carolina,45,Dorchester,035
+APAM,United States,South Carolina,45,Georgetown,043
+APAM,United States,South Carolina,45,Hampton,049
+APAM,United States,South Carolina,45,Horry,051
+APAM,United States,South Carolina,45,Lancaster,057
+APAM,United States,South Carolina,45,Lexington,063
+APAM,United States,South Carolina,45,Marlboro,069
+APAM,United States,South Carolina,45,McCormick,065
+APAM,United States,South Carolina,45,Oconee,073
+APAM,United States,South Carolina,45,Orangeburg,075
+APAM,United States,South Carolina,45,Pickens,077
+APAM,United States,South Carolina,45,Williamsburg,089
+APAM,United States,South Dakota,46,,
+APAM,United States,South Dakota,46,Custer,033
+APAM,United States,South Dakota,46,Minnehaha,099
+APAM,United States,South Dakota,46,Roberts,109
+APAM,United States,South Dakota,46,Union,127
+APAM,United States,Tennessee,47,,
+APAM,United States,Tennessee,47,Benton,005
+APAM,United States,Tennessee,47,Bledsoe,007
+APAM,United States,Tennessee,47,Blount,009
+APAM,United States,Tennessee,47,Campbell,013
+APAM,United States,Tennessee,47,Cannon,015
+APAM,United States,Tennessee,47,Carroll,017
+APAM,United States,Tennessee,47,Carter,019
+APAM,United States,Tennessee,47,Cheatham,021
+APAM,United States,Tennessee,47,Claiborne,025
+APAM,United States,Tennessee,47,Cocke,029
+APAM,United States,Tennessee,47,Coffee,031
+APAM,United States,Tennessee,47,Cumberland,035
+APAM,United States,Tennessee,47,Davidson,037
+APAM,United States,Tennessee,47,Decatur,039
+APAM,United States,Tennessee,47,Dickson,043
+APAM,United States,Tennessee,47,Dyer,045
+APAM,United States,Tennessee,47,Fayette,047
+APAM,United States,Tennessee,47,Fentress,049
+APAM,United States,Tennessee,47,Franklin,051
+APAM,United States,Tennessee,47,Giles,055
+APAM,United States,Tennessee,47,Grainger,057
+APAM,United States,Tennessee,47,Grundy,061
+APAM,United States,Tennessee,47,Hardeman,069
+APAM,United States,Tennessee,47,Hardin,071
+APAM,United States,Tennessee,47,Hawkins,073
+APAM,United States,Tennessee,47,Haywood,075
+APAM,United States,Tennessee,47,Henderson,077
+APAM,United States,Tennessee,47,Henry,079
+APAM,United States,Tennessee,47,Johnson,091
+APAM,United States,Tennessee,47,Knox,093
+APAM,United States,Tennessee,47,Lake,095
+APAM,United States,Tennessee,47,Lawrence,099
+APAM,United States,Tennessee,47,Lewis,101
+APAM,United States,Tennessee,47,Loudon,105
+APAM,United States,Tennessee,47,Madison,113
+APAM,United States,Tennessee,47,Monroe,123
+APAM,United States,Tennessee,47,Montgomery,125
+APAM,United States,Tennessee,47,Morgan,129
+APAM,United States,Tennessee,47,Obion,131
+APAM,United States,Tennessee,47,Polk,139
+APAM,United States,Tennessee,47,Putnam,141
+APAM,United States,Tennessee,47,Rhea,143
+APAM,United States,Tennessee,47,Roane,145
+APAM,United States,Tennessee,47,Rutherford,149
+APAM,United States,Tennessee,47,Scott,151
+APAM,United States,Tennessee,47,Sevier,155
+APAM,United States,Tennessee,47,Shelby,157
+APAM,United States,Tennessee,47,Stewart,161
+APAM,United States,Tennessee,47,Tipton,167
+APAM,United States,Tennessee,47,Union,173
+APAM,United States,Tennessee,47,Warren,177
+APAM,United States,Tennessee,47,Weakley,183
+APAM,United States,Tennessee,47,White,185
+APAM,United States,Tennessee,47,Williamson,187
+APAM,United States,Texas,48,,
+APAM,United States,Texas,48,Anderson,001
+APAM,United States,Texas,48,Angelina,005
+APAM,United States,Texas,48,Bastrop,021
+APAM,United States,Texas,48,Bowie,037
+APAM,United States,Texas,48,Brazos,041
+APAM,United States,Texas,48,Cass,067
+APAM,United States,Texas,48,Colorado,089
+APAM,United States,Texas,48,Cooke,097
+APAM,United States,Texas,48,Denton,121
+APAM,United States,Texas,48,Fannin,147
+APAM,United States,Texas,48,Gonzales,177
+APAM,United States,Texas,48,Grayson,181
+APAM,United States,Texas,48,Harris,201
+APAM,United States,Texas,48,Harrison,203
+APAM,United States,Texas,48,Henderson,213
+APAM,United States,Texas,48,Houston,225
+APAM,United States,Texas,48,Jefferson,245
+APAM,United States,Texas,48,Kerr,265
+APAM,United States,Texas,48,Madison,313
+APAM,United States,Texas,48,Menard,327
+APAM,United States,Texas,48,Nacogdoches,347
+APAM,United States,Texas,48,Randall,381
+APAM,United States,Texas,48,Robertson,395
+APAM,United States,Texas,48,San Jacinto,407
+APAM,United States,Texas,48,Smith,423
+APAM,United States,Texas,48,Tom Green,451
+APAM,United States,Texas,48,Trinity,455
+APAM,United States,Texas,48,Tyler,457
+APAM,United States,Texas,48,Upshur,459
+APAM,United States,Texas,48,Van Zandt,467
+APAM,United States,Texas,48,Wood,499
+APAM,United States,Vermont,50,,
+APAM,United States,Vermont,50,Addison,001
+APAM,United States,Vermont,50,Chittenden,007
+APAM,United States,Vermont,50,Essex,009
+APAM,United States,Vermont,50,Franklin,011
+APAM,United States,Vermont,50,Grand Isle,013
+APAM,United States,Vermont,50,Orange,017
+APAM,United States,Vermont,50,Rutland,021
+APAM,United States,Vermont,50,Washington,023
+APAM,United States,Vermont,50,Windham,025
+APAM,United States,Vermont,50,Windsor,027
+APAM,United States,Virginia,51,,
+APAM,United States,Virginia,51,Accomack,001
+APAM,United States,Virginia,51,Albemarle,003
+APAM,United States,Virginia,51,Amelia,007
+APAM,United States,Virginia,51,Amherst,009
+APAM,United States,Virginia,51,Arlington,013
+APAM,United States,Virginia,51,Augusta,015
+APAM,United States,Virginia,51,Bath,017
+APAM,United States,Virginia,51,Bedford,019
+APAM,United States,Virginia,51,Bland,021
+APAM,United States,Virginia,51,Botetourt,023
+APAM,United States,Virginia,51,Brunswick,025
+APAM,United States,Virginia,51,Buchanan,027
+APAM,United States,Virginia,51,Campbell,031
+APAM,United States,Virginia,51,Caroline,033
+APAM,United States,Virginia,51,Carroll,035
+APAM,United States,Virginia,51,Charles City,036
+APAM,United States,Virginia,51,Charlotte,037
+APAM,United States,Virginia,51,Chesapeake ,550
+APAM,United States,Virginia,51,Chesterfield,041
+APAM,United States,Virginia,51,Clarke,043
+APAM,United States,Virginia,51,Craig,045
+APAM,United States,Virginia,51,Cumberland,049
+APAM,United States,Virginia,51,Dickenson,051
+APAM,United States,Virginia,51,Dinwiddie,053
+APAM,United States,Virginia,51,Essex,057
+APAM,United States,Virginia,51,Fairfax,059
+APAM,United States,Virginia,51,Fauquier,061
+APAM,United States,Virginia,51,Fluvanna,065
+APAM,United States,Virginia,51,Franklin,067
+APAM,United States,Virginia,51,Giles,071
+APAM,United States,Virginia,51,Gloucester,073
+APAM,United States,Virginia,51,Goochland,075
+APAM,United States,Virginia,51,Greene,079
+APAM,United States,Virginia,51,Greensville,081
+APAM,United States,Virginia,51,Halifax,083
+APAM,United States,Virginia,51,Hampton ,650
+APAM,United States,Virginia,51,Hanover,085
+APAM,United States,Virginia,51,Henrico,087
+APAM,United States,Virginia,51,Henry,089
+APAM,United States,Virginia,51,Isle of Wight,093
+APAM,United States,Virginia,51,James City,095
+APAM,United States,Virginia,51,King and Queen,097
+APAM,United States,Virginia,51,King George,099
+APAM,United States,Virginia,51,King William,101
+APAM,United States,Virginia,51,Lancaster,103
+APAM,United States,Virginia,51,Louisa,109
+APAM,United States,Virginia,51,Lunenburg,111
+APAM,United States,Virginia,51,Madison,113
+APAM,United States,Virginia,51,Mathews,115
+APAM,United States,Virginia,51,Mecklenburg,117
+APAM,United States,Virginia,51,Middlesex,119
+APAM,United States,Virginia,51,Montgomery,121
+APAM,United States,Virginia,51,New Kent,127
+APAM,United States,Virginia,51,Newport News ,700
+APAM,United States,Virginia,51,Northampton,131
+APAM,United States,Virginia,51,Northumberland,133
+APAM,United States,Virginia,51,Nottoway,135
+APAM,United States,Virginia,51,Orange,137
+APAM,United States,Virginia,51,Pittsylvania,143
+APAM,United States,Virginia,51,Powhatan,145
+APAM,United States,Virginia,51,Prince Edward,147
+APAM,United States,Virginia,51,Prince George,149
+APAM,United States,Virginia,51,Prince William,153
+APAM,United States,Virginia,51,Pulaski,155
+APAM,United States,Virginia,51,Rappahannock,157
+APAM,United States,Virginia,51,Richmond,159
+APAM,United States,Virginia,51,Roanoke,161
+APAM,United States,Virginia,51,Rockbridge,163
+APAM,United States,Virginia,51,Rockingham,165
+APAM,United States,Virginia,51,Russell,167
+APAM,United States,Virginia,51,Scott,169
+APAM,United States,Virginia,51,Shenandoah,171
+APAM,United States,Virginia,51,Smyth,173
+APAM,United States,Virginia,51,Southampton,175
+APAM,United States,Virginia,51,Spotsylvania,177
+APAM,United States,Virginia,51,Stafford,179
+APAM,United States,Virginia,51,Suffolk ,800
+APAM,United States,Virginia,51,Surry,181
+APAM,United States,Virginia,51,Sussex,183
+APAM,United States,Virginia,51,Tazewell,185
+APAM,United States,Virginia,51,Virginia Beach ,810
+APAM,United States,Virginia,51,Washington,191
+APAM,United States,Virginia,51,Westmoreland,193
+APAM,United States,Virginia,51,Wise,195
+APAM,United States,Virginia,51,Wythe,197
+APAM,United States,Virginia,51,York,199
+APAM,United States,West Virginia,54,,
+APAM,United States,West Virginia,54,Barbour,001
+APAM,United States,West Virginia,54,Braxton,007
+APAM,United States,West Virginia,54,Fayette,019
+APAM,United States,West Virginia,54,Greenbrier,025
+APAM,United States,West Virginia,54,Hampshire,027
+APAM,United States,West Virginia,54,Hardy,031
+APAM,United States,West Virginia,54,Harrison,033
+APAM,United States,West Virginia,54,Jackson,035
+APAM,United States,West Virginia,54,Kanawha,039
+APAM,United States,West Virginia,54,Lincoln,043
+APAM,United States,West Virginia,54,Marshall,051
+APAM,United States,West Virginia,54,Mason,053
+APAM,United States,West Virginia,54,McDowell,047
+APAM,United States,West Virginia,54,Mercer,055
+APAM,United States,West Virginia,54,Mineral,057
+APAM,United States,West Virginia,54,Monongalia,061
+APAM,United States,West Virginia,54,Morgan,065
+APAM,United States,West Virginia,54,Pocahontas,075
+APAM,United States,West Virginia,54,Preston,077
+APAM,United States,West Virginia,54,Putnam,079
+APAM,United States,West Virginia,54,Raleigh,081
+APAM,United States,West Virginia,54,Randolph,083
+APAM,United States,West Virginia,54,Summers,089
+APAM,United States,West Virginia,54,Taylor,091
+APAM,United States,West Virginia,54,Tucker,093
+APAM,United States,West Virginia,54,Upshur,097
+APAM,United States,West Virginia,54,Wayne,099
+APAM,United States,West Virginia,54,Wetzel,103
+APAM,United States,West Virginia,54,Wirt,105
+APAM,United States,West Virginia,54,Wyoming,109
+APAM,United States,Wisconsin,55,,
+APAM,United States,Wisconsin,55,Adams,001
+APAM,United States,Wisconsin,55,Ashland,003
+APAM,United States,Wisconsin,55,Barron,005
+APAM,United States,Wisconsin,55,Brown,009
+APAM,United States,Wisconsin,55,Buffalo,011
+APAM,United States,Wisconsin,55,Chippewa,017
+APAM,United States,Wisconsin,55,Columbia,021
+APAM,United States,Wisconsin,55,Crawford,023
+APAM,United States,Wisconsin,55,Dane,025
+APAM,United States,Wisconsin,55,Dodge,027
+APAM,United States,Wisconsin,55,Dunn,033
+APAM,United States,Wisconsin,55,Fond du Lac,039
+APAM,United States,Wisconsin,55,Grant,043
+APAM,United States,Wisconsin,55,Green,045
+APAM,United States,Wisconsin,55,Green Lake,047
+APAM,United States,Wisconsin,55,Iowa,049
+APAM,United States,Wisconsin,55,Jackson,053
+APAM,United States,Wisconsin,55,Jefferson,055
+APAM,United States,Wisconsin,55,Kenosha,059
+APAM,United States,Wisconsin,55,La Crosse,063
+APAM,United States,Wisconsin,55,Lafayette,065
+APAM,United States,Wisconsin,55,Lincoln,069
+APAM,United States,Wisconsin,55,Marinette,075
+APAM,United States,Wisconsin,55,Marquette,077
+APAM,United States,Wisconsin,55,Menominee,078
+APAM,United States,Wisconsin,55,Milwaukee,079
+APAM,United States,Wisconsin,55,Monroe,081
+APAM,United States,Wisconsin,55,Oconto,083
+APAM,United States,Wisconsin,55,Outagamie,087
+APAM,United States,Wisconsin,55,Polk,095
+APAM,United States,Wisconsin,55,Portage,097
+APAM,United States,Wisconsin,55,Racine,101
+APAM,United States,Wisconsin,55,Richland,103
+APAM,United States,Wisconsin,55,Rock,105
+APAM,United States,Wisconsin,55,Sauk,111
+APAM,United States,Wisconsin,55,Shawano,115
+APAM,United States,Wisconsin,55,Sheboygan,117
+APAM,United States,Wisconsin,55,St. Croix,109
+APAM,United States,Wisconsin,55,Taylor,119
+APAM,United States,Wisconsin,55,Trempealeau,121
+APAM,United States,Wisconsin,55,Vernon,123
+APAM,United States,Wisconsin,55,Walworth,127
+APAM,United States,Wisconsin,55,Washington,131
+APAM,United States,Wisconsin,55,Waukesha,133
+APAM,United States,Wisconsin,55,Waupaca,135
+APAM,United States,Wisconsin,55,Waushara,137
+APAM,United States,Wisconsin,55,Winnebago,139

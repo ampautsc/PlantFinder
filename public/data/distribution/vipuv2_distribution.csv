@@ -1,0 +1,95 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VIPUV2,Canada,British Columbia,02,,
+VIPUV2,United States,California,06,,
+VIPUV2,United States,California,06,Inyo,027
+VIPUV2,United States,California,06,Modoc,049
+VIPUV2,United States,California,06,Mono,051
+VIPUV2,United States,California,06,Plumas,063
+VIPUV2,United States,California,06,Shasta,089
+VIPUV2,United States,Colorado,08,,
+VIPUV2,United States,Colorado,08,Routt,107
+VIPUV2,United States,Idaho,16,,
+VIPUV2,United States,Idaho,16,Ada,001
+VIPUV2,United States,Idaho,16,Adams,003
+VIPUV2,United States,Idaho,16,Bannock,005
+VIPUV2,United States,Idaho,16,Bear Lake,007
+VIPUV2,United States,Idaho,16,Bingham,011
+VIPUV2,United States,Idaho,16,Blaine,013
+VIPUV2,United States,Idaho,16,Boise,015
+VIPUV2,United States,Idaho,16,Bonneville,019
+VIPUV2,United States,Idaho,16,Butte,023
+VIPUV2,United States,Idaho,16,Cassia,031
+VIPUV2,United States,Idaho,16,Custer,037
+VIPUV2,United States,Idaho,16,Elmore,039
+VIPUV2,United States,Idaho,16,Franklin,041
+VIPUV2,United States,Idaho,16,Gem,045
+VIPUV2,United States,Idaho,16,Idaho,049
+VIPUV2,United States,Idaho,16,Lemhi,059
+VIPUV2,United States,Idaho,16,Lincoln,063
+VIPUV2,United States,Idaho,16,Owyhee,073
+VIPUV2,United States,Idaho,16,Twin Falls,083
+VIPUV2,United States,Idaho,16,Valley,085
+VIPUV2,United States,Montana,30,,
+VIPUV2,United States,Montana,30,Gallatin,031
+VIPUV2,United States,Montana,30,Park,067
+VIPUV2,United States,Nevada,32,,
+VIPUV2,United States,Nevada,32,Carson City,510
+VIPUV2,United States,Nevada,32,Douglas,005
+VIPUV2,United States,Nevada,32,Elko,007
+VIPUV2,United States,Nevada,32,Eureka,011
+VIPUV2,United States,Nevada,32,Humboldt,013
+VIPUV2,United States,Nevada,32,Lander,015
+VIPUV2,United States,Nevada,32,Nye,023
+VIPUV2,United States,Nevada,32,Pershing,027
+VIPUV2,United States,Nevada,32,Washoe,031
+VIPUV2,United States,Nevada,32,White Pine,033
+VIPUV2,United States,Oregon,41,,
+VIPUV2,United States,Oregon,41,Baker,001
+VIPUV2,United States,Oregon,41,Deschutes,017
+VIPUV2,United States,Oregon,41,Grant,023
+VIPUV2,United States,Oregon,41,Harney,025
+VIPUV2,United States,Oregon,41,Jackson,029
+VIPUV2,United States,Oregon,41,Klamath,035
+VIPUV2,United States,Oregon,41,Lake,037
+VIPUV2,United States,Oregon,41,Malheur,045
+VIPUV2,United States,Oregon,41,Union,061
+VIPUV2,United States,Oregon,41,Wallowa,063
+VIPUV2,United States,Oregon,41,Yamhill,071
+VIPUV2,United States,Utah,49,,
+VIPUV2,United States,Utah,49,Beaver,001
+VIPUV2,United States,Utah,49,Box Elder,003
+VIPUV2,United States,Utah,49,Cache,005
+VIPUV2,United States,Utah,49,Davis,011
+VIPUV2,United States,Utah,49,Duchesne,013
+VIPUV2,United States,Utah,49,Juab,023
+VIPUV2,United States,Utah,49,Millard,027
+VIPUV2,United States,Utah,49,Morgan,029
+VIPUV2,United States,Utah,49,Piute,031
+VIPUV2,United States,Utah,49,Rich,033
+VIPUV2,United States,Utah,49,Salt Lake,035
+VIPUV2,United States,Utah,49,Sanpete,039
+VIPUV2,United States,Utah,49,Sevier,041
+VIPUV2,United States,Utah,49,Summit,043
+VIPUV2,United States,Utah,49,Tooele,045
+VIPUV2,United States,Utah,49,Utah,049
+VIPUV2,United States,Utah,49,Wasatch,051
+VIPUV2,United States,Utah,49,Weber,057
+VIPUV2,United States,Washington,53,,
+VIPUV2,United States,Washington,53,Chelan,007
+VIPUV2,United States,Washington,53,Columbia,013
+VIPUV2,United States,Washington,53,Garfield,023
+VIPUV2,United States,Washington,53,Kittitas,037
+VIPUV2,United States,Washington,53,Klickitat,039
+VIPUV2,United States,Washington,53,Okanogan,047
+VIPUV2,United States,Washington,53,Pierce,053
+VIPUV2,United States,Washington,53,Walla Walla,071
+VIPUV2,United States,Washington,53,Yakima,077
+VIPUV2,United States,Wyoming,56,,
+VIPUV2,United States,Wyoming,56,Carbon,007
+VIPUV2,United States,Wyoming,56,Fremont,013
+VIPUV2,United States,Wyoming,56,Lincoln,023
+VIPUV2,United States,Wyoming,56,Natrona,025
+VIPUV2,United States,Wyoming,56,Park,029
+VIPUV2,United States,Wyoming,56,Sweetwater,037
+VIPUV2,United States,Wyoming,56,Teton,039

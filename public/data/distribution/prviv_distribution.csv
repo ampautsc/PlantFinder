@@ -1,0 +1,635 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+PRVIV,Canada,Alberta,01,,
+PRVIV,Canada,Manitoba,03,,
+PRVIV,Canada,New Brunswick,04,,
+PRVIV,United States,Arkansas,05,,
+PRVIV,United States,Arkansas,05,Benton,007
+PRVIV,United States,Arkansas,05,Boone,009
+PRVIV,Canada,Nova Scotia,07,,
+PRVIV,Canada,Ontario,08,,
+PRVIV,Canada,Prince Edward Island,09,,
+PRVIV,United States,Connecticut,09,,
+PRVIV,United States,Connecticut,09,Fairfield,001
+PRVIV,United States,Connecticut,09,Hartford,003
+PRVIV,United States,Connecticut,09,Litchfield,005
+PRVIV,United States,Connecticut,09,Middlesex,007
+PRVIV,United States,Connecticut,09,New Haven,009
+PRVIV,United States,Connecticut,09,New London,011
+PRVIV,United States,Connecticut,09,Tolland,013
+PRVIV,United States,Connecticut,09,Windham,015
+PRVIV,Canada,Quebec,10,,
+PRVIV,United States,Delaware,10,,
+PRVIV,Canada,Saskatchewan,11,,
+PRVIV,United States,District of Columbia,11,,
+PRVIV,United States,District of Columbia,11,District of Columbia,001
+PRVIV,Canada,Northwest Territories,13,,
+PRVIV,United States,Georgia,13,,
+PRVIV,United States,Illinois,17,,
+PRVIV,United States,Indiana,18,,
+PRVIV,United States,Kansas,20,,
+PRVIV,United States,Kentucky,21,,
+PRVIV,United States,Kentucky,21,Carter,043
+PRVIV,United States,Kentucky,21,Fayette,067
+PRVIV,United States,Kentucky,21,Garrard,079
+PRVIV,United States,Kentucky,21,Jessamine,113
+PRVIV,United States,Kentucky,21,Letcher,133
+PRVIV,United States,Kentucky,21,Lewis,135
+PRVIV,United States,Kentucky,21,McCreary,147
+PRVIV,United States,Kentucky,21,Wolfe,237
+PRVIV,United States,Maine,23,,
+PRVIV,United States,Maine,23,Androscoggin,001
+PRVIV,United States,Maine,23,Aroostook,003
+PRVIV,United States,Maine,23,Cumberland,005
+PRVIV,United States,Maine,23,Franklin,007
+PRVIV,United States,Maine,23,Hancock,009
+PRVIV,United States,Maine,23,Kennebec,011
+PRVIV,United States,Maine,23,Knox,013
+PRVIV,United States,Maine,23,Lincoln,015
+PRVIV,United States,Maine,23,Oxford,017
+PRVIV,United States,Maine,23,Penobscot,019
+PRVIV,United States,Maine,23,Piscataquis,021
+PRVIV,United States,Maine,23,Somerset,025
+PRVIV,United States,Maine,23,Waldo,027
+PRVIV,United States,Maine,23,Washington,029
+PRVIV,United States,Maine,23,York,031
+PRVIV,United States,Maryland,24,,
+PRVIV,United States,Massachusetts,25,,
+PRVIV,United States,Massachusetts,25,Barnstable,001
+PRVIV,United States,Massachusetts,25,Berkshire,003
+PRVIV,United States,Massachusetts,25,Bristol,005
+PRVIV,United States,Massachusetts,25,Dukes,007
+PRVIV,United States,Massachusetts,25,Essex,009
+PRVIV,United States,Massachusetts,25,Franklin,011
+PRVIV,United States,Massachusetts,25,Hampden,013
+PRVIV,United States,Massachusetts,25,Hampshire,015
+PRVIV,United States,Massachusetts,25,Middlesex,017
+PRVIV,United States,Massachusetts,25,Nantucket,019
+PRVIV,United States,Massachusetts,25,Norfolk,021
+PRVIV,United States,Massachusetts,25,Plymouth,023
+PRVIV,United States,Massachusetts,25,Suffolk,025
+PRVIV,United States,Massachusetts,25,Worcester,027
+PRVIV,United States,Michigan,26,,
+PRVIV,United States,Michigan,26,Alcona,001
+PRVIV,United States,Michigan,26,Alger,003
+PRVIV,United States,Michigan,26,Allegan,005
+PRVIV,United States,Michigan,26,Alpena,007
+PRVIV,United States,Michigan,26,Antrim,009
+PRVIV,United States,Michigan,26,Arenac,011
+PRVIV,United States,Michigan,26,Baraga,013
+PRVIV,United States,Michigan,26,Barry,015
+PRVIV,United States,Michigan,26,Bay,017
+PRVIV,United States,Michigan,26,Benzie,019
+PRVIV,United States,Michigan,26,Berrien,021
+PRVIV,United States,Michigan,26,Calhoun,025
+PRVIV,United States,Michigan,26,Cass,027
+PRVIV,United States,Michigan,26,Charlevoix,029
+PRVIV,United States,Michigan,26,Cheboygan,031
+PRVIV,United States,Michigan,26,Chippewa,033
+PRVIV,United States,Michigan,26,Clare,035
+PRVIV,United States,Michigan,26,Clinton,037
+PRVIV,United States,Michigan,26,Crawford,039
+PRVIV,United States,Michigan,26,Delta,041
+PRVIV,United States,Michigan,26,Dickinson,043
+PRVIV,United States,Michigan,26,Eaton,045
+PRVIV,United States,Michigan,26,Emmet,047
+PRVIV,United States,Michigan,26,Genesee,049
+PRVIV,United States,Michigan,26,Gogebic,053
+PRVIV,United States,Michigan,26,Grand Traverse,055
+PRVIV,United States,Michigan,26,Gratiot,057
+PRVIV,United States,Michigan,26,Hillsdale,059
+PRVIV,United States,Michigan,26,Houghton,061
+PRVIV,United States,Michigan,26,Huron,063
+PRVIV,United States,Michigan,26,Ingham,065
+PRVIV,United States,Michigan,26,Ionia,067
+PRVIV,United States,Michigan,26,Iosco,069
+PRVIV,United States,Michigan,26,Iron,071
+PRVIV,United States,Michigan,26,Isabella,073
+PRVIV,United States,Michigan,26,Jackson,075
+PRVIV,United States,Michigan,26,Kalamazoo,077
+PRVIV,United States,Michigan,26,Kent,081
+PRVIV,United States,Michigan,26,Keweenaw,083
+PRVIV,United States,Michigan,26,Lapeer,087
+PRVIV,United States,Michigan,26,Leelanau,089
+PRVIV,United States,Michigan,26,Lenawee,091
+PRVIV,United States,Michigan,26,Livingston,093
+PRVIV,United States,Michigan,26,Luce,095
+PRVIV,United States,Michigan,26,Mackinac,097
+PRVIV,United States,Michigan,26,Macomb,099
+PRVIV,United States,Michigan,26,Manistee,101
+PRVIV,United States,Michigan,26,Marquette,103
+PRVIV,United States,Michigan,26,Mason,105
+PRVIV,United States,Michigan,26,Mecosta,107
+PRVIV,United States,Michigan,26,Menominee,109
+PRVIV,United States,Michigan,26,Midland,111
+PRVIV,United States,Michigan,26,Missaukee,113
+PRVIV,United States,Michigan,26,Monroe,115
+PRVIV,United States,Michigan,26,Montcalm,117
+PRVIV,United States,Michigan,26,Montmorency,119
+PRVIV,United States,Michigan,26,Muskegon,121
+PRVIV,United States,Michigan,26,Newaygo,123
+PRVIV,United States,Michigan,26,Oakland,125
+PRVIV,United States,Michigan,26,Oceana,127
+PRVIV,United States,Michigan,26,Ogemaw,129
+PRVIV,United States,Michigan,26,Ontonagon,131
+PRVIV,United States,Michigan,26,Osceola,133
+PRVIV,United States,Michigan,26,Oscoda,135
+PRVIV,United States,Michigan,26,Otsego,137
+PRVIV,United States,Michigan,26,Ottawa,139
+PRVIV,United States,Michigan,26,Presque Isle,141
+PRVIV,United States,Michigan,26,Saginaw,145
+PRVIV,United States,Michigan,26,Sanilac,151
+PRVIV,United States,Michigan,26,Schoolcraft,153
+PRVIV,United States,Michigan,26,Shiawassee,155
+PRVIV,United States,Michigan,26,St. Clair,147
+PRVIV,United States,Michigan,26,St. Joseph,149
+PRVIV,United States,Michigan,26,Tuscola,157
+PRVIV,United States,Michigan,26,Van Buren,159
+PRVIV,United States,Michigan,26,Washtenaw,161
+PRVIV,United States,Michigan,26,Wayne,163
+PRVIV,United States,Minnesota,27,,
+PRVIV,United States,Minnesota,27,Aitkin,001
+PRVIV,United States,Minnesota,27,Anoka,003
+PRVIV,United States,Minnesota,27,Becker,005
+PRVIV,United States,Minnesota,27,Beltrami,007
+PRVIV,United States,Minnesota,27,Benton,009
+PRVIV,United States,Minnesota,27,Big Stone,011
+PRVIV,United States,Minnesota,27,Blue Earth,013
+PRVIV,United States,Minnesota,27,Brown,015
+PRVIV,United States,Minnesota,27,Carlton,017
+PRVIV,United States,Minnesota,27,Cass,021
+PRVIV,United States,Minnesota,27,Chippewa,023
+PRVIV,United States,Minnesota,27,Chisago,025
+PRVIV,United States,Minnesota,27,Clay,027
+PRVIV,United States,Minnesota,27,Clearwater,029
+PRVIV,United States,Minnesota,27,Cook,031
+PRVIV,United States,Minnesota,27,Cottonwood,033
+PRVIV,United States,Minnesota,27,Crow Wing,035
+PRVIV,United States,Minnesota,27,Dakota,037
+PRVIV,United States,Minnesota,27,Douglas,041
+PRVIV,United States,Minnesota,27,Faribault,043
+PRVIV,United States,Minnesota,27,Fillmore,045
+PRVIV,United States,Minnesota,27,Freeborn,047
+PRVIV,United States,Minnesota,27,Goodhue,049
+PRVIV,United States,Minnesota,27,Grant,051
+PRVIV,United States,Minnesota,27,Hennepin,053
+PRVIV,United States,Minnesota,27,Houston,055
+PRVIV,United States,Minnesota,27,Hubbard,057
+PRVIV,United States,Minnesota,27,Isanti,059
+PRVIV,United States,Minnesota,27,Itasca,061
+PRVIV,United States,Minnesota,27,Jackson,063
+PRVIV,United States,Minnesota,27,Kanabec,065
+PRVIV,United States,Minnesota,27,Kittson,069
+PRVIV,United States,Minnesota,27,Koochiching,071
+PRVIV,United States,Minnesota,27,Lac qui Parle,073
+PRVIV,United States,Minnesota,27,Lake,075
+PRVIV,United States,Minnesota,27,Lake of the Woods,077
+PRVIV,United States,Minnesota,27,Le Sueur,079
+PRVIV,United States,Minnesota,27,Lincoln,081
+PRVIV,United States,Minnesota,27,Lyon,083
+PRVIV,United States,Minnesota,27,Marshall,089
+PRVIV,United States,Minnesota,27,Martin,091
+PRVIV,United States,Minnesota,27,McLeod,085
+PRVIV,United States,Minnesota,27,Meeker,093
+PRVIV,United States,Minnesota,27,Mille Lacs,095
+PRVIV,United States,Minnesota,27,Morrison,097
+PRVIV,United States,Minnesota,27,Mower,099
+PRVIV,United States,Minnesota,27,Murray,101
+PRVIV,United States,Minnesota,27,Norman,107
+PRVIV,United States,Minnesota,27,Olmsted,109
+PRVIV,United States,Minnesota,27,Otter Tail,111
+PRVIV,United States,Minnesota,27,Pennington,113
+PRVIV,United States,Minnesota,27,Pine,115
+PRVIV,United States,Minnesota,27,Pipestone,117
+PRVIV,United States,Minnesota,27,Polk,119
+PRVIV,United States,Minnesota,27,Pope,121
+PRVIV,United States,Minnesota,27,Ramsey,123
+PRVIV,United States,Minnesota,27,Red Lake,125
+PRVIV,United States,Minnesota,27,Redwood,127
+PRVIV,United States,Minnesota,27,Renville,129
+PRVIV,United States,Minnesota,27,Rice,131
+PRVIV,United States,Minnesota,27,Roseau,135
+PRVIV,United States,Minnesota,27,Scott,139
+PRVIV,United States,Minnesota,27,Sherburne,141
+PRVIV,United States,Minnesota,27,St. Louis,137
+PRVIV,United States,Minnesota,27,Stearns,145
+PRVIV,United States,Minnesota,27,Steele,147
+PRVIV,United States,Minnesota,27,Stevens,149
+PRVIV,United States,Minnesota,27,Swift,151
+PRVIV,United States,Minnesota,27,Todd,153
+PRVIV,United States,Minnesota,27,Traverse,155
+PRVIV,United States,Minnesota,27,Wabasha,157
+PRVIV,United States,Minnesota,27,Wadena,159
+PRVIV,United States,Minnesota,27,Waseca,161
+PRVIV,United States,Minnesota,27,Washington,163
+PRVIV,United States,Minnesota,27,Watonwan,165
+PRVIV,United States,Minnesota,27,Wilkin,167
+PRVIV,United States,Minnesota,27,Winona,169
+PRVIV,United States,Minnesota,27,Wright,171
+PRVIV,United States,Minnesota,27,Yellow Medicine,173
+PRVIV,United States,Missouri,29,,
+PRVIV,United States,Missouri,29,Adair,001
+PRVIV,United States,Missouri,29,Andrew,003
+PRVIV,United States,Missouri,29,Atchison,005
+PRVIV,United States,Missouri,29,Barton,011
+PRVIV,United States,Missouri,29,Benton,015
+PRVIV,United States,Missouri,29,Boone,019
+PRVIV,United States,Missouri,29,Buchanan,021
+PRVIV,United States,Missouri,29,Caldwell,025
+PRVIV,United States,Missouri,29,Cape Girardeau,031
+PRVIV,United States,Missouri,29,Clark,045
+PRVIV,United States,Missouri,29,Clinton,049
+PRVIV,United States,Missouri,29,Cooper,053
+PRVIV,United States,Missouri,29,Daviess,061
+PRVIV,United States,Missouri,29,DeKalb,063
+PRVIV,United States,Missouri,29,Gasconade,073
+PRVIV,United States,Missouri,29,Gentry,075
+PRVIV,United States,Missouri,29,Greene,077
+PRVIV,United States,Missouri,29,Grundy,079
+PRVIV,United States,Missouri,29,Harrison,081
+PRVIV,United States,Missouri,29,Holt,087
+PRVIV,United States,Missouri,29,Knox,103
+PRVIV,United States,Missouri,29,Laclede,105
+PRVIV,United States,Missouri,29,Lewis,111
+PRVIV,United States,Missouri,29,Lincoln,113
+PRVIV,United States,Missouri,29,Livingston,117
+PRVIV,United States,Missouri,29,Marion,127
+PRVIV,United States,Missouri,29,Mercer,129
+PRVIV,United States,Missouri,29,Moniteau,135
+PRVIV,United States,Missouri,29,Montgomery,139
+PRVIV,United States,Missouri,29,Nodaway,147
+PRVIV,United States,Missouri,29,Osage,151
+PRVIV,United States,Missouri,29,Pike,163
+PRVIV,United States,Missouri,29,Platte,165
+PRVIV,United States,Missouri,29,Putnam,171
+PRVIV,United States,Missouri,29,Ralls,173
+PRVIV,United States,Missouri,29,Ray,177
+PRVIV,United States,Missouri,29,Saline,195
+PRVIV,United States,Missouri,29,Schuyler,197
+PRVIV,United States,Missouri,29,Scotland,199
+PRVIV,United States,Missouri,29,Shelby,205
+PRVIV,United States,Missouri,29,Sullivan,211
+PRVIV,United States,Missouri,29,Texas,215
+PRVIV,United States,Missouri,29,Worth,227
+PRVIV,United States,Nebraska,31,,
+PRVIV,United States,New Hampshire,33,,
+PRVIV,United States,New Hampshire,33,Belknap,001
+PRVIV,United States,New Hampshire,33,Carroll,003
+PRVIV,United States,New Hampshire,33,Cheshire,005
+PRVIV,United States,New Hampshire,33,Coos,007
+PRVIV,United States,New Hampshire,33,Grafton,009
+PRVIV,United States,New Hampshire,33,Hillsborough,011
+PRVIV,United States,New Hampshire,33,Merrimack,013
+PRVIV,United States,New Hampshire,33,Rockingham,015
+PRVIV,United States,New Hampshire,33,Strafford,017
+PRVIV,United States,New Hampshire,33,Sullivan,019
+PRVIV,United States,New Jersey,34,,
+PRVIV,United States,New Jersey,34,Burlington,005
+PRVIV,United States,New Jersey,34,Hudson,017
+PRVIV,United States,New Jersey,34,Hunterdon,019
+PRVIV,United States,New Jersey,34,Mercer,021
+PRVIV,United States,New Jersey,34,Middlesex,023
+PRVIV,United States,New Jersey,34,Monmouth,025
+PRVIV,United States,New Jersey,34,Morris,027
+PRVIV,United States,New Jersey,34,Ocean,029
+PRVIV,United States,New Jersey,34,Passaic,031
+PRVIV,United States,New Jersey,34,Somerset,035
+PRVIV,United States,New Jersey,34,Sussex,037
+PRVIV,United States,New Jersey,34,Warren,041
+PRVIV,United States,New York,36,,
+PRVIV,United States,New York,36,Albany,001
+PRVIV,United States,New York,36,Allegany,003
+PRVIV,United States,New York,36,Broome,007
+PRVIV,United States,New York,36,Cattaraugus,009
+PRVIV,United States,New York,36,Cayuga,011
+PRVIV,United States,New York,36,Chemung,015
+PRVIV,United States,New York,36,Columbia,021
+PRVIV,United States,New York,36,Delaware,025
+PRVIV,United States,New York,36,Dutchess,027
+PRVIV,United States,New York,36,Erie,029
+PRVIV,United States,New York,36,Essex,031
+PRVIV,United States,New York,36,Franklin,033
+PRVIV,United States,New York,36,Genesee,037
+PRVIV,United States,New York,36,Greene,039
+PRVIV,United States,New York,36,Hamilton,041
+PRVIV,United States,New York,36,Jefferson,045
+PRVIV,United States,New York,36,Kings,047
+PRVIV,United States,New York,36,Lewis,049
+PRVIV,United States,New York,36,Madison,053
+PRVIV,United States,New York,36,Montgomery,057
+PRVIV,United States,New York,36,Oneida,065
+PRVIV,United States,New York,36,Onondaga,067
+PRVIV,United States,New York,36,Ontario,069
+PRVIV,United States,New York,36,Orange,071
+PRVIV,United States,New York,36,Oswego,075
+PRVIV,United States,New York,36,Putnam,079
+PRVIV,United States,New York,36,Rensselaer,083
+PRVIV,United States,New York,36,Rockland,087
+PRVIV,United States,New York,36,Saratoga,091
+PRVIV,United States,New York,36,Schenectady,093
+PRVIV,United States,New York,36,Schuyler,097
+PRVIV,United States,New York,36,St. Lawrence,089
+PRVIV,United States,New York,36,Suffolk,103
+PRVIV,United States,New York,36,Tioga,107
+PRVIV,United States,New York,36,Tompkins,109
+PRVIV,United States,New York,36,Ulster,111
+PRVIV,United States,New York,36,Warren,113
+PRVIV,United States,New York,36,Washington,115
+PRVIV,United States,New York,36,Yates,123
+PRVIV,United States,North Carolina,37,,
+PRVIV,United States,North Carolina,37,Ashe,009
+PRVIV,United States,North Carolina,37,Buncombe,021
+PRVIV,United States,North Dakota,38,,
+PRVIV,United States,Ohio,39,,
+PRVIV,United States,Ohio,39,Adams,001
+PRVIV,United States,Ohio,39,Allen,003
+PRVIV,United States,Ohio,39,Ashland,005
+PRVIV,United States,Ohio,39,Ashtabula,007
+PRVIV,United States,Ohio,39,Auglaize,011
+PRVIV,United States,Ohio,39,Carroll,019
+PRVIV,United States,Ohio,39,Champaign,021
+PRVIV,United States,Ohio,39,Clark,023
+PRVIV,United States,Ohio,39,Clinton,027
+PRVIV,United States,Ohio,39,Columbiana,029
+PRVIV,United States,Ohio,39,Coshocton,031
+PRVIV,United States,Ohio,39,Crawford,033
+PRVIV,United States,Ohio,39,Cuyahoga,035
+PRVIV,United States,Ohio,39,Darke,037
+PRVIV,United States,Ohio,39,Defiance,039
+PRVIV,United States,Ohio,39,Delaware,041
+PRVIV,United States,Ohio,39,Erie,043
+PRVIV,United States,Ohio,39,Fairfield,045
+PRVIV,United States,Ohio,39,Fayette,047
+PRVIV,United States,Ohio,39,Franklin,049
+PRVIV,United States,Ohio,39,Fulton,051
+PRVIV,United States,Ohio,39,Gallia,053
+PRVIV,United States,Ohio,39,Geauga,055
+PRVIV,United States,Ohio,39,Greene,057
+PRVIV,United States,Ohio,39,Guernsey,059
+PRVIV,United States,Ohio,39,Hancock,063
+PRVIV,United States,Ohio,39,Hardin,065
+PRVIV,United States,Ohio,39,Harrison,067
+PRVIV,United States,Ohio,39,Henry,069
+PRVIV,United States,Ohio,39,Highland,071
+PRVIV,United States,Ohio,39,Hocking,073
+PRVIV,United States,Ohio,39,Holmes,075
+PRVIV,United States,Ohio,39,Huron,077
+PRVIV,United States,Ohio,39,Jackson,079
+PRVIV,United States,Ohio,39,Jefferson,081
+PRVIV,United States,Ohio,39,Knox,083
+PRVIV,United States,Ohio,39,Lake,085
+PRVIV,United States,Ohio,39,Lawrence,087
+PRVIV,United States,Ohio,39,Licking,089
+PRVIV,United States,Ohio,39,Lorain,093
+PRVIV,United States,Ohio,39,Lucas,095
+PRVIV,United States,Ohio,39,Madison,097
+PRVIV,United States,Ohio,39,Mahoning,099
+PRVIV,United States,Ohio,39,Marion,101
+PRVIV,United States,Ohio,39,Medina,103
+PRVIV,United States,Ohio,39,Miami,109
+PRVIV,United States,Ohio,39,Monroe,111
+PRVIV,United States,Ohio,39,Montgomery,113
+PRVIV,United States,Ohio,39,Morgan,115
+PRVIV,United States,Ohio,39,Morrow,117
+PRVIV,United States,Ohio,39,Muskingum,119
+PRVIV,United States,Ohio,39,Noble,121
+PRVIV,United States,Ohio,39,Ottawa,123
+PRVIV,United States,Ohio,39,Paulding,125
+PRVIV,United States,Ohio,39,Perry,127
+PRVIV,United States,Ohio,39,Pickaway,129
+PRVIV,United States,Ohio,39,Portage,133
+PRVIV,United States,Ohio,39,Putnam,137
+PRVIV,United States,Ohio,39,Richland,139
+PRVIV,United States,Ohio,39,Ross,141
+PRVIV,United States,Ohio,39,Sandusky,143
+PRVIV,United States,Ohio,39,Scioto,145
+PRVIV,United States,Ohio,39,Seneca,147
+PRVIV,United States,Ohio,39,Shelby,149
+PRVIV,United States,Ohio,39,Stark,151
+PRVIV,United States,Ohio,39,Summit,153
+PRVIV,United States,Ohio,39,Trumbull,155
+PRVIV,United States,Ohio,39,Tuscarawas,157
+PRVIV,United States,Ohio,39,Union,159
+PRVIV,United States,Ohio,39,Van Wert,161
+PRVIV,United States,Ohio,39,Vinton,163
+PRVIV,United States,Ohio,39,Wayne,169
+PRVIV,United States,Ohio,39,Williams,171
+PRVIV,United States,Ohio,39,Wood,173
+PRVIV,United States,Ohio,39,Wyandot,175
+PRVIV,United States,Oklahoma,40,,
+PRVIV,United States,Oklahoma,40,Cimarron,025
+PRVIV,United States,Oklahoma,40,Comanche,031
+PRVIV,United States,Oklahoma,40,Harper,059
+PRVIV,United States,Oklahoma,40,Oklahoma,109
+PRVIV,United States,Pennsylvania,42,,
+PRVIV,United States,Pennsylvania,42,Adams,001
+PRVIV,United States,Pennsylvania,42,Allegheny,003
+PRVIV,United States,Pennsylvania,42,Armstrong,005
+PRVIV,United States,Pennsylvania,42,Beaver,007
+PRVIV,United States,Pennsylvania,42,Bedford,009
+PRVIV,United States,Pennsylvania,42,Berks,011
+PRVIV,United States,Pennsylvania,42,Blair,013
+PRVIV,United States,Pennsylvania,42,Bradford,015
+PRVIV,United States,Pennsylvania,42,Bucks,017
+PRVIV,United States,Pennsylvania,42,Butler,019
+PRVIV,United States,Pennsylvania,42,Cambria,021
+PRVIV,United States,Pennsylvania,42,Cameron,023
+PRVIV,United States,Pennsylvania,42,Carbon,025
+PRVIV,United States,Pennsylvania,42,Centre,027
+PRVIV,United States,Pennsylvania,42,Chester,029
+PRVIV,United States,Pennsylvania,42,Clarion,031
+PRVIV,United States,Pennsylvania,42,Clearfield,033
+PRVIV,United States,Pennsylvania,42,Clinton,035
+PRVIV,United States,Pennsylvania,42,Columbia,037
+PRVIV,United States,Pennsylvania,42,Crawford,039
+PRVIV,United States,Pennsylvania,42,Cumberland,041
+PRVIV,United States,Pennsylvania,42,Dauphin,043
+PRVIV,United States,Pennsylvania,42,Elk,047
+PRVIV,United States,Pennsylvania,42,Erie,049
+PRVIV,United States,Pennsylvania,42,Fayette,051
+PRVIV,United States,Pennsylvania,42,Forest,053
+PRVIV,United States,Pennsylvania,42,Franklin,055
+PRVIV,United States,Pennsylvania,42,Fulton,057
+PRVIV,United States,Pennsylvania,42,Greene,059
+PRVIV,United States,Pennsylvania,42,Huntingdon,061
+PRVIV,United States,Pennsylvania,42,Indiana,063
+PRVIV,United States,Pennsylvania,42,Jefferson,065
+PRVIV,United States,Pennsylvania,42,Juniata,067
+PRVIV,United States,Pennsylvania,42,Lackawanna,069
+PRVIV,United States,Pennsylvania,42,Lancaster,071
+PRVIV,United States,Pennsylvania,42,Lawrence,073
+PRVIV,United States,Pennsylvania,42,Lebanon,075
+PRVIV,United States,Pennsylvania,42,Lehigh,077
+PRVIV,United States,Pennsylvania,42,Luzerne,079
+PRVIV,United States,Pennsylvania,42,Lycoming,081
+PRVIV,United States,Pennsylvania,42,McKean,083
+PRVIV,United States,Pennsylvania,42,Mercer,085
+PRVIV,United States,Pennsylvania,42,Mifflin,087
+PRVIV,United States,Pennsylvania,42,Monroe,089
+PRVIV,United States,Pennsylvania,42,Montgomery,091
+PRVIV,United States,Pennsylvania,42,Montour,093
+PRVIV,United States,Pennsylvania,42,Northampton,095
+PRVIV,United States,Pennsylvania,42,Northumberland,097
+PRVIV,United States,Pennsylvania,42,Perry,099
+PRVIV,United States,Pennsylvania,42,Pike,103
+PRVIV,United States,Pennsylvania,42,Potter,105
+PRVIV,United States,Pennsylvania,42,Schuylkill,107
+PRVIV,United States,Pennsylvania,42,Snyder,109
+PRVIV,United States,Pennsylvania,42,Somerset,111
+PRVIV,United States,Pennsylvania,42,Sullivan,113
+PRVIV,United States,Pennsylvania,42,Susquehanna,115
+PRVIV,United States,Pennsylvania,42,Tioga,117
+PRVIV,United States,Pennsylvania,42,Union,119
+PRVIV,United States,Pennsylvania,42,Venango,121
+PRVIV,United States,Pennsylvania,42,Warren,123
+PRVIV,United States,Pennsylvania,42,Washington,125
+PRVIV,United States,Pennsylvania,42,Wayne,127
+PRVIV,United States,Pennsylvania,42,Westmoreland,129
+PRVIV,United States,Pennsylvania,42,Wyoming,131
+PRVIV,United States,Pennsylvania,42,York,133
+PRVIV,United States,Rhode Island,44,,
+PRVIV,United States,Rhode Island,44,Kent,003
+PRVIV,United States,Rhode Island,44,Providence,007
+PRVIV,United States,Tennessee,47,,
+PRVIV,United States,Tennessee,47,Blount,009
+PRVIV,United States,Tennessee,47,Greene,059
+PRVIV,United States,Tennessee,47,Johnson,091
+PRVIV,United States,Tennessee,47,Polk,139
+PRVIV,United States,Tennessee,47,Sevier,155
+PRVIV,United States,Vermont,50,,
+PRVIV,United States,Vermont,50,Addison,001
+PRVIV,United States,Vermont,50,Bennington,003
+PRVIV,United States,Vermont,50,Caledonia,005
+PRVIV,United States,Vermont,50,Chittenden,007
+PRVIV,United States,Vermont,50,Essex,009
+PRVIV,United States,Vermont,50,Franklin,011
+PRVIV,United States,Vermont,50,Lamoille,015
+PRVIV,United States,Vermont,50,Orange,017
+PRVIV,United States,Vermont,50,Orleans,019
+PRVIV,United States,Vermont,50,Rutland,021
+PRVIV,United States,Vermont,50,Washington,023
+PRVIV,United States,Vermont,50,Windham,025
+PRVIV,United States,Vermont,50,Windsor,027
+PRVIV,United States,Virginia,51,,
+PRVIV,United States,Virginia,51,Albemarle,003
+PRVIV,United States,Virginia,51,Alleghany,005
+PRVIV,United States,Virginia,51,Amherst,009
+PRVIV,United States,Virginia,51,Augusta,015
+PRVIV,United States,Virginia,51,Bath,017
+PRVIV,United States,Virginia,51,Bedford,019
+PRVIV,United States,Virginia,51,Bland,021
+PRVIV,United States,Virginia,51,Botetourt,023
+PRVIV,United States,Virginia,51,Craig,045
+PRVIV,United States,Virginia,51,Fauquier,061
+PRVIV,United States,Virginia,51,Floyd,063
+PRVIV,United States,Virginia,51,Franklin,067
+PRVIV,United States,Virginia,51,Frederick,069
+PRVIV,United States,Virginia,51,Giles,071
+PRVIV,United States,Virginia,51,Greene,079
+PRVIV,United States,Virginia,51,Highland,091
+PRVIV,United States,Virginia,51,Lee,105
+PRVIV,United States,Virginia,51,Madison,113
+PRVIV,United States,Virginia,51,Montgomery,121
+PRVIV,United States,Virginia,51,Nelson,125
+PRVIV,United States,Virginia,51,Page,139
+PRVIV,United States,Virginia,51,Patrick,141
+PRVIV,United States,Virginia,51,Rappahannock,157
+PRVIV,United States,Virginia,51,Roanoke,161
+PRVIV,United States,Virginia,51,Rockbridge,163
+PRVIV,United States,Virginia,51,Rockingham,165
+PRVIV,United States,Virginia,51,Scott,169
+PRVIV,United States,Virginia,51,Shenandoah,171
+PRVIV,United States,Virginia,51,Tazewell,185
+PRVIV,United States,Virginia,51,Warren,187
+PRVIV,United States,Virginia,51,Washington,191
+PRVIV,United States,Virginia,51,Wythe,197
+PRVIV,United States,West Virginia,54,,
+PRVIV,United States,West Virginia,54,Berkeley,003
+PRVIV,United States,West Virginia,54,Grant,023
+PRVIV,United States,West Virginia,54,Greenbrier,025
+PRVIV,United States,West Virginia,54,Hampshire,027
+PRVIV,United States,West Virginia,54,Hancock,029
+PRVIV,United States,West Virginia,54,Hardy,031
+PRVIV,United States,West Virginia,54,Mercer,055
+PRVIV,United States,West Virginia,54,Mineral,057
+PRVIV,United States,West Virginia,54,Monongalia,061
+PRVIV,United States,West Virginia,54,Morgan,065
+PRVIV,United States,West Virginia,54,Pendleton,071
+PRVIV,United States,West Virginia,54,Pocahontas,075
+PRVIV,United States,West Virginia,54,Preston,077
+PRVIV,United States,West Virginia,54,Randolph,083
+PRVIV,United States,West Virginia,54,Taylor,091
+PRVIV,United States,West Virginia,54,Tucker,093
+PRVIV,United States,West Virginia,54,Wetzel,103
+PRVIV,United States,Wisconsin,55,,
+PRVIV,United States,Wisconsin,55,Adams,001
+PRVIV,United States,Wisconsin,55,Ashland,003
+PRVIV,United States,Wisconsin,55,Barron,005
+PRVIV,United States,Wisconsin,55,Bayfield,007
+PRVIV,United States,Wisconsin,55,Brown,009
+PRVIV,United States,Wisconsin,55,Buffalo,011
+PRVIV,United States,Wisconsin,55,Burnett,013
+PRVIV,United States,Wisconsin,55,Calumet,015
+PRVIV,United States,Wisconsin,55,Chippewa,017
+PRVIV,United States,Wisconsin,55,Clark,019
+PRVIV,United States,Wisconsin,55,Columbia,021
+PRVIV,United States,Wisconsin,55,Crawford,023
+PRVIV,United States,Wisconsin,55,Dane,025
+PRVIV,United States,Wisconsin,55,Dodge,027
+PRVIV,United States,Wisconsin,55,Door,029
+PRVIV,United States,Wisconsin,55,Douglas,031
+PRVIV,United States,Wisconsin,55,Dunn,033
+PRVIV,United States,Wisconsin,55,Eau Claire,035
+PRVIV,United States,Wisconsin,55,Florence,037
+PRVIV,United States,Wisconsin,55,Fond du Lac,039
+PRVIV,United States,Wisconsin,55,Forest,041
+PRVIV,United States,Wisconsin,55,Grant,043
+PRVIV,United States,Wisconsin,55,Green,045
+PRVIV,United States,Wisconsin,55,Green Lake,047
+PRVIV,United States,Wisconsin,55,Iowa,049
+PRVIV,United States,Wisconsin,55,Iron,051
+PRVIV,United States,Wisconsin,55,Jackson,053
+PRVIV,United States,Wisconsin,55,Jefferson,055
+PRVIV,United States,Wisconsin,55,Kenosha,059
+PRVIV,United States,Wisconsin,55,Kewaunee,061
+PRVIV,United States,Wisconsin,55,La Crosse,063
+PRVIV,United States,Wisconsin,55,Lafayette,065
+PRVIV,United States,Wisconsin,55,Langlade,067
+PRVIV,United States,Wisconsin,55,Lincoln,069
+PRVIV,United States,Wisconsin,55,Manitowoc,071
+PRVIV,United States,Wisconsin,55,Marathon,073
+PRVIV,United States,Wisconsin,55,Marinette,075
+PRVIV,United States,Wisconsin,55,Marquette,077
+PRVIV,United States,Wisconsin,55,Milwaukee,079
+PRVIV,United States,Wisconsin,55,Monroe,081
+PRVIV,United States,Wisconsin,55,Oconto,083
+PRVIV,United States,Wisconsin,55,Oneida,085
+PRVIV,United States,Wisconsin,55,Outagamie,087
+PRVIV,United States,Wisconsin,55,Ozaukee,089
+PRVIV,United States,Wisconsin,55,Pepin,091
+PRVIV,United States,Wisconsin,55,Pierce,093
+PRVIV,United States,Wisconsin,55,Polk,095
+PRVIV,United States,Wisconsin,55,Portage,097
+PRVIV,United States,Wisconsin,55,Price,099
+PRVIV,United States,Wisconsin,55,Racine,101
+PRVIV,United States,Wisconsin,55,Richland,103
+PRVIV,United States,Wisconsin,55,Rock,105
+PRVIV,United States,Wisconsin,55,Rusk,107
+PRVIV,United States,Wisconsin,55,Sauk,111
+PRVIV,United States,Wisconsin,55,Sawyer,113
+PRVIV,United States,Wisconsin,55,Shawano,115
+PRVIV,United States,Wisconsin,55,Sheboygan,117
+PRVIV,United States,Wisconsin,55,St. Croix,109
+PRVIV,United States,Wisconsin,55,Taylor,119
+PRVIV,United States,Wisconsin,55,Trempealeau,121
+PRVIV,United States,Wisconsin,55,Vernon,123
+PRVIV,United States,Wisconsin,55,Vilas,125
+PRVIV,United States,Wisconsin,55,Walworth,127
+PRVIV,United States,Wisconsin,55,Washburn,129
+PRVIV,United States,Wisconsin,55,Washington,131
+PRVIV,United States,Wisconsin,55,Waukesha,133
+PRVIV,United States,Wisconsin,55,Waupaca,135
+PRVIV,United States,Wisconsin,55,Waushara,137
+PRVIV,United States,Wisconsin,55,Winnebago,139
+PRVIV,United States,Wisconsin,55,Wood,141
+PRVIV,Canada,Newfoundland,NF,,

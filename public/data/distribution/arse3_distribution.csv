@@ -1,0 +1,776 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ARSE3,United States,Alabama,01,,
+ARSE3,United States,Alabama,01,Baldwin,003
+ARSE3,United States,Alabama,01,Clarke,025
+ARSE3,United States,Alabama,01,Conecuh,035
+ARSE3,United States,Alabama,01,Lee,081
+ARSE3,United States,Alabama,01,Mobile,097
+ARSE3,United States,Arkansas,05,,
+ARSE3,United States,Arkansas,05,Ashley,003
+ARSE3,United States,Arkansas,05,Benton,007
+ARSE3,United States,Arkansas,05,Bradley,011
+ARSE3,United States,Arkansas,05,Carroll,015
+ARSE3,United States,Arkansas,05,Cleburne,023
+ARSE3,United States,Arkansas,05,Conway,029
+ARSE3,United States,Arkansas,05,Crittenden,035
+ARSE3,United States,Arkansas,05,Drew,043
+ARSE3,United States,Arkansas,05,Franklin,047
+ARSE3,United States,Arkansas,05,Garland,051
+ARSE3,United States,Arkansas,05,Hempstead,057
+ARSE3,United States,Arkansas,05,Hot Spring,059
+ARSE3,United States,Arkansas,05,Howard,061
+ARSE3,United States,Arkansas,05,Independence,063
+ARSE3,United States,Arkansas,05,Jefferson,069
+ARSE3,United States,Arkansas,05,Johnson,071
+ARSE3,United States,Arkansas,05,Logan,083
+ARSE3,United States,Arkansas,05,Madison,087
+ARSE3,United States,Arkansas,05,Montgomery,097
+ARSE3,United States,Arkansas,05,Newton,101
+ARSE3,United States,Arkansas,05,Perry,105
+ARSE3,United States,Arkansas,05,Polk,113
+ARSE3,United States,Arkansas,05,Pope,115
+ARSE3,United States,Arkansas,05,Saline,125
+ARSE3,United States,Arkansas,05,Sevier,133
+ARSE3,United States,Arkansas,05,Stone,137
+ARSE3,United States,Arkansas,05,Union,139
+ARSE3,United States,Arkansas,05,Washington,143
+ARSE3,United States,Connecticut,09,,
+ARSE3,United States,Connecticut,09,Fairfield,001
+ARSE3,United States,Connecticut,09,Middlesex,007
+ARSE3,United States,Connecticut,09,New Haven,009
+ARSE3,United States,Delaware,10,,
+ARSE3,United States,Delaware,10,New Castle,003
+ARSE3,United States,Delaware,10,Sussex,005
+ARSE3,United States,District of Columbia,11,,
+ARSE3,United States,District of Columbia,11,District of Columbia,001
+ARSE3,United States,Florida,12,,
+ARSE3,United States,Florida,12,Alachua,001
+ARSE3,United States,Florida,12,Bay,005
+ARSE3,United States,Florida,12,Brevard,009
+ARSE3,United States,Florida,12,Citrus,017
+ARSE3,United States,Florida,12,Clay,019
+ARSE3,United States,Florida,12,Columbia,023
+ARSE3,United States,Florida,12,DeSoto,027
+ARSE3,United States,Florida,12,Duval,031
+ARSE3,United States,Florida,12,Escambia,033
+ARSE3,United States,Florida,12,Gadsden,039
+ARSE3,United States,Florida,12,Gilchrist,041
+ARSE3,United States,Florida,12,Hernando,053
+ARSE3,United States,Florida,12,Highlands,055
+ARSE3,United States,Florida,12,Hillsborough,057
+ARSE3,United States,Florida,12,Jackson,063
+ARSE3,United States,Florida,12,Lafayette,067
+ARSE3,United States,Florida,12,Lake,069
+ARSE3,United States,Florida,12,Leon,073
+ARSE3,United States,Florida,12,Levy,075
+ARSE3,United States,Florida,12,Liberty,077
+ARSE3,United States,Florida,12,Marion,083
+ARSE3,United States,Florida,12,Monroe,087
+ARSE3,United States,Florida,12,Okaloosa,091
+ARSE3,United States,Florida,12,Orange,095
+ARSE3,United States,Florida,12,Pasco,101
+ARSE3,United States,Florida,12,Polk,105
+ARSE3,United States,Florida,12,Putnam,107
+ARSE3,United States,Florida,12,Suwannee,121
+ARSE3,United States,Florida,12,Taylor,123
+ARSE3,United States,Florida,12,Volusia,127
+ARSE3,United States,Florida,12,Wakulla,129
+ARSE3,United States,Florida,12,Walton,131
+ARSE3,United States,Georgia,13,,
+ARSE3,United States,Georgia,13,Baker,007
+ARSE3,United States,Georgia,13,Bartow,015
+ARSE3,United States,Georgia,13,Brantley,025
+ARSE3,United States,Georgia,13,Clarke,059
+ARSE3,United States,Georgia,13,Columbia,073
+ARSE3,United States,Georgia,13,Elbert,105
+ARSE3,United States,Georgia,13,Floyd,115
+ARSE3,United States,Georgia,13,Forsyth,117
+ARSE3,United States,Georgia,13,Glascock,125
+ARSE3,United States,Georgia,13,Greene,133
+ARSE3,United States,Georgia,13,Gwinnett,135
+ARSE3,United States,Georgia,13,Hall,139
+ARSE3,United States,Georgia,13,Harris,145
+ARSE3,United States,Georgia,13,Jones,169
+ARSE3,United States,Georgia,13,Lincoln,181
+ARSE3,United States,Georgia,13,Lowndes,185
+ARSE3,United States,Georgia,13,Morgan,211
+ARSE3,United States,Georgia,13,Muscogee,215
+ARSE3,United States,Georgia,13,Oconee,219
+ARSE3,United States,Georgia,13,Oglethorpe,221
+ARSE3,United States,Georgia,13,Quitman,239
+ARSE3,United States,Georgia,13,Stephens,257
+ARSE3,United States,Georgia,13,Tift,277
+ARSE3,United States,Georgia,13,Twiggs,289
+ARSE3,United States,Georgia,13,Walker,295
+ARSE3,United States,Georgia,13,Wilcox,315
+ARSE3,United States,Illinois,17,,
+ARSE3,United States,Illinois,17,Alexander,003
+ARSE3,United States,Illinois,17,Christian,021
+ARSE3,United States,Illinois,17,Clark,023
+ARSE3,United States,Illinois,17,Clinton,027
+ARSE3,United States,Illinois,17,Coles,029
+ARSE3,United States,Illinois,17,Crawford,033
+ARSE3,United States,Illinois,17,Cumberland,035
+ARSE3,United States,Illinois,17,Douglas,041
+ARSE3,United States,Illinois,17,DuPage,043
+ARSE3,United States,Illinois,17,Edgar,045
+ARSE3,United States,Illinois,17,Fayette,051
+ARSE3,United States,Illinois,17,Franklin,055
+ARSE3,United States,Illinois,17,Fulton,057
+ARSE3,United States,Illinois,17,Gallatin,059
+ARSE3,United States,Illinois,17,Greene,061
+ARSE3,United States,Illinois,17,Hamilton,065
+ARSE3,United States,Illinois,17,Hardin,069
+ARSE3,United States,Illinois,17,Jackson,077
+ARSE3,United States,Illinois,17,Johnson,087
+ARSE3,United States,Illinois,17,Kane,089
+ARSE3,United States,Illinois,17,Kendall,093
+ARSE3,United States,Illinois,17,LaSalle,099
+ARSE3,United States,Illinois,17,Lawrence,101
+ARSE3,United States,Illinois,17,Macon,115
+ARSE3,United States,Illinois,17,Massac,127
+ARSE3,United States,Illinois,17,McDonough,109
+ARSE3,United States,Illinois,17,McLean,113
+ARSE3,United States,Illinois,17,Menard,129
+ARSE3,United States,Illinois,17,Monroe,133
+ARSE3,United States,Illinois,17,Montgomery,135
+ARSE3,United States,Illinois,17,Peoria,143
+ARSE3,United States,Illinois,17,Perry,145
+ARSE3,United States,Illinois,17,Piatt,147
+ARSE3,United States,Illinois,17,Pope,151
+ARSE3,United States,Illinois,17,Pulaski,153
+ARSE3,United States,Illinois,17,Randolph,157
+ARSE3,United States,Illinois,17,Richland,159
+ARSE3,United States,Illinois,17,Saline,165
+ARSE3,United States,Illinois,17,Sangamon,167
+ARSE3,United States,Illinois,17,St. Clair,163
+ARSE3,United States,Illinois,17,Union,181
+ARSE3,United States,Illinois,17,Vermilion,183
+ARSE3,United States,Illinois,17,Wabash,185
+ARSE3,United States,Illinois,17,Will,197
+ARSE3,United States,Illinois,17,Williamson,199
+ARSE3,United States,Indiana,18,,
+ARSE3,United States,Indiana,18,Adams,001
+ARSE3,United States,Indiana,18,Allen,003
+ARSE3,United States,Indiana,18,Bartholomew,005
+ARSE3,United States,Indiana,18,Blackford,009
+ARSE3,United States,Indiana,18,Boone,011
+ARSE3,United States,Indiana,18,Brown,013
+ARSE3,United States,Indiana,18,Carroll,015
+ARSE3,United States,Indiana,18,Cass,017
+ARSE3,United States,Indiana,18,Clark,019
+ARSE3,United States,Indiana,18,Clay,021
+ARSE3,United States,Indiana,18,Clinton,023
+ARSE3,United States,Indiana,18,Crawford,025
+ARSE3,United States,Indiana,18,Daviess,027
+ARSE3,United States,Indiana,18,Dearborn,029
+ARSE3,United States,Indiana,18,DeKalb,033
+ARSE3,United States,Indiana,18,Dubois,037
+ARSE3,United States,Indiana,18,Elkhart,039
+ARSE3,United States,Indiana,18,Floyd,043
+ARSE3,United States,Indiana,18,Fountain,045
+ARSE3,United States,Indiana,18,Franklin,047
+ARSE3,United States,Indiana,18,Gibson,051
+ARSE3,United States,Indiana,18,Greene,055
+ARSE3,United States,Indiana,18,Harrison,061
+ARSE3,United States,Indiana,18,Henry,065
+ARSE3,United States,Indiana,18,Huntington,069
+ARSE3,United States,Indiana,18,Jackson,071
+ARSE3,United States,Indiana,18,Jefferson,077
+ARSE3,United States,Indiana,18,Jennings,079
+ARSE3,United States,Indiana,18,Knox,083
+ARSE3,United States,Indiana,18,Kosciusko,085
+ARSE3,United States,Indiana,18,Lawrence,093
+ARSE3,United States,Indiana,18,Monroe,105
+ARSE3,United States,Indiana,18,Montgomery,107
+ARSE3,United States,Indiana,18,Morgan,109
+ARSE3,United States,Indiana,18,Noble,113
+ARSE3,United States,Indiana,18,Orange,117
+ARSE3,United States,Indiana,18,Owen,119
+ARSE3,United States,Indiana,18,Parke,121
+ARSE3,United States,Indiana,18,Perry,123
+ARSE3,United States,Indiana,18,Posey,129
+ARSE3,United States,Indiana,18,Putnam,133
+ARSE3,United States,Indiana,18,Randolph,135
+ARSE3,United States,Indiana,18,Ripley,137
+ARSE3,United States,Indiana,18,Rush,139
+ARSE3,United States,Indiana,18,Scott,143
+ARSE3,United States,Indiana,18,Shelby,145
+ARSE3,United States,Indiana,18,St. Joseph,141
+ARSE3,United States,Indiana,18,Steuben,151
+ARSE3,United States,Indiana,18,Sullivan,153
+ARSE3,United States,Indiana,18,Tippecanoe,157
+ARSE3,United States,Indiana,18,Union,161
+ARSE3,United States,Indiana,18,Vanderburgh,163
+ARSE3,United States,Indiana,18,Wabash,169
+ARSE3,United States,Indiana,18,Washington,175
+ARSE3,United States,Indiana,18,Wayne,177
+ARSE3,United States,Indiana,18,Wells,179
+ARSE3,United States,Indiana,18,White,181
+ARSE3,United States,Indiana,18,Whitley,183
+ARSE3,United States,Iowa,19,,
+ARSE3,United States,Kansas,20,,
+ARSE3,United States,Kansas,20,Cherokee,021
+ARSE3,United States,Kentucky,21,,
+ARSE3,United States,Kentucky,21,Allen,003
+ARSE3,United States,Kentucky,21,Ballard,007
+ARSE3,United States,Kentucky,21,Barren,009
+ARSE3,United States,Kentucky,21,Bath,011
+ARSE3,United States,Kentucky,21,Bell,013
+ARSE3,United States,Kentucky,21,Breathitt,025
+ARSE3,United States,Kentucky,21,Breckinridge,027
+ARSE3,United States,Kentucky,21,Bullitt,029
+ARSE3,United States,Kentucky,21,Caldwell,033
+ARSE3,United States,Kentucky,21,Calloway,035
+ARSE3,United States,Kentucky,21,Carlisle,039
+ARSE3,United States,Kentucky,21,Carter,043
+ARSE3,United States,Kentucky,21,Casey,045
+ARSE3,United States,Kentucky,21,Christian,047
+ARSE3,United States,Kentucky,21,Clay,051
+ARSE3,United States,Kentucky,21,Clinton,053
+ARSE3,United States,Kentucky,21,Crittenden,055
+ARSE3,United States,Kentucky,21,Daviess,059
+ARSE3,United States,Kentucky,21,Edmonson,061
+ARSE3,United States,Kentucky,21,Elliott,063
+ARSE3,United States,Kentucky,21,Fleming,069
+ARSE3,United States,Kentucky,21,Fulton,075
+ARSE3,United States,Kentucky,21,Green,087
+ARSE3,United States,Kentucky,21,Hardin,093
+ARSE3,United States,Kentucky,21,Harlan,095
+ARSE3,United States,Kentucky,21,Hart,099
+ARSE3,United States,Kentucky,21,Henderson,101
+ARSE3,United States,Kentucky,21,Hickman,105
+ARSE3,United States,Kentucky,21,Hopkins,107
+ARSE3,United States,Kentucky,21,Jefferson,111
+ARSE3,United States,Kentucky,21,Jessamine,113
+ARSE3,United States,Kentucky,21,Kenton,117
+ARSE3,United States,Kentucky,21,Larue,123
+ARSE3,United States,Kentucky,21,Laurel,125
+ARSE3,United States,Kentucky,21,Lee,129
+ARSE3,United States,Kentucky,21,Letcher,133
+ARSE3,United States,Kentucky,21,Lewis,135
+ARSE3,United States,Kentucky,21,Lincoln,137
+ARSE3,United States,Kentucky,21,Magoffin,153
+ARSE3,United States,Kentucky,21,Martin,159
+ARSE3,United States,Kentucky,21,McCracken,145
+ARSE3,United States,Kentucky,21,McCreary,147
+ARSE3,United States,Kentucky,21,McLean,149
+ARSE3,United States,Kentucky,21,Meade,163
+ARSE3,United States,Kentucky,21,Menifee,165
+ARSE3,United States,Kentucky,21,Monroe,171
+ARSE3,United States,Kentucky,21,Montgomery,173
+ARSE3,United States,Kentucky,21,Muhlenberg,177
+ARSE3,United States,Kentucky,21,Nelson,179
+ARSE3,United States,Kentucky,21,Nicholas,181
+ARSE3,United States,Kentucky,21,Ohio,183
+ARSE3,United States,Kentucky,21,Oldham,185
+ARSE3,United States,Kentucky,21,Owen,187
+ARSE3,United States,Kentucky,21,Pendleton,191
+ARSE3,United States,Kentucky,21,Perry,193
+ARSE3,United States,Kentucky,21,Pike,195
+ARSE3,United States,Kentucky,21,Powell,197
+ARSE3,United States,Kentucky,21,Pulaski,199
+ARSE3,United States,Kentucky,21,Rockcastle,203
+ARSE3,United States,Kentucky,21,Rowan,205
+ARSE3,United States,Kentucky,21,Russell,207
+ARSE3,United States,Kentucky,21,Spencer,215
+ARSE3,United States,Kentucky,21,Taylor,217
+ARSE3,United States,Kentucky,21,Todd,219
+ARSE3,United States,Kentucky,21,Trigg,221
+ARSE3,United States,Kentucky,21,Trimble,223
+ARSE3,United States,Kentucky,21,Warren,227
+ARSE3,United States,Kentucky,21,Wayne,231
+ARSE3,United States,Kentucky,21,Webster,233
+ARSE3,United States,Kentucky,21,Whitley,235
+ARSE3,United States,Louisiana,22,,
+ARSE3,United States,Louisiana,22,Acadia,001
+ARSE3,United States,Louisiana,22,Allen,003
+ARSE3,United States,Louisiana,22,Bienville,013
+ARSE3,United States,Louisiana,22,Caddo,017
+ARSE3,United States,Louisiana,22,Calcasieu,019
+ARSE3,United States,Louisiana,22,Caldwell,021
+ARSE3,United States,Louisiana,22,Catahoula,025
+ARSE3,United States,Louisiana,22,Claiborne,027
+ARSE3,United States,Louisiana,22,Concordia,029
+ARSE3,United States,Louisiana,22,De Soto,031
+ARSE3,United States,Louisiana,22,East Baton Rouge,033
+ARSE3,United States,Louisiana,22,East Carroll,035
+ARSE3,United States,Louisiana,22,East Feliciana,037
+ARSE3,United States,Louisiana,22,Evangeline,039
+ARSE3,United States,Louisiana,22,Franklin,041
+ARSE3,United States,Louisiana,22,Grant,043
+ARSE3,United States,Louisiana,22,Jackson,049
+ARSE3,United States,Louisiana,22,Lafayette,055
+ARSE3,United States,Louisiana,22,LaSalle,059
+ARSE3,United States,Louisiana,22,Lincoln,061
+ARSE3,United States,Louisiana,22,Madison,065
+ARSE3,United States,Louisiana,22,Morehouse,067
+ARSE3,United States,Louisiana,22,Natchitoches,069
+ARSE3,United States,Louisiana,22,Ouachita,073
+ARSE3,United States,Louisiana,22,Rapides,079
+ARSE3,United States,Louisiana,22,Red River,081
+ARSE3,United States,Louisiana,22,Richland,083
+ARSE3,United States,Louisiana,22,Sabine,085
+ARSE3,United States,Louisiana,22,St. Helena,091
+ARSE3,United States,Louisiana,22,St. Tammany,103
+ARSE3,United States,Louisiana,22,Tensas,107
+ARSE3,United States,Louisiana,22,Union,111
+ARSE3,United States,Louisiana,22,Vernon,115
+ARSE3,United States,Louisiana,22,Washington,117
+ARSE3,United States,Louisiana,22,Webster,119
+ARSE3,United States,Louisiana,22,West Carroll,123
+ARSE3,United States,Louisiana,22,West Feliciana,125
+ARSE3,United States,Louisiana,22,Winn,127
+ARSE3,United States,Maryland,24,,
+ARSE3,United States,Michigan,26,,
+ARSE3,United States,Michigan,26,Berrien,021
+ARSE3,United States,Michigan,26,Lenawee,091
+ARSE3,United States,Michigan,26,Van Buren,159
+ARSE3,United States,Michigan,26,Washtenaw,161
+ARSE3,United States,Michigan,26,Wayne,163
+ARSE3,United States,Mississippi,28,,
+ARSE3,United States,Mississippi,28,Adams,001
+ARSE3,United States,Mississippi,28,Alcorn,003
+ARSE3,United States,Mississippi,28,Amite,005
+ARSE3,United States,Mississippi,28,Calhoun,013
+ARSE3,United States,Mississippi,28,Clay,025
+ARSE3,United States,Mississippi,28,DeSoto,033
+ARSE3,United States,Mississippi,28,Franklin,037
+ARSE3,United States,Mississippi,28,George,039
+ARSE3,United States,Mississippi,28,Hancock,045
+ARSE3,United States,Mississippi,28,Hinds,049
+ARSE3,United States,Mississippi,28,Holmes,051
+ARSE3,United States,Mississippi,28,Kemper,069
+ARSE3,United States,Mississippi,28,Lafayette,071
+ARSE3,United States,Mississippi,28,Leflore,083
+ARSE3,United States,Mississippi,28,Newton,101
+ARSE3,United States,Mississippi,28,Noxubee,103
+ARSE3,United States,Mississippi,28,Perry,111
+ARSE3,United States,Mississippi,28,Pike,113
+ARSE3,United States,Mississippi,28,Pontotoc,115
+ARSE3,United States,Mississippi,28,Sharkey,125
+ARSE3,United States,Mississippi,28,Smith,129
+ARSE3,United States,Mississippi,28,Tishomingo,141
+ARSE3,United States,Mississippi,28,Union,145
+ARSE3,United States,Mississippi,28,Warren,149
+ARSE3,United States,Mississippi,28,Washington,151
+ARSE3,United States,Mississippi,28,Webster,155
+ARSE3,United States,Mississippi,28,Wilkinson,157
+ARSE3,United States,Mississippi,28,Winston,159
+ARSE3,United States,Mississippi,28,Yalobusha,161
+ARSE3,United States,Missouri,29,,
+ARSE3,United States,Missouri,29,Audrain,007
+ARSE3,United States,Missouri,29,Barry,009
+ARSE3,United States,Missouri,29,Benton,015
+ARSE3,United States,Missouri,29,Bollinger,017
+ARSE3,United States,Missouri,29,Boone,019
+ARSE3,United States,Missouri,29,Butler,023
+ARSE3,United States,Missouri,29,Callaway,027
+ARSE3,United States,Missouri,29,Camden,029
+ARSE3,United States,Missouri,29,Cape Girardeau,031
+ARSE3,United States,Missouri,29,Carter,035
+ARSE3,United States,Missouri,29,Cass,037
+ARSE3,United States,Missouri,29,Cedar,039
+ARSE3,United States,Missouri,29,Chariton,041
+ARSE3,United States,Missouri,29,Christian,043
+ARSE3,United States,Missouri,29,Clay,047
+ARSE3,United States,Missouri,29,Cooper,053
+ARSE3,United States,Missouri,29,Crawford,055
+ARSE3,United States,Missouri,29,Dallas,059
+ARSE3,United States,Missouri,29,Dent,065
+ARSE3,United States,Missouri,29,Douglas,067
+ARSE3,United States,Missouri,29,Dunklin,069
+ARSE3,United States,Missouri,29,Franklin,071
+ARSE3,United States,Missouri,29,Gasconade,073
+ARSE3,United States,Missouri,29,Greene,077
+ARSE3,United States,Missouri,29,Henry,083
+ARSE3,United States,Missouri,29,Hickory,085
+ARSE3,United States,Missouri,29,Howard,089
+ARSE3,United States,Missouri,29,Howell,091
+ARSE3,United States,Missouri,29,Iron,093
+ARSE3,United States,Missouri,29,Jackson,095
+ARSE3,United States,Missouri,29,Jasper,097
+ARSE3,United States,Missouri,29,Jefferson,099
+ARSE3,United States,Missouri,29,Laclede,105
+ARSE3,United States,Missouri,29,Lawrence,109
+ARSE3,United States,Missouri,29,Lincoln,113
+ARSE3,United States,Missouri,29,Linn,115
+ARSE3,United States,Missouri,29,Madison,123
+ARSE3,United States,Missouri,29,Maries,125
+ARSE3,United States,Missouri,29,Marion,127
+ARSE3,United States,Missouri,29,McDonald,119
+ARSE3,United States,Missouri,29,Mississippi,133
+ARSE3,United States,Missouri,29,Moniteau,135
+ARSE3,United States,Missouri,29,Monroe,137
+ARSE3,United States,Missouri,29,Montgomery,139
+ARSE3,United States,Missouri,29,Morgan,141
+ARSE3,United States,Missouri,29,New Madrid,143
+ARSE3,United States,Missouri,29,Oregon,149
+ARSE3,United States,Missouri,29,Osage,151
+ARSE3,United States,Missouri,29,Ozark,153
+ARSE3,United States,Missouri,29,Pemiscot,155
+ARSE3,United States,Missouri,29,Perry,157
+ARSE3,United States,Missouri,29,Pettis,159
+ARSE3,United States,Missouri,29,Pike,163
+ARSE3,United States,Missouri,29,Polk,167
+ARSE3,United States,Missouri,29,Pulaski,169
+ARSE3,United States,Missouri,29,Ralls,173
+ARSE3,United States,Missouri,29,Randolph,175
+ARSE3,United States,Missouri,29,Ray,177
+ARSE3,United States,Missouri,29,Reynolds,179
+ARSE3,United States,Missouri,29,Ripley,181
+ARSE3,United States,Missouri,29,Saline,195
+ARSE3,United States,Missouri,29,Schuyler,197
+ARSE3,United States,Missouri,29,Scott,201
+ARSE3,United States,Missouri,29,Shannon,203
+ARSE3,United States,Missouri,29,Shelby,205
+ARSE3,United States,Missouri,29,St. Charles,183
+ARSE3,United States,Missouri,29,St. Clair,185
+ARSE3,United States,Missouri,29,St. Francois,187
+ARSE3,United States,Missouri,29,St. Louis,189
+ARSE3,United States,Missouri,29,Ste. Genevieve,186
+ARSE3,United States,Missouri,29,Stoddard,207
+ARSE3,United States,Missouri,29,Stone,209
+ARSE3,United States,Missouri,29,Taney,213
+ARSE3,United States,Missouri,29,Texas,215
+ARSE3,United States,Missouri,29,Vernon,217
+ARSE3,United States,Missouri,29,Warren,219
+ARSE3,United States,Missouri,29,Washington,221
+ARSE3,United States,Missouri,29,Wayne,223
+ARSE3,United States,Missouri,29,Webster,225
+ARSE3,United States,Missouri,29,Wright,229
+ARSE3,United States,New Jersey,34,,
+ARSE3,United States,New Jersey,34,Bergen,003
+ARSE3,United States,New Jersey,34,Burlington,005
+ARSE3,United States,New Jersey,34,Camden,007
+ARSE3,United States,New Jersey,34,Cape May,009
+ARSE3,United States,New Jersey,34,Cumberland,011
+ARSE3,United States,New Jersey,34,Essex,013
+ARSE3,United States,New Jersey,34,Hudson,017
+ARSE3,United States,New Jersey,34,Hunterdon,019
+ARSE3,United States,New Jersey,34,Mercer,021
+ARSE3,United States,New Jersey,34,Middlesex,023
+ARSE3,United States,New Jersey,34,Monmouth,025
+ARSE3,United States,New Jersey,34,Morris,027
+ARSE3,United States,New Jersey,34,Ocean,029
+ARSE3,United States,New Jersey,34,Passaic,031
+ARSE3,United States,New Jersey,34,Salem,033
+ARSE3,United States,New Jersey,34,Somerset,035
+ARSE3,United States,New Jersey,34,Sussex,037
+ARSE3,United States,New Jersey,34,Union,039
+ARSE3,United States,New Jersey,34,Warren,041
+ARSE3,United States,New York,36,,
+ARSE3,United States,New York,36,Bronx,005
+ARSE3,United States,New York,36,Kings,047
+ARSE3,United States,New York,36,Nassau,059
+ARSE3,United States,New York,36,New York,061
+ARSE3,United States,New York,36,Orange,071
+ARSE3,United States,New York,36,Putnam,079
+ARSE3,United States,New York,36,Queens,081
+ARSE3,United States,New York,36,Richmond,085
+ARSE3,United States,New York,36,Rockland,087
+ARSE3,United States,New York,36,Schenectady,093
+ARSE3,United States,New York,36,Ulster,111
+ARSE3,United States,New York,36,Westchester,119
+ARSE3,United States,North Carolina,37,,
+ARSE3,United States,North Carolina,37,Alamance,001
+ARSE3,United States,North Carolina,37,Alleghany,005
+ARSE3,United States,North Carolina,37,Bertie,015
+ARSE3,United States,North Carolina,37,Bladen,017
+ARSE3,United States,North Carolina,37,Brunswick,019
+ARSE3,United States,North Carolina,37,Burke,023
+ARSE3,United States,North Carolina,37,Cabarrus,025
+ARSE3,United States,North Carolina,37,Catawba,035
+ARSE3,United States,North Carolina,37,Cherokee,039
+ARSE3,United States,North Carolina,37,Chowan,041
+ARSE3,United States,North Carolina,37,Clay,043
+ARSE3,United States,North Carolina,37,Cleveland,045
+ARSE3,United States,North Carolina,37,Cumberland,051
+ARSE3,United States,North Carolina,37,Durham,063
+ARSE3,United States,North Carolina,37,Forsyth,067
+ARSE3,United States,North Carolina,37,Franklin,069
+ARSE3,United States,North Carolina,37,Gaston,071
+ARSE3,United States,North Carolina,37,Gates,073
+ARSE3,United States,North Carolina,37,Granville,077
+ARSE3,United States,North Carolina,37,Hertford,091
+ARSE3,United States,North Carolina,37,Hoke,093
+ARSE3,United States,North Carolina,37,Iredell,097
+ARSE3,United States,North Carolina,37,Lee,105
+ARSE3,United States,North Carolina,37,Mecklenburg,119
+ARSE3,United States,North Carolina,37,Mitchell,121
+ARSE3,United States,North Carolina,37,Moore,125
+ARSE3,United States,North Carolina,37,Nash,127
+ARSE3,United States,North Carolina,37,Northampton,131
+ARSE3,United States,North Carolina,37,Orange,135
+ARSE3,United States,North Carolina,37,Polk,149
+ARSE3,United States,North Carolina,37,Randolph,151
+ARSE3,United States,North Carolina,37,Richmond,153
+ARSE3,United States,North Carolina,37,Rowan,159
+ARSE3,United States,North Carolina,37,Rutherford,161
+ARSE3,United States,North Carolina,37,Sampson,163
+ARSE3,United States,North Carolina,37,Stanly,167
+ARSE3,United States,North Carolina,37,Swain,173
+ARSE3,United States,North Carolina,37,Union,179
+ARSE3,United States,North Carolina,37,Vance,181
+ARSE3,United States,North Carolina,37,Wake,183
+ARSE3,United States,North Carolina,37,Warren,185
+ARSE3,United States,North Carolina,37,Watauga,189
+ARSE3,United States,North Carolina,37,Yadkin,197
+ARSE3,United States,Ohio,39,,
+ARSE3,United States,Ohio,39,Adams,001
+ARSE3,United States,Ohio,39,Ashland,005
+ARSE3,United States,Ohio,39,Ashtabula,007
+ARSE3,United States,Ohio,39,Athens,009
+ARSE3,United States,Ohio,39,Auglaize,011
+ARSE3,United States,Ohio,39,Belmont,013
+ARSE3,United States,Ohio,39,Brown,015
+ARSE3,United States,Ohio,39,Carroll,019
+ARSE3,United States,Ohio,39,Clark,023
+ARSE3,United States,Ohio,39,Clermont,025
+ARSE3,United States,Ohio,39,Clinton,027
+ARSE3,United States,Ohio,39,Columbiana,029
+ARSE3,United States,Ohio,39,Cuyahoga,035
+ARSE3,United States,Ohio,39,Darke,037
+ARSE3,United States,Ohio,39,Erie,043
+ARSE3,United States,Ohio,39,Fairfield,045
+ARSE3,United States,Ohio,39,Franklin,049
+ARSE3,United States,Ohio,39,Greene,057
+ARSE3,United States,Ohio,39,Guernsey,059
+ARSE3,United States,Ohio,39,Hamilton,061
+ARSE3,United States,Ohio,39,Hancock,063
+ARSE3,United States,Ohio,39,Hardin,065
+ARSE3,United States,Ohio,39,Harrison,067
+ARSE3,United States,Ohio,39,Henry,069
+ARSE3,United States,Ohio,39,Holmes,075
+ARSE3,United States,Ohio,39,Jackson,079
+ARSE3,United States,Ohio,39,Jefferson,081
+ARSE3,United States,Ohio,39,Licking,089
+ARSE3,United States,Ohio,39,Meigs,105
+ARSE3,United States,Ohio,39,Portage,133
+ARSE3,United States,Ohio,39,Putnam,137
+ARSE3,United States,Ohio,39,Stark,151
+ARSE3,United States,Ohio,39,Summit,153
+ARSE3,United States,Ohio,39,Trumbull,155
+ARSE3,United States,Ohio,39,Union,159
+ARSE3,United States,Ohio,39,Van Wert,161
+ARSE3,United States,Ohio,39,Vinton,163
+ARSE3,United States,Ohio,39,Washington,167
+ARSE3,United States,Ohio,39,Wayne,169
+ARSE3,United States,Oklahoma,40,,
+ARSE3,United States,Pennsylvania,42,,
+ARSE3,United States,Pennsylvania,42,Adams,001
+ARSE3,United States,Pennsylvania,42,Allegheny,003
+ARSE3,United States,Pennsylvania,42,Beaver,007
+ARSE3,United States,Pennsylvania,42,Bedford,009
+ARSE3,United States,Pennsylvania,42,Berks,011
+ARSE3,United States,Pennsylvania,42,Blair,013
+ARSE3,United States,Pennsylvania,42,Bucks,017
+ARSE3,United States,Pennsylvania,42,Butler,019
+ARSE3,United States,Pennsylvania,42,Chester,029
+ARSE3,United States,Pennsylvania,42,Dauphin,043
+ARSE3,United States,Pennsylvania,42,Delaware,045
+ARSE3,United States,Pennsylvania,42,Fayette,051
+ARSE3,United States,Pennsylvania,42,Franklin,055
+ARSE3,United States,Pennsylvania,42,Fulton,057
+ARSE3,United States,Pennsylvania,42,Greene,059
+ARSE3,United States,Pennsylvania,42,Huntingdon,061
+ARSE3,United States,Pennsylvania,42,Juniata,067
+ARSE3,United States,Pennsylvania,42,Lancaster,071
+ARSE3,United States,Pennsylvania,42,Lawrence,073
+ARSE3,United States,Pennsylvania,42,Lebanon,075
+ARSE3,United States,Pennsylvania,42,Lehigh,077
+ARSE3,United States,Pennsylvania,42,Monroe,089
+ARSE3,United States,Pennsylvania,42,Montgomery,091
+ARSE3,United States,Pennsylvania,42,Northampton,095
+ARSE3,United States,Pennsylvania,42,Perry,099
+ARSE3,United States,Pennsylvania,42,Philadelphia,101
+ARSE3,United States,Pennsylvania,42,Somerset,111
+ARSE3,United States,Pennsylvania,42,Washington,125
+ARSE3,United States,Pennsylvania,42,Westmoreland,129
+ARSE3,United States,Pennsylvania,42,York,133
+ARSE3,United States,South Carolina,45,,
+ARSE3,United States,South Carolina,45,Allendale,005
+ARSE3,United States,South Carolina,45,Anderson,007
+ARSE3,United States,South Carolina,45,Bamberg,009
+ARSE3,United States,South Carolina,45,Beaufort,013
+ARSE3,United States,South Carolina,45,Berkeley,015
+ARSE3,United States,South Carolina,45,Calhoun,017
+ARSE3,United States,South Carolina,45,Charleston,019
+ARSE3,United States,South Carolina,45,Cherokee,021
+ARSE3,United States,South Carolina,45,Colleton,029
+ARSE3,United States,South Carolina,45,Dorchester,035
+ARSE3,United States,South Carolina,45,Edgefield,037
+ARSE3,United States,South Carolina,45,Fairfield,039
+ARSE3,United States,South Carolina,45,Georgetown,043
+ARSE3,United States,South Carolina,45,Greenville,045
+ARSE3,United States,South Carolina,45,Hampton,049
+ARSE3,United States,South Carolina,45,Horry,051
+ARSE3,United States,South Carolina,45,Jasper,053
+ARSE3,United States,South Carolina,45,Lancaster,057
+ARSE3,United States,South Carolina,45,Laurens,059
+ARSE3,United States,South Carolina,45,McCormick,065
+ARSE3,United States,South Carolina,45,Newberry,071
+ARSE3,United States,South Carolina,45,Oconee,073
+ARSE3,United States,South Carolina,45,Orangeburg,075
+ARSE3,United States,South Carolina,45,Pickens,077
+ARSE3,United States,South Carolina,45,Richland,079
+ARSE3,United States,South Carolina,45,Saluda,081
+ARSE3,United States,South Carolina,45,Spartanburg,083
+ARSE3,United States,South Carolina,45,Union,087
+ARSE3,United States,South Carolina,45,York,091
+ARSE3,United States,Tennessee,47,,
+ARSE3,United States,Tennessee,47,Anderson,001
+ARSE3,United States,Tennessee,47,Benton,005
+ARSE3,United States,Tennessee,47,Bledsoe,007
+ARSE3,United States,Tennessee,47,Blount,009
+ARSE3,United States,Tennessee,47,Cannon,015
+ARSE3,United States,Tennessee,47,Carroll,017
+ARSE3,United States,Tennessee,47,Cheatham,021
+ARSE3,United States,Tennessee,47,Chester,023
+ARSE3,United States,Tennessee,47,Cocke,029
+ARSE3,United States,Tennessee,47,Davidson,037
+ARSE3,United States,Tennessee,47,Decatur,039
+ARSE3,United States,Tennessee,47,DeKalb,041
+ARSE3,United States,Tennessee,47,Dickson,043
+ARSE3,United States,Tennessee,47,Fentress,049
+ARSE3,United States,Tennessee,47,Franklin,051
+ARSE3,United States,Tennessee,47,Gibson,053
+ARSE3,United States,Tennessee,47,Grundy,061
+ARSE3,United States,Tennessee,47,Hardeman,069
+ARSE3,United States,Tennessee,47,Hardin,071
+ARSE3,United States,Tennessee,47,Henderson,077
+ARSE3,United States,Tennessee,47,Henry,079
+ARSE3,United States,Tennessee,47,Knox,093
+ARSE3,United States,Tennessee,47,Lake,095
+ARSE3,United States,Tennessee,47,Lauderdale,097
+ARSE3,United States,Tennessee,47,Lawrence,099
+ARSE3,United States,Tennessee,47,Lewis,101
+ARSE3,United States,Tennessee,47,Macon,111
+ARSE3,United States,Tennessee,47,Madison,113
+ARSE3,United States,Tennessee,47,Marion,115
+ARSE3,United States,Tennessee,47,Montgomery,125
+ARSE3,United States,Tennessee,47,Moore,127
+ARSE3,United States,Tennessee,47,Morgan,129
+ARSE3,United States,Tennessee,47,Polk,139
+ARSE3,United States,Tennessee,47,Roane,145
+ARSE3,United States,Tennessee,47,Rutherford,149
+ARSE3,United States,Tennessee,47,Scott,151
+ARSE3,United States,Tennessee,47,Sequatchie,153
+ARSE3,United States,Tennessee,47,Shelby,157
+ARSE3,United States,Tennessee,47,Stewart,161
+ARSE3,United States,Tennessee,47,Tipton,167
+ARSE3,United States,Tennessee,47,Union,173
+ARSE3,United States,Tennessee,47,Washington,179
+ARSE3,United States,Tennessee,47,Wayne,181
+ARSE3,United States,Tennessee,47,Weakley,183
+ARSE3,United States,Tennessee,47,White,185
+ARSE3,United States,Tennessee,47,Wilson,189
+ARSE3,United States,Texas,48,,
+ARSE3,United States,Texas,48,Bandera,019
+ARSE3,United States,Texas,48,Bell,027
+ARSE3,United States,Texas,48,Cherokee,073
+ARSE3,United States,Texas,48,Coryell,099
+ARSE3,United States,Texas,48,Edwards,137
+ARSE3,United States,Texas,48,Gillespie,171
+ARSE3,United States,Texas,48,Harris,201
+ARSE3,United States,Texas,48,Hays,209
+ARSE3,United States,Texas,48,Houston,225
+ARSE3,United States,Texas,48,Jasper,241
+ARSE3,United States,Texas,48,Kendall,259
+ARSE3,United States,Texas,48,Kerr,265
+ARSE3,United States,Texas,48,Liberty,291
+ARSE3,United States,Texas,48,Marion,315
+ARSE3,United States,Texas,48,Real,385
+ARSE3,United States,Texas,48,San Jacinto,407
+ARSE3,United States,Texas,48,San Saba,411
+ARSE3,United States,Texas,48,Travis,453
+ARSE3,United States,Texas,48,Upshur,459
+ARSE3,United States,Texas,48,Walker,471
+ARSE3,United States,Virginia,51,,
+ARSE3,United States,Virginia,51,Albemarle,003
+ARSE3,United States,Virginia,51,Amelia,007
+ARSE3,United States,Virginia,51,Amherst,009
+ARSE3,United States,Virginia,51,Arlington,013
+ARSE3,United States,Virginia,51,Augusta,015
+ARSE3,United States,Virginia,51,Bath,017
+ARSE3,United States,Virginia,51,Bedford,019
+ARSE3,United States,Virginia,51,Botetourt,023
+ARSE3,United States,Virginia,51,Buchanan,027
+ARSE3,United States,Virginia,51,Campbell,031
+ARSE3,United States,Virginia,51,Caroline,033
+ARSE3,United States,Virginia,51,Charles City,036
+ARSE3,United States,Virginia,51,Charlotte,037
+ARSE3,United States,Virginia,51,Chesapeake ,550
+ARSE3,United States,Virginia,51,Chesterfield,041
+ARSE3,United States,Virginia,51,Culpeper,047
+ARSE3,United States,Virginia,51,Dinwiddie,053
+ARSE3,United States,Virginia,51,Fairfax,059
+ARSE3,United States,Virginia,51,Fauquier,061
+ARSE3,United States,Virginia,51,Fluvanna,065
+ARSE3,United States,Virginia,51,Franklin,067
+ARSE3,United States,Virginia,51,Frederick,069
+ARSE3,United States,Virginia,51,Giles,071
+ARSE3,United States,Virginia,51,Gloucester,073
+ARSE3,United States,Virginia,51,Goochland,075
+ARSE3,United States,Virginia,51,Greensville,081
+ARSE3,United States,Virginia,51,Halifax,083
+ARSE3,United States,Virginia,51,Hampton ,650
+ARSE3,United States,Virginia,51,Henrico,087
+ARSE3,United States,Virginia,51,Isle of Wight,093
+ARSE3,United States,Virginia,51,James City,095
+ARSE3,United States,Virginia,51,King and Queen,097
+ARSE3,United States,Virginia,51,King George,099
+ARSE3,United States,Virginia,51,Lee,105
+ARSE3,United States,Virginia,51,Loudoun,107
+ARSE3,United States,Virginia,51,Louisa,109
+ARSE3,United States,Virginia,51,Lunenburg,111
+ARSE3,United States,Virginia,51,Mathews,115
+ARSE3,United States,Virginia,51,Mecklenburg,117
+ARSE3,United States,Virginia,51,Middlesex,119
+ARSE3,United States,Virginia,51,Montgomery,121
+ARSE3,United States,Virginia,51,Nelson,125
+ARSE3,United States,Virginia,51,New Kent,127
+ARSE3,United States,Virginia,51,Orange,137
+ARSE3,United States,Virginia,51,Page,139
+ARSE3,United States,Virginia,51,Pittsylvania,143
+ARSE3,United States,Virginia,51,Powhatan,145
+ARSE3,United States,Virginia,51,Prince Edward,147
+ARSE3,United States,Virginia,51,Prince William,153
+ARSE3,United States,Virginia,51,Richmond,159
+ARSE3,United States,Virginia,51,Roanoke,161
+ARSE3,United States,Virginia,51,Rockbridge,163
+ARSE3,United States,Virginia,51,Rockingham,165
+ARSE3,United States,Virginia,51,Scott,169
+ARSE3,United States,Virginia,51,Shenandoah,171
+ARSE3,United States,Virginia,51,Smyth,173
+ARSE3,United States,Virginia,51,Southampton,175
+ARSE3,United States,Virginia,51,Spotsylvania,177
+ARSE3,United States,Virginia,51,Suffolk ,800
+ARSE3,United States,Virginia,51,Surry,181
+ARSE3,United States,Virginia,51,Sussex,183
+ARSE3,United States,Virginia,51,Virginia Beach ,810
+ARSE3,United States,Virginia,51,Warren,187
+ARSE3,United States,Virginia,51,York,199
+ARSE3,United States,West Virginia,54,,
+ARSE3,United States,West Virginia,54,Boone,005
+ARSE3,United States,West Virginia,54,Braxton,007
+ARSE3,United States,West Virginia,54,Calhoun,013
+ARSE3,United States,West Virginia,54,Fayette,019
+ARSE3,United States,West Virginia,54,Greenbrier,025
+ARSE3,United States,West Virginia,54,Hampshire,027
+ARSE3,United States,West Virginia,54,Hardy,031
+ARSE3,United States,West Virginia,54,Jackson,035
+ARSE3,United States,West Virginia,54,Kanawha,039
+ARSE3,United States,West Virginia,54,McDowell,047
+ARSE3,United States,West Virginia,54,Mercer,055
+ARSE3,United States,West Virginia,54,Mineral,057
+ARSE3,United States,West Virginia,54,Monongalia,061
+ARSE3,United States,West Virginia,54,Pendleton,071
+ARSE3,United States,West Virginia,54,Preston,077
+ARSE3,United States,West Virginia,54,Ritchie,085
+ARSE3,United States,West Virginia,54,Tyler,095
+ARSE3,United States,West Virginia,54,Upshur,097
+ARSE3,United States,West Virginia,54,Wayne,099
+ARSE3,United States,West Virginia,54,Wetzel,103
+ARSE3,United States,West Virginia,54,Wirt,105

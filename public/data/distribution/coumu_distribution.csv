@@ -1,0 +1,871 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+COUMU,Canada,Alberta,01,,
+COUMU,United States,Alabama,01,,
+COUMU,United States,Alabama,01,DeKalb,049
+COUMU,United States,Alabama,01,Jackson,071
+COUMU,Canada,British Columbia,02,,
+COUMU,Canada,Manitoba,03,,
+COUMU,Canada,New Brunswick,04,,
+COUMU,United States,Arkansas,05,,
+COUMU,United States,Arkansas,05,Arkansas,001
+COUMU,United States,Arkansas,05,Baxter,005
+COUMU,United States,Arkansas,05,Benton,007
+COUMU,United States,Arkansas,05,Boone,009
+COUMU,United States,Arkansas,05,Carroll,015
+COUMU,United States,Arkansas,05,Clay,021
+COUMU,United States,Arkansas,05,Drew,043
+COUMU,United States,Arkansas,05,Faulkner,045
+COUMU,United States,Arkansas,05,Lawrence,075
+COUMU,United States,Arkansas,05,Logan,083
+COUMU,United States,Arkansas,05,Madison,087
+COUMU,United States,Arkansas,05,Marion,089
+COUMU,United States,Arkansas,05,Prairie,117
+COUMU,United States,Arkansas,05,Randolph,121
+COUMU,United States,Arkansas,05,Stone,137
+COUMU,United States,Arkansas,05,Washington,143
+COUMU,United States,Arkansas,05,White,145
+COUMU,Canada,Nova Scotia,07,,
+COUMU,Canada,Ontario,08,,
+COUMU,Canada,Prince Edward Island,09,,
+COUMU,United States,Connecticut,09,,
+COUMU,United States,Connecticut,09,Fairfield,001
+COUMU,United States,Connecticut,09,Hartford,003
+COUMU,United States,Connecticut,09,Litchfield,005
+COUMU,United States,Connecticut,09,Middlesex,007
+COUMU,United States,Connecticut,09,New Haven,009
+COUMU,United States,Connecticut,09,New London,011
+COUMU,United States,Connecticut,09,Tolland,013
+COUMU,United States,Connecticut,09,Windham,015
+COUMU,Canada,Quebec,10,,
+COUMU,United States,Delaware,10,,
+COUMU,United States,Delaware,10,Kent,001
+COUMU,United States,Delaware,10,New Castle,003
+COUMU,Canada,Saskatchewan,11,,
+COUMU,United States,District of Columbia,11,,
+COUMU,United States,District of Columbia,11,District of Columbia,001
+COUMU,Canada,Northwest Territories,13,,
+COUMU,United States,Georgia,13,,
+COUMU,United States,Georgia,13,Barrow,013
+COUMU,United States,Georgia,13,Catoosa,047
+COUMU,United States,Georgia,13,Clarke,059
+COUMU,United States,Georgia,13,Fannin,111
+COUMU,United States,Georgia,13,Floyd,115
+COUMU,United States,Georgia,13,Rabun,241
+COUMU,United States,Illinois,17,,
+COUMU,United States,Illinois,17,Adams,001
+COUMU,United States,Illinois,17,Bond,005
+COUMU,United States,Illinois,17,Boone,007
+COUMU,United States,Illinois,17,Brown,009
+COUMU,United States,Illinois,17,Bureau,011
+COUMU,United States,Illinois,17,Calhoun,013
+COUMU,United States,Illinois,17,Carroll,015
+COUMU,United States,Illinois,17,Cass,017
+COUMU,United States,Illinois,17,Champaign,019
+COUMU,United States,Illinois,17,Christian,021
+COUMU,United States,Illinois,17,Clark,023
+COUMU,United States,Illinois,17,Clay,025
+COUMU,United States,Illinois,17,Coles,029
+COUMU,United States,Illinois,17,Cook,031
+COUMU,United States,Illinois,17,Crawford,033
+COUMU,United States,Illinois,17,Cumberland,035
+COUMU,United States,Illinois,17,De Witt,039
+COUMU,United States,Illinois,17,DeKalb,037
+COUMU,United States,Illinois,17,DuPage,043
+COUMU,United States,Illinois,17,Effingham,049
+COUMU,United States,Illinois,17,Fayette,051
+COUMU,United States,Illinois,17,Ford,053
+COUMU,United States,Illinois,17,Fulton,057
+COUMU,United States,Illinois,17,Greene,061
+COUMU,United States,Illinois,17,Grundy,063
+COUMU,United States,Illinois,17,Hancock,067
+COUMU,United States,Illinois,17,Hardin,069
+COUMU,United States,Illinois,17,Henderson,071
+COUMU,United States,Illinois,17,Henry,073
+COUMU,United States,Illinois,17,Iroquois,075
+COUMU,United States,Illinois,17,Jackson,077
+COUMU,United States,Illinois,17,Jersey,083
+COUMU,United States,Illinois,17,Jo Daviess,085
+COUMU,United States,Illinois,17,Kane,089
+COUMU,United States,Illinois,17,Kankakee,091
+COUMU,United States,Illinois,17,Kendall,093
+COUMU,United States,Illinois,17,Knox,095
+COUMU,United States,Illinois,17,Lake,097
+COUMU,United States,Illinois,17,LaSalle,099
+COUMU,United States,Illinois,17,Lawrence,101
+COUMU,United States,Illinois,17,Lee,103
+COUMU,United States,Illinois,17,Livingston,105
+COUMU,United States,Illinois,17,Logan,107
+COUMU,United States,Illinois,17,Macon,115
+COUMU,United States,Illinois,17,Macoupin,117
+COUMU,United States,Illinois,17,Madison,119
+COUMU,United States,Illinois,17,Marshall,123
+COUMU,United States,Illinois,17,Mason,125
+COUMU,United States,Illinois,17,McDonough,109
+COUMU,United States,Illinois,17,McHenry,111
+COUMU,United States,Illinois,17,McLean,113
+COUMU,United States,Illinois,17,Menard,129
+COUMU,United States,Illinois,17,Monroe,133
+COUMU,United States,Illinois,17,Morgan,137
+COUMU,United States,Illinois,17,Ogle,141
+COUMU,United States,Illinois,17,Peoria,143
+COUMU,United States,Illinois,17,Piatt,147
+COUMU,United States,Illinois,17,Pope,151
+COUMU,United States,Illinois,17,Putnam,155
+COUMU,United States,Illinois,17,Randolph,157
+COUMU,United States,Illinois,17,Rock Island,161
+COUMU,United States,Illinois,17,Sangamon,167
+COUMU,United States,Illinois,17,Schuyler,169
+COUMU,United States,Illinois,17,Scott,171
+COUMU,United States,Illinois,17,Shelby,173
+COUMU,United States,Illinois,17,St. Clair,163
+COUMU,United States,Illinois,17,Stark,175
+COUMU,United States,Illinois,17,Stephenson,177
+COUMU,United States,Illinois,17,Vermilion,183
+COUMU,United States,Illinois,17,Wabash,185
+COUMU,United States,Illinois,17,Washington,189
+COUMU,United States,Illinois,17,Whiteside,195
+COUMU,United States,Illinois,17,Will,197
+COUMU,United States,Illinois,17,Winnebago,201
+COUMU,United States,Indiana,18,,
+COUMU,United States,Indiana,18,Adams,001
+COUMU,United States,Indiana,18,Allen,003
+COUMU,United States,Indiana,18,Benton,007
+COUMU,United States,Indiana,18,Blackford,009
+COUMU,United States,Indiana,18,Cass,017
+COUMU,United States,Indiana,18,Clark,019
+COUMU,United States,Indiana,18,Crawford,025
+COUMU,United States,Indiana,18,Daviess,027
+COUMU,United States,Indiana,18,Elkhart,039
+COUMU,United States,Indiana,18,Fountain,045
+COUMU,United States,Indiana,18,Franklin,047
+COUMU,United States,Indiana,18,Fulton,049
+COUMU,United States,Indiana,18,Huntington,069
+COUMU,United States,Indiana,18,Jasper,073
+COUMU,United States,Indiana,18,Jefferson,077
+COUMU,United States,Indiana,18,Kosciusko,085
+COUMU,United States,Indiana,18,Lagrange,087
+COUMU,United States,Indiana,18,Lake,089
+COUMU,United States,Indiana,18,LaPorte,091
+COUMU,United States,Indiana,18,Martin,101
+COUMU,United States,Indiana,18,Monroe,105
+COUMU,United States,Indiana,18,Morgan,109
+COUMU,United States,Indiana,18,Newton,111
+COUMU,United States,Indiana,18,Noble,113
+COUMU,United States,Indiana,18,Parke,121
+COUMU,United States,Indiana,18,Perry,123
+COUMU,United States,Indiana,18,Porter,127
+COUMU,United States,Indiana,18,Posey,129
+COUMU,United States,Indiana,18,Pulaski,131
+COUMU,United States,Indiana,18,Randolph,135
+COUMU,United States,Indiana,18,Spencer,147
+COUMU,United States,Indiana,18,St. Joseph,141
+COUMU,United States,Indiana,18,Starke,149
+COUMU,United States,Indiana,18,Steuben,151
+COUMU,United States,Indiana,18,Tippecanoe,157
+COUMU,United States,Indiana,18,Tipton,159
+COUMU,United States,Indiana,18,Warren,171
+COUMU,United States,Indiana,18,Wayne,177
+COUMU,United States,Indiana,18,Wells,179
+COUMU,United States,Indiana,18,White,181
+COUMU,United States,Indiana,18,Whitley,183
+COUMU,United States,Iowa,19,,
+COUMU,United States,Iowa,19,Cherokee,035
+COUMU,United States,Iowa,19,Fremont,071
+COUMU,United States,Iowa,19,Guthrie,077
+COUMU,United States,Iowa,19,Harrison,085
+COUMU,United States,Iowa,19,Ida,093
+COUMU,United States,Iowa,19,Lyon,119
+COUMU,United States,Iowa,19,Madison,121
+COUMU,United States,Iowa,19,Monona,133
+COUMU,United States,Iowa,19,Osceola,143
+COUMU,United States,Iowa,19,Page,145
+COUMU,United States,Iowa,19,Plymouth,149
+COUMU,United States,Iowa,19,Poweshiek,157
+COUMU,United States,Iowa,19,Sioux,167
+COUMU,United States,Iowa,19,Taylor,173
+COUMU,United States,Iowa,19,Union,175
+COUMU,United States,Iowa,19,Webster,187
+COUMU,United States,Iowa,19,Woodbury,193
+COUMU,United States,Kansas,20,,
+COUMU,United States,Kansas,20,Atchison,005
+COUMU,United States,Kansas,20,Bourbon,011
+COUMU,United States,Kansas,20,Brown,013
+COUMU,United States,Kansas,20,Cherokee,021
+COUMU,United States,Kansas,20,Doniphan,043
+COUMU,United States,Kansas,20,Douglas,045
+COUMU,United States,Kansas,20,Franklin,059
+COUMU,United States,Kansas,20,Jackson,085
+COUMU,United States,Kansas,20,Johnson,091
+COUMU,United States,Kansas,20,Lyon,111
+COUMU,United States,Kansas,20,Marshall,117
+COUMU,United States,Kansas,20,Miami,121
+COUMU,United States,Kansas,20,Nemaha,131
+COUMU,United States,Kansas,20,Osage,139
+COUMU,United States,Kansas,20,Pottawatomie,149
+COUMU,United States,Kansas,20,Shawnee,177
+COUMU,United States,Kansas,20,Wabaunsee,197
+COUMU,United States,Kansas,20,Wyandotte,209
+COUMU,United States,Kentucky,21,,
+COUMU,United States,Kentucky,21,Barren,009
+COUMU,United States,Kentucky,21,Bullitt,029
+COUMU,United States,Kentucky,21,Caldwell,033
+COUMU,United States,Kentucky,21,Calloway,035
+COUMU,United States,Kentucky,21,Carter,043
+COUMU,United States,Kentucky,21,Crittenden,055
+COUMU,United States,Kentucky,21,Edmonson,061
+COUMU,United States,Kentucky,21,Estill,065
+COUMU,United States,Kentucky,21,Franklin,073
+COUMU,United States,Kentucky,21,Grayson,085
+COUMU,United States,Kentucky,21,Hart,099
+COUMU,United States,Kentucky,21,Livingston,139
+COUMU,United States,Kentucky,21,Marion,155
+COUMU,United States,Kentucky,21,Marshall,157
+COUMU,United States,Kentucky,21,McCracken,145
+COUMU,United States,Kentucky,21,McCreary,147
+COUMU,United States,Kentucky,21,Meade,163
+COUMU,United States,Kentucky,21,Nelson,179
+COUMU,United States,Maine,23,,
+COUMU,United States,Maine,23,Androscoggin,001
+COUMU,United States,Maine,23,Cumberland,005
+COUMU,United States,Maine,23,Kennebec,011
+COUMU,United States,Maine,23,Knox,013
+COUMU,United States,Maine,23,Lincoln,015
+COUMU,United States,Maine,23,Oxford,017
+COUMU,United States,Maine,23,Penobscot,019
+COUMU,United States,Maine,23,Sagadahoc,023
+COUMU,United States,Maine,23,York,031
+COUMU,United States,Maryland,24,,
+COUMU,United States,Massachusetts,25,,
+COUMU,United States,Massachusetts,25,Barnstable,001
+COUMU,United States,Massachusetts,25,Berkshire,003
+COUMU,United States,Massachusetts,25,Bristol,005
+COUMU,United States,Massachusetts,25,Dukes,007
+COUMU,United States,Massachusetts,25,Essex,009
+COUMU,United States,Massachusetts,25,Franklin,011
+COUMU,United States,Massachusetts,25,Hampden,013
+COUMU,United States,Massachusetts,25,Hampshire,015
+COUMU,United States,Massachusetts,25,Middlesex,017
+COUMU,United States,Massachusetts,25,Nantucket,019
+COUMU,United States,Massachusetts,25,Norfolk,021
+COUMU,United States,Massachusetts,25,Plymouth,023
+COUMU,United States,Massachusetts,25,Suffolk,025
+COUMU,United States,Massachusetts,25,Worcester,027
+COUMU,United States,Michigan,26,,
+COUMU,United States,Michigan,26,Alcona,001
+COUMU,United States,Michigan,26,Alger,003
+COUMU,United States,Michigan,26,Allegan,005
+COUMU,United States,Michigan,26,Alpena,007
+COUMU,United States,Michigan,26,Antrim,009
+COUMU,United States,Michigan,26,Arenac,011
+COUMU,United States,Michigan,26,Baraga,013
+COUMU,United States,Michigan,26,Barry,015
+COUMU,United States,Michigan,26,Bay,017
+COUMU,United States,Michigan,26,Benzie,019
+COUMU,United States,Michigan,26,Berrien,021
+COUMU,United States,Michigan,26,Calhoun,025
+COUMU,United States,Michigan,26,Cass,027
+COUMU,United States,Michigan,26,Charlevoix,029
+COUMU,United States,Michigan,26,Cheboygan,031
+COUMU,United States,Michigan,26,Chippewa,033
+COUMU,United States,Michigan,26,Clare,035
+COUMU,United States,Michigan,26,Clinton,037
+COUMU,United States,Michigan,26,Crawford,039
+COUMU,United States,Michigan,26,Delta,041
+COUMU,United States,Michigan,26,Dickinson,043
+COUMU,United States,Michigan,26,Eaton,045
+COUMU,United States,Michigan,26,Emmet,047
+COUMU,United States,Michigan,26,Genesee,049
+COUMU,United States,Michigan,26,Grand Traverse,055
+COUMU,United States,Michigan,26,Gratiot,057
+COUMU,United States,Michigan,26,Hillsdale,059
+COUMU,United States,Michigan,26,Houghton,061
+COUMU,United States,Michigan,26,Huron,063
+COUMU,United States,Michigan,26,Ingham,065
+COUMU,United States,Michigan,26,Ionia,067
+COUMU,United States,Michigan,26,Iosco,069
+COUMU,United States,Michigan,26,Iron,071
+COUMU,United States,Michigan,26,Jackson,075
+COUMU,United States,Michigan,26,Kalamazoo,077
+COUMU,United States,Michigan,26,Kalkaska,079
+COUMU,United States,Michigan,26,Kent,081
+COUMU,United States,Michigan,26,Keweenaw,083
+COUMU,United States,Michigan,26,Lake,085
+COUMU,United States,Michigan,26,Lapeer,087
+COUMU,United States,Michigan,26,Leelanau,089
+COUMU,United States,Michigan,26,Lenawee,091
+COUMU,United States,Michigan,26,Livingston,093
+COUMU,United States,Michigan,26,Luce,095
+COUMU,United States,Michigan,26,Mackinac,097
+COUMU,United States,Michigan,26,Marquette,103
+COUMU,United States,Michigan,26,Mason,105
+COUMU,United States,Michigan,26,Mecosta,107
+COUMU,United States,Michigan,26,Menominee,109
+COUMU,United States,Michigan,26,Midland,111
+COUMU,United States,Michigan,26,Monroe,115
+COUMU,United States,Michigan,26,Montcalm,117
+COUMU,United States,Michigan,26,Montmorency,119
+COUMU,United States,Michigan,26,Muskegon,121
+COUMU,United States,Michigan,26,Newaygo,123
+COUMU,United States,Michigan,26,Oakland,125
+COUMU,United States,Michigan,26,Oceana,127
+COUMU,United States,Michigan,26,Ogemaw,129
+COUMU,United States,Michigan,26,Ontonagon,131
+COUMU,United States,Michigan,26,Otsego,137
+COUMU,United States,Michigan,26,Ottawa,139
+COUMU,United States,Michigan,26,Presque Isle,141
+COUMU,United States,Michigan,26,Roscommon,143
+COUMU,United States,Michigan,26,Saginaw,145
+COUMU,United States,Michigan,26,Schoolcraft,153
+COUMU,United States,Michigan,26,St. Clair,147
+COUMU,United States,Michigan,26,St. Joseph,149
+COUMU,United States,Michigan,26,Washtenaw,161
+COUMU,United States,Michigan,26,Wayne,163
+COUMU,United States,Minnesota,27,,
+COUMU,United States,Minnesota,27,Becker,005
+COUMU,United States,Minnesota,27,Big Stone,011
+COUMU,United States,Minnesota,27,Chippewa,023
+COUMU,United States,Minnesota,27,Clay,027
+COUMU,United States,Minnesota,27,Goodhue,049
+COUMU,United States,Minnesota,27,Jackson,063
+COUMU,United States,Minnesota,27,Kandiyohi,067
+COUMU,United States,Minnesota,27,Kittson,069
+COUMU,United States,Minnesota,27,Mahnomen,087
+COUMU,United States,Minnesota,27,Marshall,089
+COUMU,United States,Minnesota,27,Martin,091
+COUMU,United States,Minnesota,27,Otter Tail,111
+COUMU,United States,Minnesota,27,Pennington,113
+COUMU,United States,Minnesota,27,Pipestone,117
+COUMU,United States,Minnesota,27,Polk,119
+COUMU,United States,Minnesota,27,Pope,121
+COUMU,United States,Minnesota,27,Red Lake,125
+COUMU,United States,Minnesota,27,Redwood,127
+COUMU,United States,Minnesota,27,Renville,129
+COUMU,United States,Minnesota,27,St. Louis,137
+COUMU,United States,Minnesota,27,Stevens,149
+COUMU,United States,Minnesota,27,Swift,151
+COUMU,United States,Minnesota,27,Wilkin,167
+COUMU,United States,Minnesota,27,Yellow Medicine,173
+COUMU,United States,Mississippi,28,,
+COUMU,United States,Mississippi,28,Grenada,043
+COUMU,United States,Mississippi,28,Lee,081
+COUMU,United States,Missouri,29,,
+COUMU,United States,Missouri,29,Adair,001
+COUMU,United States,Missouri,29,Atchison,005
+COUMU,United States,Missouri,29,Audrain,007
+COUMU,United States,Missouri,29,Barry,009
+COUMU,United States,Missouri,29,Benton,015
+COUMU,United States,Missouri,29,Bollinger,017
+COUMU,United States,Missouri,29,Boone,019
+COUMU,United States,Missouri,29,Buchanan,021
+COUMU,United States,Missouri,29,Butler,023
+COUMU,United States,Missouri,29,Callaway,027
+COUMU,United States,Missouri,29,Camden,029
+COUMU,United States,Missouri,29,Cape Girardeau,031
+COUMU,United States,Missouri,29,Carroll,033
+COUMU,United States,Missouri,29,Carter,035
+COUMU,United States,Missouri,29,Cass,037
+COUMU,United States,Missouri,29,Cedar,039
+COUMU,United States,Missouri,29,Chariton,041
+COUMU,United States,Missouri,29,Christian,043
+COUMU,United States,Missouri,29,Clark,045
+COUMU,United States,Missouri,29,Cole,051
+COUMU,United States,Missouri,29,Cooper,053
+COUMU,United States,Missouri,29,Crawford,055
+COUMU,United States,Missouri,29,Dade,057
+COUMU,United States,Missouri,29,Dallas,059
+COUMU,United States,Missouri,29,Daviess,061
+COUMU,United States,Missouri,29,DeKalb,063
+COUMU,United States,Missouri,29,Douglas,067
+COUMU,United States,Missouri,29,Franklin,071
+COUMU,United States,Missouri,29,Gasconade,073
+COUMU,United States,Missouri,29,Gentry,075
+COUMU,United States,Missouri,29,Greene,077
+COUMU,United States,Missouri,29,Grundy,079
+COUMU,United States,Missouri,29,Harrison,081
+COUMU,United States,Missouri,29,Henry,083
+COUMU,United States,Missouri,29,Hickory,085
+COUMU,United States,Missouri,29,Holt,087
+COUMU,United States,Missouri,29,Howard,089
+COUMU,United States,Missouri,29,Howell,091
+COUMU,United States,Missouri,29,Jackson,095
+COUMU,United States,Missouri,29,Jasper,097
+COUMU,United States,Missouri,29,Jefferson,099
+COUMU,United States,Missouri,29,Johnson,101
+COUMU,United States,Missouri,29,Knox,103
+COUMU,United States,Missouri,29,Laclede,105
+COUMU,United States,Missouri,29,Lafayette,107
+COUMU,United States,Missouri,29,Lawrence,109
+COUMU,United States,Missouri,29,Lewis,111
+COUMU,United States,Missouri,29,Lincoln,113
+COUMU,United States,Missouri,29,Linn,115
+COUMU,United States,Missouri,29,Livingston,117
+COUMU,United States,Missouri,29,Macon,121
+COUMU,United States,Missouri,29,Madison,123
+COUMU,United States,Missouri,29,Maries,125
+COUMU,United States,Missouri,29,Marion,127
+COUMU,United States,Missouri,29,McDonald,119
+COUMU,United States,Missouri,29,Mercer,129
+COUMU,United States,Missouri,29,Miller,131
+COUMU,United States,Missouri,29,Moniteau,135
+COUMU,United States,Missouri,29,Monroe,137
+COUMU,United States,Missouri,29,Montgomery,139
+COUMU,United States,Missouri,29,Morgan,141
+COUMU,United States,Missouri,29,Newton,145
+COUMU,United States,Missouri,29,Nodaway,147
+COUMU,United States,Missouri,29,Oregon,149
+COUMU,United States,Missouri,29,Osage,151
+COUMU,United States,Missouri,29,Ozark,153
+COUMU,United States,Missouri,29,Pettis,159
+COUMU,United States,Missouri,29,Phelps,161
+COUMU,United States,Missouri,29,Pike,163
+COUMU,United States,Missouri,29,Polk,167
+COUMU,United States,Missouri,29,Putnam,171
+COUMU,United States,Missouri,29,Ralls,173
+COUMU,United States,Missouri,29,Randolph,175
+COUMU,United States,Missouri,29,Reynolds,179
+COUMU,United States,Missouri,29,Ripley,181
+COUMU,United States,Missouri,29,Schuyler,197
+COUMU,United States,Missouri,29,Scotland,199
+COUMU,United States,Missouri,29,Shannon,203
+COUMU,United States,Missouri,29,Shelby,205
+COUMU,United States,Missouri,29,St. Charles,183
+COUMU,United States,Missouri,29,St. Clair,185
+COUMU,United States,Missouri,29,St. Francois,187
+COUMU,United States,Missouri,29,St. Louis,189
+COUMU,United States,Missouri,29,Stoddard,207
+COUMU,United States,Missouri,29,Stone,209
+COUMU,United States,Missouri,29,Sullivan,211
+COUMU,United States,Missouri,29,Taney,213
+COUMU,United States,Missouri,29,Texas,215
+COUMU,United States,Missouri,29,Vernon,217
+COUMU,United States,Missouri,29,Warren,219
+COUMU,United States,Missouri,29,Washington,221
+COUMU,United States,Missouri,29,Webster,225
+COUMU,United States,Missouri,29,Worth,227
+COUMU,United States,Missouri,29,Wright,229
+COUMU,United States,Nebraska,31,,
+COUMU,United States,Nebraska,31,Cedar,027
+COUMU,United States,Nebraska,31,Cuming,039
+COUMU,United States,Nebraska,31,Dodge,053
+COUMU,United States,Nebraska,31,Douglas,055
+COUMU,United States,Nebraska,31,Holt,089
+COUMU,United States,Nebraska,31,Johnson,097
+COUMU,United States,Nebraska,31,Lancaster,109
+COUMU,United States,Nebraska,31,Otoe,131
+COUMU,United States,Nebraska,31,Pawnee,133
+COUMU,United States,Nebraska,31,Richardson,147
+COUMU,United States,Nebraska,31,Saunders,155
+COUMU,United States,New Hampshire,33,,
+COUMU,United States,New Hampshire,33,Carroll,003
+COUMU,United States,New Hampshire,33,Cheshire,005
+COUMU,United States,New Hampshire,33,Coos,007
+COUMU,United States,New Hampshire,33,Grafton,009
+COUMU,United States,New Hampshire,33,Hillsborough,011
+COUMU,United States,New Hampshire,33,Merrimack,013
+COUMU,United States,New Hampshire,33,Rockingham,015
+COUMU,United States,New Hampshire,33,Strafford,017
+COUMU,United States,New Jersey,34,,
+COUMU,United States,New Jersey,34,Atlantic,001
+COUMU,United States,New Jersey,34,Bergen,003
+COUMU,United States,New Jersey,34,Burlington,005
+COUMU,United States,New Jersey,34,Camden,007
+COUMU,United States,New Jersey,34,Cape May,009
+COUMU,United States,New Jersey,34,Cumberland,011
+COUMU,United States,New Jersey,34,Essex,013
+COUMU,United States,New Jersey,34,Gloucester,015
+COUMU,United States,New Jersey,34,Hunterdon,019
+COUMU,United States,New Jersey,34,Mercer,021
+COUMU,United States,New Jersey,34,Middlesex,023
+COUMU,United States,New Jersey,34,Monmouth,025
+COUMU,United States,New Jersey,34,Morris,027
+COUMU,United States,New Jersey,34,Ocean,029
+COUMU,United States,New Jersey,34,Salem,033
+COUMU,United States,New Jersey,34,Somerset,035
+COUMU,United States,New Jersey,34,Sussex,037
+COUMU,United States,New Jersey,34,Union,039
+COUMU,United States,New Jersey,34,Warren,041
+COUMU,United States,New York,36,,
+COUMU,United States,New York,36,Albany,001
+COUMU,United States,New York,36,Bronx,005
+COUMU,United States,New York,36,Cattaraugus,009
+COUMU,United States,New York,36,Chautauqua,013
+COUMU,United States,New York,36,Chemung,015
+COUMU,United States,New York,36,Clinton,019
+COUMU,United States,New York,36,Columbia,021
+COUMU,United States,New York,36,Dutchess,027
+COUMU,United States,New York,36,Erie,029
+COUMU,United States,New York,36,Essex,031
+COUMU,United States,New York,36,Genesee,037
+COUMU,United States,New York,36,Jefferson,045
+COUMU,United States,New York,36,Livingston,051
+COUMU,United States,New York,36,Monroe,055
+COUMU,United States,New York,36,Nassau,059
+COUMU,United States,New York,36,Niagara,063
+COUMU,United States,New York,36,Oneida,065
+COUMU,United States,New York,36,Orange,071
+COUMU,United States,New York,36,Otsego,077
+COUMU,United States,New York,36,Queens,081
+COUMU,United States,New York,36,Rensselaer,083
+COUMU,United States,New York,36,Richmond,085
+COUMU,United States,New York,36,Rockland,087
+COUMU,United States,New York,36,Saratoga,091
+COUMU,United States,New York,36,Schenectady,093
+COUMU,United States,New York,36,Schuyler,097
+COUMU,United States,New York,36,Suffolk,103
+COUMU,United States,New York,36,Tompkins,109
+COUMU,United States,New York,36,Ulster,111
+COUMU,United States,New York,36,Warren,113
+COUMU,United States,New York,36,Washington,115
+COUMU,United States,New York,36,Wayne,117
+COUMU,United States,New York,36,Westchester,119
+COUMU,United States,New York,36,Wyoming,121
+COUMU,United States,North Carolina,37,,
+COUMU,United States,North Carolina,37,Alamance,001
+COUMU,United States,North Carolina,37,Bladen,017
+COUMU,United States,North Carolina,37,Buncombe,021
+COUMU,United States,North Carolina,37,Cabarrus,025
+COUMU,United States,North Carolina,37,Chatham,037
+COUMU,United States,North Carolina,37,Chowan,041
+COUMU,United States,North Carolina,37,Cleveland,045
+COUMU,United States,North Carolina,37,Cumberland,051
+COUMU,United States,North Carolina,37,Davidson,057
+COUMU,United States,North Carolina,37,Durham,063
+COUMU,United States,North Carolina,37,Edgecombe,065
+COUMU,United States,North Carolina,37,Forsyth,067
+COUMU,United States,North Carolina,37,Granville,077
+COUMU,United States,North Carolina,37,Guilford,081
+COUMU,United States,North Carolina,37,Halifax,083
+COUMU,United States,North Carolina,37,Harnett,085
+COUMU,United States,North Carolina,37,Haywood,087
+COUMU,United States,North Carolina,37,Henderson,089
+COUMU,United States,North Carolina,37,Hertford,091
+COUMU,United States,North Carolina,37,Hoke,093
+COUMU,United States,North Carolina,37,Lee,105
+COUMU,United States,North Carolina,37,Macon,113
+COUMU,United States,North Carolina,37,Montgomery,123
+COUMU,United States,North Carolina,37,Moore,125
+COUMU,United States,North Carolina,37,Nash,127
+COUMU,United States,North Carolina,37,Orange,135
+COUMU,United States,North Carolina,37,Person,145
+COUMU,United States,North Carolina,37,Randolph,151
+COUMU,United States,North Carolina,37,Richmond,153
+COUMU,United States,North Carolina,37,Rockingham,157
+COUMU,United States,North Carolina,37,Rowan,159
+COUMU,United States,North Carolina,37,Sampson,163
+COUMU,United States,North Carolina,37,Scotland,165
+COUMU,United States,North Carolina,37,Stanly,167
+COUMU,United States,North Carolina,37,Stokes,169
+COUMU,United States,North Carolina,37,Swain,173
+COUMU,United States,North Carolina,37,Wake,183
+COUMU,United States,North Carolina,37,Warren,185
+COUMU,United States,North Dakota,38,,
+COUMU,United States,North Dakota,38,Mercer,057
+COUMU,United States,North Dakota,38,Oliver,065
+COUMU,United States,North Dakota,38,Sargent,081
+COUMU,United States,Ohio,39,,
+COUMU,United States,Ohio,39,Adams,001
+COUMU,United States,Ohio,39,Ashland,005
+COUMU,United States,Ohio,39,Ashtabula,007
+COUMU,United States,Ohio,39,Athens,009
+COUMU,United States,Ohio,39,Auglaize,011
+COUMU,United States,Ohio,39,Carroll,019
+COUMU,United States,Ohio,39,Champaign,021
+COUMU,United States,Ohio,39,Clark,023
+COUMU,United States,Ohio,39,Columbiana,029
+COUMU,United States,Ohio,39,Cuyahoga,035
+COUMU,United States,Ohio,39,Defiance,039
+COUMU,United States,Ohio,39,Erie,043
+COUMU,United States,Ohio,39,Fairfield,045
+COUMU,United States,Ohio,39,Franklin,049
+COUMU,United States,Ohio,39,Fulton,051
+COUMU,United States,Ohio,39,Geauga,055
+COUMU,United States,Ohio,39,Highland,071
+COUMU,United States,Ohio,39,Hocking,073
+COUMU,United States,Ohio,39,Holmes,075
+COUMU,United States,Ohio,39,Huron,077
+COUMU,United States,Ohio,39,Jackson,079
+COUMU,United States,Ohio,39,Jefferson,081
+COUMU,United States,Ohio,39,Knox,083
+COUMU,United States,Ohio,39,Lake,085
+COUMU,United States,Ohio,39,Licking,089
+COUMU,United States,Ohio,39,Lorain,093
+COUMU,United States,Ohio,39,Lucas,095
+COUMU,United States,Ohio,39,Mahoning,099
+COUMU,United States,Ohio,39,Marion,101
+COUMU,United States,Ohio,39,Medina,103
+COUMU,United States,Ohio,39,Miami,109
+COUMU,United States,Ohio,39,Muskingum,119
+COUMU,United States,Ohio,39,Ottawa,123
+COUMU,United States,Ohio,39,Paulding,125
+COUMU,United States,Ohio,39,Perry,127
+COUMU,United States,Ohio,39,Pickaway,129
+COUMU,United States,Ohio,39,Portage,133
+COUMU,United States,Ohio,39,Ross,141
+COUMU,United States,Ohio,39,Sandusky,143
+COUMU,United States,Ohio,39,Stark,151
+COUMU,United States,Ohio,39,Summit,153
+COUMU,United States,Ohio,39,Trumbull,155
+COUMU,United States,Ohio,39,Tuscarawas,157
+COUMU,United States,Ohio,39,Wayne,169
+COUMU,United States,Ohio,39,Wood,173
+COUMU,United States,Ohio,39,Wyandot,175
+COUMU,United States,Oklahoma,40,,
+COUMU,United States,Oklahoma,40,Adair,001
+COUMU,United States,Oklahoma,40,Delaware,041
+COUMU,United States,Oklahoma,40,Mayes,097
+COUMU,United States,Oklahoma,40,Muskogee,101
+COUMU,United States,Oklahoma,40,Ottawa,115
+COUMU,United States,Pennsylvania,42,,
+COUMU,United States,Pennsylvania,42,Adams,001
+COUMU,United States,Pennsylvania,42,Allegheny,003
+COUMU,United States,Pennsylvania,42,Armstrong,005
+COUMU,United States,Pennsylvania,42,Beaver,007
+COUMU,United States,Pennsylvania,42,Bedford,009
+COUMU,United States,Pennsylvania,42,Berks,011
+COUMU,United States,Pennsylvania,42,Blair,013
+COUMU,United States,Pennsylvania,42,Bradford,015
+COUMU,United States,Pennsylvania,42,Bucks,017
+COUMU,United States,Pennsylvania,42,Butler,019
+COUMU,United States,Pennsylvania,42,Cambria,021
+COUMU,United States,Pennsylvania,42,Cameron,023
+COUMU,United States,Pennsylvania,42,Carbon,025
+COUMU,United States,Pennsylvania,42,Centre,027
+COUMU,United States,Pennsylvania,42,Chester,029
+COUMU,United States,Pennsylvania,42,Clarion,031
+COUMU,United States,Pennsylvania,42,Clearfield,033
+COUMU,United States,Pennsylvania,42,Clinton,035
+COUMU,United States,Pennsylvania,42,Columbia,037
+COUMU,United States,Pennsylvania,42,Crawford,039
+COUMU,United States,Pennsylvania,42,Cumberland,041
+COUMU,United States,Pennsylvania,42,Dauphin,043
+COUMU,United States,Pennsylvania,42,Delaware,045
+COUMU,United States,Pennsylvania,42,Elk,047
+COUMU,United States,Pennsylvania,42,Forest,053
+COUMU,United States,Pennsylvania,42,Franklin,055
+COUMU,United States,Pennsylvania,42,Fulton,057
+COUMU,United States,Pennsylvania,42,Huntingdon,061
+COUMU,United States,Pennsylvania,42,Juniata,067
+COUMU,United States,Pennsylvania,42,Lackawanna,069
+COUMU,United States,Pennsylvania,42,Lancaster,071
+COUMU,United States,Pennsylvania,42,Lawrence,073
+COUMU,United States,Pennsylvania,42,Lebanon,075
+COUMU,United States,Pennsylvania,42,Lehigh,077
+COUMU,United States,Pennsylvania,42,Luzerne,079
+COUMU,United States,Pennsylvania,42,Lycoming,081
+COUMU,United States,Pennsylvania,42,Mercer,085
+COUMU,United States,Pennsylvania,42,Mifflin,087
+COUMU,United States,Pennsylvania,42,Monroe,089
+COUMU,United States,Pennsylvania,42,Montgomery,091
+COUMU,United States,Pennsylvania,42,Montour,093
+COUMU,United States,Pennsylvania,42,Northampton,095
+COUMU,United States,Pennsylvania,42,Northumberland,097
+COUMU,United States,Pennsylvania,42,Perry,099
+COUMU,United States,Pennsylvania,42,Philadelphia,101
+COUMU,United States,Pennsylvania,42,Pike,103
+COUMU,United States,Pennsylvania,42,Schuylkill,107
+COUMU,United States,Pennsylvania,42,Snyder,109
+COUMU,United States,Pennsylvania,42,Somerset,111
+COUMU,United States,Pennsylvania,42,Susquehanna,115
+COUMU,United States,Pennsylvania,42,Union,119
+COUMU,United States,Pennsylvania,42,Venango,121
+COUMU,United States,Pennsylvania,42,Warren,123
+COUMU,United States,Pennsylvania,42,Wayne,127
+COUMU,United States,Pennsylvania,42,Westmoreland,129
+COUMU,United States,Pennsylvania,42,Wyoming,131
+COUMU,United States,Pennsylvania,42,York,133
+COUMU,United States,Rhode Island,44,,
+COUMU,United States,Rhode Island,44,Bristol,001
+COUMU,United States,Rhode Island,44,Kent,003
+COUMU,United States,Rhode Island,44,Providence,007
+COUMU,United States,Rhode Island,44,Washington,009
+COUMU,United States,South Carolina,45,,
+COUMU,United States,South Carolina,45,Darlington,031
+COUMU,United States,South Carolina,45,Greenville,045
+COUMU,United States,South Carolina,45,Lancaster,057
+COUMU,United States,South Carolina,45,Oconee,073
+COUMU,United States,South Carolina,45,Pickens,077
+COUMU,United States,South Carolina,45,Union,087
+COUMU,United States,South Dakota,46,,
+COUMU,United States,South Dakota,46,Brookings,011
+COUMU,United States,South Dakota,46,Charles Mix,023
+COUMU,United States,South Dakota,46,Codington,029
+COUMU,United States,South Dakota,46,Day,037
+COUMU,United States,South Dakota,46,Deuel,039
+COUMU,United States,South Dakota,46,Hutchinson,067
+COUMU,United States,South Dakota,46,Lincoln,083
+COUMU,United States,South Dakota,46,Minnehaha,099
+COUMU,United States,South Dakota,46,Union,127
+COUMU,United States,Tennessee,47,,
+COUMU,United States,Tennessee,47,Anderson,001
+COUMU,United States,Tennessee,47,Bedford,003
+COUMU,United States,Tennessee,47,Bledsoe,007
+COUMU,United States,Tennessee,47,Cheatham,021
+COUMU,United States,Tennessee,47,Coffee,031
+COUMU,United States,Tennessee,47,Cumberland,035
+COUMU,United States,Tennessee,47,Davidson,037
+COUMU,United States,Tennessee,47,Decatur,039
+COUMU,United States,Tennessee,47,Dickson,043
+COUMU,United States,Tennessee,47,Fayette,047
+COUMU,United States,Tennessee,47,Fentress,049
+COUMU,United States,Tennessee,47,Franklin,051
+COUMU,United States,Tennessee,47,Hardin,071
+COUMU,United States,Tennessee,47,Henry,079
+COUMU,United States,Tennessee,47,Humphreys,085
+COUMU,United States,Tennessee,47,Knox,093
+COUMU,United States,Tennessee,47,Lawrence,099
+COUMU,United States,Tennessee,47,Lewis,101
+COUMU,United States,Tennessee,47,Marshall,117
+COUMU,United States,Tennessee,47,McNairy,109
+COUMU,United States,Tennessee,47,Montgomery,125
+COUMU,United States,Tennessee,47,Morgan,129
+COUMU,United States,Tennessee,47,Perry,135
+COUMU,United States,Tennessee,47,Rhea,143
+COUMU,United States,Tennessee,47,Rutherford,149
+COUMU,United States,Tennessee,47,Scott,151
+COUMU,United States,Tennessee,47,Stewart,161
+COUMU,United States,Tennessee,47,Sumner,165
+COUMU,United States,Tennessee,47,Van Buren,175
+COUMU,United States,Tennessee,47,Warren,177
+COUMU,United States,Tennessee,47,Washington,179
+COUMU,United States,Tennessee,47,Wilson,189
+COUMU,United States,Vermont,50,,
+COUMU,United States,Vermont,50,Addison,001
+COUMU,United States,Vermont,50,Chittenden,007
+COUMU,United States,Vermont,50,Grand Isle,013
+COUMU,United States,Vermont,50,Rutland,021
+COUMU,United States,Virginia,51,,
+COUMU,United States,Virginia,51,Albemarle,003
+COUMU,United States,Virginia,51,Amherst,009
+COUMU,United States,Virginia,51,Appomattox,011
+COUMU,United States,Virginia,51,Arlington,013
+COUMU,United States,Virginia,51,Augusta,015
+COUMU,United States,Virginia,51,Bath,017
+COUMU,United States,Virginia,51,Bedford,019
+COUMU,United States,Virginia,51,Brunswick,025
+COUMU,United States,Virginia,51,Buckingham,029
+COUMU,United States,Virginia,51,Campbell,031
+COUMU,United States,Virginia,51,Charlotte,037
+COUMU,United States,Virginia,51,Chesterfield,041
+COUMU,United States,Virginia,51,Clarke,043
+COUMU,United States,Virginia,51,Culpeper,047
+COUMU,United States,Virginia,51,Dinwiddie,053
+COUMU,United States,Virginia,51,Fairfax,059
+COUMU,United States,Virginia,51,Fauquier,061
+COUMU,United States,Virginia,51,Fluvanna,065
+COUMU,United States,Virginia,51,Frederick,069
+COUMU,United States,Virginia,51,Gloucester,073
+COUMU,United States,Virginia,51,Goochland,075
+COUMU,United States,Virginia,51,Halifax,083
+COUMU,United States,Virginia,51,Hampton ,650
+COUMU,United States,Virginia,51,Hanover,085
+COUMU,United States,Virginia,51,Henrico,087
+COUMU,United States,Virginia,51,Isle of Wight,093
+COUMU,United States,Virginia,51,James City,095
+COUMU,United States,Virginia,51,King and Queen,097
+COUMU,United States,Virginia,51,King George,099
+COUMU,United States,Virginia,51,King William,101
+COUMU,United States,Virginia,51,Lancaster,103
+COUMU,United States,Virginia,51,Lee,105
+COUMU,United States,Virginia,51,Loudoun,107
+COUMU,United States,Virginia,51,Louisa,109
+COUMU,United States,Virginia,51,Lunenburg,111
+COUMU,United States,Virginia,51,Mathews,115
+COUMU,United States,Virginia,51,Mecklenburg,117
+COUMU,United States,Virginia,51,Nelson,125
+COUMU,United States,Virginia,51,New Kent,127
+COUMU,United States,Virginia,51,Newport News ,700
+COUMU,United States,Virginia,51,Nottoway,135
+COUMU,United States,Virginia,51,Orange,137
+COUMU,United States,Virginia,51,Page,139
+COUMU,United States,Virginia,51,Pittsylvania,143
+COUMU,United States,Virginia,51,Powhatan,145
+COUMU,United States,Virginia,51,Prince Edward,147
+COUMU,United States,Virginia,51,Prince George,149
+COUMU,United States,Virginia,51,Prince William,153
+COUMU,United States,Virginia,51,Rappahannock,157
+COUMU,United States,Virginia,51,Richmond,159
+COUMU,United States,Virginia,51,Roanoke,161
+COUMU,United States,Virginia,51,Rockbridge,163
+COUMU,United States,Virginia,51,Rockingham,165
+COUMU,United States,Virginia,51,Shenandoah,171
+COUMU,United States,Virginia,51,Southampton,175
+COUMU,United States,Virginia,51,Spotsylvania,177
+COUMU,United States,Virginia,51,Suffolk ,800
+COUMU,United States,Virginia,51,Sussex,183
+COUMU,United States,Virginia,51,Warren,187
+COUMU,United States,Virginia,51,Westmoreland,193
+COUMU,United States,West Virginia,54,,
+COUMU,United States,West Virginia,54,Berkeley,003
+COUMU,United States,West Virginia,54,Hampshire,027
+COUMU,United States,West Virginia,54,Hancock,029
+COUMU,United States,West Virginia,54,Hardy,031
+COUMU,United States,West Virginia,54,Mineral,057
+COUMU,United States,West Virginia,54,Morgan,065
+COUMU,United States,West Virginia,54,Pendleton,071
+COUMU,United States,Wisconsin,55,,
+COUMU,United States,Wisconsin,55,Adams,001
+COUMU,United States,Wisconsin,55,Ashland,003
+COUMU,United States,Wisconsin,55,Barron,005
+COUMU,United States,Wisconsin,55,Bayfield,007
+COUMU,United States,Wisconsin,55,Brown,009
+COUMU,United States,Wisconsin,55,Buffalo,011
+COUMU,United States,Wisconsin,55,Burnett,013
+COUMU,United States,Wisconsin,55,Calumet,015
+COUMU,United States,Wisconsin,55,Chippewa,017
+COUMU,United States,Wisconsin,55,Clark,019
+COUMU,United States,Wisconsin,55,Columbia,021
+COUMU,United States,Wisconsin,55,Crawford,023
+COUMU,United States,Wisconsin,55,Dane,025
+COUMU,United States,Wisconsin,55,Dodge,027
+COUMU,United States,Wisconsin,55,Door,029
+COUMU,United States,Wisconsin,55,Douglas,031
+COUMU,United States,Wisconsin,55,Eau Claire,035
+COUMU,United States,Wisconsin,55,Fond du Lac,039
+COUMU,United States,Wisconsin,55,Grant,043
+COUMU,United States,Wisconsin,55,Green,045
+COUMU,United States,Wisconsin,55,Green Lake,047
+COUMU,United States,Wisconsin,55,Iowa,049
+COUMU,United States,Wisconsin,55,Iron,051
+COUMU,United States,Wisconsin,55,Jackson,053
+COUMU,United States,Wisconsin,55,Jefferson,055
+COUMU,United States,Wisconsin,55,Kenosha,059
+COUMU,United States,Wisconsin,55,La Crosse,063
+COUMU,United States,Wisconsin,55,Lafayette,065
+COUMU,United States,Wisconsin,55,Lincoln,069
+COUMU,United States,Wisconsin,55,Manitowoc,071
+COUMU,United States,Wisconsin,55,Marathon,073
+COUMU,United States,Wisconsin,55,Marinette,075
+COUMU,United States,Wisconsin,55,Marquette,077
+COUMU,United States,Wisconsin,55,Menominee,078
+COUMU,United States,Wisconsin,55,Milwaukee,079
+COUMU,United States,Wisconsin,55,Monroe,081
+COUMU,United States,Wisconsin,55,Oconto,083
+COUMU,United States,Wisconsin,55,Oneida,085
+COUMU,United States,Wisconsin,55,Outagamie,087
+COUMU,United States,Wisconsin,55,Ozaukee,089
+COUMU,United States,Wisconsin,55,Pepin,091
+COUMU,United States,Wisconsin,55,Pierce,093
+COUMU,United States,Wisconsin,55,Polk,095
+COUMU,United States,Wisconsin,55,Portage,097
+COUMU,United States,Wisconsin,55,Price,099
+COUMU,United States,Wisconsin,55,Racine,101
+COUMU,United States,Wisconsin,55,Richland,103
+COUMU,United States,Wisconsin,55,Rock,105
+COUMU,United States,Wisconsin,55,Sauk,111
+COUMU,United States,Wisconsin,55,Sawyer,113
+COUMU,United States,Wisconsin,55,Shawano,115
+COUMU,United States,Wisconsin,55,Sheboygan,117
+COUMU,United States,Wisconsin,55,St. Croix,109
+COUMU,United States,Wisconsin,55,Taylor,119
+COUMU,United States,Wisconsin,55,Trempealeau,121
+COUMU,United States,Wisconsin,55,Vernon,123
+COUMU,United States,Wisconsin,55,Vilas,125
+COUMU,United States,Wisconsin,55,Walworth,127
+COUMU,United States,Wisconsin,55,Washburn,129
+COUMU,United States,Wisconsin,55,Washington,131
+COUMU,United States,Wisconsin,55,Waukesha,133
+COUMU,United States,Wisconsin,55,Waushara,137
+COUMU,United States,Wisconsin,55,Wood,141
+COUMU,Canada,Labrador,LB,,
+COUMU,Canada,Newfoundland,NF,,

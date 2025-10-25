@@ -1,0 +1,58 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ALSCS2,United States,Alaska,02,,
+ALSCS2,Canada,New Brunswick,04,,
+ALSCS2,Canada,Ontario,08,,
+ALSCS2,United States,Connecticut,09,,
+ALSCS2,Canada,Quebec,10,,
+ALSCS2,Canada,Saskatchewan,11,,
+ALSCS2,United States,Idaho,16,,
+ALSCS2,United States,Idaho,16,Bonner,017
+ALSCS2,United States,Idaho,16,Boundary,021
+ALSCS2,United States,Idaho,16,Caribou,029
+ALSCS2,United States,Idaho,16,Custer,037
+ALSCS2,United States,Idaho,16,Fremont,043
+ALSCS2,United States,Idaho,16,Kootenai,055
+ALSCS2,United States,Idaho,16,Lemhi,059
+ALSCS2,United States,Illinois,17,,
+ALSCS2,United States,Indiana,18,,
+ALSCS2,United States,Massachusetts,25,,
+ALSCS2,United States,Oregon,41,,
+ALSCS2,United States,Pennsylvania,42,,
+ALSCS2,United States,Pennsylvania,42,Allegheny,003
+ALSCS2,United States,Pennsylvania,42,Berks,011
+ALSCS2,United States,Pennsylvania,42,Centre,027
+ALSCS2,United States,Pennsylvania,42,Elk,047
+ALSCS2,United States,Pennsylvania,42,Erie,049
+ALSCS2,United States,Pennsylvania,42,Pike,103
+ALSCS2,United States,Rhode Island,44,,
+ALSCS2,United States,Rhode Island,44,Kent,003
+ALSCS2,United States,Rhode Island,44,Washington,009
+ALSCS2,United States,Vermont,50,,
+ALSCS2,United States,Washington,53,,
+ALSCS2,United States,Wisconsin,55,,
+ALSCS2,United States,Wisconsin,55,Barron,005
+ALSCS2,United States,Wisconsin,55,Brown,009
+ALSCS2,United States,Wisconsin,55,Buffalo,011
+ALSCS2,United States,Wisconsin,55,Dane,025
+ALSCS2,United States,Wisconsin,55,Douglas,031
+ALSCS2,United States,Wisconsin,55,Eau Claire,035
+ALSCS2,United States,Wisconsin,55,Green,045
+ALSCS2,United States,Wisconsin,55,Marinette,075
+ALSCS2,United States,Wisconsin,55,Milwaukee,079
+ALSCS2,United States,Wisconsin,55,Oconto,083
+ALSCS2,United States,Wisconsin,55,Vilas,125
+ALSCS2,United States,Wisconsin,55,Washington,131
+ALSCS2,United States,Wisconsin,55,Wood,141
+ALSCS2,United States,Wyoming,56,,
+ALSCS2,United States,Wyoming,56,Albany,001
+ALSCS2,United States,Wyoming,56,Big Horn,003
+ALSCS2,United States,Wyoming,56,Fremont,013
+ALSCS2,United States,Wyoming,56,Johnson,019
+ALSCS2,United States,Wyoming,56,Lincoln,023
+ALSCS2,United States,Wyoming,56,Park,029
+ALSCS2,United States,Wyoming,56,Sheridan,033
+ALSCS2,United States,Wyoming,56,Sublette,035
+ALSCS2,United States,Wyoming,56,Teton,039
+ALSCS2,United States,Wyoming,56,Washakie,043
+ALSCS2,Canada,Newfoundland,NF,,

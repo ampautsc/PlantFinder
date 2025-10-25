@@ -1,0 +1,35 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+EUSI13,Canada,Alberta,01,,
+EUSI13,Canada,British Columbia,02,,
+EUSI13,United States,Alaska,02,,
+EUSI13,United States,Alaska,02,Aleutians East,013
+EUSI13,United States,Alaska,02,Aleutians West,016
+EUSI13,United States,Alaska,02,Anchorage,020
+EUSI13,United States,Alaska,02,Bethel,050
+EUSI13,United States,Alaska,02,Chugach,063
+EUSI13,United States,Alaska,02,Copper River,066
+EUSI13,United States,Alaska,02,Denali,068
+EUSI13,United States,Alaska,02,Dillingham,070
+EUSI13,United States,Alaska,02,Fairbanks North Star,090
+EUSI13,United States,Alaska,02,Kenai Peninsula,122
+EUSI13,United States,Alaska,02,Kodiak Island,150
+EUSI13,United States,Alaska,02,Lake and Peninsula,164
+EUSI13,United States,Alaska,02,Matanuska-Susitna,170
+EUSI13,United States,Alaska,02,Nome,180
+EUSI13,United States,Alaska,02,North Slope,185
+EUSI13,United States,Alaska,02,Northwest Arctic,188
+EUSI13,United States,Alaska,02,Southeast Fairbanks,240
+EUSI13,United States,Alaska,02,Yakutat,282
+EUSI13,United States,Alaska,02,Yukon-Koyukuk,290
+EUSI13,Canada,Yukon,12,,
+EUSI13,Canada,Northwest Territories,13,,
+EUSI13,Canada,Nunavut,14,,
+EUSI13,United States,Idaho,16,,
+EUSI13,United States,Idaho,16,Custer,037
+EUSI13,United States,Montana,30,,
+EUSI13,United States,Montana,30,Flathead,029
+EUSI13,United States,Montana,30,Teton,099
+EUSI13,United States,Washington,53,,
+EUSI13,United States,Washington,53,Chelan,007
+EUSI13,United States,Washington,53,Whatcom,073

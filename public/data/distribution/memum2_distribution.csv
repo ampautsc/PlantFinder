@@ -1,0 +1,86 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+MEMUM2,United States,Arizona,04,,
+MEMUM2,United States,Arizona,04,Apache,001
+MEMUM2,United States,Arizona,04,Cochise,003
+MEMUM2,United States,Arizona,04,Coconino,005
+MEMUM2,United States,Arizona,04,Gila,007
+MEMUM2,United States,Arizona,04,Graham,009
+MEMUM2,United States,Arizona,04,Greenlee,011
+MEMUM2,United States,Arizona,04,La Paz,012
+MEMUM2,United States,Arizona,04,Maricopa,013
+MEMUM2,United States,Arizona,04,Mohave,015
+MEMUM2,United States,Arizona,04,Navajo,017
+MEMUM2,United States,Arizona,04,Pima,019
+MEMUM2,United States,Arizona,04,Pinal,021
+MEMUM2,United States,Arizona,04,Santa Cruz,023
+MEMUM2,United States,Arizona,04,Yavapai,025
+MEMUM2,United States,Arizona,04,Yuma,027
+MEMUM2,United States,California,06,,
+MEMUM2,United States,Colorado,08,,
+MEMUM2,United States,Colorado,08,Alamosa,003
+MEMUM2,United States,Colorado,08,Archuleta,007
+MEMUM2,United States,Colorado,08,Baca,009
+MEMUM2,United States,Colorado,08,Clear Creek,019
+MEMUM2,United States,Colorado,08,Conejos,021
+MEMUM2,United States,Colorado,08,Costilla,023
+MEMUM2,United States,Colorado,08,Douglas,035
+MEMUM2,United States,Colorado,08,El Paso,041
+MEMUM2,United States,Colorado,08,Elbert,039
+MEMUM2,United States,Colorado,08,Fremont,043
+MEMUM2,United States,Colorado,08,Huerfano,055
+MEMUM2,United States,Colorado,08,Jefferson,059
+MEMUM2,United States,Colorado,08,La Plata,067
+MEMUM2,United States,Colorado,08,Larimer,069
+MEMUM2,United States,Colorado,08,Mineral,079
+MEMUM2,United States,Colorado,08,Montezuma,083
+MEMUM2,United States,Colorado,08,Montrose,085
+MEMUM2,United States,Colorado,08,Otero,089
+MEMUM2,United States,Colorado,08,Park,093
+MEMUM2,United States,Colorado,08,Pueblo,101
+MEMUM2,United States,Colorado,08,Rio Grande,105
+MEMUM2,United States,Colorado,08,Saguache,109
+MEMUM2,United States,Nebraska,31,,
+MEMUM2,United States,New Mexico,35,,
+MEMUM2,United States,New Mexico,35,Dona Ana,013
+MEMUM2,United States,New Mexico,35,Los Alamos,028
+MEMUM2,United States,New Mexico,35,McKinley,031
+MEMUM2,United States,New Mexico,35,Rio Arriba,039
+MEMUM2,United States,New Mexico,35,San Miguel,047
+MEMUM2,United States,New Mexico,35,Sandoval,043
+MEMUM2,United States,New Mexico,35,Santa Fe,049
+MEMUM2,United States,New Mexico,35,Socorro,053
+MEMUM2,United States,New Mexico,35,Taos,055
+MEMUM2,United States,Oklahoma,40,,
+MEMUM2,United States,Oklahoma,40,Cimarron,025
+MEMUM2,United States,Texas,48,,
+MEMUM2,United States,Texas,48,Andrews,003
+MEMUM2,United States,Texas,48,Brewster,043
+MEMUM2,United States,Texas,48,Briscoe,045
+MEMUM2,United States,Texas,48,Crane,103
+MEMUM2,United States,Texas,48,Culberson,109
+MEMUM2,United States,Texas,48,Ellis,139
+MEMUM2,United States,Texas,48,Hall,191
+MEMUM2,United States,Texas,48,Hudspeth,229
+MEMUM2,United States,Texas,48,Jeff Davis,243
+MEMUM2,United States,Texas,48,Oldham,359
+MEMUM2,United States,Texas,48,Pecos,371
+MEMUM2,United States,Texas,48,Potter,375
+MEMUM2,United States,Texas,48,Presidio,377
+MEMUM2,United States,Texas,48,Reeves,389
+MEMUM2,United States,Texas,48,Val Verde,465
+MEMUM2,United States,Texas,48,Ward,475
+MEMUM2,United States,Utah,49,,
+MEMUM2,United States,Utah,49,Emery,015
+MEMUM2,United States,Utah,49,Garfield,017
+MEMUM2,United States,Utah,49,Grand,019
+MEMUM2,United States,Utah,49,Kane,025
+MEMUM2,United States,Utah,49,Piute,031
+MEMUM2,United States,Utah,49,San Juan,037
+MEMUM2,United States,Utah,49,Sevier,041
+MEMUM2,United States,Utah,49,Wayne,055
+MEMUM2,United States,Wyoming,56,,
+MEMUM2,United States,Wyoming,56,Albany,001
+MEMUM2,United States,Wyoming,56,Carbon,007
+MEMUM2,United States,Wyoming,56,Laramie,021
+MEMUM2,United States,Wyoming,56,Platte,031

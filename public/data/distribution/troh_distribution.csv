@@ -1,0 +1,864 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+TROH,United States,Alabama,01,,
+TROH,United States,Alabama,01,Autauga,001
+TROH,United States,Alabama,01,Baldwin,003
+TROH,United States,Alabama,01,Chambers,017
+TROH,United States,Alabama,01,Chilton,021
+TROH,United States,Alabama,01,Cleburne,029
+TROH,United States,Alabama,01,Conecuh,035
+TROH,United States,Alabama,01,Covington,039
+TROH,United States,Alabama,01,Dallas,047
+TROH,United States,Alabama,01,Elmore,051
+TROH,United States,Alabama,01,Escambia,053
+TROH,United States,Alabama,01,Jackson,071
+TROH,United States,Alabama,01,Lamar,075
+TROH,United States,Alabama,01,Lee,081
+TROH,United States,Alabama,01,Macon,087
+TROH,United States,Alabama,01,Mobile,097
+TROH,United States,Alabama,01,Montgomery,101
+TROH,United States,Alabama,01,Pike,109
+TROH,United States,Alabama,01,Randolph,111
+TROH,United States,Alabama,01,Russell,113
+TROH,United States,Alabama,01,Shelby,117
+TROH,United States,Alabama,01,Sumter,119
+TROH,United States,Alabama,01,Tallapoosa,123
+TROH,United States,Alabama,01,Tuscaloosa,125
+TROH,United States,Alabama,01,Winston,133
+TROH,United States,Arkansas,05,,
+TROH,United States,Arkansas,05,Arkansas,001
+TROH,United States,Arkansas,05,Ashley,003
+TROH,United States,Arkansas,05,Baxter,005
+TROH,United States,Arkansas,05,Benton,007
+TROH,United States,Arkansas,05,Boone,009
+TROH,United States,Arkansas,05,Bradley,011
+TROH,United States,Arkansas,05,Calhoun,013
+TROH,United States,Arkansas,05,Carroll,015
+TROH,United States,Arkansas,05,Chicot,017
+TROH,United States,Arkansas,05,Clark,019
+TROH,United States,Arkansas,05,Cleburne,023
+TROH,United States,Arkansas,05,Conway,029
+TROH,United States,Arkansas,05,Craighead,031
+TROH,United States,Arkansas,05,Crawford,033
+TROH,United States,Arkansas,05,Desha,041
+TROH,United States,Arkansas,05,Drew,043
+TROH,United States,Arkansas,05,Faulkner,045
+TROH,United States,Arkansas,05,Franklin,047
+TROH,United States,Arkansas,05,Grant,053
+TROH,United States,Arkansas,05,Hempstead,057
+TROH,United States,Arkansas,05,Hot Spring,059
+TROH,United States,Arkansas,05,Howard,061
+TROH,United States,Arkansas,05,Izard,065
+TROH,United States,Arkansas,05,Jefferson,069
+TROH,United States,Arkansas,05,Johnson,071
+TROH,United States,Arkansas,05,Little River,081
+TROH,United States,Arkansas,05,Logan,083
+TROH,United States,Arkansas,05,Lonoke,085
+TROH,United States,Arkansas,05,Madison,087
+TROH,United States,Arkansas,05,Montgomery,097
+TROH,United States,Arkansas,05,Nevada,099
+TROH,United States,Arkansas,05,Newton,101
+TROH,United States,Arkansas,05,Pike,109
+TROH,United States,Arkansas,05,Polk,113
+TROH,United States,Arkansas,05,Prairie,117
+TROH,United States,Arkansas,05,Pulaski,119
+TROH,United States,Arkansas,05,Saline,125
+TROH,United States,Arkansas,05,Scott,127
+TROH,United States,Arkansas,05,Sebastian,131
+TROH,United States,Arkansas,05,Sevier,133
+TROH,United States,Arkansas,05,Sharp,135
+TROH,United States,Arkansas,05,Stone,137
+TROH,United States,Arkansas,05,Washington,143
+TROH,United States,Arkansas,05,White,145
+TROH,United States,Arkansas,05,Woodruff,147
+TROH,United States,Arkansas,05,Yell,149
+TROH,Canada,Ontario,08,,
+TROH,United States,Connecticut,09,,
+TROH,United States,Connecticut,09,Fairfield,001
+TROH,United States,Connecticut,09,New Haven,009
+TROH,United States,Connecticut,09,Tolland,013
+TROH,United States,Connecticut,09,Windham,015
+TROH,United States,Delaware,10,,
+TROH,United States,Florida,12,,
+TROH,United States,Florida,12,Alachua,001
+TROH,United States,Florida,12,Bay,005
+TROH,United States,Florida,12,Bradford,007
+TROH,United States,Florida,12,Brevard,009
+TROH,United States,Florida,12,Citrus,017
+TROH,United States,Florida,12,Duval,031
+TROH,United States,Florida,12,Escambia,033
+TROH,United States,Florida,12,Flagler,035
+TROH,United States,Florida,12,Franklin,037
+TROH,United States,Florida,12,Hernando,053
+TROH,United States,Florida,12,Highlands,055
+TROH,United States,Florida,12,Hillsborough,057
+TROH,United States,Florida,12,Lake,069
+TROH,United States,Florida,12,Leon,073
+TROH,United States,Florida,12,Levy,075
+TROH,United States,Florida,12,Madison,079
+TROH,United States,Florida,12,Marion,083
+TROH,United States,Florida,12,Nassau,089
+TROH,United States,Florida,12,Okaloosa,091
+TROH,United States,Florida,12,Orange,095
+TROH,United States,Florida,12,Pasco,101
+TROH,United States,Florida,12,Pinellas,103
+TROH,United States,Florida,12,Putnam,107
+TROH,United States,Florida,12,Sarasota,115
+TROH,United States,Florida,12,Seminole,117
+TROH,United States,Florida,12,St. Johns,109
+TROH,United States,Florida,12,Sumter,119
+TROH,United States,Florida,12,Volusia,127
+TROH,United States,Florida,12,Wakulla,129
+TROH,United States,Georgia,13,,
+TROH,United States,Georgia,13,Bartow,015
+TROH,United States,Georgia,13,Ben Hill,017
+TROH,United States,Georgia,13,Bibb,021
+TROH,United States,Georgia,13,Bulloch,031
+TROH,United States,Georgia,13,Camden,039
+TROH,United States,Georgia,13,Carroll,045
+TROH,United States,Georgia,13,Chatham,051
+TROH,United States,Georgia,13,Cobb,067
+TROH,United States,Georgia,13,DeKalb,089
+TROH,United States,Georgia,13,Fulton,121
+TROH,United States,Georgia,13,Glynn,127
+TROH,United States,Georgia,13,Grady,131
+TROH,United States,Georgia,13,Hancock,141
+TROH,United States,Georgia,13,Harris,145
+TROH,United States,Georgia,13,Heard,149
+TROH,United States,Georgia,13,Jasper,159
+TROH,United States,Georgia,13,Lanier,173
+TROH,United States,Georgia,13,McIntosh,191
+TROH,United States,Georgia,13,Thomas,275
+TROH,United States,Georgia,13,Tift,277
+TROH,United States,Georgia,13,Troup,285
+TROH,United States,Georgia,13,Upson,293
+TROH,United States,Illinois,17,,
+TROH,United States,Illinois,17,Adams,001
+TROH,United States,Illinois,17,Alexander,003
+TROH,United States,Illinois,17,Bond,005
+TROH,United States,Illinois,17,Boone,007
+TROH,United States,Illinois,17,Brown,009
+TROH,United States,Illinois,17,Bureau,011
+TROH,United States,Illinois,17,Calhoun,013
+TROH,United States,Illinois,17,Carroll,015
+TROH,United States,Illinois,17,Cass,017
+TROH,United States,Illinois,17,Champaign,019
+TROH,United States,Illinois,17,Christian,021
+TROH,United States,Illinois,17,Clinton,027
+TROH,United States,Illinois,17,Coles,029
+TROH,United States,Illinois,17,Cook,031
+TROH,United States,Illinois,17,Crawford,033
+TROH,United States,Illinois,17,Cumberland,035
+TROH,United States,Illinois,17,De Witt,039
+TROH,United States,Illinois,17,DeKalb,037
+TROH,United States,Illinois,17,Douglas,041
+TROH,United States,Illinois,17,DuPage,043
+TROH,United States,Illinois,17,Edgar,045
+TROH,United States,Illinois,17,Effingham,049
+TROH,United States,Illinois,17,Fayette,051
+TROH,United States,Illinois,17,Ford,053
+TROH,United States,Illinois,17,Fulton,057
+TROH,United States,Illinois,17,Greene,061
+TROH,United States,Illinois,17,Grundy,063
+TROH,United States,Illinois,17,Hancock,067
+TROH,United States,Illinois,17,Henderson,071
+TROH,United States,Illinois,17,Henry,073
+TROH,United States,Illinois,17,Iroquois,075
+TROH,United States,Illinois,17,Jackson,077
+TROH,United States,Illinois,17,Jasper,079
+TROH,United States,Illinois,17,Jefferson,081
+TROH,United States,Illinois,17,Jersey,083
+TROH,United States,Illinois,17,Jo Daviess,085
+TROH,United States,Illinois,17,Johnson,087
+TROH,United States,Illinois,17,Kane,089
+TROH,United States,Illinois,17,Kankakee,091
+TROH,United States,Illinois,17,Kendall,093
+TROH,United States,Illinois,17,Knox,095
+TROH,United States,Illinois,17,Lake,097
+TROH,United States,Illinois,17,LaSalle,099
+TROH,United States,Illinois,17,Lawrence,101
+TROH,United States,Illinois,17,Lee,103
+TROH,United States,Illinois,17,Livingston,105
+TROH,United States,Illinois,17,Logan,107
+TROH,United States,Illinois,17,Macon,115
+TROH,United States,Illinois,17,Macoupin,117
+TROH,United States,Illinois,17,Madison,119
+TROH,United States,Illinois,17,Marion,121
+TROH,United States,Illinois,17,Marshall,123
+TROH,United States,Illinois,17,Mason,125
+TROH,United States,Illinois,17,Massac,127
+TROH,United States,Illinois,17,McDonough,109
+TROH,United States,Illinois,17,McHenry,111
+TROH,United States,Illinois,17,McLean,113
+TROH,United States,Illinois,17,Menard,129
+TROH,United States,Illinois,17,Mercer,131
+TROH,United States,Illinois,17,Monroe,133
+TROH,United States,Illinois,17,Montgomery,135
+TROH,United States,Illinois,17,Morgan,137
+TROH,United States,Illinois,17,Moultrie,139
+TROH,United States,Illinois,17,Ogle,141
+TROH,United States,Illinois,17,Peoria,143
+TROH,United States,Illinois,17,Perry,145
+TROH,United States,Illinois,17,Piatt,147
+TROH,United States,Illinois,17,Pike,149
+TROH,United States,Illinois,17,Pope,151
+TROH,United States,Illinois,17,Pulaski,153
+TROH,United States,Illinois,17,Putnam,155
+TROH,United States,Illinois,17,Randolph,157
+TROH,United States,Illinois,17,Richland,159
+TROH,United States,Illinois,17,Rock Island,161
+TROH,United States,Illinois,17,Sangamon,167
+TROH,United States,Illinois,17,Schuyler,169
+TROH,United States,Illinois,17,Scott,171
+TROH,United States,Illinois,17,Shelby,173
+TROH,United States,Illinois,17,St. Clair,163
+TROH,United States,Illinois,17,Stark,175
+TROH,United States,Illinois,17,Stephenson,177
+TROH,United States,Illinois,17,Tazewell,179
+TROH,United States,Illinois,17,Union,181
+TROH,United States,Illinois,17,Vermilion,183
+TROH,United States,Illinois,17,Wabash,185
+TROH,United States,Illinois,17,Warren,187
+TROH,United States,Illinois,17,Washington,189
+TROH,United States,Illinois,17,Wayne,191
+TROH,United States,Illinois,17,White,193
+TROH,United States,Illinois,17,Whiteside,195
+TROH,United States,Illinois,17,Will,197
+TROH,United States,Illinois,17,Williamson,199
+TROH,United States,Illinois,17,Winnebago,201
+TROH,United States,Illinois,17,Woodford,203
+TROH,United States,Indiana,18,,
+TROH,United States,Indiana,18,Allen,003
+TROH,United States,Indiana,18,Benton,007
+TROH,United States,Indiana,18,Cass,017
+TROH,United States,Indiana,18,Elkhart,039
+TROH,United States,Indiana,18,Fountain,045
+TROH,United States,Indiana,18,Fulton,049
+TROH,United States,Indiana,18,Gibson,051
+TROH,United States,Indiana,18,Greene,055
+TROH,United States,Indiana,18,Jasper,073
+TROH,United States,Indiana,18,Knox,083
+TROH,United States,Indiana,18,Kosciusko,085
+TROH,United States,Indiana,18,Lagrange,087
+TROH,United States,Indiana,18,Lake,089
+TROH,United States,Indiana,18,Marshall,099
+TROH,United States,Indiana,18,Newton,111
+TROH,United States,Indiana,18,Noble,113
+TROH,United States,Indiana,18,Porter,127
+TROH,United States,Indiana,18,Posey,129
+TROH,United States,Indiana,18,Pulaski,131
+TROH,United States,Indiana,18,Putnam,133
+TROH,United States,Indiana,18,St. Joseph,141
+TROH,United States,Indiana,18,Starke,149
+TROH,United States,Indiana,18,Steuben,151
+TROH,United States,Indiana,18,Tippecanoe,157
+TROH,United States,Indiana,18,Tipton,159
+TROH,United States,Indiana,18,Vermillion,165
+TROH,United States,Indiana,18,Wabash,169
+TROH,United States,Indiana,18,White,181
+TROH,United States,Indiana,18,Whitley,183
+TROH,United States,Iowa,19,,
+TROH,United States,Iowa,19,Allamakee,005
+TROH,United States,Iowa,19,Appanoose,007
+TROH,United States,Iowa,19,Black Hawk,013
+TROH,United States,Iowa,19,Clayton,043
+TROH,United States,Iowa,19,Decatur,053
+TROH,United States,Iowa,19,Delaware,055
+TROH,United States,Iowa,19,Guthrie,077
+TROH,United States,Iowa,19,Iowa,095
+TROH,United States,Iowa,19,Johnson,103
+TROH,United States,Iowa,19,Lee,111
+TROH,United States,Iowa,19,Lyon,119
+TROH,United States,Iowa,19,Muscatine,139
+TROH,United States,Iowa,19,Taylor,173
+TROH,United States,Iowa,19,Union,175
+TROH,United States,Iowa,19,Winneshiek,191
+TROH,United States,Kansas,20,,
+TROH,United States,Kansas,20,Allen,001
+TROH,United States,Kansas,20,Anderson,003
+TROH,United States,Kansas,20,Bourbon,011
+TROH,United States,Kansas,20,Butler,015
+TROH,United States,Kansas,20,Chautauqua,019
+TROH,United States,Kansas,20,Cherokee,021
+TROH,United States,Kansas,20,Clay,027
+TROH,United States,Kansas,20,Cloud,029
+TROH,United States,Kansas,20,Coffey,031
+TROH,United States,Kansas,20,Cowley,035
+TROH,United States,Kansas,20,Crawford,037
+TROH,United States,Kansas,20,Dickinson,041
+TROH,United States,Kansas,20,Doniphan,043
+TROH,United States,Kansas,20,Douglas,045
+TROH,United States,Kansas,20,Elk,049
+TROH,United States,Kansas,20,Ellsworth,053
+TROH,United States,Kansas,20,Franklin,059
+TROH,United States,Kansas,20,Geary,061
+TROH,United States,Kansas,20,Greenwood,073
+TROH,United States,Kansas,20,Harper,077
+TROH,United States,Kansas,20,Harvey,079
+TROH,United States,Kansas,20,Johnson,091
+TROH,United States,Kansas,20,Labette,099
+TROH,United States,Kansas,20,Leavenworth,103
+TROH,United States,Kansas,20,Linn,107
+TROH,United States,Kansas,20,Lyon,111
+TROH,United States,Kansas,20,Marion,115
+TROH,United States,Kansas,20,McPherson,113
+TROH,United States,Kansas,20,Miami,121
+TROH,United States,Kansas,20,Montgomery,125
+TROH,United States,Kansas,20,Morris,127
+TROH,United States,Kansas,20,Neosho,133
+TROH,United States,Kansas,20,Osage,139
+TROH,United States,Kansas,20,Pottawatomie,149
+TROH,United States,Kansas,20,Riley,161
+TROH,United States,Kansas,20,Saline,169
+TROH,United States,Kansas,20,Sedgwick,173
+TROH,United States,Kansas,20,Shawnee,177
+TROH,United States,Kansas,20,Stafford,185
+TROH,United States,Kansas,20,Sumner,191
+TROH,United States,Kansas,20,Washington,201
+TROH,United States,Kansas,20,Wilson,205
+TROH,United States,Kansas,20,Woodson,207
+TROH,United States,Kansas,20,Wyandotte,209
+TROH,United States,Kentucky,21,,
+TROH,United States,Kentucky,21,Ballard,007
+TROH,United States,Kentucky,21,Calloway,035
+TROH,United States,Kentucky,21,Carlisle,039
+TROH,United States,Kentucky,21,Carter,043
+TROH,United States,Kentucky,21,Crittenden,055
+TROH,United States,Kentucky,21,Harlan,095
+TROH,United States,Kentucky,21,Hickman,105
+TROH,United States,Kentucky,21,Jefferson,111
+TROH,United States,Kentucky,21,Lewis,135
+TROH,United States,Kentucky,21,Marshall,157
+TROH,United States,Kentucky,21,McCracken,145
+TROH,United States,Kentucky,21,McCreary,147
+TROH,United States,Kentucky,21,Mercer,167
+TROH,United States,Kentucky,21,Warren,227
+TROH,United States,Kentucky,21,Whitley,235
+TROH,United States,Louisiana,22,,
+TROH,United States,Louisiana,22,Acadia,001
+TROH,United States,Louisiana,22,Allen,003
+TROH,United States,Louisiana,22,Ascension,005
+TROH,United States,Louisiana,22,Assumption,007
+TROH,United States,Louisiana,22,Avoyelles,009
+TROH,United States,Louisiana,22,Bossier,015
+TROH,United States,Louisiana,22,Caddo,017
+TROH,United States,Louisiana,22,Calcasieu,019
+TROH,United States,Louisiana,22,Caldwell,021
+TROH,United States,Louisiana,22,Cameron,023
+TROH,United States,Louisiana,22,Catahoula,025
+TROH,United States,Louisiana,22,Claiborne,027
+TROH,United States,Louisiana,22,Concordia,029
+TROH,United States,Louisiana,22,De Soto,031
+TROH,United States,Louisiana,22,East Baton Rouge,033
+TROH,United States,Louisiana,22,East Carroll,035
+TROH,United States,Louisiana,22,East Feliciana,037
+TROH,United States,Louisiana,22,Evangeline,039
+TROH,United States,Louisiana,22,Franklin,041
+TROH,United States,Louisiana,22,Iberia,045
+TROH,United States,Louisiana,22,Iberville,047
+TROH,United States,Louisiana,22,Jefferson,051
+TROH,United States,Louisiana,22,Jefferson Davis,053
+TROH,United States,Louisiana,22,Lafayette,055
+TROH,United States,Louisiana,22,LaSalle,059
+TROH,United States,Louisiana,22,Lincoln,061
+TROH,United States,Louisiana,22,Livingston,063
+TROH,United States,Louisiana,22,Morehouse,067
+TROH,United States,Louisiana,22,Natchitoches,069
+TROH,United States,Louisiana,22,Orleans,071
+TROH,United States,Louisiana,22,Ouachita,073
+TROH,United States,Louisiana,22,Plaquemines,075
+TROH,United States,Louisiana,22,Pointe Coupee,077
+TROH,United States,Louisiana,22,Rapides,079
+TROH,United States,Louisiana,22,Red River,081
+TROH,United States,Louisiana,22,Richland,083
+TROH,United States,Louisiana,22,St. Charles,089
+TROH,United States,Louisiana,22,St. Helena,091
+TROH,United States,Louisiana,22,St. James,093
+TROH,United States,Louisiana,22,St. Landry,097
+TROH,United States,Louisiana,22,St. Martin,099
+TROH,United States,Louisiana,22,St. Mary,101
+TROH,United States,Louisiana,22,St. Tammany,103
+TROH,United States,Louisiana,22,Tangipahoa,105
+TROH,United States,Louisiana,22,Tensas,107
+TROH,United States,Louisiana,22,Terrebonne,109
+TROH,United States,Louisiana,22,Union,111
+TROH,United States,Louisiana,22,Vermilion,113
+TROH,United States,Louisiana,22,Washington,117
+TROH,United States,Louisiana,22,Webster,119
+TROH,United States,Louisiana,22,West Baton Rouge,121
+TROH,United States,Louisiana,22,West Carroll,123
+TROH,United States,Louisiana,22,Winn,127
+TROH,United States,Maine,23,,
+TROH,United States,Maine,23,Cumberland,005
+TROH,United States,Maryland,24,,
+TROH,United States,Massachusetts,25,,
+TROH,United States,Massachusetts,25,Barnstable,001
+TROH,United States,Massachusetts,25,Berkshire,003
+TROH,United States,Massachusetts,25,Bristol,005
+TROH,United States,Massachusetts,25,Franklin,011
+TROH,United States,Massachusetts,25,Hampden,013
+TROH,United States,Massachusetts,25,Hampshire,015
+TROH,United States,Massachusetts,25,Middlesex,017
+TROH,United States,Massachusetts,25,Norfolk,021
+TROH,United States,Massachusetts,25,Worcester,027
+TROH,United States,Michigan,26,,
+TROH,United States,Michigan,26,Allegan,005
+TROH,United States,Michigan,26,Barry,015
+TROH,United States,Michigan,26,Berrien,021
+TROH,United States,Michigan,26,Branch,023
+TROH,United States,Michigan,26,Calhoun,025
+TROH,United States,Michigan,26,Cass,027
+TROH,United States,Michigan,26,Cheboygan,031
+TROH,United States,Michigan,26,Eaton,045
+TROH,United States,Michigan,26,Hillsdale,059
+TROH,United States,Michigan,26,Ingham,065
+TROH,United States,Michigan,26,Jackson,075
+TROH,United States,Michigan,26,Kalamazoo,077
+TROH,United States,Michigan,26,Kent,081
+TROH,United States,Michigan,26,Leelanau,089
+TROH,United States,Michigan,26,Lenawee,091
+TROH,United States,Michigan,26,Livingston,093
+TROH,United States,Michigan,26,Monroe,115
+TROH,United States,Michigan,26,Muskegon,121
+TROH,United States,Michigan,26,Newaygo,123
+TROH,United States,Michigan,26,Ottawa,139
+TROH,United States,Michigan,26,St. Clair,147
+TROH,United States,Michigan,26,St. Joseph,149
+TROH,United States,Michigan,26,Van Buren,159
+TROH,United States,Michigan,26,Washtenaw,161
+TROH,United States,Michigan,26,Wayne,163
+TROH,United States,Minnesota,27,,
+TROH,United States,Minnesota,27,Fillmore,045
+TROH,United States,Minnesota,27,Houston,055
+TROH,United States,Minnesota,27,Wabasha,157
+TROH,United States,Minnesota,27,Winona,169
+TROH,United States,Mississippi,28,,
+TROH,United States,Mississippi,28,Alcorn,003
+TROH,United States,Mississippi,28,Amite,005
+TROH,United States,Mississippi,28,Carroll,015
+TROH,United States,Mississippi,28,Clarke,023
+TROH,United States,Mississippi,28,Clay,025
+TROH,United States,Mississippi,28,Forrest,035
+TROH,United States,Mississippi,28,Franklin,037
+TROH,United States,Mississippi,28,Harrison,047
+TROH,United States,Mississippi,28,Hinds,049
+TROH,United States,Mississippi,28,Jackson,059
+TROH,United States,Mississippi,28,Jasper,061
+TROH,United States,Mississippi,28,Lafayette,071
+TROH,United States,Mississippi,28,Lamar,073
+TROH,United States,Mississippi,28,Lauderdale,075
+TROH,United States,Mississippi,28,Leake,079
+TROH,United States,Mississippi,28,Lee,081
+TROH,United States,Mississippi,28,Madison,089
+TROH,United States,Mississippi,28,Pearl River,109
+TROH,United States,Mississippi,28,Pontotoc,115
+TROH,United States,Mississippi,28,Quitman,119
+TROH,United States,Mississippi,28,Rankin,121
+TROH,United States,Mississippi,28,Scott,123
+TROH,United States,Mississippi,28,Tishomingo,141
+TROH,United States,Mississippi,28,Washington,151
+TROH,United States,Mississippi,28,Winston,159
+TROH,United States,Missouri,29,,
+TROH,United States,Missouri,29,Adair,001
+TROH,United States,Missouri,29,Audrain,007
+TROH,United States,Missouri,29,Barry,009
+TROH,United States,Missouri,29,Barton,011
+TROH,United States,Missouri,29,Bates,013
+TROH,United States,Missouri,29,Benton,015
+TROH,United States,Missouri,29,Boone,019
+TROH,United States,Missouri,29,Callaway,027
+TROH,United States,Missouri,29,Carter,035
+TROH,United States,Missouri,29,Cass,037
+TROH,United States,Missouri,29,Cedar,039
+TROH,United States,Missouri,29,Christian,043
+TROH,United States,Missouri,29,Clark,045
+TROH,United States,Missouri,29,Crawford,055
+TROH,United States,Missouri,29,Dade,057
+TROH,United States,Missouri,29,Dallas,059
+TROH,United States,Missouri,29,Dent,065
+TROH,United States,Missouri,29,Douglas,067
+TROH,United States,Missouri,29,Dunklin,069
+TROH,United States,Missouri,29,Franklin,071
+TROH,United States,Missouri,29,Greene,077
+TROH,United States,Missouri,29,Henry,083
+TROH,United States,Missouri,29,Howard,089
+TROH,United States,Missouri,29,Howell,091
+TROH,United States,Missouri,29,Iron,093
+TROH,United States,Missouri,29,Jackson,095
+TROH,United States,Missouri,29,Jasper,097
+TROH,United States,Missouri,29,Jefferson,099
+TROH,United States,Missouri,29,Johnson,101
+TROH,United States,Missouri,29,Laclede,105
+TROH,United States,Missouri,29,Lafayette,107
+TROH,United States,Missouri,29,Lawrence,109
+TROH,United States,Missouri,29,Macon,121
+TROH,United States,Missouri,29,McDonald,119
+TROH,United States,Missouri,29,Mississippi,133
+TROH,United States,Missouri,29,Monroe,137
+TROH,United States,Missouri,29,Montgomery,139
+TROH,United States,Missouri,29,New Madrid,143
+TROH,United States,Missouri,29,Nodaway,147
+TROH,United States,Missouri,29,Oregon,149
+TROH,United States,Missouri,29,Ozark,153
+TROH,United States,Missouri,29,Pettis,159
+TROH,United States,Missouri,29,Phelps,161
+TROH,United States,Missouri,29,Pike,163
+TROH,United States,Missouri,29,Platte,165
+TROH,United States,Missouri,29,Polk,167
+TROH,United States,Missouri,29,Pulaski,169
+TROH,United States,Missouri,29,Ralls,173
+TROH,United States,Missouri,29,Randolph,175
+TROH,United States,Missouri,29,Reynolds,179
+TROH,United States,Missouri,29,Schuyler,197
+TROH,United States,Missouri,29,Scott,201
+TROH,United States,Missouri,29,Shannon,203
+TROH,United States,Missouri,29,St. Charles,183
+TROH,United States,Missouri,29,St. Clair,185
+TROH,United States,Missouri,29,St. Louis,189
+TROH,United States,Missouri,29,Ste. Genevieve,186
+TROH,United States,Missouri,29,Sullivan,211
+TROH,United States,Missouri,29,Texas,215
+TROH,United States,Missouri,29,Vernon,217
+TROH,United States,Missouri,29,Warren,219
+TROH,United States,Missouri,29,Wayne,223
+TROH,United States,Missouri,29,Webster,225
+TROH,United States,Nebraska,31,,
+TROH,United States,Nebraska,31,Buffalo,019
+TROH,United States,Nebraska,31,Butler,023
+TROH,United States,Nebraska,31,Cass,025
+TROH,United States,Nebraska,31,Dodge,053
+TROH,United States,Nebraska,31,Douglas,055
+TROH,United States,Nebraska,31,Jefferson,095
+TROH,United States,Nebraska,31,Lancaster,109
+TROH,United States,Nebraska,31,Sarpy,153
+TROH,United States,New Hampshire,33,,
+TROH,United States,New Hampshire,33,Merrimack,013
+TROH,United States,New Jersey,34,,
+TROH,United States,New Jersey,34,Camden,007
+TROH,United States,New Jersey,34,Cumberland,011
+TROH,United States,New Jersey,34,Hunterdon,019
+TROH,United States,New Jersey,34,Mercer,021
+TROH,United States,New Jersey,34,Monmouth,025
+TROH,United States,New York,36,,
+TROH,United States,New York,36,Albany,001
+TROH,United States,New York,36,Bronx,005
+TROH,United States,New York,36,Dutchess,027
+TROH,United States,New York,36,Jefferson,045
+TROH,United States,New York,36,Kings,047
+TROH,United States,New York,36,Nassau,059
+TROH,United States,New York,36,New York,061
+TROH,United States,New York,36,Oneida,065
+TROH,United States,New York,36,Queens,081
+TROH,United States,New York,36,Richmond,085
+TROH,United States,New York,36,Rockland,087
+TROH,United States,New York,36,Saratoga,091
+TROH,United States,New York,36,Schenectady,093
+TROH,United States,New York,36,Suffolk,103
+TROH,United States,New York,36,Ulster,111
+TROH,United States,New York,36,Warren,113
+TROH,United States,North Carolina,37,,
+TROH,United States,North Carolina,37,Alexander,003
+TROH,United States,North Carolina,37,Alleghany,005
+TROH,United States,North Carolina,37,Anson,007
+TROH,United States,North Carolina,37,Ashe,009
+TROH,United States,North Carolina,37,Beaufort,013
+TROH,United States,North Carolina,37,Brunswick,019
+TROH,United States,North Carolina,37,Buncombe,021
+TROH,United States,North Carolina,37,Burke,023
+TROH,United States,North Carolina,37,Carteret,031
+TROH,United States,North Carolina,37,Catawba,035
+TROH,United States,North Carolina,37,Cherokee,039
+TROH,United States,North Carolina,37,Cleveland,045
+TROH,United States,North Carolina,37,Columbus,047
+TROH,United States,North Carolina,37,Davidson,057
+TROH,United States,North Carolina,37,Duplin,061
+TROH,United States,North Carolina,37,Greene,079
+TROH,United States,North Carolina,37,Guilford,081
+TROH,United States,North Carolina,37,Haywood,087
+TROH,United States,North Carolina,37,Hyde,095
+TROH,United States,North Carolina,37,Iredell,097
+TROH,United States,North Carolina,37,Macon,113
+TROH,United States,North Carolina,37,Madison,115
+TROH,United States,North Carolina,37,Mecklenburg,119
+TROH,United States,North Carolina,37,Moore,125
+TROH,United States,North Carolina,37,New Hanover,129
+TROH,United States,North Carolina,37,Onslow,133
+TROH,United States,North Carolina,37,Orange,135
+TROH,United States,North Carolina,37,Pitt,147
+TROH,United States,North Carolina,37,Randolph,151
+TROH,United States,North Carolina,37,Rockingham,157
+TROH,United States,North Carolina,37,Rowan,159
+TROH,United States,North Carolina,37,Rutherford,161
+TROH,United States,North Carolina,37,Sampson,163
+TROH,United States,North Carolina,37,Surry,171
+TROH,United States,North Carolina,37,Swain,173
+TROH,United States,North Carolina,37,Wilkes,193
+TROH,United States,North Carolina,37,Yancey,199
+TROH,United States,Ohio,39,,
+TROH,United States,Ohio,39,Ashland,005
+TROH,United States,Ohio,39,Ashtabula,007
+TROH,United States,Ohio,39,Auglaize,011
+TROH,United States,Ohio,39,Belmont,013
+TROH,United States,Ohio,39,Carroll,019
+TROH,United States,Ohio,39,Champaign,021
+TROH,United States,Ohio,39,Clark,023
+TROH,United States,Ohio,39,Clermont,025
+TROH,United States,Ohio,39,Columbiana,029
+TROH,United States,Ohio,39,Coshocton,031
+TROH,United States,Ohio,39,Crawford,033
+TROH,United States,Ohio,39,Cuyahoga,035
+TROH,United States,Ohio,39,Erie,043
+TROH,United States,Ohio,39,Fairfield,045
+TROH,United States,Ohio,39,Fayette,047
+TROH,United States,Ohio,39,Franklin,049
+TROH,United States,Ohio,39,Gallia,053
+TROH,United States,Ohio,39,Geauga,055
+TROH,United States,Ohio,39,Highland,071
+TROH,United States,Ohio,39,Hocking,073
+TROH,United States,Ohio,39,Holmes,075
+TROH,United States,Ohio,39,Huron,077
+TROH,United States,Ohio,39,Jackson,079
+TROH,United States,Ohio,39,Licking,089
+TROH,United States,Ohio,39,Lorain,093
+TROH,United States,Ohio,39,Marion,101
+TROH,United States,Ohio,39,Meigs,105
+TROH,United States,Ohio,39,Mercer,107
+TROH,United States,Ohio,39,Muskingum,119
+TROH,United States,Ohio,39,Ottawa,123
+TROH,United States,Ohio,39,Portage,133
+TROH,United States,Ohio,39,Richland,139
+TROH,United States,Ohio,39,Ross,141
+TROH,United States,Ohio,39,Sandusky,143
+TROH,United States,Ohio,39,Seneca,147
+TROH,United States,Ohio,39,Stark,151
+TROH,United States,Ohio,39,Summit,153
+TROH,United States,Ohio,39,Tuscarawas,157
+TROH,United States,Ohio,39,Wayne,169
+TROH,United States,Ohio,39,Wood,173
+TROH,United States,Ohio,39,Wyandot,175
+TROH,United States,Oklahoma,40,,
+TROH,United States,Oklahoma,40,Adair,001
+TROH,United States,Oklahoma,40,Atoka,005
+TROH,United States,Oklahoma,40,Beckham,009
+TROH,United States,Oklahoma,40,Bryan,013
+TROH,United States,Oklahoma,40,Caddo,015
+TROH,United States,Oklahoma,40,Carter,019
+TROH,United States,Oklahoma,40,Cherokee,021
+TROH,United States,Oklahoma,40,Choctaw,023
+TROH,United States,Oklahoma,40,Cimarron,025
+TROH,United States,Oklahoma,40,Cleveland,027
+TROH,United States,Oklahoma,40,Comanche,031
+TROH,United States,Oklahoma,40,Creek,037
+TROH,United States,Oklahoma,40,Delaware,041
+TROH,United States,Oklahoma,40,Grady,051
+TROH,United States,Oklahoma,40,Greer,055
+TROH,United States,Oklahoma,40,Johnston,069
+TROH,United States,Oklahoma,40,Kingfisher,073
+TROH,United States,Oklahoma,40,Kiowa,075
+TROH,United States,Oklahoma,40,Latimer,077
+TROH,United States,Oklahoma,40,Le Flore,079
+TROH,United States,Oklahoma,40,Marshall,095
+TROH,United States,Oklahoma,40,Mayes,097
+TROH,United States,Oklahoma,40,McClain,087
+TROH,United States,Oklahoma,40,McCurtain,089
+TROH,United States,Oklahoma,40,McIntosh,091
+TROH,United States,Oklahoma,40,Murray,099
+TROH,United States,Oklahoma,40,Muskogee,101
+TROH,United States,Oklahoma,40,Okfuskee,107
+TROH,United States,Oklahoma,40,Oklahoma,109
+TROH,United States,Oklahoma,40,Osage,113
+TROH,United States,Oklahoma,40,Ottawa,115
+TROH,United States,Oklahoma,40,Payne,119
+TROH,United States,Oklahoma,40,Pittsburg,121
+TROH,United States,Oklahoma,40,Pontotoc,123
+TROH,United States,Oklahoma,40,Roger Mills,129
+TROH,United States,Oklahoma,40,Rogers,131
+TROH,United States,Oklahoma,40,Tulsa,143
+TROH,United States,Oklahoma,40,Wagoner,145
+TROH,United States,Pennsylvania,42,,
+TROH,United States,Pennsylvania,42,Allegheny,003
+TROH,United States,Pennsylvania,42,Berks,011
+TROH,United States,Pennsylvania,42,Bucks,017
+TROH,United States,Pennsylvania,42,Butler,019
+TROH,United States,Pennsylvania,42,Carbon,025
+TROH,United States,Pennsylvania,42,Delaware,045
+TROH,United States,Pennsylvania,42,Forest,053
+TROH,United States,Pennsylvania,42,Lawrence,073
+TROH,United States,Pennsylvania,42,Montgomery,091
+TROH,United States,Pennsylvania,42,Northampton,095
+TROH,United States,Pennsylvania,42,Philadelphia,101
+TROH,United States,Pennsylvania,42,Venango,121
+TROH,United States,Pennsylvania,42,Westmoreland,129
+TROH,United States,Rhode Island,44,,
+TROH,United States,Rhode Island,44,Kent,003
+TROH,United States,South Carolina,45,,
+TROH,United States,South Carolina,45,Aiken,003
+TROH,United States,South Carolina,45,Bamberg,009
+TROH,United States,South Carolina,45,Beaufort,013
+TROH,United States,South Carolina,45,Berkeley,015
+TROH,United States,South Carolina,45,Charleston,019
+TROH,United States,South Carolina,45,Dorchester,035
+TROH,United States,South Carolina,45,Georgetown,043
+TROH,United States,South Carolina,45,Horry,051
+TROH,United States,South Carolina,45,Lancaster,057
+TROH,United States,South Carolina,45,McCormick,065
+TROH,United States,Tennessee,47,,
+TROH,United States,Tennessee,47,Coffee,031
+TROH,United States,Tennessee,47,Davidson,037
+TROH,United States,Tennessee,47,Fayette,047
+TROH,United States,Tennessee,47,Franklin,051
+TROH,United States,Tennessee,47,Hardin,071
+TROH,United States,Tennessee,47,Haywood,075
+TROH,United States,Tennessee,47,Houston,083
+TROH,United States,Tennessee,47,Madison,113
+TROH,United States,Tennessee,47,McNairy,109
+TROH,United States,Tennessee,47,Montgomery,125
+TROH,United States,Tennessee,47,Scott,151
+TROH,United States,Tennessee,47,Shelby,157
+TROH,United States,Texas,48,,
+TROH,United States,Texas,48,Angelina,005
+TROH,United States,Texas,48,Bastrop,021
+TROH,United States,Texas,48,Bell,027
+TROH,United States,Texas,48,Bosque,035
+TROH,United States,Texas,48,Bowie,037
+TROH,United States,Texas,48,Brazoria,039
+TROH,United States,Texas,48,Brazos,041
+TROH,United States,Texas,48,Brown,049
+TROH,United States,Texas,48,Burleson,051
+TROH,United States,Texas,48,Caldwell,055
+TROH,United States,Texas,48,Chambers,071
+TROH,United States,Texas,48,Collin,085
+TROH,United States,Texas,48,Cooke,097
+TROH,United States,Texas,48,Coryell,099
+TROH,United States,Texas,48,Crane,103
+TROH,United States,Texas,48,Dallas,113
+TROH,United States,Texas,48,Denton,121
+TROH,United States,Texas,48,DeWitt,123
+TROH,United States,Texas,48,Eastland,133
+TROH,United States,Texas,48,El Paso,141
+TROH,United States,Texas,48,Ellis,139
+TROH,United States,Texas,48,Fannin,147
+TROH,United States,Texas,48,Fayette,149
+TROH,United States,Texas,48,Galveston,167
+TROH,United States,Texas,48,Gillespie,171
+TROH,United States,Texas,48,Gonzales,177
+TROH,United States,Texas,48,Grayson,181
+TROH,United States,Texas,48,Hunt,231
+TROH,United States,Texas,48,Jasper,241
+TROH,United States,Texas,48,Jeff Davis,243
+TROH,United States,Texas,48,Jefferson,245
+TROH,United States,Texas,48,Karnes,255
+TROH,United States,Texas,48,Kaufman,257
+TROH,United States,Texas,48,Kleberg,273
+TROH,United States,Texas,48,Lamar,277
+TROH,United States,Texas,48,Lee,287
+TROH,United States,Texas,48,Llano,299
+TROH,United States,Texas,48,Madison,313
+TROH,United States,Texas,48,Marion,315
+TROH,United States,Texas,48,Mason,319
+TROH,United States,Texas,48,McLennan,309
+TROH,United States,Texas,48,Mitchell,335
+TROH,United States,Texas,48,Montague,337
+TROH,United States,Texas,48,Navarro,349
+TROH,United States,Texas,48,Nueces,355
+TROH,United States,Texas,48,Orange,361
+TROH,United States,Texas,48,Parker,367
+TROH,United States,Texas,48,Presidio,377
+TROH,United States,Texas,48,Real,385
+TROH,United States,Texas,48,Robertson,395
+TROH,United States,Texas,48,San Patricio,409
+TROH,United States,Texas,48,Smith,423
+TROH,United States,Texas,48,Tarrant,439
+TROH,United States,Texas,48,Travis,453
+TROH,United States,Texas,48,Trinity,455
+TROH,United States,Texas,48,Tyler,457
+TROH,United States,Texas,48,Upshur,459
+TROH,United States,Texas,48,Val Verde,465
+TROH,United States,Texas,48,Van Zandt,467
+TROH,United States,Texas,48,Victoria,469
+TROH,United States,Texas,48,Washington,477
+TROH,United States,Texas,48,Williamson,491
+TROH,United States,Texas,48,Wilson,493
+TROH,United States,Texas,48,Winkler,495
+TROH,United States,Virginia,51,,
+TROH,United States,Virginia,51,Accomack,001
+TROH,United States,Virginia,51,Amherst,009
+TROH,United States,Virginia,51,Arlington,013
+TROH,United States,Virginia,51,Bedford,019
+TROH,United States,Virginia,51,Campbell,031
+TROH,United States,Virginia,51,Carroll,035
+TROH,United States,Virginia,51,Fairfax,059
+TROH,United States,Virginia,51,Floyd,063
+TROH,United States,Virginia,51,Franklin,067
+TROH,United States,Virginia,51,Giles,071
+TROH,United States,Virginia,51,Grayson,077
+TROH,United States,Virginia,51,Lee,105
+TROH,United States,Virginia,51,Montgomery,121
+TROH,United States,Virginia,51,Nelson,125
+TROH,United States,Virginia,51,Nottoway,135
+TROH,United States,Virginia,51,Page,139
+TROH,United States,Virginia,51,Patrick,141
+TROH,United States,Virginia,51,Pittsylvania,143
+TROH,United States,Virginia,51,Prince George,149
+TROH,United States,Virginia,51,Pulaski,155
+TROH,United States,Virginia,51,Rockbridge,163
+TROH,United States,Virginia,51,Smyth,173
+TROH,United States,Virginia,51,Stafford,179
+TROH,United States,Virginia,51,Sussex,183
+TROH,United States,Virginia,51,Virginia Beach ,810
+TROH,United States,Virginia,51,Wythe,197
+TROH,United States,West Virginia,54,,
+TROH,United States,West Virginia,54,Fayette,019
+TROH,United States,West Virginia,54,Greenbrier,025
+TROH,United States,West Virginia,54,Kanawha,039
+TROH,United States,West Virginia,54,Mercer,055
+TROH,United States,West Virginia,54,Raleigh,081
+TROH,United States,West Virginia,54,Summers,089
+TROH,United States,West Virginia,54,Upshur,097
+TROH,United States,Wisconsin,55,,
+TROH,United States,Wisconsin,55,Adams,001
+TROH,United States,Wisconsin,55,Barron,005
+TROH,United States,Wisconsin,55,Bayfield,007
+TROH,United States,Wisconsin,55,Brown,009
+TROH,United States,Wisconsin,55,Buffalo,011
+TROH,United States,Wisconsin,55,Chippewa,017
+TROH,United States,Wisconsin,55,Clark,019
+TROH,United States,Wisconsin,55,Columbia,021
+TROH,United States,Wisconsin,55,Crawford,023
+TROH,United States,Wisconsin,55,Dane,025
+TROH,United States,Wisconsin,55,Dodge,027
+TROH,United States,Wisconsin,55,Dunn,033
+TROH,United States,Wisconsin,55,Eau Claire,035
+TROH,United States,Wisconsin,55,Fond du Lac,039
+TROH,United States,Wisconsin,55,Grant,043
+TROH,United States,Wisconsin,55,Green,045
+TROH,United States,Wisconsin,55,Green Lake,047
+TROH,United States,Wisconsin,55,Iowa,049
+TROH,United States,Wisconsin,55,Jackson,053
+TROH,United States,Wisconsin,55,Jefferson,055
+TROH,United States,Wisconsin,55,Kenosha,059
+TROH,United States,Wisconsin,55,La Crosse,063
+TROH,United States,Wisconsin,55,Lafayette,065
+TROH,United States,Wisconsin,55,Lincoln,069
+TROH,United States,Wisconsin,55,Marathon,073
+TROH,United States,Wisconsin,55,Marquette,077
+TROH,United States,Wisconsin,55,Menominee,078
+TROH,United States,Wisconsin,55,Milwaukee,079
+TROH,United States,Wisconsin,55,Monroe,081
+TROH,United States,Wisconsin,55,Oneida,085
+TROH,United States,Wisconsin,55,Pepin,091
+TROH,United States,Wisconsin,55,Pierce,093
+TROH,United States,Wisconsin,55,Polk,095
+TROH,United States,Wisconsin,55,Portage,097
+TROH,United States,Wisconsin,55,Racine,101
+TROH,United States,Wisconsin,55,Richland,103
+TROH,United States,Wisconsin,55,Rock,105
+TROH,United States,Wisconsin,55,Sauk,111
+TROH,United States,Wisconsin,55,St. Croix,109
+TROH,United States,Wisconsin,55,Taylor,119
+TROH,United States,Wisconsin,55,Trempealeau,121
+TROH,United States,Wisconsin,55,Vernon,123
+TROH,United States,Wisconsin,55,Walworth,127
+TROH,United States,Wisconsin,55,Waukesha,133
+TROH,United States,Wisconsin,55,Waushara,137
+TROH,United States,Wisconsin,55,Wood,141

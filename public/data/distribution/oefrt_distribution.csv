@@ -1,0 +1,296 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+OEFRT,United States,Alabama,01,,
+OEFRT,United States,Alabama,01,Calhoun,015
+OEFRT,United States,Alabama,01,Dallas,047
+OEFRT,United States,Alabama,01,Hale,065
+OEFRT,Canada,Manitoba,03,,
+OEFRT,Canada,New Brunswick,04,,
+OEFRT,Canada,Nova Scotia,07,,
+OEFRT,Canada,Ontario,08,,
+OEFRT,United States,Connecticut,09,,
+OEFRT,United States,Connecticut,09,Fairfield,001
+OEFRT,Canada,Quebec,10,,
+OEFRT,United States,Delaware,10,,
+OEFRT,United States,Delaware,10,New Castle,003
+OEFRT,United States,District of Columbia,11,,
+OEFRT,United States,District of Columbia,11,District of Columbia,001
+OEFRT,United States,Georgia,13,,
+OEFRT,United States,Illinois,17,,
+OEFRT,United States,Illinois,17,Johnson,087
+OEFRT,United States,Illinois,17,Pope,151
+OEFRT,United States,Illinois,17,Pulaski,153
+OEFRT,United States,Illinois,17,Saline,165
+OEFRT,United States,Illinois,17,Williamson,199
+OEFRT,United States,Indiana,18,,
+OEFRT,United States,Indiana,18,Vigo,167
+OEFRT,United States,Kentucky,21,,
+OEFRT,United States,Kentucky,21,Adair,001
+OEFRT,United States,Kentucky,21,Bath,011
+OEFRT,United States,Kentucky,21,Breathitt,025
+OEFRT,United States,Kentucky,21,Breckinridge,027
+OEFRT,United States,Kentucky,21,Carter,043
+OEFRT,United States,Kentucky,21,Edmonson,061
+OEFRT,United States,Kentucky,21,Estill,065
+OEFRT,United States,Kentucky,21,Fayette,067
+OEFRT,United States,Kentucky,21,Fleming,069
+OEFRT,United States,Kentucky,21,Floyd,071
+OEFRT,United States,Kentucky,21,Greenup,089
+OEFRT,United States,Kentucky,21,Hardin,093
+OEFRT,United States,Kentucky,21,Lewis,135
+OEFRT,United States,Kentucky,21,Lincoln,137
+OEFRT,United States,Kentucky,21,Madison,151
+OEFRT,United States,Kentucky,21,McCracken,145
+OEFRT,United States,Kentucky,21,McCreary,147
+OEFRT,United States,Kentucky,21,Powell,197
+OEFRT,United States,Kentucky,21,Rockcastle,203
+OEFRT,United States,Kentucky,21,Rowan,205
+OEFRT,United States,Kentucky,21,Wayne,231
+OEFRT,United States,Kentucky,21,Whitley,235
+OEFRT,United States,Kentucky,21,Wolfe,237
+OEFRT,United States,Louisiana,22,,
+OEFRT,United States,Louisiana,22,St. Helena,091
+OEFRT,United States,Louisiana,22,St. Tammany,103
+OEFRT,United States,Louisiana,22,Tangipahoa,105
+OEFRT,United States,Louisiana,22,Washington,117
+OEFRT,United States,Maine,23,,
+OEFRT,United States,Maine,23,Hancock,009
+OEFRT,United States,Maine,23,Penobscot,019
+OEFRT,United States,Maine,23,Washington,029
+OEFRT,United States,Maryland,24,,
+OEFRT,United States,Massachusetts,25,,
+OEFRT,United States,Massachusetts,25,Nantucket,019
+OEFRT,United States,Michigan,26,,
+OEFRT,United States,Michigan,26,Barry,015
+OEFRT,United States,Michigan,26,Berrien,021
+OEFRT,United States,Michigan,26,Calhoun,025
+OEFRT,United States,Michigan,26,Hillsdale,059
+OEFRT,United States,Michigan,26,Jackson,075
+OEFRT,United States,Michigan,26,Kalamazoo,077
+OEFRT,United States,Michigan,26,Kent,081
+OEFRT,United States,Michigan,26,Keweenaw,083
+OEFRT,United States,Michigan,26,Livingston,093
+OEFRT,United States,Michigan,26,Marquette,103
+OEFRT,United States,Michigan,26,Muskegon,121
+OEFRT,United States,Michigan,26,Oakland,125
+OEFRT,United States,Michigan,26,Van Buren,159
+OEFRT,United States,Michigan,26,Washtenaw,161
+OEFRT,United States,Missouri,29,,
+OEFRT,United States,Missouri,29,Henry,083
+OEFRT,United States,New Hampshire,33,,
+OEFRT,United States,New Jersey,34,,
+OEFRT,United States,New Jersey,34,Camden,007
+OEFRT,United States,New Jersey,34,Essex,013
+OEFRT,United States,New Jersey,34,Hudson,017
+OEFRT,United States,New Jersey,34,Hunterdon,019
+OEFRT,United States,New Jersey,34,Mercer,021
+OEFRT,United States,New Jersey,34,Middlesex,023
+OEFRT,United States,New Jersey,34,Morris,027
+OEFRT,United States,New Jersey,34,Passaic,031
+OEFRT,United States,New Jersey,34,Somerset,035
+OEFRT,United States,New Jersey,34,Sussex,037
+OEFRT,United States,New Jersey,34,Union,039
+OEFRT,United States,New Jersey,34,Warren,041
+OEFRT,United States,New York,36,,
+OEFRT,United States,New York,36,Bronx,005
+OEFRT,United States,New York,36,Cattaraugus,009
+OEFRT,United States,New York,36,Chemung,015
+OEFRT,United States,New York,36,Erie,029
+OEFRT,United States,New York,36,Essex,031
+OEFRT,United States,New York,36,Nassau,059
+OEFRT,United States,New York,36,Queens,081
+OEFRT,United States,New York,36,Richmond,085
+OEFRT,United States,New York,36,Saratoga,091
+OEFRT,United States,New York,36,Schenectady,093
+OEFRT,United States,New York,36,Suffolk,103
+OEFRT,United States,New York,36,Ulster,111
+OEFRT,United States,New York,36,Washington,115
+OEFRT,United States,New York,36,Westchester,119
+OEFRT,United States,North Carolina,37,,
+OEFRT,United States,North Carolina,37,Ashe,009
+OEFRT,United States,North Carolina,37,Avery,011
+OEFRT,United States,North Carolina,37,Buncombe,021
+OEFRT,United States,North Carolina,37,Burke,023
+OEFRT,United States,North Carolina,37,Caldwell,027
+OEFRT,United States,North Carolina,37,Forsyth,067
+OEFRT,United States,North Carolina,37,Gaston,071
+OEFRT,United States,North Carolina,37,Graham,075
+OEFRT,United States,North Carolina,37,Haywood,087
+OEFRT,United States,North Carolina,37,Henderson,089
+OEFRT,United States,North Carolina,37,Iredell,097
+OEFRT,United States,North Carolina,37,Jackson,099
+OEFRT,United States,North Carolina,37,Macon,113
+OEFRT,United States,North Carolina,37,McDowell,111
+OEFRT,United States,North Carolina,37,Mitchell,121
+OEFRT,United States,North Carolina,37,New Hanover,129
+OEFRT,United States,North Carolina,37,Polk,149
+OEFRT,United States,North Carolina,37,Rutherford,161
+OEFRT,United States,North Carolina,37,Stokes,169
+OEFRT,United States,North Carolina,37,Surry,171
+OEFRT,United States,North Carolina,37,Swain,173
+OEFRT,United States,North Carolina,37,Transylvania,175
+OEFRT,United States,North Carolina,37,Wake,183
+OEFRT,United States,North Carolina,37,Watauga,189
+OEFRT,United States,North Carolina,37,Yancey,199
+OEFRT,United States,Ohio,39,,
+OEFRT,United States,Ohio,39,Ashland,005
+OEFRT,United States,Ohio,39,Ashtabula,007
+OEFRT,United States,Ohio,39,Belmont,013
+OEFRT,United States,Ohio,39,Carroll,019
+OEFRT,United States,Ohio,39,Columbiana,029
+OEFRT,United States,Ohio,39,Coshocton,031
+OEFRT,United States,Ohio,39,Crawford,033
+OEFRT,United States,Ohio,39,Cuyahoga,035
+OEFRT,United States,Ohio,39,Delaware,041
+OEFRT,United States,Ohio,39,Erie,043
+OEFRT,United States,Ohio,39,Fairfield,045
+OEFRT,United States,Ohio,39,Gallia,053
+OEFRT,United States,Ohio,39,Geauga,055
+OEFRT,United States,Ohio,39,Guernsey,059
+OEFRT,United States,Ohio,39,Hamilton,061
+OEFRT,United States,Ohio,39,Harrison,067
+OEFRT,United States,Ohio,39,Holmes,075
+OEFRT,United States,Ohio,39,Huron,077
+OEFRT,United States,Ohio,39,Jackson,079
+OEFRT,United States,Ohio,39,Jefferson,081
+OEFRT,United States,Ohio,39,Lawrence,087
+OEFRT,United States,Ohio,39,Mahoning,099
+OEFRT,United States,Ohio,39,Marion,101
+OEFRT,United States,Ohio,39,Morgan,115
+OEFRT,United States,Ohio,39,Muskingum,119
+OEFRT,United States,Ohio,39,Pike,131
+OEFRT,United States,Ohio,39,Portage,133
+OEFRT,United States,Ohio,39,Ross,141
+OEFRT,United States,Ohio,39,Stark,151
+OEFRT,United States,Ohio,39,Summit,153
+OEFRT,United States,Ohio,39,Trumbull,155
+OEFRT,United States,Ohio,39,Tuscarawas,157
+OEFRT,United States,Ohio,39,Washington,167
+OEFRT,United States,Ohio,39,Wayne,169
+OEFRT,United States,Ohio,39,Wyandot,175
+OEFRT,United States,Pennsylvania,42,,
+OEFRT,United States,Pennsylvania,42,Adams,001
+OEFRT,United States,Pennsylvania,42,Allegheny,003
+OEFRT,United States,Pennsylvania,42,Armstrong,005
+OEFRT,United States,Pennsylvania,42,Beaver,007
+OEFRT,United States,Pennsylvania,42,Bedford,009
+OEFRT,United States,Pennsylvania,42,Berks,011
+OEFRT,United States,Pennsylvania,42,Blair,013
+OEFRT,United States,Pennsylvania,42,Bucks,017
+OEFRT,United States,Pennsylvania,42,Butler,019
+OEFRT,United States,Pennsylvania,42,Cambria,021
+OEFRT,United States,Pennsylvania,42,Cameron,023
+OEFRT,United States,Pennsylvania,42,Centre,027
+OEFRT,United States,Pennsylvania,42,Chester,029
+OEFRT,United States,Pennsylvania,42,Clearfield,033
+OEFRT,United States,Pennsylvania,42,Clinton,035
+OEFRT,United States,Pennsylvania,42,Crawford,039
+OEFRT,United States,Pennsylvania,42,Dauphin,043
+OEFRT,United States,Pennsylvania,42,Delaware,045
+OEFRT,United States,Pennsylvania,42,Fayette,051
+OEFRT,United States,Pennsylvania,42,Forest,053
+OEFRT,United States,Pennsylvania,42,Franklin,055
+OEFRT,United States,Pennsylvania,42,Fulton,057
+OEFRT,United States,Pennsylvania,42,Indiana,063
+OEFRT,United States,Pennsylvania,42,Lancaster,071
+OEFRT,United States,Pennsylvania,42,Lawrence,073
+OEFRT,United States,Pennsylvania,42,Lebanon,075
+OEFRT,United States,Pennsylvania,42,Lehigh,077
+OEFRT,United States,Pennsylvania,42,McKean,083
+OEFRT,United States,Pennsylvania,42,Mercer,085
+OEFRT,United States,Pennsylvania,42,Monroe,089
+OEFRT,United States,Pennsylvania,42,Montgomery,091
+OEFRT,United States,Pennsylvania,42,Montour,093
+OEFRT,United States,Pennsylvania,42,Northampton,095
+OEFRT,United States,Pennsylvania,42,Northumberland,097
+OEFRT,United States,Pennsylvania,42,Perry,099
+OEFRT,United States,Pennsylvania,42,Philadelphia,101
+OEFRT,United States,Pennsylvania,42,Pike,103
+OEFRT,United States,Pennsylvania,42,Potter,105
+OEFRT,United States,Pennsylvania,42,Schuylkill,107
+OEFRT,United States,Pennsylvania,42,Somerset,111
+OEFRT,United States,Pennsylvania,42,Venango,121
+OEFRT,United States,Pennsylvania,42,Warren,123
+OEFRT,United States,Pennsylvania,42,Washington,125
+OEFRT,United States,Pennsylvania,42,Westmoreland,129
+OEFRT,United States,Pennsylvania,42,York,133
+OEFRT,United States,Rhode Island,44,,
+OEFRT,United States,South Carolina,45,,
+OEFRT,United States,South Carolina,45,Aiken,003
+OEFRT,United States,South Carolina,45,Anderson,007
+OEFRT,United States,South Carolina,45,Beaufort,013
+OEFRT,United States,South Carolina,45,Greenville,045
+OEFRT,United States,South Carolina,45,Jasper,053
+OEFRT,United States,South Carolina,45,Lancaster,057
+OEFRT,United States,South Carolina,45,Oconee,073
+OEFRT,United States,South Carolina,45,Pickens,077
+OEFRT,United States,Tennessee,47,,
+OEFRT,United States,Tennessee,47,Bledsoe,007
+OEFRT,United States,Tennessee,47,Blount,009
+OEFRT,United States,Tennessee,47,Bradley,011
+OEFRT,United States,Tennessee,47,Campbell,013
+OEFRT,United States,Tennessee,47,Carter,019
+OEFRT,United States,Tennessee,47,Cocke,029
+OEFRT,United States,Tennessee,47,Cumberland,035
+OEFRT,United States,Tennessee,47,Dickson,043
+OEFRT,United States,Tennessee,47,Franklin,051
+OEFRT,United States,Tennessee,47,Grundy,061
+OEFRT,United States,Tennessee,47,Hamilton,065
+OEFRT,United States,Tennessee,47,Henry,079
+OEFRT,United States,Tennessee,47,Morgan,129
+OEFRT,United States,Tennessee,47,Polk,139
+OEFRT,United States,Tennessee,47,Scott,151
+OEFRT,United States,Tennessee,47,Unicoi,171
+OEFRT,United States,Virginia,51,,
+OEFRT,United States,Virginia,51,Albemarle,003
+OEFRT,United States,Virginia,51,Alleghany,005
+OEFRT,United States,Virginia,51,Amelia,007
+OEFRT,United States,Virginia,51,Appomattox,011
+OEFRT,United States,Virginia,51,Arlington,013
+OEFRT,United States,Virginia,51,Augusta,015
+OEFRT,United States,Virginia,51,Bath,017
+OEFRT,United States,Virginia,51,Bedford,019
+OEFRT,United States,Virginia,51,Botetourt,023
+OEFRT,United States,Virginia,51,Brunswick,025
+OEFRT,United States,Virginia,51,Buckingham,029
+OEFRT,United States,Virginia,51,Campbell,031
+OEFRT,United States,Virginia,51,Carroll,035
+OEFRT,United States,Virginia,51,Charlotte,037
+OEFRT,United States,Virginia,51,Chesterfield,041
+OEFRT,United States,Virginia,51,Clarke,043
+OEFRT,United States,Virginia,51,Craig,045
+OEFRT,United States,Virginia,51,Dickenson,051
+OEFRT,United States,Virginia,51,Dinwiddie,053
+OEFRT,United States,Virginia,51,Fairfax,059
+OEFRT,United States,Virginia,51,Floyd,063
+OEFRT,United States,Virginia,51,Franklin,067
+OEFRT,United States,Virginia,51,Frederick,069
+OEFRT,United States,Virginia,51,Giles,071
+OEFRT,United States,Virginia,51,Goochland,075
+OEFRT,United States,Virginia,51,Grayson,077
+OEFRT,United States,Virginia,51,Halifax,083
+OEFRT,United States,Virginia,51,Hanover,085
+OEFRT,United States,Virginia,51,Henrico,087
+OEFRT,United States,Virginia,51,Henry,089
+OEFRT,United States,Virginia,51,Highland,091
+OEFRT,United States,Virginia,51,Loudoun,107
+OEFRT,United States,Virginia,51,Lunenburg,111
+OEFRT,United States,Virginia,51,Mecklenburg,117
+OEFRT,United States,Virginia,51,Nelson,125
+OEFRT,United States,Virginia,51,Nottoway,135
+OEFRT,United States,Virginia,51,Page,139
+OEFRT,United States,Virginia,51,Patrick,141
+OEFRT,United States,Virginia,51,Pittsylvania,143
+OEFRT,United States,Virginia,51,Powhatan,145
+OEFRT,United States,Virginia,51,Prince William,153
+OEFRT,United States,Virginia,51,Roanoke,161
+OEFRT,United States,Virginia,51,Rockbridge,163
+OEFRT,United States,Virginia,51,Rockingham,165
+OEFRT,United States,Virginia,51,Russell,167
+OEFRT,United States,Virginia,51,Shenandoah,171
+OEFRT,United States,Virginia,51,Smyth,173
+OEFRT,United States,Virginia,51,Warren,187
+OEFRT,United States,West Virginia,54,,
+OEFRT,United States,West Virginia,54,Calhoun,013
+OEFRT,United States,West Virginia,54,Mingo,059
+OEFRT,United States,West Virginia,54,Wayne,099

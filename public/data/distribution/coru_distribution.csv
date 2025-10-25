@@ -1,0 +1,369 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+CORU,Canada,Manitoba,03,,
+CORU,Canada,New Brunswick,04,,
+CORU,Canada,Nova Scotia,07,,
+CORU,Canada,Ontario,08,,
+CORU,Canada,Prince Edward Island,09,,
+CORU,United States,Connecticut,09,,
+CORU,United States,Connecticut,09,Fairfield,001
+CORU,United States,Connecticut,09,Hartford,003
+CORU,United States,Connecticut,09,Litchfield,005
+CORU,United States,Connecticut,09,New Haven,009
+CORU,United States,Connecticut,09,New London,011
+CORU,United States,Connecticut,09,Tolland,013
+CORU,United States,Connecticut,09,Windham,015
+CORU,Canada,Quebec,10,,
+CORU,United States,Delaware,10,,
+CORU,United States,District of Columbia,11,,
+CORU,United States,District of Columbia,11,District of Columbia,001
+CORU,United States,Illinois,17,,
+CORU,United States,Illinois,17,Cook,031
+CORU,United States,Illinois,17,DeKalb,037
+CORU,United States,Illinois,17,Jo Daviess,085
+CORU,United States,Illinois,17,Kane,089
+CORU,United States,Illinois,17,Kankakee,091
+CORU,United States,Illinois,17,Lake,097
+CORU,United States,Illinois,17,LaSalle,099
+CORU,United States,Illinois,17,Lee,103
+CORU,United States,Illinois,17,Ogle,141
+CORU,United States,Illinois,17,Will,197
+CORU,United States,Illinois,17,Winnebago,201
+CORU,United States,Indiana,18,,
+CORU,United States,Indiana,18,Lagrange,087
+CORU,United States,Indiana,18,Lake,089
+CORU,United States,Indiana,18,LaPorte,091
+CORU,United States,Indiana,18,Montgomery,107
+CORU,United States,Indiana,18,Porter,127
+CORU,United States,Indiana,18,St. Joseph,141
+CORU,United States,Iowa,19,,
+CORU,United States,Kentucky,21,,
+CORU,United States,Kentucky,21,Rowan,205
+CORU,United States,Maine,23,,
+CORU,United States,Maine,23,Androscoggin,001
+CORU,United States,Maine,23,Aroostook,003
+CORU,United States,Maine,23,Cumberland,005
+CORU,United States,Maine,23,Franklin,007
+CORU,United States,Maine,23,Hancock,009
+CORU,United States,Maine,23,Kennebec,011
+CORU,United States,Maine,23,Knox,013
+CORU,United States,Maine,23,Lincoln,015
+CORU,United States,Maine,23,Oxford,017
+CORU,United States,Maine,23,Penobscot,019
+CORU,United States,Maine,23,Piscataquis,021
+CORU,United States,Maine,23,Sagadahoc,023
+CORU,United States,Maine,23,Somerset,025
+CORU,United States,Maine,23,Waldo,027
+CORU,United States,Maine,23,Washington,029
+CORU,United States,Maine,23,York,031
+CORU,United States,Maryland,24,,
+CORU,United States,Maryland,24,Allegany,001
+CORU,United States,Maryland,24,Frederick,021
+CORU,United States,Maryland,24,Garrett,023
+CORU,United States,Maryland,24,Washington,043
+CORU,United States,Massachusetts,25,,
+CORU,United States,Massachusetts,25,Berkshire,003
+CORU,United States,Massachusetts,25,Bristol,005
+CORU,United States,Massachusetts,25,Essex,009
+CORU,United States,Massachusetts,25,Franklin,011
+CORU,United States,Massachusetts,25,Hampden,013
+CORU,United States,Massachusetts,25,Hampshire,015
+CORU,United States,Massachusetts,25,Middlesex,017
+CORU,United States,Massachusetts,25,Norfolk,021
+CORU,United States,Massachusetts,25,Plymouth,023
+CORU,United States,Massachusetts,25,Suffolk,025
+CORU,United States,Massachusetts,25,Worcester,027
+CORU,United States,Michigan,26,,
+CORU,United States,Michigan,26,Alcona,001
+CORU,United States,Michigan,26,Alger,003
+CORU,United States,Michigan,26,Alpena,007
+CORU,United States,Michigan,26,Antrim,009
+CORU,United States,Michigan,26,Benzie,019
+CORU,United States,Michigan,26,Berrien,021
+CORU,United States,Michigan,26,Cass,027
+CORU,United States,Michigan,26,Charlevoix,029
+CORU,United States,Michigan,26,Cheboygan,031
+CORU,United States,Michigan,26,Chippewa,033
+CORU,United States,Michigan,26,Clare,035
+CORU,United States,Michigan,26,Clinton,037
+CORU,United States,Michigan,26,Crawford,039
+CORU,United States,Michigan,26,Delta,041
+CORU,United States,Michigan,26,Dickinson,043
+CORU,United States,Michigan,26,Emmet,047
+CORU,United States,Michigan,26,Genesee,049
+CORU,United States,Michigan,26,Grand Traverse,055
+CORU,United States,Michigan,26,Gratiot,057
+CORU,United States,Michigan,26,Houghton,061
+CORU,United States,Michigan,26,Huron,063
+CORU,United States,Michigan,26,Ionia,067
+CORU,United States,Michigan,26,Iosco,069
+CORU,United States,Michigan,26,Jackson,075
+CORU,United States,Michigan,26,Kalamazoo,077
+CORU,United States,Michigan,26,Kent,081
+CORU,United States,Michigan,26,Keweenaw,083
+CORU,United States,Michigan,26,Leelanau,089
+CORU,United States,Michigan,26,Mackinac,097
+CORU,United States,Michigan,26,Manistee,101
+CORU,United States,Michigan,26,Marquette,103
+CORU,United States,Michigan,26,Mason,105
+CORU,United States,Michigan,26,Menominee,109
+CORU,United States,Michigan,26,Montcalm,117
+CORU,United States,Michigan,26,Muskegon,121
+CORU,United States,Michigan,26,Oakland,125
+CORU,United States,Michigan,26,Oceana,127
+CORU,United States,Michigan,26,Ogemaw,129
+CORU,United States,Michigan,26,Ontonagon,131
+CORU,United States,Michigan,26,Oscoda,135
+CORU,United States,Michigan,26,Ottawa,139
+CORU,United States,Michigan,26,Presque Isle,141
+CORU,United States,Michigan,26,Roscommon,143
+CORU,United States,Michigan,26,Shiawassee,155
+CORU,United States,Michigan,26,St. Clair,147
+CORU,United States,Michigan,26,St. Joseph,149
+CORU,United States,Michigan,26,Tuscola,157
+CORU,United States,Michigan,26,Washtenaw,161
+CORU,United States,Minnesota,27,,
+CORU,United States,Minnesota,27,Aitkin,001
+CORU,United States,Minnesota,27,Anoka,003
+CORU,United States,Minnesota,27,Becker,005
+CORU,United States,Minnesota,27,Beltrami,007
+CORU,United States,Minnesota,27,Blue Earth,013
+CORU,United States,Minnesota,27,Brown,015
+CORU,United States,Minnesota,27,Carlton,017
+CORU,United States,Minnesota,27,Cass,021
+CORU,United States,Minnesota,27,Chisago,025
+CORU,United States,Minnesota,27,Clearwater,029
+CORU,United States,Minnesota,27,Cook,031
+CORU,United States,Minnesota,27,Crow Wing,035
+CORU,United States,Minnesota,27,Fillmore,045
+CORU,United States,Minnesota,27,Hennepin,053
+CORU,United States,Minnesota,27,Houston,055
+CORU,United States,Minnesota,27,Hubbard,057
+CORU,United States,Minnesota,27,Itasca,061
+CORU,United States,Minnesota,27,Kandiyohi,067
+CORU,United States,Minnesota,27,Koochiching,071
+CORU,United States,Minnesota,27,Lake,075
+CORU,United States,Minnesota,27,Lake of the Woods,077
+CORU,United States,Minnesota,27,Le Sueur,079
+CORU,United States,Minnesota,27,Mahnomen,087
+CORU,United States,Minnesota,27,Marshall,089
+CORU,United States,Minnesota,27,Mille Lacs,095
+CORU,United States,Minnesota,27,Morrison,097
+CORU,United States,Minnesota,27,Olmsted,109
+CORU,United States,Minnesota,27,Otter Tail,111
+CORU,United States,Minnesota,27,Pine,115
+CORU,United States,Minnesota,27,Polk,119
+CORU,United States,Minnesota,27,Pope,121
+CORU,United States,Minnesota,27,Ramsey,123
+CORU,United States,Minnesota,27,Rice,131
+CORU,United States,Minnesota,27,Scott,139
+CORU,United States,Minnesota,27,Sherburne,141
+CORU,United States,Minnesota,27,St. Louis,137
+CORU,United States,Minnesota,27,Todd,153
+CORU,United States,Minnesota,27,Wabasha,157
+CORU,United States,Minnesota,27,Washington,163
+CORU,United States,Minnesota,27,Winona,169
+CORU,United States,Minnesota,27,Wright,171
+CORU,United States,New Hampshire,33,,
+CORU,United States,New Hampshire,33,Belknap,001
+CORU,United States,New Hampshire,33,Carroll,003
+CORU,United States,New Hampshire,33,Cheshire,005
+CORU,United States,New Hampshire,33,Coos,007
+CORU,United States,New Hampshire,33,Grafton,009
+CORU,United States,New Hampshire,33,Hillsborough,011
+CORU,United States,New Hampshire,33,Merrimack,013
+CORU,United States,New Hampshire,33,Rockingham,015
+CORU,United States,New Hampshire,33,Strafford,017
+CORU,United States,New Hampshire,33,Sullivan,019
+CORU,United States,New Jersey,34,,
+CORU,United States,New Jersey,34,Bergen,003
+CORU,United States,New Jersey,34,Hudson,017
+CORU,United States,New Jersey,34,Hunterdon,019
+CORU,United States,New Jersey,34,Morris,027
+CORU,United States,New Jersey,34,Passaic,031
+CORU,United States,New Jersey,34,Somerset,035
+CORU,United States,New Jersey,34,Sussex,037
+CORU,United States,New Jersey,34,Union,039
+CORU,United States,New Jersey,34,Warren,041
+CORU,United States,New York,36,,
+CORU,United States,New York,36,Albany,001
+CORU,United States,New York,36,Bronx,005
+CORU,United States,New York,36,Broome,007
+CORU,United States,New York,36,Cattaraugus,009
+CORU,United States,New York,36,Cayuga,011
+CORU,United States,New York,36,Chemung,015
+CORU,United States,New York,36,Chenango,017
+CORU,United States,New York,36,Clinton,019
+CORU,United States,New York,36,Columbia,021
+CORU,United States,New York,36,Delaware,025
+CORU,United States,New York,36,Dutchess,027
+CORU,United States,New York,36,Erie,029
+CORU,United States,New York,36,Essex,031
+CORU,United States,New York,36,Genesee,037
+CORU,United States,New York,36,Greene,039
+CORU,United States,New York,36,Jefferson,045
+CORU,United States,New York,36,Lewis,049
+CORU,United States,New York,36,Livingston,051
+CORU,United States,New York,36,Madison,053
+CORU,United States,New York,36,Monroe,055
+CORU,United States,New York,36,New York,061
+CORU,United States,New York,36,Oneida,065
+CORU,United States,New York,36,Onondaga,067
+CORU,United States,New York,36,Ontario,069
+CORU,United States,New York,36,Orange,071
+CORU,United States,New York,36,Orleans,073
+CORU,United States,New York,36,Oswego,075
+CORU,United States,New York,36,Putnam,079
+CORU,United States,New York,36,Rockland,087
+CORU,United States,New York,36,Saratoga,091
+CORU,United States,New York,36,Schenectady,093
+CORU,United States,New York,36,Schuyler,097
+CORU,United States,New York,36,Suffolk,103
+CORU,United States,New York,36,Tioga,107
+CORU,United States,New York,36,Tompkins,109
+CORU,United States,New York,36,Ulster,111
+CORU,United States,New York,36,Warren,113
+CORU,United States,New York,36,Washington,115
+CORU,United States,New York,36,Westchester,119
+CORU,United States,North Dakota,38,,
+CORU,United States,Ohio,39,,
+CORU,United States,Ohio,39,Ashtabula,007
+CORU,United States,Ohio,39,Cuyahoga,035
+CORU,United States,Ohio,39,Erie,043
+CORU,United States,Ohio,39,Franklin,049
+CORU,United States,Ohio,39,Geauga,055
+CORU,United States,Ohio,39,Lake,085
+CORU,United States,Ohio,39,Lorain,093
+CORU,United States,Ohio,39,Ottawa,123
+CORU,United States,Ohio,39,Pickaway,129
+CORU,United States,Ohio,39,Ross,141
+CORU,United States,Ohio,39,Summit,153
+CORU,United States,Pennsylvania,42,,
+CORU,United States,Pennsylvania,42,Adams,001
+CORU,United States,Pennsylvania,42,Beaver,007
+CORU,United States,Pennsylvania,42,Bedford,009
+CORU,United States,Pennsylvania,42,Berks,011
+CORU,United States,Pennsylvania,42,Blair,013
+CORU,United States,Pennsylvania,42,Bradford,015
+CORU,United States,Pennsylvania,42,Bucks,017
+CORU,United States,Pennsylvania,42,Butler,019
+CORU,United States,Pennsylvania,42,Cameron,023
+CORU,United States,Pennsylvania,42,Carbon,025
+CORU,United States,Pennsylvania,42,Centre,027
+CORU,United States,Pennsylvania,42,Chester,029
+CORU,United States,Pennsylvania,42,Clinton,035
+CORU,United States,Pennsylvania,42,Dauphin,043
+CORU,United States,Pennsylvania,42,Delaware,045
+CORU,United States,Pennsylvania,42,Elk,047
+CORU,United States,Pennsylvania,42,Erie,049
+CORU,United States,Pennsylvania,42,Forest,053
+CORU,United States,Pennsylvania,42,Huntingdon,061
+CORU,United States,Pennsylvania,42,Juniata,067
+CORU,United States,Pennsylvania,42,Lackawanna,069
+CORU,United States,Pennsylvania,42,Lancaster,071
+CORU,United States,Pennsylvania,42,Lawrence,073
+CORU,United States,Pennsylvania,42,Lehigh,077
+CORU,United States,Pennsylvania,42,Luzerne,079
+CORU,United States,Pennsylvania,42,Lycoming,081
+CORU,United States,Pennsylvania,42,Mifflin,087
+CORU,United States,Pennsylvania,42,Monroe,089
+CORU,United States,Pennsylvania,42,Montgomery,091
+CORU,United States,Pennsylvania,42,Northampton,095
+CORU,United States,Pennsylvania,42,Northumberland,097
+CORU,United States,Pennsylvania,42,Pike,103
+CORU,United States,Pennsylvania,42,Potter,105
+CORU,United States,Pennsylvania,42,Schuylkill,107
+CORU,United States,Pennsylvania,42,Snyder,109
+CORU,United States,Pennsylvania,42,Somerset,111
+CORU,United States,Pennsylvania,42,Sullivan,113
+CORU,United States,Pennsylvania,42,Susquehanna,115
+CORU,United States,Pennsylvania,42,Tioga,117
+CORU,United States,Pennsylvania,42,Union,119
+CORU,United States,Pennsylvania,42,Warren,123
+CORU,United States,Pennsylvania,42,Wayne,127
+CORU,United States,Pennsylvania,42,Wyoming,131
+CORU,United States,Rhode Island,44,,
+CORU,United States,Rhode Island,44,Providence,007
+CORU,United States,Vermont,50,,
+CORU,United States,Vermont,50,Addison,001
+CORU,United States,Vermont,50,Bennington,003
+CORU,United States,Vermont,50,Chittenden,007
+CORU,United States,Vermont,50,Orange,017
+CORU,United States,Vermont,50,Orleans,019
+CORU,United States,Vermont,50,Rutland,021
+CORU,United States,Vermont,50,Windham,025
+CORU,United States,Vermont,50,Windsor,027
+CORU,United States,Virginia,51,,
+CORU,United States,Virginia,51,Augusta,015
+CORU,United States,Virginia,51,Craig,045
+CORU,United States,Virginia,51,Giles,071
+CORU,United States,Virginia,51,Highland,091
+CORU,United States,Virginia,51,Madison,113
+CORU,United States,Virginia,51,Page,139
+CORU,United States,Virginia,51,Rappahannock,157
+CORU,United States,Virginia,51,Rockbridge,163
+CORU,United States,Virginia,51,Shenandoah,171
+CORU,United States,West Virginia,54,,
+CORU,United States,West Virginia,54,Mineral,057
+CORU,United States,West Virginia,54,Pendleton,071
+CORU,United States,Wisconsin,55,,
+CORU,United States,Wisconsin,55,Ashland,003
+CORU,United States,Wisconsin,55,Bayfield,007
+CORU,United States,Wisconsin,55,Brown,009
+CORU,United States,Wisconsin,55,Buffalo,011
+CORU,United States,Wisconsin,55,Burnett,013
+CORU,United States,Wisconsin,55,Chippewa,017
+CORU,United States,Wisconsin,55,Clark,019
+CORU,United States,Wisconsin,55,Columbia,021
+CORU,United States,Wisconsin,55,Crawford,023
+CORU,United States,Wisconsin,55,Dane,025
+CORU,United States,Wisconsin,55,Dodge,027
+CORU,United States,Wisconsin,55,Door,029
+CORU,United States,Wisconsin,55,Douglas,031
+CORU,United States,Wisconsin,55,Dunn,033
+CORU,United States,Wisconsin,55,Florence,037
+CORU,United States,Wisconsin,55,Fond du Lac,039
+CORU,United States,Wisconsin,55,Forest,041
+CORU,United States,Wisconsin,55,Grant,043
+CORU,United States,Wisconsin,55,Green Lake,047
+CORU,United States,Wisconsin,55,Iowa,049
+CORU,United States,Wisconsin,55,Iron,051
+CORU,United States,Wisconsin,55,Jackson,053
+CORU,United States,Wisconsin,55,Jefferson,055
+CORU,United States,Wisconsin,55,Kenosha,059
+CORU,United States,Wisconsin,55,Kewaunee,061
+CORU,United States,Wisconsin,55,La Crosse,063
+CORU,United States,Wisconsin,55,Lafayette,065
+CORU,United States,Wisconsin,55,Lincoln,069
+CORU,United States,Wisconsin,55,Manitowoc,071
+CORU,United States,Wisconsin,55,Marathon,073
+CORU,United States,Wisconsin,55,Marinette,075
+CORU,United States,Wisconsin,55,Marquette,077
+CORU,United States,Wisconsin,55,Menominee,078
+CORU,United States,Wisconsin,55,Milwaukee,079
+CORU,United States,Wisconsin,55,Monroe,081
+CORU,United States,Wisconsin,55,Oconto,083
+CORU,United States,Wisconsin,55,Oneida,085
+CORU,United States,Wisconsin,55,Outagamie,087
+CORU,United States,Wisconsin,55,Ozaukee,089
+CORU,United States,Wisconsin,55,Pepin,091
+CORU,United States,Wisconsin,55,Pierce,093
+CORU,United States,Wisconsin,55,Polk,095
+CORU,United States,Wisconsin,55,Portage,097
+CORU,United States,Wisconsin,55,Racine,101
+CORU,United States,Wisconsin,55,Richland,103
+CORU,United States,Wisconsin,55,Sauk,111
+CORU,United States,Wisconsin,55,Sawyer,113
+CORU,United States,Wisconsin,55,Shawano,115
+CORU,United States,Wisconsin,55,Sheboygan,117
+CORU,United States,Wisconsin,55,St. Croix,109
+CORU,United States,Wisconsin,55,Taylor,119
+CORU,United States,Wisconsin,55,Trempealeau,121
+CORU,United States,Wisconsin,55,Vernon,123
+CORU,United States,Wisconsin,55,Vilas,125
+CORU,United States,Wisconsin,55,Walworth,127
+CORU,United States,Wisconsin,55,Washburn,129
+CORU,United States,Wisconsin,55,Washington,131
+CORU,United States,Wisconsin,55,Waukesha,133
+CORU,United States,Wisconsin,55,Waupaca,135
+CORU,United States,Wisconsin,55,Wood,141

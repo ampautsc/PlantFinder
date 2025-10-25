@@ -1,0 +1,31 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+HEBOM,Canada,Alberta,01,,
+HEBOM,Canada,British Columbia,02,,
+HEBOM,United States,Alaska,02,,
+HEBOM,United States,Alaska,02,Bethel,050
+HEBOM,United States,Alaska,02,Chugach,063
+HEBOM,United States,Alaska,02,Copper River,066
+HEBOM,United States,Alaska,02,Denali,068
+HEBOM,United States,Alaska,02,Fairbanks North Star,090
+HEBOM,United States,Alaska,02,Haines,100
+HEBOM,United States,Alaska,02,Matanuska-Susitna,170
+HEBOM,United States,Alaska,02,Nome,180
+HEBOM,United States,Alaska,02,North Slope,185
+HEBOM,United States,Alaska,02,Northwest Arctic,188
+HEBOM,United States,Alaska,02,Southeast Fairbanks,240
+HEBOM,United States,Alaska,02,Yakutat,282
+HEBOM,United States,Alaska,02,Yukon-Koyukuk,290
+HEBOM,Canada,Manitoba,03,,
+HEBOM,Canada,Ontario,08,,
+HEBOM,Canada,Quebec,10,,
+HEBOM,Canada,Saskatchewan,11,,
+HEBOM,Canada,Yukon,12,,
+HEBOM,Canada,Northwest Territories,13,,
+HEBOM,Canada,Nunavut,14,,
+HEBOM,United States,Oregon,41,,
+HEBOM,United States,Oregon,41,Union,061
+HEBOM,United States,Oregon,41,Wallowa,063
+HEBOM,United States,Washington,53,,
+HEBOM,United States,Washington,53,Okanogan,047
+HEBOM,Canada,Newfoundland,NF,,

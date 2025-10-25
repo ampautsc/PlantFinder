@@ -1,0 +1,642 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VINE,Canada,Alberta,01,,
+VINE,Canada,British Columbia,02,,
+VINE,Canada,Manitoba,03,,
+VINE,Canada,New Brunswick,04,,
+VINE,United States,Arizona,04,,
+VINE,United States,Arizona,04,Apache,001
+VINE,United States,Arizona,04,Cochise,003
+VINE,United States,Arizona,04,Coconino,005
+VINE,United States,Arizona,04,Gila,007
+VINE,United States,Arizona,04,Graham,009
+VINE,United States,Arizona,04,Greenlee,011
+VINE,United States,Arizona,04,Navajo,017
+VINE,United States,Arizona,04,Pima,019
+VINE,United States,Arizona,04,Santa Cruz,023
+VINE,United States,Arizona,04,Yavapai,025
+VINE,United States,Arkansas,05,,
+VINE,United States,California,06,,
+VINE,United States,California,06,Inyo,027
+VINE,United States,California,06,Modoc,049
+VINE,United States,California,06,Nevada,057
+VINE,United States,California,06,Plumas,063
+VINE,United States,California,06,San Bernardino,071
+VINE,United States,California,06,San Diego,073
+VINE,Canada,Nova Scotia,07,,
+VINE,Canada,Ontario,08,,
+VINE,United States,Colorado,08,,
+VINE,United States,Colorado,08,Arapahoe,005
+VINE,United States,Colorado,08,Baca,009
+VINE,United States,Colorado,08,Bent,011
+VINE,United States,Colorado,08,Boulder,013
+VINE,United States,Colorado,08,Clear Creek,019
+VINE,United States,Colorado,08,Custer,027
+VINE,United States,Colorado,08,Denver,031
+VINE,United States,Colorado,08,Douglas,035
+VINE,United States,Colorado,08,Grand,049
+VINE,United States,Colorado,08,Gunnison,051
+VINE,United States,Colorado,08,Huerfano,055
+VINE,United States,Colorado,08,Jefferson,059
+VINE,United States,Colorado,08,Larimer,069
+VINE,United States,Colorado,08,Las Animas,071
+VINE,United States,Colorado,08,Mineral,079
+VINE,United States,Colorado,08,Montezuma,083
+VINE,United States,Colorado,08,Park,093
+VINE,United States,Colorado,08,Rio Grande,105
+VINE,United States,Colorado,08,San Juan,111
+VINE,United States,Colorado,08,Sedgwick,115
+VINE,United States,Colorado,08,Summit,117
+VINE,United States,Colorado,08,Weld,123
+VINE,Canada,Prince Edward Island,09,,
+VINE,United States,Connecticut,09,,
+VINE,Canada,Quebec,10,,
+VINE,Canada,Saskatchewan,11,,
+VINE,Canada,Yukon,12,,
+VINE,Canada,Northwest Territories,13,,
+VINE,Canada,Nunavut,14,,
+VINE,United States,Idaho,16,,
+VINE,United States,Idaho,16,Ada,001
+VINE,United States,Idaho,16,Adams,003
+VINE,United States,Idaho,16,Bannock,005
+VINE,United States,Idaho,16,Bear Lake,007
+VINE,United States,Idaho,16,Bingham,011
+VINE,United States,Idaho,16,Blaine,013
+VINE,United States,Idaho,16,Boise,015
+VINE,United States,Idaho,16,Bonneville,019
+VINE,United States,Idaho,16,Caribou,029
+VINE,United States,Idaho,16,Cassia,031
+VINE,United States,Idaho,16,Elmore,039
+VINE,United States,Idaho,16,Franklin,041
+VINE,United States,Idaho,16,Idaho,049
+VINE,United States,Idaho,16,Lemhi,059
+VINE,United States,Idaho,16,Owyhee,073
+VINE,United States,Idaho,16,Power,077
+VINE,United States,Idaho,16,Teton,081
+VINE,United States,Illinois,17,,
+VINE,United States,Illinois,17,Boone,007
+VINE,United States,Illinois,17,Champaign,019
+VINE,United States,Illinois,17,Cook,031
+VINE,United States,Illinois,17,Crawford,033
+VINE,United States,Illinois,17,DeKalb,037
+VINE,United States,Illinois,17,Henry,073
+VINE,United States,Illinois,17,Jackson,077
+VINE,United States,Illinois,17,Kane,089
+VINE,United States,Illinois,17,Kankakee,091
+VINE,United States,Illinois,17,Lake,097
+VINE,United States,Illinois,17,Lee,103
+VINE,United States,Illinois,17,McHenry,111
+VINE,United States,Illinois,17,Peoria,143
+VINE,United States,Illinois,17,Piatt,147
+VINE,United States,Illinois,17,St. Clair,163
+VINE,United States,Illinois,17,Stark,175
+VINE,United States,Illinois,17,Union,181
+VINE,United States,Illinois,17,Will,197
+VINE,United States,Illinois,17,Williamson,199
+VINE,United States,Illinois,17,Winnebago,201
+VINE,United States,Indiana,18,,
+VINE,United States,Iowa,19,,
+VINE,United States,Iowa,19,Adair,001
+VINE,United States,Iowa,19,Cass,029
+VINE,United States,Iowa,19,Cherokee,035
+VINE,United States,Iowa,19,Crawford,047
+VINE,United States,Iowa,19,Greene,073
+VINE,United States,Iowa,19,Guthrie,077
+VINE,United States,Iowa,19,Harrison,085
+VINE,United States,Iowa,19,Ida,093
+VINE,United States,Iowa,19,Lyon,119
+VINE,United States,Iowa,19,Madison,121
+VINE,United States,Iowa,19,Mills,129
+VINE,United States,Iowa,19,Monona,133
+VINE,United States,Iowa,19,Osceola,143
+VINE,United States,Kansas,20,,
+VINE,United States,Kansas,20,Allen,001
+VINE,United States,Kansas,20,Anderson,003
+VINE,United States,Kansas,20,Atchison,005
+VINE,United States,Kansas,20,Barber,007
+VINE,United States,Kansas,20,Barton,009
+VINE,United States,Kansas,20,Bourbon,011
+VINE,United States,Kansas,20,Brown,013
+VINE,United States,Kansas,20,Butler,015
+VINE,United States,Kansas,20,Chase,017
+VINE,United States,Kansas,20,Chautauqua,019
+VINE,United States,Kansas,20,Cherokee,021
+VINE,United States,Kansas,20,Cheyenne,023
+VINE,United States,Kansas,20,Clay,027
+VINE,United States,Kansas,20,Cloud,029
+VINE,United States,Kansas,20,Coffey,031
+VINE,United States,Kansas,20,Comanche,033
+VINE,United States,Kansas,20,Cowley,035
+VINE,United States,Kansas,20,Crawford,037
+VINE,United States,Kansas,20,Decatur,039
+VINE,United States,Kansas,20,Dickinson,041
+VINE,United States,Kansas,20,Doniphan,043
+VINE,United States,Kansas,20,Douglas,045
+VINE,United States,Kansas,20,Ellis,051
+VINE,United States,Kansas,20,Ellsworth,053
+VINE,United States,Kansas,20,Finney,055
+VINE,United States,Kansas,20,Franklin,059
+VINE,United States,Kansas,20,Geary,061
+VINE,United States,Kansas,20,Greenwood,073
+VINE,United States,Kansas,20,Harper,077
+VINE,United States,Kansas,20,Harvey,079
+VINE,United States,Kansas,20,Hodgeman,083
+VINE,United States,Kansas,20,Jackson,085
+VINE,United States,Kansas,20,Jefferson,087
+VINE,United States,Kansas,20,Jewell,089
+VINE,United States,Kansas,20,Johnson,091
+VINE,United States,Kansas,20,Kingman,095
+VINE,United States,Kansas,20,Kiowa,097
+VINE,United States,Kansas,20,Labette,099
+VINE,United States,Kansas,20,Leavenworth,103
+VINE,United States,Kansas,20,Lincoln,105
+VINE,United States,Kansas,20,Linn,107
+VINE,United States,Kansas,20,Lyon,111
+VINE,United States,Kansas,20,Marion,115
+VINE,United States,Kansas,20,McPherson,113
+VINE,United States,Kansas,20,Meade,119
+VINE,United States,Kansas,20,Miami,121
+VINE,United States,Kansas,20,Mitchell,123
+VINE,United States,Kansas,20,Morris,127
+VINE,United States,Kansas,20,Nemaha,131
+VINE,United States,Kansas,20,Neosho,133
+VINE,United States,Kansas,20,Ness,135
+VINE,United States,Kansas,20,Osage,139
+VINE,United States,Kansas,20,Osborne,141
+VINE,United States,Kansas,20,Ottawa,143
+VINE,United States,Kansas,20,Pawnee,145
+VINE,United States,Kansas,20,Pottawatomie,149
+VINE,United States,Kansas,20,Rawlins,153
+VINE,United States,Kansas,20,Reno,155
+VINE,United States,Kansas,20,Rice,159
+VINE,United States,Kansas,20,Riley,161
+VINE,United States,Kansas,20,Rooks,163
+VINE,United States,Kansas,20,Saline,169
+VINE,United States,Kansas,20,Sedgwick,173
+VINE,United States,Kansas,20,Shawnee,177
+VINE,United States,Kansas,20,Sheridan,179
+VINE,United States,Kansas,20,Sherman,181
+VINE,United States,Kansas,20,Smith,183
+VINE,United States,Kansas,20,Stafford,185
+VINE,United States,Kansas,20,Sumner,191
+VINE,United States,Kansas,20,Thomas,193
+VINE,United States,Kansas,20,Trego,195
+VINE,United States,Kansas,20,Wabaunsee,197
+VINE,United States,Kansas,20,Washington,201
+VINE,United States,Kansas,20,Wilson,205
+VINE,United States,Louisiana,22,,
+VINE,United States,Louisiana,22,Caldwell,021
+VINE,United States,Louisiana,22,Claiborne,027
+VINE,United States,Louisiana,22,East Baton Rouge,033
+VINE,United States,Louisiana,22,Grant,043
+VINE,United States,Louisiana,22,Jackson,049
+VINE,United States,Louisiana,22,LaSalle,059
+VINE,United States,Louisiana,22,Morehouse,067
+VINE,United States,Louisiana,22,Ouachita,073
+VINE,United States,Louisiana,22,Rapides,079
+VINE,United States,Louisiana,22,Richland,083
+VINE,United States,Louisiana,22,Union,111
+VINE,United States,Louisiana,22,West Carroll,123
+VINE,United States,Louisiana,22,Winn,127
+VINE,United States,Maine,23,,
+VINE,United States,Massachusetts,25,,
+VINE,United States,Massachusetts,25,Berkshire,003
+VINE,United States,Massachusetts,25,Franklin,011
+VINE,United States,Massachusetts,25,Hampden,013
+VINE,United States,Michigan,26,,
+VINE,United States,Michigan,26,Alcona,001
+VINE,United States,Michigan,26,Alger,003
+VINE,United States,Michigan,26,Allegan,005
+VINE,United States,Michigan,26,Alpena,007
+VINE,United States,Michigan,26,Barry,015
+VINE,United States,Michigan,26,Benzie,019
+VINE,United States,Michigan,26,Berrien,021
+VINE,United States,Michigan,26,Calhoun,025
+VINE,United States,Michigan,26,Cass,027
+VINE,United States,Michigan,26,Charlevoix,029
+VINE,United States,Michigan,26,Cheboygan,031
+VINE,United States,Michigan,26,Chippewa,033
+VINE,United States,Michigan,26,Clare,035
+VINE,United States,Michigan,26,Delta,041
+VINE,United States,Michigan,26,Emmet,047
+VINE,United States,Michigan,26,Gogebic,053
+VINE,United States,Michigan,26,Grand Traverse,055
+VINE,United States,Michigan,26,Gratiot,057
+VINE,United States,Michigan,26,Houghton,061
+VINE,United States,Michigan,26,Huron,063
+VINE,United States,Michigan,26,Jackson,075
+VINE,United States,Michigan,26,Kalamazoo,077
+VINE,United States,Michigan,26,Kent,081
+VINE,United States,Michigan,26,Keweenaw,083
+VINE,United States,Michigan,26,Lake,085
+VINE,United States,Michigan,26,Lapeer,087
+VINE,United States,Michigan,26,Leelanau,089
+VINE,United States,Michigan,26,Lenawee,091
+VINE,United States,Michigan,26,Livingston,093
+VINE,United States,Michigan,26,Mackinac,097
+VINE,United States,Michigan,26,Marquette,103
+VINE,United States,Michigan,26,Mecosta,107
+VINE,United States,Michigan,26,Menominee,109
+VINE,United States,Michigan,26,Monroe,115
+VINE,United States,Michigan,26,Oakland,125
+VINE,United States,Michigan,26,Oceana,127
+VINE,United States,Michigan,26,Oscoda,135
+VINE,United States,Michigan,26,Presque Isle,141
+VINE,United States,Michigan,26,Sanilac,151
+VINE,United States,Michigan,26,Schoolcraft,153
+VINE,United States,Michigan,26,St. Clair,147
+VINE,United States,Michigan,26,St. Joseph,149
+VINE,United States,Michigan,26,Washtenaw,161
+VINE,United States,Michigan,26,Wayne,163
+VINE,United States,Minnesota,27,,
+VINE,United States,Minnesota,27,Anoka,003
+VINE,United States,Minnesota,27,Becker,005
+VINE,United States,Minnesota,27,Beltrami,007
+VINE,United States,Minnesota,27,Big Stone,011
+VINE,United States,Minnesota,27,Blue Earth,013
+VINE,United States,Minnesota,27,Chippewa,023
+VINE,United States,Minnesota,27,Clay,027
+VINE,United States,Minnesota,27,Clearwater,029
+VINE,United States,Minnesota,27,Cottonwood,033
+VINE,United States,Minnesota,27,Dakota,037
+VINE,United States,Minnesota,27,Douglas,041
+VINE,United States,Minnesota,27,Fillmore,045
+VINE,United States,Minnesota,27,Freeborn,047
+VINE,United States,Minnesota,27,Goodhue,049
+VINE,United States,Minnesota,27,Grant,051
+VINE,United States,Minnesota,27,Hennepin,053
+VINE,United States,Minnesota,27,Houston,055
+VINE,United States,Minnesota,27,Hubbard,057
+VINE,United States,Minnesota,27,Jackson,063
+VINE,United States,Minnesota,27,Kandiyohi,067
+VINE,United States,Minnesota,27,Kittson,069
+VINE,United States,Minnesota,27,Lake of the Woods,077
+VINE,United States,Minnesota,27,Le Sueur,079
+VINE,United States,Minnesota,27,Lincoln,081
+VINE,United States,Minnesota,27,Lyon,083
+VINE,United States,Minnesota,27,Mahnomen,087
+VINE,United States,Minnesota,27,Marshall,089
+VINE,United States,Minnesota,27,Martin,091
+VINE,United States,Minnesota,27,McLeod,085
+VINE,United States,Minnesota,27,Meeker,093
+VINE,United States,Minnesota,27,Morrison,097
+VINE,United States,Minnesota,27,Nicollet,103
+VINE,United States,Minnesota,27,Norman,107
+VINE,United States,Minnesota,27,Olmsted,109
+VINE,United States,Minnesota,27,Otter Tail,111
+VINE,United States,Minnesota,27,Pennington,113
+VINE,United States,Minnesota,27,Pine,115
+VINE,United States,Minnesota,27,Pipestone,117
+VINE,United States,Minnesota,27,Polk,119
+VINE,United States,Minnesota,27,Pope,121
+VINE,United States,Minnesota,27,Ramsey,123
+VINE,United States,Minnesota,27,Red Lake,125
+VINE,United States,Minnesota,27,Redwood,127
+VINE,United States,Minnesota,27,Renville,129
+VINE,United States,Minnesota,27,Rice,131
+VINE,United States,Minnesota,27,Roseau,135
+VINE,United States,Minnesota,27,Scott,139
+VINE,United States,Minnesota,27,St. Louis,137
+VINE,United States,Minnesota,27,Stearns,145
+VINE,United States,Minnesota,27,Stevens,149
+VINE,United States,Minnesota,27,Swift,151
+VINE,United States,Minnesota,27,Todd,153
+VINE,United States,Minnesota,27,Traverse,155
+VINE,United States,Minnesota,27,Wabasha,157
+VINE,United States,Minnesota,27,Wadena,159
+VINE,United States,Minnesota,27,Washington,163
+VINE,United States,Minnesota,27,Watonwan,165
+VINE,United States,Minnesota,27,Wilkin,167
+VINE,United States,Minnesota,27,Winona,169
+VINE,United States,Minnesota,27,Wright,171
+VINE,United States,Minnesota,27,Yellow Medicine,173
+VINE,United States,Missouri,29,,
+VINE,United States,Missouri,29,Andrew,003
+VINE,United States,Missouri,29,Atchison,005
+VINE,United States,Missouri,29,Barry,009
+VINE,United States,Missouri,29,Barton,011
+VINE,United States,Missouri,29,Bates,013
+VINE,United States,Missouri,29,Benton,015
+VINE,United States,Missouri,29,Boone,019
+VINE,United States,Missouri,29,Buchanan,021
+VINE,United States,Missouri,29,Cass,037
+VINE,United States,Missouri,29,Cedar,039
+VINE,United States,Missouri,29,Chariton,041
+VINE,United States,Missouri,29,Christian,043
+VINE,United States,Missouri,29,Clay,047
+VINE,United States,Missouri,29,Clinton,049
+VINE,United States,Missouri,29,Cole,051
+VINE,United States,Missouri,29,Cooper,053
+VINE,United States,Missouri,29,Dade,057
+VINE,United States,Missouri,29,Dallas,059
+VINE,United States,Missouri,29,DeKalb,063
+VINE,United States,Missouri,29,Douglas,067
+VINE,United States,Missouri,29,Gentry,075
+VINE,United States,Missouri,29,Greene,077
+VINE,United States,Missouri,29,Harrison,081
+VINE,United States,Missouri,29,Henry,083
+VINE,United States,Missouri,29,Howard,089
+VINE,United States,Missouri,29,Jackson,095
+VINE,United States,Missouri,29,Jasper,097
+VINE,United States,Missouri,29,Johnson,101
+VINE,United States,Missouri,29,Laclede,105
+VINE,United States,Missouri,29,Lafayette,107
+VINE,United States,Missouri,29,Lawrence,109
+VINE,United States,Missouri,29,Linn,115
+VINE,United States,Missouri,29,Livingston,117
+VINE,United States,Missouri,29,McDonald,119
+VINE,United States,Missouri,29,Moniteau,135
+VINE,United States,Missouri,29,Morgan,141
+VINE,United States,Missouri,29,Newton,145
+VINE,United States,Missouri,29,Nodaway,147
+VINE,United States,Missouri,29,Ozark,153
+VINE,United States,Missouri,29,Pettis,159
+VINE,United States,Missouri,29,Platte,165
+VINE,United States,Missouri,29,St. Clair,185
+VINE,United States,Missouri,29,Stone,209
+VINE,United States,Missouri,29,Taney,213
+VINE,United States,Missouri,29,Vernon,217
+VINE,United States,Missouri,29,Webster,225
+VINE,United States,Missouri,29,Worth,227
+VINE,United States,Missouri,29,Wright,229
+VINE,United States,Montana,30,,
+VINE,United States,Montana,30,Carbon,009
+VINE,United States,Montana,30,Cascade,013
+VINE,United States,Montana,30,Daniels,019
+VINE,United States,Montana,30,Flathead,029
+VINE,United States,Montana,30,Gallatin,031
+VINE,United States,Montana,30,Lewis and Clark,049
+VINE,United States,Montana,30,Madison,057
+VINE,United States,Montana,30,Meagher,059
+VINE,United States,Montana,30,Missoula,063
+VINE,United States,Montana,30,Stillwater,095
+VINE,United States,Montana,30,Valley,105
+VINE,United States,Montana,30,Wibaux,109
+VINE,United States,Nebraska,31,,
+VINE,United States,Nebraska,31,Brown,017
+VINE,United States,Nebraska,31,Buffalo,019
+VINE,United States,Nebraska,31,Butler,023
+VINE,United States,Nebraska,31,Cass,025
+VINE,United States,Nebraska,31,Cherry,031
+VINE,United States,Nebraska,31,Cuming,039
+VINE,United States,Nebraska,31,Custer,041
+VINE,United States,Nebraska,31,Dawes,045
+VINE,United States,Nebraska,31,Dodge,053
+VINE,United States,Nebraska,31,Douglas,055
+VINE,United States,Nebraska,31,Franklin,061
+VINE,United States,Nebraska,31,Gage,067
+VINE,United States,Nebraska,31,Greeley,077
+VINE,United States,Nebraska,31,Hamilton,081
+VINE,United States,Nebraska,31,Holt,089
+VINE,United States,Nebraska,31,Jefferson,095
+VINE,United States,Nebraska,31,Kearney,099
+VINE,United States,Nebraska,31,Lancaster,109
+VINE,United States,Nebraska,31,Lincoln,111
+VINE,United States,Nebraska,31,Logan,113
+VINE,United States,Nebraska,31,Merrick,121
+VINE,United States,Nebraska,31,Nemaha,127
+VINE,United States,Nebraska,31,Platte,141
+VINE,United States,Nebraska,31,Polk,143
+VINE,United States,Nebraska,31,Richardson,147
+VINE,United States,Nebraska,31,Saunders,155
+VINE,United States,Nebraska,31,Seward,159
+VINE,United States,Nebraska,31,Sheridan,161
+VINE,United States,Nebraska,31,Washington,177
+VINE,United States,Nebraska,31,Webster,181
+VINE,United States,Nebraska,31,York,185
+VINE,United States,Nevada,32,,
+VINE,United States,Nevada,32,Carson City,510
+VINE,United States,Nevada,32,Clark,003
+VINE,United States,Nevada,32,Douglas,005
+VINE,United States,Nevada,32,Elko,007
+VINE,United States,Nevada,32,Esmeralda,009
+VINE,United States,Nevada,32,Eureka,011
+VINE,United States,Nevada,32,Humboldt,013
+VINE,United States,Nevada,32,Lander,015
+VINE,United States,Nevada,32,Lincoln,017
+VINE,United States,Nevada,32,Mineral,021
+VINE,United States,Nevada,32,Nye,023
+VINE,United States,Nevada,32,Washoe,031
+VINE,United States,Nevada,32,White Pine,033
+VINE,United States,New Hampshire,33,,
+VINE,United States,New Mexico,35,,
+VINE,United States,New Mexico,35,Lincoln,027
+VINE,United States,New Mexico,35,Los Alamos,028
+VINE,United States,New Mexico,35,Rio Arriba,039
+VINE,United States,New Mexico,35,San Miguel,047
+VINE,United States,New Mexico,35,Sandoval,043
+VINE,United States,New Mexico,35,Taos,055
+VINE,United States,New York,36,,
+VINE,United States,New York,36,Albany,001
+VINE,United States,New York,36,Delaware,025
+VINE,United States,New York,36,Dutchess,027
+VINE,United States,New York,36,Erie,029
+VINE,United States,New York,36,Essex,031
+VINE,United States,New York,36,Franklin,033
+VINE,United States,New York,36,Genesee,037
+VINE,United States,New York,36,Hamilton,041
+VINE,United States,New York,36,Herkimer,043
+VINE,United States,New York,36,Jefferson,045
+VINE,United States,New York,36,Madison,053
+VINE,United States,New York,36,Monroe,055
+VINE,United States,New York,36,Oneida,065
+VINE,United States,New York,36,Onondaga,067
+VINE,United States,New York,36,Otsego,077
+VINE,United States,New York,36,Rensselaer,083
+VINE,United States,New York,36,Rockland,087
+VINE,United States,New York,36,Seneca,099
+VINE,United States,New York,36,St. Lawrence,089
+VINE,United States,New York,36,Tompkins,109
+VINE,United States,New York,36,Washington,115
+VINE,United States,New York,36,Wayne,117
+VINE,United States,New York,36,Wyoming,121
+VINE,United States,North Dakota,38,,
+VINE,United States,North Dakota,38,Barnes,003
+VINE,United States,North Dakota,38,Benson,005
+VINE,United States,North Dakota,38,Billings,007
+VINE,United States,North Dakota,38,Cass,017
+VINE,United States,North Dakota,38,Eddy,027
+VINE,United States,North Dakota,38,Emmons,029
+VINE,United States,North Dakota,38,Grand Forks,035
+VINE,United States,North Dakota,38,Grant,037
+VINE,United States,North Dakota,38,Kidder,043
+VINE,United States,North Dakota,38,McHenry,049
+VINE,United States,North Dakota,38,McLean,055
+VINE,United States,North Dakota,38,Pembina,067
+VINE,United States,North Dakota,38,Ransom,073
+VINE,United States,North Dakota,38,Richland,077
+VINE,United States,North Dakota,38,Rolette,079
+VINE,United States,North Dakota,38,Slope,087
+VINE,United States,North Dakota,38,Stutsman,093
+VINE,United States,North Dakota,38,Williams,105
+VINE,United States,Ohio,39,,
+VINE,United States,Ohio,39,Erie,043
+VINE,United States,Ohio,39,Ottawa,123
+VINE,United States,Ohio,39,Sandusky,143
+VINE,United States,Oklahoma,40,,
+VINE,United States,Oklahoma,40,Beaver,007
+VINE,United States,Oklahoma,40,Bryan,013
+VINE,United States,Oklahoma,40,Caddo,015
+VINE,United States,Oklahoma,40,Canadian,017
+VINE,United States,Oklahoma,40,Cherokee,021
+VINE,United States,Oklahoma,40,Cimarron,025
+VINE,United States,Oklahoma,40,Cleveland,027
+VINE,United States,Oklahoma,40,Coal,029
+VINE,United States,Oklahoma,40,Comanche,031
+VINE,United States,Oklahoma,40,Hughes,063
+VINE,United States,Oklahoma,40,Johnston,069
+VINE,United States,Oklahoma,40,Kay,071
+VINE,United States,Oklahoma,40,Lincoln,081
+VINE,United States,Oklahoma,40,Major,093
+VINE,United States,Oklahoma,40,Mayes,097
+VINE,United States,Oklahoma,40,McCurtain,089
+VINE,United States,Oklahoma,40,Murray,099
+VINE,United States,Oklahoma,40,Nowata,105
+VINE,United States,Oklahoma,40,Okfuskee,107
+VINE,United States,Oklahoma,40,Oklahoma,109
+VINE,United States,Oklahoma,40,Osage,113
+VINE,United States,Oklahoma,40,Ottawa,115
+VINE,United States,Oklahoma,40,Payne,119
+VINE,United States,Oklahoma,40,Roger Mills,129
+VINE,United States,Oklahoma,40,Sequoyah,135
+VINE,United States,Oklahoma,40,Washita,149
+VINE,United States,Oregon,41,,
+VINE,United States,Oregon,41,Baker,001
+VINE,United States,Oregon,41,Crook,013
+VINE,United States,Oregon,41,Deschutes,017
+VINE,United States,Oregon,41,Harney,025
+VINE,United States,Oregon,41,Jackson,029
+VINE,United States,Oregon,41,Josephine,033
+VINE,United States,Oregon,41,Lake,037
+VINE,United States,Oregon,41,Malheur,045
+VINE,United States,Oregon,41,Union,061
+VINE,United States,Oregon,41,Wallowa,063
+VINE,United States,Pennsylvania,42,,
+VINE,United States,South Dakota,46,,
+VINE,United States,South Dakota,46,Aurora,003
+VINE,United States,South Dakota,46,Brookings,011
+VINE,United States,South Dakota,46,Clay,027
+VINE,United States,South Dakota,46,Codington,029
+VINE,United States,South Dakota,46,Davison,035
+VINE,United States,South Dakota,46,Deuel,039
+VINE,United States,South Dakota,46,Harding,063
+VINE,United States,South Dakota,46,Lawrence,081
+VINE,United States,South Dakota,46,Marshall,091
+VINE,United States,South Dakota,46,Mellette,095
+VINE,United States,South Dakota,46,Moody,101
+VINE,United States,South Dakota,46,Pennington,103
+VINE,United States,South Dakota,46,Roberts,109
+VINE,United States,South Dakota,46,Todd,121
+VINE,United States,South Dakota,46,Union,127
+VINE,United States,South Dakota,46,Yankton,135
+VINE,United States,Texas,48,,
+VINE,United States,Texas,48,Wheeler,483
+VINE,United States,Utah,49,,
+VINE,United States,Utah,49,Beaver,001
+VINE,United States,Utah,49,Box Elder,003
+VINE,United States,Utah,49,Cache,005
+VINE,United States,Utah,49,Carbon,007
+VINE,United States,Utah,49,Daggett,009
+VINE,United States,Utah,49,Davis,011
+VINE,United States,Utah,49,Duchesne,013
+VINE,United States,Utah,49,Emery,015
+VINE,United States,Utah,49,Garfield,017
+VINE,United States,Utah,49,Grand,019
+VINE,United States,Utah,49,Iron,021
+VINE,United States,Utah,49,Juab,023
+VINE,United States,Utah,49,Kane,025
+VINE,United States,Utah,49,Millard,027
+VINE,United States,Utah,49,Morgan,029
+VINE,United States,Utah,49,Piute,031
+VINE,United States,Utah,49,Salt Lake,035
+VINE,United States,Utah,49,San Juan,037
+VINE,United States,Utah,49,Sanpete,039
+VINE,United States,Utah,49,Sevier,041
+VINE,United States,Utah,49,Tooele,045
+VINE,United States,Utah,49,Uintah,047
+VINE,United States,Utah,49,Utah,049
+VINE,United States,Utah,49,Wasatch,051
+VINE,United States,Utah,49,Washington,053
+VINE,United States,Utah,49,Wayne,055
+VINE,United States,Utah,49,Weber,057
+VINE,United States,Vermont,50,,
+VINE,United States,Washington,53,,
+VINE,United States,Washington,53,Chelan,007
+VINE,United States,Washington,53,Clallam,009
+VINE,United States,Washington,53,Grant,025
+VINE,United States,Washington,53,Island,029
+VINE,United States,Washington,53,Kittitas,037
+VINE,United States,Washington,53,Klickitat,039
+VINE,United States,Washington,53,Okanogan,047
+VINE,United States,Washington,53,Pend Oreille,051
+VINE,United States,Washington,53,Spokane,063
+VINE,United States,Washington,53,Stevens,065
+VINE,United States,Washington,53,Whitman,075
+VINE,United States,Washington,53,Yakima,077
+VINE,United States,West Virginia,54,,
+VINE,United States,West Virginia,54,Grant,023
+VINE,United States,West Virginia,54,Preston,077
+VINE,United States,West Virginia,54,Wyoming,109
+VINE,United States,Wisconsin,55,,
+VINE,United States,Wisconsin,55,Ashland,003
+VINE,United States,Wisconsin,55,Barron,005
+VINE,United States,Wisconsin,55,Bayfield,007
+VINE,United States,Wisconsin,55,Brown,009
+VINE,United States,Wisconsin,55,Buffalo,011
+VINE,United States,Wisconsin,55,Chippewa,017
+VINE,United States,Wisconsin,55,Columbia,021
+VINE,United States,Wisconsin,55,Dane,025
+VINE,United States,Wisconsin,55,Dodge,027
+VINE,United States,Wisconsin,55,Door,029
+VINE,United States,Wisconsin,55,Eau Claire,035
+VINE,United States,Wisconsin,55,Grant,043
+VINE,United States,Wisconsin,55,Green,045
+VINE,United States,Wisconsin,55,Green Lake,047
+VINE,United States,Wisconsin,55,Iowa,049
+VINE,United States,Wisconsin,55,Iron,051
+VINE,United States,Wisconsin,55,Jefferson,055
+VINE,United States,Wisconsin,55,Kenosha,059
+VINE,United States,Wisconsin,55,Kewaunee,061
+VINE,United States,Wisconsin,55,La Crosse,063
+VINE,United States,Wisconsin,55,Lafayette,065
+VINE,United States,Wisconsin,55,Manitowoc,071
+VINE,United States,Wisconsin,55,Marquette,077
+VINE,United States,Wisconsin,55,Milwaukee,079
+VINE,United States,Wisconsin,55,Outagamie,087
+VINE,United States,Wisconsin,55,Pierce,093
+VINE,United States,Wisconsin,55,Polk,095
+VINE,United States,Wisconsin,55,Portage,097
+VINE,United States,Wisconsin,55,Price,099
+VINE,United States,Wisconsin,55,Racine,101
+VINE,United States,Wisconsin,55,Richland,103
+VINE,United States,Wisconsin,55,Rock,105
+VINE,United States,Wisconsin,55,Sawyer,113
+VINE,United States,Wisconsin,55,Shawano,115
+VINE,United States,Wisconsin,55,Sheboygan,117
+VINE,United States,Wisconsin,55,St. Croix,109
+VINE,United States,Wisconsin,55,Trempealeau,121
+VINE,United States,Wisconsin,55,Vernon,123
+VINE,United States,Wisconsin,55,Vilas,125
+VINE,United States,Wisconsin,55,Walworth,127
+VINE,United States,Wisconsin,55,Washington,131
+VINE,United States,Wisconsin,55,Waukesha,133
+VINE,United States,Wisconsin,55,Waupaca,135
+VINE,United States,Wisconsin,55,Waushara,137
+VINE,United States,Wisconsin,55,Winnebago,139
+VINE,United States,Wyoming,56,,
+VINE,United States,Wyoming,56,Albany,001
+VINE,United States,Wyoming,56,Big Horn,003
+VINE,United States,Wyoming,56,Carbon,007
+VINE,United States,Wyoming,56,Crook,011
+VINE,United States,Wyoming,56,Fremont,013
+VINE,United States,Wyoming,56,Johnson,019
+VINE,United States,Wyoming,56,Laramie,021
+VINE,United States,Wyoming,56,Lincoln,023
+VINE,United States,Wyoming,56,Park,029
+VINE,United States,Wyoming,56,Sheridan,033
+VINE,United States,Wyoming,56,Sublette,035
+VINE,United States,Wyoming,56,Sweetwater,037
+VINE,United States,Wyoming,56,Teton,039
+VINE,United States,Wyoming,56,Uinta,041
+VINE,United States,Wyoming,56,Weston,045
+VINE,Canada,Newfoundland,NF,,

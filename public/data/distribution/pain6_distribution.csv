@@ -1,0 +1,654 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+PAIN6,United States,Alabama,01,,
+PAIN6,United States,Alabama,01,Baldwin,003
+PAIN6,United States,Alabama,01,Bibb,007
+PAIN6,United States,Alabama,01,Cullman,043
+PAIN6,United States,Alabama,01,Elmore,051
+PAIN6,United States,Alabama,01,Greene,063
+PAIN6,United States,Alabama,01,Hale,065
+PAIN6,United States,Alabama,01,Henry,067
+PAIN6,United States,Alabama,01,Jackson,071
+PAIN6,United States,Alabama,01,Lamar,075
+PAIN6,United States,Alabama,01,Lawrence,079
+PAIN6,United States,Alabama,01,Lee,081
+PAIN6,United States,Alabama,01,Mobile,097
+PAIN6,United States,Alabama,01,Pickens,107
+PAIN6,United States,Alabama,01,St. Clair,115
+PAIN6,United States,Alabama,01,Tuscaloosa,125
+PAIN6,United States,Arkansas,05,,
+PAIN6,United States,Arkansas,05,Arkansas,001
+PAIN6,United States,Arkansas,05,Ashley,003
+PAIN6,United States,Arkansas,05,Baxter,005
+PAIN6,United States,Arkansas,05,Benton,007
+PAIN6,United States,Arkansas,05,Bradley,011
+PAIN6,United States,Arkansas,05,Carroll,015
+PAIN6,United States,Arkansas,05,Chicot,017
+PAIN6,United States,Arkansas,05,Clark,019
+PAIN6,United States,Arkansas,05,Clay,021
+PAIN6,United States,Arkansas,05,Cleburne,023
+PAIN6,United States,Arkansas,05,Cleveland,025
+PAIN6,United States,Arkansas,05,Columbia,027
+PAIN6,United States,Arkansas,05,Conway,029
+PAIN6,United States,Arkansas,05,Craighead,031
+PAIN6,United States,Arkansas,05,Crittenden,035
+PAIN6,United States,Arkansas,05,Cross,037
+PAIN6,United States,Arkansas,05,Dallas,039
+PAIN6,United States,Arkansas,05,Desha,041
+PAIN6,United States,Arkansas,05,Drew,043
+PAIN6,United States,Arkansas,05,Faulkner,045
+PAIN6,United States,Arkansas,05,Franklin,047
+PAIN6,United States,Arkansas,05,Fulton,049
+PAIN6,United States,Arkansas,05,Garland,051
+PAIN6,United States,Arkansas,05,Greene,055
+PAIN6,United States,Arkansas,05,Hempstead,057
+PAIN6,United States,Arkansas,05,Hot Spring,059
+PAIN6,United States,Arkansas,05,Independence,063
+PAIN6,United States,Arkansas,05,Izard,065
+PAIN6,United States,Arkansas,05,Jackson,067
+PAIN6,United States,Arkansas,05,Jefferson,069
+PAIN6,United States,Arkansas,05,Lawrence,075
+PAIN6,United States,Arkansas,05,Lee,077
+PAIN6,United States,Arkansas,05,Lincoln,079
+PAIN6,United States,Arkansas,05,Little River,081
+PAIN6,United States,Arkansas,05,Logan,083
+PAIN6,United States,Arkansas,05,Lonoke,085
+PAIN6,United States,Arkansas,05,Madison,087
+PAIN6,United States,Arkansas,05,Marion,089
+PAIN6,United States,Arkansas,05,Mississippi,093
+PAIN6,United States,Arkansas,05,Monroe,095
+PAIN6,United States,Arkansas,05,Montgomery,097
+PAIN6,United States,Arkansas,05,Newton,101
+PAIN6,United States,Arkansas,05,Ouachita,103
+PAIN6,United States,Arkansas,05,Pike,109
+PAIN6,United States,Arkansas,05,Poinsett,111
+PAIN6,United States,Arkansas,05,Pope,115
+PAIN6,United States,Arkansas,05,Prairie,117
+PAIN6,United States,Arkansas,05,Pulaski,119
+PAIN6,United States,Arkansas,05,Randolph,121
+PAIN6,United States,Arkansas,05,Saline,125
+PAIN6,United States,Arkansas,05,Scott,127
+PAIN6,United States,Arkansas,05,Searcy,129
+PAIN6,United States,Arkansas,05,Sebastian,131
+PAIN6,United States,Arkansas,05,Sevier,133
+PAIN6,United States,Arkansas,05,Sharp,135
+PAIN6,United States,Arkansas,05,St. Francis,123
+PAIN6,United States,Arkansas,05,Union,139
+PAIN6,United States,Arkansas,05,Washington,143
+PAIN6,United States,Arkansas,05,White,145
+PAIN6,United States,Arkansas,05,Yell,149
+PAIN6,United States,Delaware,10,,
+PAIN6,United States,Delaware,10,Sussex,005
+PAIN6,United States,District of Columbia,11,,
+PAIN6,United States,District of Columbia,11,District of Columbia,001
+PAIN6,United States,Florida,12,,
+PAIN6,United States,Florida,12,Alachua,001
+PAIN6,United States,Florida,12,Baker,003
+PAIN6,United States,Florida,12,Brevard,009
+PAIN6,United States,Florida,12,Calhoun,013
+PAIN6,United States,Florida,12,Citrus,017
+PAIN6,United States,Florida,12,Columbia,023
+PAIN6,United States,Florida,12,Dixie,029
+PAIN6,United States,Florida,12,Duval,031
+PAIN6,United States,Florida,12,Escambia,033
+PAIN6,United States,Florida,12,Flagler,035
+PAIN6,United States,Florida,12,Franklin,037
+PAIN6,United States,Florida,12,Gadsden,039
+PAIN6,United States,Florida,12,Gilchrist,041
+PAIN6,United States,Florida,12,Hardee,049
+PAIN6,United States,Florida,12,Hernando,053
+PAIN6,United States,Florida,12,Holmes,059
+PAIN6,United States,Florida,12,Indian River,061
+PAIN6,United States,Florida,12,Jackson,063
+PAIN6,United States,Florida,12,Jefferson,065
+PAIN6,United States,Florida,12,Lafayette,067
+PAIN6,United States,Florida,12,Lake,069
+PAIN6,United States,Florida,12,Leon,073
+PAIN6,United States,Florida,12,Levy,075
+PAIN6,United States,Florida,12,Liberty,077
+PAIN6,United States,Florida,12,Madison,079
+PAIN6,United States,Florida,12,Manatee,081
+PAIN6,United States,Florida,12,Marion,083
+PAIN6,United States,Florida,12,Miami-Dade,086
+PAIN6,United States,Florida,12,Orange,095
+PAIN6,United States,Florida,12,Osceola,097
+PAIN6,United States,Florida,12,Palm Beach,099
+PAIN6,United States,Florida,12,Pasco,101
+PAIN6,United States,Florida,12,Pinellas,103
+PAIN6,United States,Florida,12,Polk,105
+PAIN6,United States,Florida,12,Putnam,107
+PAIN6,United States,Florida,12,Santa Rosa,113
+PAIN6,United States,Florida,12,Seminole,117
+PAIN6,United States,Florida,12,St. Johns,109
+PAIN6,United States,Florida,12,St. Lucie,111
+PAIN6,United States,Florida,12,Sumter,119
+PAIN6,United States,Florida,12,Suwannee,121
+PAIN6,United States,Florida,12,Volusia,127
+PAIN6,United States,Florida,12,Wakulla,129
+PAIN6,United States,Florida,12,Walton,131
+PAIN6,United States,Florida,12,Washington,133
+PAIN6,United States,Georgia,13,,
+PAIN6,United States,Illinois,17,,
+PAIN6,United States,Illinois,17,Alexander,003
+PAIN6,United States,Illinois,17,Edwards,047
+PAIN6,United States,Illinois,17,Gallatin,059
+PAIN6,United States,Illinois,17,Hardin,069
+PAIN6,United States,Illinois,17,Jackson,077
+PAIN6,United States,Illinois,17,Jersey,083
+PAIN6,United States,Illinois,17,Johnson,087
+PAIN6,United States,Illinois,17,Lawrence,101
+PAIN6,United States,Illinois,17,Marion,121
+PAIN6,United States,Illinois,17,Massac,127
+PAIN6,United States,Illinois,17,Perry,145
+PAIN6,United States,Illinois,17,Pope,151
+PAIN6,United States,Illinois,17,Pulaski,153
+PAIN6,United States,Illinois,17,Randolph,157
+PAIN6,United States,Illinois,17,Saline,165
+PAIN6,United States,Illinois,17,St. Clair,163
+PAIN6,United States,Illinois,17,Union,181
+PAIN6,United States,Illinois,17,Wabash,185
+PAIN6,United States,Illinois,17,Wayne,191
+PAIN6,United States,Illinois,17,White,193
+PAIN6,United States,Illinois,17,Williamson,199
+PAIN6,United States,Indiana,18,,
+PAIN6,United States,Indiana,18,Cass,017
+PAIN6,United States,Indiana,18,Clark,019
+PAIN6,United States,Indiana,18,Crawford,025
+PAIN6,United States,Indiana,18,Dubois,037
+PAIN6,United States,Indiana,18,Floyd,043
+PAIN6,United States,Indiana,18,Harrison,061
+PAIN6,United States,Indiana,18,Jackson,071
+PAIN6,United States,Indiana,18,Knox,083
+PAIN6,United States,Indiana,18,Lawrence,093
+PAIN6,United States,Indiana,18,Perry,123
+PAIN6,United States,Indiana,18,Posey,129
+PAIN6,United States,Indiana,18,Spencer,147
+PAIN6,United States,Indiana,18,Switzerland,155
+PAIN6,United States,Indiana,18,Vanderburgh,163
+PAIN6,United States,Indiana,18,Washington,175
+PAIN6,United States,Kansas,20,,
+PAIN6,United States,Kansas,20,Bourbon,011
+PAIN6,United States,Kansas,20,Cherokee,021
+PAIN6,United States,Kansas,20,Cowley,035
+PAIN6,United States,Kansas,20,Crawford,037
+PAIN6,United States,Kansas,20,Montgomery,125
+PAIN6,United States,Kansas,20,Woodson,207
+PAIN6,United States,Kansas,20,Wyandotte,209
+PAIN6,United States,Kentucky,21,,
+PAIN6,United States,Kentucky,21,Adair,001
+PAIN6,United States,Kentucky,21,Allen,003
+PAIN6,United States,Kentucky,21,Barren,009
+PAIN6,United States,Kentucky,21,Bell,013
+PAIN6,United States,Kentucky,21,Bourbon,017
+PAIN6,United States,Kentucky,21,Bullitt,029
+PAIN6,United States,Kentucky,21,Calloway,035
+PAIN6,United States,Kentucky,21,Campbell,037
+PAIN6,United States,Kentucky,21,Christian,047
+PAIN6,United States,Kentucky,21,Edmonson,061
+PAIN6,United States,Kentucky,21,Fayette,067
+PAIN6,United States,Kentucky,21,Fulton,075
+PAIN6,United States,Kentucky,21,Garrard,079
+PAIN6,United States,Kentucky,21,Graves,083
+PAIN6,United States,Kentucky,21,Hardin,093
+PAIN6,United States,Kentucky,21,Hart,099
+PAIN6,United States,Kentucky,21,Henry,103
+PAIN6,United States,Kentucky,21,Hickman,105
+PAIN6,United States,Kentucky,21,Hopkins,107
+PAIN6,United States,Kentucky,21,Jefferson,111
+PAIN6,United States,Kentucky,21,Knott,119
+PAIN6,United States,Kentucky,21,Lincoln,137
+PAIN6,United States,Kentucky,21,Logan,141
+PAIN6,United States,Kentucky,21,Lyon,143
+PAIN6,United States,Kentucky,21,Madison,151
+PAIN6,United States,Kentucky,21,McCracken,145
+PAIN6,United States,Kentucky,21,McCreary,147
+PAIN6,United States,Kentucky,21,McLean,149
+PAIN6,United States,Kentucky,21,Menifee,165
+PAIN6,United States,Kentucky,21,Mercer,167
+PAIN6,United States,Kentucky,21,Metcalfe,169
+PAIN6,United States,Kentucky,21,Muhlenberg,177
+PAIN6,United States,Kentucky,21,Ohio,183
+PAIN6,United States,Kentucky,21,Pike,195
+PAIN6,United States,Kentucky,21,Pulaski,199
+PAIN6,United States,Kentucky,21,Rowan,205
+PAIN6,United States,Kentucky,21,Simpson,213
+PAIN6,United States,Kentucky,21,Todd,219
+PAIN6,United States,Kentucky,21,Union,225
+PAIN6,United States,Kentucky,21,Warren,227
+PAIN6,United States,Kentucky,21,Wayne,231
+PAIN6,United States,Louisiana,22,,
+PAIN6,United States,Louisiana,22,Acadia,001
+PAIN6,United States,Louisiana,22,Allen,003
+PAIN6,United States,Louisiana,22,Ascension,005
+PAIN6,United States,Louisiana,22,Assumption,007
+PAIN6,United States,Louisiana,22,Avoyelles,009
+PAIN6,United States,Louisiana,22,Beauregard,011
+PAIN6,United States,Louisiana,22,Bienville,013
+PAIN6,United States,Louisiana,22,Bossier,015
+PAIN6,United States,Louisiana,22,Caddo,017
+PAIN6,United States,Louisiana,22,Calcasieu,019
+PAIN6,United States,Louisiana,22,Caldwell,021
+PAIN6,United States,Louisiana,22,Cameron,023
+PAIN6,United States,Louisiana,22,Catahoula,025
+PAIN6,United States,Louisiana,22,Claiborne,027
+PAIN6,United States,Louisiana,22,Concordia,029
+PAIN6,United States,Louisiana,22,De Soto,031
+PAIN6,United States,Louisiana,22,East Baton Rouge,033
+PAIN6,United States,Louisiana,22,East Carroll,035
+PAIN6,United States,Louisiana,22,East Feliciana,037
+PAIN6,United States,Louisiana,22,Evangeline,039
+PAIN6,United States,Louisiana,22,Franklin,041
+PAIN6,United States,Louisiana,22,Grant,043
+PAIN6,United States,Louisiana,22,Iberia,045
+PAIN6,United States,Louisiana,22,Jackson,049
+PAIN6,United States,Louisiana,22,Jefferson,051
+PAIN6,United States,Louisiana,22,Jefferson Davis,053
+PAIN6,United States,Louisiana,22,Lafayette,055
+PAIN6,United States,Louisiana,22,Lafourche,057
+PAIN6,United States,Louisiana,22,LaSalle,059
+PAIN6,United States,Louisiana,22,Lincoln,061
+PAIN6,United States,Louisiana,22,Livingston,063
+PAIN6,United States,Louisiana,22,Madison,065
+PAIN6,United States,Louisiana,22,Morehouse,067
+PAIN6,United States,Louisiana,22,Natchitoches,069
+PAIN6,United States,Louisiana,22,Orleans,071
+PAIN6,United States,Louisiana,22,Ouachita,073
+PAIN6,United States,Louisiana,22,Plaquemines,075
+PAIN6,United States,Louisiana,22,Rapides,079
+PAIN6,United States,Louisiana,22,Red River,081
+PAIN6,United States,Louisiana,22,Richland,083
+PAIN6,United States,Louisiana,22,Sabine,085
+PAIN6,United States,Louisiana,22,St. Charles,089
+PAIN6,United States,Louisiana,22,St. Helena,091
+PAIN6,United States,Louisiana,22,St. James,093
+PAIN6,United States,Louisiana,22,St. John the Baptist,095
+PAIN6,United States,Louisiana,22,St. Landry,097
+PAIN6,United States,Louisiana,22,St. Martin,099
+PAIN6,United States,Louisiana,22,St. Mary,101
+PAIN6,United States,Louisiana,22,St. Tammany,103
+PAIN6,United States,Louisiana,22,Tangipahoa,105
+PAIN6,United States,Louisiana,22,Tensas,107
+PAIN6,United States,Louisiana,22,Terrebonne,109
+PAIN6,United States,Louisiana,22,Union,111
+PAIN6,United States,Louisiana,22,Vermilion,113
+PAIN6,United States,Louisiana,22,Vernon,115
+PAIN6,United States,Louisiana,22,Washington,117
+PAIN6,United States,Louisiana,22,Webster,119
+PAIN6,United States,Louisiana,22,West Carroll,123
+PAIN6,United States,Louisiana,22,West Feliciana,125
+PAIN6,United States,Louisiana,22,Winn,127
+PAIN6,United States,Maryland,24,,
+PAIN6,United States,Mississippi,28,,
+PAIN6,United States,Mississippi,28,Amite,005
+PAIN6,United States,Mississippi,28,Attala,007
+PAIN6,United States,Mississippi,28,Benton,009
+PAIN6,United States,Mississippi,28,Bolivar,011
+PAIN6,United States,Mississippi,28,Calhoun,013
+PAIN6,United States,Mississippi,28,Choctaw,019
+PAIN6,United States,Mississippi,28,Clay,025
+PAIN6,United States,Mississippi,28,Copiah,029
+PAIN6,United States,Mississippi,28,Covington,031
+PAIN6,United States,Mississippi,28,DeSoto,033
+PAIN6,United States,Mississippi,28,Forrest,035
+PAIN6,United States,Mississippi,28,Franklin,037
+PAIN6,United States,Mississippi,28,Grenada,043
+PAIN6,United States,Mississippi,28,Hinds,049
+PAIN6,United States,Mississippi,28,Holmes,051
+PAIN6,United States,Mississippi,28,Humphreys,053
+PAIN6,United States,Mississippi,28,Itawamba,057
+PAIN6,United States,Mississippi,28,Jackson,059
+PAIN6,United States,Mississippi,28,Jasper,061
+PAIN6,United States,Mississippi,28,Jefferson,063
+PAIN6,United States,Mississippi,28,Jefferson Davis,065
+PAIN6,United States,Mississippi,28,Kemper,069
+PAIN6,United States,Mississippi,28,Lafayette,071
+PAIN6,United States,Mississippi,28,Lamar,073
+PAIN6,United States,Mississippi,28,Lauderdale,075
+PAIN6,United States,Mississippi,28,Leake,079
+PAIN6,United States,Mississippi,28,Lee,081
+PAIN6,United States,Mississippi,28,Lincoln,085
+PAIN6,United States,Mississippi,28,Lowndes,087
+PAIN6,United States,Mississippi,28,Madison,089
+PAIN6,United States,Mississippi,28,Marion,091
+PAIN6,United States,Mississippi,28,Marshall,093
+PAIN6,United States,Mississippi,28,Montgomery,097
+PAIN6,United States,Mississippi,28,Neshoba,099
+PAIN6,United States,Mississippi,28,Perry,111
+PAIN6,United States,Mississippi,28,Pike,113
+PAIN6,United States,Mississippi,28,Pontotoc,115
+PAIN6,United States,Mississippi,28,Rankin,121
+PAIN6,United States,Mississippi,28,Scott,123
+PAIN6,United States,Mississippi,28,Simpson,127
+PAIN6,United States,Mississippi,28,Tallahatchie,135
+PAIN6,United States,Mississippi,28,Tate,137
+PAIN6,United States,Mississippi,28,Tippah,139
+PAIN6,United States,Mississippi,28,Tishomingo,141
+PAIN6,United States,Mississippi,28,Tunica,143
+PAIN6,United States,Mississippi,28,Union,145
+PAIN6,United States,Mississippi,28,Warren,149
+PAIN6,United States,Mississippi,28,Washington,151
+PAIN6,United States,Mississippi,28,Wayne,153
+PAIN6,United States,Mississippi,28,Webster,155
+PAIN6,United States,Mississippi,28,Wilkinson,157
+PAIN6,United States,Mississippi,28,Winston,159
+PAIN6,United States,Mississippi,28,Yalobusha,161
+PAIN6,United States,Mississippi,28,Yazoo,163
+PAIN6,United States,Missouri,29,,
+PAIN6,United States,Missouri,29,Barry,009
+PAIN6,United States,Missouri,29,Bates,013
+PAIN6,United States,Missouri,29,Butler,023
+PAIN6,United States,Missouri,29,Cape Girardeau,031
+PAIN6,United States,Missouri,29,Christian,043
+PAIN6,United States,Missouri,29,Cole,051
+PAIN6,United States,Missouri,29,Dunklin,069
+PAIN6,United States,Missouri,29,Greene,077
+PAIN6,United States,Missouri,29,Howell,091
+PAIN6,United States,Missouri,29,Jasper,097
+PAIN6,United States,Missouri,29,Lawrence,109
+PAIN6,United States,Missouri,29,McDonald,119
+PAIN6,United States,Missouri,29,Mississippi,133
+PAIN6,United States,Missouri,29,New Madrid,143
+PAIN6,United States,Missouri,29,Newton,145
+PAIN6,United States,Missouri,29,Oregon,149
+PAIN6,United States,Missouri,29,Pemiscot,155
+PAIN6,United States,Missouri,29,Ripley,181
+PAIN6,United States,Missouri,29,Scott,201
+PAIN6,United States,Missouri,29,St. Charles,183
+PAIN6,United States,Missouri,29,St. Clair,185
+PAIN6,United States,Missouri,29,St. Francois,187
+PAIN6,United States,Missouri,29,Ste. Genevieve,186
+PAIN6,United States,Missouri,29,Stoddard,207
+PAIN6,United States,Missouri,29,Washington,221
+PAIN6,United States,New Jersey,34,,
+PAIN6,United States,New Jersey,34,Cumberland,011
+PAIN6,United States,North Carolina,37,,
+PAIN6,United States,North Carolina,37,Alamance,001
+PAIN6,United States,North Carolina,37,Alexander,003
+PAIN6,United States,North Carolina,37,Beaufort,013
+PAIN6,United States,North Carolina,37,Bertie,015
+PAIN6,United States,North Carolina,37,Bladen,017
+PAIN6,United States,North Carolina,37,Brunswick,019
+PAIN6,United States,North Carolina,37,Buncombe,021
+PAIN6,United States,North Carolina,37,Burke,023
+PAIN6,United States,North Carolina,37,Cabarrus,025
+PAIN6,United States,North Carolina,37,Caldwell,027
+PAIN6,United States,North Carolina,37,Camden,029
+PAIN6,United States,North Carolina,37,Carteret,031
+PAIN6,United States,North Carolina,37,Caswell,033
+PAIN6,United States,North Carolina,37,Catawba,035
+PAIN6,United States,North Carolina,37,Chatham,037
+PAIN6,United States,North Carolina,37,Cherokee,039
+PAIN6,United States,North Carolina,37,Chowan,041
+PAIN6,United States,North Carolina,37,Clay,043
+PAIN6,United States,North Carolina,37,Cleveland,045
+PAIN6,United States,North Carolina,37,Craven,049
+PAIN6,United States,North Carolina,37,Cumberland,051
+PAIN6,United States,North Carolina,37,Currituck,053
+PAIN6,United States,North Carolina,37,Dare,055
+PAIN6,United States,North Carolina,37,Davidson,057
+PAIN6,United States,North Carolina,37,Davie,059
+PAIN6,United States,North Carolina,37,Duplin,061
+PAIN6,United States,North Carolina,37,Durham,063
+PAIN6,United States,North Carolina,37,Edgecombe,065
+PAIN6,United States,North Carolina,37,Forsyth,067
+PAIN6,United States,North Carolina,37,Franklin,069
+PAIN6,United States,North Carolina,37,Gaston,071
+PAIN6,United States,North Carolina,37,Gates,073
+PAIN6,United States,North Carolina,37,Graham,075
+PAIN6,United States,North Carolina,37,Granville,077
+PAIN6,United States,North Carolina,37,Greene,079
+PAIN6,United States,North Carolina,37,Guilford,081
+PAIN6,United States,North Carolina,37,Halifax,083
+PAIN6,United States,North Carolina,37,Harnett,085
+PAIN6,United States,North Carolina,37,Haywood,087
+PAIN6,United States,North Carolina,37,Henderson,089
+PAIN6,United States,North Carolina,37,Hertford,091
+PAIN6,United States,North Carolina,37,Hoke,093
+PAIN6,United States,North Carolina,37,Iredell,097
+PAIN6,United States,North Carolina,37,Jackson,099
+PAIN6,United States,North Carolina,37,Johnston,101
+PAIN6,United States,North Carolina,37,Jones,103
+PAIN6,United States,North Carolina,37,Lee,105
+PAIN6,United States,North Carolina,37,Lenoir,107
+PAIN6,United States,North Carolina,37,Lincoln,109
+PAIN6,United States,North Carolina,37,Macon,113
+PAIN6,United States,North Carolina,37,Madison,115
+PAIN6,United States,North Carolina,37,Martin,117
+PAIN6,United States,North Carolina,37,McDowell,111
+PAIN6,United States,North Carolina,37,Mecklenburg,119
+PAIN6,United States,North Carolina,37,Montgomery,123
+PAIN6,United States,North Carolina,37,Moore,125
+PAIN6,United States,North Carolina,37,Nash,127
+PAIN6,United States,North Carolina,37,New Hanover,129
+PAIN6,United States,North Carolina,37,Northampton,131
+PAIN6,United States,North Carolina,37,Onslow,133
+PAIN6,United States,North Carolina,37,Orange,135
+PAIN6,United States,North Carolina,37,Pender,141
+PAIN6,United States,North Carolina,37,Person,145
+PAIN6,United States,North Carolina,37,Pitt,147
+PAIN6,United States,North Carolina,37,Polk,149
+PAIN6,United States,North Carolina,37,Randolph,151
+PAIN6,United States,North Carolina,37,Richmond,153
+PAIN6,United States,North Carolina,37,Robeson,155
+PAIN6,United States,North Carolina,37,Rockingham,157
+PAIN6,United States,North Carolina,37,Rowan,159
+PAIN6,United States,North Carolina,37,Sampson,163
+PAIN6,United States,North Carolina,37,Scotland,165
+PAIN6,United States,North Carolina,37,Stanly,167
+PAIN6,United States,North Carolina,37,Stokes,169
+PAIN6,United States,North Carolina,37,Surry,171
+PAIN6,United States,North Carolina,37,Swain,173
+PAIN6,United States,North Carolina,37,Transylvania,175
+PAIN6,United States,North Carolina,37,Tyrrell,177
+PAIN6,United States,North Carolina,37,Union,179
+PAIN6,United States,North Carolina,37,Vance,181
+PAIN6,United States,North Carolina,37,Wake,183
+PAIN6,United States,North Carolina,37,Warren,185
+PAIN6,United States,North Carolina,37,Washington,187
+PAIN6,United States,North Carolina,37,Watauga,189
+PAIN6,United States,North Carolina,37,Wayne,191
+PAIN6,United States,North Carolina,37,Wilkes,193
+PAIN6,United States,North Carolina,37,Wilson,195
+PAIN6,United States,North Carolina,37,Yadkin,197
+PAIN6,United States,Ohio,39,,
+PAIN6,United States,Ohio,39,Adams,001
+PAIN6,United States,Ohio,39,Athens,009
+PAIN6,United States,Ohio,39,Brown,015
+PAIN6,United States,Ohio,39,Hamilton,061
+PAIN6,United States,Ohio,39,Hocking,073
+PAIN6,United States,Ohio,39,Lawrence,087
+PAIN6,United States,Oklahoma,40,,
+PAIN6,United States,Oklahoma,40,Bryan,013
+PAIN6,United States,Oklahoma,40,Cherokee,021
+PAIN6,United States,Oklahoma,40,Choctaw,023
+PAIN6,United States,Oklahoma,40,Creek,037
+PAIN6,United States,Oklahoma,40,Delaware,041
+PAIN6,United States,Oklahoma,40,Haskell,061
+PAIN6,United States,Oklahoma,40,Hughes,063
+PAIN6,United States,Oklahoma,40,Latimer,077
+PAIN6,United States,Oklahoma,40,Le Flore,079
+PAIN6,United States,Oklahoma,40,Love,085
+PAIN6,United States,Oklahoma,40,Marshall,095
+PAIN6,United States,Oklahoma,40,Mayes,097
+PAIN6,United States,Oklahoma,40,McCurtain,089
+PAIN6,United States,Oklahoma,40,Muskogee,101
+PAIN6,United States,Oklahoma,40,Nowata,105
+PAIN6,United States,Oklahoma,40,Oklahoma,109
+PAIN6,United States,Oklahoma,40,Osage,113
+PAIN6,United States,Oklahoma,40,Payne,119
+PAIN6,United States,Oklahoma,40,Pottawatomie,125
+PAIN6,United States,Oklahoma,40,Pushmataha,127
+PAIN6,United States,Oklahoma,40,Sequoyah,135
+PAIN6,United States,Oklahoma,40,Tulsa,143
+PAIN6,United States,Oklahoma,40,Wagoner,145
+PAIN6,United States,Pennsylvania,42,,
+PAIN6,United States,South Carolina,45,,
+PAIN6,United States,South Carolina,45,Abbeville,001
+PAIN6,United States,South Carolina,45,Aiken,003
+PAIN6,United States,South Carolina,45,Allendale,005
+PAIN6,United States,South Carolina,45,Anderson,007
+PAIN6,United States,South Carolina,45,Barnwell,011
+PAIN6,United States,South Carolina,45,Beaufort,013
+PAIN6,United States,South Carolina,45,Calhoun,017
+PAIN6,United States,South Carolina,45,Charleston,019
+PAIN6,United States,South Carolina,45,Cherokee,021
+PAIN6,United States,South Carolina,45,Chesterfield,025
+PAIN6,United States,South Carolina,45,Clarendon,027
+PAIN6,United States,South Carolina,45,Colleton,029
+PAIN6,United States,South Carolina,45,Darlington,031
+PAIN6,United States,South Carolina,45,Dillon,033
+PAIN6,United States,South Carolina,45,Dorchester,035
+PAIN6,United States,South Carolina,45,Edgefield,037
+PAIN6,United States,South Carolina,45,Fairfield,039
+PAIN6,United States,South Carolina,45,Florence,041
+PAIN6,United States,South Carolina,45,Georgetown,043
+PAIN6,United States,South Carolina,45,Greenville,045
+PAIN6,United States,South Carolina,45,Greenwood,047
+PAIN6,United States,South Carolina,45,Hampton,049
+PAIN6,United States,South Carolina,45,Horry,051
+PAIN6,United States,South Carolina,45,Jasper,053
+PAIN6,United States,South Carolina,45,Kershaw,055
+PAIN6,United States,South Carolina,45,Lancaster,057
+PAIN6,United States,South Carolina,45,Laurens,059
+PAIN6,United States,South Carolina,45,Lee,061
+PAIN6,United States,South Carolina,45,Lexington,063
+PAIN6,United States,South Carolina,45,Marion,067
+PAIN6,United States,South Carolina,45,Marlboro,069
+PAIN6,United States,South Carolina,45,McCormick,065
+PAIN6,United States,South Carolina,45,Newberry,071
+PAIN6,United States,South Carolina,45,Oconee,073
+PAIN6,United States,South Carolina,45,Orangeburg,075
+PAIN6,United States,South Carolina,45,Pickens,077
+PAIN6,United States,South Carolina,45,Richland,079
+PAIN6,United States,South Carolina,45,Saluda,081
+PAIN6,United States,South Carolina,45,Spartanburg,083
+PAIN6,United States,South Carolina,45,Sumter,085
+PAIN6,United States,South Carolina,45,Union,087
+PAIN6,United States,South Carolina,45,Williamsburg,089
+PAIN6,United States,South Carolina,45,York,091
+PAIN6,United States,Tennessee,47,,
+PAIN6,United States,Tennessee,47,Anderson,001
+PAIN6,United States,Tennessee,47,Bedford,003
+PAIN6,United States,Tennessee,47,Benton,005
+PAIN6,United States,Tennessee,47,Blount,009
+PAIN6,United States,Tennessee,47,Campbell,013
+PAIN6,United States,Tennessee,47,Carroll,017
+PAIN6,United States,Tennessee,47,Carter,019
+PAIN6,United States,Tennessee,47,Cheatham,021
+PAIN6,United States,Tennessee,47,Clay,027
+PAIN6,United States,Tennessee,47,Davidson,037
+PAIN6,United States,Tennessee,47,Dickson,043
+PAIN6,United States,Tennessee,47,Fayette,047
+PAIN6,United States,Tennessee,47,Franklin,051
+PAIN6,United States,Tennessee,47,Giles,055
+PAIN6,United States,Tennessee,47,Grainger,057
+PAIN6,United States,Tennessee,47,Hamblen,063
+PAIN6,United States,Tennessee,47,Hamilton,065
+PAIN6,United States,Tennessee,47,Hardeman,069
+PAIN6,United States,Tennessee,47,Hardin,071
+PAIN6,United States,Tennessee,47,Hawkins,073
+PAIN6,United States,Tennessee,47,Haywood,075
+PAIN6,United States,Tennessee,47,Henry,079
+PAIN6,United States,Tennessee,47,Houston,083
+PAIN6,United States,Tennessee,47,Knox,093
+PAIN6,United States,Tennessee,47,Lake,095
+PAIN6,United States,Tennessee,47,Lauderdale,097
+PAIN6,United States,Tennessee,47,Loudon,105
+PAIN6,United States,Tennessee,47,Macon,111
+PAIN6,United States,Tennessee,47,Marion,115
+PAIN6,United States,Tennessee,47,Marshall,117
+PAIN6,United States,Tennessee,47,Maury,119
+PAIN6,United States,Tennessee,47,McMinn,107
+PAIN6,United States,Tennessee,47,McNairy,109
+PAIN6,United States,Tennessee,47,Meigs,121
+PAIN6,United States,Tennessee,47,Monroe,123
+PAIN6,United States,Tennessee,47,Montgomery,125
+PAIN6,United States,Tennessee,47,Overton,133
+PAIN6,United States,Tennessee,47,Rhea,143
+PAIN6,United States,Tennessee,47,Roane,145
+PAIN6,United States,Tennessee,47,Rutherford,149
+PAIN6,United States,Tennessee,47,Sevier,155
+PAIN6,United States,Tennessee,47,Shelby,157
+PAIN6,United States,Tennessee,47,Smith,159
+PAIN6,United States,Tennessee,47,Stewart,161
+PAIN6,United States,Tennessee,47,Sumner,165
+PAIN6,United States,Tennessee,47,Tipton,167
+PAIN6,United States,Tennessee,47,Trousdale,169
+PAIN6,United States,Tennessee,47,Unicoi,171
+PAIN6,United States,Tennessee,47,Warren,177
+PAIN6,United States,Tennessee,47,White,185
+PAIN6,United States,Tennessee,47,Williamson,187
+PAIN6,United States,Tennessee,47,Wilson,189
+PAIN6,United States,Texas,48,,
+PAIN6,United States,Texas,48,Brazos,041
+PAIN6,United States,Texas,48,Burleson,051
+PAIN6,United States,Texas,48,Denton,121
+PAIN6,United States,Texas,48,Jefferson,245
+PAIN6,United States,Texas,48,Madison,313
+PAIN6,United States,Texas,48,Matagorda,321
+PAIN6,United States,Texas,48,McLennan,309
+PAIN6,United States,Texas,48,Robertson,395
+PAIN6,United States,Texas,48,Waller,473
+PAIN6,United States,Virginia,51,,
+PAIN6,United States,Virginia,51,Accomack,001
+PAIN6,United States,Virginia,51,Albemarle,003
+PAIN6,United States,Virginia,51,Amelia,007
+PAIN6,United States,Virginia,51,Amherst,009
+PAIN6,United States,Virginia,51,Brunswick,025
+PAIN6,United States,Virginia,51,Campbell,031
+PAIN6,United States,Virginia,51,Charles City,036
+PAIN6,United States,Virginia,51,Charlotte,037
+PAIN6,United States,Virginia,51,Chesapeake ,550
+PAIN6,United States,Virginia,51,Chesterfield,041
+PAIN6,United States,Virginia,51,Cumberland,049
+PAIN6,United States,Virginia,51,Dinwiddie,053
+PAIN6,United States,Virginia,51,Essex,057
+PAIN6,United States,Virginia,51,Fairfax,059
+PAIN6,United States,Virginia,51,Fluvanna,065
+PAIN6,United States,Virginia,51,Franklin,067
+PAIN6,United States,Virginia,51,Gloucester,073
+PAIN6,United States,Virginia,51,Goochland,075
+PAIN6,United States,Virginia,51,Greensville,081
+PAIN6,United States,Virginia,51,Halifax,083
+PAIN6,United States,Virginia,51,Hampton ,650
+PAIN6,United States,Virginia,51,Hanover,085
+PAIN6,United States,Virginia,51,Henrico,087
+PAIN6,United States,Virginia,51,Henry,089
+PAIN6,United States,Virginia,51,Isle of Wight,093
+PAIN6,United States,Virginia,51,James City,095
+PAIN6,United States,Virginia,51,King and Queen,097
+PAIN6,United States,Virginia,51,King George,099
+PAIN6,United States,Virginia,51,King William,101
+PAIN6,United States,Virginia,51,Lancaster,103
+PAIN6,United States,Virginia,51,Lee,105
+PAIN6,United States,Virginia,51,Lunenburg,111
+PAIN6,United States,Virginia,51,Mathews,115
+PAIN6,United States,Virginia,51,Mecklenburg,117
+PAIN6,United States,Virginia,51,Middlesex,119
+PAIN6,United States,Virginia,51,Nelson,125
+PAIN6,United States,Virginia,51,New Kent,127
+PAIN6,United States,Virginia,51,Newport News ,700
+PAIN6,United States,Virginia,51,Northampton,131
+PAIN6,United States,Virginia,51,Northumberland,133
+PAIN6,United States,Virginia,51,Nottoway,135
+PAIN6,United States,Virginia,51,Orange,137
+PAIN6,United States,Virginia,51,Pittsylvania,143
+PAIN6,United States,Virginia,51,Powhatan,145
+PAIN6,United States,Virginia,51,Prince Edward,147
+PAIN6,United States,Virginia,51,Prince George,149
+PAIN6,United States,Virginia,51,Prince William,153
+PAIN6,United States,Virginia,51,Roanoke,161
+PAIN6,United States,Virginia,51,Rockbridge,163
+PAIN6,United States,Virginia,51,Scott,169
+PAIN6,United States,Virginia,51,Southampton,175
+PAIN6,United States,Virginia,51,Suffolk ,800
+PAIN6,United States,Virginia,51,Surry,181
+PAIN6,United States,Virginia,51,Sussex,183
+PAIN6,United States,Virginia,51,Virginia Beach ,810
+PAIN6,United States,Virginia,51,York,199
+PAIN6,United States,West Virginia,54,,
+PAIN6,United States,West Virginia,54,Calhoun,013
+PAIN6,United States,West Virginia,54,Gilmer,021
+PAIN6,United States,West Virginia,54,Kanawha,039
+PAIN6,United States,West Virginia,54,Mingo,059
+PAIN6,United States,West Virginia,54,Wayne,099

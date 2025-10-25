@@ -1,0 +1,346 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+DACAO,Canada,Alberta,01,,
+DACAO,Canada,Manitoba,03,,
+DACAO,United States,Arizona,04,,
+DACAO,United States,Arizona,04,Apache,001
+DACAO,United States,Arizona,04,Cochise,003
+DACAO,United States,Arizona,04,Coconino,005
+DACAO,United States,Arizona,04,Graham,009
+DACAO,United States,Arizona,04,Navajo,017
+DACAO,United States,Arizona,04,Pima,019
+DACAO,United States,Arizona,04,Santa Cruz,023
+DACAO,United States,Arizona,04,Yavapai,025
+DACAO,United States,Colorado,08,,
+DACAO,United States,Colorado,08,Arapahoe,005
+DACAO,United States,Colorado,08,Baca,009
+DACAO,United States,Colorado,08,Bent,011
+DACAO,United States,Colorado,08,Boulder,013
+DACAO,United States,Colorado,08,Custer,027
+DACAO,United States,Colorado,08,El Paso,041
+DACAO,United States,Colorado,08,Fremont,043
+DACAO,United States,Colorado,08,Huerfano,055
+DACAO,United States,Colorado,08,Jefferson,059
+DACAO,United States,Colorado,08,Kiowa,061
+DACAO,United States,Colorado,08,Kit Carson,063
+DACAO,United States,Colorado,08,Larimer,069
+DACAO,United States,Colorado,08,Las Animas,071
+DACAO,United States,Colorado,08,Lincoln,073
+DACAO,United States,Colorado,08,Logan,075
+DACAO,United States,Colorado,08,Mesa,077
+DACAO,United States,Colorado,08,Montezuma,083
+DACAO,United States,Colorado,08,Morgan,087
+DACAO,United States,Colorado,08,Otero,089
+DACAO,United States,Colorado,08,Phillips,095
+DACAO,United States,Colorado,08,Pueblo,101
+DACAO,United States,Colorado,08,Sedgwick,115
+DACAO,United States,Colorado,08,Washington,121
+DACAO,United States,Colorado,08,Weld,123
+DACAO,United States,Colorado,08,Yuma,125
+DACAO,Canada,Saskatchewan,11,,
+DACAO,United States,Iowa,19,,
+DACAO,United States,Iowa,19,Harrison,085
+DACAO,United States,Iowa,19,Monona,133
+DACAO,United States,Iowa,19,Plymouth,149
+DACAO,United States,Iowa,19,Woodbury,193
+DACAO,United States,Kansas,20,,
+DACAO,United States,Kansas,20,Barber,007
+DACAO,United States,Kansas,20,Cheyenne,023
+DACAO,United States,Kansas,20,Clark,025
+DACAO,United States,Kansas,20,Comanche,033
+DACAO,United States,Kansas,20,Decatur,039
+DACAO,United States,Kansas,20,Dickinson,041
+DACAO,United States,Kansas,20,Edwards,047
+DACAO,United States,Kansas,20,Ellis,051
+DACAO,United States,Kansas,20,Ellsworth,053
+DACAO,United States,Kansas,20,Finney,055
+DACAO,United States,Kansas,20,Ford,057
+DACAO,United States,Kansas,20,Gove,063
+DACAO,United States,Kansas,20,Graham,065
+DACAO,United States,Kansas,20,Grant,067
+DACAO,United States,Kansas,20,Gray,069
+DACAO,United States,Kansas,20,Greeley,071
+DACAO,United States,Kansas,20,Hamilton,075
+DACAO,United States,Kansas,20,Harper,077
+DACAO,United States,Kansas,20,Hodgeman,083
+DACAO,United States,Kansas,20,Jewell,089
+DACAO,United States,Kansas,20,Kearny,093
+DACAO,United States,Kansas,20,Kingman,095
+DACAO,United States,Kansas,20,Kiowa,097
+DACAO,United States,Kansas,20,Lane,101
+DACAO,United States,Kansas,20,Lincoln,105
+DACAO,United States,Kansas,20,Logan,109
+DACAO,United States,Kansas,20,McPherson,113
+DACAO,United States,Kansas,20,Meade,119
+DACAO,United States,Kansas,20,Mitchell,123
+DACAO,United States,Kansas,20,Morton,129
+DACAO,United States,Kansas,20,Ness,135
+DACAO,United States,Kansas,20,Norton,137
+DACAO,United States,Kansas,20,Osborne,141
+DACAO,United States,Kansas,20,Ottawa,143
+DACAO,United States,Kansas,20,Phillips,147
+DACAO,United States,Kansas,20,Pratt,151
+DACAO,United States,Kansas,20,Rawlins,153
+DACAO,United States,Kansas,20,Rice,159
+DACAO,United States,Kansas,20,Rooks,163
+DACAO,United States,Kansas,20,Russell,167
+DACAO,United States,Kansas,20,Saline,169
+DACAO,United States,Kansas,20,Scott,171
+DACAO,United States,Kansas,20,Seward,175
+DACAO,United States,Kansas,20,Sheridan,179
+DACAO,United States,Kansas,20,Sherman,181
+DACAO,United States,Kansas,20,Smith,183
+DACAO,United States,Kansas,20,Stanton,187
+DACAO,United States,Kansas,20,Sumner,191
+DACAO,United States,Kansas,20,Thomas,193
+DACAO,United States,Kansas,20,Trego,195
+DACAO,United States,Kansas,20,Wallace,199
+DACAO,United States,Kansas,20,Wichita,203
+DACAO,United States,Minnesota,27,,
+DACAO,United States,Montana,30,,
+DACAO,United States,Montana,30,Big Horn,003
+DACAO,United States,Montana,30,Blaine,005
+DACAO,United States,Montana,30,Carbon,009
+DACAO,United States,Montana,30,Carter,011
+DACAO,United States,Montana,30,Cascade,013
+DACAO,United States,Montana,30,Custer,017
+DACAO,United States,Montana,30,Daniels,019
+DACAO,United States,Montana,30,Dawson,021
+DACAO,United States,Montana,30,Fergus,027
+DACAO,United States,Montana,30,Gallatin,031
+DACAO,United States,Montana,30,Garfield,033
+DACAO,United States,Montana,30,Glacier,035
+DACAO,United States,Montana,30,Hill,041
+DACAO,United States,Montana,30,Jefferson,043
+DACAO,United States,Montana,30,Judith Basin,045
+DACAO,United States,Montana,30,Lewis and Clark,049
+DACAO,United States,Montana,30,Liberty,051
+DACAO,United States,Montana,30,McCone,055
+DACAO,United States,Montana,30,Meagher,059
+DACAO,United States,Montana,30,Musselshell,065
+DACAO,United States,Montana,30,Park,067
+DACAO,United States,Montana,30,Petroleum,069
+DACAO,United States,Montana,30,Phillips,071
+DACAO,United States,Montana,30,Powder River,075
+DACAO,United States,Montana,30,Powell,077
+DACAO,United States,Montana,30,Prairie,079
+DACAO,United States,Montana,30,Richland,083
+DACAO,United States,Montana,30,Roosevelt,085
+DACAO,United States,Montana,30,Rosebud,087
+DACAO,United States,Montana,30,Sheridan,091
+DACAO,United States,Montana,30,Stillwater,095
+DACAO,United States,Montana,30,Sweet Grass,097
+DACAO,United States,Montana,30,Toole,101
+DACAO,United States,Montana,30,Valley,105
+DACAO,United States,Montana,30,Wheatland,107
+DACAO,United States,Montana,30,Wibaux,109
+DACAO,United States,Montana,30,Yellowstone,111
+DACAO,United States,Nebraska,31,,
+DACAO,United States,Nebraska,31,Antelope,003
+DACAO,United States,Nebraska,31,Arthur,005
+DACAO,United States,Nebraska,31,Banner,007
+DACAO,United States,Nebraska,31,Blaine,009
+DACAO,United States,Nebraska,31,Box Butte,013
+DACAO,United States,Nebraska,31,Boyd,015
+DACAO,United States,Nebraska,31,Brown,017
+DACAO,United States,Nebraska,31,Chase,029
+DACAO,United States,Nebraska,31,Cherry,031
+DACAO,United States,Nebraska,31,Cheyenne,033
+DACAO,United States,Nebraska,31,Cuming,039
+DACAO,United States,Nebraska,31,Custer,041
+DACAO,United States,Nebraska,31,Dawes,045
+DACAO,United States,Nebraska,31,Deuel,049
+DACAO,United States,Nebraska,31,Dundy,057
+DACAO,United States,Nebraska,31,Frontier,063
+DACAO,United States,Nebraska,31,Furnas,065
+DACAO,United States,Nebraska,31,Garden,069
+DACAO,United States,Nebraska,31,Garfield,071
+DACAO,United States,Nebraska,31,Gosper,073
+DACAO,United States,Nebraska,31,Grant,075
+DACAO,United States,Nebraska,31,Hitchcock,087
+DACAO,United States,Nebraska,31,Holt,089
+DACAO,United States,Nebraska,31,Hooker,091
+DACAO,United States,Nebraska,31,Howard,093
+DACAO,United States,Nebraska,31,Keith,101
+DACAO,United States,Nebraska,31,Keya Paha,103
+DACAO,United States,Nebraska,31,Kimball,105
+DACAO,United States,Nebraska,31,Logan,113
+DACAO,United States,Nebraska,31,McPherson,117
+DACAO,United States,Nebraska,31,Morrill,123
+DACAO,United States,Nebraska,31,Nance,125
+DACAO,United States,Nebraska,31,Red Willow,145
+DACAO,United States,Nebraska,31,Scotts Bluff,157
+DACAO,United States,Nebraska,31,Sheridan,161
+DACAO,United States,Nebraska,31,Sherman,163
+DACAO,United States,Nebraska,31,Sioux,165
+DACAO,United States,Nebraska,31,Thomas,171
+DACAO,United States,Nebraska,31,Webster,181
+DACAO,United States,Nebraska,31,Wheeler,183
+DACAO,United States,New Mexico,35,,
+DACAO,United States,New Mexico,35,Bernalillo,001
+DACAO,United States,New Mexico,35,Catron,003
+DACAO,United States,New Mexico,35,Chaves,005
+DACAO,United States,New Mexico,35,Cibola,006
+DACAO,United States,New Mexico,35,Colfax,007
+DACAO,United States,New Mexico,35,Curry,009
+DACAO,United States,New Mexico,35,De Baca,011
+DACAO,United States,New Mexico,35,Dona Ana,013
+DACAO,United States,New Mexico,35,Eddy,015
+DACAO,United States,New Mexico,35,Grant,017
+DACAO,United States,New Mexico,35,Guadalupe,019
+DACAO,United States,New Mexico,35,Harding,021
+DACAO,United States,New Mexico,35,Hidalgo,023
+DACAO,United States,New Mexico,35,Lincoln,027
+DACAO,United States,New Mexico,35,Los Alamos,028
+DACAO,United States,New Mexico,35,McKinley,031
+DACAO,United States,New Mexico,35,Mora,033
+DACAO,United States,New Mexico,35,Otero,035
+DACAO,United States,New Mexico,35,Quay,037
+DACAO,United States,New Mexico,35,Rio Arriba,039
+DACAO,United States,New Mexico,35,Roosevelt,041
+DACAO,United States,New Mexico,35,San Juan,045
+DACAO,United States,New Mexico,35,San Miguel,047
+DACAO,United States,New Mexico,35,Sandoval,043
+DACAO,United States,New Mexico,35,Santa Fe,049
+DACAO,United States,New Mexico,35,Sierra,051
+DACAO,United States,New Mexico,35,Socorro,053
+DACAO,United States,New Mexico,35,Taos,055
+DACAO,United States,New Mexico,35,Torrance,057
+DACAO,United States,New Mexico,35,Union,059
+DACAO,United States,New Mexico,35,Valencia,061
+DACAO,United States,North Dakota,38,,
+DACAO,United States,North Dakota,38,Barnes,003
+DACAO,United States,North Dakota,38,Benson,005
+DACAO,United States,North Dakota,38,Billings,007
+DACAO,United States,North Dakota,38,Burleigh,015
+DACAO,United States,North Dakota,38,Cass,017
+DACAO,United States,North Dakota,38,Divide,023
+DACAO,United States,North Dakota,38,Dunn,025
+DACAO,United States,North Dakota,38,Emmons,029
+DACAO,United States,North Dakota,38,Golden Valley,033
+DACAO,United States,North Dakota,38,Grand Forks,035
+DACAO,United States,North Dakota,38,Grant,037
+DACAO,United States,North Dakota,38,Kidder,043
+DACAO,United States,North Dakota,38,LaMoure,045
+DACAO,United States,North Dakota,38,McIntosh,051
+DACAO,United States,North Dakota,38,McKenzie,053
+DACAO,United States,North Dakota,38,McLean,055
+DACAO,United States,North Dakota,38,Mercer,057
+DACAO,United States,North Dakota,38,Morton,059
+DACAO,United States,North Dakota,38,Mountrail,061
+DACAO,United States,North Dakota,38,Renville,075
+DACAO,United States,North Dakota,38,Sheridan,083
+DACAO,United States,North Dakota,38,Sioux,085
+DACAO,United States,North Dakota,38,Slope,087
+DACAO,United States,North Dakota,38,Stark,089
+DACAO,United States,North Dakota,38,Stutsman,093
+DACAO,United States,North Dakota,38,Ward,101
+DACAO,United States,North Dakota,38,Williams,105
+DACAO,United States,Oklahoma,40,,
+DACAO,United States,Oklahoma,40,Alfalfa,003
+DACAO,United States,Oklahoma,40,Beaver,007
+DACAO,United States,Oklahoma,40,Blaine,011
+DACAO,United States,Oklahoma,40,Cimarron,025
+DACAO,United States,Oklahoma,40,Cleveland,027
+DACAO,United States,Oklahoma,40,Comanche,031
+DACAO,United States,Oklahoma,40,Custer,039
+DACAO,United States,Oklahoma,40,Dewey,043
+DACAO,United States,Oklahoma,40,Garfield,047
+DACAO,United States,Oklahoma,40,Garvin,049
+DACAO,United States,Oklahoma,40,Grady,051
+DACAO,United States,Oklahoma,40,Grant,053
+DACAO,United States,Oklahoma,40,Harmon,057
+DACAO,United States,Oklahoma,40,Harper,059
+DACAO,United States,Oklahoma,40,Logan,083
+DACAO,United States,Oklahoma,40,Major,093
+DACAO,United States,Oklahoma,40,McClain,087
+DACAO,United States,Oklahoma,40,Noble,103
+DACAO,United States,Oklahoma,40,Oklahoma,109
+DACAO,United States,Oklahoma,40,Roger Mills,129
+DACAO,United States,Oklahoma,40,Stephens,137
+DACAO,United States,Oklahoma,40,Tillman,141
+DACAO,United States,Oklahoma,40,Woods,151
+DACAO,United States,Oklahoma,40,Woodward,153
+DACAO,United States,South Dakota,46,,
+DACAO,United States,South Dakota,46,Brule,015
+DACAO,United States,South Dakota,46,Buffalo,017
+DACAO,United States,South Dakota,46,Charles Mix,023
+DACAO,United States,South Dakota,46,Clay,027
+DACAO,United States,South Dakota,46,Custer,033
+DACAO,United States,South Dakota,46,Day,037
+DACAO,United States,South Dakota,46,Dewey,041
+DACAO,United States,South Dakota,46,Fall River,047
+DACAO,United States,South Dakota,46,Hanson,061
+DACAO,United States,South Dakota,46,Harding,063
+DACAO,United States,South Dakota,46,Hughes,065
+DACAO,United States,South Dakota,46,Jones,075
+DACAO,United States,South Dakota,46,Lawrence,081
+DACAO,United States,South Dakota,46,Lyman,085
+DACAO,United States,South Dakota,46,Mellette,095
+DACAO,United States,South Dakota,46,Pennington,103
+DACAO,United States,South Dakota,46,Roberts,109
+DACAO,United States,South Dakota,46,Stanley,117
+DACAO,United States,South Dakota,46,Todd,121
+DACAO,United States,South Dakota,46,Union,127
+DACAO,United States,Texas,48,,
+DACAO,United States,Texas,48,Bailey,017
+DACAO,United States,Texas,48,Brewster,043
+DACAO,United States,Texas,48,Briscoe,045
+DACAO,United States,Texas,48,Childress,075
+DACAO,United States,Texas,48,Culberson,109
+DACAO,United States,Texas,48,Deaf Smith,117
+DACAO,United States,Texas,48,Dickens,125
+DACAO,United States,Texas,48,Donley,129
+DACAO,United States,Texas,48,Floyd,153
+DACAO,United States,Texas,48,Foard,155
+DACAO,United States,Texas,48,Garza,169
+DACAO,United States,Texas,48,Gray,179
+DACAO,United States,Texas,48,Hall,191
+DACAO,United States,Texas,48,Hansford,195
+DACAO,United States,Texas,48,Hartley,205
+DACAO,United States,Texas,48,Hemphill,211
+DACAO,United States,Texas,48,Hutchinson,233
+DACAO,United States,Texas,48,Irion,235
+DACAO,United States,Texas,48,Jeff Davis,243
+DACAO,United States,Texas,48,Kent,263
+DACAO,United States,Texas,48,Knox,275
+DACAO,United States,Texas,48,Lubbock,303
+DACAO,United States,Texas,48,Mitchell,335
+DACAO,United States,Texas,48,Montague,337
+DACAO,United States,Texas,48,Motley,345
+DACAO,United States,Texas,48,Ochiltree,357
+DACAO,United States,Texas,48,Oldham,359
+DACAO,United States,Texas,48,Potter,375
+DACAO,United States,Texas,48,Presidio,377
+DACAO,United States,Texas,48,Randall,381
+DACAO,United States,Texas,48,Roberts,393
+DACAO,United States,Texas,48,Scurry,415
+DACAO,United States,Texas,48,Sherman,421
+DACAO,United States,Texas,48,Stonewall,433
+DACAO,United States,Texas,48,Swisher,437
+DACAO,United States,Texas,48,Terry,445
+DACAO,United States,Texas,48,Wheeler,483
+DACAO,United States,Texas,48,Wichita,485
+DACAO,United States,Utah,49,,
+DACAO,United States,Utah,49,Emery,015
+DACAO,United States,Utah,49,Garfield,017
+DACAO,United States,Utah,49,Grand,019
+DACAO,United States,Utah,49,Kane,025
+DACAO,United States,Utah,49,San Juan,037
+DACAO,United States,Utah,49,Wayne,055
+DACAO,United States,Wisconsin,55,,
+DACAO,United States,Wyoming,56,,
+DACAO,United States,Wyoming,56,Albany,001
+DACAO,United States,Wyoming,56,Big Horn,003
+DACAO,United States,Wyoming,56,Campbell,005
+DACAO,United States,Wyoming,56,Converse,009
+DACAO,United States,Wyoming,56,Crook,011
+DACAO,United States,Wyoming,56,Goshen,015
+DACAO,United States,Wyoming,56,Johnson,019
+DACAO,United States,Wyoming,56,Laramie,021
+DACAO,United States,Wyoming,56,Natrona,025
+DACAO,United States,Wyoming,56,Niobrara,027
+DACAO,United States,Wyoming,56,Platte,031
+DACAO,United States,Wyoming,56,Sheridan,033
+DACAO,United States,Wyoming,56,Washakie,043
+DACAO,United States,Wyoming,56,Weston,045

@@ -1,0 +1,34 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+CEMOP,United States,Arizona,04,,
+CEMOP,United States,Arizona,04,Apache,001
+CEMOP,United States,Arizona,04,Cochise,003
+CEMOP,United States,Arizona,04,Coconino,005
+CEMOP,United States,Arizona,04,Gila,007
+CEMOP,United States,Arizona,04,Graham,009
+CEMOP,United States,Arizona,04,Greenlee,011
+CEMOP,United States,Arizona,04,Navajo,017
+CEMOP,United States,Arizona,04,Pima,019
+CEMOP,United States,Arizona,04,Pinal,021
+CEMOP,United States,Arizona,04,Santa Cruz,023
+CEMOP,United States,Arizona,04,Yavapai,025
+CEMOP,United States,New Mexico,35,,
+CEMOP,United States,New Mexico,35,Bernalillo,001
+CEMOP,United States,New Mexico,35,Catron,003
+CEMOP,United States,New Mexico,35,Dona Ana,013
+CEMOP,United States,New Mexico,35,Eddy,015
+CEMOP,United States,New Mexico,35,Grant,017
+CEMOP,United States,New Mexico,35,Hidalgo,023
+CEMOP,United States,New Mexico,35,Lincoln,027
+CEMOP,United States,New Mexico,35,Otero,035
+CEMOP,United States,New Mexico,35,Sandoval,043
+CEMOP,United States,New Mexico,35,Sierra,051
+CEMOP,United States,New Mexico,35,Socorro,053
+CEMOP,United States,New Mexico,35,Torrance,057
+CEMOP,United States,Texas,48,,
+CEMOP,United States,Texas,48,Brewster,043
+CEMOP,United States,Texas,48,Culberson,109
+CEMOP,United States,Texas,48,Ellis,139
+CEMOP,United States,Texas,48,Hudspeth,229
+CEMOP,United States,Texas,48,Jeff Davis,243
+CEMOP,United States,Texas,48,Presidio,377

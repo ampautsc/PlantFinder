@@ -1,0 +1,204 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VACE,Canada,Alberta,01,,
+VACE,Canada,British Columbia,02,,
+VACE,United States,Alaska,02,,
+VACE,United States,Alaska,02,Anchorage,020
+VACE,United States,Alaska,02,Chugach,063
+VACE,United States,Alaska,02,Copper River,066
+VACE,United States,Alaska,02,Haines,100
+VACE,United States,Alaska,02,Juneau,110
+VACE,United States,Alaska,02,Kenai Peninsula,122
+VACE,United States,Alaska,02,Ketchikan Gateway,130
+VACE,United States,Alaska,02,Matanuska-Susitna,170
+VACE,United States,Alaska,02,Sitka,220
+VACE,United States,Alaska,02,Yakutat,282
+VACE,Canada,Manitoba,03,,
+VACE,Canada,New Brunswick,04,,
+VACE,United States,California,06,,
+VACE,United States,California,06,Alpine,003
+VACE,United States,California,06,Amador,005
+VACE,United States,California,06,Butte,007
+VACE,United States,California,06,Del Norte,015
+VACE,United States,California,06,El Dorado,017
+VACE,United States,California,06,Fresno,019
+VACE,United States,California,06,Humboldt,023
+VACE,United States,California,06,Inyo,027
+VACE,United States,California,06,Lassen,035
+VACE,United States,California,06,Madera,039
+VACE,United States,California,06,Marin,041
+VACE,United States,California,06,Mariposa,043
+VACE,United States,California,06,Modoc,049
+VACE,United States,California,06,Nevada,057
+VACE,United States,California,06,Plumas,063
+VACE,United States,California,06,San Mateo,081
+VACE,United States,California,06,Shasta,089
+VACE,United States,California,06,Siskiyou,093
+VACE,United States,California,06,Sonoma,097
+VACE,United States,California,06,Trinity,105
+VACE,United States,California,06,Tulare,107
+VACE,United States,California,06,Tuolumne,109
+VACE,Canada,Nova Scotia,07,,
+VACE,Canada,Ontario,08,,
+VACE,United States,Colorado,08,,
+VACE,United States,Colorado,08,Boulder,013
+VACE,United States,Colorado,08,Clear Creek,019
+VACE,United States,Colorado,08,Conejos,021
+VACE,United States,Colorado,08,Delta,029
+VACE,United States,Colorado,08,Eagle,037
+VACE,United States,Colorado,08,Garfield,045
+VACE,United States,Colorado,08,Gilpin,047
+VACE,United States,Colorado,08,Grand,049
+VACE,United States,Colorado,08,Gunnison,051
+VACE,United States,Colorado,08,La Plata,067
+VACE,United States,Colorado,08,Larimer,069
+VACE,United States,Colorado,08,Mesa,077
+VACE,United States,Colorado,08,Montezuma,083
+VACE,United States,Colorado,08,Montrose,085
+VACE,United States,Colorado,08,Ouray,091
+VACE,United States,Colorado,08,Park,093
+VACE,United States,Colorado,08,Pitkin,097
+VACE,United States,Colorado,08,Routt,107
+VACE,United States,Colorado,08,Saguache,109
+VACE,United States,Colorado,08,San Juan,111
+VACE,United States,Colorado,08,Summit,117
+VACE,Canada,Quebec,10,,
+VACE,Canada,Saskatchewan,11,,
+VACE,Canada,Yukon,12,,
+VACE,Canada,Northwest Territories,13,,
+VACE,United States,Idaho,16,,
+VACE,United States,Idaho,16,Benewah,009
+VACE,United States,Idaho,16,Boise,015
+VACE,United States,Idaho,16,Bonner,017
+VACE,United States,Idaho,16,Boundary,021
+VACE,United States,Idaho,16,Caribou,029
+VACE,United States,Idaho,16,Clearwater,035
+VACE,United States,Idaho,16,Custer,037
+VACE,United States,Idaho,16,Elmore,039
+VACE,United States,Idaho,16,Fremont,043
+VACE,United States,Idaho,16,Idaho,049
+VACE,United States,Idaho,16,Kootenai,055
+VACE,United States,Idaho,16,Latah,057
+VACE,United States,Idaho,16,Shoshone,079
+VACE,United States,Idaho,16,Valley,085
+VACE,United States,Maine,23,,
+VACE,United States,Maine,23,Androscoggin,001
+VACE,United States,Maine,23,Aroostook,003
+VACE,United States,Maine,23,Franklin,007
+VACE,United States,Maine,23,Knox,013
+VACE,United States,Maine,23,Oxford,017
+VACE,United States,Maine,23,Penobscot,019
+VACE,United States,Maine,23,Piscataquis,021
+VACE,United States,Maine,23,Somerset,025
+VACE,United States,Maine,23,Washington,029
+VACE,United States,Maine,23,York,031
+VACE,United States,Michigan,26,,
+VACE,United States,Michigan,26,Alger,003
+VACE,United States,Michigan,26,Keweenaw,083
+VACE,United States,Michigan,26,Marquette,103
+VACE,United States,Michigan,26,Schoolcraft,153
+VACE,United States,Minnesota,27,,
+VACE,United States,Minnesota,27,Carlton,017
+VACE,United States,Minnesota,27,Cass,021
+VACE,United States,Minnesota,27,Clearwater,029
+VACE,United States,Minnesota,27,Cook,031
+VACE,United States,Minnesota,27,Hubbard,057
+VACE,United States,Minnesota,27,Kittson,069
+VACE,United States,Minnesota,27,Lake,075
+VACE,United States,Minnesota,27,Lake of the Woods,077
+VACE,United States,Minnesota,27,Roseau,135
+VACE,United States,Minnesota,27,St. Louis,137
+VACE,United States,Montana,30,,
+VACE,United States,Montana,30,Beaverhead,001
+VACE,United States,Montana,30,Flathead,029
+VACE,United States,Montana,30,Glacier,035
+VACE,United States,Montana,30,Granite,039
+VACE,United States,Montana,30,Madison,057
+VACE,United States,Montana,30,Missoula,063
+VACE,United States,Montana,30,Powell,077
+VACE,United States,Nevada,32,,
+VACE,United States,Nevada,32,Elko,007
+VACE,United States,New Hampshire,33,,
+VACE,United States,New Hampshire,33,Carroll,003
+VACE,United States,New Hampshire,33,Coos,007
+VACE,United States,New Hampshire,33,Grafton,009
+VACE,United States,New Mexico,35,,
+VACE,United States,New Mexico,35,Rio Arriba,039
+VACE,United States,New York,36,,
+VACE,United States,New York,36,Essex,031
+VACE,United States,New York,36,Oneida,065
+VACE,United States,New York,36,Warren,113
+VACE,United States,Oregon,41,,
+VACE,United States,Oregon,41,Clackamas,005
+VACE,United States,Oregon,41,Curry,015
+VACE,United States,Oregon,41,Deschutes,017
+VACE,United States,Oregon,41,Douglas,019
+VACE,United States,Oregon,41,Grant,023
+VACE,United States,Oregon,41,Harney,025
+VACE,United States,Oregon,41,Hood River,027
+VACE,United States,Oregon,41,Jackson,029
+VACE,United States,Oregon,41,Josephine,033
+VACE,United States,Oregon,41,Klamath,035
+VACE,United States,Oregon,41,Lake,037
+VACE,United States,Oregon,41,Lane,039
+VACE,United States,Oregon,41,Lincoln,041
+VACE,United States,Oregon,41,Linn,043
+VACE,United States,Oregon,41,Marion,047
+VACE,United States,Oregon,41,Polk,053
+VACE,United States,Oregon,41,Umatilla,059
+VACE,United States,Oregon,41,Union,061
+VACE,United States,Oregon,41,Wallowa,063
+VACE,United States,Oregon,41,Wasco,065
+VACE,United States,Utah,49,,
+VACE,United States,Utah,49,Daggett,009
+VACE,United States,Utah,49,Duchesne,013
+VACE,United States,Utah,49,Emery,015
+VACE,United States,Utah,49,Garfield,017
+VACE,United States,Utah,49,Grand,019
+VACE,United States,Utah,49,Salt Lake,035
+VACE,United States,Utah,49,San Juan,037
+VACE,United States,Utah,49,Summit,043
+VACE,United States,Utah,49,Uintah,047
+VACE,United States,Utah,49,Utah,049
+VACE,United States,Vermont,50,,
+VACE,United States,Vermont,50,Bennington,003
+VACE,United States,Vermont,50,Lamoille,015
+VACE,United States,Vermont,50,Windham,025
+VACE,United States,Washington,53,,
+VACE,United States,Washington,53,Chelan,007
+VACE,United States,Washington,53,Clallam,009
+VACE,United States,Washington,53,Ferry,019
+VACE,United States,Washington,53,Grays Harbor,027
+VACE,United States,Washington,53,Jefferson,031
+VACE,United States,Washington,53,King,033
+VACE,United States,Washington,53,Kittitas,037
+VACE,United States,Washington,53,Klickitat,039
+VACE,United States,Washington,53,Mason,045
+VACE,United States,Washington,53,Okanogan,047
+VACE,United States,Washington,53,Pacific,049
+VACE,United States,Washington,53,Pend Oreille,051
+VACE,United States,Washington,53,Pierce,053
+VACE,United States,Washington,53,Skamania,059
+VACE,United States,Washington,53,Spokane,063
+VACE,United States,Washington,53,Stevens,065
+VACE,United States,Washington,53,Thurston,067
+VACE,United States,Washington,53,Whatcom,073
+VACE,United States,Washington,53,Whitman,075
+VACE,United States,Washington,53,Yakima,077
+VACE,United States,Wisconsin,55,,
+VACE,United States,Wisconsin,55,Chippewa,017
+VACE,United States,Wisconsin,55,Columbia,021
+VACE,United States,Wisconsin,55,Florence,037
+VACE,United States,Wisconsin,55,Forest,041
+VACE,United States,Wisconsin,55,Langlade,067
+VACE,United States,Wisconsin,55,Lincoln,069
+VACE,United States,Wisconsin,55,Marinette,075
+VACE,United States,Wisconsin,55,Oconto,083
+VACE,United States,Wisconsin,55,Portage,097
+VACE,United States,Wisconsin,55,Sauk,111
+VACE,United States,Wyoming,56,,
+VACE,United States,Wyoming,56,Albany,001
+VACE,United States,Wyoming,56,Carbon,007
+VACE,United States,Wyoming,56,Teton,039
+VACE,Canada,Labrador,LB,,
+VACE,Canada,Newfoundland,NF,,

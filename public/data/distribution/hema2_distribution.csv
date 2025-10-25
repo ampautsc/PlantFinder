@@ -1,0 +1,603 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+HEMA2,Canada,Alberta,01,,
+HEMA2,United States,Alabama,01,,
+HEMA2,Canada,British Columbia,02,,
+HEMA2,Canada,Manitoba,03,,
+HEMA2,United States,Arkansas,05,,
+HEMA2,United States,Arkansas,05,Carroll,015
+HEMA2,United States,Arkansas,05,Clark,019
+HEMA2,United States,Arkansas,05,Cleveland,025
+HEMA2,United States,Arkansas,05,Craighead,031
+HEMA2,United States,Arkansas,05,Jefferson,069
+HEMA2,United States,Arkansas,05,Polk,113
+HEMA2,United States,Arkansas,05,Pope,115
+HEMA2,United States,Arkansas,05,Pulaski,119
+HEMA2,United States,Arkansas,05,Randolph,121
+HEMA2,United States,California,06,,
+HEMA2,United States,California,06,Fresno,019
+HEMA2,United States,California,06,Kern,029
+HEMA2,United States,California,06,Kings,031
+HEMA2,United States,California,06,Monterey,053
+HEMA2,United States,California,06,San Luis Obispo,079
+HEMA2,United States,California,06,Santa Barbara,083
+HEMA2,United States,California,06,Tulare,107
+HEMA2,Canada,Ontario,08,,
+HEMA2,United States,Colorado,08,,
+HEMA2,United States,Colorado,08,Clear Creek,019
+HEMA2,United States,Colorado,08,Prowers,099
+HEMA2,United States,Colorado,08,Sedgwick,115
+HEMA2,United States,Colorado,08,Yuma,125
+HEMA2,United States,Connecticut,09,,
+HEMA2,United States,Connecticut,09,Fairfield,001
+HEMA2,United States,Connecticut,09,Litchfield,005
+HEMA2,United States,Connecticut,09,New Haven,009
+HEMA2,Canada,Quebec,10,,
+HEMA2,Canada,Saskatchewan,11,,
+HEMA2,United States,Idaho,16,,
+HEMA2,United States,Illinois,17,,
+HEMA2,United States,Illinois,17,Adams,001
+HEMA2,United States,Illinois,17,Boone,007
+HEMA2,United States,Illinois,17,Cook,031
+HEMA2,United States,Illinois,17,DeKalb,037
+HEMA2,United States,Illinois,17,DuPage,043
+HEMA2,United States,Illinois,17,Jackson,077
+HEMA2,United States,Illinois,17,Jefferson,081
+HEMA2,United States,Illinois,17,Kane,089
+HEMA2,United States,Illinois,17,Macoupin,117
+HEMA2,United States,Illinois,17,Mason,125
+HEMA2,United States,Illinois,17,Peoria,143
+HEMA2,United States,Illinois,17,Schuyler,169
+HEMA2,United States,Illinois,17,Scott,171
+HEMA2,United States,Illinois,17,Will,197
+HEMA2,United States,Illinois,17,Williamson,199
+HEMA2,United States,Illinois,17,Winnebago,201
+HEMA2,United States,Indiana,18,,
+HEMA2,United States,Indiana,18,Cass,017
+HEMA2,United States,Indiana,18,LaPorte,091
+HEMA2,United States,Indiana,18,Monroe,105
+HEMA2,United States,Indiana,18,Noble,113
+HEMA2,United States,Iowa,19,,
+HEMA2,United States,Iowa,19,Carroll,027
+HEMA2,United States,Iowa,19,Cherokee,035
+HEMA2,United States,Iowa,19,Dickinson,059
+HEMA2,United States,Iowa,19,Fremont,071
+HEMA2,United States,Iowa,19,Guthrie,077
+HEMA2,United States,Iowa,19,Harrison,085
+HEMA2,United States,Iowa,19,Lyon,119
+HEMA2,United States,Iowa,19,Mahaska,123
+HEMA2,United States,Iowa,19,Mills,129
+HEMA2,United States,Iowa,19,Mitchell,131
+HEMA2,United States,Iowa,19,Osceola,143
+HEMA2,United States,Iowa,19,Pottawattamie,155
+HEMA2,United States,Iowa,19,Webster,187
+HEMA2,United States,Kansas,20,,
+HEMA2,United States,Kansas,20,Allen,001
+HEMA2,United States,Kansas,20,Anderson,003
+HEMA2,United States,Kansas,20,Atchison,005
+HEMA2,United States,Kansas,20,Barber,007
+HEMA2,United States,Kansas,20,Barton,009
+HEMA2,United States,Kansas,20,Bourbon,011
+HEMA2,United States,Kansas,20,Brown,013
+HEMA2,United States,Kansas,20,Butler,015
+HEMA2,United States,Kansas,20,Chase,017
+HEMA2,United States,Kansas,20,Chautauqua,019
+HEMA2,United States,Kansas,20,Cherokee,021
+HEMA2,United States,Kansas,20,Cheyenne,023
+HEMA2,United States,Kansas,20,Clark,025
+HEMA2,United States,Kansas,20,Clay,027
+HEMA2,United States,Kansas,20,Cloud,029
+HEMA2,United States,Kansas,20,Coffey,031
+HEMA2,United States,Kansas,20,Comanche,033
+HEMA2,United States,Kansas,20,Cowley,035
+HEMA2,United States,Kansas,20,Crawford,037
+HEMA2,United States,Kansas,20,Dickinson,041
+HEMA2,United States,Kansas,20,Douglas,045
+HEMA2,United States,Kansas,20,Edwards,047
+HEMA2,United States,Kansas,20,Elk,049
+HEMA2,United States,Kansas,20,Ellis,051
+HEMA2,United States,Kansas,20,Ellsworth,053
+HEMA2,United States,Kansas,20,Ford,057
+HEMA2,United States,Kansas,20,Franklin,059
+HEMA2,United States,Kansas,20,Geary,061
+HEMA2,United States,Kansas,20,Graham,065
+HEMA2,United States,Kansas,20,Gray,069
+HEMA2,United States,Kansas,20,Greenwood,073
+HEMA2,United States,Kansas,20,Hamilton,075
+HEMA2,United States,Kansas,20,Harper,077
+HEMA2,United States,Kansas,20,Harvey,079
+HEMA2,United States,Kansas,20,Hodgeman,083
+HEMA2,United States,Kansas,20,Jefferson,087
+HEMA2,United States,Kansas,20,Jewell,089
+HEMA2,United States,Kansas,20,Johnson,091
+HEMA2,United States,Kansas,20,Kearny,093
+HEMA2,United States,Kansas,20,Kingman,095
+HEMA2,United States,Kansas,20,Kiowa,097
+HEMA2,United States,Kansas,20,Labette,099
+HEMA2,United States,Kansas,20,Lane,101
+HEMA2,United States,Kansas,20,Leavenworth,103
+HEMA2,United States,Kansas,20,Lincoln,105
+HEMA2,United States,Kansas,20,Linn,107
+HEMA2,United States,Kansas,20,Logan,109
+HEMA2,United States,Kansas,20,Lyon,111
+HEMA2,United States,Kansas,20,Marion,115
+HEMA2,United States,Kansas,20,Marshall,117
+HEMA2,United States,Kansas,20,McPherson,113
+HEMA2,United States,Kansas,20,Meade,119
+HEMA2,United States,Kansas,20,Miami,121
+HEMA2,United States,Kansas,20,Mitchell,123
+HEMA2,United States,Kansas,20,Montgomery,125
+HEMA2,United States,Kansas,20,Morris,127
+HEMA2,United States,Kansas,20,Nemaha,131
+HEMA2,United States,Kansas,20,Neosho,133
+HEMA2,United States,Kansas,20,Ness,135
+HEMA2,United States,Kansas,20,Osage,139
+HEMA2,United States,Kansas,20,Osborne,141
+HEMA2,United States,Kansas,20,Ottawa,143
+HEMA2,United States,Kansas,20,Pottawatomie,149
+HEMA2,United States,Kansas,20,Pratt,151
+HEMA2,United States,Kansas,20,Reno,155
+HEMA2,United States,Kansas,20,Republic,157
+HEMA2,United States,Kansas,20,Rice,159
+HEMA2,United States,Kansas,20,Riley,161
+HEMA2,United States,Kansas,20,Rooks,163
+HEMA2,United States,Kansas,20,Rush,165
+HEMA2,United States,Kansas,20,Russell,167
+HEMA2,United States,Kansas,20,Saline,169
+HEMA2,United States,Kansas,20,Scott,171
+HEMA2,United States,Kansas,20,Sedgwick,173
+HEMA2,United States,Kansas,20,Shawnee,177
+HEMA2,United States,Kansas,20,Sheridan,179
+HEMA2,United States,Kansas,20,Smith,183
+HEMA2,United States,Kansas,20,Stafford,185
+HEMA2,United States,Kansas,20,Stevens,189
+HEMA2,United States,Kansas,20,Sumner,191
+HEMA2,United States,Kansas,20,Thomas,193
+HEMA2,United States,Kansas,20,Trego,195
+HEMA2,United States,Kansas,20,Wabaunsee,197
+HEMA2,United States,Kansas,20,Washington,201
+HEMA2,United States,Kansas,20,Wilson,205
+HEMA2,United States,Kansas,20,Woodson,207
+HEMA2,United States,Kansas,20,Wyandotte,209
+HEMA2,United States,Kentucky,21,,
+HEMA2,United States,Kentucky,21,Bell,013
+HEMA2,United States,Kentucky,21,Calloway,035
+HEMA2,United States,Kentucky,21,Carlisle,039
+HEMA2,United States,Kentucky,21,Clark,049
+HEMA2,United States,Kentucky,21,Fayette,067
+HEMA2,United States,Kentucky,21,Graves,083
+HEMA2,United States,Kentucky,21,Hardin,093
+HEMA2,United States,Kentucky,21,Harrison,097
+HEMA2,United States,Kentucky,21,Hickman,105
+HEMA2,United States,Kentucky,21,Madison,151
+HEMA2,United States,Kentucky,21,McCracken,145
+HEMA2,United States,Kentucky,21,Pulaski,199
+HEMA2,United States,Kentucky,21,Shelby,211
+HEMA2,United States,Kentucky,21,Trigg,221
+HEMA2,United States,Maine,23,,
+HEMA2,United States,Maine,23,Androscoggin,001
+HEMA2,United States,Maine,23,Cumberland,005
+HEMA2,United States,Maine,23,Penobscot,019
+HEMA2,United States,Maryland,24,,
+HEMA2,United States,Massachusetts,25,,
+HEMA2,United States,Massachusetts,25,Middlesex,017
+HEMA2,United States,Michigan,26,,
+HEMA2,United States,Michigan,26,Alpena,007
+HEMA2,United States,Michigan,26,Cheboygan,031
+HEMA2,United States,Michigan,26,Crawford,039
+HEMA2,United States,Michigan,26,Delta,041
+HEMA2,United States,Michigan,26,Dickinson,043
+HEMA2,United States,Michigan,26,Emmet,047
+HEMA2,United States,Michigan,26,Houghton,061
+HEMA2,United States,Michigan,26,Kalamazoo,077
+HEMA2,United States,Michigan,26,Kent,081
+HEMA2,United States,Michigan,26,Keweenaw,083
+HEMA2,United States,Michigan,26,Leelanau,089
+HEMA2,United States,Michigan,26,Mackinac,097
+HEMA2,United States,Michigan,26,Menominee,109
+HEMA2,United States,Michigan,26,Monroe,115
+HEMA2,United States,Michigan,26,Muskegon,121
+HEMA2,United States,Michigan,26,Oakland,125
+HEMA2,United States,Michigan,26,Schoolcraft,153
+HEMA2,United States,Michigan,26,St. Clair,147
+HEMA2,United States,Michigan,26,Washtenaw,161
+HEMA2,United States,Michigan,26,Wayne,163
+HEMA2,United States,Minnesota,27,,
+HEMA2,United States,Minnesota,27,Anoka,003
+HEMA2,United States,Minnesota,27,Becker,005
+HEMA2,United States,Minnesota,27,Big Stone,011
+HEMA2,United States,Minnesota,27,Blue Earth,013
+HEMA2,United States,Minnesota,27,Carlton,017
+HEMA2,United States,Minnesota,27,Cass,021
+HEMA2,United States,Minnesota,27,Chippewa,023
+HEMA2,United States,Minnesota,27,Clay,027
+HEMA2,United States,Minnesota,27,Clearwater,029
+HEMA2,United States,Minnesota,27,Cook,031
+HEMA2,United States,Minnesota,27,Cottonwood,033
+HEMA2,United States,Minnesota,27,Dakota,037
+HEMA2,United States,Minnesota,27,Douglas,041
+HEMA2,United States,Minnesota,27,Fillmore,045
+HEMA2,United States,Minnesota,27,Goodhue,049
+HEMA2,United States,Minnesota,27,Grant,051
+HEMA2,United States,Minnesota,27,Hennepin,053
+HEMA2,United States,Minnesota,27,Itasca,061
+HEMA2,United States,Minnesota,27,Jackson,063
+HEMA2,United States,Minnesota,27,Kandiyohi,067
+HEMA2,United States,Minnesota,27,Kittson,069
+HEMA2,United States,Minnesota,27,Koochiching,071
+HEMA2,United States,Minnesota,27,Lac qui Parle,073
+HEMA2,United States,Minnesota,27,Lake,075
+HEMA2,United States,Minnesota,27,Lake of the Woods,077
+HEMA2,United States,Minnesota,27,Lincoln,081
+HEMA2,United States,Minnesota,27,Lyon,083
+HEMA2,United States,Minnesota,27,Mahnomen,087
+HEMA2,United States,Minnesota,27,Martin,091
+HEMA2,United States,Minnesota,27,McLeod,085
+HEMA2,United States,Minnesota,27,Mille Lacs,095
+HEMA2,United States,Minnesota,27,Murray,101
+HEMA2,United States,Minnesota,27,Nobles,105
+HEMA2,United States,Minnesota,27,Norman,107
+HEMA2,United States,Minnesota,27,Otter Tail,111
+HEMA2,United States,Minnesota,27,Pennington,113
+HEMA2,United States,Minnesota,27,Pine,115
+HEMA2,United States,Minnesota,27,Pipestone,117
+HEMA2,United States,Minnesota,27,Polk,119
+HEMA2,United States,Minnesota,27,Pope,121
+HEMA2,United States,Minnesota,27,Ramsey,123
+HEMA2,United States,Minnesota,27,Red Lake,125
+HEMA2,United States,Minnesota,27,Renville,129
+HEMA2,United States,Minnesota,27,Roseau,135
+HEMA2,United States,Minnesota,27,St. Louis,137
+HEMA2,United States,Minnesota,27,Stearns,145
+HEMA2,United States,Minnesota,27,Stevens,149
+HEMA2,United States,Minnesota,27,Swift,151
+HEMA2,United States,Minnesota,27,Traverse,155
+HEMA2,United States,Minnesota,27,Wilkin,167
+HEMA2,United States,Minnesota,27,Winona,169
+HEMA2,United States,Minnesota,27,Yellow Medicine,173
+HEMA2,United States,Mississippi,28,,
+HEMA2,United States,Missouri,29,,
+HEMA2,United States,Missouri,29,Atchison,005
+HEMA2,United States,Missouri,29,Barry,009
+HEMA2,United States,Missouri,29,Benton,015
+HEMA2,United States,Missouri,29,Bollinger,017
+HEMA2,United States,Missouri,29,Butler,023
+HEMA2,United States,Missouri,29,Caldwell,025
+HEMA2,United States,Missouri,29,Camden,029
+HEMA2,United States,Missouri,29,Christian,043
+HEMA2,United States,Missouri,29,Cole,051
+HEMA2,United States,Missouri,29,Douglas,067
+HEMA2,United States,Missouri,29,Holt,087
+HEMA2,United States,Missouri,29,Jackson,095
+HEMA2,United States,Missouri,29,Miller,131
+HEMA2,United States,Missouri,29,Morgan,141
+HEMA2,United States,Missouri,29,Ozark,153
+HEMA2,United States,Missouri,29,Pemiscot,155
+HEMA2,United States,Missouri,29,Randolph,175
+HEMA2,United States,Missouri,29,Ray,177
+HEMA2,United States,Missouri,29,Saline,195
+HEMA2,United States,Missouri,29,St. Francois,187
+HEMA2,United States,Missouri,29,St. Louis,189
+HEMA2,United States,Missouri,29,Stone,209
+HEMA2,United States,Missouri,29,Taney,213
+HEMA2,United States,Missouri,29,Wright,229
+HEMA2,United States,Montana,30,,
+HEMA2,United States,Montana,30,Big Horn,003
+HEMA2,United States,Montana,30,Fergus,027
+HEMA2,United States,Montana,30,McCone,055
+HEMA2,United States,Montana,30,Phillips,071
+HEMA2,United States,Montana,30,Powder River,075
+HEMA2,United States,Montana,30,Roosevelt,085
+HEMA2,United States,Montana,30,Valley,105
+HEMA2,United States,Nebraska,31,,
+HEMA2,United States,Nebraska,31,Box Butte,013
+HEMA2,United States,Nebraska,31,Buffalo,019
+HEMA2,United States,Nebraska,31,Butler,023
+HEMA2,United States,Nebraska,31,Cass,025
+HEMA2,United States,Nebraska,31,Chase,029
+HEMA2,United States,Nebraska,31,Cherry,031
+HEMA2,United States,Nebraska,31,Cuming,039
+HEMA2,United States,Nebraska,31,Dawes,045
+HEMA2,United States,Nebraska,31,Dawson,047
+HEMA2,United States,Nebraska,31,Dodge,053
+HEMA2,United States,Nebraska,31,Douglas,055
+HEMA2,United States,Nebraska,31,Dundy,057
+HEMA2,United States,Nebraska,31,Franklin,061
+HEMA2,United States,Nebraska,31,Furnas,065
+HEMA2,United States,Nebraska,31,Grant,075
+HEMA2,United States,Nebraska,31,Hall,079
+HEMA2,United States,Nebraska,31,Holt,089
+HEMA2,United States,Nebraska,31,Kearney,099
+HEMA2,United States,Nebraska,31,Keith,101
+HEMA2,United States,Nebraska,31,Lancaster,109
+HEMA2,United States,Nebraska,31,Lincoln,111
+HEMA2,United States,Nebraska,31,Morrill,123
+HEMA2,United States,Nebraska,31,Nuckolls,129
+HEMA2,United States,Nebraska,31,Otoe,131
+HEMA2,United States,Nebraska,31,Richardson,147
+HEMA2,United States,Nebraska,31,Rock,149
+HEMA2,United States,Nebraska,31,Sheridan,161
+HEMA2,United States,Nebraska,31,Thomas,171
+HEMA2,United States,Nebraska,31,Webster,181
+HEMA2,United States,Nebraska,31,Wheeler,183
+HEMA2,United States,New Jersey,34,,
+HEMA2,United States,New Mexico,35,,
+HEMA2,United States,New Mexico,35,McKinley,031
+HEMA2,United States,New Mexico,35,San Juan,045
+HEMA2,United States,New Mexico,35,Santa Fe,049
+HEMA2,United States,New York,36,,
+HEMA2,United States,New York,36,Bronx,005
+HEMA2,United States,New York,36,Monroe,055
+HEMA2,United States,New York,36,Oneida,065
+HEMA2,United States,New York,36,St. Lawrence,089
+HEMA2,United States,New York,36,Suffolk,103
+HEMA2,United States,North Carolina,37,,
+HEMA2,United States,North Carolina,37,Cleveland,045
+HEMA2,United States,North Carolina,37,Davie,059
+HEMA2,United States,North Carolina,37,Forsyth,067
+HEMA2,United States,North Carolina,37,Guilford,081
+HEMA2,United States,North Carolina,37,Johnston,101
+HEMA2,United States,North Carolina,37,Mecklenburg,119
+HEMA2,United States,North Carolina,37,Rockingham,157
+HEMA2,United States,North Carolina,37,Stokes,169
+HEMA2,United States,North Dakota,38,,
+HEMA2,United States,North Dakota,38,Barnes,003
+HEMA2,United States,North Dakota,38,Benson,005
+HEMA2,United States,North Dakota,38,Billings,007
+HEMA2,United States,North Dakota,38,Bowman,011
+HEMA2,United States,North Dakota,38,Burke,013
+HEMA2,United States,North Dakota,38,Burleigh,015
+HEMA2,United States,North Dakota,38,Cass,017
+HEMA2,United States,North Dakota,38,Cavalier,019
+HEMA2,United States,North Dakota,38,Dickey,021
+HEMA2,United States,North Dakota,38,Dunn,025
+HEMA2,United States,North Dakota,38,Eddy,027
+HEMA2,United States,North Dakota,38,Emmons,029
+HEMA2,United States,North Dakota,38,Foster,031
+HEMA2,United States,North Dakota,38,Golden Valley,033
+HEMA2,United States,North Dakota,38,Grand Forks,035
+HEMA2,United States,North Dakota,38,Grant,037
+HEMA2,United States,North Dakota,38,Griggs,039
+HEMA2,United States,North Dakota,38,Kidder,043
+HEMA2,United States,North Dakota,38,LaMoure,045
+HEMA2,United States,North Dakota,38,Logan,047
+HEMA2,United States,North Dakota,38,McHenry,049
+HEMA2,United States,North Dakota,38,McIntosh,051
+HEMA2,United States,North Dakota,38,McKenzie,053
+HEMA2,United States,North Dakota,38,McLean,055
+HEMA2,United States,North Dakota,38,Mercer,057
+HEMA2,United States,North Dakota,38,Mountrail,061
+HEMA2,United States,North Dakota,38,Nelson,063
+HEMA2,United States,North Dakota,38,Oliver,065
+HEMA2,United States,North Dakota,38,Pembina,067
+HEMA2,United States,North Dakota,38,Ramsey,071
+HEMA2,United States,North Dakota,38,Ransom,073
+HEMA2,United States,North Dakota,38,Richland,077
+HEMA2,United States,North Dakota,38,Rolette,079
+HEMA2,United States,North Dakota,38,Sargent,081
+HEMA2,United States,North Dakota,38,Sheridan,083
+HEMA2,United States,North Dakota,38,Sioux,085
+HEMA2,United States,North Dakota,38,Slope,087
+HEMA2,United States,North Dakota,38,Stark,089
+HEMA2,United States,North Dakota,38,Steele,091
+HEMA2,United States,North Dakota,38,Stutsman,093
+HEMA2,United States,North Dakota,38,Ward,101
+HEMA2,United States,North Dakota,38,Wells,103
+HEMA2,United States,North Dakota,38,Williams,105
+HEMA2,United States,Ohio,39,,
+HEMA2,United States,Ohio,39,Adams,001
+HEMA2,United States,Ohio,39,Ashland,005
+HEMA2,United States,Ohio,39,Ashtabula,007
+HEMA2,United States,Ohio,39,Athens,009
+HEMA2,United States,Ohio,39,Auglaize,011
+HEMA2,United States,Ohio,39,Belmont,013
+HEMA2,United States,Ohio,39,Champaign,021
+HEMA2,United States,Ohio,39,Columbiana,029
+HEMA2,United States,Ohio,39,Erie,043
+HEMA2,United States,Ohio,39,Franklin,049
+HEMA2,United States,Ohio,39,Gallia,053
+HEMA2,United States,Ohio,39,Geauga,055
+HEMA2,United States,Ohio,39,Hamilton,061
+HEMA2,United States,Ohio,39,Holmes,075
+HEMA2,United States,Ohio,39,Huron,077
+HEMA2,United States,Ohio,39,Jefferson,081
+HEMA2,United States,Ohio,39,Knox,083
+HEMA2,United States,Ohio,39,Lake,085
+HEMA2,United States,Ohio,39,Pike,131
+HEMA2,United States,Ohio,39,Putnam,137
+HEMA2,United States,Oklahoma,40,,
+HEMA2,United States,Oklahoma,40,Alfalfa,003
+HEMA2,United States,Oklahoma,40,Beaver,007
+HEMA2,United States,Oklahoma,40,Bryan,013
+HEMA2,United States,Oklahoma,40,Cleveland,027
+HEMA2,United States,Oklahoma,40,Comanche,031
+HEMA2,United States,Oklahoma,40,Garfield,047
+HEMA2,United States,Oklahoma,40,Grady,051
+HEMA2,United States,Oklahoma,40,Greer,055
+HEMA2,United States,Oklahoma,40,Marshall,095
+HEMA2,United States,Oklahoma,40,McClain,087
+HEMA2,United States,Oklahoma,40,Oklahoma,109
+HEMA2,United States,Oklahoma,40,Payne,119
+HEMA2,United States,Oklahoma,40,Pontotoc,123
+HEMA2,United States,Oklahoma,40,Tulsa,143
+HEMA2,United States,Oklahoma,40,Woods,151
+HEMA2,United States,Oklahoma,40,Woodward,153
+HEMA2,United States,Pennsylvania,42,,
+HEMA2,United States,Pennsylvania,42,Erie,049
+HEMA2,United States,Pennsylvania,42,Lehigh,077
+HEMA2,United States,Pennsylvania,42,Philadelphia,101
+HEMA2,United States,South Carolina,45,,
+HEMA2,United States,South Dakota,46,,
+HEMA2,United States,South Dakota,46,Beadle,005
+HEMA2,United States,South Dakota,46,Bon Homme,009
+HEMA2,United States,South Dakota,46,Brookings,011
+HEMA2,United States,South Dakota,46,Brown,013
+HEMA2,United States,South Dakota,46,Butte,019
+HEMA2,United States,South Dakota,46,Campbell,021
+HEMA2,United States,South Dakota,46,Charles Mix,023
+HEMA2,United States,South Dakota,46,Clark,025
+HEMA2,United States,South Dakota,46,Clay,027
+HEMA2,United States,South Dakota,46,Codington,029
+HEMA2,United States,South Dakota,46,Davison,035
+HEMA2,United States,South Dakota,46,Day,037
+HEMA2,United States,South Dakota,46,Deuel,039
+HEMA2,United States,South Dakota,46,Douglas,043
+HEMA2,United States,South Dakota,46,Fall River,047
+HEMA2,United States,South Dakota,46,Gregory,053
+HEMA2,United States,South Dakota,46,Hamlin,057
+HEMA2,United States,South Dakota,46,Hand,059
+HEMA2,United States,South Dakota,46,Hanson,061
+HEMA2,United States,South Dakota,46,Harding,063
+HEMA2,United States,South Dakota,46,Jerauld,073
+HEMA2,United States,South Dakota,46,Jones,075
+HEMA2,United States,South Dakota,46,Kingsbury,077
+HEMA2,United States,South Dakota,46,Lawrence,081
+HEMA2,United States,South Dakota,46,Marshall,091
+HEMA2,United States,South Dakota,46,Meade,093
+HEMA2,United States,South Dakota,46,Miner,097
+HEMA2,United States,South Dakota,46,Pennington,103
+HEMA2,United States,South Dakota,46,Roberts,109
+HEMA2,United States,South Dakota,46,Sanborn,111
+HEMA2,United States,South Dakota,46,Spink,115
+HEMA2,United States,South Dakota,46,Stanley,117
+HEMA2,United States,South Dakota,46,Todd,121
+HEMA2,United States,South Dakota,46,Tripp,123
+HEMA2,United States,South Dakota,46,Turner,125
+HEMA2,United States,South Dakota,46,Union,127
+HEMA2,United States,South Dakota,46,Walworth,129
+HEMA2,United States,South Dakota,46,Yankton,135
+HEMA2,United States,Tennessee,47,,
+HEMA2,United States,Tennessee,47,Anderson,001
+HEMA2,United States,Tennessee,47,Bedford,003
+HEMA2,United States,Tennessee,47,Bledsoe,007
+HEMA2,United States,Tennessee,47,Blount,009
+HEMA2,United States,Tennessee,47,Decatur,039
+HEMA2,United States,Tennessee,47,Dickson,043
+HEMA2,United States,Tennessee,47,Franklin,051
+HEMA2,United States,Tennessee,47,Greene,059
+HEMA2,United States,Tennessee,47,Hickman,081
+HEMA2,United States,Tennessee,47,Jefferson,089
+HEMA2,United States,Tennessee,47,Knox,093
+HEMA2,United States,Tennessee,47,Lewis,101
+HEMA2,United States,Tennessee,47,Marshall,117
+HEMA2,United States,Tennessee,47,Maury,119
+HEMA2,United States,Tennessee,47,Meigs,121
+HEMA2,United States,Tennessee,47,Monroe,123
+HEMA2,United States,Tennessee,47,Montgomery,125
+HEMA2,United States,Tennessee,47,Rutherford,149
+HEMA2,United States,Tennessee,47,Sevier,155
+HEMA2,United States,Tennessee,47,Stewart,161
+HEMA2,United States,Tennessee,47,Sullivan,163
+HEMA2,United States,Tennessee,47,Union,173
+HEMA2,United States,Tennessee,47,White,185
+HEMA2,United States,Tennessee,47,Williamson,187
+HEMA2,United States,Texas,48,,
+HEMA2,United States,Texas,48,Bandera,019
+HEMA2,United States,Texas,48,Bastrop,021
+HEMA2,United States,Texas,48,Bell,027
+HEMA2,United States,Texas,48,Bexar,029
+HEMA2,United States,Texas,48,Blanco,031
+HEMA2,United States,Texas,48,Bosque,035
+HEMA2,United States,Texas,48,Brazoria,039
+HEMA2,United States,Texas,48,Brazos,041
+HEMA2,United States,Texas,48,Brown,049
+HEMA2,United States,Texas,48,Burnet,053
+HEMA2,United States,Texas,48,Clay,077
+HEMA2,United States,Texas,48,Collin,085
+HEMA2,United States,Texas,48,Comal,091
+HEMA2,United States,Texas,48,Coryell,099
+HEMA2,United States,Texas,48,Crosby,107
+HEMA2,United States,Texas,48,Dallas,113
+HEMA2,United States,Texas,48,Eastland,133
+HEMA2,United States,Texas,48,Edwards,137
+HEMA2,United States,Texas,48,Erath,143
+HEMA2,United States,Texas,48,Fayette,149
+HEMA2,United States,Texas,48,Galveston,167
+HEMA2,United States,Texas,48,Garza,169
+HEMA2,United States,Texas,48,Gillespie,171
+HEMA2,United States,Texas,48,Grayson,181
+HEMA2,United States,Texas,48,Grimes,185
+HEMA2,United States,Texas,48,Hamilton,193
+HEMA2,United States,Texas,48,Hardeman,197
+HEMA2,United States,Texas,48,Harris,201
+HEMA2,United States,Texas,48,Hays,209
+HEMA2,United States,Texas,48,Hemphill,211
+HEMA2,United States,Texas,48,Hunt,231
+HEMA2,United States,Texas,48,Kendall,259
+HEMA2,United States,Texas,48,Kerr,265
+HEMA2,United States,Texas,48,Lamar,277
+HEMA2,United States,Texas,48,Lavaca,285
+HEMA2,United States,Texas,48,Leon,289
+HEMA2,United States,Texas,48,Lubbock,303
+HEMA2,United States,Texas,48,McLennan,309
+HEMA2,United States,Texas,48,Medina,325
+HEMA2,United States,Texas,48,Mills,333
+HEMA2,United States,Texas,48,Montague,337
+HEMA2,United States,Texas,48,Montgomery,339
+HEMA2,United States,Texas,48,Navarro,349
+HEMA2,United States,Texas,48,Parker,367
+HEMA2,United States,Texas,48,Potter,375
+HEMA2,United States,Texas,48,Randall,381
+HEMA2,United States,Texas,48,Rockwall,397
+HEMA2,United States,Texas,48,Shackelford,417
+HEMA2,United States,Texas,48,Sutton,435
+HEMA2,United States,Texas,48,Tarrant,439
+HEMA2,United States,Texas,48,Taylor,441
+HEMA2,United States,Texas,48,Travis,453
+HEMA2,United States,Texas,48,Val Verde,465
+HEMA2,United States,Texas,48,Walker,471
+HEMA2,United States,Texas,48,Washington,477
+HEMA2,United States,Texas,48,Williamson,491
+HEMA2,United States,Texas,48,Wilson,493
+HEMA2,United States,Virginia,51,,
+HEMA2,United States,Virginia,51,Albemarle,003
+HEMA2,United States,Virginia,51,Alleghany,005
+HEMA2,United States,Virginia,51,Appomattox,011
+HEMA2,United States,Virginia,51,Bedford,019
+HEMA2,United States,Virginia,51,Botetourt,023
+HEMA2,United States,Virginia,51,Charles City,036
+HEMA2,United States,Virginia,51,Charlotte,037
+HEMA2,United States,Virginia,51,Fairfax,059
+HEMA2,United States,Virginia,51,Fauquier,061
+HEMA2,United States,Virginia,51,Gloucester,073
+HEMA2,United States,Virginia,51,Goochland,075
+HEMA2,United States,Virginia,51,Greensville,081
+HEMA2,United States,Virginia,51,Hanover,085
+HEMA2,United States,Virginia,51,Henry,089
+HEMA2,United States,Virginia,51,Lee,105
+HEMA2,United States,Virginia,51,Montgomery,121
+HEMA2,United States,Virginia,51,Pittsylvania,143
+HEMA2,United States,Virginia,51,Prince George,149
+HEMA2,United States,Virginia,51,Prince William,153
+HEMA2,United States,Virginia,51,Roanoke,161
+HEMA2,United States,Virginia,51,Rockingham,165
+HEMA2,United States,Virginia,51,Russell,167
+HEMA2,United States,Washington,53,,
+HEMA2,United States,Washington,53,Klickitat,039
+HEMA2,United States,West Virginia,54,,
+HEMA2,United States,West Virginia,54,Kanawha,039
+HEMA2,United States,Wisconsin,55,,
+HEMA2,United States,Wisconsin,55,Ashland,003
+HEMA2,United States,Wisconsin,55,Bayfield,007
+HEMA2,United States,Wisconsin,55,Brown,009
+HEMA2,United States,Wisconsin,55,Buffalo,011
+HEMA2,United States,Wisconsin,55,Columbia,021
+HEMA2,United States,Wisconsin,55,Dane,025
+HEMA2,United States,Wisconsin,55,Door,029
+HEMA2,United States,Wisconsin,55,Douglas,031
+HEMA2,United States,Wisconsin,55,Jackson,053
+HEMA2,United States,Wisconsin,55,Marinette,075
+HEMA2,United States,Wisconsin,55,Milwaukee,079
+HEMA2,United States,Wisconsin,55,Oneida,085
+HEMA2,United States,Wisconsin,55,Racine,101
+HEMA2,United States,Wisconsin,55,Richland,103
+HEMA2,United States,Wisconsin,55,Rock,105
+HEMA2,United States,Wisconsin,55,Sauk,111
+HEMA2,United States,Wisconsin,55,Sheboygan,117
+HEMA2,United States,Wisconsin,55,Taylor,119
+HEMA2,United States,Wisconsin,55,Walworth,127
+HEMA2,United States,Wisconsin,55,Waukesha,133
+HEMA2,United States,Wyoming,56,,
+HEMA2,United States,Wyoming,56,Campbell,005
+HEMA2,United States,Wyoming,56,Crook,011
+HEMA2,United States,Wyoming,56,Sheridan,033

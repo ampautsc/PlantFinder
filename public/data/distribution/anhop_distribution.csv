@@ -1,0 +1,112 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ANHOP,Canada,Alberta,01,,
+ANHOP,Canada,British Columbia,02,,
+ANHOP,Canada,New Brunswick,04,,
+ANHOP,Canada,Nova Scotia,07,,
+ANHOP,Canada,Ontario,08,,
+ANHOP,Canada,Prince Edward Island,09,,
+ANHOP,United States,Connecticut,09,,
+ANHOP,United States,Connecticut,09,Fairfield,001
+ANHOP,Canada,Quebec,10,,
+ANHOP,United States,Maine,23,,
+ANHOP,United States,Massachusetts,25,,
+ANHOP,United States,Massachusetts,25,Barnstable,001
+ANHOP,United States,Massachusetts,25,Berkshire,003
+ANHOP,United States,Massachusetts,25,Bristol,005
+ANHOP,United States,Massachusetts,25,Essex,009
+ANHOP,United States,Massachusetts,25,Franklin,011
+ANHOP,United States,Massachusetts,25,Hampshire,015
+ANHOP,United States,Massachusetts,25,Middlesex,017
+ANHOP,United States,Massachusetts,25,Nantucket,019
+ANHOP,United States,Massachusetts,25,Norfolk,021
+ANHOP,United States,Massachusetts,25,Plymouth,023
+ANHOP,United States,Massachusetts,25,Worcester,027
+ANHOP,United States,Michigan,26,,
+ANHOP,United States,Minnesota,27,,
+ANHOP,United States,Montana,30,,
+ANHOP,United States,Montana,30,Phillips,071
+ANHOP,United States,Montana,30,Valley,105
+ANHOP,United States,New Hampshire,33,,
+ANHOP,United States,New Jersey,34,,
+ANHOP,United States,New York,36,,
+ANHOP,United States,New York,36,Westchester,119
+ANHOP,United States,North Carolina,37,,
+ANHOP,United States,Ohio,39,,
+ANHOP,United States,Ohio,39,Belmont,013
+ANHOP,United States,Ohio,39,Fairfield,045
+ANHOP,United States,Oregon,41,,
+ANHOP,United States,Oregon,41,Umatilla,059
+ANHOP,United States,Oregon,41,Union,061
+ANHOP,United States,Oregon,41,Wallowa,063
+ANHOP,United States,Pennsylvania,42,,
+ANHOP,United States,Pennsylvania,42,Allegheny,003
+ANHOP,United States,Pennsylvania,42,Beaver,007
+ANHOP,United States,Pennsylvania,42,Bedford,009
+ANHOP,United States,Pennsylvania,42,Blair,013
+ANHOP,United States,Pennsylvania,42,Butler,019
+ANHOP,United States,Pennsylvania,42,Cambria,021
+ANHOP,United States,Pennsylvania,42,Clarion,031
+ANHOP,United States,Pennsylvania,42,Forest,053
+ANHOP,United States,Pennsylvania,42,Jefferson,065
+ANHOP,United States,Pennsylvania,42,Lawrence,073
+ANHOP,United States,Pennsylvania,42,McKean,083
+ANHOP,United States,Pennsylvania,42,Venango,121
+ANHOP,United States,Pennsylvania,42,Warren,123
+ANHOP,United States,Pennsylvania,42,Washington,125
+ANHOP,United States,Rhode Island,44,,
+ANHOP,United States,Vermont,50,,
+ANHOP,United States,Virginia,51,,
+ANHOP,United States,Washington,53,,
+ANHOP,United States,West Virginia,54,,
+ANHOP,United States,West Virginia,54,Monongalia,061
+ANHOP,United States,West Virginia,54,Ohio,069
+ANHOP,United States,West Virginia,54,Tucker,093
+ANHOP,United States,Wisconsin,55,,
+ANHOP,United States,Wisconsin,55,Adams,001
+ANHOP,United States,Wisconsin,55,Ashland,003
+ANHOP,United States,Wisconsin,55,Bayfield,007
+ANHOP,United States,Wisconsin,55,Burnett,013
+ANHOP,United States,Wisconsin,55,Chippewa,017
+ANHOP,United States,Wisconsin,55,Clark,019
+ANHOP,United States,Wisconsin,55,Columbia,021
+ANHOP,United States,Wisconsin,55,Dane,025
+ANHOP,United States,Wisconsin,55,Dodge,027
+ANHOP,United States,Wisconsin,55,Door,029
+ANHOP,United States,Wisconsin,55,Douglas,031
+ANHOP,United States,Wisconsin,55,Dunn,033
+ANHOP,United States,Wisconsin,55,Fond du Lac,039
+ANHOP,United States,Wisconsin,55,Grant,043
+ANHOP,United States,Wisconsin,55,Green,045
+ANHOP,United States,Wisconsin,55,Green Lake,047
+ANHOP,United States,Wisconsin,55,Jackson,053
+ANHOP,United States,Wisconsin,55,Jefferson,055
+ANHOP,United States,Wisconsin,55,Lafayette,065
+ANHOP,United States,Wisconsin,55,Langlade,067
+ANHOP,United States,Wisconsin,55,Lincoln,069
+ANHOP,United States,Wisconsin,55,Marathon,073
+ANHOP,United States,Wisconsin,55,Marinette,075
+ANHOP,United States,Wisconsin,55,Oneida,085
+ANHOP,United States,Wisconsin,55,Ozaukee,089
+ANHOP,United States,Wisconsin,55,Polk,095
+ANHOP,United States,Wisconsin,55,Portage,097
+ANHOP,United States,Wisconsin,55,Price,099
+ANHOP,United States,Wisconsin,55,Richland,103
+ANHOP,United States,Wisconsin,55,Rock,105
+ANHOP,United States,Wisconsin,55,Sauk,111
+ANHOP,United States,Wisconsin,55,Shawano,115
+ANHOP,United States,Wisconsin,55,Trempealeau,121
+ANHOP,United States,Wisconsin,55,Vernon,123
+ANHOP,United States,Wisconsin,55,Vilas,125
+ANHOP,United States,Wisconsin,55,Washburn,129
+ANHOP,United States,Wisconsin,55,Washington,131
+ANHOP,United States,Wisconsin,55,Waupaca,135
+ANHOP,United States,Wisconsin,55,Waushara,137
+ANHOP,United States,Wisconsin,55,Wood,141
+ANHOP,United States,Wyoming,56,,
+ANHOP,United States,Wyoming,56,Campbell,005
+ANHOP,United States,Wyoming,56,Carbon,007
+ANHOP,United States,Wyoming,56,Crook,011
+ANHOP,United States,Wyoming,56,Johnson,019
+ANHOP,United States,Wyoming,56,Weston,045
+ANHOP,Canada,Newfoundland,NF,,

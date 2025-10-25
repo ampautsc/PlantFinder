@@ -1,0 +1,55 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+RISAS,Canada,British Columbia,02,,
+RISAS,United States,California,06,,
+RISAS,United States,California,06,Del Norte,015
+RISAS,United States,California,06,Humboldt,023
+RISAS,United States,California,06,Mendocino,045
+RISAS,United States,California,06,Trinity,105
+RISAS,United States,Idaho,16,,
+RISAS,United States,Idaho,16,Adams,003
+RISAS,United States,Idaho,16,Benewah,009
+RISAS,United States,Idaho,16,Bonner,017
+RISAS,United States,Idaho,16,Kootenai,055
+RISAS,United States,Oregon,41,,
+RISAS,United States,Oregon,41,Benton,003
+RISAS,United States,Oregon,41,Clackamas,005
+RISAS,United States,Oregon,41,Clatsop,007
+RISAS,United States,Oregon,41,Coos,011
+RISAS,United States,Oregon,41,Douglas,019
+RISAS,United States,Oregon,41,Hood River,027
+RISAS,United States,Oregon,41,Jackson,029
+RISAS,United States,Oregon,41,Jefferson,031
+RISAS,United States,Oregon,41,Josephine,033
+RISAS,United States,Oregon,41,Klamath,035
+RISAS,United States,Oregon,41,Lane,039
+RISAS,United States,Oregon,41,Lincoln,041
+RISAS,United States,Oregon,41,Linn,043
+RISAS,United States,Oregon,41,Marion,047
+RISAS,United States,Oregon,41,Multnomah,051
+RISAS,United States,Oregon,41,Polk,053
+RISAS,United States,Oregon,41,Wasco,065
+RISAS,United States,Oregon,41,Washington,067
+RISAS,United States,Washington,53,,
+RISAS,United States,Washington,53,Chelan,007
+RISAS,United States,Washington,53,Clallam,009
+RISAS,United States,Washington,53,Clark,011
+RISAS,United States,Washington,53,Cowlitz,015
+RISAS,United States,Washington,53,Grays Harbor,027
+RISAS,United States,Washington,53,Island,029
+RISAS,United States,Washington,53,Jefferson,031
+RISAS,United States,Washington,53,King,033
+RISAS,United States,Washington,53,Kitsap,035
+RISAS,United States,Washington,53,Kittitas,037
+RISAS,United States,Washington,53,Klickitat,039
+RISAS,United States,Washington,53,Lewis,041
+RISAS,United States,Washington,53,Mason,045
+RISAS,United States,Washington,53,Pacific,049
+RISAS,United States,Washington,53,Pierce,053
+RISAS,United States,Washington,53,San Juan,055
+RISAS,United States,Washington,53,Skagit,057
+RISAS,United States,Washington,53,Skamania,059
+RISAS,United States,Washington,53,Snohomish,061
+RISAS,United States,Washington,53,Thurston,067
+RISAS,United States,Washington,53,Wahkiakum,069
+RISAS,United States,Washington,53,Whatcom,073

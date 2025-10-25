@@ -1,0 +1,21 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SADOP,United States,Arizona,04,,
+SADOP,United States,Arizona,04,Coconino,005
+SADOP,United States,Arizona,04,Mohave,015
+SADOP,United States,Arizona,04,Yavapai,025
+SADOP,United States,California,06,,
+SADOP,United States,California,06,Inyo,027
+SADOP,United States,California,06,Kern,029
+SADOP,United States,California,06,Los Angeles,037
+SADOP,United States,California,06,Mono,051
+SADOP,United States,California,06,Plumas,063
+SADOP,United States,California,06,San Bernardino,071
+SADOP,United States,California,06,San Diego,073
+SADOP,United States,California,06,Ventura,111
+SADOP,United States,Nevada,32,,
+SADOP,United States,Nevada,32,Clark,003
+SADOP,United States,Nevada,32,Humboldt,013
+SADOP,United States,Nevada,32,Lincoln,017
+SADOP,United States,Nevada,32,Nye,023
+SADOP,United States,Nevada,32,Washoe,031

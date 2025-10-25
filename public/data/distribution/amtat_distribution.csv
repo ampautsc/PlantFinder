@@ -1,0 +1,179 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+AMTAT,United States,Alabama,01,,
+AMTAT,United States,Arkansas,05,,
+AMTAT,United States,Delaware,10,,
+AMTAT,United States,Delaware,10,New Castle,003
+AMTAT,United States,Florida,12,,
+AMTAT,United States,Florida,12,Alachua,001
+AMTAT,United States,Florida,12,Bradford,007
+AMTAT,United States,Florida,12,Columbia,023
+AMTAT,United States,Florida,12,Dixie,029
+AMTAT,United States,Florida,12,Escambia,033
+AMTAT,United States,Florida,12,Franklin,037
+AMTAT,United States,Florida,12,Gadsden,039
+AMTAT,United States,Florida,12,Gulf,045
+AMTAT,United States,Florida,12,Holmes,059
+AMTAT,United States,Florida,12,Jackson,063
+AMTAT,United States,Florida,12,Leon,073
+AMTAT,United States,Florida,12,Levy,075
+AMTAT,United States,Florida,12,Madison,079
+AMTAT,United States,Florida,12,Wakulla,129
+AMTAT,United States,Florida,12,Washington,133
+AMTAT,United States,Georgia,13,,
+AMTAT,United States,Illinois,17,,
+AMTAT,United States,Kansas,20,,
+AMTAT,United States,Kentucky,21,,
+AMTAT,United States,Kentucky,21,Caldwell,033
+AMTAT,United States,Kentucky,21,Calloway,035
+AMTAT,United States,Kentucky,21,Campbell,037
+AMTAT,United States,Kentucky,21,Christian,047
+AMTAT,United States,Kentucky,21,Graves,083
+AMTAT,United States,Kentucky,21,Hickman,105
+AMTAT,United States,Kentucky,21,Jefferson,111
+AMTAT,United States,Kentucky,21,Livingston,139
+AMTAT,United States,Kentucky,21,Lyon,143
+AMTAT,United States,Kentucky,21,Marshall,157
+AMTAT,United States,Kentucky,21,McLean,149
+AMTAT,United States,Kentucky,21,Todd,219
+AMTAT,United States,Kentucky,21,Union,225
+AMTAT,United States,Kentucky,21,Webster,233
+AMTAT,United States,Louisiana,22,,
+AMTAT,United States,Maryland,24,,
+AMTAT,United States,Massachusetts,25,,
+AMTAT,United States,Massachusetts,25,Hampden,013
+AMTAT,United States,Massachusetts,25,Suffolk,025
+AMTAT,United States,Massachusetts,25,Worcester,027
+AMTAT,United States,Mississippi,28,,
+AMTAT,United States,Missouri,29,,
+AMTAT,United States,Missouri,29,Barry,009
+AMTAT,United States,Missouri,29,Barton,011
+AMTAT,United States,Missouri,29,Carter,035
+AMTAT,United States,Missouri,29,Christian,043
+AMTAT,United States,Missouri,29,Douglas,067
+AMTAT,United States,Missouri,29,Franklin,071
+AMTAT,United States,Missouri,29,Greene,077
+AMTAT,United States,Missouri,29,Jasper,097
+AMTAT,United States,Missouri,29,Jefferson,099
+AMTAT,United States,Missouri,29,Lawrence,109
+AMTAT,United States,Missouri,29,Lincoln,113
+AMTAT,United States,Missouri,29,Marion,127
+AMTAT,United States,Missouri,29,McDonald,119
+AMTAT,United States,Missouri,29,Newton,145
+AMTAT,United States,Missouri,29,Ozark,153
+AMTAT,United States,Missouri,29,Pike,163
+AMTAT,United States,Missouri,29,Polk,167
+AMTAT,United States,Missouri,29,Ralls,173
+AMTAT,United States,Missouri,29,Scott,201
+AMTAT,United States,Missouri,29,St. Charles,183
+AMTAT,United States,Missouri,29,St. Louis,189
+AMTAT,United States,Missouri,29,Stoddard,207
+AMTAT,United States,Missouri,29,Stone,209
+AMTAT,United States,Missouri,29,Taney,213
+AMTAT,United States,Missouri,29,Webster,225
+AMTAT,United States,Missouri,29,Wright,229
+AMTAT,United States,New Jersey,34,,
+AMTAT,United States,New York,36,,
+AMTAT,United States,New York,36,Bronx,005
+AMTAT,United States,New York,36,Nassau,059
+AMTAT,United States,New York,36,Warren,113
+AMTAT,United States,North Carolina,37,,
+AMTAT,United States,North Carolina,37,Bladen,017
+AMTAT,United States,North Carolina,37,Buncombe,021
+AMTAT,United States,North Carolina,37,Burke,023
+AMTAT,United States,North Carolina,37,Cabarrus,025
+AMTAT,United States,North Carolina,37,Catawba,035
+AMTAT,United States,North Carolina,37,Chatham,037
+AMTAT,United States,North Carolina,37,Cleveland,045
+AMTAT,United States,North Carolina,37,Columbus,047
+AMTAT,United States,North Carolina,37,Davie,059
+AMTAT,United States,North Carolina,37,Durham,063
+AMTAT,United States,North Carolina,37,Granville,077
+AMTAT,United States,North Carolina,37,Guilford,081
+AMTAT,United States,North Carolina,37,Henderson,089
+AMTAT,United States,North Carolina,37,Johnston,101
+AMTAT,United States,North Carolina,37,Jones,103
+AMTAT,United States,North Carolina,37,Lee,105
+AMTAT,United States,North Carolina,37,Madison,115
+AMTAT,United States,North Carolina,37,Mecklenburg,119
+AMTAT,United States,North Carolina,37,Moore,125
+AMTAT,United States,North Carolina,37,Nash,127
+AMTAT,United States,North Carolina,37,New Hanover,129
+AMTAT,United States,North Carolina,37,Orange,135
+AMTAT,United States,North Carolina,37,Pitt,147
+AMTAT,United States,North Carolina,37,Polk,149
+AMTAT,United States,North Carolina,37,Randolph,151
+AMTAT,United States,North Carolina,37,Richmond,153
+AMTAT,United States,North Carolina,37,Robeson,155
+AMTAT,United States,North Carolina,37,Rowan,159
+AMTAT,United States,North Carolina,37,Scotland,165
+AMTAT,United States,Oklahoma,40,,
+AMTAT,United States,Pennsylvania,42,,
+AMTAT,United States,Pennsylvania,42,Chester,029
+AMTAT,United States,Pennsylvania,42,Delaware,045
+AMTAT,United States,Pennsylvania,42,Philadelphia,101
+AMTAT,United States,Pennsylvania,42,Wayne,127
+AMTAT,United States,South Carolina,45,,
+AMTAT,United States,South Carolina,45,Abbeville,001
+AMTAT,United States,South Carolina,45,Aiken,003
+AMTAT,United States,South Carolina,45,Anderson,007
+AMTAT,United States,South Carolina,45,Barnwell,011
+AMTAT,United States,South Carolina,45,Cherokee,021
+AMTAT,United States,South Carolina,45,Darlington,031
+AMTAT,United States,South Carolina,45,Dorchester,035
+AMTAT,United States,South Carolina,45,Greenville,045
+AMTAT,United States,South Carolina,45,Lancaster,057
+AMTAT,United States,South Carolina,45,Laurens,059
+AMTAT,United States,South Carolina,45,Lexington,063
+AMTAT,United States,South Carolina,45,McCormick,065
+AMTAT,United States,South Carolina,45,Oconee,073
+AMTAT,United States,South Carolina,45,Pickens,077
+AMTAT,United States,South Carolina,45,York,091
+AMTAT,United States,Tennessee,47,,
+AMTAT,United States,Tennessee,47,Anderson,001
+AMTAT,United States,Tennessee,47,Bedford,003
+AMTAT,United States,Tennessee,47,Benton,005
+AMTAT,United States,Tennessee,47,Bledsoe,007
+AMTAT,United States,Tennessee,47,Blount,009
+AMTAT,United States,Tennessee,47,Carroll,017
+AMTAT,United States,Tennessee,47,Cheatham,021
+AMTAT,United States,Tennessee,47,Claiborne,025
+AMTAT,United States,Tennessee,47,Cocke,029
+AMTAT,United States,Tennessee,47,Crockett,033
+AMTAT,United States,Tennessee,47,Cumberland,035
+AMTAT,United States,Tennessee,47,Davidson,037
+AMTAT,United States,Tennessee,47,Decatur,039
+AMTAT,United States,Tennessee,47,Dickson,043
+AMTAT,United States,Tennessee,47,Franklin,051
+AMTAT,United States,Tennessee,47,Hamblen,063
+AMTAT,United States,Tennessee,47,Hamilton,065
+AMTAT,United States,Tennessee,47,Hardeman,069
+AMTAT,United States,Tennessee,47,Hardin,071
+AMTAT,United States,Tennessee,47,Haywood,075
+AMTAT,United States,Tennessee,47,Henry,079
+AMTAT,United States,Tennessee,47,Hickman,081
+AMTAT,United States,Tennessee,47,Houston,083
+AMTAT,United States,Tennessee,47,Humphreys,085
+AMTAT,United States,Tennessee,47,Jefferson,089
+AMTAT,United States,Tennessee,47,Knox,093
+AMTAT,United States,Tennessee,47,Lewis,101
+AMTAT,United States,Tennessee,47,Madison,113
+AMTAT,United States,Tennessee,47,Marion,115
+AMTAT,United States,Tennessee,47,Montgomery,125
+AMTAT,United States,Tennessee,47,Morgan,129
+AMTAT,United States,Tennessee,47,Obion,131
+AMTAT,United States,Tennessee,47,Perry,135
+AMTAT,United States,Tennessee,47,Polk,139
+AMTAT,United States,Tennessee,47,Rhea,143
+AMTAT,United States,Tennessee,47,Roane,145
+AMTAT,United States,Tennessee,47,Rutherford,149
+AMTAT,United States,Tennessee,47,Sevier,155
+AMTAT,United States,Tennessee,47,Shelby,157
+AMTAT,United States,Tennessee,47,Stewart,161
+AMTAT,United States,Tennessee,47,Van Buren,175
+AMTAT,United States,Tennessee,47,Wayne,181
+AMTAT,United States,Tennessee,47,Weakley,183
+AMTAT,United States,Tennessee,47,White,185
+AMTAT,United States,Tennessee,47,Williamson,187
+AMTAT,United States,Texas,48,,
+AMTAT,United States,Virginia,51,,

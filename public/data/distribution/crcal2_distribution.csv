@@ -1,0 +1,200 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+CRCAL2,United States,Alabama,01,,
+CRCAL2,United States,Arkansas,05,,
+CRCAL2,United States,Florida,12,,
+CRCAL2,United States,Florida,12,Alachua,001
+CRCAL2,United States,Florida,12,Calhoun,013
+CRCAL2,United States,Florida,12,Citrus,017
+CRCAL2,United States,Florida,12,Clay,019
+CRCAL2,United States,Florida,12,Duval,031
+CRCAL2,United States,Florida,12,Escambia,033
+CRCAL2,United States,Florida,12,Franklin,037
+CRCAL2,United States,Florida,12,Gulf,045
+CRCAL2,United States,Florida,12,Hernando,053
+CRCAL2,United States,Florida,12,Holmes,059
+CRCAL2,United States,Florida,12,Jackson,063
+CRCAL2,United States,Florida,12,Lafayette,067
+CRCAL2,United States,Florida,12,Leon,073
+CRCAL2,United States,Florida,12,Levy,075
+CRCAL2,United States,Florida,12,Madison,079
+CRCAL2,United States,Florida,12,Marion,083
+CRCAL2,United States,Florida,12,Nassau,089
+CRCAL2,United States,Florida,12,Okaloosa,091
+CRCAL2,United States,Florida,12,Santa Rosa,113
+CRCAL2,United States,Florida,12,Sumter,119
+CRCAL2,United States,Florida,12,Suwannee,121
+CRCAL2,United States,Florida,12,Taylor,123
+CRCAL2,United States,Florida,12,Volusia,127
+CRCAL2,United States,Florida,12,Wakulla,129
+CRCAL2,United States,Florida,12,Walton,131
+CRCAL2,United States,Florida,12,Washington,133
+CRCAL2,United States,Georgia,13,,
+CRCAL2,United States,Georgia,13,Atkinson,003
+CRCAL2,United States,Georgia,13,Catoosa,047
+CRCAL2,United States,Georgia,13,Clarke,059
+CRCAL2,United States,Georgia,13,Cook,075
+CRCAL2,United States,Georgia,13,DeKalb,089
+CRCAL2,United States,Georgia,13,Long,183
+CRCAL2,United States,Georgia,13,Lowndes,185
+CRCAL2,United States,Georgia,13,Seminole,253
+CRCAL2,United States,Georgia,13,Sumter,261
+CRCAL2,United States,Georgia,13,Thomas,275
+CRCAL2,United States,Georgia,13,Tift,277
+CRCAL2,United States,Georgia,13,Toombs,279
+CRCAL2,United States,Georgia,13,Wayne,305
+CRCAL2,United States,Georgia,13,Worth,321
+CRCAL2,United States,Indiana,18,,
+CRCAL2,United States,Kansas,20,,
+CRCAL2,United States,Kansas,20,Miami,121
+CRCAL2,United States,Kentucky,21,,
+CRCAL2,United States,Kentucky,21,Carlisle,039
+CRCAL2,United States,Kentucky,21,Christian,047
+CRCAL2,United States,Louisiana,22,,
+CRCAL2,United States,Louisiana,22,Acadia,001
+CRCAL2,United States,Louisiana,22,Allen,003
+CRCAL2,United States,Louisiana,22,Avoyelles,009
+CRCAL2,United States,Louisiana,22,Beauregard,011
+CRCAL2,United States,Louisiana,22,Bienville,013
+CRCAL2,United States,Louisiana,22,Bossier,015
+CRCAL2,United States,Louisiana,22,Caddo,017
+CRCAL2,United States,Louisiana,22,Calcasieu,019
+CRCAL2,United States,Louisiana,22,Caldwell,021
+CRCAL2,United States,Louisiana,22,Cameron,023
+CRCAL2,United States,Louisiana,22,Catahoula,025
+CRCAL2,United States,Louisiana,22,Claiborne,027
+CRCAL2,United States,Louisiana,22,Concordia,029
+CRCAL2,United States,Louisiana,22,De Soto,031
+CRCAL2,United States,Louisiana,22,East Baton Rouge,033
+CRCAL2,United States,Louisiana,22,East Carroll,035
+CRCAL2,United States,Louisiana,22,East Feliciana,037
+CRCAL2,United States,Louisiana,22,Evangeline,039
+CRCAL2,United States,Louisiana,22,Franklin,041
+CRCAL2,United States,Louisiana,22,Grant,043
+CRCAL2,United States,Louisiana,22,Jackson,049
+CRCAL2,United States,Louisiana,22,Jefferson Davis,053
+CRCAL2,United States,Louisiana,22,Lafayette,055
+CRCAL2,United States,Louisiana,22,LaSalle,059
+CRCAL2,United States,Louisiana,22,Lincoln,061
+CRCAL2,United States,Louisiana,22,Livingston,063
+CRCAL2,United States,Louisiana,22,Madison,065
+CRCAL2,United States,Louisiana,22,Morehouse,067
+CRCAL2,United States,Louisiana,22,Natchitoches,069
+CRCAL2,United States,Louisiana,22,Ouachita,073
+CRCAL2,United States,Louisiana,22,Pointe Coupee,077
+CRCAL2,United States,Louisiana,22,Rapides,079
+CRCAL2,United States,Louisiana,22,Red River,081
+CRCAL2,United States,Louisiana,22,Richland,083
+CRCAL2,United States,Louisiana,22,Sabine,085
+CRCAL2,United States,Louisiana,22,St. Charles,089
+CRCAL2,United States,Louisiana,22,St. Helena,091
+CRCAL2,United States,Louisiana,22,St. James,093
+CRCAL2,United States,Louisiana,22,St. John the Baptist,095
+CRCAL2,United States,Louisiana,22,St. Landry,097
+CRCAL2,United States,Louisiana,22,St. Martin,099
+CRCAL2,United States,Louisiana,22,St. Mary,101
+CRCAL2,United States,Louisiana,22,St. Tammany,103
+CRCAL2,United States,Louisiana,22,Tangipahoa,105
+CRCAL2,United States,Louisiana,22,Tensas,107
+CRCAL2,United States,Louisiana,22,Terrebonne,109
+CRCAL2,United States,Louisiana,22,Union,111
+CRCAL2,United States,Louisiana,22,Vermilion,113
+CRCAL2,United States,Louisiana,22,Vernon,115
+CRCAL2,United States,Louisiana,22,Washington,117
+CRCAL2,United States,Louisiana,22,Webster,119
+CRCAL2,United States,Louisiana,22,West Baton Rouge,121
+CRCAL2,United States,Louisiana,22,West Carroll,123
+CRCAL2,United States,Louisiana,22,West Feliciana,125
+CRCAL2,United States,Louisiana,22,Winn,127
+CRCAL2,United States,Mississippi,28,,
+CRCAL2,United States,Missouri,29,,
+CRCAL2,United States,Missouri,29,Butler,023
+CRCAL2,United States,Missouri,29,Dunklin,069
+CRCAL2,United States,Missouri,29,Howell,091
+CRCAL2,United States,Missouri,29,Mississippi,133
+CRCAL2,United States,Missouri,29,Moniteau,135
+CRCAL2,United States,Missouri,29,New Madrid,143
+CRCAL2,United States,Missouri,29,Pemiscot,155
+CRCAL2,United States,Missouri,29,Ripley,181
+CRCAL2,United States,Missouri,29,Scott,201
+CRCAL2,United States,Missouri,29,St. Louis,189
+CRCAL2,United States,Missouri,29,Stoddard,207
+CRCAL2,United States,Oklahoma,40,,
+CRCAL2,United States,Tennessee,47,,
+CRCAL2,United States,Texas,48,,
+CRCAL2,United States,Texas,48,Anderson,001
+CRCAL2,United States,Texas,48,Angelina,005
+CRCAL2,United States,Texas,48,Aransas,007
+CRCAL2,United States,Texas,48,Atascosa,013
+CRCAL2,United States,Texas,48,Bastrop,021
+CRCAL2,United States,Texas,48,Bell,027
+CRCAL2,United States,Texas,48,Bexar,029
+CRCAL2,United States,Texas,48,Bowie,037
+CRCAL2,United States,Texas,48,Brazoria,039
+CRCAL2,United States,Texas,48,Brazos,041
+CRCAL2,United States,Texas,48,Brooks,047
+CRCAL2,United States,Texas,48,Caldwell,055
+CRCAL2,United States,Texas,48,Calhoun,057
+CRCAL2,United States,Texas,48,Cameron,061
+CRCAL2,United States,Texas,48,Cass,067
+CRCAL2,United States,Texas,48,Colorado,089
+CRCAL2,United States,Texas,48,Dallas,113
+CRCAL2,United States,Texas,48,Denton,121
+CRCAL2,United States,Texas,48,Dimmit,127
+CRCAL2,United States,Texas,48,Fayette,149
+CRCAL2,United States,Texas,48,Fort Bend,157
+CRCAL2,United States,Texas,48,Freestone,161
+CRCAL2,United States,Texas,48,Frio,163
+CRCAL2,United States,Texas,48,Galveston,167
+CRCAL2,United States,Texas,48,Gonzales,177
+CRCAL2,United States,Texas,48,Grayson,181
+CRCAL2,United States,Texas,48,Gregg,183
+CRCAL2,United States,Texas,48,Grimes,185
+CRCAL2,United States,Texas,48,Guadalupe,187
+CRCAL2,United States,Texas,48,Hardin,199
+CRCAL2,United States,Texas,48,Harris,201
+CRCAL2,United States,Texas,48,Hays,209
+CRCAL2,United States,Texas,48,Henderson,213
+CRCAL2,United States,Texas,48,Hidalgo,215
+CRCAL2,United States,Texas,48,Houston,225
+CRCAL2,United States,Texas,48,Jackson,239
+CRCAL2,United States,Texas,48,Jefferson,245
+CRCAL2,United States,Texas,48,Jim Hogg,247
+CRCAL2,United States,Texas,48,Johnson,251
+CRCAL2,United States,Texas,48,Karnes,255
+CRCAL2,United States,Texas,48,Kaufman,257
+CRCAL2,United States,Texas,48,Kenedy,261
+CRCAL2,United States,Texas,48,Kleberg,273
+CRCAL2,United States,Texas,48,Leon,289
+CRCAL2,United States,Texas,48,Liberty,291
+CRCAL2,United States,Texas,48,Llano,299
+CRCAL2,United States,Texas,48,Madison,313
+CRCAL2,United States,Texas,48,Marion,315
+CRCAL2,United States,Texas,48,McLennan,309
+CRCAL2,United States,Texas,48,Milam,331
+CRCAL2,United States,Texas,48,Montgomery,339
+CRCAL2,United States,Texas,48,Nacogdoches,347
+CRCAL2,United States,Texas,48,Nueces,355
+CRCAL2,United States,Texas,48,Polk,373
+CRCAL2,United States,Texas,48,Refugio,391
+CRCAL2,United States,Texas,48,Robertson,395
+CRCAL2,United States,Texas,48,Rusk,401
+CRCAL2,United States,Texas,48,San Jacinto,407
+CRCAL2,United States,Texas,48,San Patricio,409
+CRCAL2,United States,Texas,48,Shelby,419
+CRCAL2,United States,Texas,48,Smith,423
+CRCAL2,United States,Texas,48,Starr,427
+CRCAL2,United States,Texas,48,Tarrant,439
+CRCAL2,United States,Texas,48,Titus,449
+CRCAL2,United States,Texas,48,Travis,453
+CRCAL2,United States,Texas,48,Tyler,457
+CRCAL2,United States,Texas,48,Upshur,459
+CRCAL2,United States,Texas,48,Victoria,469
+CRCAL2,United States,Texas,48,Walker,471
+CRCAL2,United States,Texas,48,Washington,477
+CRCAL2,United States,Texas,48,Webb,479
+CRCAL2,United States,Texas,48,Willacy,489
+CRCAL2,United States,Texas,48,Williamson,491
+CRCAL2,United States,Texas,48,Wilson,493
+CRCAL2,United States,Texas,48,Wood,499
+CRCAL2,United States,Texas,48,Zapata,505

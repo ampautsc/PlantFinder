@@ -1,0 +1,380 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+CEHE,Canada,Manitoba,03,,
+CEHE,United States,Arkansas,05,,
+CEHE,United States,Arkansas,05,Benton,007
+CEHE,United States,Arkansas,05,Clark,019
+CEHE,United States,Arkansas,05,Conway,029
+CEHE,United States,Arkansas,05,Crawford,033
+CEHE,United States,Arkansas,05,Faulkner,045
+CEHE,United States,Arkansas,05,Garland,051
+CEHE,United States,Arkansas,05,Howard,061
+CEHE,United States,Arkansas,05,Little River,081
+CEHE,United States,Arkansas,05,Logan,083
+CEHE,United States,Arkansas,05,Madison,087
+CEHE,United States,Arkansas,05,Montgomery,097
+CEHE,United States,Arkansas,05,Polk,113
+CEHE,United States,Arkansas,05,Scott,127
+CEHE,United States,Arkansas,05,Washington,143
+CEHE,Canada,Ontario,08,,
+CEHE,United States,Colorado,08,,
+CEHE,United States,Colorado,08,Boulder,013
+CEHE,United States,Colorado,08,Douglas,035
+CEHE,United States,Colorado,08,El Paso,041
+CEHE,United States,Colorado,08,Elbert,039
+CEHE,United States,Colorado,08,Jefferson,059
+CEHE,United States,Colorado,08,Larimer,069
+CEHE,Canada,Quebec,10,,
+CEHE,United States,District of Columbia,11,,
+CEHE,United States,District of Columbia,11,District of Columbia,001
+CEHE,United States,Illinois,17,,
+CEHE,United States,Illinois,17,Cook,031
+CEHE,United States,Illinois,17,Jo Daviess,085
+CEHE,United States,Illinois,17,Lake,097
+CEHE,United States,Illinois,17,Whiteside,195
+CEHE,United States,Illinois,17,Winnebago,201
+CEHE,United States,Indiana,18,,
+CEHE,United States,Indiana,18,Harrison,061
+CEHE,United States,Indiana,18,Lake,089
+CEHE,United States,Iowa,19,,
+CEHE,United States,Iowa,19,Adams,003
+CEHE,United States,Iowa,19,Audubon,009
+CEHE,United States,Iowa,19,Cherokee,035
+CEHE,United States,Iowa,19,Fremont,071
+CEHE,United States,Iowa,19,Guthrie,077
+CEHE,United States,Iowa,19,Harrison,085
+CEHE,United States,Iowa,19,Lyon,119
+CEHE,United States,Iowa,19,Madison,121
+CEHE,United States,Iowa,19,Mills,129
+CEHE,United States,Iowa,19,Monona,133
+CEHE,United States,Iowa,19,Montgomery,137
+CEHE,United States,Iowa,19,O'Brien,141
+CEHE,United States,Iowa,19,Plymouth,149
+CEHE,United States,Iowa,19,Pottawattamie,155
+CEHE,United States,Iowa,19,Shelby,165
+CEHE,United States,Iowa,19,Sioux,167
+CEHE,United States,Iowa,19,Story,169
+CEHE,United States,Iowa,19,Union,175
+CEHE,United States,Iowa,19,Woodbury,193
+CEHE,United States,Kansas,20,,
+CEHE,United States,Kansas,20,Anderson,003
+CEHE,United States,Kansas,20,Atchison,005
+CEHE,United States,Kansas,20,Barber,007
+CEHE,United States,Kansas,20,Barton,009
+CEHE,United States,Kansas,20,Bourbon,011
+CEHE,United States,Kansas,20,Brown,013
+CEHE,United States,Kansas,20,Butler,015
+CEHE,United States,Kansas,20,Chase,017
+CEHE,United States,Kansas,20,Chautauqua,019
+CEHE,United States,Kansas,20,Cherokee,021
+CEHE,United States,Kansas,20,Clark,025
+CEHE,United States,Kansas,20,Clay,027
+CEHE,United States,Kansas,20,Cloud,029
+CEHE,United States,Kansas,20,Coffey,031
+CEHE,United States,Kansas,20,Comanche,033
+CEHE,United States,Kansas,20,Cowley,035
+CEHE,United States,Kansas,20,Crawford,037
+CEHE,United States,Kansas,20,Dickinson,041
+CEHE,United States,Kansas,20,Doniphan,043
+CEHE,United States,Kansas,20,Douglas,045
+CEHE,United States,Kansas,20,Elk,049
+CEHE,United States,Kansas,20,Ellis,051
+CEHE,United States,Kansas,20,Ellsworth,053
+CEHE,United States,Kansas,20,Franklin,059
+CEHE,United States,Kansas,20,Geary,061
+CEHE,United States,Kansas,20,Greenwood,073
+CEHE,United States,Kansas,20,Jackson,085
+CEHE,United States,Kansas,20,Jefferson,087
+CEHE,United States,Kansas,20,Jewell,089
+CEHE,United States,Kansas,20,Johnson,091
+CEHE,United States,Kansas,20,Kiowa,097
+CEHE,United States,Kansas,20,Labette,099
+CEHE,United States,Kansas,20,Leavenworth,103
+CEHE,United States,Kansas,20,Lincoln,105
+CEHE,United States,Kansas,20,Linn,107
+CEHE,United States,Kansas,20,Lyon,111
+CEHE,United States,Kansas,20,Marion,115
+CEHE,United States,Kansas,20,Marshall,117
+CEHE,United States,Kansas,20,McPherson,113
+CEHE,United States,Kansas,20,Miami,121
+CEHE,United States,Kansas,20,Mitchell,123
+CEHE,United States,Kansas,20,Morris,127
+CEHE,United States,Kansas,20,Morton,129
+CEHE,United States,Kansas,20,Nemaha,131
+CEHE,United States,Kansas,20,Neosho,133
+CEHE,United States,Kansas,20,Osage,139
+CEHE,United States,Kansas,20,Osborne,141
+CEHE,United States,Kansas,20,Ottawa,143
+CEHE,United States,Kansas,20,Pottawatomie,149
+CEHE,United States,Kansas,20,Pratt,151
+CEHE,United States,Kansas,20,Reno,155
+CEHE,United States,Kansas,20,Republic,157
+CEHE,United States,Kansas,20,Rice,159
+CEHE,United States,Kansas,20,Riley,161
+CEHE,United States,Kansas,20,Rooks,163
+CEHE,United States,Kansas,20,Russell,167
+CEHE,United States,Kansas,20,Saline,169
+CEHE,United States,Kansas,20,Seward,175
+CEHE,United States,Kansas,20,Shawnee,177
+CEHE,United States,Kansas,20,Smith,183
+CEHE,United States,Kansas,20,Stafford,185
+CEHE,United States,Kansas,20,Wabaunsee,197
+CEHE,United States,Kansas,20,Washington,201
+CEHE,United States,Kansas,20,Wilson,205
+CEHE,United States,Kansas,20,Woodson,207
+CEHE,United States,Kansas,20,Wyandotte,209
+CEHE,United States,Kentucky,21,,
+CEHE,United States,Kentucky,21,Laurel,125
+CEHE,United States,Kentucky,21,Lyon,143
+CEHE,United States,Kentucky,21,Pulaski,199
+CEHE,United States,Kentucky,21,Wayne,231
+CEHE,United States,Louisiana,22,,
+CEHE,United States,Louisiana,22,Caddo,017
+CEHE,United States,Louisiana,22,Natchitoches,069
+CEHE,United States,Louisiana,22,Winn,127
+CEHE,United States,Massachusetts,25,,
+CEHE,United States,Massachusetts,25,Essex,009
+CEHE,United States,Massachusetts,25,Middlesex,017
+CEHE,United States,Michigan,26,,
+CEHE,United States,Michigan,26,Alcona,001
+CEHE,United States,Michigan,26,Alpena,007
+CEHE,United States,Michigan,26,Arenac,011
+CEHE,United States,Michigan,26,Cheboygan,031
+CEHE,United States,Michigan,26,Crawford,039
+CEHE,United States,Michigan,26,Dickinson,043
+CEHE,United States,Michigan,26,Huron,063
+CEHE,United States,Michigan,26,Iosco,069
+CEHE,United States,Michigan,26,Keweenaw,083
+CEHE,United States,Michigan,26,Leelanau,089
+CEHE,United States,Michigan,26,Mackinac,097
+CEHE,United States,Michigan,26,Marquette,103
+CEHE,United States,Michigan,26,Menominee,109
+CEHE,United States,Michigan,26,Montmorency,119
+CEHE,United States,Michigan,26,Ogemaw,129
+CEHE,United States,Michigan,26,Ontonagon,131
+CEHE,United States,Michigan,26,Oscoda,135
+CEHE,United States,Michigan,26,Presque Isle,141
+CEHE,United States,Michigan,26,Roscommon,143
+CEHE,United States,Michigan,26,St. Clair,147
+CEHE,United States,Minnesota,27,,
+CEHE,United States,Minnesota,27,Beltrami,007
+CEHE,United States,Minnesota,27,Cass,021
+CEHE,United States,Minnesota,27,Chisago,025
+CEHE,United States,Minnesota,27,Clearwater,029
+CEHE,United States,Minnesota,27,Crow Wing,035
+CEHE,United States,Minnesota,27,Dakota,037
+CEHE,United States,Minnesota,27,Houston,055
+CEHE,United States,Minnesota,27,Hubbard,057
+CEHE,United States,Minnesota,27,Itasca,061
+CEHE,United States,Minnesota,27,Olmsted,109
+CEHE,United States,Minnesota,27,St. Louis,137
+CEHE,United States,Minnesota,27,Stearns,145
+CEHE,United States,Minnesota,27,Wabasha,157
+CEHE,United States,Minnesota,27,Wadena,159
+CEHE,United States,Minnesota,27,Washington,163
+CEHE,United States,Minnesota,27,Winona,169
+CEHE,United States,Missouri,29,,
+CEHE,United States,Missouri,29,Atchison,005
+CEHE,United States,Missouri,29,Barry,009
+CEHE,United States,Missouri,29,Benton,015
+CEHE,United States,Missouri,29,Buchanan,021
+CEHE,United States,Missouri,29,Caldwell,025
+CEHE,United States,Missouri,29,Cape Girardeau,031
+CEHE,United States,Missouri,29,Cass,037
+CEHE,United States,Missouri,29,Cedar,039
+CEHE,United States,Missouri,29,Christian,043
+CEHE,United States,Missouri,29,Dade,057
+CEHE,United States,Missouri,29,DeKalb,063
+CEHE,United States,Missouri,29,Gentry,075
+CEHE,United States,Missouri,29,Greene,077
+CEHE,United States,Missouri,29,Henry,083
+CEHE,United States,Missouri,29,Hickory,085
+CEHE,United States,Missouri,29,Holt,087
+CEHE,United States,Missouri,29,Iron,093
+CEHE,United States,Missouri,29,Jackson,095
+CEHE,United States,Missouri,29,Jasper,097
+CEHE,United States,Missouri,29,Lawrence,109
+CEHE,United States,Missouri,29,McDonald,119
+CEHE,United States,Missouri,29,Mercer,129
+CEHE,United States,Missouri,29,Montgomery,139
+CEHE,United States,Missouri,29,Newton,145
+CEHE,United States,Missouri,29,Nodaway,147
+CEHE,United States,Missouri,29,Polk,167
+CEHE,United States,Missouri,29,Putnam,171
+CEHE,United States,Missouri,29,Scott,201
+CEHE,United States,Missouri,29,Shannon,203
+CEHE,United States,Missouri,29,St. Clair,185
+CEHE,United States,Missouri,29,Stone,209
+CEHE,United States,Missouri,29,Worth,227
+CEHE,United States,Montana,30,,
+CEHE,United States,Montana,30,Powder River,075
+CEHE,United States,Nebraska,31,,
+CEHE,United States,Nebraska,31,Antelope,003
+CEHE,United States,Nebraska,31,Brown,017
+CEHE,United States,Nebraska,31,Burt,021
+CEHE,United States,Nebraska,31,Cass,025
+CEHE,United States,Nebraska,31,Cedar,027
+CEHE,United States,Nebraska,31,Cherry,031
+CEHE,United States,Nebraska,31,Cuming,039
+CEHE,United States,Nebraska,31,Custer,041
+CEHE,United States,Nebraska,31,Dixon,051
+CEHE,United States,Nebraska,31,Douglas,055
+CEHE,United States,Nebraska,31,Gage,067
+CEHE,United States,Nebraska,31,Holt,089
+CEHE,United States,Nebraska,31,Hooker,091
+CEHE,United States,Nebraska,31,Jefferson,095
+CEHE,United States,Nebraska,31,Johnson,097
+CEHE,United States,Nebraska,31,Lancaster,109
+CEHE,United States,Nebraska,31,Logan,113
+CEHE,United States,Nebraska,31,Loup,115
+CEHE,United States,Nebraska,31,Nemaha,127
+CEHE,United States,Nebraska,31,Otoe,131
+CEHE,United States,Nebraska,31,Pawnee,133
+CEHE,United States,Nebraska,31,Richardson,147
+CEHE,United States,Nebraska,31,Rock,149
+CEHE,United States,Nebraska,31,Sarpy,153
+CEHE,United States,Nebraska,31,Stanton,167
+CEHE,United States,Nebraska,31,Thomas,171
+CEHE,United States,Nebraska,31,Thurston,173
+CEHE,United States,Nebraska,31,Washington,177
+CEHE,United States,Nebraska,31,Webster,181
+CEHE,United States,New Mexico,35,,
+CEHE,United States,New Mexico,35,Eddy,015
+CEHE,United States,New York,36,,
+CEHE,United States,New York,36,Chemung,015
+CEHE,United States,New York,36,Clinton,019
+CEHE,United States,New York,36,Essex,031
+CEHE,United States,New York,36,Jefferson,045
+CEHE,United States,North Dakota,38,,
+CEHE,United States,Ohio,39,,
+CEHE,United States,Ohio,39,Crawford,033
+CEHE,United States,Ohio,39,Erie,043
+CEHE,United States,Ohio,39,Lake,085
+CEHE,United States,Ohio,39,Ottawa,123
+CEHE,United States,Oklahoma,40,,
+CEHE,United States,Oklahoma,40,Adair,001
+CEHE,United States,Oklahoma,40,Beckham,009
+CEHE,United States,Oklahoma,40,Bryan,013
+CEHE,United States,Oklahoma,40,Carter,019
+CEHE,United States,Oklahoma,40,Cherokee,021
+CEHE,United States,Oklahoma,40,Cimarron,025
+CEHE,United States,Oklahoma,40,Cleveland,027
+CEHE,United States,Oklahoma,40,Comanche,031
+CEHE,United States,Oklahoma,40,Custer,039
+CEHE,United States,Oklahoma,40,Delaware,041
+CEHE,United States,Oklahoma,40,Dewey,043
+CEHE,United States,Oklahoma,40,Ellis,045
+CEHE,United States,Oklahoma,40,Greer,055
+CEHE,United States,Oklahoma,40,Harper,059
+CEHE,United States,Oklahoma,40,Jackson,065
+CEHE,United States,Oklahoma,40,Johnston,069
+CEHE,United States,Oklahoma,40,Kiowa,075
+CEHE,United States,Oklahoma,40,Latimer,077
+CEHE,United States,Oklahoma,40,Le Flore,079
+CEHE,United States,Oklahoma,40,Major,093
+CEHE,United States,Oklahoma,40,Marshall,095
+CEHE,United States,Oklahoma,40,Mayes,097
+CEHE,United States,Oklahoma,40,McCurtain,089
+CEHE,United States,Oklahoma,40,Murray,099
+CEHE,United States,Oklahoma,40,Pittsburg,121
+CEHE,United States,Oklahoma,40,Pushmataha,127
+CEHE,United States,Oklahoma,40,Roger Mills,129
+CEHE,United States,Oklahoma,40,Rogers,131
+CEHE,United States,Oklahoma,40,Sequoyah,135
+CEHE,United States,Oklahoma,40,Woods,151
+CEHE,United States,South Dakota,46,,
+CEHE,United States,South Dakota,46,Bennett,007
+CEHE,United States,South Dakota,46,Lawrence,081
+CEHE,United States,South Dakota,46,Pennington,103
+CEHE,United States,South Dakota,46,Todd,121
+CEHE,United States,Tennessee,47,,
+CEHE,United States,Texas,48,,
+CEHE,United States,Texas,48,Austin,015
+CEHE,United States,Texas,48,Bailey,017
+CEHE,United States,Texas,48,Bandera,019
+CEHE,United States,Texas,48,Bastrop,021
+CEHE,United States,Texas,48,Bell,027
+CEHE,United States,Texas,48,Bexar,029
+CEHE,United States,Texas,48,Blanco,031
+CEHE,United States,Texas,48,Bosque,035
+CEHE,United States,Texas,48,Burnet,053
+CEHE,United States,Texas,48,Comal,091
+CEHE,United States,Texas,48,Cooke,097
+CEHE,United States,Texas,48,Coryell,099
+CEHE,United States,Texas,48,Crockett,105
+CEHE,United States,Texas,48,Dallas,113
+CEHE,United States,Texas,48,Denton,121
+CEHE,United States,Texas,48,Donley,129
+CEHE,United States,Texas,48,Edwards,137
+CEHE,United States,Texas,48,Fannin,147
+CEHE,United States,Texas,48,Gillespie,171
+CEHE,United States,Texas,48,Goliad,175
+CEHE,United States,Texas,48,Gray,179
+CEHE,United States,Texas,48,Grayson,181
+CEHE,United States,Texas,48,Hamilton,193
+CEHE,United States,Texas,48,Hartley,205
+CEHE,United States,Texas,48,Hays,209
+CEHE,United States,Texas,48,Hemphill,211
+CEHE,United States,Texas,48,Hill,217
+CEHE,United States,Texas,48,Hutchinson,233
+CEHE,United States,Texas,48,Johnson,251
+CEHE,United States,Texas,48,Kendall,259
+CEHE,United States,Texas,48,Kerr,265
+CEHE,United States,Texas,48,Kinney,271
+CEHE,United States,Texas,48,La Salle,283
+CEHE,United States,Texas,48,Lamar,277
+CEHE,United States,Texas,48,Lamb,279
+CEHE,United States,Texas,48,Marion,315
+CEHE,United States,Texas,48,McCulloch,307
+CEHE,United States,Texas,48,McLennan,309
+CEHE,United States,Texas,48,Menard,327
+CEHE,United States,Texas,48,Parker,367
+CEHE,United States,Texas,48,Potter,375
+CEHE,United States,Texas,48,Sutton,435
+CEHE,United States,Texas,48,Tarrant,439
+CEHE,United States,Texas,48,Taylor,441
+CEHE,United States,Texas,48,Travis,453
+CEHE,United States,Texas,48,Uvalde,463
+CEHE,United States,Texas,48,Val Verde,465
+CEHE,United States,Texas,48,Victoria,469
+CEHE,United States,Texas,48,Washington,477
+CEHE,United States,Texas,48,Wheeler,483
+CEHE,United States,Texas,48,Williamson,491
+CEHE,United States,Vermont,50,,
+CEHE,United States,Vermont,50,Chittenden,007
+CEHE,United States,Virginia,51,,
+CEHE,United States,West Virginia,54,,
+CEHE,United States,West Virginia,54,Grant,023
+CEHE,United States,Wisconsin,55,,
+CEHE,United States,Wisconsin,55,Adams,001
+CEHE,United States,Wisconsin,55,Bayfield,007
+CEHE,United States,Wisconsin,55,Brown,009
+CEHE,United States,Wisconsin,55,Burnett,013
+CEHE,United States,Wisconsin,55,Crawford,023
+CEHE,United States,Wisconsin,55,Dane,025
+CEHE,United States,Wisconsin,55,Dodge,027
+CEHE,United States,Wisconsin,55,Door,029
+CEHE,United States,Wisconsin,55,Douglas,031
+CEHE,United States,Wisconsin,55,Eau Claire,035
+CEHE,United States,Wisconsin,55,Grant,043
+CEHE,United States,Wisconsin,55,Iowa,049
+CEHE,United States,Wisconsin,55,Jackson,053
+CEHE,United States,Wisconsin,55,La Crosse,063
+CEHE,United States,Wisconsin,55,Lafayette,065
+CEHE,United States,Wisconsin,55,Manitowoc,071
+CEHE,United States,Wisconsin,55,Marinette,075
+CEHE,United States,Wisconsin,55,Menominee,078
+CEHE,United States,Wisconsin,55,Oconto,083
+CEHE,United States,Wisconsin,55,Pepin,091
+CEHE,United States,Wisconsin,55,Portage,097
+CEHE,United States,Wisconsin,55,Richland,103
+CEHE,United States,Wisconsin,55,Rock,105
+CEHE,United States,Wisconsin,55,Shawano,115
+CEHE,United States,Wisconsin,55,Sheboygan,117
+CEHE,United States,Wisconsin,55,St. Croix,109
+CEHE,United States,Wisconsin,55,Vernon,123
+CEHE,United States,Wisconsin,55,Washburn,129
+CEHE,United States,Wisconsin,55,Waushara,137
+CEHE,United States,Wisconsin,55,Wood,141
+CEHE,United States,Wyoming,56,,
+CEHE,United States,Wyoming,56,Crook,011

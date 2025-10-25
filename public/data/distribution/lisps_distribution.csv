@@ -1,0 +1,207 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+LISPS,United States,Alabama,01,,
+LISPS,United States,Arkansas,05,,
+LISPS,United States,Arkansas,05,Bradley,011
+LISPS,Canada,Ontario,08,,
+LISPS,United States,Connecticut,09,,
+LISPS,United States,Connecticut,09,Fairfield,001
+LISPS,Canada,Quebec,10,,
+LISPS,United States,Delaware,10,,
+LISPS,United States,Delaware,10,New Castle,003
+LISPS,United States,Delaware,10,Sussex,005
+LISPS,United States,District of Columbia,11,,
+LISPS,United States,District of Columbia,11,District of Columbia,001
+LISPS,United States,Florida,12,,
+LISPS,United States,Georgia,13,,
+LISPS,United States,Illinois,17,,
+LISPS,United States,Illinois,17,Alexander,003
+LISPS,United States,Illinois,17,Boone,007
+LISPS,United States,Illinois,17,Cass,017
+LISPS,United States,Illinois,17,Cook,031
+LISPS,United States,Illinois,17,DuPage,043
+LISPS,United States,Illinois,17,Gallatin,059
+LISPS,United States,Illinois,17,Grundy,063
+LISPS,United States,Illinois,17,Hancock,067
+LISPS,United States,Illinois,17,Hardin,069
+LISPS,United States,Illinois,17,Iroquois,075
+LISPS,United States,Illinois,17,Jackson,077
+LISPS,United States,Illinois,17,Kankakee,091
+LISPS,United States,Illinois,17,Lake,097
+LISPS,United States,Illinois,17,McHenry,111
+LISPS,United States,Illinois,17,McLean,113
+LISPS,United States,Illinois,17,Pope,151
+LISPS,United States,Illinois,17,Pulaski,153
+LISPS,United States,Illinois,17,Saline,165
+LISPS,United States,Illinois,17,Sangamon,167
+LISPS,United States,Illinois,17,Union,181
+LISPS,United States,Illinois,17,Will,197
+LISPS,United States,Indiana,18,,
+LISPS,United States,Indiana,18,Allen,003
+LISPS,United States,Indiana,18,Benton,007
+LISPS,United States,Indiana,18,Cass,017
+LISPS,United States,Indiana,18,Clark,019
+LISPS,United States,Indiana,18,Clay,021
+LISPS,United States,Indiana,18,Crawford,025
+LISPS,United States,Indiana,18,Elkhart,039
+LISPS,United States,Indiana,18,Floyd,043
+LISPS,United States,Indiana,18,Fountain,045
+LISPS,United States,Indiana,18,Fulton,049
+LISPS,United States,Indiana,18,Greene,055
+LISPS,United States,Indiana,18,Harrison,061
+LISPS,United States,Indiana,18,Henry,065
+LISPS,United States,Indiana,18,Jasper,073
+LISPS,United States,Indiana,18,Kosciusko,085
+LISPS,United States,Indiana,18,Lagrange,087
+LISPS,United States,Indiana,18,Lake,089
+LISPS,United States,Indiana,18,LaPorte,091
+LISPS,United States,Indiana,18,Madison,095
+LISPS,United States,Indiana,18,Marshall,099
+LISPS,United States,Indiana,18,Montgomery,107
+LISPS,United States,Indiana,18,Newton,111
+LISPS,United States,Indiana,18,Noble,113
+LISPS,United States,Indiana,18,Perry,123
+LISPS,United States,Indiana,18,Porter,127
+LISPS,United States,Indiana,18,Posey,129
+LISPS,United States,Indiana,18,Pulaski,131
+LISPS,United States,Indiana,18,St. Joseph,141
+LISPS,United States,Indiana,18,Starke,149
+LISPS,United States,Indiana,18,Steuben,151
+LISPS,United States,Indiana,18,Tippecanoe,157
+LISPS,United States,Indiana,18,Tipton,159
+LISPS,United States,Indiana,18,Warren,171
+LISPS,United States,Indiana,18,Wayne,177
+LISPS,United States,Indiana,18,White,181
+LISPS,United States,Kentucky,21,,
+LISPS,United States,Kentucky,21,Bath,011
+LISPS,United States,Kentucky,21,Calloway,035
+LISPS,United States,Kentucky,21,Christian,047
+LISPS,United States,Kentucky,21,Estill,065
+LISPS,United States,Kentucky,21,Fleming,069
+LISPS,United States,Kentucky,21,Grayson,085
+LISPS,United States,Kentucky,21,Hardin,093
+LISPS,United States,Kentucky,21,Henderson,101
+LISPS,United States,Kentucky,21,Jefferson,111
+LISPS,United States,Kentucky,21,Lewis,135
+LISPS,United States,Kentucky,21,Marshall,157
+LISPS,United States,Kentucky,21,McCracken,145
+LISPS,United States,Kentucky,21,McCreary,147
+LISPS,United States,Kentucky,21,Meade,163
+LISPS,United States,Kentucky,21,Ohio,183
+LISPS,United States,Kentucky,21,Pulaski,199
+LISPS,United States,Kentucky,21,Rowan,205
+LISPS,United States,Kentucky,21,Whitley,235
+LISPS,United States,Louisiana,22,,
+LISPS,United States,Louisiana,22,Beauregard,011
+LISPS,United States,Louisiana,22,Calcasieu,019
+LISPS,United States,Louisiana,22,Jefferson Davis,053
+LISPS,United States,Louisiana,22,Natchitoches,069
+LISPS,United States,Louisiana,22,Rapides,079
+LISPS,United States,Louisiana,22,St. Tammany,103
+LISPS,United States,Louisiana,22,Tangipahoa,105
+LISPS,United States,Louisiana,22,Vernon,115
+LISPS,United States,Louisiana,22,Washington,117
+LISPS,United States,Louisiana,22,Winn,127
+LISPS,United States,Maryland,24,,
+LISPS,United States,Massachusetts,25,,
+LISPS,United States,Massachusetts,25,Essex,009
+LISPS,United States,Massachusetts,25,Middlesex,017
+LISPS,United States,Massachusetts,25,Plymouth,023
+LISPS,United States,Massachusetts,25,Worcester,027
+LISPS,United States,Michigan,26,,
+LISPS,United States,Michigan,26,Barry,015
+LISPS,United States,Michigan,26,Bay,017
+LISPS,United States,Michigan,26,Berrien,021
+LISPS,United States,Michigan,26,Branch,023
+LISPS,United States,Michigan,26,Calhoun,025
+LISPS,United States,Michigan,26,Cass,027
+LISPS,United States,Michigan,26,Clinton,037
+LISPS,United States,Michigan,26,Huron,063
+LISPS,United States,Michigan,26,Ionia,067
+LISPS,United States,Michigan,26,Iosco,069
+LISPS,United States,Michigan,26,Jackson,075
+LISPS,United States,Michigan,26,Kalamazoo,077
+LISPS,United States,Michigan,26,Kent,081
+LISPS,United States,Michigan,26,Lenawee,091
+LISPS,United States,Michigan,26,Livingston,093
+LISPS,United States,Michigan,26,Macomb,099
+LISPS,United States,Michigan,26,Monroe,115
+LISPS,United States,Michigan,26,Montmorency,119
+LISPS,United States,Michigan,26,Muskegon,121
+LISPS,United States,Michigan,26,Oakland,125
+LISPS,United States,Michigan,26,St. Clair,147
+LISPS,United States,Michigan,26,St. Joseph,149
+LISPS,United States,Michigan,26,Tuscola,157
+LISPS,United States,Michigan,26,Van Buren,159
+LISPS,United States,Michigan,26,Washtenaw,161
+LISPS,United States,Michigan,26,Wayne,163
+LISPS,United States,Mississippi,28,,
+LISPS,United States,Mississippi,28,Hancock,045
+LISPS,United States,Mississippi,28,Harrison,047
+LISPS,United States,Mississippi,28,Jackson,059
+LISPS,United States,Mississippi,28,Jasper,061
+LISPS,United States,Mississippi,28,Pearl River,109
+LISPS,United States,Mississippi,28,Scott,123
+LISPS,United States,Mississippi,28,Stone,131
+LISPS,United States,Missouri,29,,
+LISPS,United States,Missouri,29,Oregon,149
+LISPS,United States,New Jersey,34,,
+LISPS,United States,New Jersey,34,Atlantic,001
+LISPS,United States,New Jersey,34,Bergen,003
+LISPS,United States,New Jersey,34,Burlington,005
+LISPS,United States,New Jersey,34,Camden,007
+LISPS,United States,New Jersey,34,Gloucester,015
+LISPS,United States,New Jersey,34,Hunterdon,019
+LISPS,United States,New Jersey,34,Middlesex,023
+LISPS,United States,New Jersey,34,Monmouth,025
+LISPS,United States,New Jersey,34,Morris,027
+LISPS,United States,New Jersey,34,Ocean,029
+LISPS,United States,New Jersey,34,Passaic,031
+LISPS,United States,New Jersey,34,Somerset,035
+LISPS,United States,New Jersey,34,Sussex,037
+LISPS,United States,New York,36,,
+LISPS,United States,New York,36,Albany,001
+LISPS,United States,New York,36,Chenango,017
+LISPS,United States,New York,36,Erie,029
+LISPS,United States,New York,36,Queens,081
+LISPS,United States,New York,36,Rockland,087
+LISPS,United States,New York,36,Suffolk,103
+LISPS,United States,North Carolina,37,,
+LISPS,United States,Ohio,39,,
+LISPS,United States,Ohio,39,Adams,001
+LISPS,United States,Ohio,39,Brown,015
+LISPS,United States,Ohio,39,Champaign,021
+LISPS,United States,Ohio,39,Clark,023
+LISPS,United States,Ohio,39,Erie,043
+LISPS,United States,Ohio,39,Fairfield,045
+LISPS,United States,Ohio,39,Fulton,051
+LISPS,United States,Ohio,39,Henry,069
+LISPS,United States,Ohio,39,Hocking,073
+LISPS,United States,Ohio,39,Jackson,079
+LISPS,United States,Ohio,39,Lake,085
+LISPS,United States,Ohio,39,Logan,091
+LISPS,United States,Ohio,39,Lorain,093
+LISPS,United States,Ohio,39,Lucas,095
+LISPS,United States,Ohio,39,Mahoning,099
+LISPS,United States,Ohio,39,Marion,101
+LISPS,United States,Ohio,39,Ottawa,123
+LISPS,United States,Ohio,39,Perry,127
+LISPS,United States,Ohio,39,Pickaway,129
+LISPS,United States,Ohio,39,Ross,141
+LISPS,United States,Ohio,39,Tuscarawas,157
+LISPS,United States,Ohio,39,Van Wert,161
+LISPS,United States,Ohio,39,Wood,173
+LISPS,United States,Ohio,39,Wyandot,175
+LISPS,United States,Pennsylvania,42,,
+LISPS,United States,South Carolina,45,,
+LISPS,United States,Tennessee,47,,
+LISPS,United States,Virginia,51,,
+LISPS,United States,West Virginia,54,,
+LISPS,United States,Wisconsin,55,,
+LISPS,United States,Wisconsin,55,Bayfield,007
+LISPS,United States,Wisconsin,55,Jefferson,055
+LISPS,United States,Wisconsin,55,Kenosha,059
+LISPS,United States,Wisconsin,55,Milwaukee,079
+LISPS,United States,Wisconsin,55,Racine,101
+LISPS,United States,Wisconsin,55,Walworth,127
+LISPS,United States,Wisconsin,55,Waukesha,133

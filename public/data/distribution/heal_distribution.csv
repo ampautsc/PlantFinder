@@ -1,0 +1,61 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+HEAL,Canada,Alberta,01,,
+HEAL,Canada,British Columbia,02,,
+HEAL,United States,Alaska,02,,
+HEAL,United States,Alaska,02,Aleutians West,016
+HEAL,United States,Alaska,02,Anchorage,020
+HEAL,United States,Alaska,02,Bethel,050
+HEAL,United States,Alaska,02,Chugach,063
+HEAL,United States,Alaska,02,Copper River,066
+HEAL,United States,Alaska,02,Denali,068
+HEAL,United States,Alaska,02,Fairbanks North Star,090
+HEAL,United States,Alaska,02,Haines,100
+HEAL,United States,Alaska,02,Kenai Peninsula,122
+HEAL,United States,Alaska,02,Lake and Peninsula,164
+HEAL,United States,Alaska,02,Matanuska-Susitna,170
+HEAL,United States,Alaska,02,Nome,180
+HEAL,United States,Alaska,02,North Slope,185
+HEAL,United States,Alaska,02,Northwest Arctic,188
+HEAL,United States,Alaska,02,Southeast Fairbanks,240
+HEAL,United States,Alaska,02,Yakutat,282
+HEAL,United States,Alaska,02,Yukon-Koyukuk,290
+HEAL,Canada,Manitoba,03,,
+HEAL,Canada,New Brunswick,04,,
+HEAL,Canada,Ontario,08,,
+HEAL,Canada,Quebec,10,,
+HEAL,Canada,Saskatchewan,11,,
+HEAL,Canada,Yukon,12,,
+HEAL,Canada,Northwest Territories,13,,
+HEAL,Canada,Nunavut,14,,
+HEAL,United States,Maine,23,,
+HEAL,United States,Maine,23,Aroostook,003
+HEAL,United States,Michigan,26,,
+HEAL,United States,Michigan,26,Delta,041
+HEAL,United States,Montana,30,,
+HEAL,United States,Montana,30,Glacier,035
+HEAL,United States,Montana,30,Phillips,071
+HEAL,United States,Nebraska,31,,
+HEAL,United States,New Hampshire,33,,
+HEAL,United States,New Hampshire,33,Coos,007
+HEAL,United States,North Dakota,38,,
+HEAL,United States,Rhode Island,44,,
+HEAL,United States,South Dakota,46,,
+HEAL,United States,South Dakota,46,Custer,033
+HEAL,United States,South Dakota,46,Lawrence,081
+HEAL,United States,South Dakota,46,Pennington,103
+HEAL,United States,Vermont,50,,
+HEAL,United States,Vermont,50,Lamoille,015
+HEAL,United States,Vermont,50,Orleans,019
+HEAL,United States,Wyoming,56,,
+HEAL,United States,Wyoming,56,Albany,001
+HEAL,United States,Wyoming,56,Crook,011
+HEAL,United States,Wyoming,56,Fremont,013
+HEAL,United States,Wyoming,56,Johnson,019
+HEAL,United States,Wyoming,56,Natrona,025
+HEAL,United States,Wyoming,56,Park,029
+HEAL,United States,Wyoming,56,Sheridan,033
+HEAL,United States,Wyoming,56,Teton,039
+HEAL,United States,Wyoming,56,Weston,045
+HEAL,Canada,Labrador,LB,,
+HEAL,Canada,Newfoundland,NF,,

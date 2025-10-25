@@ -1,0 +1,591 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+LEHIH2,United States,Alabama,01,,
+LEHIH2,United States,Arkansas,05,,
+LEHIH2,United States,Arkansas,05,Ashley,003
+LEHIH2,United States,Arkansas,05,Baxter,005
+LEHIH2,United States,Arkansas,05,Benton,007
+LEHIH2,United States,Arkansas,05,Bradley,011
+LEHIH2,United States,Arkansas,05,Carroll,015
+LEHIH2,United States,Arkansas,05,Clark,019
+LEHIH2,United States,Arkansas,05,Clay,021
+LEHIH2,United States,Arkansas,05,Cleburne,023
+LEHIH2,United States,Arkansas,05,Columbia,027
+LEHIH2,United States,Arkansas,05,Conway,029
+LEHIH2,United States,Arkansas,05,Craighead,031
+LEHIH2,United States,Arkansas,05,Crittenden,035
+LEHIH2,United States,Arkansas,05,Cross,037
+LEHIH2,United States,Arkansas,05,Drew,043
+LEHIH2,United States,Arkansas,05,Faulkner,045
+LEHIH2,United States,Arkansas,05,Franklin,047
+LEHIH2,United States,Arkansas,05,Fulton,049
+LEHIH2,United States,Arkansas,05,Garland,051
+LEHIH2,United States,Arkansas,05,Grant,053
+LEHIH2,United States,Arkansas,05,Greene,055
+LEHIH2,United States,Arkansas,05,Hot Spring,059
+LEHIH2,United States,Arkansas,05,Independence,063
+LEHIH2,United States,Arkansas,05,Jefferson,069
+LEHIH2,United States,Arkansas,05,Little River,081
+LEHIH2,United States,Arkansas,05,Logan,083
+LEHIH2,United States,Arkansas,05,Madison,087
+LEHIH2,United States,Arkansas,05,Marion,089
+LEHIH2,United States,Arkansas,05,Miller,091
+LEHIH2,United States,Arkansas,05,Montgomery,097
+LEHIH2,United States,Arkansas,05,Newton,101
+LEHIH2,United States,Arkansas,05,Ouachita,103
+LEHIH2,United States,Arkansas,05,Perry,105
+LEHIH2,United States,Arkansas,05,Pike,109
+LEHIH2,United States,Arkansas,05,Poinsett,111
+LEHIH2,United States,Arkansas,05,Polk,113
+LEHIH2,United States,Arkansas,05,Pope,115
+LEHIH2,United States,Arkansas,05,Pulaski,119
+LEHIH2,United States,Arkansas,05,Saline,125
+LEHIH2,United States,Arkansas,05,Scott,127
+LEHIH2,United States,Arkansas,05,Searcy,129
+LEHIH2,United States,Arkansas,05,Sebastian,131
+LEHIH2,United States,Arkansas,05,Stone,137
+LEHIH2,United States,Arkansas,05,Washington,143
+LEHIH2,United States,Arkansas,05,Yell,149
+LEHIH2,Canada,Ontario,08,,
+LEHIH2,United States,Connecticut,09,,
+LEHIH2,United States,Connecticut,09,Fairfield,001
+LEHIH2,United States,Connecticut,09,Hartford,003
+LEHIH2,United States,Connecticut,09,Litchfield,005
+LEHIH2,United States,Connecticut,09,Middlesex,007
+LEHIH2,United States,Connecticut,09,New Haven,009
+LEHIH2,United States,Connecticut,09,New London,011
+LEHIH2,United States,Connecticut,09,Tolland,013
+LEHIH2,United States,Connecticut,09,Windham,015
+LEHIH2,United States,Delaware,10,,
+LEHIH2,United States,Delaware,10,Kent,001
+LEHIH2,United States,Delaware,10,New Castle,003
+LEHIH2,United States,Delaware,10,Sussex,005
+LEHIH2,United States,District of Columbia,11,,
+LEHIH2,United States,District of Columbia,11,District of Columbia,001
+LEHIH2,United States,Florida,12,,
+LEHIH2,United States,Georgia,13,,
+LEHIH2,United States,Illinois,17,,
+LEHIH2,United States,Illinois,17,Alexander,003
+LEHIH2,United States,Illinois,17,Boone,007
+LEHIH2,United States,Illinois,17,Cook,031
+LEHIH2,United States,Illinois,17,DeKalb,037
+LEHIH2,United States,Illinois,17,Fulton,057
+LEHIH2,United States,Illinois,17,Gallatin,059
+LEHIH2,United States,Illinois,17,Hardin,069
+LEHIH2,United States,Illinois,17,Iroquois,075
+LEHIH2,United States,Illinois,17,Jackson,077
+LEHIH2,United States,Illinois,17,Johnson,087
+LEHIH2,United States,Illinois,17,Kankakee,091
+LEHIH2,United States,Illinois,17,Lake,097
+LEHIH2,United States,Illinois,17,Massac,127
+LEHIH2,United States,Illinois,17,Pope,151
+LEHIH2,United States,Illinois,17,Randolph,157
+LEHIH2,United States,Illinois,17,Saline,165
+LEHIH2,United States,Illinois,17,Union,181
+LEHIH2,United States,Illinois,17,Wabash,185
+LEHIH2,United States,Illinois,17,White,193
+LEHIH2,United States,Illinois,17,Williamson,199
+LEHIH2,United States,Illinois,17,Winnebago,201
+LEHIH2,United States,Indiana,18,,
+LEHIH2,United States,Indiana,18,Allen,003
+LEHIH2,United States,Indiana,18,Bartholomew,005
+LEHIH2,United States,Indiana,18,Brown,013
+LEHIH2,United States,Indiana,18,Cass,017
+LEHIH2,United States,Indiana,18,Clark,019
+LEHIH2,United States,Indiana,18,Crawford,025
+LEHIH2,United States,Indiana,18,Dubois,037
+LEHIH2,United States,Indiana,18,Elkhart,039
+LEHIH2,United States,Indiana,18,Floyd,043
+LEHIH2,United States,Indiana,18,Franklin,047
+LEHIH2,United States,Indiana,18,Greene,055
+LEHIH2,United States,Indiana,18,Harrison,061
+LEHIH2,United States,Indiana,18,Jackson,071
+LEHIH2,United States,Indiana,18,Jasper,073
+LEHIH2,United States,Indiana,18,Jefferson,077
+LEHIH2,United States,Indiana,18,Kosciusko,085
+LEHIH2,United States,Indiana,18,Lagrange,087
+LEHIH2,United States,Indiana,18,Lake,089
+LEHIH2,United States,Indiana,18,LaPorte,091
+LEHIH2,United States,Indiana,18,Lawrence,093
+LEHIH2,United States,Indiana,18,Marshall,099
+LEHIH2,United States,Indiana,18,Monroe,105
+LEHIH2,United States,Indiana,18,Montgomery,107
+LEHIH2,United States,Indiana,18,Morgan,109
+LEHIH2,United States,Indiana,18,Newton,111
+LEHIH2,United States,Indiana,18,Noble,113
+LEHIH2,United States,Indiana,18,Orange,117
+LEHIH2,United States,Indiana,18,Perry,123
+LEHIH2,United States,Indiana,18,Porter,127
+LEHIH2,United States,Indiana,18,Posey,129
+LEHIH2,United States,Indiana,18,Pulaski,131
+LEHIH2,United States,Indiana,18,St. Joseph,141
+LEHIH2,United States,Indiana,18,Starke,149
+LEHIH2,United States,Indiana,18,Steuben,151
+LEHIH2,United States,Indiana,18,Warren,171
+LEHIH2,United States,Indiana,18,Warrick,173
+LEHIH2,United States,Indiana,18,Washington,175
+LEHIH2,United States,Indiana,18,White,181
+LEHIH2,United States,Kansas,20,,
+LEHIH2,United States,Kansas,20,Cherokee,021
+LEHIH2,United States,Kentucky,21,,
+LEHIH2,United States,Kentucky,21,Allen,003
+LEHIH2,United States,Kentucky,21,Barren,009
+LEHIH2,United States,Kentucky,21,Bell,013
+LEHIH2,United States,Kentucky,21,Bullitt,029
+LEHIH2,United States,Kentucky,21,Caldwell,033
+LEHIH2,United States,Kentucky,21,Calloway,035
+LEHIH2,United States,Kentucky,21,Campbell,037
+LEHIH2,United States,Kentucky,21,Carter,043
+LEHIH2,United States,Kentucky,21,Christian,047
+LEHIH2,United States,Kentucky,21,Daviess,059
+LEHIH2,United States,Kentucky,21,Edmonson,061
+LEHIH2,United States,Kentucky,21,Garrard,079
+LEHIH2,United States,Kentucky,21,Hardin,093
+LEHIH2,United States,Kentucky,21,Harlan,095
+LEHIH2,United States,Kentucky,21,Hickman,105
+LEHIH2,United States,Kentucky,21,Jackson,109
+LEHIH2,United States,Kentucky,21,Jefferson,111
+LEHIH2,United States,Kentucky,21,Laurel,125
+LEHIH2,United States,Kentucky,21,Letcher,133
+LEHIH2,United States,Kentucky,21,Madison,151
+LEHIH2,United States,Kentucky,21,Marion,155
+LEHIH2,United States,Kentucky,21,McCreary,147
+LEHIH2,United States,Kentucky,21,Meade,163
+LEHIH2,United States,Kentucky,21,Menifee,165
+LEHIH2,United States,Kentucky,21,Montgomery,173
+LEHIH2,United States,Kentucky,21,Muhlenberg,177
+LEHIH2,United States,Kentucky,21,Nelson,179
+LEHIH2,United States,Kentucky,21,Oldham,185
+LEHIH2,United States,Kentucky,21,Powell,197
+LEHIH2,United States,Kentucky,21,Rockcastle,203
+LEHIH2,United States,Kentucky,21,Rowan,205
+LEHIH2,United States,Kentucky,21,Todd,219
+LEHIH2,United States,Kentucky,21,Trigg,221
+LEHIH2,United States,Kentucky,21,Warren,227
+LEHIH2,United States,Kentucky,21,Whitley,235
+LEHIH2,United States,Kentucky,21,Wolfe,237
+LEHIH2,United States,Louisiana,22,,
+LEHIH2,United States,Maine,23,,
+LEHIH2,United States,Maine,23,York,031
+LEHIH2,United States,Maryland,24,,
+LEHIH2,United States,Massachusetts,25,,
+LEHIH2,United States,Massachusetts,25,Barnstable,001
+LEHIH2,United States,Massachusetts,25,Berkshire,003
+LEHIH2,United States,Massachusetts,25,Bristol,005
+LEHIH2,United States,Massachusetts,25,Dukes,007
+LEHIH2,United States,Massachusetts,25,Essex,009
+LEHIH2,United States,Massachusetts,25,Franklin,011
+LEHIH2,United States,Massachusetts,25,Hampden,013
+LEHIH2,United States,Massachusetts,25,Hampshire,015
+LEHIH2,United States,Massachusetts,25,Middlesex,017
+LEHIH2,United States,Massachusetts,25,Nantucket,019
+LEHIH2,United States,Massachusetts,25,Norfolk,021
+LEHIH2,United States,Massachusetts,25,Plymouth,023
+LEHIH2,United States,Massachusetts,25,Suffolk,025
+LEHIH2,United States,Massachusetts,25,Worcester,027
+LEHIH2,United States,Michigan,26,,
+LEHIH2,United States,Michigan,26,Allegan,005
+LEHIH2,United States,Michigan,26,Barry,015
+LEHIH2,United States,Michigan,26,Berrien,021
+LEHIH2,United States,Michigan,26,Calhoun,025
+LEHIH2,United States,Michigan,26,Cass,027
+LEHIH2,United States,Michigan,26,Eaton,045
+LEHIH2,United States,Michigan,26,Genesee,049
+LEHIH2,United States,Michigan,26,Gratiot,057
+LEHIH2,United States,Michigan,26,Hillsdale,059
+LEHIH2,United States,Michigan,26,Ingham,065
+LEHIH2,United States,Michigan,26,Ionia,067
+LEHIH2,United States,Michigan,26,Isabella,073
+LEHIH2,United States,Michigan,26,Jackson,075
+LEHIH2,United States,Michigan,26,Kalamazoo,077
+LEHIH2,United States,Michigan,26,Kent,081
+LEHIH2,United States,Michigan,26,Livingston,093
+LEHIH2,United States,Michigan,26,Mecosta,107
+LEHIH2,United States,Michigan,26,Midland,111
+LEHIH2,United States,Michigan,26,Monroe,115
+LEHIH2,United States,Michigan,26,Montcalm,117
+LEHIH2,United States,Michigan,26,Muskegon,121
+LEHIH2,United States,Michigan,26,Newaygo,123
+LEHIH2,United States,Michigan,26,Oakland,125
+LEHIH2,United States,Michigan,26,Oceana,127
+LEHIH2,United States,Michigan,26,Ottawa,139
+LEHIH2,United States,Michigan,26,Shiawassee,155
+LEHIH2,United States,Michigan,26,St. Clair,147
+LEHIH2,United States,Michigan,26,St. Joseph,149
+LEHIH2,United States,Michigan,26,Van Buren,159
+LEHIH2,United States,Michigan,26,Washtenaw,161
+LEHIH2,United States,Michigan,26,Wayne,163
+LEHIH2,United States,Mississippi,28,,
+LEHIH2,United States,Mississippi,28,Amite,005
+LEHIH2,United States,Mississippi,28,Chickasaw,017
+LEHIH2,United States,Mississippi,28,Choctaw,019
+LEHIH2,United States,Mississippi,28,Clarke,023
+LEHIH2,United States,Mississippi,28,Forrest,035
+LEHIH2,United States,Mississippi,28,Greene,041
+LEHIH2,United States,Mississippi,28,Hancock,045
+LEHIH2,United States,Mississippi,28,Harrison,047
+LEHIH2,United States,Mississippi,28,Jasper,061
+LEHIH2,United States,Mississippi,28,Lafayette,071
+LEHIH2,United States,Mississippi,28,Lauderdale,075
+LEHIH2,United States,Mississippi,28,Lee,081
+LEHIH2,United States,Mississippi,28,Marshall,093
+LEHIH2,United States,Mississippi,28,Noxubee,103
+LEHIH2,United States,Mississippi,28,Perry,111
+LEHIH2,United States,Mississippi,28,Prentiss,117
+LEHIH2,United States,Mississippi,28,Rankin,121
+LEHIH2,United States,Mississippi,28,Scott,123
+LEHIH2,United States,Mississippi,28,Stone,131
+LEHIH2,United States,Mississippi,28,Tishomingo,141
+LEHIH2,United States,Mississippi,28,Wayne,153
+LEHIH2,United States,Missouri,29,,
+LEHIH2,United States,Missouri,29,Barry,009
+LEHIH2,United States,Missouri,29,Barton,011
+LEHIH2,United States,Missouri,29,Benton,015
+LEHIH2,United States,Missouri,29,Bollinger,017
+LEHIH2,United States,Missouri,29,Butler,023
+LEHIH2,United States,Missouri,29,Camden,029
+LEHIH2,United States,Missouri,29,Cape Girardeau,031
+LEHIH2,United States,Missouri,29,Carter,035
+LEHIH2,United States,Missouri,29,Cedar,039
+LEHIH2,United States,Missouri,29,Christian,043
+LEHIH2,United States,Missouri,29,Cole,051
+LEHIH2,United States,Missouri,29,Crawford,055
+LEHIH2,United States,Missouri,29,Dade,057
+LEHIH2,United States,Missouri,29,Dallas,059
+LEHIH2,United States,Missouri,29,Dent,065
+LEHIH2,United States,Missouri,29,Douglas,067
+LEHIH2,United States,Missouri,29,Franklin,071
+LEHIH2,United States,Missouri,29,Gasconade,073
+LEHIH2,United States,Missouri,29,Greene,077
+LEHIH2,United States,Missouri,29,Howell,091
+LEHIH2,United States,Missouri,29,Iron,093
+LEHIH2,United States,Missouri,29,Jasper,097
+LEHIH2,United States,Missouri,29,Jefferson,099
+LEHIH2,United States,Missouri,29,Laclede,105
+LEHIH2,United States,Missouri,29,Lawrence,109
+LEHIH2,United States,Missouri,29,Madison,123
+LEHIH2,United States,Missouri,29,Maries,125
+LEHIH2,United States,Missouri,29,McDonald,119
+LEHIH2,United States,Missouri,29,Miller,131
+LEHIH2,United States,Missouri,29,Morgan,141
+LEHIH2,United States,Missouri,29,New Madrid,143
+LEHIH2,United States,Missouri,29,Newton,145
+LEHIH2,United States,Missouri,29,Oregon,149
+LEHIH2,United States,Missouri,29,Ozark,153
+LEHIH2,United States,Missouri,29,Perry,157
+LEHIH2,United States,Missouri,29,Phelps,161
+LEHIH2,United States,Missouri,29,Polk,167
+LEHIH2,United States,Missouri,29,Pulaski,169
+LEHIH2,United States,Missouri,29,Reynolds,179
+LEHIH2,United States,Missouri,29,Ripley,181
+LEHIH2,United States,Missouri,29,Scott,201
+LEHIH2,United States,Missouri,29,Shannon,203
+LEHIH2,United States,Missouri,29,St. Clair,185
+LEHIH2,United States,Missouri,29,St. Francois,187
+LEHIH2,United States,Missouri,29,St. Louis,189
+LEHIH2,United States,Missouri,29,Ste. Genevieve,186
+LEHIH2,United States,Missouri,29,Stoddard,207
+LEHIH2,United States,Missouri,29,Stone,209
+LEHIH2,United States,Missouri,29,Taney,213
+LEHIH2,United States,Missouri,29,Texas,215
+LEHIH2,United States,Missouri,29,Vernon,217
+LEHIH2,United States,Missouri,29,Warren,219
+LEHIH2,United States,Missouri,29,Washington,221
+LEHIH2,United States,Missouri,29,Wayne,223
+LEHIH2,United States,Missouri,29,Webster,225
+LEHIH2,United States,Missouri,29,Wright,229
+LEHIH2,United States,New Hampshire,33,,
+LEHIH2,United States,New Hampshire,33,Belknap,001
+LEHIH2,United States,New Hampshire,33,Carroll,003
+LEHIH2,United States,New Hampshire,33,Cheshire,005
+LEHIH2,United States,New Hampshire,33,Hillsborough,011
+LEHIH2,United States,New Hampshire,33,Merrimack,013
+LEHIH2,United States,New Hampshire,33,Rockingham,015
+LEHIH2,United States,New Hampshire,33,Strafford,017
+LEHIH2,United States,New Jersey,34,,
+LEHIH2,United States,New Jersey,34,Atlantic,001
+LEHIH2,United States,New Jersey,34,Burlington,005
+LEHIH2,United States,New Jersey,34,Camden,007
+LEHIH2,United States,New Jersey,34,Cape May,009
+LEHIH2,United States,New Jersey,34,Essex,013
+LEHIH2,United States,New Jersey,34,Gloucester,015
+LEHIH2,United States,New Jersey,34,Hunterdon,019
+LEHIH2,United States,New Jersey,34,Monmouth,025
+LEHIH2,United States,New Jersey,34,Ocean,029
+LEHIH2,United States,New Jersey,34,Somerset,035
+LEHIH2,United States,New Jersey,34,Sussex,037
+LEHIH2,United States,New Jersey,34,Warren,041
+LEHIH2,United States,New York,36,,
+LEHIH2,United States,New York,36,Albany,001
+LEHIH2,United States,New York,36,Bronx,005
+LEHIH2,United States,New York,36,Cattaraugus,009
+LEHIH2,United States,New York,36,Chemung,015
+LEHIH2,United States,New York,36,Columbia,021
+LEHIH2,United States,New York,36,Dutchess,027
+LEHIH2,United States,New York,36,Erie,029
+LEHIH2,United States,New York,36,Genesee,037
+LEHIH2,United States,New York,36,Jefferson,045
+LEHIH2,United States,New York,36,Livingston,051
+LEHIH2,United States,New York,36,Madison,053
+LEHIH2,United States,New York,36,Monroe,055
+LEHIH2,United States,New York,36,Nassau,059
+LEHIH2,United States,New York,36,New York,061
+LEHIH2,United States,New York,36,Niagara,063
+LEHIH2,United States,New York,36,Oneida,065
+LEHIH2,United States,New York,36,Onondaga,067
+LEHIH2,United States,New York,36,Ontario,069
+LEHIH2,United States,New York,36,Orange,071
+LEHIH2,United States,New York,36,Oswego,075
+LEHIH2,United States,New York,36,Putnam,079
+LEHIH2,United States,New York,36,Rensselaer,083
+LEHIH2,United States,New York,36,Rockland,087
+LEHIH2,United States,New York,36,Saratoga,091
+LEHIH2,United States,New York,36,Schenectady,093
+LEHIH2,United States,New York,36,Schuyler,097
+LEHIH2,United States,New York,36,Suffolk,103
+LEHIH2,United States,New York,36,Tioga,107
+LEHIH2,United States,New York,36,Tompkins,109
+LEHIH2,United States,New York,36,Ulster,111
+LEHIH2,United States,New York,36,Washington,115
+LEHIH2,United States,New York,36,Westchester,119
+LEHIH2,United States,New York,36,Wyoming,121
+LEHIH2,United States,North Carolina,37,,
+LEHIH2,United States,Ohio,39,,
+LEHIH2,United States,Ohio,39,Adams,001
+LEHIH2,United States,Ohio,39,Ashland,005
+LEHIH2,United States,Ohio,39,Ashtabula,007
+LEHIH2,United States,Ohio,39,Athens,009
+LEHIH2,United States,Ohio,39,Carroll,019
+LEHIH2,United States,Ohio,39,Columbiana,029
+LEHIH2,United States,Ohio,39,Coshocton,031
+LEHIH2,United States,Ohio,39,Cuyahoga,035
+LEHIH2,United States,Ohio,39,Fairfield,045
+LEHIH2,United States,Ohio,39,Fulton,051
+LEHIH2,United States,Ohio,39,Gallia,053
+LEHIH2,United States,Ohio,39,Geauga,055
+LEHIH2,United States,Ohio,39,Guernsey,059
+LEHIH2,United States,Ohio,39,Harrison,067
+LEHIH2,United States,Ohio,39,Henry,069
+LEHIH2,United States,Ohio,39,Highland,071
+LEHIH2,United States,Ohio,39,Hocking,073
+LEHIH2,United States,Ohio,39,Holmes,075
+LEHIH2,United States,Ohio,39,Jackson,079
+LEHIH2,United States,Ohio,39,Jefferson,081
+LEHIH2,United States,Ohio,39,Knox,083
+LEHIH2,United States,Ohio,39,Lake,085
+LEHIH2,United States,Ohio,39,Lawrence,087
+LEHIH2,United States,Ohio,39,Licking,089
+LEHIH2,United States,Ohio,39,Lorain,093
+LEHIH2,United States,Ohio,39,Meigs,105
+LEHIH2,United States,Ohio,39,Monroe,111
+LEHIH2,United States,Ohio,39,Morgan,115
+LEHIH2,United States,Ohio,39,Muskingum,119
+LEHIH2,United States,Ohio,39,Noble,121
+LEHIH2,United States,Ohio,39,Perry,127
+LEHIH2,United States,Ohio,39,Pickaway,129
+LEHIH2,United States,Ohio,39,Pike,131
+LEHIH2,United States,Ohio,39,Portage,133
+LEHIH2,United States,Ohio,39,Richland,139
+LEHIH2,United States,Ohio,39,Ross,141
+LEHIH2,United States,Ohio,39,Scioto,145
+LEHIH2,United States,Ohio,39,Stark,151
+LEHIH2,United States,Ohio,39,Summit,153
+LEHIH2,United States,Ohio,39,Trumbull,155
+LEHIH2,United States,Ohio,39,Tuscarawas,157
+LEHIH2,United States,Ohio,39,Vinton,163
+LEHIH2,United States,Ohio,39,Warren,165
+LEHIH2,United States,Ohio,39,Washington,167
+LEHIH2,United States,Ohio,39,Wayne,169
+LEHIH2,United States,Ohio,39,Wood,173
+LEHIH2,United States,Oklahoma,40,,
+LEHIH2,United States,Oklahoma,40,Grady,051
+LEHIH2,United States,Pennsylvania,42,,
+LEHIH2,United States,Pennsylvania,42,Adams,001
+LEHIH2,United States,Pennsylvania,42,Allegheny,003
+LEHIH2,United States,Pennsylvania,42,Armstrong,005
+LEHIH2,United States,Pennsylvania,42,Beaver,007
+LEHIH2,United States,Pennsylvania,42,Bedford,009
+LEHIH2,United States,Pennsylvania,42,Berks,011
+LEHIH2,United States,Pennsylvania,42,Blair,013
+LEHIH2,United States,Pennsylvania,42,Bucks,017
+LEHIH2,United States,Pennsylvania,42,Butler,019
+LEHIH2,United States,Pennsylvania,42,Cambria,021
+LEHIH2,United States,Pennsylvania,42,Cameron,023
+LEHIH2,United States,Pennsylvania,42,Carbon,025
+LEHIH2,United States,Pennsylvania,42,Centre,027
+LEHIH2,United States,Pennsylvania,42,Chester,029
+LEHIH2,United States,Pennsylvania,42,Clarion,031
+LEHIH2,United States,Pennsylvania,42,Clearfield,033
+LEHIH2,United States,Pennsylvania,42,Clinton,035
+LEHIH2,United States,Pennsylvania,42,Columbia,037
+LEHIH2,United States,Pennsylvania,42,Crawford,039
+LEHIH2,United States,Pennsylvania,42,Cumberland,041
+LEHIH2,United States,Pennsylvania,42,Dauphin,043
+LEHIH2,United States,Pennsylvania,42,Delaware,045
+LEHIH2,United States,Pennsylvania,42,Elk,047
+LEHIH2,United States,Pennsylvania,42,Erie,049
+LEHIH2,United States,Pennsylvania,42,Fayette,051
+LEHIH2,United States,Pennsylvania,42,Forest,053
+LEHIH2,United States,Pennsylvania,42,Franklin,055
+LEHIH2,United States,Pennsylvania,42,Fulton,057
+LEHIH2,United States,Pennsylvania,42,Greene,059
+LEHIH2,United States,Pennsylvania,42,Huntingdon,061
+LEHIH2,United States,Pennsylvania,42,Indiana,063
+LEHIH2,United States,Pennsylvania,42,Jefferson,065
+LEHIH2,United States,Pennsylvania,42,Juniata,067
+LEHIH2,United States,Pennsylvania,42,Lackawanna,069
+LEHIH2,United States,Pennsylvania,42,Lancaster,071
+LEHIH2,United States,Pennsylvania,42,Lebanon,075
+LEHIH2,United States,Pennsylvania,42,Lehigh,077
+LEHIH2,United States,Pennsylvania,42,Luzerne,079
+LEHIH2,United States,Pennsylvania,42,Mercer,085
+LEHIH2,United States,Pennsylvania,42,Mifflin,087
+LEHIH2,United States,Pennsylvania,42,Monroe,089
+LEHIH2,United States,Pennsylvania,42,Montgomery,091
+LEHIH2,United States,Pennsylvania,42,Montour,093
+LEHIH2,United States,Pennsylvania,42,Northampton,095
+LEHIH2,United States,Pennsylvania,42,Northumberland,097
+LEHIH2,United States,Pennsylvania,42,Perry,099
+LEHIH2,United States,Pennsylvania,42,Philadelphia,101
+LEHIH2,United States,Pennsylvania,42,Pike,103
+LEHIH2,United States,Pennsylvania,42,Schuylkill,107
+LEHIH2,United States,Pennsylvania,42,Snyder,109
+LEHIH2,United States,Pennsylvania,42,Somerset,111
+LEHIH2,United States,Pennsylvania,42,Union,119
+LEHIH2,United States,Pennsylvania,42,Venango,121
+LEHIH2,United States,Pennsylvania,42,Warren,123
+LEHIH2,United States,Pennsylvania,42,Washington,125
+LEHIH2,United States,Pennsylvania,42,Wayne,127
+LEHIH2,United States,Pennsylvania,42,Westmoreland,129
+LEHIH2,United States,Pennsylvania,42,Wyoming,131
+LEHIH2,United States,Pennsylvania,42,York,133
+LEHIH2,United States,Rhode Island,44,,
+LEHIH2,United States,Rhode Island,44,Newport,005
+LEHIH2,United States,Rhode Island,44,Providence,007
+LEHIH2,United States,Rhode Island,44,Washington,009
+LEHIH2,United States,South Carolina,45,,
+LEHIH2,United States,Tennessee,47,,
+LEHIH2,United States,Tennessee,47,Anderson,001
+LEHIH2,United States,Tennessee,47,Bledsoe,007
+LEHIH2,United States,Tennessee,47,Blount,009
+LEHIH2,United States,Tennessee,47,Carroll,017
+LEHIH2,United States,Tennessee,47,Carter,019
+LEHIH2,United States,Tennessee,47,Cheatham,021
+LEHIH2,United States,Tennessee,47,Claiborne,025
+LEHIH2,United States,Tennessee,47,Clay,027
+LEHIH2,United States,Tennessee,47,Coffee,031
+LEHIH2,United States,Tennessee,47,Cumberland,035
+LEHIH2,United States,Tennessee,47,Davidson,037
+LEHIH2,United States,Tennessee,47,Decatur,039
+LEHIH2,United States,Tennessee,47,DeKalb,041
+LEHIH2,United States,Tennessee,47,Dickson,043
+LEHIH2,United States,Tennessee,47,Fentress,049
+LEHIH2,United States,Tennessee,47,Franklin,051
+LEHIH2,United States,Tennessee,47,Grundy,061
+LEHIH2,United States,Tennessee,47,Hamilton,065
+LEHIH2,United States,Tennessee,47,Hardeman,069
+LEHIH2,United States,Tennessee,47,Hardin,071
+LEHIH2,United States,Tennessee,47,Hawkins,073
+LEHIH2,United States,Tennessee,47,Henry,079
+LEHIH2,United States,Tennessee,47,Hickman,081
+LEHIH2,United States,Tennessee,47,Houston,083
+LEHIH2,United States,Tennessee,47,Jackson,087
+LEHIH2,United States,Tennessee,47,Knox,093
+LEHIH2,United States,Tennessee,47,Lauderdale,097
+LEHIH2,United States,Tennessee,47,Lewis,101
+LEHIH2,United States,Tennessee,47,Loudon,105
+LEHIH2,United States,Tennessee,47,Madison,113
+LEHIH2,United States,Tennessee,47,Marion,115
+LEHIH2,United States,Tennessee,47,Monroe,123
+LEHIH2,United States,Tennessee,47,Montgomery,125
+LEHIH2,United States,Tennessee,47,Morgan,129
+LEHIH2,United States,Tennessee,47,Overton,133
+LEHIH2,United States,Tennessee,47,Polk,139
+LEHIH2,United States,Tennessee,47,Putnam,141
+LEHIH2,United States,Tennessee,47,Rhea,143
+LEHIH2,United States,Tennessee,47,Roane,145
+LEHIH2,United States,Tennessee,47,Robertson,147
+LEHIH2,United States,Tennessee,47,Scott,151
+LEHIH2,United States,Tennessee,47,Sevier,155
+LEHIH2,United States,Tennessee,47,Stewart,161
+LEHIH2,United States,Tennessee,47,Sumner,165
+LEHIH2,United States,Tennessee,47,Tipton,167
+LEHIH2,United States,Tennessee,47,Unicoi,171
+LEHIH2,United States,Tennessee,47,Union,173
+LEHIH2,United States,Tennessee,47,Van Buren,175
+LEHIH2,United States,Tennessee,47,Wayne,181
+LEHIH2,United States,Tennessee,47,Williamson,187
+LEHIH2,United States,Texas,48,,
+LEHIH2,United States,Texas,48,Anderson,001
+LEHIH2,United States,Texas,48,Angelina,005
+LEHIH2,United States,Texas,48,Bastrop,021
+LEHIH2,United States,Texas,48,Bowie,037
+LEHIH2,United States,Texas,48,Camp,063
+LEHIH2,United States,Texas,48,Cass,067
+LEHIH2,United States,Texas,48,Cherokee,073
+LEHIH2,United States,Texas,48,Dallas,113
+LEHIH2,United States,Texas,48,Denton,121
+LEHIH2,United States,Texas,48,Fayette,149
+LEHIH2,United States,Texas,48,Freestone,161
+LEHIH2,United States,Texas,48,Grayson,181
+LEHIH2,United States,Texas,48,Hardin,199
+LEHIH2,United States,Texas,48,Harris,201
+LEHIH2,United States,Texas,48,Henderson,213
+LEHIH2,United States,Texas,48,Houston,225
+LEHIH2,United States,Texas,48,Leon,289
+LEHIH2,United States,Texas,48,Madison,313
+LEHIH2,United States,Texas,48,Milam,331
+LEHIH2,United States,Texas,48,Montgomery,339
+LEHIH2,United States,Texas,48,Morris,343
+LEHIH2,United States,Texas,48,Nacogdoches,347
+LEHIH2,United States,Texas,48,Polk,373
+LEHIH2,United States,Texas,48,Robertson,395
+LEHIH2,United States,Texas,48,Rusk,401
+LEHIH2,United States,Texas,48,Sabine,403
+LEHIH2,United States,Texas,48,San Augustine,405
+LEHIH2,United States,Texas,48,Titus,449
+LEHIH2,United States,Texas,48,Tyler,457
+LEHIH2,United States,Texas,48,Upshur,459
+LEHIH2,United States,Texas,48,Walker,471
+LEHIH2,United States,Texas,48,Washington,477
+LEHIH2,United States,Texas,48,Wood,499
+LEHIH2,United States,Vermont,50,,
+LEHIH2,United States,Vermont,50,Addison,001
+LEHIH2,United States,Vermont,50,Rutland,021
+LEHIH2,United States,Vermont,50,Windham,025
+LEHIH2,United States,Virginia,51,,
+LEHIH2,United States,Virginia,51,Shenandoah,171
+LEHIH2,United States,West Virginia,54,,
+LEHIH2,United States,West Virginia,54,Cabell,011
+LEHIH2,United States,West Virginia,54,Calhoun,013
+LEHIH2,United States,West Virginia,54,Clay,015
+LEHIH2,United States,West Virginia,54,Fayette,019
+LEHIH2,United States,West Virginia,54,Grant,023
+LEHIH2,United States,West Virginia,54,Greenbrier,025
+LEHIH2,United States,West Virginia,54,Hampshire,027
+LEHIH2,United States,West Virginia,54,Hardy,031
+LEHIH2,United States,West Virginia,54,Kanawha,039
+LEHIH2,United States,West Virginia,54,Lewis,041
+LEHIH2,United States,West Virginia,54,Marion,049
+LEHIH2,United States,West Virginia,54,Marshall,051
+LEHIH2,United States,West Virginia,54,Mason,053
+LEHIH2,United States,West Virginia,54,McDowell,047
+LEHIH2,United States,West Virginia,54,Mercer,055
+LEHIH2,United States,West Virginia,54,Mineral,057
+LEHIH2,United States,West Virginia,54,Monongalia,061
+LEHIH2,United States,West Virginia,54,Monroe,063
+LEHIH2,United States,West Virginia,54,Morgan,065
+LEHIH2,United States,West Virginia,54,Pendleton,071
+LEHIH2,United States,West Virginia,54,Pocahontas,075
+LEHIH2,United States,West Virginia,54,Raleigh,081
+LEHIH2,United States,West Virginia,54,Randolph,083
+LEHIH2,United States,West Virginia,54,Ritchie,085
+LEHIH2,United States,West Virginia,54,Roane,087
+LEHIH2,United States,West Virginia,54,Summers,089
+LEHIH2,United States,West Virginia,54,Taylor,091
+LEHIH2,United States,West Virginia,54,Tyler,095
+LEHIH2,United States,West Virginia,54,Wayne,099
+LEHIH2,United States,West Virginia,54,Wetzel,103
+LEHIH2,United States,West Virginia,54,Wirt,105
+LEHIH2,United States,West Virginia,54,Wood,107
+LEHIH2,United States,West Virginia,54,Wyoming,109

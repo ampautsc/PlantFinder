@@ -1,0 +1,1127 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ASTR,United States,Alabama,01,,
+ASTR,United States,Alabama,01,Bibb,007
+ASTR,United States,Alabama,01,Blount,009
+ASTR,United States,Alabama,01,Bullock,011
+ASTR,United States,Alabama,01,Butler,013
+ASTR,United States,Alabama,01,Calhoun,015
+ASTR,United States,Alabama,01,Chambers,017
+ASTR,United States,Alabama,01,Chilton,021
+ASTR,United States,Alabama,01,Choctaw,023
+ASTR,United States,Alabama,01,Coffee,031
+ASTR,United States,Alabama,01,Colbert,033
+ASTR,United States,Alabama,01,Coosa,037
+ASTR,United States,Alabama,01,Cullman,043
+ASTR,United States,Alabama,01,Dale,045
+ASTR,United States,Alabama,01,Dallas,047
+ASTR,United States,Alabama,01,DeKalb,049
+ASTR,United States,Alabama,01,Elmore,051
+ASTR,United States,Alabama,01,Etowah,055
+ASTR,United States,Alabama,01,Franklin,059
+ASTR,United States,Alabama,01,Greene,063
+ASTR,United States,Alabama,01,Henry,067
+ASTR,United States,Alabama,01,Jefferson,073
+ASTR,United States,Alabama,01,Lamar,075
+ASTR,United States,Alabama,01,Lauderdale,077
+ASTR,United States,Alabama,01,Lawrence,079
+ASTR,United States,Alabama,01,Lee,081
+ASTR,United States,Alabama,01,Limestone,083
+ASTR,United States,Alabama,01,Macon,087
+ASTR,United States,Alabama,01,Marengo,091
+ASTR,United States,Alabama,01,Marion,093
+ASTR,United States,Alabama,01,Marshall,095
+ASTR,United States,Alabama,01,Morgan,103
+ASTR,United States,Alabama,01,Perry,105
+ASTR,United States,Alabama,01,Pickens,107
+ASTR,United States,Alabama,01,Pike,109
+ASTR,United States,Alabama,01,Russell,113
+ASTR,United States,Alabama,01,Shelby,117
+ASTR,United States,Alabama,01,Tallapoosa,123
+ASTR,United States,Alabama,01,Tuscaloosa,125
+ASTR,United States,Alabama,01,Walker,127
+ASTR,United States,Alabama,01,Winston,133
+ASTR,United States,Arkansas,05,,
+ASTR,United States,Arkansas,05,Arkansas,001
+ASTR,United States,Arkansas,05,Ashley,003
+ASTR,United States,Arkansas,05,Baxter,005
+ASTR,United States,Arkansas,05,Benton,007
+ASTR,United States,Arkansas,05,Boone,009
+ASTR,United States,Arkansas,05,Bradley,011
+ASTR,United States,Arkansas,05,Calhoun,013
+ASTR,United States,Arkansas,05,Carroll,015
+ASTR,United States,Arkansas,05,Chicot,017
+ASTR,United States,Arkansas,05,Clark,019
+ASTR,United States,Arkansas,05,Clay,021
+ASTR,United States,Arkansas,05,Cleburne,023
+ASTR,United States,Arkansas,05,Cleveland,025
+ASTR,United States,Arkansas,05,Columbia,027
+ASTR,United States,Arkansas,05,Conway,029
+ASTR,United States,Arkansas,05,Craighead,031
+ASTR,United States,Arkansas,05,Crawford,033
+ASTR,United States,Arkansas,05,Crittenden,035
+ASTR,United States,Arkansas,05,Cross,037
+ASTR,United States,Arkansas,05,Dallas,039
+ASTR,United States,Arkansas,05,Drew,043
+ASTR,United States,Arkansas,05,Faulkner,045
+ASTR,United States,Arkansas,05,Franklin,047
+ASTR,United States,Arkansas,05,Fulton,049
+ASTR,United States,Arkansas,05,Garland,051
+ASTR,United States,Arkansas,05,Grant,053
+ASTR,United States,Arkansas,05,Greene,055
+ASTR,United States,Arkansas,05,Hempstead,057
+ASTR,United States,Arkansas,05,Hot Spring,059
+ASTR,United States,Arkansas,05,Howard,061
+ASTR,United States,Arkansas,05,Independence,063
+ASTR,United States,Arkansas,05,Izard,065
+ASTR,United States,Arkansas,05,Jackson,067
+ASTR,United States,Arkansas,05,Jefferson,069
+ASTR,United States,Arkansas,05,Johnson,071
+ASTR,United States,Arkansas,05,Lafayette,073
+ASTR,United States,Arkansas,05,Lawrence,075
+ASTR,United States,Arkansas,05,Lee,077
+ASTR,United States,Arkansas,05,Lincoln,079
+ASTR,United States,Arkansas,05,Little River,081
+ASTR,United States,Arkansas,05,Logan,083
+ASTR,United States,Arkansas,05,Lonoke,085
+ASTR,United States,Arkansas,05,Madison,087
+ASTR,United States,Arkansas,05,Marion,089
+ASTR,United States,Arkansas,05,Miller,091
+ASTR,United States,Arkansas,05,Mississippi,093
+ASTR,United States,Arkansas,05,Monroe,095
+ASTR,United States,Arkansas,05,Montgomery,097
+ASTR,United States,Arkansas,05,Nevada,099
+ASTR,United States,Arkansas,05,Newton,101
+ASTR,United States,Arkansas,05,Ouachita,103
+ASTR,United States,Arkansas,05,Perry,105
+ASTR,United States,Arkansas,05,Phillips,107
+ASTR,United States,Arkansas,05,Pike,109
+ASTR,United States,Arkansas,05,Poinsett,111
+ASTR,United States,Arkansas,05,Polk,113
+ASTR,United States,Arkansas,05,Pope,115
+ASTR,United States,Arkansas,05,Prairie,117
+ASTR,United States,Arkansas,05,Pulaski,119
+ASTR,United States,Arkansas,05,Randolph,121
+ASTR,United States,Arkansas,05,Saline,125
+ASTR,United States,Arkansas,05,Scott,127
+ASTR,United States,Arkansas,05,Searcy,129
+ASTR,United States,Arkansas,05,Sevier,133
+ASTR,United States,Arkansas,05,Sharp,135
+ASTR,United States,Arkansas,05,St. Francis,123
+ASTR,United States,Arkansas,05,Stone,137
+ASTR,United States,Arkansas,05,Union,139
+ASTR,United States,Arkansas,05,Van Buren,141
+ASTR,United States,Arkansas,05,Washington,143
+ASTR,United States,Arkansas,05,White,145
+ASTR,United States,Arkansas,05,Woodruff,147
+ASTR,United States,Arkansas,05,Yell,149
+ASTR,Canada,Ontario,08,,
+ASTR,United States,Connecticut,09,,
+ASTR,United States,Connecticut,09,Fairfield,001
+ASTR,United States,Delaware,10,,
+ASTR,United States,Delaware,10,Kent,001
+ASTR,United States,Delaware,10,New Castle,003
+ASTR,United States,District of Columbia,11,,
+ASTR,United States,District of Columbia,11,District of Columbia,001
+ASTR,United States,Florida,12,,
+ASTR,United States,Florida,12,Gadsden,039
+ASTR,United States,Florida,12,Jackson,063
+ASTR,United States,Florida,12,Liberty,077
+ASTR,United States,Florida,12,Washington,133
+ASTR,United States,Georgia,13,,
+ASTR,United States,Georgia,13,Bartow,015
+ASTR,United States,Georgia,13,Burke,033
+ASTR,United States,Georgia,13,Carroll,045
+ASTR,United States,Georgia,13,Chattooga,055
+ASTR,United States,Georgia,13,Cherokee,057
+ASTR,United States,Georgia,13,Clarke,059
+ASTR,United States,Georgia,13,Clay,061
+ASTR,United States,Georgia,13,Columbia,073
+ASTR,United States,Georgia,13,DeKalb,089
+ASTR,United States,Georgia,13,Elbert,105
+ASTR,United States,Georgia,13,Fannin,111
+ASTR,United States,Georgia,13,Floyd,115
+ASTR,United States,Georgia,13,Fulton,121
+ASTR,United States,Georgia,13,Gordon,129
+ASTR,United States,Georgia,13,Greene,133
+ASTR,United States,Georgia,13,Hall,139
+ASTR,United States,Georgia,13,Harris,145
+ASTR,United States,Georgia,13,Hart,147
+ASTR,United States,Georgia,13,Jackson,157
+ASTR,United States,Georgia,13,Jasper,159
+ASTR,United States,Georgia,13,Lincoln,181
+ASTR,United States,Georgia,13,Lumpkin,187
+ASTR,United States,Georgia,13,McDuffie,189
+ASTR,United States,Georgia,13,Murray,213
+ASTR,United States,Georgia,13,Muscogee,215
+ASTR,United States,Georgia,13,Oglethorpe,221
+ASTR,United States,Georgia,13,Pickens,227
+ASTR,United States,Georgia,13,Polk,233
+ASTR,United States,Georgia,13,Rabun,241
+ASTR,United States,Georgia,13,Stephens,257
+ASTR,United States,Georgia,13,Taliaferro,265
+ASTR,United States,Georgia,13,Taylor,269
+ASTR,United States,Georgia,13,Walker,295
+ASTR,United States,Georgia,13,White,311
+ASTR,United States,Georgia,13,Wilkes,317
+ASTR,United States,Georgia,13,Wilkinson,319
+ASTR,United States,Illinois,17,,
+ASTR,United States,Illinois,17,Adams,001
+ASTR,United States,Illinois,17,Alexander,003
+ASTR,United States,Illinois,17,Bond,005
+ASTR,United States,Illinois,17,Brown,009
+ASTR,United States,Illinois,17,Calhoun,013
+ASTR,United States,Illinois,17,Carroll,015
+ASTR,United States,Illinois,17,Cass,017
+ASTR,United States,Illinois,17,Champaign,019
+ASTR,United States,Illinois,17,Christian,021
+ASTR,United States,Illinois,17,Clark,023
+ASTR,United States,Illinois,17,Clay,025
+ASTR,United States,Illinois,17,Clinton,027
+ASTR,United States,Illinois,17,Coles,029
+ASTR,United States,Illinois,17,Cook,031
+ASTR,United States,Illinois,17,Crawford,033
+ASTR,United States,Illinois,17,Cumberland,035
+ASTR,United States,Illinois,17,De Witt,039
+ASTR,United States,Illinois,17,DeKalb,037
+ASTR,United States,Illinois,17,Douglas,041
+ASTR,United States,Illinois,17,DuPage,043
+ASTR,United States,Illinois,17,Edgar,045
+ASTR,United States,Illinois,17,Edwards,047
+ASTR,United States,Illinois,17,Effingham,049
+ASTR,United States,Illinois,17,Fayette,051
+ASTR,United States,Illinois,17,Ford,053
+ASTR,United States,Illinois,17,Franklin,055
+ASTR,United States,Illinois,17,Fulton,057
+ASTR,United States,Illinois,17,Gallatin,059
+ASTR,United States,Illinois,17,Greene,061
+ASTR,United States,Illinois,17,Grundy,063
+ASTR,United States,Illinois,17,Hamilton,065
+ASTR,United States,Illinois,17,Hancock,067
+ASTR,United States,Illinois,17,Henderson,071
+ASTR,United States,Illinois,17,Iroquois,075
+ASTR,United States,Illinois,17,Jackson,077
+ASTR,United States,Illinois,17,Jefferson,081
+ASTR,United States,Illinois,17,Jersey,083
+ASTR,United States,Illinois,17,Johnson,087
+ASTR,United States,Illinois,17,Kankakee,091
+ASTR,United States,Illinois,17,Kendall,093
+ASTR,United States,Illinois,17,LaSalle,099
+ASTR,United States,Illinois,17,Lawrence,101
+ASTR,United States,Illinois,17,Lee,103
+ASTR,United States,Illinois,17,Livingston,105
+ASTR,United States,Illinois,17,Logan,107
+ASTR,United States,Illinois,17,Macon,115
+ASTR,United States,Illinois,17,Macoupin,117
+ASTR,United States,Illinois,17,Madison,119
+ASTR,United States,Illinois,17,Marion,121
+ASTR,United States,Illinois,17,Mason,125
+ASTR,United States,Illinois,17,Massac,127
+ASTR,United States,Illinois,17,McDonough,109
+ASTR,United States,Illinois,17,McLean,113
+ASTR,United States,Illinois,17,Menard,129
+ASTR,United States,Illinois,17,Monroe,133
+ASTR,United States,Illinois,17,Morgan,137
+ASTR,United States,Illinois,17,Moultrie,139
+ASTR,United States,Illinois,17,Peoria,143
+ASTR,United States,Illinois,17,Perry,145
+ASTR,United States,Illinois,17,Piatt,147
+ASTR,United States,Illinois,17,Pike,149
+ASTR,United States,Illinois,17,Pope,151
+ASTR,United States,Illinois,17,Pulaski,153
+ASTR,United States,Illinois,17,Randolph,157
+ASTR,United States,Illinois,17,Richland,159
+ASTR,United States,Illinois,17,Saline,165
+ASTR,United States,Illinois,17,Sangamon,167
+ASTR,United States,Illinois,17,Schuyler,169
+ASTR,United States,Illinois,17,Scott,171
+ASTR,United States,Illinois,17,Shelby,173
+ASTR,United States,Illinois,17,St. Clair,163
+ASTR,United States,Illinois,17,Tazewell,179
+ASTR,United States,Illinois,17,Union,181
+ASTR,United States,Illinois,17,Vermilion,183
+ASTR,United States,Illinois,17,Wabash,185
+ASTR,United States,Illinois,17,Washington,189
+ASTR,United States,Illinois,17,Wayne,191
+ASTR,United States,Illinois,17,White,193
+ASTR,United States,Illinois,17,Will,197
+ASTR,United States,Illinois,17,Williamson,199
+ASTR,United States,Indiana,18,,
+ASTR,United States,Indiana,18,Adams,001
+ASTR,United States,Indiana,18,Allen,003
+ASTR,United States,Indiana,18,Bartholomew,005
+ASTR,United States,Indiana,18,Brown,013
+ASTR,United States,Indiana,18,Carroll,015
+ASTR,United States,Indiana,18,Cass,017
+ASTR,United States,Indiana,18,Clark,019
+ASTR,United States,Indiana,18,Clay,021
+ASTR,United States,Indiana,18,Clinton,023
+ASTR,United States,Indiana,18,Crawford,025
+ASTR,United States,Indiana,18,Dearborn,029
+ASTR,United States,Indiana,18,Decatur,031
+ASTR,United States,Indiana,18,DeKalb,033
+ASTR,United States,Indiana,18,Delaware,035
+ASTR,United States,Indiana,18,Dubois,037
+ASTR,United States,Indiana,18,Elkhart,039
+ASTR,United States,Indiana,18,Floyd,043
+ASTR,United States,Indiana,18,Fountain,045
+ASTR,United States,Indiana,18,Franklin,047
+ASTR,United States,Indiana,18,Fulton,049
+ASTR,United States,Indiana,18,Grant,053
+ASTR,United States,Indiana,18,Greene,055
+ASTR,United States,Indiana,18,Hancock,059
+ASTR,United States,Indiana,18,Harrison,061
+ASTR,United States,Indiana,18,Hendricks,063
+ASTR,United States,Indiana,18,Howard,067
+ASTR,United States,Indiana,18,Huntington,069
+ASTR,United States,Indiana,18,Jackson,071
+ASTR,United States,Indiana,18,Jefferson,077
+ASTR,United States,Indiana,18,Jennings,079
+ASTR,United States,Indiana,18,Johnson,081
+ASTR,United States,Indiana,18,Knox,083
+ASTR,United States,Indiana,18,Kosciusko,085
+ASTR,United States,Indiana,18,Lagrange,087
+ASTR,United States,Indiana,18,LaPorte,091
+ASTR,United States,Indiana,18,Lawrence,093
+ASTR,United States,Indiana,18,Marion,097
+ASTR,United States,Indiana,18,Marshall,099
+ASTR,United States,Indiana,18,Martin,101
+ASTR,United States,Indiana,18,Miami,103
+ASTR,United States,Indiana,18,Monroe,105
+ASTR,United States,Indiana,18,Montgomery,107
+ASTR,United States,Indiana,18,Morgan,109
+ASTR,United States,Indiana,18,Newton,111
+ASTR,United States,Indiana,18,Noble,113
+ASTR,United States,Indiana,18,Orange,117
+ASTR,United States,Indiana,18,Owen,119
+ASTR,United States,Indiana,18,Parke,121
+ASTR,United States,Indiana,18,Perry,123
+ASTR,United States,Indiana,18,Pike,125
+ASTR,United States,Indiana,18,Porter,127
+ASTR,United States,Indiana,18,Posey,129
+ASTR,United States,Indiana,18,Pulaski,131
+ASTR,United States,Indiana,18,Putnam,133
+ASTR,United States,Indiana,18,Randolph,135
+ASTR,United States,Indiana,18,Rush,139
+ASTR,United States,Indiana,18,Scott,143
+ASTR,United States,Indiana,18,Shelby,145
+ASTR,United States,Indiana,18,Spencer,147
+ASTR,United States,Indiana,18,St. Joseph,141
+ASTR,United States,Indiana,18,Steuben,151
+ASTR,United States,Indiana,18,Sullivan,153
+ASTR,United States,Indiana,18,Switzerland,155
+ASTR,United States,Indiana,18,Tippecanoe,157
+ASTR,United States,Indiana,18,Union,161
+ASTR,United States,Indiana,18,Vanderburgh,163
+ASTR,United States,Indiana,18,Wabash,169
+ASTR,United States,Indiana,18,Warren,171
+ASTR,United States,Indiana,18,Washington,175
+ASTR,United States,Indiana,18,Wayne,177
+ASTR,United States,Indiana,18,Wells,179
+ASTR,United States,Iowa,19,,
+ASTR,United States,Iowa,19,Fremont,071
+ASTR,United States,Iowa,19,Taylor,173
+ASTR,United States,Kansas,20,,
+ASTR,United States,Kansas,20,Allen,001
+ASTR,United States,Kansas,20,Anderson,003
+ASTR,United States,Kansas,20,Atchison,005
+ASTR,United States,Kansas,20,Bourbon,011
+ASTR,United States,Kansas,20,Brown,013
+ASTR,United States,Kansas,20,Butler,015
+ASTR,United States,Kansas,20,Chautauqua,019
+ASTR,United States,Kansas,20,Cherokee,021
+ASTR,United States,Kansas,20,Coffey,031
+ASTR,United States,Kansas,20,Cowley,035
+ASTR,United States,Kansas,20,Crawford,037
+ASTR,United States,Kansas,20,Doniphan,043
+ASTR,United States,Kansas,20,Douglas,045
+ASTR,United States,Kansas,20,Elk,049
+ASTR,United States,Kansas,20,Franklin,059
+ASTR,United States,Kansas,20,Greenwood,073
+ASTR,United States,Kansas,20,Jackson,085
+ASTR,United States,Kansas,20,Jefferson,087
+ASTR,United States,Kansas,20,Johnson,091
+ASTR,United States,Kansas,20,Labette,099
+ASTR,United States,Kansas,20,Leavenworth,103
+ASTR,United States,Kansas,20,Linn,107
+ASTR,United States,Kansas,20,Lyon,111
+ASTR,United States,Kansas,20,Miami,121
+ASTR,United States,Kansas,20,Montgomery,125
+ASTR,United States,Kansas,20,Nemaha,131
+ASTR,United States,Kansas,20,Neosho,133
+ASTR,United States,Kansas,20,Osage,139
+ASTR,United States,Kansas,20,Pottawatomie,149
+ASTR,United States,Kansas,20,Riley,161
+ASTR,United States,Kansas,20,Shawnee,177
+ASTR,United States,Kansas,20,Wabaunsee,197
+ASTR,United States,Kansas,20,Wilson,205
+ASTR,United States,Kansas,20,Woodson,207
+ASTR,United States,Kansas,20,Wyandotte,209
+ASTR,United States,Kentucky,21,,
+ASTR,United States,Kentucky,21,Adair,001
+ASTR,United States,Kentucky,21,Allen,003
+ASTR,United States,Kentucky,21,Anderson,005
+ASTR,United States,Kentucky,21,Ballard,007
+ASTR,United States,Kentucky,21,Barren,009
+ASTR,United States,Kentucky,21,Bath,011
+ASTR,United States,Kentucky,21,Bell,013
+ASTR,United States,Kentucky,21,Boone,015
+ASTR,United States,Kentucky,21,Bourbon,017
+ASTR,United States,Kentucky,21,Boyd,019
+ASTR,United States,Kentucky,21,Boyle,021
+ASTR,United States,Kentucky,21,Bracken,023
+ASTR,United States,Kentucky,21,Breathitt,025
+ASTR,United States,Kentucky,21,Breckinridge,027
+ASTR,United States,Kentucky,21,Bullitt,029
+ASTR,United States,Kentucky,21,Caldwell,033
+ASTR,United States,Kentucky,21,Calloway,035
+ASTR,United States,Kentucky,21,Campbell,037
+ASTR,United States,Kentucky,21,Carlisle,039
+ASTR,United States,Kentucky,21,Carroll,041
+ASTR,United States,Kentucky,21,Carter,043
+ASTR,United States,Kentucky,21,Casey,045
+ASTR,United States,Kentucky,21,Christian,047
+ASTR,United States,Kentucky,21,Clark,049
+ASTR,United States,Kentucky,21,Clay,051
+ASTR,United States,Kentucky,21,Clinton,053
+ASTR,United States,Kentucky,21,Crittenden,055
+ASTR,United States,Kentucky,21,Cumberland,057
+ASTR,United States,Kentucky,21,Daviess,059
+ASTR,United States,Kentucky,21,Edmonson,061
+ASTR,United States,Kentucky,21,Elliott,063
+ASTR,United States,Kentucky,21,Estill,065
+ASTR,United States,Kentucky,21,Fayette,067
+ASTR,United States,Kentucky,21,Fleming,069
+ASTR,United States,Kentucky,21,Floyd,071
+ASTR,United States,Kentucky,21,Franklin,073
+ASTR,United States,Kentucky,21,Fulton,075
+ASTR,United States,Kentucky,21,Gallatin,077
+ASTR,United States,Kentucky,21,Garrard,079
+ASTR,United States,Kentucky,21,Grant,081
+ASTR,United States,Kentucky,21,Graves,083
+ASTR,United States,Kentucky,21,Grayson,085
+ASTR,United States,Kentucky,21,Green,087
+ASTR,United States,Kentucky,21,Greenup,089
+ASTR,United States,Kentucky,21,Hardin,093
+ASTR,United States,Kentucky,21,Harlan,095
+ASTR,United States,Kentucky,21,Harrison,097
+ASTR,United States,Kentucky,21,Hart,099
+ASTR,United States,Kentucky,21,Henderson,101
+ASTR,United States,Kentucky,21,Henry,103
+ASTR,United States,Kentucky,21,Hickman,105
+ASTR,United States,Kentucky,21,Hopkins,107
+ASTR,United States,Kentucky,21,Jackson,109
+ASTR,United States,Kentucky,21,Jefferson,111
+ASTR,United States,Kentucky,21,Jessamine,113
+ASTR,United States,Kentucky,21,Johnson,115
+ASTR,United States,Kentucky,21,Kenton,117
+ASTR,United States,Kentucky,21,Knott,119
+ASTR,United States,Kentucky,21,Knox,121
+ASTR,United States,Kentucky,21,Larue,123
+ASTR,United States,Kentucky,21,Laurel,125
+ASTR,United States,Kentucky,21,Lawrence,127
+ASTR,United States,Kentucky,21,Lee,129
+ASTR,United States,Kentucky,21,Leslie,131
+ASTR,United States,Kentucky,21,Letcher,133
+ASTR,United States,Kentucky,21,Lewis,135
+ASTR,United States,Kentucky,21,Lincoln,137
+ASTR,United States,Kentucky,21,Lyon,143
+ASTR,United States,Kentucky,21,Madison,151
+ASTR,United States,Kentucky,21,Magoffin,153
+ASTR,United States,Kentucky,21,Marion,155
+ASTR,United States,Kentucky,21,Marshall,157
+ASTR,United States,Kentucky,21,Martin,159
+ASTR,United States,Kentucky,21,Mason,161
+ASTR,United States,Kentucky,21,McCracken,145
+ASTR,United States,Kentucky,21,McCreary,147
+ASTR,United States,Kentucky,21,McLean,149
+ASTR,United States,Kentucky,21,Meade,163
+ASTR,United States,Kentucky,21,Menifee,165
+ASTR,United States,Kentucky,21,Mercer,167
+ASTR,United States,Kentucky,21,Metcalfe,169
+ASTR,United States,Kentucky,21,Monroe,171
+ASTR,United States,Kentucky,21,Montgomery,173
+ASTR,United States,Kentucky,21,Morgan,175
+ASTR,United States,Kentucky,21,Nelson,179
+ASTR,United States,Kentucky,21,Nicholas,181
+ASTR,United States,Kentucky,21,Ohio,183
+ASTR,United States,Kentucky,21,Oldham,185
+ASTR,United States,Kentucky,21,Owen,187
+ASTR,United States,Kentucky,21,Pendleton,191
+ASTR,United States,Kentucky,21,Perry,193
+ASTR,United States,Kentucky,21,Pike,195
+ASTR,United States,Kentucky,21,Powell,197
+ASTR,United States,Kentucky,21,Pulaski,199
+ASTR,United States,Kentucky,21,Robertson,201
+ASTR,United States,Kentucky,21,Rockcastle,203
+ASTR,United States,Kentucky,21,Rowan,205
+ASTR,United States,Kentucky,21,Russell,207
+ASTR,United States,Kentucky,21,Simpson,213
+ASTR,United States,Kentucky,21,Spencer,215
+ASTR,United States,Kentucky,21,Taylor,217
+ASTR,United States,Kentucky,21,Todd,219
+ASTR,United States,Kentucky,21,Trigg,221
+ASTR,United States,Kentucky,21,Trimble,223
+ASTR,United States,Kentucky,21,Union,225
+ASTR,United States,Kentucky,21,Warren,227
+ASTR,United States,Kentucky,21,Wayne,231
+ASTR,United States,Kentucky,21,Webster,233
+ASTR,United States,Kentucky,21,Whitley,235
+ASTR,United States,Kentucky,21,Wolfe,237
+ASTR,United States,Kentucky,21,Woodford,239
+ASTR,United States,Louisiana,22,,
+ASTR,United States,Louisiana,22,Acadia,001
+ASTR,United States,Louisiana,22,Allen,003
+ASTR,United States,Louisiana,22,Avoyelles,009
+ASTR,United States,Louisiana,22,Bienville,013
+ASTR,United States,Louisiana,22,Bossier,015
+ASTR,United States,Louisiana,22,Caddo,017
+ASTR,United States,Louisiana,22,Calcasieu,019
+ASTR,United States,Louisiana,22,Caldwell,021
+ASTR,United States,Louisiana,22,Catahoula,025
+ASTR,United States,Louisiana,22,Claiborne,027
+ASTR,United States,Louisiana,22,De Soto,031
+ASTR,United States,Louisiana,22,East Baton Rouge,033
+ASTR,United States,Louisiana,22,East Carroll,035
+ASTR,United States,Louisiana,22,East Feliciana,037
+ASTR,United States,Louisiana,22,Evangeline,039
+ASTR,United States,Louisiana,22,Franklin,041
+ASTR,United States,Louisiana,22,Grant,043
+ASTR,United States,Louisiana,22,Iberia,045
+ASTR,United States,Louisiana,22,Jackson,049
+ASTR,United States,Louisiana,22,Lafayette,055
+ASTR,United States,Louisiana,22,LaSalle,059
+ASTR,United States,Louisiana,22,Lincoln,061
+ASTR,United States,Louisiana,22,Livingston,063
+ASTR,United States,Louisiana,22,Madison,065
+ASTR,United States,Louisiana,22,Morehouse,067
+ASTR,United States,Louisiana,22,Natchitoches,069
+ASTR,United States,Louisiana,22,Ouachita,073
+ASTR,United States,Louisiana,22,Rapides,079
+ASTR,United States,Louisiana,22,Red River,081
+ASTR,United States,Louisiana,22,Richland,083
+ASTR,United States,Louisiana,22,Sabine,085
+ASTR,United States,Louisiana,22,St. Helena,091
+ASTR,United States,Louisiana,22,St. James,093
+ASTR,United States,Louisiana,22,St. Landry,097
+ASTR,United States,Louisiana,22,St. Martin,099
+ASTR,United States,Louisiana,22,St. Mary,101
+ASTR,United States,Louisiana,22,St. Tammany,103
+ASTR,United States,Louisiana,22,Union,111
+ASTR,United States,Louisiana,22,Vernon,115
+ASTR,United States,Louisiana,22,Washington,117
+ASTR,United States,Louisiana,22,Webster,119
+ASTR,United States,Louisiana,22,West Carroll,123
+ASTR,United States,Louisiana,22,West Feliciana,125
+ASTR,United States,Louisiana,22,Winn,127
+ASTR,United States,Maryland,24,,
+ASTR,United States,Michigan,26,,
+ASTR,United States,Michigan,26,Allegan,005
+ASTR,United States,Michigan,26,Barry,015
+ASTR,United States,Michigan,26,Berrien,021
+ASTR,United States,Michigan,26,Branch,023
+ASTR,United States,Michigan,26,Cass,027
+ASTR,United States,Michigan,26,Genesee,049
+ASTR,United States,Michigan,26,Hillsdale,059
+ASTR,United States,Michigan,26,Ingham,065
+ASTR,United States,Michigan,26,Ionia,067
+ASTR,United States,Michigan,26,Kalamazoo,077
+ASTR,United States,Michigan,26,Kent,081
+ASTR,United States,Michigan,26,Lenawee,091
+ASTR,United States,Michigan,26,Macomb,099
+ASTR,United States,Michigan,26,Monroe,115
+ASTR,United States,Michigan,26,Muskegon,121
+ASTR,United States,Michigan,26,Oakland,125
+ASTR,United States,Michigan,26,Shiawassee,155
+ASTR,United States,Michigan,26,St. Joseph,149
+ASTR,United States,Michigan,26,Van Buren,159
+ASTR,United States,Michigan,26,Washtenaw,161
+ASTR,United States,Michigan,26,Wayne,163
+ASTR,United States,Mississippi,28,,
+ASTR,United States,Mississippi,28,Adams,001
+ASTR,United States,Mississippi,28,Alcorn,003
+ASTR,United States,Mississippi,28,Amite,005
+ASTR,United States,Mississippi,28,Carroll,015
+ASTR,United States,Mississippi,28,Clarke,023
+ASTR,United States,Mississippi,28,Coahoma,027
+ASTR,United States,Mississippi,28,DeSoto,033
+ASTR,United States,Mississippi,28,Franklin,037
+ASTR,United States,Mississippi,28,Grenada,043
+ASTR,United States,Mississippi,28,Hinds,049
+ASTR,United States,Mississippi,28,Holmes,051
+ASTR,United States,Mississippi,28,Itawamba,057
+ASTR,United States,Mississippi,28,Jasper,061
+ASTR,United States,Mississippi,28,Lafayette,071
+ASTR,United States,Mississippi,28,Leake,079
+ASTR,United States,Mississippi,28,Leflore,083
+ASTR,United States,Mississippi,28,Marshall,093
+ASTR,United States,Mississippi,28,Monroe,095
+ASTR,United States,Mississippi,28,Newton,101
+ASTR,United States,Mississippi,28,Pontotoc,115
+ASTR,United States,Mississippi,28,Scott,123
+ASTR,United States,Mississippi,28,Smith,129
+ASTR,United States,Mississippi,28,Tate,137
+ASTR,United States,Mississippi,28,Tishomingo,141
+ASTR,United States,Mississippi,28,Tunica,143
+ASTR,United States,Mississippi,28,Union,145
+ASTR,United States,Mississippi,28,Warren,149
+ASTR,United States,Mississippi,28,Washington,151
+ASTR,United States,Mississippi,28,Wilkinson,157
+ASTR,United States,Mississippi,28,Winston,159
+ASTR,United States,Mississippi,28,Yazoo,163
+ASTR,United States,Missouri,29,,
+ASTR,United States,Missouri,29,Andrew,003
+ASTR,United States,Missouri,29,Atchison,005
+ASTR,United States,Missouri,29,Audrain,007
+ASTR,United States,Missouri,29,Barry,009
+ASTR,United States,Missouri,29,Barton,011
+ASTR,United States,Missouri,29,Bates,013
+ASTR,United States,Missouri,29,Benton,015
+ASTR,United States,Missouri,29,Bollinger,017
+ASTR,United States,Missouri,29,Boone,019
+ASTR,United States,Missouri,29,Buchanan,021
+ASTR,United States,Missouri,29,Butler,023
+ASTR,United States,Missouri,29,Caldwell,025
+ASTR,United States,Missouri,29,Callaway,027
+ASTR,United States,Missouri,29,Camden,029
+ASTR,United States,Missouri,29,Cape Girardeau,031
+ASTR,United States,Missouri,29,Carroll,033
+ASTR,United States,Missouri,29,Carter,035
+ASTR,United States,Missouri,29,Cass,037
+ASTR,United States,Missouri,29,Cedar,039
+ASTR,United States,Missouri,29,Chariton,041
+ASTR,United States,Missouri,29,Christian,043
+ASTR,United States,Missouri,29,Clark,045
+ASTR,United States,Missouri,29,Clay,047
+ASTR,United States,Missouri,29,Clinton,049
+ASTR,United States,Missouri,29,Cole,051
+ASTR,United States,Missouri,29,Cooper,053
+ASTR,United States,Missouri,29,Crawford,055
+ASTR,United States,Missouri,29,Dade,057
+ASTR,United States,Missouri,29,Dallas,059
+ASTR,United States,Missouri,29,Daviess,061
+ASTR,United States,Missouri,29,DeKalb,063
+ASTR,United States,Missouri,29,Dent,065
+ASTR,United States,Missouri,29,Douglas,067
+ASTR,United States,Missouri,29,Dunklin,069
+ASTR,United States,Missouri,29,Franklin,071
+ASTR,United States,Missouri,29,Gasconade,073
+ASTR,United States,Missouri,29,Greene,077
+ASTR,United States,Missouri,29,Grundy,079
+ASTR,United States,Missouri,29,Henry,083
+ASTR,United States,Missouri,29,Hickory,085
+ASTR,United States,Missouri,29,Holt,087
+ASTR,United States,Missouri,29,Howard,089
+ASTR,United States,Missouri,29,Howell,091
+ASTR,United States,Missouri,29,Iron,093
+ASTR,United States,Missouri,29,Jackson,095
+ASTR,United States,Missouri,29,Jasper,097
+ASTR,United States,Missouri,29,Jefferson,099
+ASTR,United States,Missouri,29,Johnson,101
+ASTR,United States,Missouri,29,Laclede,105
+ASTR,United States,Missouri,29,Lafayette,107
+ASTR,United States,Missouri,29,Lawrence,109
+ASTR,United States,Missouri,29,Lewis,111
+ASTR,United States,Missouri,29,Lincoln,113
+ASTR,United States,Missouri,29,Linn,115
+ASTR,United States,Missouri,29,Livingston,117
+ASTR,United States,Missouri,29,Macon,121
+ASTR,United States,Missouri,29,Madison,123
+ASTR,United States,Missouri,29,Maries,125
+ASTR,United States,Missouri,29,Marion,127
+ASTR,United States,Missouri,29,McDonald,119
+ASTR,United States,Missouri,29,Miller,131
+ASTR,United States,Missouri,29,Mississippi,133
+ASTR,United States,Missouri,29,Moniteau,135
+ASTR,United States,Missouri,29,Monroe,137
+ASTR,United States,Missouri,29,Montgomery,139
+ASTR,United States,Missouri,29,Morgan,141
+ASTR,United States,Missouri,29,New Madrid,143
+ASTR,United States,Missouri,29,Newton,145
+ASTR,United States,Missouri,29,Oregon,149
+ASTR,United States,Missouri,29,Osage,151
+ASTR,United States,Missouri,29,Ozark,153
+ASTR,United States,Missouri,29,Pemiscot,155
+ASTR,United States,Missouri,29,Perry,157
+ASTR,United States,Missouri,29,Pettis,159
+ASTR,United States,Missouri,29,Phelps,161
+ASTR,United States,Missouri,29,Pike,163
+ASTR,United States,Missouri,29,Platte,165
+ASTR,United States,Missouri,29,Polk,167
+ASTR,United States,Missouri,29,Pulaski,169
+ASTR,United States,Missouri,29,Ralls,173
+ASTR,United States,Missouri,29,Randolph,175
+ASTR,United States,Missouri,29,Ray,177
+ASTR,United States,Missouri,29,Reynolds,179
+ASTR,United States,Missouri,29,Ripley,181
+ASTR,United States,Missouri,29,Saline,195
+ASTR,United States,Missouri,29,Scott,201
+ASTR,United States,Missouri,29,Shannon,203
+ASTR,United States,Missouri,29,Shelby,205
+ASTR,United States,Missouri,29,St. Charles,183
+ASTR,United States,Missouri,29,St. Clair,185
+ASTR,United States,Missouri,29,St. Francois,187
+ASTR,United States,Missouri,29,St. Louis,189
+ASTR,United States,Missouri,29,Ste. Genevieve,186
+ASTR,United States,Missouri,29,Stoddard,207
+ASTR,United States,Missouri,29,Stone,209
+ASTR,United States,Missouri,29,Taney,213
+ASTR,United States,Missouri,29,Texas,215
+ASTR,United States,Missouri,29,Vernon,217
+ASTR,United States,Missouri,29,Warren,219
+ASTR,United States,Missouri,29,Washington,221
+ASTR,United States,Missouri,29,Wayne,223
+ASTR,United States,Missouri,29,Webster,225
+ASTR,United States,Missouri,29,Wright,229
+ASTR,United States,Nebraska,31,,
+ASTR,United States,Nebraska,31,Douglas,055
+ASTR,United States,Nebraska,31,Nemaha,127
+ASTR,United States,Nebraska,31,Otoe,131
+ASTR,United States,Nebraska,31,Richardson,147
+ASTR,United States,New Jersey,34,,
+ASTR,United States,New Jersey,34,Atlantic,001
+ASTR,United States,New Jersey,34,Burlington,005
+ASTR,United States,New Jersey,34,Gloucester,015
+ASTR,United States,New Jersey,34,Hunterdon,019
+ASTR,United States,New Jersey,34,Mercer,021
+ASTR,United States,New Jersey,34,Passaic,031
+ASTR,United States,New Jersey,34,Sussex,037
+ASTR,United States,New York,36,,
+ASTR,United States,New York,36,Chautauqua,013
+ASTR,United States,New York,36,Erie,029
+ASTR,United States,New York,36,Livingston,051
+ASTR,United States,New York,36,Monroe,055
+ASTR,United States,New York,36,Niagara,063
+ASTR,United States,New York,36,Ontario,069
+ASTR,United States,New York,36,Orleans,073
+ASTR,United States,New York,36,Oswego,075
+ASTR,United States,New York,36,Putnam,079
+ASTR,United States,New York,36,Richmond,085
+ASTR,United States,New York,36,Ulster,111
+ASTR,United States,North Carolina,37,,
+ASTR,United States,North Carolina,37,Alamance,001
+ASTR,United States,North Carolina,37,Anson,007
+ASTR,United States,North Carolina,37,Beaufort,013
+ASTR,United States,North Carolina,37,Bladen,017
+ASTR,United States,North Carolina,37,Brunswick,019
+ASTR,United States,North Carolina,37,Burke,023
+ASTR,United States,North Carolina,37,Cabarrus,025
+ASTR,United States,North Carolina,37,Caswell,033
+ASTR,United States,North Carolina,37,Cumberland,051
+ASTR,United States,North Carolina,37,Davidson,057
+ASTR,United States,North Carolina,37,Durham,063
+ASTR,United States,North Carolina,37,Edgecombe,065
+ASTR,United States,North Carolina,37,Forsyth,067
+ASTR,United States,North Carolina,37,Gaston,071
+ASTR,United States,North Carolina,37,Graham,075
+ASTR,United States,North Carolina,37,Granville,077
+ASTR,United States,North Carolina,37,Guilford,081
+ASTR,United States,North Carolina,37,Harnett,085
+ASTR,United States,North Carolina,37,Johnston,101
+ASTR,United States,North Carolina,37,Lee,105
+ASTR,United States,North Carolina,37,Lincoln,109
+ASTR,United States,North Carolina,37,Madison,115
+ASTR,United States,North Carolina,37,Martin,117
+ASTR,United States,North Carolina,37,McDowell,111
+ASTR,United States,North Carolina,37,Mecklenburg,119
+ASTR,United States,North Carolina,37,Montgomery,123
+ASTR,United States,North Carolina,37,Moore,125
+ASTR,United States,North Carolina,37,Nash,127
+ASTR,United States,North Carolina,37,New Hanover,129
+ASTR,United States,North Carolina,37,Northampton,131
+ASTR,United States,North Carolina,37,Orange,135
+ASTR,United States,North Carolina,37,Pasquotank,139
+ASTR,United States,North Carolina,37,Pender,141
+ASTR,United States,North Carolina,37,Perquimans,143
+ASTR,United States,North Carolina,37,Person,145
+ASTR,United States,North Carolina,37,Polk,149
+ASTR,United States,North Carolina,37,Randolph,151
+ASTR,United States,North Carolina,37,Rockingham,157
+ASTR,United States,North Carolina,37,Rowan,159
+ASTR,United States,North Carolina,37,Rutherford,161
+ASTR,United States,North Carolina,37,Stanly,167
+ASTR,United States,North Carolina,37,Stokes,169
+ASTR,United States,North Carolina,37,Swain,173
+ASTR,United States,North Carolina,37,Transylvania,175
+ASTR,United States,North Carolina,37,Union,179
+ASTR,United States,North Carolina,37,Wake,183
+ASTR,United States,North Carolina,37,Washington,187
+ASTR,United States,North Carolina,37,Yancey,199
+ASTR,United States,Ohio,39,,
+ASTR,United States,Ohio,39,Adams,001
+ASTR,United States,Ohio,39,Allen,003
+ASTR,United States,Ohio,39,Ashland,005
+ASTR,United States,Ohio,39,Ashtabula,007
+ASTR,United States,Ohio,39,Athens,009
+ASTR,United States,Ohio,39,Auglaize,011
+ASTR,United States,Ohio,39,Belmont,013
+ASTR,United States,Ohio,39,Brown,015
+ASTR,United States,Ohio,39,Butler,017
+ASTR,United States,Ohio,39,Carroll,019
+ASTR,United States,Ohio,39,Champaign,021
+ASTR,United States,Ohio,39,Clark,023
+ASTR,United States,Ohio,39,Clermont,025
+ASTR,United States,Ohio,39,Clinton,027
+ASTR,United States,Ohio,39,Columbiana,029
+ASTR,United States,Ohio,39,Coshocton,031
+ASTR,United States,Ohio,39,Crawford,033
+ASTR,United States,Ohio,39,Cuyahoga,035
+ASTR,United States,Ohio,39,Darke,037
+ASTR,United States,Ohio,39,Defiance,039
+ASTR,United States,Ohio,39,Delaware,041
+ASTR,United States,Ohio,39,Erie,043
+ASTR,United States,Ohio,39,Fairfield,045
+ASTR,United States,Ohio,39,Fayette,047
+ASTR,United States,Ohio,39,Franklin,049
+ASTR,United States,Ohio,39,Fulton,051
+ASTR,United States,Ohio,39,Gallia,053
+ASTR,United States,Ohio,39,Geauga,055
+ASTR,United States,Ohio,39,Greene,057
+ASTR,United States,Ohio,39,Guernsey,059
+ASTR,United States,Ohio,39,Hamilton,061
+ASTR,United States,Ohio,39,Hancock,063
+ASTR,United States,Ohio,39,Hardin,065
+ASTR,United States,Ohio,39,Harrison,067
+ASTR,United States,Ohio,39,Henry,069
+ASTR,United States,Ohio,39,Highland,071
+ASTR,United States,Ohio,39,Hocking,073
+ASTR,United States,Ohio,39,Holmes,075
+ASTR,United States,Ohio,39,Huron,077
+ASTR,United States,Ohio,39,Jackson,079
+ASTR,United States,Ohio,39,Jefferson,081
+ASTR,United States,Ohio,39,Knox,083
+ASTR,United States,Ohio,39,Lake,085
+ASTR,United States,Ohio,39,Lawrence,087
+ASTR,United States,Ohio,39,Licking,089
+ASTR,United States,Ohio,39,Logan,091
+ASTR,United States,Ohio,39,Lorain,093
+ASTR,United States,Ohio,39,Lucas,095
+ASTR,United States,Ohio,39,Madison,097
+ASTR,United States,Ohio,39,Mahoning,099
+ASTR,United States,Ohio,39,Marion,101
+ASTR,United States,Ohio,39,Medina,103
+ASTR,United States,Ohio,39,Meigs,105
+ASTR,United States,Ohio,39,Mercer,107
+ASTR,United States,Ohio,39,Miami,109
+ASTR,United States,Ohio,39,Monroe,111
+ASTR,United States,Ohio,39,Montgomery,113
+ASTR,United States,Ohio,39,Morgan,115
+ASTR,United States,Ohio,39,Morrow,117
+ASTR,United States,Ohio,39,Muskingum,119
+ASTR,United States,Ohio,39,Noble,121
+ASTR,United States,Ohio,39,Ottawa,123
+ASTR,United States,Ohio,39,Paulding,125
+ASTR,United States,Ohio,39,Perry,127
+ASTR,United States,Ohio,39,Pickaway,129
+ASTR,United States,Ohio,39,Pike,131
+ASTR,United States,Ohio,39,Portage,133
+ASTR,United States,Ohio,39,Preble,135
+ASTR,United States,Ohio,39,Putnam,137
+ASTR,United States,Ohio,39,Richland,139
+ASTR,United States,Ohio,39,Ross,141
+ASTR,United States,Ohio,39,Sandusky,143
+ASTR,United States,Ohio,39,Scioto,145
+ASTR,United States,Ohio,39,Seneca,147
+ASTR,United States,Ohio,39,Shelby,149
+ASTR,United States,Ohio,39,Stark,151
+ASTR,United States,Ohio,39,Summit,153
+ASTR,United States,Ohio,39,Trumbull,155
+ASTR,United States,Ohio,39,Tuscarawas,157
+ASTR,United States,Ohio,39,Van Wert,161
+ASTR,United States,Ohio,39,Vinton,163
+ASTR,United States,Ohio,39,Warren,165
+ASTR,United States,Ohio,39,Washington,167
+ASTR,United States,Ohio,39,Wayne,169
+ASTR,United States,Ohio,39,Williams,171
+ASTR,United States,Ohio,39,Wood,173
+ASTR,United States,Ohio,39,Wyandot,175
+ASTR,United States,Oklahoma,40,,
+ASTR,United States,Oklahoma,40,Adair,001
+ASTR,United States,Oklahoma,40,Cherokee,021
+ASTR,United States,Oklahoma,40,Latimer,077
+ASTR,United States,Oklahoma,40,Le Flore,079
+ASTR,United States,Oklahoma,40,McCurtain,089
+ASTR,United States,Oklahoma,40,Nowata,105
+ASTR,United States,Oklahoma,40,Osage,113
+ASTR,United States,Oklahoma,40,Ottawa,115
+ASTR,United States,Oklahoma,40,Pushmataha,127
+ASTR,United States,Oklahoma,40,Tulsa,143
+ASTR,United States,Pennsylvania,42,,
+ASTR,United States,Pennsylvania,42,Adams,001
+ASTR,United States,Pennsylvania,42,Allegheny,003
+ASTR,United States,Pennsylvania,42,Armstrong,005
+ASTR,United States,Pennsylvania,42,Beaver,007
+ASTR,United States,Pennsylvania,42,Bedford,009
+ASTR,United States,Pennsylvania,42,Berks,011
+ASTR,United States,Pennsylvania,42,Blair,013
+ASTR,United States,Pennsylvania,42,Bucks,017
+ASTR,United States,Pennsylvania,42,Chester,029
+ASTR,United States,Pennsylvania,42,Crawford,039
+ASTR,United States,Pennsylvania,42,Cumberland,041
+ASTR,United States,Pennsylvania,42,Dauphin,043
+ASTR,United States,Pennsylvania,42,Delaware,045
+ASTR,United States,Pennsylvania,42,Erie,049
+ASTR,United States,Pennsylvania,42,Fayette,051
+ASTR,United States,Pennsylvania,42,Franklin,055
+ASTR,United States,Pennsylvania,42,Fulton,057
+ASTR,United States,Pennsylvania,42,Greene,059
+ASTR,United States,Pennsylvania,42,Huntingdon,061
+ASTR,United States,Pennsylvania,42,Juniata,067
+ASTR,United States,Pennsylvania,42,Lancaster,071
+ASTR,United States,Pennsylvania,42,Lawrence,073
+ASTR,United States,Pennsylvania,42,Lebanon,075
+ASTR,United States,Pennsylvania,42,Luzerne,079
+ASTR,United States,Pennsylvania,42,Montgomery,091
+ASTR,United States,Pennsylvania,42,Perry,099
+ASTR,United States,Pennsylvania,42,Philadelphia,101
+ASTR,United States,Pennsylvania,42,Somerset,111
+ASTR,United States,Pennsylvania,42,Union,119
+ASTR,United States,Pennsylvania,42,Washington,125
+ASTR,United States,Pennsylvania,42,Westmoreland,129
+ASTR,United States,Pennsylvania,42,York,133
+ASTR,United States,South Carolina,45,,
+ASTR,United States,South Carolina,45,Aiken,003
+ASTR,United States,South Carolina,45,Calhoun,017
+ASTR,United States,South Carolina,45,Cherokee,021
+ASTR,United States,South Carolina,45,Chester,023
+ASTR,United States,South Carolina,45,Chesterfield,025
+ASTR,United States,South Carolina,45,Darlington,031
+ASTR,United States,South Carolina,45,Edgefield,037
+ASTR,United States,South Carolina,45,Greenwood,047
+ASTR,United States,South Carolina,45,Kershaw,055
+ASTR,United States,South Carolina,45,Lancaster,057
+ASTR,United States,South Carolina,45,Lexington,063
+ASTR,United States,South Carolina,45,Marlboro,069
+ASTR,United States,South Carolina,45,Newberry,071
+ASTR,United States,South Carolina,45,Pickens,077
+ASTR,United States,South Carolina,45,Saluda,081
+ASTR,United States,South Carolina,45,York,091
+ASTR,United States,Tennessee,47,,
+ASTR,United States,Tennessee,47,Anderson,001
+ASTR,United States,Tennessee,47,Benton,005
+ASTR,United States,Tennessee,47,Bledsoe,007
+ASTR,United States,Tennessee,47,Blount,009
+ASTR,United States,Tennessee,47,Campbell,013
+ASTR,United States,Tennessee,47,Cannon,015
+ASTR,United States,Tennessee,47,Carroll,017
+ASTR,United States,Tennessee,47,Carter,019
+ASTR,United States,Tennessee,47,Cheatham,021
+ASTR,United States,Tennessee,47,Chester,023
+ASTR,United States,Tennessee,47,Claiborne,025
+ASTR,United States,Tennessee,47,Clay,027
+ASTR,United States,Tennessee,47,Cocke,029
+ASTR,United States,Tennessee,47,Coffee,031
+ASTR,United States,Tennessee,47,Cumberland,035
+ASTR,United States,Tennessee,47,Davidson,037
+ASTR,United States,Tennessee,47,Decatur,039
+ASTR,United States,Tennessee,47,Dickson,043
+ASTR,United States,Tennessee,47,Dyer,045
+ASTR,United States,Tennessee,47,Fayette,047
+ASTR,United States,Tennessee,47,Fentress,049
+ASTR,United States,Tennessee,47,Franklin,051
+ASTR,United States,Tennessee,47,Gibson,053
+ASTR,United States,Tennessee,47,Grainger,057
+ASTR,United States,Tennessee,47,Greene,059
+ASTR,United States,Tennessee,47,Grundy,061
+ASTR,United States,Tennessee,47,Hamblen,063
+ASTR,United States,Tennessee,47,Hancock,067
+ASTR,United States,Tennessee,47,Hardeman,069
+ASTR,United States,Tennessee,47,Hardin,071
+ASTR,United States,Tennessee,47,Hawkins,073
+ASTR,United States,Tennessee,47,Haywood,075
+ASTR,United States,Tennessee,47,Henderson,077
+ASTR,United States,Tennessee,47,Henry,079
+ASTR,United States,Tennessee,47,Hickman,081
+ASTR,United States,Tennessee,47,Houston,083
+ASTR,United States,Tennessee,47,Humphreys,085
+ASTR,United States,Tennessee,47,Jackson,087
+ASTR,United States,Tennessee,47,Knox,093
+ASTR,United States,Tennessee,47,Lake,095
+ASTR,United States,Tennessee,47,Lauderdale,097
+ASTR,United States,Tennessee,47,Lawrence,099
+ASTR,United States,Tennessee,47,Lincoln,103
+ASTR,United States,Tennessee,47,Macon,111
+ASTR,United States,Tennessee,47,Marion,115
+ASTR,United States,Tennessee,47,Maury,119
+ASTR,United States,Tennessee,47,McNairy,109
+ASTR,United States,Tennessee,47,Monroe,123
+ASTR,United States,Tennessee,47,Montgomery,125
+ASTR,United States,Tennessee,47,Morgan,129
+ASTR,United States,Tennessee,47,Obion,131
+ASTR,United States,Tennessee,47,Overton,133
+ASTR,United States,Tennessee,47,Pickett,137
+ASTR,United States,Tennessee,47,Polk,139
+ASTR,United States,Tennessee,47,Rhea,143
+ASTR,United States,Tennessee,47,Roane,145
+ASTR,United States,Tennessee,47,Robertson,147
+ASTR,United States,Tennessee,47,Rutherford,149
+ASTR,United States,Tennessee,47,Scott,151
+ASTR,United States,Tennessee,47,Sevier,155
+ASTR,United States,Tennessee,47,Shelby,157
+ASTR,United States,Tennessee,47,Smith,159
+ASTR,United States,Tennessee,47,Stewart,161
+ASTR,United States,Tennessee,47,Sullivan,163
+ASTR,United States,Tennessee,47,Sumner,165
+ASTR,United States,Tennessee,47,Tipton,167
+ASTR,United States,Tennessee,47,Union,173
+ASTR,United States,Tennessee,47,Van Buren,175
+ASTR,United States,Tennessee,47,Warren,177
+ASTR,United States,Tennessee,47,Wayne,181
+ASTR,United States,Tennessee,47,Weakley,183
+ASTR,United States,Tennessee,47,White,185
+ASTR,United States,Tennessee,47,Williamson,187
+ASTR,United States,Tennessee,47,Wilson,189
+ASTR,United States,Texas,48,,
+ASTR,United States,Texas,48,Angelina,005
+ASTR,United States,Texas,48,Chambers,071
+ASTR,United States,Texas,48,Grayson,181
+ASTR,United States,Texas,48,Gregg,183
+ASTR,United States,Texas,48,Hardin,199
+ASTR,United States,Texas,48,Harrison,203
+ASTR,United States,Texas,48,Jasper,241
+ASTR,United States,Texas,48,Nacogdoches,347
+ASTR,United States,Texas,48,Newton,351
+ASTR,United States,Texas,48,Sabine,403
+ASTR,United States,Texas,48,San Augustine,405
+ASTR,United States,Texas,48,Shelby,419
+ASTR,United States,Virginia,51,,
+ASTR,United States,Virginia,51,Accomack,001
+ASTR,United States,Virginia,51,Albemarle,003
+ASTR,United States,Virginia,51,Alleghany,005
+ASTR,United States,Virginia,51,Amelia,007
+ASTR,United States,Virginia,51,Amherst,009
+ASTR,United States,Virginia,51,Appomattox,011
+ASTR,United States,Virginia,51,Arlington,013
+ASTR,United States,Virginia,51,Augusta,015
+ASTR,United States,Virginia,51,Bath,017
+ASTR,United States,Virginia,51,Bedford,019
+ASTR,United States,Virginia,51,Bland,021
+ASTR,United States,Virginia,51,Botetourt,023
+ASTR,United States,Virginia,51,Brunswick,025
+ASTR,United States,Virginia,51,Buchanan,027
+ASTR,United States,Virginia,51,Buckingham,029
+ASTR,United States,Virginia,51,Campbell,031
+ASTR,United States,Virginia,51,Caroline,033
+ASTR,United States,Virginia,51,Charles City,036
+ASTR,United States,Virginia,51,Charlotte,037
+ASTR,United States,Virginia,51,Chesapeake ,550
+ASTR,United States,Virginia,51,Chesterfield,041
+ASTR,United States,Virginia,51,Clarke,043
+ASTR,United States,Virginia,51,Culpeper,047
+ASTR,United States,Virginia,51,Cumberland,049
+ASTR,United States,Virginia,51,Dickenson,051
+ASTR,United States,Virginia,51,Dinwiddie,053
+ASTR,United States,Virginia,51,Essex,057
+ASTR,United States,Virginia,51,Fairfax,059
+ASTR,United States,Virginia,51,Fauquier,061
+ASTR,United States,Virginia,51,Fluvanna,065
+ASTR,United States,Virginia,51,Franklin,067
+ASTR,United States,Virginia,51,Frederick,069
+ASTR,United States,Virginia,51,Giles,071
+ASTR,United States,Virginia,51,Gloucester,073
+ASTR,United States,Virginia,51,Goochland,075
+ASTR,United States,Virginia,51,Greensville,081
+ASTR,United States,Virginia,51,Halifax,083
+ASTR,United States,Virginia,51,Hampton ,650
+ASTR,United States,Virginia,51,Hanover,085
+ASTR,United States,Virginia,51,Henrico,087
+ASTR,United States,Virginia,51,Henry,089
+ASTR,United States,Virginia,51,Highland,091
+ASTR,United States,Virginia,51,Isle of Wight,093
+ASTR,United States,Virginia,51,James City,095
+ASTR,United States,Virginia,51,King and Queen,097
+ASTR,United States,Virginia,51,King George,099
+ASTR,United States,Virginia,51,King William,101
+ASTR,United States,Virginia,51,Lancaster,103
+ASTR,United States,Virginia,51,Lee,105
+ASTR,United States,Virginia,51,Loudoun,107
+ASTR,United States,Virginia,51,Louisa,109
+ASTR,United States,Virginia,51,Lunenburg,111
+ASTR,United States,Virginia,51,Madison,113
+ASTR,United States,Virginia,51,Mathews,115
+ASTR,United States,Virginia,51,Mecklenburg,117
+ASTR,United States,Virginia,51,Middlesex,119
+ASTR,United States,Virginia,51,Montgomery,121
+ASTR,United States,Virginia,51,Nelson,125
+ASTR,United States,Virginia,51,New Kent,127
+ASTR,United States,Virginia,51,Newport News ,700
+ASTR,United States,Virginia,51,Northumberland,133
+ASTR,United States,Virginia,51,Nottoway,135
+ASTR,United States,Virginia,51,Orange,137
+ASTR,United States,Virginia,51,Page,139
+ASTR,United States,Virginia,51,Pittsylvania,143
+ASTR,United States,Virginia,51,Powhatan,145
+ASTR,United States,Virginia,51,Prince Edward,147
+ASTR,United States,Virginia,51,Prince George,149
+ASTR,United States,Virginia,51,Prince William,153
+ASTR,United States,Virginia,51,Pulaski,155
+ASTR,United States,Virginia,51,Rappahannock,157
+ASTR,United States,Virginia,51,Richmond,159
+ASTR,United States,Virginia,51,Roanoke,161
+ASTR,United States,Virginia,51,Rockbridge,163
+ASTR,United States,Virginia,51,Rockingham,165
+ASTR,United States,Virginia,51,Russell,167
+ASTR,United States,Virginia,51,Scott,169
+ASTR,United States,Virginia,51,Shenandoah,171
+ASTR,United States,Virginia,51,Smyth,173
+ASTR,United States,Virginia,51,Southampton,175
+ASTR,United States,Virginia,51,Spotsylvania,177
+ASTR,United States,Virginia,51,Stafford,179
+ASTR,United States,Virginia,51,Suffolk ,800
+ASTR,United States,Virginia,51,Surry,181
+ASTR,United States,Virginia,51,Sussex,183
+ASTR,United States,Virginia,51,Virginia Beach ,810
+ASTR,United States,Virginia,51,Warren,187
+ASTR,United States,Virginia,51,Washington,191
+ASTR,United States,Virginia,51,Westmoreland,193
+ASTR,United States,Virginia,51,Wise,195
+ASTR,United States,Virginia,51,York,199
+ASTR,United States,West Virginia,54,,
+ASTR,United States,West Virginia,54,Barbour,001
+ASTR,United States,West Virginia,54,Berkeley,003
+ASTR,United States,West Virginia,54,Boone,005
+ASTR,United States,West Virginia,54,Braxton,007
+ASTR,United States,West Virginia,54,Brooke,009
+ASTR,United States,West Virginia,54,Cabell,011
+ASTR,United States,West Virginia,54,Calhoun,013
+ASTR,United States,West Virginia,54,Clay,015
+ASTR,United States,West Virginia,54,Doddridge,017
+ASTR,United States,West Virginia,54,Fayette,019
+ASTR,United States,West Virginia,54,Gilmer,021
+ASTR,United States,West Virginia,54,Grant,023
+ASTR,United States,West Virginia,54,Greenbrier,025
+ASTR,United States,West Virginia,54,Hampshire,027
+ASTR,United States,West Virginia,54,Hancock,029
+ASTR,United States,West Virginia,54,Hardy,031
+ASTR,United States,West Virginia,54,Harrison,033
+ASTR,United States,West Virginia,54,Jackson,035
+ASTR,United States,West Virginia,54,Jefferson,037
+ASTR,United States,West Virginia,54,Kanawha,039
+ASTR,United States,West Virginia,54,Lincoln,043
+ASTR,United States,West Virginia,54,Logan,045
+ASTR,United States,West Virginia,54,Marion,049
+ASTR,United States,West Virginia,54,Marshall,051
+ASTR,United States,West Virginia,54,Mason,053
+ASTR,United States,West Virginia,54,McDowell,047
+ASTR,United States,West Virginia,54,Mercer,055
+ASTR,United States,West Virginia,54,Mineral,057
+ASTR,United States,West Virginia,54,Mingo,059
+ASTR,United States,West Virginia,54,Monongalia,061
+ASTR,United States,West Virginia,54,Morgan,065
+ASTR,United States,West Virginia,54,Ohio,069
+ASTR,United States,West Virginia,54,Pendleton,071
+ASTR,United States,West Virginia,54,Pleasants,073
+ASTR,United States,West Virginia,54,Preston,077
+ASTR,United States,West Virginia,54,Putnam,079
+ASTR,United States,West Virginia,54,Raleigh,081
+ASTR,United States,West Virginia,54,Randolph,083
+ASTR,United States,West Virginia,54,Ritchie,085
+ASTR,United States,West Virginia,54,Summers,089
+ASTR,United States,West Virginia,54,Taylor,091
+ASTR,United States,West Virginia,54,Upshur,097
+ASTR,United States,West Virginia,54,Wayne,099
+ASTR,United States,West Virginia,54,Wetzel,103
+ASTR,United States,West Virginia,54,Wirt,105
+ASTR,United States,West Virginia,54,Wood,107
+ASTR,United States,West Virginia,54,Wyoming,109
+ASTR,United States,Wisconsin,55,,

@@ -1,0 +1,283 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VAMY,Canada,Alberta,01,,
+VAMY,Canada,British Columbia,02,,
+VAMY,Canada,Manitoba,03,,
+VAMY,Canada,New Brunswick,04,,
+VAMY,Canada,Nova Scotia,07,,
+VAMY,Canada,Ontario,08,,
+VAMY,Canada,Prince Edward Island,09,,
+VAMY,United States,Connecticut,09,,
+VAMY,United States,Connecticut,09,Litchfield,005
+VAMY,Canada,Quebec,10,,
+VAMY,Canada,Saskatchewan,11,,
+VAMY,Canada,Northwest Territories,13,,
+VAMY,United States,Illinois,17,,
+VAMY,United States,Illinois,17,Lake,097
+VAMY,United States,Illinois,17,LaSalle,099
+VAMY,United States,Illinois,17,Ogle,141
+VAMY,United States,Illinois,17,Winnebago,201
+VAMY,United States,Indiana,18,,
+VAMY,United States,Indiana,18,Fountain,045
+VAMY,United States,Indiana,18,Lake,089
+VAMY,United States,Iowa,19,,
+VAMY,United States,Kentucky,21,,
+VAMY,United States,Kentucky,21,Rowan,205
+VAMY,United States,Maine,23,,
+VAMY,United States,Maine,23,Androscoggin,001
+VAMY,United States,Maine,23,Aroostook,003
+VAMY,United States,Maine,23,Cumberland,005
+VAMY,United States,Maine,23,Franklin,007
+VAMY,United States,Maine,23,Hancock,009
+VAMY,United States,Maine,23,Kennebec,011
+VAMY,United States,Maine,23,Knox,013
+VAMY,United States,Maine,23,Oxford,017
+VAMY,United States,Maine,23,Penobscot,019
+VAMY,United States,Maine,23,Piscataquis,021
+VAMY,United States,Maine,23,Somerset,025
+VAMY,United States,Maine,23,Waldo,027
+VAMY,United States,Maine,23,Washington,029
+VAMY,United States,Maine,23,York,031
+VAMY,United States,Maryland,24,,
+VAMY,United States,Massachusetts,25,,
+VAMY,United States,Massachusetts,25,Berkshire,003
+VAMY,United States,Massachusetts,25,Franklin,011
+VAMY,United States,Massachusetts,25,Hampshire,015
+VAMY,United States,Massachusetts,25,Worcester,027
+VAMY,United States,Michigan,26,,
+VAMY,United States,Michigan,26,Alcona,001
+VAMY,United States,Michigan,26,Alger,003
+VAMY,United States,Michigan,26,Alpena,007
+VAMY,United States,Michigan,26,Antrim,009
+VAMY,United States,Michigan,26,Arenac,011
+VAMY,United States,Michigan,26,Baraga,013
+VAMY,United States,Michigan,26,Bay,017
+VAMY,United States,Michigan,26,Benzie,019
+VAMY,United States,Michigan,26,Calhoun,025
+VAMY,United States,Michigan,26,Charlevoix,029
+VAMY,United States,Michigan,26,Cheboygan,031
+VAMY,United States,Michigan,26,Chippewa,033
+VAMY,United States,Michigan,26,Clare,035
+VAMY,United States,Michigan,26,Crawford,039
+VAMY,United States,Michigan,26,Delta,041
+VAMY,United States,Michigan,26,Dickinson,043
+VAMY,United States,Michigan,26,Emmet,047
+VAMY,United States,Michigan,26,Gladwin,051
+VAMY,United States,Michigan,26,Gogebic,053
+VAMY,United States,Michigan,26,Grand Traverse,055
+VAMY,United States,Michigan,26,Gratiot,057
+VAMY,United States,Michigan,26,Houghton,061
+VAMY,United States,Michigan,26,Ingham,065
+VAMY,United States,Michigan,26,Iosco,069
+VAMY,United States,Michigan,26,Iron,071
+VAMY,United States,Michigan,26,Jackson,075
+VAMY,United States,Michigan,26,Kalamazoo,077
+VAMY,United States,Michigan,26,Kalkaska,079
+VAMY,United States,Michigan,26,Kent,081
+VAMY,United States,Michigan,26,Keweenaw,083
+VAMY,United States,Michigan,26,Leelanau,089
+VAMY,United States,Michigan,26,Livingston,093
+VAMY,United States,Michigan,26,Luce,095
+VAMY,United States,Michigan,26,Mackinac,097
+VAMY,United States,Michigan,26,Manistee,101
+VAMY,United States,Michigan,26,Marquette,103
+VAMY,United States,Michigan,26,Mason,105
+VAMY,United States,Michigan,26,Menominee,109
+VAMY,United States,Michigan,26,Midland,111
+VAMY,United States,Michigan,26,Montmorency,119
+VAMY,United States,Michigan,26,Muskegon,121
+VAMY,United States,Michigan,26,Oakland,125
+VAMY,United States,Michigan,26,Osceola,133
+VAMY,United States,Michigan,26,Oscoda,135
+VAMY,United States,Michigan,26,Otsego,137
+VAMY,United States,Michigan,26,Ottawa,139
+VAMY,United States,Michigan,26,Presque Isle,141
+VAMY,United States,Michigan,26,Roscommon,143
+VAMY,United States,Michigan,26,Schoolcraft,153
+VAMY,United States,Michigan,26,St. Clair,147
+VAMY,United States,Michigan,26,St. Joseph,149
+VAMY,United States,Michigan,26,Washtenaw,161
+VAMY,United States,Michigan,26,Wexford,165
+VAMY,United States,Minnesota,27,,
+VAMY,United States,Minnesota,27,Aitkin,001
+VAMY,United States,Minnesota,27,Anoka,003
+VAMY,United States,Minnesota,27,Beltrami,007
+VAMY,United States,Minnesota,27,Carlton,017
+VAMY,United States,Minnesota,27,Cass,021
+VAMY,United States,Minnesota,27,Chisago,025
+VAMY,United States,Minnesota,27,Clearwater,029
+VAMY,United States,Minnesota,27,Cook,031
+VAMY,United States,Minnesota,27,Crow Wing,035
+VAMY,United States,Minnesota,27,Dakota,037
+VAMY,United States,Minnesota,27,Hubbard,057
+VAMY,United States,Minnesota,27,Isanti,059
+VAMY,United States,Minnesota,27,Itasca,061
+VAMY,United States,Minnesota,27,Kittson,069
+VAMY,United States,Minnesota,27,Koochiching,071
+VAMY,United States,Minnesota,27,Lake,075
+VAMY,United States,Minnesota,27,Lake of the Woods,077
+VAMY,United States,Minnesota,27,Pine,115
+VAMY,United States,Minnesota,27,Roseau,135
+VAMY,United States,Minnesota,27,Sherburne,141
+VAMY,United States,Minnesota,27,St. Louis,137
+VAMY,United States,Minnesota,27,Todd,153
+VAMY,United States,Minnesota,27,Wabasha,157
+VAMY,United States,Minnesota,27,Washington,163
+VAMY,United States,Minnesota,27,Winona,169
+VAMY,United States,Montana,30,,
+VAMY,United States,Montana,30,Carbon,009
+VAMY,United States,Montana,30,Flathead,029
+VAMY,United States,New Hampshire,33,,
+VAMY,United States,New Hampshire,33,Belknap,001
+VAMY,United States,New Hampshire,33,Carroll,003
+VAMY,United States,New Hampshire,33,Cheshire,005
+VAMY,United States,New Hampshire,33,Coos,007
+VAMY,United States,New Hampshire,33,Grafton,009
+VAMY,United States,New Hampshire,33,Hillsborough,011
+VAMY,United States,New Hampshire,33,Merrimack,013
+VAMY,United States,New Hampshire,33,Rockingham,015
+VAMY,United States,New Hampshire,33,Strafford,017
+VAMY,United States,New Hampshire,33,Sullivan,019
+VAMY,United States,New York,36,,
+VAMY,United States,New York,36,Allegany,003
+VAMY,United States,New York,36,Cattaraugus,009
+VAMY,United States,New York,36,Chenango,017
+VAMY,United States,New York,36,Clinton,019
+VAMY,United States,New York,36,Columbia,021
+VAMY,United States,New York,36,Cortland,023
+VAMY,United States,New York,36,Delaware,025
+VAMY,United States,New York,36,Dutchess,027
+VAMY,United States,New York,36,Erie,029
+VAMY,United States,New York,36,Essex,031
+VAMY,United States,New York,36,Franklin,033
+VAMY,United States,New York,36,Genesee,037
+VAMY,United States,New York,36,Greene,039
+VAMY,United States,New York,36,Hamilton,041
+VAMY,United States,New York,36,Herkimer,043
+VAMY,United States,New York,36,Jefferson,045
+VAMY,United States,New York,36,Lewis,049
+VAMY,United States,New York,36,Madison,053
+VAMY,United States,New York,36,Monroe,055
+VAMY,United States,New York,36,Oneida,065
+VAMY,United States,New York,36,Orange,071
+VAMY,United States,New York,36,Oswego,075
+VAMY,United States,New York,36,Rensselaer,083
+VAMY,United States,New York,36,St. Lawrence,089
+VAMY,United States,New York,36,Tioga,107
+VAMY,United States,New York,36,Tompkins,109
+VAMY,United States,New York,36,Ulster,111
+VAMY,United States,New York,36,Warren,113
+VAMY,United States,New York,36,Wyoming,121
+VAMY,United States,North Carolina,37,,
+VAMY,United States,Ohio,39,,
+VAMY,United States,Ohio,39,Ashtabula,007
+VAMY,United States,Ohio,39,Geauga,055
+VAMY,United States,Pennsylvania,42,,
+VAMY,United States,Pennsylvania,42,Beaver,007
+VAMY,United States,Pennsylvania,42,Bedford,009
+VAMY,United States,Pennsylvania,42,Carbon,025
+VAMY,United States,Pennsylvania,42,Centre,027
+VAMY,United States,Pennsylvania,42,Clinton,035
+VAMY,United States,Pennsylvania,42,Crawford,039
+VAMY,United States,Pennsylvania,42,Erie,049
+VAMY,United States,Pennsylvania,42,Lackawanna,069
+VAMY,United States,Pennsylvania,42,Lancaster,071
+VAMY,United States,Pennsylvania,42,Lebanon,075
+VAMY,United States,Pennsylvania,42,Lehigh,077
+VAMY,United States,Pennsylvania,42,Lycoming,081
+VAMY,United States,Pennsylvania,42,McKean,083
+VAMY,United States,Pennsylvania,42,Mercer,085
+VAMY,United States,Pennsylvania,42,Monroe,089
+VAMY,United States,Pennsylvania,42,Northampton,095
+VAMY,United States,Pennsylvania,42,Northumberland,097
+VAMY,United States,Pennsylvania,42,Pike,103
+VAMY,United States,Pennsylvania,42,Somerset,111
+VAMY,United States,Pennsylvania,42,Sullivan,113
+VAMY,United States,Pennsylvania,42,Tioga,117
+VAMY,United States,Pennsylvania,42,Venango,121
+VAMY,United States,Pennsylvania,42,Warren,123
+VAMY,United States,Pennsylvania,42,Wyoming,131
+VAMY,United States,Vermont,50,,
+VAMY,United States,Vermont,50,Addison,001
+VAMY,United States,Vermont,50,Bennington,003
+VAMY,United States,Vermont,50,Caledonia,005
+VAMY,United States,Vermont,50,Essex,009
+VAMY,United States,Vermont,50,Lamoille,015
+VAMY,United States,Vermont,50,Orange,017
+VAMY,United States,Vermont,50,Orleans,019
+VAMY,United States,Vermont,50,Rutland,021
+VAMY,United States,Vermont,50,Washington,023
+VAMY,United States,Vermont,50,Windham,025
+VAMY,United States,Vermont,50,Windsor,027
+VAMY,United States,Virginia,51,,
+VAMY,United States,Virginia,51,Frederick,069
+VAMY,United States,Virginia,51,Highland,091
+VAMY,United States,Virginia,51,Page,139
+VAMY,United States,Virginia,51,Pulaski,155
+VAMY,United States,Virginia,51,Roanoke,161
+VAMY,United States,Virginia,51,Rockbridge,163
+VAMY,United States,Virginia,51,Rockingham,165
+VAMY,United States,Washington,53,,
+VAMY,United States,Washington,53,Okanogan,047
+VAMY,United States,West Virginia,54,,
+VAMY,United States,West Virginia,54,Fayette,019
+VAMY,United States,West Virginia,54,Grant,023
+VAMY,United States,West Virginia,54,Hampshire,027
+VAMY,United States,West Virginia,54,Monroe,063
+VAMY,United States,West Virginia,54,Pendleton,071
+VAMY,United States,West Virginia,54,Pocahontas,075
+VAMY,United States,West Virginia,54,Preston,077
+VAMY,United States,West Virginia,54,Randolph,083
+VAMY,United States,West Virginia,54,Tucker,093
+VAMY,United States,Wisconsin,55,,
+VAMY,United States,Wisconsin,55,Adams,001
+VAMY,United States,Wisconsin,55,Ashland,003
+VAMY,United States,Wisconsin,55,Barron,005
+VAMY,United States,Wisconsin,55,Bayfield,007
+VAMY,United States,Wisconsin,55,Brown,009
+VAMY,United States,Wisconsin,55,Burnett,013
+VAMY,United States,Wisconsin,55,Chippewa,017
+VAMY,United States,Wisconsin,55,Columbia,021
+VAMY,United States,Wisconsin,55,Dane,025
+VAMY,United States,Wisconsin,55,Door,029
+VAMY,United States,Wisconsin,55,Douglas,031
+VAMY,United States,Wisconsin,55,Dunn,033
+VAMY,United States,Wisconsin,55,Eau Claire,035
+VAMY,United States,Wisconsin,55,Florence,037
+VAMY,United States,Wisconsin,55,Fond du Lac,039
+VAMY,United States,Wisconsin,55,Forest,041
+VAMY,United States,Wisconsin,55,Green,045
+VAMY,United States,Wisconsin,55,Iowa,049
+VAMY,United States,Wisconsin,55,Iron,051
+VAMY,United States,Wisconsin,55,Jackson,053
+VAMY,United States,Wisconsin,55,Jefferson,055
+VAMY,United States,Wisconsin,55,Kewaunee,061
+VAMY,United States,Wisconsin,55,Lafayette,065
+VAMY,United States,Wisconsin,55,Langlade,067
+VAMY,United States,Wisconsin,55,Lincoln,069
+VAMY,United States,Wisconsin,55,Manitowoc,071
+VAMY,United States,Wisconsin,55,Marathon,073
+VAMY,United States,Wisconsin,55,Marinette,075
+VAMY,United States,Wisconsin,55,Milwaukee,079
+VAMY,United States,Wisconsin,55,Oconto,083
+VAMY,United States,Wisconsin,55,Oneida,085
+VAMY,United States,Wisconsin,55,Outagamie,087
+VAMY,United States,Wisconsin,55,Ozaukee,089
+VAMY,United States,Wisconsin,55,Price,099
+VAMY,United States,Wisconsin,55,Racine,101
+VAMY,United States,Wisconsin,55,Richland,103
+VAMY,United States,Wisconsin,55,Rock,105
+VAMY,United States,Wisconsin,55,Rusk,107
+VAMY,United States,Wisconsin,55,Sauk,111
+VAMY,United States,Wisconsin,55,Sawyer,113
+VAMY,United States,Wisconsin,55,Shawano,115
+VAMY,United States,Wisconsin,55,Sheboygan,117
+VAMY,United States,Wisconsin,55,Taylor,119
+VAMY,United States,Wisconsin,55,Trempealeau,121
+VAMY,United States,Wisconsin,55,Vernon,123
+VAMY,United States,Wisconsin,55,Vilas,125
+VAMY,United States,Wisconsin,55,Walworth,127
+VAMY,United States,Wisconsin,55,Washburn,129
+VAMY,United States,Wisconsin,55,Washington,131
+VAMY,United States,Wisconsin,55,Waukesha,133
+VAMY,Canada,Labrador,LB,,

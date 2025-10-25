@@ -1,0 +1,98 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+RHCA6,Canada,New Brunswick,04,,
+RHCA6,Canada,Nova Scotia,07,,
+RHCA6,Canada,Ontario,08,,
+RHCA6,Canada,Prince Edward Island,09,,
+RHCA6,United States,Connecticut,09,,
+RHCA6,United States,Connecticut,09,Fairfield,001
+RHCA6,United States,Connecticut,09,Hartford,003
+RHCA6,United States,Connecticut,09,Middlesex,007
+RHCA6,United States,Connecticut,09,New Haven,009
+RHCA6,United States,Connecticut,09,New London,011
+RHCA6,United States,Connecticut,09,Tolland,013
+RHCA6,United States,Connecticut,09,Windham,015
+RHCA6,Canada,Quebec,10,,
+RHCA6,United States,Maine,23,,
+RHCA6,United States,Maine,23,Androscoggin,001
+RHCA6,United States,Maine,23,Aroostook,003
+RHCA6,United States,Maine,23,Cumberland,005
+RHCA6,United States,Maine,23,Franklin,007
+RHCA6,United States,Maine,23,Hancock,009
+RHCA6,United States,Maine,23,Kennebec,011
+RHCA6,United States,Maine,23,Knox,013
+RHCA6,United States,Maine,23,Lincoln,015
+RHCA6,United States,Maine,23,Oxford,017
+RHCA6,United States,Maine,23,Penobscot,019
+RHCA6,United States,Maine,23,Piscataquis,021
+RHCA6,United States,Maine,23,Sagadahoc,023
+RHCA6,United States,Maine,23,Somerset,025
+RHCA6,United States,Maine,23,Waldo,027
+RHCA6,United States,Maine,23,Washington,029
+RHCA6,United States,Maine,23,York,031
+RHCA6,United States,Massachusetts,25,,
+RHCA6,United States,Massachusetts,25,Barnstable,001
+RHCA6,United States,Massachusetts,25,Berkshire,003
+RHCA6,United States,Massachusetts,25,Bristol,005
+RHCA6,United States,Massachusetts,25,Essex,009
+RHCA6,United States,Massachusetts,25,Franklin,011
+RHCA6,United States,Massachusetts,25,Hampden,013
+RHCA6,United States,Massachusetts,25,Hampshire,015
+RHCA6,United States,Massachusetts,25,Middlesex,017
+RHCA6,United States,Massachusetts,25,Norfolk,021
+RHCA6,United States,Massachusetts,25,Plymouth,023
+RHCA6,United States,Massachusetts,25,Suffolk,025
+RHCA6,United States,Massachusetts,25,Worcester,027
+RHCA6,United States,New Hampshire,33,,
+RHCA6,United States,New Hampshire,33,Belknap,001
+RHCA6,United States,New Hampshire,33,Carroll,003
+RHCA6,United States,New Hampshire,33,Cheshire,005
+RHCA6,United States,New Hampshire,33,Coos,007
+RHCA6,United States,New Hampshire,33,Grafton,009
+RHCA6,United States,New Hampshire,33,Hillsborough,011
+RHCA6,United States,New Hampshire,33,Merrimack,013
+RHCA6,United States,New Hampshire,33,Rockingham,015
+RHCA6,United States,New Hampshire,33,Strafford,017
+RHCA6,United States,New Hampshire,33,Sullivan,019
+RHCA6,United States,New Jersey,34,,
+RHCA6,United States,New Jersey,34,Bergen,003
+RHCA6,United States,New Jersey,34,Middlesex,023
+RHCA6,United States,New Jersey,34,Morris,027
+RHCA6,United States,New Jersey,34,Sussex,037
+RHCA6,United States,New Jersey,34,Warren,041
+RHCA6,United States,New York,36,,
+RHCA6,United States,New York,36,Essex,031
+RHCA6,United States,New York,36,Franklin,033
+RHCA6,United States,New York,36,Herkimer,043
+RHCA6,United States,New York,36,Lewis,049
+RHCA6,United States,New York,36,Oneida,065
+RHCA6,United States,New York,36,Orange,071
+RHCA6,United States,New York,36,Putnam,079
+RHCA6,United States,New York,36,Rensselaer,083
+RHCA6,United States,New York,36,St. Lawrence,089
+RHCA6,United States,New York,36,Ulster,111
+RHCA6,United States,New York,36,Warren,113
+RHCA6,United States,New York,36,Westchester,119
+RHCA6,United States,Pennsylvania,42,,
+RHCA6,United States,Pennsylvania,42,Carbon,025
+RHCA6,United States,Pennsylvania,42,Lackawanna,069
+RHCA6,United States,Pennsylvania,42,Luzerne,079
+RHCA6,United States,Pennsylvania,42,Monroe,089
+RHCA6,United States,Pennsylvania,42,Pike,103
+RHCA6,United States,Pennsylvania,42,Snyder,109
+RHCA6,United States,Pennsylvania,42,Susquehanna,115
+RHCA6,United States,Pennsylvania,42,Wayne,127
+RHCA6,United States,Rhode Island,44,,
+RHCA6,United States,Rhode Island,44,Kent,003
+RHCA6,United States,Rhode Island,44,Providence,007
+RHCA6,United States,Vermont,50,,
+RHCA6,United States,Vermont,50,Caledonia,005
+RHCA6,United States,Vermont,50,Chittenden,007
+RHCA6,United States,Vermont,50,Essex,009
+RHCA6,United States,Vermont,50,Franklin,011
+RHCA6,United States,Vermont,50,Lamoille,015
+RHCA6,United States,Vermont,50,Orleans,019
+RHCA6,United States,Vermont,50,Windham,025
+RHCA6,United States,Vermont,50,Windsor,027
+RHCA6,Canada,Labrador,LB,,
+RHCA6,Canada,Newfoundland,NF,,

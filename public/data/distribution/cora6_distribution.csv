@@ -1,0 +1,759 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+CORA6,Canada,Manitoba,03,,
+CORA6,United States,Arkansas,05,,
+CORA6,United States,Arkansas,05,Baxter,005
+CORA6,United States,Arkansas,05,Benton,007
+CORA6,United States,Arkansas,05,Carroll,015
+CORA6,United States,Arkansas,05,Madison,087
+CORA6,United States,Arkansas,05,Marion,089
+CORA6,United States,Arkansas,05,Randolph,121
+CORA6,United States,Arkansas,05,Washington,143
+CORA6,Canada,Ontario,08,,
+CORA6,United States,Connecticut,09,,
+CORA6,United States,Connecticut,09,Fairfield,001
+CORA6,United States,Connecticut,09,Hartford,003
+CORA6,United States,Connecticut,09,Litchfield,005
+CORA6,United States,Connecticut,09,Middlesex,007
+CORA6,United States,Connecticut,09,New Haven,009
+CORA6,United States,Connecticut,09,New London,011
+CORA6,United States,Connecticut,09,Tolland,013
+CORA6,United States,Connecticut,09,Windham,015
+CORA6,Canada,Quebec,10,,
+CORA6,United States,Delaware,10,,
+CORA6,United States,Delaware,10,New Castle,003
+CORA6,United States,Illinois,17,,
+CORA6,United States,Illinois,17,Adams,001
+CORA6,United States,Illinois,17,Alexander,003
+CORA6,United States,Illinois,17,Boone,007
+CORA6,United States,Illinois,17,Brown,009
+CORA6,United States,Illinois,17,Calhoun,013
+CORA6,United States,Illinois,17,Carroll,015
+CORA6,United States,Illinois,17,Cass,017
+CORA6,United States,Illinois,17,Champaign,019
+CORA6,United States,Illinois,17,Clark,023
+CORA6,United States,Illinois,17,Clay,025
+CORA6,United States,Illinois,17,Coles,029
+CORA6,United States,Illinois,17,Cook,031
+CORA6,United States,Illinois,17,Crawford,033
+CORA6,United States,Illinois,17,Cumberland,035
+CORA6,United States,Illinois,17,De Witt,039
+CORA6,United States,Illinois,17,DeKalb,037
+CORA6,United States,Illinois,17,Douglas,041
+CORA6,United States,Illinois,17,DuPage,043
+CORA6,United States,Illinois,17,Edgar,045
+CORA6,United States,Illinois,17,Effingham,049
+CORA6,United States,Illinois,17,Fayette,051
+CORA6,United States,Illinois,17,Fulton,057
+CORA6,United States,Illinois,17,Greene,061
+CORA6,United States,Illinois,17,Grundy,063
+CORA6,United States,Illinois,17,Hamilton,065
+CORA6,United States,Illinois,17,Hancock,067
+CORA6,United States,Illinois,17,Henderson,071
+CORA6,United States,Illinois,17,Henry,073
+CORA6,United States,Illinois,17,Iroquois,075
+CORA6,United States,Illinois,17,Jackson,077
+CORA6,United States,Illinois,17,Jasper,079
+CORA6,United States,Illinois,17,Jersey,083
+CORA6,United States,Illinois,17,Jo Daviess,085
+CORA6,United States,Illinois,17,Johnson,087
+CORA6,United States,Illinois,17,Kane,089
+CORA6,United States,Illinois,17,Kankakee,091
+CORA6,United States,Illinois,17,Kendall,093
+CORA6,United States,Illinois,17,Knox,095
+CORA6,United States,Illinois,17,Lake,097
+CORA6,United States,Illinois,17,LaSalle,099
+CORA6,United States,Illinois,17,Lawrence,101
+CORA6,United States,Illinois,17,Lee,103
+CORA6,United States,Illinois,17,Livingston,105
+CORA6,United States,Illinois,17,Logan,107
+CORA6,United States,Illinois,17,Macon,115
+CORA6,United States,Illinois,17,Macoupin,117
+CORA6,United States,Illinois,17,Madison,119
+CORA6,United States,Illinois,17,Marion,121
+CORA6,United States,Illinois,17,Marshall,123
+CORA6,United States,Illinois,17,Mason,125
+CORA6,United States,Illinois,17,Massac,127
+CORA6,United States,Illinois,17,McDonough,109
+CORA6,United States,Illinois,17,McHenry,111
+CORA6,United States,Illinois,17,McLean,113
+CORA6,United States,Illinois,17,Menard,129
+CORA6,United States,Illinois,17,Mercer,131
+CORA6,United States,Illinois,17,Monroe,133
+CORA6,United States,Illinois,17,Montgomery,135
+CORA6,United States,Illinois,17,Moultrie,139
+CORA6,United States,Illinois,17,Ogle,141
+CORA6,United States,Illinois,17,Peoria,143
+CORA6,United States,Illinois,17,Perry,145
+CORA6,United States,Illinois,17,Piatt,147
+CORA6,United States,Illinois,17,Pike,149
+CORA6,United States,Illinois,17,Pope,151
+CORA6,United States,Illinois,17,Putnam,155
+CORA6,United States,Illinois,17,Randolph,157
+CORA6,United States,Illinois,17,Richland,159
+CORA6,United States,Illinois,17,Rock Island,161
+CORA6,United States,Illinois,17,Sangamon,167
+CORA6,United States,Illinois,17,Schuyler,169
+CORA6,United States,Illinois,17,Shelby,173
+CORA6,United States,Illinois,17,St. Clair,163
+CORA6,United States,Illinois,17,Stark,175
+CORA6,United States,Illinois,17,Stephenson,177
+CORA6,United States,Illinois,17,Tazewell,179
+CORA6,United States,Illinois,17,Union,181
+CORA6,United States,Illinois,17,Vermilion,183
+CORA6,United States,Illinois,17,Wabash,185
+CORA6,United States,Illinois,17,Warren,187
+CORA6,United States,Illinois,17,Washington,189
+CORA6,United States,Illinois,17,Wayne,191
+CORA6,United States,Illinois,17,White,193
+CORA6,United States,Illinois,17,Whiteside,195
+CORA6,United States,Illinois,17,Will,197
+CORA6,United States,Illinois,17,Williamson,199
+CORA6,United States,Illinois,17,Winnebago,201
+CORA6,United States,Illinois,17,Woodford,203
+CORA6,United States,Indiana,18,,
+CORA6,United States,Indiana,18,Adams,001
+CORA6,United States,Indiana,18,Allen,003
+CORA6,United States,Indiana,18,Benton,007
+CORA6,United States,Indiana,18,Boone,011
+CORA6,United States,Indiana,18,Carroll,015
+CORA6,United States,Indiana,18,Cass,017
+CORA6,United States,Indiana,18,Decatur,031
+CORA6,United States,Indiana,18,DeKalb,033
+CORA6,United States,Indiana,18,Delaware,035
+CORA6,United States,Indiana,18,Dubois,037
+CORA6,United States,Indiana,18,Elkhart,039
+CORA6,United States,Indiana,18,Fountain,045
+CORA6,United States,Indiana,18,Fulton,049
+CORA6,United States,Indiana,18,Gibson,051
+CORA6,United States,Indiana,18,Grant,053
+CORA6,United States,Indiana,18,Hamilton,057
+CORA6,United States,Indiana,18,Hancock,059
+CORA6,United States,Indiana,18,Harrison,061
+CORA6,United States,Indiana,18,Hendricks,063
+CORA6,United States,Indiana,18,Henry,065
+CORA6,United States,Indiana,18,Howard,067
+CORA6,United States,Indiana,18,Huntington,069
+CORA6,United States,Indiana,18,Jasper,073
+CORA6,United States,Indiana,18,Jay,075
+CORA6,United States,Indiana,18,Jefferson,077
+CORA6,United States,Indiana,18,Jennings,079
+CORA6,United States,Indiana,18,Knox,083
+CORA6,United States,Indiana,18,Kosciusko,085
+CORA6,United States,Indiana,18,Lagrange,087
+CORA6,United States,Indiana,18,Lake,089
+CORA6,United States,Indiana,18,LaPorte,091
+CORA6,United States,Indiana,18,Lawrence,093
+CORA6,United States,Indiana,18,Madison,095
+CORA6,United States,Indiana,18,Marshall,099
+CORA6,United States,Indiana,18,Monroe,105
+CORA6,United States,Indiana,18,Montgomery,107
+CORA6,United States,Indiana,18,Newton,111
+CORA6,United States,Indiana,18,Noble,113
+CORA6,United States,Indiana,18,Orange,117
+CORA6,United States,Indiana,18,Parke,121
+CORA6,United States,Indiana,18,Porter,127
+CORA6,United States,Indiana,18,Pulaski,131
+CORA6,United States,Indiana,18,Putnam,133
+CORA6,United States,Indiana,18,Scott,143
+CORA6,United States,Indiana,18,Spencer,147
+CORA6,United States,Indiana,18,St. Joseph,141
+CORA6,United States,Indiana,18,Starke,149
+CORA6,United States,Indiana,18,Steuben,151
+CORA6,United States,Indiana,18,Sullivan,153
+CORA6,United States,Indiana,18,Tippecanoe,157
+CORA6,United States,Indiana,18,Tipton,159
+CORA6,United States,Indiana,18,Vigo,167
+CORA6,United States,Indiana,18,Wabash,169
+CORA6,United States,Indiana,18,Warrick,173
+CORA6,United States,Indiana,18,Wayne,177
+CORA6,United States,Indiana,18,Wells,179
+CORA6,United States,Indiana,18,White,181
+CORA6,United States,Indiana,18,Whitley,183
+CORA6,United States,Iowa,19,,
+CORA6,United States,Iowa,19,Adams,003
+CORA6,United States,Iowa,19,Audubon,009
+CORA6,United States,Iowa,19,Cherokee,035
+CORA6,United States,Iowa,19,Crawford,047
+CORA6,United States,Iowa,19,Guthrie,077
+CORA6,United States,Iowa,19,Madison,121
+CORA6,United States,Iowa,19,Pottawattamie,155
+CORA6,United States,Iowa,19,Ringgold,159
+CORA6,United States,Iowa,19,Shelby,165
+CORA6,United States,Iowa,19,Tama,171
+CORA6,United States,Iowa,19,Washington,183
+CORA6,United States,Kentucky,21,,
+CORA6,United States,Kentucky,21,Breathitt,025
+CORA6,United States,Kentucky,21,Estill,065
+CORA6,United States,Kentucky,21,Grayson,085
+CORA6,United States,Kentucky,21,Hardin,093
+CORA6,United States,Kentucky,21,McCreary,147
+CORA6,United States,Kentucky,21,Menifee,165
+CORA6,United States,Kentucky,21,Ohio,183
+CORA6,United States,Kentucky,21,Powell,197
+CORA6,United States,Kentucky,21,Rowan,205
+CORA6,United States,Maine,23,,
+CORA6,United States,Maine,23,Cumberland,005
+CORA6,United States,Maine,23,Kennebec,011
+CORA6,United States,Maine,23,Knox,013
+CORA6,United States,Maine,23,Penobscot,019
+CORA6,United States,Maine,23,Somerset,025
+CORA6,United States,Maine,23,York,031
+CORA6,United States,Maryland,24,,
+CORA6,United States,Massachusetts,25,,
+CORA6,United States,Massachusetts,25,Barnstable,001
+CORA6,United States,Massachusetts,25,Berkshire,003
+CORA6,United States,Massachusetts,25,Bristol,005
+CORA6,United States,Massachusetts,25,Dukes,007
+CORA6,United States,Massachusetts,25,Essex,009
+CORA6,United States,Massachusetts,25,Franklin,011
+CORA6,United States,Massachusetts,25,Hampden,013
+CORA6,United States,Massachusetts,25,Hampshire,015
+CORA6,United States,Massachusetts,25,Middlesex,017
+CORA6,United States,Massachusetts,25,Norfolk,021
+CORA6,United States,Massachusetts,25,Plymouth,023
+CORA6,United States,Massachusetts,25,Suffolk,025
+CORA6,United States,Massachusetts,25,Worcester,027
+CORA6,United States,Michigan,26,,
+CORA6,United States,Michigan,26,Allegan,005
+CORA6,United States,Michigan,26,Arenac,011
+CORA6,United States,Michigan,26,Barry,015
+CORA6,United States,Michigan,26,Bay,017
+CORA6,United States,Michigan,26,Benzie,019
+CORA6,United States,Michigan,26,Berrien,021
+CORA6,United States,Michigan,26,Calhoun,025
+CORA6,United States,Michigan,26,Cass,027
+CORA6,United States,Michigan,26,Cheboygan,031
+CORA6,United States,Michigan,26,Clare,035
+CORA6,United States,Michigan,26,Clinton,037
+CORA6,United States,Michigan,26,Crawford,039
+CORA6,United States,Michigan,26,Delta,041
+CORA6,United States,Michigan,26,Eaton,045
+CORA6,United States,Michigan,26,Genesee,049
+CORA6,United States,Michigan,26,Gladwin,051
+CORA6,United States,Michigan,26,Gratiot,057
+CORA6,United States,Michigan,26,Hillsdale,059
+CORA6,United States,Michigan,26,Huron,063
+CORA6,United States,Michigan,26,Ingham,065
+CORA6,United States,Michigan,26,Ionia,067
+CORA6,United States,Michigan,26,Iosco,069
+CORA6,United States,Michigan,26,Isabella,073
+CORA6,United States,Michigan,26,Jackson,075
+CORA6,United States,Michigan,26,Kalamazoo,077
+CORA6,United States,Michigan,26,Kent,081
+CORA6,United States,Michigan,26,Lapeer,087
+CORA6,United States,Michigan,26,Lenawee,091
+CORA6,United States,Michigan,26,Livingston,093
+CORA6,United States,Michigan,26,Luce,095
+CORA6,United States,Michigan,26,Macomb,099
+CORA6,United States,Michigan,26,Marquette,103
+CORA6,United States,Michigan,26,Mason,105
+CORA6,United States,Michigan,26,Mecosta,107
+CORA6,United States,Michigan,26,Menominee,109
+CORA6,United States,Michigan,26,Midland,111
+CORA6,United States,Michigan,26,Monroe,115
+CORA6,United States,Michigan,26,Montcalm,117
+CORA6,United States,Michigan,26,Muskegon,121
+CORA6,United States,Michigan,26,Newaygo,123
+CORA6,United States,Michigan,26,Oakland,125
+CORA6,United States,Michigan,26,Oceana,127
+CORA6,United States,Michigan,26,Ogemaw,129
+CORA6,United States,Michigan,26,Osceola,133
+CORA6,United States,Michigan,26,Oscoda,135
+CORA6,United States,Michigan,26,Presque Isle,141
+CORA6,United States,Michigan,26,Saginaw,145
+CORA6,United States,Michigan,26,Sanilac,151
+CORA6,United States,Michigan,26,Shiawassee,155
+CORA6,United States,Michigan,26,St. Clair,147
+CORA6,United States,Michigan,26,St. Joseph,149
+CORA6,United States,Michigan,26,Van Buren,159
+CORA6,United States,Michigan,26,Washtenaw,161
+CORA6,United States,Michigan,26,Wayne,163
+CORA6,United States,Minnesota,27,,
+CORA6,United States,Minnesota,27,Anoka,003
+CORA6,United States,Minnesota,27,Becker,005
+CORA6,United States,Minnesota,27,Beltrami,007
+CORA6,United States,Minnesota,27,Benton,009
+CORA6,United States,Minnesota,27,Blue Earth,013
+CORA6,United States,Minnesota,27,Brown,015
+CORA6,United States,Minnesota,27,Carlton,017
+CORA6,United States,Minnesota,27,Carver,019
+CORA6,United States,Minnesota,27,Cass,021
+CORA6,United States,Minnesota,27,Chisago,025
+CORA6,United States,Minnesota,27,Clay,027
+CORA6,United States,Minnesota,27,Clearwater,029
+CORA6,United States,Minnesota,27,Crow Wing,035
+CORA6,United States,Minnesota,27,Dakota,037
+CORA6,United States,Minnesota,27,Dodge,039
+CORA6,United States,Minnesota,27,Douglas,041
+CORA6,United States,Minnesota,27,Faribault,043
+CORA6,United States,Minnesota,27,Fillmore,045
+CORA6,United States,Minnesota,27,Freeborn,047
+CORA6,United States,Minnesota,27,Goodhue,049
+CORA6,United States,Minnesota,27,Hennepin,053
+CORA6,United States,Minnesota,27,Houston,055
+CORA6,United States,Minnesota,27,Hubbard,057
+CORA6,United States,Minnesota,27,Jackson,063
+CORA6,United States,Minnesota,27,Kanabec,065
+CORA6,United States,Minnesota,27,Kandiyohi,067
+CORA6,United States,Minnesota,27,Kittson,069
+CORA6,United States,Minnesota,27,Le Sueur,079
+CORA6,United States,Minnesota,27,Mahnomen,087
+CORA6,United States,Minnesota,27,Martin,091
+CORA6,United States,Minnesota,27,McLeod,085
+CORA6,United States,Minnesota,27,Meeker,093
+CORA6,United States,Minnesota,27,Mille Lacs,095
+CORA6,United States,Minnesota,27,Morrison,097
+CORA6,United States,Minnesota,27,Mower,099
+CORA6,United States,Minnesota,27,Norman,107
+CORA6,United States,Minnesota,27,Olmsted,109
+CORA6,United States,Minnesota,27,Otter Tail,111
+CORA6,United States,Minnesota,27,Pine,115
+CORA6,United States,Minnesota,27,Pipestone,117
+CORA6,United States,Minnesota,27,Polk,119
+CORA6,United States,Minnesota,27,Pope,121
+CORA6,United States,Minnesota,27,Ramsey,123
+CORA6,United States,Minnesota,27,Red Lake,125
+CORA6,United States,Minnesota,27,Renville,129
+CORA6,United States,Minnesota,27,Rice,131
+CORA6,United States,Minnesota,27,Scott,139
+CORA6,United States,Minnesota,27,Sherburne,141
+CORA6,United States,Minnesota,27,St. Louis,137
+CORA6,United States,Minnesota,27,Stearns,145
+CORA6,United States,Minnesota,27,Steele,147
+CORA6,United States,Minnesota,27,Todd,153
+CORA6,United States,Minnesota,27,Wabasha,157
+CORA6,United States,Minnesota,27,Waseca,161
+CORA6,United States,Minnesota,27,Washington,163
+CORA6,United States,Minnesota,27,Winona,169
+CORA6,United States,Minnesota,27,Wright,171
+CORA6,United States,Missouri,29,,
+CORA6,United States,Missouri,29,Adair,001
+CORA6,United States,Missouri,29,Audrain,007
+CORA6,United States,Missouri,29,Barry,009
+CORA6,United States,Missouri,29,Boone,019
+CORA6,United States,Missouri,29,Buchanan,021
+CORA6,United States,Missouri,29,Butler,023
+CORA6,United States,Missouri,29,Caldwell,025
+CORA6,United States,Missouri,29,Camden,029
+CORA6,United States,Missouri,29,Cape Girardeau,031
+CORA6,United States,Missouri,29,Chariton,041
+CORA6,United States,Missouri,29,Christian,043
+CORA6,United States,Missouri,29,Clark,045
+CORA6,United States,Missouri,29,Clay,047
+CORA6,United States,Missouri,29,DeKalb,063
+CORA6,United States,Missouri,29,Dent,065
+CORA6,United States,Missouri,29,Dunklin,069
+CORA6,United States,Missouri,29,Gentry,075
+CORA6,United States,Missouri,29,Greene,077
+CORA6,United States,Missouri,29,Grundy,079
+CORA6,United States,Missouri,29,Harrison,081
+CORA6,United States,Missouri,29,Howard,089
+CORA6,United States,Missouri,29,Howell,091
+CORA6,United States,Missouri,29,Iron,093
+CORA6,United States,Missouri,29,Jackson,095
+CORA6,United States,Missouri,29,Jasper,097
+CORA6,United States,Missouri,29,Jefferson,099
+CORA6,United States,Missouri,29,Knox,103
+CORA6,United States,Missouri,29,Lafayette,107
+CORA6,United States,Missouri,29,Lewis,111
+CORA6,United States,Missouri,29,Lincoln,113
+CORA6,United States,Missouri,29,Linn,115
+CORA6,United States,Missouri,29,Livingston,117
+CORA6,United States,Missouri,29,Macon,121
+CORA6,United States,Missouri,29,McDonald,119
+CORA6,United States,Missouri,29,Mercer,129
+CORA6,United States,Missouri,29,Miller,131
+CORA6,United States,Missouri,29,Monroe,137
+CORA6,United States,Missouri,29,Montgomery,139
+CORA6,United States,Missouri,29,Nodaway,147
+CORA6,United States,Missouri,29,Oregon,149
+CORA6,United States,Missouri,29,Osage,151
+CORA6,United States,Missouri,29,Ozark,153
+CORA6,United States,Missouri,29,Phelps,161
+CORA6,United States,Missouri,29,Pike,163
+CORA6,United States,Missouri,29,Putnam,171
+CORA6,United States,Missouri,29,Randolph,175
+CORA6,United States,Missouri,29,Ray,177
+CORA6,United States,Missouri,29,Reynolds,179
+CORA6,United States,Missouri,29,Schuyler,197
+CORA6,United States,Missouri,29,Scotland,199
+CORA6,United States,Missouri,29,Shannon,203
+CORA6,United States,Missouri,29,Shelby,205
+CORA6,United States,Missouri,29,St. Charles,183
+CORA6,United States,Missouri,29,St. Francois,187
+CORA6,United States,Missouri,29,St. Louis,189
+CORA6,United States,Missouri,29,Ste. Genevieve,186
+CORA6,United States,Missouri,29,Stoddard,207
+CORA6,United States,Missouri,29,Stone,209
+CORA6,United States,Missouri,29,Sullivan,211
+CORA6,United States,Missouri,29,Taney,213
+CORA6,United States,Missouri,29,Texas,215
+CORA6,United States,Missouri,29,Vernon,217
+CORA6,United States,Missouri,29,Washington,221
+CORA6,United States,Missouri,29,Webster,225
+CORA6,United States,Missouri,29,Worth,227
+CORA6,United States,Missouri,29,Wright,229
+CORA6,United States,Nebraska,31,,
+CORA6,United States,Nebraska,31,Burt,021
+CORA6,United States,Nebraska,31,Cedar,027
+CORA6,United States,Nebraska,31,Knox,107
+CORA6,United States,New Hampshire,33,,
+CORA6,United States,New Hampshire,33,Cheshire,005
+CORA6,United States,New Hampshire,33,Grafton,009
+CORA6,United States,New Hampshire,33,Hillsborough,011
+CORA6,United States,New Hampshire,33,Merrimack,013
+CORA6,United States,New Hampshire,33,Rockingham,015
+CORA6,United States,New Hampshire,33,Strafford,017
+CORA6,United States,New Jersey,34,,
+CORA6,United States,New Jersey,34,Bergen,003
+CORA6,United States,New Jersey,34,Burlington,005
+CORA6,United States,New Jersey,34,Camden,007
+CORA6,United States,New Jersey,34,Cape May,009
+CORA6,United States,New Jersey,34,Essex,013
+CORA6,United States,New Jersey,34,Gloucester,015
+CORA6,United States,New Jersey,34,Hudson,017
+CORA6,United States,New Jersey,34,Hunterdon,019
+CORA6,United States,New Jersey,34,Mercer,021
+CORA6,United States,New Jersey,34,Middlesex,023
+CORA6,United States,New Jersey,34,Monmouth,025
+CORA6,United States,New Jersey,34,Morris,027
+CORA6,United States,New Jersey,34,Ocean,029
+CORA6,United States,New Jersey,34,Passaic,031
+CORA6,United States,New Jersey,34,Salem,033
+CORA6,United States,New Jersey,34,Somerset,035
+CORA6,United States,New Jersey,34,Sussex,037
+CORA6,United States,New Jersey,34,Union,039
+CORA6,United States,New Jersey,34,Warren,041
+CORA6,United States,New York,36,,
+CORA6,United States,New York,36,Albany,001
+CORA6,United States,New York,36,Bronx,005
+CORA6,United States,New York,36,Broome,007
+CORA6,United States,New York,36,Cattaraugus,009
+CORA6,United States,New York,36,Cayuga,011
+CORA6,United States,New York,36,Chemung,015
+CORA6,United States,New York,36,Columbia,021
+CORA6,United States,New York,36,Delaware,025
+CORA6,United States,New York,36,Dutchess,027
+CORA6,United States,New York,36,Erie,029
+CORA6,United States,New York,36,Essex,031
+CORA6,United States,New York,36,Genesee,037
+CORA6,United States,New York,36,Greene,039
+CORA6,United States,New York,36,Jefferson,045
+CORA6,United States,New York,36,Kings,047
+CORA6,United States,New York,36,Livingston,051
+CORA6,United States,New York,36,Madison,053
+CORA6,United States,New York,36,Monroe,055
+CORA6,United States,New York,36,Montgomery,057
+CORA6,United States,New York,36,Nassau,059
+CORA6,United States,New York,36,New York,061
+CORA6,United States,New York,36,Niagara,063
+CORA6,United States,New York,36,Oneida,065
+CORA6,United States,New York,36,Onondaga,067
+CORA6,United States,New York,36,Ontario,069
+CORA6,United States,New York,36,Orange,071
+CORA6,United States,New York,36,Orleans,073
+CORA6,United States,New York,36,Putnam,079
+CORA6,United States,New York,36,Queens,081
+CORA6,United States,New York,36,Rensselaer,083
+CORA6,United States,New York,36,Richmond,085
+CORA6,United States,New York,36,Rockland,087
+CORA6,United States,New York,36,Saratoga,091
+CORA6,United States,New York,36,Schuyler,097
+CORA6,United States,New York,36,St. Lawrence,089
+CORA6,United States,New York,36,Suffolk,103
+CORA6,United States,New York,36,Sullivan,105
+CORA6,United States,New York,36,Tompkins,109
+CORA6,United States,New York,36,Ulster,111
+CORA6,United States,New York,36,Warren,113
+CORA6,United States,New York,36,Washington,115
+CORA6,United States,New York,36,Westchester,119
+CORA6,United States,New York,36,Yates,123
+CORA6,United States,North Carolina,37,,
+CORA6,United States,North Carolina,37,Orange,135
+CORA6,United States,North Dakota,38,,
+CORA6,United States,North Dakota,38,Barnes,003
+CORA6,United States,North Dakota,38,Cass,017
+CORA6,United States,North Dakota,38,Pembina,067
+CORA6,United States,North Dakota,38,Ransom,073
+CORA6,United States,North Dakota,38,Richland,077
+CORA6,United States,North Dakota,38,Stutsman,093
+CORA6,United States,Ohio,39,,
+CORA6,United States,Ohio,39,Adams,001
+CORA6,United States,Ohio,39,Allen,003
+CORA6,United States,Ohio,39,Ashland,005
+CORA6,United States,Ohio,39,Ashtabula,007
+CORA6,United States,Ohio,39,Auglaize,011
+CORA6,United States,Ohio,39,Belmont,013
+CORA6,United States,Ohio,39,Carroll,019
+CORA6,United States,Ohio,39,Champaign,021
+CORA6,United States,Ohio,39,Clark,023
+CORA6,United States,Ohio,39,Clinton,027
+CORA6,United States,Ohio,39,Columbiana,029
+CORA6,United States,Ohio,39,Coshocton,031
+CORA6,United States,Ohio,39,Crawford,033
+CORA6,United States,Ohio,39,Cuyahoga,035
+CORA6,United States,Ohio,39,Darke,037
+CORA6,United States,Ohio,39,Defiance,039
+CORA6,United States,Ohio,39,Delaware,041
+CORA6,United States,Ohio,39,Erie,043
+CORA6,United States,Ohio,39,Fairfield,045
+CORA6,United States,Ohio,39,Franklin,049
+CORA6,United States,Ohio,39,Fulton,051
+CORA6,United States,Ohio,39,Geauga,055
+CORA6,United States,Ohio,39,Greene,057
+CORA6,United States,Ohio,39,Guernsey,059
+CORA6,United States,Ohio,39,Hamilton,061
+CORA6,United States,Ohio,39,Hancock,063
+CORA6,United States,Ohio,39,Hardin,065
+CORA6,United States,Ohio,39,Harrison,067
+CORA6,United States,Ohio,39,Henry,069
+CORA6,United States,Ohio,39,Highland,071
+CORA6,United States,Ohio,39,Hocking,073
+CORA6,United States,Ohio,39,Holmes,075
+CORA6,United States,Ohio,39,Huron,077
+CORA6,United States,Ohio,39,Jackson,079
+CORA6,United States,Ohio,39,Jefferson,081
+CORA6,United States,Ohio,39,Knox,083
+CORA6,United States,Ohio,39,Lake,085
+CORA6,United States,Ohio,39,Licking,089
+CORA6,United States,Ohio,39,Logan,091
+CORA6,United States,Ohio,39,Lorain,093
+CORA6,United States,Ohio,39,Lucas,095
+CORA6,United States,Ohio,39,Madison,097
+CORA6,United States,Ohio,39,Mahoning,099
+CORA6,United States,Ohio,39,Marion,101
+CORA6,United States,Ohio,39,Medina,103
+CORA6,United States,Ohio,39,Mercer,107
+CORA6,United States,Ohio,39,Miami,109
+CORA6,United States,Ohio,39,Monroe,111
+CORA6,United States,Ohio,39,Morrow,117
+CORA6,United States,Ohio,39,Muskingum,119
+CORA6,United States,Ohio,39,Noble,121
+CORA6,United States,Ohio,39,Ottawa,123
+CORA6,United States,Ohio,39,Paulding,125
+CORA6,United States,Ohio,39,Perry,127
+CORA6,United States,Ohio,39,Pickaway,129
+CORA6,United States,Ohio,39,Pike,131
+CORA6,United States,Ohio,39,Portage,133
+CORA6,United States,Ohio,39,Putnam,137
+CORA6,United States,Ohio,39,Richland,139
+CORA6,United States,Ohio,39,Ross,141
+CORA6,United States,Ohio,39,Sandusky,143
+CORA6,United States,Ohio,39,Scioto,145
+CORA6,United States,Ohio,39,Seneca,147
+CORA6,United States,Ohio,39,Stark,151
+CORA6,United States,Ohio,39,Summit,153
+CORA6,United States,Ohio,39,Trumbull,155
+CORA6,United States,Ohio,39,Tuscarawas,157
+CORA6,United States,Ohio,39,Union,159
+CORA6,United States,Ohio,39,Van Wert,161
+CORA6,United States,Ohio,39,Vinton,163
+CORA6,United States,Ohio,39,Warren,165
+CORA6,United States,Ohio,39,Wayne,169
+CORA6,United States,Ohio,39,Williams,171
+CORA6,United States,Ohio,39,Wood,173
+CORA6,United States,Ohio,39,Wyandot,175
+CORA6,United States,Pennsylvania,42,,
+CORA6,United States,Pennsylvania,42,Adams,001
+CORA6,United States,Pennsylvania,42,Allegheny,003
+CORA6,United States,Pennsylvania,42,Armstrong,005
+CORA6,United States,Pennsylvania,42,Beaver,007
+CORA6,United States,Pennsylvania,42,Bedford,009
+CORA6,United States,Pennsylvania,42,Berks,011
+CORA6,United States,Pennsylvania,42,Blair,013
+CORA6,United States,Pennsylvania,42,Bradford,015
+CORA6,United States,Pennsylvania,42,Bucks,017
+CORA6,United States,Pennsylvania,42,Butler,019
+CORA6,United States,Pennsylvania,42,Cambria,021
+CORA6,United States,Pennsylvania,42,Cameron,023
+CORA6,United States,Pennsylvania,42,Carbon,025
+CORA6,United States,Pennsylvania,42,Centre,027
+CORA6,United States,Pennsylvania,42,Chester,029
+CORA6,United States,Pennsylvania,42,Clarion,031
+CORA6,United States,Pennsylvania,42,Clearfield,033
+CORA6,United States,Pennsylvania,42,Clinton,035
+CORA6,United States,Pennsylvania,42,Columbia,037
+CORA6,United States,Pennsylvania,42,Crawford,039
+CORA6,United States,Pennsylvania,42,Cumberland,041
+CORA6,United States,Pennsylvania,42,Dauphin,043
+CORA6,United States,Pennsylvania,42,Delaware,045
+CORA6,United States,Pennsylvania,42,Elk,047
+CORA6,United States,Pennsylvania,42,Erie,049
+CORA6,United States,Pennsylvania,42,Fayette,051
+CORA6,United States,Pennsylvania,42,Forest,053
+CORA6,United States,Pennsylvania,42,Franklin,055
+CORA6,United States,Pennsylvania,42,Fulton,057
+CORA6,United States,Pennsylvania,42,Huntingdon,061
+CORA6,United States,Pennsylvania,42,Indiana,063
+CORA6,United States,Pennsylvania,42,Jefferson,065
+CORA6,United States,Pennsylvania,42,Juniata,067
+CORA6,United States,Pennsylvania,42,Lackawanna,069
+CORA6,United States,Pennsylvania,42,Lancaster,071
+CORA6,United States,Pennsylvania,42,Lawrence,073
+CORA6,United States,Pennsylvania,42,Lebanon,075
+CORA6,United States,Pennsylvania,42,Lehigh,077
+CORA6,United States,Pennsylvania,42,Luzerne,079
+CORA6,United States,Pennsylvania,42,Lycoming,081
+CORA6,United States,Pennsylvania,42,McKean,083
+CORA6,United States,Pennsylvania,42,Mercer,085
+CORA6,United States,Pennsylvania,42,Mifflin,087
+CORA6,United States,Pennsylvania,42,Monroe,089
+CORA6,United States,Pennsylvania,42,Montgomery,091
+CORA6,United States,Pennsylvania,42,Montour,093
+CORA6,United States,Pennsylvania,42,Northampton,095
+CORA6,United States,Pennsylvania,42,Northumberland,097
+CORA6,United States,Pennsylvania,42,Perry,099
+CORA6,United States,Pennsylvania,42,Philadelphia,101
+CORA6,United States,Pennsylvania,42,Pike,103
+CORA6,United States,Pennsylvania,42,Potter,105
+CORA6,United States,Pennsylvania,42,Schuylkill,107
+CORA6,United States,Pennsylvania,42,Snyder,109
+CORA6,United States,Pennsylvania,42,Somerset,111
+CORA6,United States,Pennsylvania,42,Susquehanna,115
+CORA6,United States,Pennsylvania,42,Tioga,117
+CORA6,United States,Pennsylvania,42,Union,119
+CORA6,United States,Pennsylvania,42,Venango,121
+CORA6,United States,Pennsylvania,42,Warren,123
+CORA6,United States,Pennsylvania,42,Washington,125
+CORA6,United States,Pennsylvania,42,Wayne,127
+CORA6,United States,Pennsylvania,42,Westmoreland,129
+CORA6,United States,Pennsylvania,42,Wyoming,131
+CORA6,United States,Pennsylvania,42,York,133
+CORA6,United States,Rhode Island,44,,
+CORA6,United States,Rhode Island,44,Providence,007
+CORA6,United States,Rhode Island,44,Washington,009
+CORA6,United States,South Carolina,45,,
+CORA6,United States,South Dakota,46,,
+CORA6,United States,South Dakota,46,Brule,015
+CORA6,United States,South Dakota,46,Clay,027
+CORA6,United States,South Dakota,46,Roberts,109
+CORA6,United States,Texas,48,,
+CORA6,United States,Texas,48,Brazos,041
+CORA6,United States,Texas,48,Cass,067
+CORA6,United States,Texas,48,Harris,201
+CORA6,United States,Texas,48,Newton,351
+CORA6,United States,Vermont,50,,
+CORA6,United States,Vermont,50,Addison,001
+CORA6,United States,Vermont,50,Bennington,003
+CORA6,United States,Vermont,50,Chittenden,007
+CORA6,United States,Vermont,50,Grand Isle,013
+CORA6,United States,Vermont,50,Rutland,021
+CORA6,United States,Vermont,50,Windham,025
+CORA6,United States,Vermont,50,Windsor,027
+CORA6,United States,Virginia,51,,
+CORA6,United States,Virginia,51,Albemarle,003
+CORA6,United States,Virginia,51,Alleghany,005
+CORA6,United States,Virginia,51,Amherst,009
+CORA6,United States,Virginia,51,Augusta,015
+CORA6,United States,Virginia,51,Bath,017
+CORA6,United States,Virginia,51,Bedford,019
+CORA6,United States,Virginia,51,Bland,021
+CORA6,United States,Virginia,51,Botetourt,023
+CORA6,United States,Virginia,51,Craig,045
+CORA6,United States,Virginia,51,Fairfax,059
+CORA6,United States,Virginia,51,Frederick,069
+CORA6,United States,Virginia,51,Giles,071
+CORA6,United States,Virginia,51,Gloucester,073
+CORA6,United States,Virginia,51,Grayson,077
+CORA6,United States,Virginia,51,Highland,091
+CORA6,United States,Virginia,51,Madison,113
+CORA6,United States,Virginia,51,Montgomery,121
+CORA6,United States,Virginia,51,Nelson,125
+CORA6,United States,Virginia,51,Page,139
+CORA6,United States,Virginia,51,Rockbridge,163
+CORA6,United States,Virginia,51,Rockingham,165
+CORA6,United States,Virginia,51,Russell,167
+CORA6,United States,Virginia,51,Shenandoah,171
+CORA6,United States,Virginia,51,Tazewell,185
+CORA6,United States,Virginia,51,Warren,187
+CORA6,United States,West Virginia,54,,
+CORA6,United States,West Virginia,54,Doddridge,017
+CORA6,United States,West Virginia,54,Fayette,019
+CORA6,United States,West Virginia,54,Grant,023
+CORA6,United States,West Virginia,54,Greenbrier,025
+CORA6,United States,West Virginia,54,Hampshire,027
+CORA6,United States,West Virginia,54,Hancock,029
+CORA6,United States,West Virginia,54,Hardy,031
+CORA6,United States,West Virginia,54,Harrison,033
+CORA6,United States,West Virginia,54,Kanawha,039
+CORA6,United States,West Virginia,54,Marion,049
+CORA6,United States,West Virginia,54,Marshall,051
+CORA6,United States,West Virginia,54,McDowell,047
+CORA6,United States,West Virginia,54,Mercer,055
+CORA6,United States,West Virginia,54,Mineral,057
+CORA6,United States,West Virginia,54,Monongalia,061
+CORA6,United States,West Virginia,54,Nicholas,067
+CORA6,United States,West Virginia,54,Pendleton,071
+CORA6,United States,West Virginia,54,Pocahontas,075
+CORA6,United States,West Virginia,54,Preston,077
+CORA6,United States,West Virginia,54,Randolph,083
+CORA6,United States,West Virginia,54,Ritchie,085
+CORA6,United States,West Virginia,54,Summers,089
+CORA6,United States,West Virginia,54,Taylor,091
+CORA6,United States,West Virginia,54,Wetzel,103
+CORA6,United States,Wisconsin,55,,
+CORA6,United States,Wisconsin,55,Adams,001
+CORA6,United States,Wisconsin,55,Ashland,003
+CORA6,United States,Wisconsin,55,Barron,005
+CORA6,United States,Wisconsin,55,Bayfield,007
+CORA6,United States,Wisconsin,55,Brown,009
+CORA6,United States,Wisconsin,55,Buffalo,011
+CORA6,United States,Wisconsin,55,Burnett,013
+CORA6,United States,Wisconsin,55,Calumet,015
+CORA6,United States,Wisconsin,55,Chippewa,017
+CORA6,United States,Wisconsin,55,Clark,019
+CORA6,United States,Wisconsin,55,Columbia,021
+CORA6,United States,Wisconsin,55,Crawford,023
+CORA6,United States,Wisconsin,55,Dane,025
+CORA6,United States,Wisconsin,55,Dodge,027
+CORA6,United States,Wisconsin,55,Door,029
+CORA6,United States,Wisconsin,55,Douglas,031
+CORA6,United States,Wisconsin,55,Dunn,033
+CORA6,United States,Wisconsin,55,Eau Claire,035
+CORA6,United States,Wisconsin,55,Florence,037
+CORA6,United States,Wisconsin,55,Fond du Lac,039
+CORA6,United States,Wisconsin,55,Grant,043
+CORA6,United States,Wisconsin,55,Green,045
+CORA6,United States,Wisconsin,55,Green Lake,047
+CORA6,United States,Wisconsin,55,Iowa,049
+CORA6,United States,Wisconsin,55,Jackson,053
+CORA6,United States,Wisconsin,55,Jefferson,055
+CORA6,United States,Wisconsin,55,Kenosha,059
+CORA6,United States,Wisconsin,55,La Crosse,063
+CORA6,United States,Wisconsin,55,Lafayette,065
+CORA6,United States,Wisconsin,55,Langlade,067
+CORA6,United States,Wisconsin,55,Lincoln,069
+CORA6,United States,Wisconsin,55,Manitowoc,071
+CORA6,United States,Wisconsin,55,Marathon,073
+CORA6,United States,Wisconsin,55,Marinette,075
+CORA6,United States,Wisconsin,55,Marquette,077
+CORA6,United States,Wisconsin,55,Menominee,078
+CORA6,United States,Wisconsin,55,Milwaukee,079
+CORA6,United States,Wisconsin,55,Monroe,081
+CORA6,United States,Wisconsin,55,Oconto,083
+CORA6,United States,Wisconsin,55,Outagamie,087
+CORA6,United States,Wisconsin,55,Ozaukee,089
+CORA6,United States,Wisconsin,55,Pepin,091
+CORA6,United States,Wisconsin,55,Pierce,093
+CORA6,United States,Wisconsin,55,Polk,095
+CORA6,United States,Wisconsin,55,Portage,097
+CORA6,United States,Wisconsin,55,Racine,101
+CORA6,United States,Wisconsin,55,Richland,103
+CORA6,United States,Wisconsin,55,Rock,105
+CORA6,United States,Wisconsin,55,Sauk,111
+CORA6,United States,Wisconsin,55,Sawyer,113
+CORA6,United States,Wisconsin,55,Shawano,115
+CORA6,United States,Wisconsin,55,Sheboygan,117
+CORA6,United States,Wisconsin,55,St. Croix,109
+CORA6,United States,Wisconsin,55,Taylor,119
+CORA6,United States,Wisconsin,55,Trempealeau,121
+CORA6,United States,Wisconsin,55,Vernon,123
+CORA6,United States,Wisconsin,55,Walworth,127
+CORA6,United States,Wisconsin,55,Washburn,129
+CORA6,United States,Wisconsin,55,Washington,131
+CORA6,United States,Wisconsin,55,Waukesha,133
+CORA6,United States,Wisconsin,55,Waupaca,135
+CORA6,United States,Wisconsin,55,Waushara,137
+CORA6,United States,Wisconsin,55,Winnebago,139
+CORA6,United States,Wisconsin,55,Wood,141

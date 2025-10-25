@@ -1,0 +1,183 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+BAMO,United States,Alabama,01,,
+BAMO,United States,Alabama,01,Baldwin,003
+BAMO,United States,Alabama,01,Mobile,097
+BAMO,United States,Arizona,04,,
+BAMO,United States,California,06,,
+BAMO,United States,California,06,Imperial,025
+BAMO,United States,California,06,Riverside,065
+BAMO,United States,California,06,San Diego,073
+BAMO,United States,Florida,12,,
+BAMO,United States,Florida,12,Bay,005
+BAMO,United States,Florida,12,Bradford,007
+BAMO,United States,Florida,12,Brevard,009
+BAMO,United States,Florida,12,Broward,011
+BAMO,United States,Florida,12,Charlotte,015
+BAMO,United States,Florida,12,Citrus,017
+BAMO,United States,Florida,12,Clay,019
+BAMO,United States,Florida,12,Collier,021
+BAMO,United States,Florida,12,Dixie,029
+BAMO,United States,Florida,12,Duval,031
+BAMO,United States,Florida,12,Escambia,033
+BAMO,United States,Florida,12,Flagler,035
+BAMO,United States,Florida,12,Franklin,037
+BAMO,United States,Florida,12,Glades,043
+BAMO,United States,Florida,12,Gulf,045
+BAMO,United States,Florida,12,Hendry,051
+BAMO,United States,Florida,12,Hernando,053
+BAMO,United States,Florida,12,Highlands,055
+BAMO,United States,Florida,12,Hillsborough,057
+BAMO,United States,Florida,12,Indian River,061
+BAMO,United States,Florida,12,Lake,069
+BAMO,United States,Florida,12,Lee,071
+BAMO,United States,Florida,12,Levy,075
+BAMO,United States,Florida,12,Liberty,077
+BAMO,United States,Florida,12,Manatee,081
+BAMO,United States,Florida,12,Marion,083
+BAMO,United States,Florida,12,Martin,085
+BAMO,United States,Florida,12,Miami-Dade,086
+BAMO,United States,Florida,12,Monroe,087
+BAMO,United States,Florida,12,Nassau,089
+BAMO,United States,Florida,12,Okaloosa,091
+BAMO,United States,Florida,12,Okeechobee,093
+BAMO,United States,Florida,12,Orange,095
+BAMO,United States,Florida,12,Osceola,097
+BAMO,United States,Florida,12,Palm Beach,099
+BAMO,United States,Florida,12,Pasco,101
+BAMO,United States,Florida,12,Pinellas,103
+BAMO,United States,Florida,12,Polk,105
+BAMO,United States,Florida,12,Putnam,107
+BAMO,United States,Florida,12,Santa Rosa,113
+BAMO,United States,Florida,12,Sarasota,115
+BAMO,United States,Florida,12,Seminole,117
+BAMO,United States,Florida,12,St. Johns,109
+BAMO,United States,Florida,12,St. Lucie,111
+BAMO,United States,Florida,12,Taylor,123
+BAMO,United States,Florida,12,Volusia,127
+BAMO,United States,Florida,12,Wakulla,129
+BAMO,United States,Florida,12,Walton,131
+BAMO,United States,Georgia,13,,
+BAMO,United States,Georgia,13,Atkinson,003
+BAMO,United States,Georgia,13,Camden,039
+BAMO,United States,Georgia,13,Chatham,051
+BAMO,United States,Georgia,13,Glynn,127
+BAMO,United States,Georgia,13,Liberty,179
+BAMO,United States,Georgia,13,Lowndes,185
+BAMO,United States,Georgia,13,McIntosh,191
+BAMO,United States,Hawaii,15,,
+BAMO,United States,Hawaii,15,Hawaii,001
+BAMO,United States,Hawaii,15,Honolulu,003
+BAMO,United States,Hawaii,15,Kauai,007
+BAMO,United States,Hawaii,15,Maui,009
+BAMO,United States,Louisiana,22,,
+BAMO,United States,Louisiana,22,Allen,003
+BAMO,United States,Louisiana,22,Beauregard,011
+BAMO,United States,Louisiana,22,Calcasieu,019
+BAMO,United States,Louisiana,22,Cameron,023
+BAMO,United States,Louisiana,22,Evangeline,039
+BAMO,United States,Louisiana,22,Grant,043
+BAMO,United States,Louisiana,22,Iberia,045
+BAMO,United States,Louisiana,22,Iberville,047
+BAMO,United States,Louisiana,22,Jackson,049
+BAMO,United States,Louisiana,22,Jefferson,051
+BAMO,United States,Louisiana,22,Lafourche,057
+BAMO,United States,Louisiana,22,LaSalle,059
+BAMO,United States,Louisiana,22,Livingston,063
+BAMO,United States,Louisiana,22,Morehouse,067
+BAMO,United States,Louisiana,22,Natchitoches,069
+BAMO,United States,Louisiana,22,Orleans,071
+BAMO,United States,Louisiana,22,Ouachita,073
+BAMO,United States,Louisiana,22,Plaquemines,075
+BAMO,United States,Louisiana,22,Pointe Coupee,077
+BAMO,United States,Louisiana,22,Rapides,079
+BAMO,United States,Louisiana,22,Richland,083
+BAMO,United States,Louisiana,22,Sabine,085
+BAMO,United States,Louisiana,22,St. Bernard,087
+BAMO,United States,Louisiana,22,St. Charles,089
+BAMO,United States,Louisiana,22,St. James,093
+BAMO,United States,Louisiana,22,St. John the Baptist,095
+BAMO,United States,Louisiana,22,St. Landry,097
+BAMO,United States,Louisiana,22,St. Mary,101
+BAMO,United States,Louisiana,22,St. Tammany,103
+BAMO,United States,Louisiana,22,Tangipahoa,105
+BAMO,United States,Louisiana,22,Tensas,107
+BAMO,United States,Louisiana,22,Terrebonne,109
+BAMO,United States,Louisiana,22,Vermilion,113
+BAMO,United States,Louisiana,22,Winn,127
+BAMO,United States,Maryland,24,,
+BAMO,United States,Mississippi,28,,
+BAMO,United States,Mississippi,28,Hancock,045
+BAMO,United States,Mississippi,28,Harrison,047
+BAMO,United States,Mississippi,28,Jackson,059
+BAMO,United States,Mississippi,28,Washington,151
+BAMO,United States,Mississippi,28,Wilkinson,157
+BAMO,United States,North Carolina,37,,
+BAMO,United States,North Carolina,37,Beaufort,013
+BAMO,United States,North Carolina,37,Brunswick,019
+BAMO,United States,North Carolina,37,Carteret,031
+BAMO,United States,North Carolina,37,Craven,049
+BAMO,United States,North Carolina,37,Dare,055
+BAMO,United States,North Carolina,37,Hyde,095
+BAMO,United States,North Carolina,37,New Hanover,129
+BAMO,United States,North Carolina,37,Pamlico,137
+BAMO,United States,North Carolina,37,Pender,141
+BAMO,United States,Oklahoma,40,,
+BAMO,United States,South Carolina,45,,
+BAMO,United States,South Carolina,45,Beaufort,013
+BAMO,United States,South Carolina,45,Charleston,019
+BAMO,United States,South Carolina,45,Georgetown,043
+BAMO,United States,South Carolina,45,Horry,051
+BAMO,United States,Texas,48,,
+BAMO,United States,Texas,48,Aransas,007
+BAMO,United States,Texas,48,Bastrop,021
+BAMO,United States,Texas,48,Bell,027
+BAMO,United States,Texas,48,Bexar,029
+BAMO,United States,Texas,48,Brazos,041
+BAMO,United States,Texas,48,Brewster,043
+BAMO,United States,Texas,48,Burnet,053
+BAMO,United States,Texas,48,Calhoun,057
+BAMO,United States,Texas,48,Cameron,061
+BAMO,United States,Texas,48,Comal,091
+BAMO,United States,Texas,48,Crockett,105
+BAMO,United States,Texas,48,Denton,121
+BAMO,United States,Texas,48,Edwards,137
+BAMO,United States,Texas,48,Galveston,167
+BAMO,United States,Texas,48,Gillespie,171
+BAMO,United States,Texas,48,Goliad,175
+BAMO,United States,Texas,48,Gonzales,177
+BAMO,United States,Texas,48,Harris,201
+BAMO,United States,Texas,48,Hays,209
+BAMO,United States,Texas,48,Hidalgo,215
+BAMO,United States,Texas,48,Jefferson,245
+BAMO,United States,Texas,48,Karnes,255
+BAMO,United States,Texas,48,Kenedy,261
+BAMO,United States,Texas,48,Kleberg,273
+BAMO,United States,Texas,48,Lamb,279
+BAMO,United States,Texas,48,Llano,299
+BAMO,United States,Texas,48,McLennan,309
+BAMO,United States,Texas,48,Nueces,355
+BAMO,United States,Texas,48,Orange,361
+BAMO,United States,Texas,48,Pecos,371
+BAMO,United States,Texas,48,Real,385
+BAMO,United States,Texas,48,San Patricio,409
+BAMO,United States,Texas,48,Starr,427
+BAMO,United States,Texas,48,Terrell,443
+BAMO,United States,Texas,48,Travis,453
+BAMO,United States,Texas,48,Trinity,455
+BAMO,United States,Texas,48,Uvalde,463
+BAMO,United States,Texas,48,Val Verde,465
+BAMO,United States,Texas,48,Washington,477
+BAMO,United States,Texas,48,Webb,479
+BAMO,United States,Texas,48,Willacy,489
+BAMO,United States,Texas,48,Williamson,491
+BAMO,United States,Texas,48,Wilson,493
+BAMO,United States,Virginia,51,,
+BAMO,United States,Virginia,51,Accomack,001
+BAMO,United States,Virginia,51,Northampton,131
+BAMO,United States,Virginia,51,Virginia Beach ,810
+BAMO,United States,Guam,66,,
+BAMO,United States,Puerto Rico,72,,
+BAMO,United States,U.S. Minor Outlying Islands,74,,
+BAMO,United States,U.S. Minor Outlying Islands,74,Midway Islands,300
+BAMO,United States,Virgin Islands,78,,

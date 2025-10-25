@@ -1,0 +1,22 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SYNOV,Canada,New Brunswick,04,,
+SYNOV,United States,Connecticut,09,,
+SYNOV,Canada,Quebec,10,,
+SYNOV,United States,Maine,23,,
+SYNOV,United States,Massachusetts,25,,
+SYNOV,United States,Massachusetts,25,Berkshire,003
+SYNOV,United States,Massachusetts,25,Bristol,005
+SYNOV,United States,Massachusetts,25,Essex,009
+SYNOV,United States,Massachusetts,25,Franklin,011
+SYNOV,United States,Massachusetts,25,Hampshire,015
+SYNOV,United States,Massachusetts,25,Middlesex,017
+SYNOV,United States,Massachusetts,25,Norfolk,021
+SYNOV,United States,Massachusetts,25,Plymouth,023
+SYNOV,United States,Massachusetts,25,Suffolk,025
+SYNOV,United States,Massachusetts,25,Worcester,027
+SYNOV,United States,New Hampshire,33,,
+SYNOV,United States,New Jersey,34,,
+SYNOV,United States,New York,36,,
+SYNOV,United States,Pennsylvania,42,,
+SYNOV,United States,Vermont,50,,

@@ -1,0 +1,42 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ARPU5,United States,Arizona,04,,
+ARPU5,United States,Arizona,04,Apache,001
+ARPU5,United States,Arizona,04,Cochise,003
+ARPU5,United States,Arizona,04,Coconino,005
+ARPU5,United States,Arizona,04,Gila,007
+ARPU5,United States,Arizona,04,Graham,009
+ARPU5,United States,Arizona,04,Maricopa,013
+ARPU5,United States,Arizona,04,Mohave,015
+ARPU5,United States,Arizona,04,Navajo,017
+ARPU5,United States,Arizona,04,Pima,019
+ARPU5,United States,Arizona,04,Santa Cruz,023
+ARPU5,United States,Arizona,04,Yavapai,025
+ARPU5,United States,California,06,,
+ARPU5,United States,California,06,Kern,029
+ARPU5,United States,California,06,Monterey,053
+ARPU5,United States,California,06,Riverside,065
+ARPU5,United States,California,06,San Benito,069
+ARPU5,United States,California,06,San Bernardino,071
+ARPU5,United States,California,06,San Diego,073
+ARPU5,United States,California,06,San Luis Obispo,079
+ARPU5,United States,California,06,Santa Barbara,083
+ARPU5,United States,California,06,Santa Cruz,087
+ARPU5,United States,California,06,Tulare,107
+ARPU5,United States,Nevada,32,,
+ARPU5,United States,Nevada,32,Clark,003
+ARPU5,United States,Nevada,32,Lincoln,017
+ARPU5,United States,New Mexico,35,,
+ARPU5,United States,New Mexico,35,Catron,003
+ARPU5,United States,New Mexico,35,Grant,017
+ARPU5,United States,New Mexico,35,Hidalgo,023
+ARPU5,United States,New Mexico,35,Lincoln,027
+ARPU5,United States,New Mexico,35,Sandoval,043
+ARPU5,United States,New Mexico,35,Santa Fe,049
+ARPU5,United States,New Mexico,35,Sierra,051
+ARPU5,United States,Texas,48,,
+ARPU5,United States,Texas,48,Jeff Davis,243
+ARPU5,United States,Utah,49,,
+ARPU5,United States,Utah,49,Kane,025
+ARPU5,United States,Utah,49,San Juan,037
+ARPU5,United States,Utah,49,Washington,053

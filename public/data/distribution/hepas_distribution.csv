@@ -1,0 +1,208 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+HEPAS,Canada,Alberta,01,,
+HEPAS,Canada,British Columbia,02,,
+HEPAS,Canada,Manitoba,03,,
+HEPAS,Canada,New Brunswick,04,,
+HEPAS,United States,Arizona,04,,
+HEPAS,Canada,Nova Scotia,07,,
+HEPAS,Canada,Ontario,08,,
+HEPAS,United States,Colorado,08,,
+HEPAS,United States,Colorado,08,Archuleta,007
+HEPAS,United States,Colorado,08,Boulder,013
+HEPAS,United States,Colorado,08,Douglas,035
+HEPAS,United States,Colorado,08,El Paso,041
+HEPAS,United States,Colorado,08,Huerfano,055
+HEPAS,United States,Colorado,08,La Plata,067
+HEPAS,United States,Colorado,08,Montezuma,083
+HEPAS,United States,Colorado,08,Pueblo,101
+HEPAS,Canada,Prince Edward Island,09,,
+HEPAS,United States,Connecticut,09,,
+HEPAS,United States,Connecticut,09,Fairfield,001
+HEPAS,Canada,Quebec,10,,
+HEPAS,Canada,Saskatchewan,11,,
+HEPAS,Canada,Yukon,12,,
+HEPAS,United States,Illinois,17,,
+HEPAS,United States,Indiana,18,,
+HEPAS,United States,Iowa,19,,
+HEPAS,United States,Kansas,20,,
+HEPAS,United States,Maine,23,,
+HEPAS,United States,Maryland,24,,
+HEPAS,United States,Massachusetts,25,,
+HEPAS,United States,Massachusetts,25,Barnstable,001
+HEPAS,United States,Minnesota,27,,
+HEPAS,United States,Minnesota,27,Becker,005
+HEPAS,United States,Minnesota,27,Big Stone,011
+HEPAS,United States,Minnesota,27,Chippewa,023
+HEPAS,United States,Minnesota,27,Clay,027
+HEPAS,United States,Minnesota,27,Cottonwood,033
+HEPAS,United States,Minnesota,27,Grant,051
+HEPAS,United States,Minnesota,27,Kandiyohi,067
+HEPAS,United States,Minnesota,27,Kittson,069
+HEPAS,United States,Minnesota,27,Lac qui Parle,073
+HEPAS,United States,Minnesota,27,Lincoln,081
+HEPAS,United States,Minnesota,27,Lyon,083
+HEPAS,United States,Minnesota,27,Martin,091
+HEPAS,United States,Minnesota,27,Otter Tail,111
+HEPAS,United States,Minnesota,27,Pipestone,117
+HEPAS,United States,Minnesota,27,Polk,119
+HEPAS,United States,Minnesota,27,Pope,121
+HEPAS,United States,Minnesota,27,Renville,129
+HEPAS,United States,Minnesota,27,Stevens,149
+HEPAS,United States,Minnesota,27,Traverse,155
+HEPAS,United States,Minnesota,27,Wilkin,167
+HEPAS,United States,Minnesota,27,Yellow Medicine,173
+HEPAS,United States,Missouri,29,,
+HEPAS,United States,Montana,30,,
+HEPAS,United States,Montana,30,Custer,017
+HEPAS,United States,Montana,30,Daniels,019
+HEPAS,United States,Montana,30,Dawson,021
+HEPAS,United States,Montana,30,Phillips,071
+HEPAS,United States,Montana,30,Prairie,079
+HEPAS,United States,Montana,30,Richland,083
+HEPAS,United States,Montana,30,Roosevelt,085
+HEPAS,United States,Montana,30,Rosebud,087
+HEPAS,United States,Montana,30,Sheridan,091
+HEPAS,United States,Montana,30,Valley,105
+HEPAS,United States,Montana,30,Wibaux,109
+HEPAS,United States,Nebraska,31,,
+HEPAS,United States,Nebraska,31,Boyd,015
+HEPAS,United States,Nebraska,31,Cherry,031
+HEPAS,United States,Nebraska,31,Custer,041
+HEPAS,United States,Nebraska,31,Dawes,045
+HEPAS,United States,Nebraska,31,Franklin,061
+HEPAS,United States,Nebraska,31,Grant,075
+HEPAS,United States,Nebraska,31,Holt,089
+HEPAS,United States,Nebraska,31,Howard,093
+HEPAS,United States,Nebraska,31,Kearney,099
+HEPAS,United States,Nebraska,31,Kimball,105
+HEPAS,United States,Nebraska,31,Rock,149
+HEPAS,United States,Nebraska,31,Sheridan,161
+HEPAS,United States,Nebraska,31,Sioux,165
+HEPAS,United States,Nebraska,31,Thomas,171
+HEPAS,United States,Nebraska,31,Valley,175
+HEPAS,United States,Nebraska,31,Wheeler,183
+HEPAS,United States,New Hampshire,33,,
+HEPAS,United States,New Jersey,34,,
+HEPAS,United States,New Jersey,34,Monmouth,025
+HEPAS,United States,New Jersey,34,Somerset,035
+HEPAS,United States,New Mexico,35,,
+HEPAS,United States,New Mexico,35,Colfax,007
+HEPAS,United States,New Mexico,35,Mora,033
+HEPAS,United States,New Mexico,35,Rio Arriba,039
+HEPAS,United States,New Mexico,35,San Miguel,047
+HEPAS,United States,New Mexico,35,Sandoval,043
+HEPAS,United States,New Mexico,35,Taos,055
+HEPAS,United States,New Mexico,35,Torrance,057
+HEPAS,United States,New Mexico,35,Union,059
+HEPAS,United States,New York,36,,
+HEPAS,United States,New York,36,Erie,029
+HEPAS,United States,New York,36,Monroe,055
+HEPAS,United States,New York,36,Schenectady,093
+HEPAS,United States,North Dakota,38,,
+HEPAS,United States,North Dakota,38,Adams,001
+HEPAS,United States,North Dakota,38,Barnes,003
+HEPAS,United States,North Dakota,38,Benson,005
+HEPAS,United States,North Dakota,38,Billings,007
+HEPAS,United States,North Dakota,38,Bottineau,009
+HEPAS,United States,North Dakota,38,Bowman,011
+HEPAS,United States,North Dakota,38,Burke,013
+HEPAS,United States,North Dakota,38,Burleigh,015
+HEPAS,United States,North Dakota,38,Cass,017
+HEPAS,United States,North Dakota,38,Divide,023
+HEPAS,United States,North Dakota,38,Dunn,025
+HEPAS,United States,North Dakota,38,Eddy,027
+HEPAS,United States,North Dakota,38,Emmons,029
+HEPAS,United States,North Dakota,38,Foster,031
+HEPAS,United States,North Dakota,38,Golden Valley,033
+HEPAS,United States,North Dakota,38,Grand Forks,035
+HEPAS,United States,North Dakota,38,Grant,037
+HEPAS,United States,North Dakota,38,Griggs,039
+HEPAS,United States,North Dakota,38,Kidder,043
+HEPAS,United States,North Dakota,38,LaMoure,045
+HEPAS,United States,North Dakota,38,McHenry,049
+HEPAS,United States,North Dakota,38,McIntosh,051
+HEPAS,United States,North Dakota,38,McKenzie,053
+HEPAS,United States,North Dakota,38,McLean,055
+HEPAS,United States,North Dakota,38,Mercer,057
+HEPAS,United States,North Dakota,38,Mountrail,061
+HEPAS,United States,North Dakota,38,Nelson,063
+HEPAS,United States,North Dakota,38,Oliver,065
+HEPAS,United States,North Dakota,38,Pierce,069
+HEPAS,United States,North Dakota,38,Ransom,073
+HEPAS,United States,North Dakota,38,Richland,077
+HEPAS,United States,North Dakota,38,Rolette,079
+HEPAS,United States,North Dakota,38,Sargent,081
+HEPAS,United States,North Dakota,38,Sheridan,083
+HEPAS,United States,North Dakota,38,Slope,087
+HEPAS,United States,North Dakota,38,Stark,089
+HEPAS,United States,North Dakota,38,Stutsman,093
+HEPAS,United States,North Dakota,38,Walsh,099
+HEPAS,United States,North Dakota,38,Ward,101
+HEPAS,United States,North Dakota,38,Wells,103
+HEPAS,United States,North Dakota,38,Williams,105
+HEPAS,United States,Pennsylvania,42,,
+HEPAS,United States,South Dakota,46,,
+HEPAS,United States,South Dakota,46,Aurora,003
+HEPAS,United States,South Dakota,46,Charles Mix,023
+HEPAS,United States,South Dakota,46,Clay,027
+HEPAS,United States,South Dakota,46,Codington,029
+HEPAS,United States,South Dakota,46,Corson,031
+HEPAS,United States,South Dakota,46,Custer,033
+HEPAS,United States,South Dakota,46,Deuel,039
+HEPAS,United States,South Dakota,46,Edmunds,045
+HEPAS,United States,South Dakota,46,Faulk,049
+HEPAS,United States,South Dakota,46,Gregory,053
+HEPAS,United States,South Dakota,46,Harding,063
+HEPAS,United States,South Dakota,46,Kingsbury,077
+HEPAS,United States,South Dakota,46,Lawrence,081
+HEPAS,United States,South Dakota,46,Lincoln,083
+HEPAS,United States,South Dakota,46,Marshall,091
+HEPAS,United States,South Dakota,46,Minnehaha,099
+HEPAS,United States,South Dakota,46,Pennington,103
+HEPAS,United States,South Dakota,46,Roberts,109
+HEPAS,United States,South Dakota,46,Sanborn,111
+HEPAS,United States,South Dakota,46,Stanley,117
+HEPAS,United States,South Dakota,46,Todd,121
+HEPAS,United States,South Dakota,46,Turner,125
+HEPAS,United States,South Dakota,46,Union,127
+HEPAS,United States,South Dakota,46,Ziebach,137
+HEPAS,United States,Texas,48,,
+HEPAS,United States,Texas,48,Culberson,109
+HEPAS,United States,Wisconsin,55,,
+HEPAS,United States,Wisconsin,55,Adams,001
+HEPAS,United States,Wisconsin,55,Bayfield,007
+HEPAS,United States,Wisconsin,55,Brown,009
+HEPAS,United States,Wisconsin,55,Buffalo,011
+HEPAS,United States,Wisconsin,55,Burnett,013
+HEPAS,United States,Wisconsin,55,Clark,019
+HEPAS,United States,Wisconsin,55,Columbia,021
+HEPAS,United States,Wisconsin,55,Crawford,023
+HEPAS,United States,Wisconsin,55,Dane,025
+HEPAS,United States,Wisconsin,55,Douglas,031
+HEPAS,United States,Wisconsin,55,Dunn,033
+HEPAS,United States,Wisconsin,55,Grant,043
+HEPAS,United States,Wisconsin,55,Green,045
+HEPAS,United States,Wisconsin,55,Kenosha,059
+HEPAS,United States,Wisconsin,55,La Crosse,063
+HEPAS,United States,Wisconsin,55,Lincoln,069
+HEPAS,United States,Wisconsin,55,Marquette,077
+HEPAS,United States,Wisconsin,55,Milwaukee,079
+HEPAS,United States,Wisconsin,55,Monroe,081
+HEPAS,United States,Wisconsin,55,Oconto,083
+HEPAS,United States,Wisconsin,55,Outagamie,087
+HEPAS,United States,Wisconsin,55,Pepin,091
+HEPAS,United States,Wisconsin,55,Pierce,093
+HEPAS,United States,Wisconsin,55,Polk,095
+HEPAS,United States,Wisconsin,55,Portage,097
+HEPAS,United States,Wisconsin,55,Racine,101
+HEPAS,United States,Wisconsin,55,Rock,105
+HEPAS,United States,Wisconsin,55,Trempealeau,121
+HEPAS,United States,Wisconsin,55,Waukesha,133
+HEPAS,United States,Wisconsin,55,Waushara,137
+HEPAS,United States,Wyoming,56,,
+HEPAS,United States,Wyoming,56,Albany,001
+HEPAS,United States,Wyoming,56,Crook,011
+HEPAS,United States,Wyoming,56,Johnson,019
+HEPAS,United States,Wyoming,56,Sheridan,033
+HEPAS,United States,Wyoming,56,Weston,045

@@ -1,0 +1,681 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+OESP2,United States,Alabama,01,,
+OESP2,United States,Alabama,01,Autauga,001
+OESP2,United States,Alabama,01,Calhoun,015
+OESP2,United States,Alabama,01,Chilton,021
+OESP2,United States,Alabama,01,Dallas,047
+OESP2,United States,Alabama,01,Elmore,051
+OESP2,United States,Alabama,01,Greene,063
+OESP2,United States,Alabama,01,Hale,065
+OESP2,United States,Alabama,01,Jefferson,073
+OESP2,United States,Alabama,01,Lee,081
+OESP2,United States,Alabama,01,Macon,087
+OESP2,United States,Alabama,01,Mobile,097
+OESP2,United States,Alabama,01,Montgomery,101
+OESP2,United States,Alabama,01,Tallapoosa,123
+OESP2,United States,Alabama,01,Tuscaloosa,125
+OESP2,United States,Alabama,01,Wilcox,131
+OESP2,United States,Arizona,04,,
+OESP2,United States,Arizona,04,Maricopa,013
+OESP2,United States,Arizona,04,Pima,019
+OESP2,United States,Arizona,04,Yavapai,025
+OESP2,United States,Arkansas,05,,
+OESP2,United States,Arkansas,05,Arkansas,001
+OESP2,United States,Arkansas,05,Ashley,003
+OESP2,United States,Arkansas,05,Benton,007
+OESP2,United States,Arkansas,05,Boone,009
+OESP2,United States,Arkansas,05,Bradley,011
+OESP2,United States,Arkansas,05,Chicot,017
+OESP2,United States,Arkansas,05,Clark,019
+OESP2,United States,Arkansas,05,Cleburne,023
+OESP2,United States,Arkansas,05,Cleveland,025
+OESP2,United States,Arkansas,05,Columbia,027
+OESP2,United States,Arkansas,05,Conway,029
+OESP2,United States,Arkansas,05,Craighead,031
+OESP2,United States,Arkansas,05,Crawford,033
+OESP2,United States,Arkansas,05,Dallas,039
+OESP2,United States,Arkansas,05,Desha,041
+OESP2,United States,Arkansas,05,Drew,043
+OESP2,United States,Arkansas,05,Faulkner,045
+OESP2,United States,Arkansas,05,Franklin,047
+OESP2,United States,Arkansas,05,Fulton,049
+OESP2,United States,Arkansas,05,Garland,051
+OESP2,United States,Arkansas,05,Greene,055
+OESP2,United States,Arkansas,05,Hempstead,057
+OESP2,United States,Arkansas,05,Hot Spring,059
+OESP2,United States,Arkansas,05,Howard,061
+OESP2,United States,Arkansas,05,Johnson,071
+OESP2,United States,Arkansas,05,Lafayette,073
+OESP2,United States,Arkansas,05,Lawrence,075
+OESP2,United States,Arkansas,05,Lee,077
+OESP2,United States,Arkansas,05,Lincoln,079
+OESP2,United States,Arkansas,05,Little River,081
+OESP2,United States,Arkansas,05,Logan,083
+OESP2,United States,Arkansas,05,Madison,087
+OESP2,United States,Arkansas,05,Miller,091
+OESP2,United States,Arkansas,05,Mississippi,093
+OESP2,United States,Arkansas,05,Monroe,095
+OESP2,United States,Arkansas,05,Newton,101
+OESP2,United States,Arkansas,05,Ouachita,103
+OESP2,United States,Arkansas,05,Phillips,107
+OESP2,United States,Arkansas,05,Pike,109
+OESP2,United States,Arkansas,05,Poinsett,111
+OESP2,United States,Arkansas,05,Polk,113
+OESP2,United States,Arkansas,05,Pope,115
+OESP2,United States,Arkansas,05,Pulaski,119
+OESP2,United States,Arkansas,05,Randolph,121
+OESP2,United States,Arkansas,05,Saline,125
+OESP2,United States,Arkansas,05,Scott,127
+OESP2,United States,Arkansas,05,Sebastian,131
+OESP2,United States,Arkansas,05,Sevier,133
+OESP2,United States,Arkansas,05,Sharp,135
+OESP2,United States,Arkansas,05,St. Francis,123
+OESP2,United States,Arkansas,05,Union,139
+OESP2,United States,Arkansas,05,Washington,143
+OESP2,United States,Arkansas,05,White,145
+OESP2,United States,Arkansas,05,Yell,149
+OESP2,United States,California,06,,
+OESP2,United States,California,06,Imperial,025
+OESP2,United States,California,06,Orange,059
+OESP2,United States,California,06,San Bernardino,071
+OESP2,United States,California,06,San Diego,073
+OESP2,United States,California,06,Santa Clara,085
+OESP2,United States,California,06,Santa Cruz,087
+OESP2,United States,Connecticut,09,,
+OESP2,United States,Connecticut,09,Fairfield,001
+OESP2,United States,Florida,12,,
+OESP2,United States,Florida,12,Alachua,001
+OESP2,United States,Florida,12,Bradford,007
+OESP2,United States,Florida,12,Citrus,017
+OESP2,United States,Florida,12,Dixie,029
+OESP2,United States,Florida,12,Duval,031
+OESP2,United States,Florida,12,Escambia,033
+OESP2,United States,Florida,12,Franklin,037
+OESP2,United States,Florida,12,Gadsden,039
+OESP2,United States,Florida,12,Jackson,063
+OESP2,United States,Florida,12,Lake,069
+OESP2,United States,Florida,12,Leon,073
+OESP2,United States,Florida,12,Levy,075
+OESP2,United States,Florida,12,Madison,079
+OESP2,United States,Florida,12,Manatee,081
+OESP2,United States,Florida,12,Marion,083
+OESP2,United States,Florida,12,Miami-Dade,086
+OESP2,United States,Florida,12,Okaloosa,091
+OESP2,United States,Florida,12,Santa Rosa,113
+OESP2,United States,Florida,12,Taylor,123
+OESP2,United States,Florida,12,Wakulla,129
+OESP2,United States,Florida,12,Walton,131
+OESP2,United States,Florida,12,Washington,133
+OESP2,United States,Georgia,13,,
+OESP2,United States,Georgia,13,Baldwin,009
+OESP2,United States,Georgia,13,Ben Hill,017
+OESP2,United States,Georgia,13,Bibb,021
+OESP2,United States,Georgia,13,Bulloch,031
+OESP2,United States,Georgia,13,Chatham,051
+OESP2,United States,Georgia,13,Clarke,059
+OESP2,United States,Georgia,13,Cobb,067
+OESP2,United States,Georgia,13,Columbia,073
+OESP2,United States,Georgia,13,Dade,083
+OESP2,United States,Georgia,13,DeKalb,089
+OESP2,United States,Georgia,13,Elbert,105
+OESP2,United States,Georgia,13,Floyd,115
+OESP2,United States,Georgia,13,Fulton,121
+OESP2,United States,Georgia,13,Harris,145
+OESP2,United States,Georgia,13,McIntosh,191
+OESP2,United States,Georgia,13,Morgan,211
+OESP2,United States,Georgia,13,Putnam,237
+OESP2,United States,Georgia,13,Spalding,255
+OESP2,United States,Georgia,13,Thomas,275
+OESP2,United States,Georgia,13,Whitfield,313
+OESP2,United States,Illinois,17,,
+OESP2,United States,Illinois,17,Adams,001
+OESP2,United States,Illinois,17,Alexander,003
+OESP2,United States,Illinois,17,Calhoun,013
+OESP2,United States,Illinois,17,Cass,017
+OESP2,United States,Illinois,17,Champaign,019
+OESP2,United States,Illinois,17,Christian,021
+OESP2,United States,Illinois,17,Coles,029
+OESP2,United States,Illinois,17,Cook,031
+OESP2,United States,Illinois,17,De Witt,039
+OESP2,United States,Illinois,17,DuPage,043
+OESP2,United States,Illinois,17,Edgar,045
+OESP2,United States,Illinois,17,Effingham,049
+OESP2,United States,Illinois,17,Fulton,057
+OESP2,United States,Illinois,17,Hardin,069
+OESP2,United States,Illinois,17,Henry,073
+OESP2,United States,Illinois,17,Jackson,077
+OESP2,United States,Illinois,17,Johnson,087
+OESP2,United States,Illinois,17,Macon,115
+OESP2,United States,Illinois,17,Macoupin,117
+OESP2,United States,Illinois,17,Madison,119
+OESP2,United States,Illinois,17,Mason,125
+OESP2,United States,Illinois,17,Massac,127
+OESP2,United States,Illinois,17,Morgan,137
+OESP2,United States,Illinois,17,Moultrie,139
+OESP2,United States,Illinois,17,Peoria,143
+OESP2,United States,Illinois,17,Perry,145
+OESP2,United States,Illinois,17,Piatt,147
+OESP2,United States,Illinois,17,Pope,151
+OESP2,United States,Illinois,17,Pulaski,153
+OESP2,United States,Illinois,17,Randolph,157
+OESP2,United States,Illinois,17,Saline,165
+OESP2,United States,Illinois,17,Sangamon,167
+OESP2,United States,Illinois,17,Scott,171
+OESP2,United States,Illinois,17,St. Clair,163
+OESP2,United States,Illinois,17,Union,181
+OESP2,United States,Illinois,17,Wabash,185
+OESP2,United States,Illinois,17,Will,197
+OESP2,United States,Indiana,18,,
+OESP2,United States,Indiana,18,Boone,011
+OESP2,United States,Indiana,18,Brown,013
+OESP2,United States,Indiana,18,Clinton,023
+OESP2,United States,Indiana,18,Floyd,043
+OESP2,United States,Indiana,18,Hancock,059
+OESP2,United States,Indiana,18,Howard,067
+OESP2,United States,Indiana,18,Marion,097
+OESP2,United States,Indiana,18,Owen,119
+OESP2,United States,Indiana,18,Wells,179
+OESP2,United States,Iowa,19,,
+OESP2,United States,Kansas,20,,
+OESP2,United States,Kansas,20,Allen,001
+OESP2,United States,Kansas,20,Anderson,003
+OESP2,United States,Kansas,20,Atchison,005
+OESP2,United States,Kansas,20,Barber,007
+OESP2,United States,Kansas,20,Bourbon,011
+OESP2,United States,Kansas,20,Brown,013
+OESP2,United States,Kansas,20,Butler,015
+OESP2,United States,Kansas,20,Chase,017
+OESP2,United States,Kansas,20,Chautauqua,019
+OESP2,United States,Kansas,20,Cherokee,021
+OESP2,United States,Kansas,20,Clay,027
+OESP2,United States,Kansas,20,Cloud,029
+OESP2,United States,Kansas,20,Coffey,031
+OESP2,United States,Kansas,20,Cowley,035
+OESP2,United States,Kansas,20,Crawford,037
+OESP2,United States,Kansas,20,Dickinson,041
+OESP2,United States,Kansas,20,Doniphan,043
+OESP2,United States,Kansas,20,Douglas,045
+OESP2,United States,Kansas,20,Edwards,047
+OESP2,United States,Kansas,20,Elk,049
+OESP2,United States,Kansas,20,Ellis,051
+OESP2,United States,Kansas,20,Ellsworth,053
+OESP2,United States,Kansas,20,Franklin,059
+OESP2,United States,Kansas,20,Geary,061
+OESP2,United States,Kansas,20,Greenwood,073
+OESP2,United States,Kansas,20,Harvey,079
+OESP2,United States,Kansas,20,Jackson,085
+OESP2,United States,Kansas,20,Jefferson,087
+OESP2,United States,Kansas,20,Johnson,091
+OESP2,United States,Kansas,20,Labette,099
+OESP2,United States,Kansas,20,Leavenworth,103
+OESP2,United States,Kansas,20,Linn,107
+OESP2,United States,Kansas,20,Lyon,111
+OESP2,United States,Kansas,20,Marion,115
+OESP2,United States,Kansas,20,Marshall,117
+OESP2,United States,Kansas,20,McPherson,113
+OESP2,United States,Kansas,20,Miami,121
+OESP2,United States,Kansas,20,Montgomery,125
+OESP2,United States,Kansas,20,Morris,127
+OESP2,United States,Kansas,20,Nemaha,131
+OESP2,United States,Kansas,20,Neosho,133
+OESP2,United States,Kansas,20,Osage,139
+OESP2,United States,Kansas,20,Osborne,141
+OESP2,United States,Kansas,20,Ottawa,143
+OESP2,United States,Kansas,20,Pottawatomie,149
+OESP2,United States,Kansas,20,Reno,155
+OESP2,United States,Kansas,20,Republic,157
+OESP2,United States,Kansas,20,Rice,159
+OESP2,United States,Kansas,20,Riley,161
+OESP2,United States,Kansas,20,Rooks,163
+OESP2,United States,Kansas,20,Saline,169
+OESP2,United States,Kansas,20,Sedgwick,173
+OESP2,United States,Kansas,20,Shawnee,177
+OESP2,United States,Kansas,20,Sheridan,179
+OESP2,United States,Kansas,20,Sumner,191
+OESP2,United States,Kansas,20,Wabaunsee,197
+OESP2,United States,Kansas,20,Wilson,205
+OESP2,United States,Kansas,20,Woodson,207
+OESP2,United States,Kentucky,21,,
+OESP2,United States,Kentucky,21,Barren,009
+OESP2,United States,Kentucky,21,Breckinridge,027
+OESP2,United States,Kentucky,21,Calloway,035
+OESP2,United States,Kentucky,21,Daviess,059
+OESP2,United States,Kentucky,21,Fayette,067
+OESP2,United States,Kentucky,21,Fulton,075
+OESP2,United States,Kentucky,21,Graves,083
+OESP2,United States,Kentucky,21,Hardin,093
+OESP2,United States,Kentucky,21,Hickman,105
+OESP2,United States,Kentucky,21,Jefferson,111
+OESP2,United States,Kentucky,21,Logan,141
+OESP2,United States,Kentucky,21,Madison,151
+OESP2,United States,Kentucky,21,Marshall,157
+OESP2,United States,Kentucky,21,McCreary,147
+OESP2,United States,Kentucky,21,Muhlenberg,177
+OESP2,United States,Kentucky,21,Ohio,183
+OESP2,United States,Kentucky,21,Pendleton,191
+OESP2,United States,Kentucky,21,Trimble,223
+OESP2,United States,Kentucky,21,Warren,227
+OESP2,United States,Louisiana,22,,
+OESP2,United States,Louisiana,22,Acadia,001
+OESP2,United States,Louisiana,22,Allen,003
+OESP2,United States,Louisiana,22,Ascension,005
+OESP2,United States,Louisiana,22,Assumption,007
+OESP2,United States,Louisiana,22,Avoyelles,009
+OESP2,United States,Louisiana,22,Beauregard,011
+OESP2,United States,Louisiana,22,Bienville,013
+OESP2,United States,Louisiana,22,Bossier,015
+OESP2,United States,Louisiana,22,Caddo,017
+OESP2,United States,Louisiana,22,Calcasieu,019
+OESP2,United States,Louisiana,22,Caldwell,021
+OESP2,United States,Louisiana,22,Cameron,023
+OESP2,United States,Louisiana,22,Catahoula,025
+OESP2,United States,Louisiana,22,Claiborne,027
+OESP2,United States,Louisiana,22,Concordia,029
+OESP2,United States,Louisiana,22,De Soto,031
+OESP2,United States,Louisiana,22,East Baton Rouge,033
+OESP2,United States,Louisiana,22,East Carroll,035
+OESP2,United States,Louisiana,22,East Feliciana,037
+OESP2,United States,Louisiana,22,Evangeline,039
+OESP2,United States,Louisiana,22,Franklin,041
+OESP2,United States,Louisiana,22,Grant,043
+OESP2,United States,Louisiana,22,Iberia,045
+OESP2,United States,Louisiana,22,Iberville,047
+OESP2,United States,Louisiana,22,Jackson,049
+OESP2,United States,Louisiana,22,Jefferson,051
+OESP2,United States,Louisiana,22,Jefferson Davis,053
+OESP2,United States,Louisiana,22,Lafayette,055
+OESP2,United States,Louisiana,22,Lafourche,057
+OESP2,United States,Louisiana,22,LaSalle,059
+OESP2,United States,Louisiana,22,Lincoln,061
+OESP2,United States,Louisiana,22,Livingston,063
+OESP2,United States,Louisiana,22,Madison,065
+OESP2,United States,Louisiana,22,Morehouse,067
+OESP2,United States,Louisiana,22,Natchitoches,069
+OESP2,United States,Louisiana,22,Orleans,071
+OESP2,United States,Louisiana,22,Ouachita,073
+OESP2,United States,Louisiana,22,Plaquemines,075
+OESP2,United States,Louisiana,22,Pointe Coupee,077
+OESP2,United States,Louisiana,22,Rapides,079
+OESP2,United States,Louisiana,22,Red River,081
+OESP2,United States,Louisiana,22,Richland,083
+OESP2,United States,Louisiana,22,Sabine,085
+OESP2,United States,Louisiana,22,St. Bernard,087
+OESP2,United States,Louisiana,22,St. Charles,089
+OESP2,United States,Louisiana,22,St. Helena,091
+OESP2,United States,Louisiana,22,St. James,093
+OESP2,United States,Louisiana,22,St. John the Baptist,095
+OESP2,United States,Louisiana,22,St. Landry,097
+OESP2,United States,Louisiana,22,St. Martin,099
+OESP2,United States,Louisiana,22,St. Mary,101
+OESP2,United States,Louisiana,22,St. Tammany,103
+OESP2,United States,Louisiana,22,Tangipahoa,105
+OESP2,United States,Louisiana,22,Tensas,107
+OESP2,United States,Louisiana,22,Terrebonne,109
+OESP2,United States,Louisiana,22,Union,111
+OESP2,United States,Louisiana,22,Vermilion,113
+OESP2,United States,Louisiana,22,Vernon,115
+OESP2,United States,Louisiana,22,Washington,117
+OESP2,United States,Louisiana,22,Webster,119
+OESP2,United States,Louisiana,22,West Baton Rouge,121
+OESP2,United States,Louisiana,22,West Carroll,123
+OESP2,United States,Louisiana,22,West Feliciana,125
+OESP2,United States,Louisiana,22,Winn,127
+OESP2,United States,Mississippi,28,,
+OESP2,United States,Mississippi,28,Harrison,047
+OESP2,United States,Mississippi,28,Hinds,049
+OESP2,United States,Mississippi,28,Lee,081
+OESP2,United States,Mississippi,28,Scott,123
+OESP2,United States,Mississippi,28,Smith,129
+OESP2,United States,Mississippi,28,Washington,151
+OESP2,United States,Missouri,29,,
+OESP2,United States,Missouri,29,Adair,001
+OESP2,United States,Missouri,29,Atchison,005
+OESP2,United States,Missouri,29,Barry,009
+OESP2,United States,Missouri,29,Barton,011
+OESP2,United States,Missouri,29,Bates,013
+OESP2,United States,Missouri,29,Bollinger,017
+OESP2,United States,Missouri,29,Boone,019
+OESP2,United States,Missouri,29,Buchanan,021
+OESP2,United States,Missouri,29,Butler,023
+OESP2,United States,Missouri,29,Cape Girardeau,031
+OESP2,United States,Missouri,29,Carter,035
+OESP2,United States,Missouri,29,Cass,037
+OESP2,United States,Missouri,29,Cedar,039
+OESP2,United States,Missouri,29,Chariton,041
+OESP2,United States,Missouri,29,Clay,047
+OESP2,United States,Missouri,29,Clinton,049
+OESP2,United States,Missouri,29,Cole,051
+OESP2,United States,Missouri,29,Crawford,055
+OESP2,United States,Missouri,29,Dade,057
+OESP2,United States,Missouri,29,Daviess,061
+OESP2,United States,Missouri,29,Dent,065
+OESP2,United States,Missouri,29,Dunklin,069
+OESP2,United States,Missouri,29,Greene,077
+OESP2,United States,Missouri,29,Henry,083
+OESP2,United States,Missouri,29,Holt,087
+OESP2,United States,Missouri,29,Jackson,095
+OESP2,United States,Missouri,29,Jasper,097
+OESP2,United States,Missouri,29,Johnson,101
+OESP2,United States,Missouri,29,Laclede,105
+OESP2,United States,Missouri,29,Linn,115
+OESP2,United States,Missouri,29,Madison,123
+OESP2,United States,Missouri,29,Moniteau,135
+OESP2,United States,Missouri,29,New Madrid,143
+OESP2,United States,Missouri,29,Newton,145
+OESP2,United States,Missouri,29,Pemiscot,155
+OESP2,United States,Missouri,29,Pettis,159
+OESP2,United States,Missouri,29,Ray,177
+OESP2,United States,Missouri,29,Reynolds,179
+OESP2,United States,Missouri,29,Scott,201
+OESP2,United States,Missouri,29,St. Clair,185
+OESP2,United States,Missouri,29,St. Francois,187
+OESP2,United States,Missouri,29,St. Louis,189
+OESP2,United States,Missouri,29,Stoddard,207
+OESP2,United States,Missouri,29,Stone,209
+OESP2,United States,Missouri,29,Taney,213
+OESP2,United States,Missouri,29,Vernon,217
+OESP2,United States,Missouri,29,Wayne,223
+OESP2,United States,Missouri,29,Wright,229
+OESP2,United States,Nebraska,31,,
+OESP2,United States,Nebraska,31,Nemaha,127
+OESP2,United States,Nebraska,31,Nuckolls,129
+OESP2,United States,Nebraska,31,Richardson,147
+OESP2,United States,Nebraska,31,Webster,181
+OESP2,United States,New Mexico,35,,
+OESP2,United States,New Mexico,35,Dona Ana,013
+OESP2,United States,New Mexico,35,Roosevelt,041
+OESP2,United States,New York,36,,
+OESP2,United States,New York,36,Richmond,085
+OESP2,United States,North Carolina,37,,
+OESP2,United States,North Carolina,37,Beaufort,013
+OESP2,United States,North Carolina,37,Brunswick,019
+OESP2,United States,North Carolina,37,Burke,023
+OESP2,United States,North Carolina,37,Cabarrus,025
+OESP2,United States,North Carolina,37,Carteret,031
+OESP2,United States,North Carolina,37,Caswell,033
+OESP2,United States,North Carolina,37,Cleveland,045
+OESP2,United States,North Carolina,37,Columbus,047
+OESP2,United States,North Carolina,37,Davidson,057
+OESP2,United States,North Carolina,37,Davie,059
+OESP2,United States,North Carolina,37,Durham,063
+OESP2,United States,North Carolina,37,Edgecombe,065
+OESP2,United States,North Carolina,37,Franklin,069
+OESP2,United States,North Carolina,37,Gaston,071
+OESP2,United States,North Carolina,37,Guilford,081
+OESP2,United States,North Carolina,37,Hertford,091
+OESP2,United States,North Carolina,37,Iredell,097
+OESP2,United States,North Carolina,37,Jackson,099
+OESP2,United States,North Carolina,37,Johnston,101
+OESP2,United States,North Carolina,37,Lenoir,107
+OESP2,United States,North Carolina,37,New Hanover,129
+OESP2,United States,North Carolina,37,Onslow,133
+OESP2,United States,North Carolina,37,Orange,135
+OESP2,United States,North Carolina,37,Pender,141
+OESP2,United States,North Carolina,37,Perquimans,143
+OESP2,United States,North Carolina,37,Randolph,151
+OESP2,United States,North Carolina,37,Richmond,153
+OESP2,United States,North Carolina,37,Robeson,155
+OESP2,United States,North Carolina,37,Rowan,159
+OESP2,United States,North Carolina,37,Sampson,163
+OESP2,United States,North Carolina,37,Surry,171
+OESP2,United States,North Carolina,37,Swain,173
+OESP2,United States,North Carolina,37,Tyrrell,177
+OESP2,United States,North Carolina,37,Vance,181
+OESP2,United States,North Carolina,37,Wake,183
+OESP2,United States,North Carolina,37,Wayne,191
+OESP2,United States,North Carolina,37,Wilson,195
+OESP2,United States,Ohio,39,,
+OESP2,United States,Ohio,39,Adams,001
+OESP2,United States,Ohio,39,Athens,009
+OESP2,United States,Ohio,39,Auglaize,011
+OESP2,United States,Ohio,39,Erie,043
+OESP2,United States,Ohio,39,Fayette,047
+OESP2,United States,Ohio,39,Franklin,049
+OESP2,United States,Ohio,39,Highland,071
+OESP2,United States,Oklahoma,40,,
+OESP2,United States,Oklahoma,40,Alfalfa,003
+OESP2,United States,Oklahoma,40,Atoka,005
+OESP2,United States,Oklahoma,40,Blaine,011
+OESP2,United States,Oklahoma,40,Bryan,013
+OESP2,United States,Oklahoma,40,Caddo,015
+OESP2,United States,Oklahoma,40,Carter,019
+OESP2,United States,Oklahoma,40,Cherokee,021
+OESP2,United States,Oklahoma,40,Choctaw,023
+OESP2,United States,Oklahoma,40,Cleveland,027
+OESP2,United States,Oklahoma,40,Comanche,031
+OESP2,United States,Oklahoma,40,Cotton,033
+OESP2,United States,Oklahoma,40,Delaware,041
+OESP2,United States,Oklahoma,40,Garfield,047
+OESP2,United States,Oklahoma,40,Grady,051
+OESP2,United States,Oklahoma,40,Grant,053
+OESP2,United States,Oklahoma,40,Hughes,063
+OESP2,United States,Oklahoma,40,Johnston,069
+OESP2,United States,Oklahoma,40,Kay,071
+OESP2,United States,Oklahoma,40,Kingfisher,073
+OESP2,United States,Oklahoma,40,Kiowa,075
+OESP2,United States,Oklahoma,40,Latimer,077
+OESP2,United States,Oklahoma,40,Le Flore,079
+OESP2,United States,Oklahoma,40,Lincoln,081
+OESP2,United States,Oklahoma,40,Major,093
+OESP2,United States,Oklahoma,40,Marshall,095
+OESP2,United States,Oklahoma,40,Mayes,097
+OESP2,United States,Oklahoma,40,McCurtain,089
+OESP2,United States,Oklahoma,40,Murray,099
+OESP2,United States,Oklahoma,40,Okfuskee,107
+OESP2,United States,Oklahoma,40,Oklahoma,109
+OESP2,United States,Oklahoma,40,Osage,113
+OESP2,United States,Oklahoma,40,Ottawa,115
+OESP2,United States,Oklahoma,40,Payne,119
+OESP2,United States,Oklahoma,40,Pittsburg,121
+OESP2,United States,Oklahoma,40,Pontotoc,123
+OESP2,United States,Oklahoma,40,Pottawatomie,125
+OESP2,United States,Oklahoma,40,Rogers,131
+OESP2,United States,Oklahoma,40,Sequoyah,135
+OESP2,United States,Oklahoma,40,Stephens,137
+OESP2,United States,Oklahoma,40,Tillman,141
+OESP2,United States,Oklahoma,40,Tulsa,143
+OESP2,United States,Oklahoma,40,Washington,147
+OESP2,United States,Oklahoma,40,Washita,149
+OESP2,United States,Pennsylvania,42,,
+OESP2,United States,Pennsylvania,42,Allegheny,003
+OESP2,United States,Pennsylvania,42,Berks,011
+OESP2,United States,Pennsylvania,42,Bucks,017
+OESP2,United States,Pennsylvania,42,Monroe,089
+OESP2,United States,Pennsylvania,42,Northampton,095
+OESP2,United States,South Carolina,45,,
+OESP2,United States,South Carolina,45,Abbeville,001
+OESP2,United States,South Carolina,45,Allendale,005
+OESP2,United States,South Carolina,45,Charleston,019
+OESP2,United States,South Carolina,45,Cherokee,021
+OESP2,United States,South Carolina,45,Chester,023
+OESP2,United States,South Carolina,45,Clarendon,027
+OESP2,United States,South Carolina,45,Colleton,029
+OESP2,United States,South Carolina,45,Darlington,031
+OESP2,United States,South Carolina,45,Edgefield,037
+OESP2,United States,South Carolina,45,Fairfield,039
+OESP2,United States,South Carolina,45,Florence,041
+OESP2,United States,South Carolina,45,Georgetown,043
+OESP2,United States,South Carolina,45,Greenwood,047
+OESP2,United States,South Carolina,45,Jasper,053
+OESP2,United States,South Carolina,45,Laurens,059
+OESP2,United States,South Carolina,45,McCormick,065
+OESP2,United States,South Carolina,45,Newberry,071
+OESP2,United States,South Carolina,45,Orangeburg,075
+OESP2,United States,South Carolina,45,Richland,079
+OESP2,United States,South Carolina,45,Spartanburg,083
+OESP2,United States,South Carolina,45,Sumter,085
+OESP2,United States,South Carolina,45,Union,087
+OESP2,United States,Tennessee,47,,
+OESP2,United States,Tennessee,47,Bedford,003
+OESP2,United States,Tennessee,47,Blount,009
+OESP2,United States,Tennessee,47,Cheatham,021
+OESP2,United States,Tennessee,47,Coffee,031
+OESP2,United States,Tennessee,47,Davidson,037
+OESP2,United States,Tennessee,47,Dickson,043
+OESP2,United States,Tennessee,47,Hardeman,069
+OESP2,United States,Tennessee,47,Houston,083
+OESP2,United States,Tennessee,47,Humphreys,085
+OESP2,United States,Tennessee,47,Knox,093
+OESP2,United States,Tennessee,47,Loudon,105
+OESP2,United States,Tennessee,47,Madison,113
+OESP2,United States,Tennessee,47,Marshall,117
+OESP2,United States,Tennessee,47,McMinn,107
+OESP2,United States,Tennessee,47,McNairy,109
+OESP2,United States,Tennessee,47,Montgomery,125
+OESP2,United States,Tennessee,47,Rutherford,149
+OESP2,United States,Tennessee,47,Shelby,157
+OESP2,United States,Tennessee,47,Stewart,161
+OESP2,United States,Tennessee,47,Sumner,165
+OESP2,United States,Tennessee,47,Trousdale,169
+OESP2,United States,Tennessee,47,Williamson,187
+OESP2,United States,Tennessee,47,Wilson,189
+OESP2,United States,Texas,48,,
+OESP2,United States,Texas,48,Anderson,001
+OESP2,United States,Texas,48,Aransas,007
+OESP2,United States,Texas,48,Archer,009
+OESP2,United States,Texas,48,Atascosa,013
+OESP2,United States,Texas,48,Bastrop,021
+OESP2,United States,Texas,48,Bee,025
+OESP2,United States,Texas,48,Bell,027
+OESP2,United States,Texas,48,Bexar,029
+OESP2,United States,Texas,48,Brazoria,039
+OESP2,United States,Texas,48,Brazos,041
+OESP2,United States,Texas,48,Brewster,043
+OESP2,United States,Texas,48,Brooks,047
+OESP2,United States,Texas,48,Brown,049
+OESP2,United States,Texas,48,Burleson,051
+OESP2,United States,Texas,48,Burnet,053
+OESP2,United States,Texas,48,Caldwell,055
+OESP2,United States,Texas,48,Calhoun,057
+OESP2,United States,Texas,48,Callahan,059
+OESP2,United States,Texas,48,Cameron,061
+OESP2,United States,Texas,48,Chambers,071
+OESP2,United States,Texas,48,Childress,075
+OESP2,United States,Texas,48,Clay,077
+OESP2,United States,Texas,48,Collin,085
+OESP2,United States,Texas,48,Colorado,089
+OESP2,United States,Texas,48,Comal,091
+OESP2,United States,Texas,48,Comanche,093
+OESP2,United States,Texas,48,Coryell,099
+OESP2,United States,Texas,48,Crockett,105
+OESP2,United States,Texas,48,Dallas,113
+OESP2,United States,Texas,48,Delta,119
+OESP2,United States,Texas,48,Denton,121
+OESP2,United States,Texas,48,Dimmit,127
+OESP2,United States,Texas,48,Duval,131
+OESP2,United States,Texas,48,Eastland,133
+OESP2,United States,Texas,48,Erath,143
+OESP2,United States,Texas,48,Fayette,149
+OESP2,United States,Texas,48,Floyd,153
+OESP2,United States,Texas,48,Galveston,167
+OESP2,United States,Texas,48,Garza,169
+OESP2,United States,Texas,48,Gillespie,171
+OESP2,United States,Texas,48,Goliad,175
+OESP2,United States,Texas,48,Gonzales,177
+OESP2,United States,Texas,48,Grayson,181
+OESP2,United States,Texas,48,Gregg,183
+OESP2,United States,Texas,48,Grimes,185
+OESP2,United States,Texas,48,Guadalupe,187
+OESP2,United States,Texas,48,Harris,201
+OESP2,United States,Texas,48,Hartley,205
+OESP2,United States,Texas,48,Hays,209
+OESP2,United States,Texas,48,Henderson,213
+OESP2,United States,Texas,48,Hidalgo,215
+OESP2,United States,Texas,48,Hill,217
+OESP2,United States,Texas,48,Howard,227
+OESP2,United States,Texas,48,Jackson,239
+OESP2,United States,Texas,48,Jeff Davis,243
+OESP2,United States,Texas,48,Jim Wells,249
+OESP2,United States,Texas,48,Jones,253
+OESP2,United States,Texas,48,Karnes,255
+OESP2,United States,Texas,48,Kaufman,257
+OESP2,United States,Texas,48,Kendall,259
+OESP2,United States,Texas,48,Kenedy,261
+OESP2,United States,Texas,48,Kerr,265
+OESP2,United States,Texas,48,Kleberg,273
+OESP2,United States,Texas,48,La Salle,283
+OESP2,United States,Texas,48,Lamb,279
+OESP2,United States,Texas,48,Lampasas,281
+OESP2,United States,Texas,48,Leon,289
+OESP2,United States,Texas,48,Live Oak,297
+OESP2,United States,Texas,48,Lubbock,303
+OESP2,United States,Texas,48,Madison,313
+OESP2,United States,Texas,48,Marion,315
+OESP2,United States,Texas,48,McLennan,309
+OESP2,United States,Texas,48,Mills,333
+OESP2,United States,Texas,48,Montgomery,339
+OESP2,United States,Texas,48,Navarro,349
+OESP2,United States,Texas,48,Nueces,355
+OESP2,United States,Texas,48,Orange,361
+OESP2,United States,Texas,48,Pecos,371
+OESP2,United States,Texas,48,Polk,373
+OESP2,United States,Texas,48,Presidio,377
+OESP2,United States,Texas,48,Rains,379
+OESP2,United States,Texas,48,Real,385
+OESP2,United States,Texas,48,Red River,387
+OESP2,United States,Texas,48,Robertson,395
+OESP2,United States,Texas,48,Rusk,401
+OESP2,United States,Texas,48,Sabine,403
+OESP2,United States,Texas,48,San Patricio,409
+OESP2,United States,Texas,48,Shackelford,417
+OESP2,United States,Texas,48,Starr,427
+OESP2,United States,Texas,48,Sutton,435
+OESP2,United States,Texas,48,Tarrant,439
+OESP2,United States,Texas,48,Taylor,441
+OESP2,United States,Texas,48,Titus,449
+OESP2,United States,Texas,48,Tom Green,451
+OESP2,United States,Texas,48,Travis,453
+OESP2,United States,Texas,48,Trinity,455
+OESP2,United States,Texas,48,Tyler,457
+OESP2,United States,Texas,48,Uvalde,463
+OESP2,United States,Texas,48,Val Verde,465
+OESP2,United States,Texas,48,Van Zandt,467
+OESP2,United States,Texas,48,Waller,473
+OESP2,United States,Texas,48,Washington,477
+OESP2,United States,Texas,48,Webb,479
+OESP2,United States,Texas,48,Wharton,481
+OESP2,United States,Texas,48,Wichita,485
+OESP2,United States,Texas,48,Williamson,491
+OESP2,United States,Texas,48,Wilson,493
+OESP2,United States,Texas,48,Zapata,505
+OESP2,United States,Texas,48,Zavala,507
+OESP2,United States,Utah,49,,
+OESP2,United States,Utah,49,Utah,049
+OESP2,United States,Utah,49,Washington,053
+OESP2,United States,Virginia,51,,
+OESP2,United States,Virginia,51,Accomack,001
+OESP2,United States,Virginia,51,Amherst,009
+OESP2,United States,Virginia,51,Botetourt,023
+OESP2,United States,Virginia,51,Buckingham,029
+OESP2,United States,Virginia,51,Campbell,031
+OESP2,United States,Virginia,51,Charlotte,037
+OESP2,United States,Virginia,51,Chesapeake ,550
+OESP2,United States,Virginia,51,Chesterfield,041
+OESP2,United States,Virginia,51,Fairfax,059
+OESP2,United States,Virginia,51,Greensville,081
+OESP2,United States,Virginia,51,Halifax,083
+OESP2,United States,Virginia,51,Henrico,087
+OESP2,United States,Virginia,51,Henry,089
+OESP2,United States,Virginia,51,Isle of Wight,093
+OESP2,United States,Virginia,51,King William,101
+OESP2,United States,Virginia,51,Lee,105
+OESP2,United States,Virginia,51,Louisa,109
+OESP2,United States,Virginia,51,Lunenburg,111
+OESP2,United States,Virginia,51,Mecklenburg,117
+OESP2,United States,Virginia,51,Montgomery,121
+OESP2,United States,Virginia,51,New Kent,127
+OESP2,United States,Virginia,51,Newport News ,700
+OESP2,United States,Virginia,51,Patrick,141
+OESP2,United States,Virginia,51,Pittsylvania,143
+OESP2,United States,Virginia,51,Powhatan,145
+OESP2,United States,Virginia,51,Prince Edward,147
+OESP2,United States,Virginia,51,Prince George,149
+OESP2,United States,Virginia,51,Roanoke,161
+OESP2,United States,Virginia,51,Southampton,175
+OESP2,United States,Virginia,51,Suffolk ,800
+OESP2,United States,West Virginia,54,,
+OESP2,United States,West Virginia,54,Kanawha,039
+OESP2,United States,West Virginia,54,Logan,045
+OESP2,United States,West Virginia,54,Monongalia,061
+OESP2,United States,West Virginia,54,Ohio,069

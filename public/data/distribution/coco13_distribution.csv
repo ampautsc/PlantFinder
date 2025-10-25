@@ -1,0 +1,1006 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+COCO13,United States,Alabama,01,,
+COCO13,United States,Alabama,01,Autauga,001
+COCO13,United States,Alabama,01,Baldwin,003
+COCO13,United States,Alabama,01,Barbour,005
+COCO13,United States,Alabama,01,Dallas,047
+COCO13,United States,Alabama,01,Elmore,051
+COCO13,United States,Alabama,01,Hale,065
+COCO13,United States,Alabama,01,Jackson,071
+COCO13,United States,Alabama,01,Lamar,075
+COCO13,United States,Alabama,01,Lawrence,079
+COCO13,United States,Alabama,01,Lowndes,085
+COCO13,United States,Alabama,01,Madison,089
+COCO13,United States,Alabama,01,Mobile,097
+COCO13,United States,Alabama,01,Montgomery,101
+COCO13,United States,Alabama,01,Pickens,107
+COCO13,United States,Alabama,01,Tuscaloosa,125
+COCO13,United States,Alabama,01,Wilcox,131
+COCO13,United States,Arkansas,05,,
+COCO13,United States,Arkansas,05,Arkansas,001
+COCO13,United States,Arkansas,05,Ashley,003
+COCO13,United States,Arkansas,05,Baxter,005
+COCO13,United States,Arkansas,05,Benton,007
+COCO13,United States,Arkansas,05,Bradley,011
+COCO13,United States,Arkansas,05,Calhoun,013
+COCO13,United States,Arkansas,05,Carroll,015
+COCO13,United States,Arkansas,05,Chicot,017
+COCO13,United States,Arkansas,05,Clark,019
+COCO13,United States,Arkansas,05,Clay,021
+COCO13,United States,Arkansas,05,Cleburne,023
+COCO13,United States,Arkansas,05,Cleveland,025
+COCO13,United States,Arkansas,05,Columbia,027
+COCO13,United States,Arkansas,05,Conway,029
+COCO13,United States,Arkansas,05,Craighead,031
+COCO13,United States,Arkansas,05,Crawford,033
+COCO13,United States,Arkansas,05,Crittenden,035
+COCO13,United States,Arkansas,05,Dallas,039
+COCO13,United States,Arkansas,05,Desha,041
+COCO13,United States,Arkansas,05,Drew,043
+COCO13,United States,Arkansas,05,Faulkner,045
+COCO13,United States,Arkansas,05,Franklin,047
+COCO13,United States,Arkansas,05,Fulton,049
+COCO13,United States,Arkansas,05,Garland,051
+COCO13,United States,Arkansas,05,Grant,053
+COCO13,United States,Arkansas,05,Hempstead,057
+COCO13,United States,Arkansas,05,Hot Spring,059
+COCO13,United States,Arkansas,05,Howard,061
+COCO13,United States,Arkansas,05,Independence,063
+COCO13,United States,Arkansas,05,Izard,065
+COCO13,United States,Arkansas,05,Jefferson,069
+COCO13,United States,Arkansas,05,Johnson,071
+COCO13,United States,Arkansas,05,Lawrence,075
+COCO13,United States,Arkansas,05,Lee,077
+COCO13,United States,Arkansas,05,Lincoln,079
+COCO13,United States,Arkansas,05,Little River,081
+COCO13,United States,Arkansas,05,Logan,083
+COCO13,United States,Arkansas,05,Lonoke,085
+COCO13,United States,Arkansas,05,Madison,087
+COCO13,United States,Arkansas,05,Marion,089
+COCO13,United States,Arkansas,05,Miller,091
+COCO13,United States,Arkansas,05,Mississippi,093
+COCO13,United States,Arkansas,05,Monroe,095
+COCO13,United States,Arkansas,05,Montgomery,097
+COCO13,United States,Arkansas,05,Nevada,099
+COCO13,United States,Arkansas,05,Newton,101
+COCO13,United States,Arkansas,05,Ouachita,103
+COCO13,United States,Arkansas,05,Perry,105
+COCO13,United States,Arkansas,05,Phillips,107
+COCO13,United States,Arkansas,05,Pike,109
+COCO13,United States,Arkansas,05,Poinsett,111
+COCO13,United States,Arkansas,05,Polk,113
+COCO13,United States,Arkansas,05,Pope,115
+COCO13,United States,Arkansas,05,Prairie,117
+COCO13,United States,Arkansas,05,Pulaski,119
+COCO13,United States,Arkansas,05,Randolph,121
+COCO13,United States,Arkansas,05,Saline,125
+COCO13,United States,Arkansas,05,Scott,127
+COCO13,United States,Arkansas,05,Searcy,129
+COCO13,United States,Arkansas,05,Sevier,133
+COCO13,United States,Arkansas,05,Sharp,135
+COCO13,United States,Arkansas,05,St. Francis,123
+COCO13,United States,Arkansas,05,Stone,137
+COCO13,United States,Arkansas,05,Union,139
+COCO13,United States,Arkansas,05,Van Buren,141
+COCO13,United States,Arkansas,05,Washington,143
+COCO13,United States,Arkansas,05,White,145
+COCO13,United States,Arkansas,05,Woodruff,147
+COCO13,United States,Arkansas,05,Yell,149
+COCO13,Canada,Ontario,08,,
+COCO13,United States,Delaware,10,,
+COCO13,United States,Delaware,10,New Castle,003
+COCO13,United States,Delaware,10,Sussex,005
+COCO13,United States,District of Columbia,11,,
+COCO13,United States,District of Columbia,11,District of Columbia,001
+COCO13,United States,Florida,12,,
+COCO13,United States,Florida,12,Alachua,001
+COCO13,United States,Florida,12,Brevard,009
+COCO13,United States,Florida,12,Broward,011
+COCO13,United States,Florida,12,Calhoun,013
+COCO13,United States,Florida,12,Charlotte,015
+COCO13,United States,Florida,12,Citrus,017
+COCO13,United States,Florida,12,Collier,021
+COCO13,United States,Florida,12,Columbia,023
+COCO13,United States,Florida,12,DeSoto,027
+COCO13,United States,Florida,12,Dixie,029
+COCO13,United States,Florida,12,Duval,031
+COCO13,United States,Florida,12,Escambia,033
+COCO13,United States,Florida,12,Flagler,035
+COCO13,United States,Florida,12,Franklin,037
+COCO13,United States,Florida,12,Gadsden,039
+COCO13,United States,Florida,12,Gilchrist,041
+COCO13,United States,Florida,12,Glades,043
+COCO13,United States,Florida,12,Hamilton,047
+COCO13,United States,Florida,12,Hardee,049
+COCO13,United States,Florida,12,Hendry,051
+COCO13,United States,Florida,12,Hernando,053
+COCO13,United States,Florida,12,Highlands,055
+COCO13,United States,Florida,12,Hillsborough,057
+COCO13,United States,Florida,12,Holmes,059
+COCO13,United States,Florida,12,Jackson,063
+COCO13,United States,Florida,12,Jefferson,065
+COCO13,United States,Florida,12,Lafayette,067
+COCO13,United States,Florida,12,Lake,069
+COCO13,United States,Florida,12,Lee,071
+COCO13,United States,Florida,12,Leon,073
+COCO13,United States,Florida,12,Levy,075
+COCO13,United States,Florida,12,Liberty,077
+COCO13,United States,Florida,12,Manatee,081
+COCO13,United States,Florida,12,Marion,083
+COCO13,United States,Florida,12,Martin,085
+COCO13,United States,Florida,12,Miami-Dade,086
+COCO13,United States,Florida,12,Monroe,087
+COCO13,United States,Florida,12,Nassau,089
+COCO13,United States,Florida,12,Okaloosa,091
+COCO13,United States,Florida,12,Okeechobee,093
+COCO13,United States,Florida,12,Orange,095
+COCO13,United States,Florida,12,Osceola,097
+COCO13,United States,Florida,12,Palm Beach,099
+COCO13,United States,Florida,12,Pasco,101
+COCO13,United States,Florida,12,Pinellas,103
+COCO13,United States,Florida,12,Polk,105
+COCO13,United States,Florida,12,Putnam,107
+COCO13,United States,Florida,12,Santa Rosa,113
+COCO13,United States,Florida,12,Seminole,117
+COCO13,United States,Florida,12,St. Johns,109
+COCO13,United States,Florida,12,St. Lucie,111
+COCO13,United States,Florida,12,Sumter,119
+COCO13,United States,Florida,12,Suwannee,121
+COCO13,United States,Florida,12,Taylor,123
+COCO13,United States,Florida,12,Wakulla,129
+COCO13,United States,Florida,12,Walton,131
+COCO13,United States,Florida,12,Washington,133
+COCO13,United States,Georgia,13,,
+COCO13,United States,Georgia,13,Baker,007
+COCO13,United States,Georgia,13,Ben Hill,017
+COCO13,United States,Georgia,13,Brooks,027
+COCO13,United States,Georgia,13,Catoosa,047
+COCO13,United States,Georgia,13,Chatham,051
+COCO13,United States,Georgia,13,Clarke,059
+COCO13,United States,Georgia,13,Clay,061
+COCO13,United States,Georgia,13,Decatur,087
+COCO13,United States,Georgia,13,Elbert,105
+COCO13,United States,Georgia,13,Fulton,121
+COCO13,United States,Georgia,13,Grady,131
+COCO13,United States,Georgia,13,Hancock,141
+COCO13,United States,Georgia,13,Lincoln,181
+COCO13,United States,Georgia,13,McIntosh,191
+COCO13,United States,Georgia,13,Montgomery,209
+COCO13,United States,Georgia,13,Morgan,211
+COCO13,United States,Georgia,13,Oglethorpe,221
+COCO13,United States,Georgia,13,Randolph,243
+COCO13,United States,Georgia,13,Thomas,275
+COCO13,United States,Georgia,13,Walker,295
+COCO13,United States,Georgia,13,Wilkes,317
+COCO13,United States,Illinois,17,,
+COCO13,United States,Illinois,17,Adams,001
+COCO13,United States,Illinois,17,Alexander,003
+COCO13,United States,Illinois,17,Bond,005
+COCO13,United States,Illinois,17,Calhoun,013
+COCO13,United States,Illinois,17,Cass,017
+COCO13,United States,Illinois,17,Champaign,019
+COCO13,United States,Illinois,17,Clay,025
+COCO13,United States,Illinois,17,Clinton,027
+COCO13,United States,Illinois,17,Coles,029
+COCO13,United States,Illinois,17,Cook,031
+COCO13,United States,Illinois,17,Crawford,033
+COCO13,United States,Illinois,17,Douglas,041
+COCO13,United States,Illinois,17,DuPage,043
+COCO13,United States,Illinois,17,Edwards,047
+COCO13,United States,Illinois,17,Effingham,049
+COCO13,United States,Illinois,17,Fayette,051
+COCO13,United States,Illinois,17,Franklin,055
+COCO13,United States,Illinois,17,Fulton,057
+COCO13,United States,Illinois,17,Gallatin,059
+COCO13,United States,Illinois,17,Greene,061
+COCO13,United States,Illinois,17,Hamilton,065
+COCO13,United States,Illinois,17,Hancock,067
+COCO13,United States,Illinois,17,Hardin,069
+COCO13,United States,Illinois,17,Jackson,077
+COCO13,United States,Illinois,17,Jefferson,081
+COCO13,United States,Illinois,17,Jersey,083
+COCO13,United States,Illinois,17,Johnson,087
+COCO13,United States,Illinois,17,Lawrence,101
+COCO13,United States,Illinois,17,Logan,107
+COCO13,United States,Illinois,17,Macon,115
+COCO13,United States,Illinois,17,Macoupin,117
+COCO13,United States,Illinois,17,Madison,119
+COCO13,United States,Illinois,17,Marion,121
+COCO13,United States,Illinois,17,Mason,125
+COCO13,United States,Illinois,17,Massac,127
+COCO13,United States,Illinois,17,Menard,129
+COCO13,United States,Illinois,17,Monroe,133
+COCO13,United States,Illinois,17,Montgomery,135
+COCO13,United States,Illinois,17,Moultrie,139
+COCO13,United States,Illinois,17,Perry,145
+COCO13,United States,Illinois,17,Piatt,147
+COCO13,United States,Illinois,17,Pope,151
+COCO13,United States,Illinois,17,Pulaski,153
+COCO13,United States,Illinois,17,Randolph,157
+COCO13,United States,Illinois,17,Richland,159
+COCO13,United States,Illinois,17,Saline,165
+COCO13,United States,Illinois,17,Sangamon,167
+COCO13,United States,Illinois,17,Schuyler,169
+COCO13,United States,Illinois,17,Scott,171
+COCO13,United States,Illinois,17,Shelby,173
+COCO13,United States,Illinois,17,St. Clair,163
+COCO13,United States,Illinois,17,Union,181
+COCO13,United States,Illinois,17,Vermilion,183
+COCO13,United States,Illinois,17,Wabash,185
+COCO13,United States,Illinois,17,Washington,189
+COCO13,United States,Illinois,17,Wayne,191
+COCO13,United States,Illinois,17,White,193
+COCO13,United States,Illinois,17,Williamson,199
+COCO13,United States,Indiana,18,,
+COCO13,United States,Indiana,18,Brown,013
+COCO13,United States,Indiana,18,Clark,019
+COCO13,United States,Indiana,18,Crawford,025
+COCO13,United States,Indiana,18,Daviess,027
+COCO13,United States,Indiana,18,Decatur,031
+COCO13,United States,Indiana,18,Dubois,037
+COCO13,United States,Indiana,18,Floyd,043
+COCO13,United States,Indiana,18,Gibson,051
+COCO13,United States,Indiana,18,Greene,055
+COCO13,United States,Indiana,18,Harrison,061
+COCO13,United States,Indiana,18,Jackson,071
+COCO13,United States,Indiana,18,Jefferson,077
+COCO13,United States,Indiana,18,Jennings,079
+COCO13,United States,Indiana,18,Knox,083
+COCO13,United States,Indiana,18,Lawrence,093
+COCO13,United States,Indiana,18,Marion,097
+COCO13,United States,Indiana,18,Martin,101
+COCO13,United States,Indiana,18,Monroe,105
+COCO13,United States,Indiana,18,Montgomery,107
+COCO13,United States,Indiana,18,Morgan,109
+COCO13,United States,Indiana,18,Ohio,115
+COCO13,United States,Indiana,18,Orange,117
+COCO13,United States,Indiana,18,Owen,119
+COCO13,United States,Indiana,18,Parke,121
+COCO13,United States,Indiana,18,Perry,123
+COCO13,United States,Indiana,18,Pike,125
+COCO13,United States,Indiana,18,Posey,129
+COCO13,United States,Indiana,18,Putnam,133
+COCO13,United States,Indiana,18,Ripley,137
+COCO13,United States,Indiana,18,Scott,143
+COCO13,United States,Indiana,18,Spencer,147
+COCO13,United States,Indiana,18,Sullivan,153
+COCO13,United States,Indiana,18,Switzerland,155
+COCO13,United States,Indiana,18,Vanderburgh,163
+COCO13,United States,Indiana,18,Vermillion,165
+COCO13,United States,Indiana,18,Vigo,167
+COCO13,United States,Indiana,18,Warrick,173
+COCO13,United States,Indiana,18,Washington,175
+COCO13,United States,Kansas,20,,
+COCO13,United States,Kansas,20,Chautauqua,019
+COCO13,United States,Kansas,20,Cherokee,021
+COCO13,United States,Kansas,20,Crawford,037
+COCO13,United States,Kansas,20,Doniphan,043
+COCO13,United States,Kansas,20,Labette,099
+COCO13,United States,Kansas,20,Montgomery,125
+COCO13,United States,Kansas,20,Wyandotte,209
+COCO13,United States,Kentucky,21,,
+COCO13,United States,Kentucky,21,Adair,001
+COCO13,United States,Kentucky,21,Allen,003
+COCO13,United States,Kentucky,21,Anderson,005
+COCO13,United States,Kentucky,21,Ballard,007
+COCO13,United States,Kentucky,21,Barren,009
+COCO13,United States,Kentucky,21,Bell,013
+COCO13,United States,Kentucky,21,Boone,015
+COCO13,United States,Kentucky,21,Bourbon,017
+COCO13,United States,Kentucky,21,Boyd,019
+COCO13,United States,Kentucky,21,Bracken,023
+COCO13,United States,Kentucky,21,Breathitt,025
+COCO13,United States,Kentucky,21,Bullitt,029
+COCO13,United States,Kentucky,21,Butler,031
+COCO13,United States,Kentucky,21,Caldwell,033
+COCO13,United States,Kentucky,21,Calloway,035
+COCO13,United States,Kentucky,21,Campbell,037
+COCO13,United States,Kentucky,21,Carlisle,039
+COCO13,United States,Kentucky,21,Carter,043
+COCO13,United States,Kentucky,21,Casey,045
+COCO13,United States,Kentucky,21,Christian,047
+COCO13,United States,Kentucky,21,Clark,049
+COCO13,United States,Kentucky,21,Crittenden,055
+COCO13,United States,Kentucky,21,Daviess,059
+COCO13,United States,Kentucky,21,Edmonson,061
+COCO13,United States,Kentucky,21,Elliott,063
+COCO13,United States,Kentucky,21,Estill,065
+COCO13,United States,Kentucky,21,Fayette,067
+COCO13,United States,Kentucky,21,Fleming,069
+COCO13,United States,Kentucky,21,Floyd,071
+COCO13,United States,Kentucky,21,Franklin,073
+COCO13,United States,Kentucky,21,Gallatin,077
+COCO13,United States,Kentucky,21,Garrard,079
+COCO13,United States,Kentucky,21,Graves,083
+COCO13,United States,Kentucky,21,Grayson,085
+COCO13,United States,Kentucky,21,Green,087
+COCO13,United States,Kentucky,21,Greenup,089
+COCO13,United States,Kentucky,21,Hardin,093
+COCO13,United States,Kentucky,21,Harlan,095
+COCO13,United States,Kentucky,21,Hart,099
+COCO13,United States,Kentucky,21,Henderson,101
+COCO13,United States,Kentucky,21,Henry,103
+COCO13,United States,Kentucky,21,Hickman,105
+COCO13,United States,Kentucky,21,Hopkins,107
+COCO13,United States,Kentucky,21,Jackson,109
+COCO13,United States,Kentucky,21,Jefferson,111
+COCO13,United States,Kentucky,21,Jessamine,113
+COCO13,United States,Kentucky,21,Johnson,115
+COCO13,United States,Kentucky,21,Kenton,117
+COCO13,United States,Kentucky,21,Laurel,125
+COCO13,United States,Kentucky,21,Lawrence,127
+COCO13,United States,Kentucky,21,Lee,129
+COCO13,United States,Kentucky,21,Leslie,131
+COCO13,United States,Kentucky,21,Lewis,135
+COCO13,United States,Kentucky,21,Lincoln,137
+COCO13,United States,Kentucky,21,Logan,141
+COCO13,United States,Kentucky,21,Madison,151
+COCO13,United States,Kentucky,21,Mason,161
+COCO13,United States,Kentucky,21,McCracken,145
+COCO13,United States,Kentucky,21,McCreary,147
+COCO13,United States,Kentucky,21,McLean,149
+COCO13,United States,Kentucky,21,Meade,163
+COCO13,United States,Kentucky,21,Menifee,165
+COCO13,United States,Kentucky,21,Mercer,167
+COCO13,United States,Kentucky,21,Metcalfe,169
+COCO13,United States,Kentucky,21,Monroe,171
+COCO13,United States,Kentucky,21,Montgomery,173
+COCO13,United States,Kentucky,21,Morgan,175
+COCO13,United States,Kentucky,21,Muhlenberg,177
+COCO13,United States,Kentucky,21,Nelson,179
+COCO13,United States,Kentucky,21,Ohio,183
+COCO13,United States,Kentucky,21,Oldham,185
+COCO13,United States,Kentucky,21,Pendleton,191
+COCO13,United States,Kentucky,21,Powell,197
+COCO13,United States,Kentucky,21,Pulaski,199
+COCO13,United States,Kentucky,21,Robertson,201
+COCO13,United States,Kentucky,21,Rockcastle,203
+COCO13,United States,Kentucky,21,Rowan,205
+COCO13,United States,Kentucky,21,Russell,207
+COCO13,United States,Kentucky,21,Simpson,213
+COCO13,United States,Kentucky,21,Spencer,215
+COCO13,United States,Kentucky,21,Taylor,217
+COCO13,United States,Kentucky,21,Todd,219
+COCO13,United States,Kentucky,21,Union,225
+COCO13,United States,Kentucky,21,Warren,227
+COCO13,United States,Kentucky,21,Washington,229
+COCO13,United States,Kentucky,21,Wayne,231
+COCO13,United States,Kentucky,21,Webster,233
+COCO13,United States,Kentucky,21,Whitley,235
+COCO13,United States,Kentucky,21,Wolfe,237
+COCO13,United States,Kentucky,21,Woodford,239
+COCO13,United States,Louisiana,22,,
+COCO13,United States,Louisiana,22,Acadia,001
+COCO13,United States,Louisiana,22,Allen,003
+COCO13,United States,Louisiana,22,Ascension,005
+COCO13,United States,Louisiana,22,Assumption,007
+COCO13,United States,Louisiana,22,Avoyelles,009
+COCO13,United States,Louisiana,22,Beauregard,011
+COCO13,United States,Louisiana,22,Bienville,013
+COCO13,United States,Louisiana,22,Bossier,015
+COCO13,United States,Louisiana,22,Caddo,017
+COCO13,United States,Louisiana,22,Calcasieu,019
+COCO13,United States,Louisiana,22,Caldwell,021
+COCO13,United States,Louisiana,22,Cameron,023
+COCO13,United States,Louisiana,22,Catahoula,025
+COCO13,United States,Louisiana,22,Claiborne,027
+COCO13,United States,Louisiana,22,Concordia,029
+COCO13,United States,Louisiana,22,De Soto,031
+COCO13,United States,Louisiana,22,East Baton Rouge,033
+COCO13,United States,Louisiana,22,East Carroll,035
+COCO13,United States,Louisiana,22,East Feliciana,037
+COCO13,United States,Louisiana,22,Evangeline,039
+COCO13,United States,Louisiana,22,Franklin,041
+COCO13,United States,Louisiana,22,Grant,043
+COCO13,United States,Louisiana,22,Iberia,045
+COCO13,United States,Louisiana,22,Iberville,047
+COCO13,United States,Louisiana,22,Jackson,049
+COCO13,United States,Louisiana,22,Jefferson,051
+COCO13,United States,Louisiana,22,Jefferson Davis,053
+COCO13,United States,Louisiana,22,Lafayette,055
+COCO13,United States,Louisiana,22,Lafourche,057
+COCO13,United States,Louisiana,22,LaSalle,059
+COCO13,United States,Louisiana,22,Lincoln,061
+COCO13,United States,Louisiana,22,Livingston,063
+COCO13,United States,Louisiana,22,Madison,065
+COCO13,United States,Louisiana,22,Morehouse,067
+COCO13,United States,Louisiana,22,Natchitoches,069
+COCO13,United States,Louisiana,22,Orleans,071
+COCO13,United States,Louisiana,22,Ouachita,073
+COCO13,United States,Louisiana,22,Plaquemines,075
+COCO13,United States,Louisiana,22,Pointe Coupee,077
+COCO13,United States,Louisiana,22,Rapides,079
+COCO13,United States,Louisiana,22,Red River,081
+COCO13,United States,Louisiana,22,Richland,083
+COCO13,United States,Louisiana,22,Sabine,085
+COCO13,United States,Louisiana,22,St. Bernard,087
+COCO13,United States,Louisiana,22,St. Charles,089
+COCO13,United States,Louisiana,22,St. Helena,091
+COCO13,United States,Louisiana,22,St. James,093
+COCO13,United States,Louisiana,22,St. Landry,097
+COCO13,United States,Louisiana,22,St. Martin,099
+COCO13,United States,Louisiana,22,St. Mary,101
+COCO13,United States,Louisiana,22,St. Tammany,103
+COCO13,United States,Louisiana,22,Tangipahoa,105
+COCO13,United States,Louisiana,22,Tensas,107
+COCO13,United States,Louisiana,22,Terrebonne,109
+COCO13,United States,Louisiana,22,Union,111
+COCO13,United States,Louisiana,22,Vermilion,113
+COCO13,United States,Louisiana,22,Vernon,115
+COCO13,United States,Louisiana,22,Washington,117
+COCO13,United States,Louisiana,22,Webster,119
+COCO13,United States,Louisiana,22,West Baton Rouge,121
+COCO13,United States,Louisiana,22,West Carroll,123
+COCO13,United States,Louisiana,22,West Feliciana,125
+COCO13,United States,Louisiana,22,Winn,127
+COCO13,United States,Maryland,24,,
+COCO13,United States,Michigan,26,,
+COCO13,United States,Michigan,26,Barry,015
+COCO13,United States,Michigan,26,Berrien,021
+COCO13,United States,Mississippi,28,,
+COCO13,United States,Mississippi,28,Adams,001
+COCO13,United States,Mississippi,28,Alcorn,003
+COCO13,United States,Mississippi,28,Amite,005
+COCO13,United States,Mississippi,28,Attala,007
+COCO13,United States,Mississippi,28,Benton,009
+COCO13,United States,Mississippi,28,Bolivar,011
+COCO13,United States,Mississippi,28,Carroll,015
+COCO13,United States,Mississippi,28,Chickasaw,017
+COCO13,United States,Mississippi,28,Choctaw,019
+COCO13,United States,Mississippi,28,Claiborne,021
+COCO13,United States,Mississippi,28,Clarke,023
+COCO13,United States,Mississippi,28,Clay,025
+COCO13,United States,Mississippi,28,Coahoma,027
+COCO13,United States,Mississippi,28,Copiah,029
+COCO13,United States,Mississippi,28,Covington,031
+COCO13,United States,Mississippi,28,DeSoto,033
+COCO13,United States,Mississippi,28,Forrest,035
+COCO13,United States,Mississippi,28,Franklin,037
+COCO13,United States,Mississippi,28,George,039
+COCO13,United States,Mississippi,28,Greene,041
+COCO13,United States,Mississippi,28,Grenada,043
+COCO13,United States,Mississippi,28,Hancock,045
+COCO13,United States,Mississippi,28,Harrison,047
+COCO13,United States,Mississippi,28,Hinds,049
+COCO13,United States,Mississippi,28,Holmes,051
+COCO13,United States,Mississippi,28,Humphreys,053
+COCO13,United States,Mississippi,28,Jackson,059
+COCO13,United States,Mississippi,28,Jasper,061
+COCO13,United States,Mississippi,28,Jefferson,063
+COCO13,United States,Mississippi,28,Jefferson Davis,065
+COCO13,United States,Mississippi,28,Jones,067
+COCO13,United States,Mississippi,28,Kemper,069
+COCO13,United States,Mississippi,28,Lafayette,071
+COCO13,United States,Mississippi,28,Lamar,073
+COCO13,United States,Mississippi,28,Lauderdale,075
+COCO13,United States,Mississippi,28,Lawrence,077
+COCO13,United States,Mississippi,28,Leake,079
+COCO13,United States,Mississippi,28,Lee,081
+COCO13,United States,Mississippi,28,Leflore,083
+COCO13,United States,Mississippi,28,Lincoln,085
+COCO13,United States,Mississippi,28,Lowndes,087
+COCO13,United States,Mississippi,28,Madison,089
+COCO13,United States,Mississippi,28,Marion,091
+COCO13,United States,Mississippi,28,Marshall,093
+COCO13,United States,Mississippi,28,Monroe,095
+COCO13,United States,Mississippi,28,Montgomery,097
+COCO13,United States,Mississippi,28,Neshoba,099
+COCO13,United States,Mississippi,28,Newton,101
+COCO13,United States,Mississippi,28,Noxubee,103
+COCO13,United States,Mississippi,28,Oktibbeha,105
+COCO13,United States,Mississippi,28,Panola,107
+COCO13,United States,Mississippi,28,Pearl River,109
+COCO13,United States,Mississippi,28,Perry,111
+COCO13,United States,Mississippi,28,Pike,113
+COCO13,United States,Mississippi,28,Pontotoc,115
+COCO13,United States,Mississippi,28,Prentiss,117
+COCO13,United States,Mississippi,28,Rankin,121
+COCO13,United States,Mississippi,28,Scott,123
+COCO13,United States,Mississippi,28,Simpson,127
+COCO13,United States,Mississippi,28,Smith,129
+COCO13,United States,Mississippi,28,Stone,131
+COCO13,United States,Mississippi,28,Tallahatchie,135
+COCO13,United States,Mississippi,28,Tishomingo,141
+COCO13,United States,Mississippi,28,Union,145
+COCO13,United States,Mississippi,28,Washington,151
+COCO13,United States,Mississippi,28,Wayne,153
+COCO13,United States,Mississippi,28,Webster,155
+COCO13,United States,Mississippi,28,Wilkinson,157
+COCO13,United States,Mississippi,28,Winston,159
+COCO13,United States,Mississippi,28,Yalobusha,161
+COCO13,United States,Mississippi,28,Yazoo,163
+COCO13,United States,Missouri,29,,
+COCO13,United States,Missouri,29,Barry,009
+COCO13,United States,Missouri,29,Barton,011
+COCO13,United States,Missouri,29,Bates,013
+COCO13,United States,Missouri,29,Benton,015
+COCO13,United States,Missouri,29,Bollinger,017
+COCO13,United States,Missouri,29,Boone,019
+COCO13,United States,Missouri,29,Butler,023
+COCO13,United States,Missouri,29,Camden,029
+COCO13,United States,Missouri,29,Cape Girardeau,031
+COCO13,United States,Missouri,29,Carter,035
+COCO13,United States,Missouri,29,Cedar,039
+COCO13,United States,Missouri,29,Christian,043
+COCO13,United States,Missouri,29,Cole,051
+COCO13,United States,Missouri,29,Crawford,055
+COCO13,United States,Missouri,29,Dade,057
+COCO13,United States,Missouri,29,Dallas,059
+COCO13,United States,Missouri,29,Dent,065
+COCO13,United States,Missouri,29,Douglas,067
+COCO13,United States,Missouri,29,Dunklin,069
+COCO13,United States,Missouri,29,Franklin,071
+COCO13,United States,Missouri,29,Gasconade,073
+COCO13,United States,Missouri,29,Greene,077
+COCO13,United States,Missouri,29,Hickory,085
+COCO13,United States,Missouri,29,Howell,091
+COCO13,United States,Missouri,29,Jasper,097
+COCO13,United States,Missouri,29,Jefferson,099
+COCO13,United States,Missouri,29,Laclede,105
+COCO13,United States,Missouri,29,Lawrence,109
+COCO13,United States,Missouri,29,Madison,123
+COCO13,United States,Missouri,29,Maries,125
+COCO13,United States,Missouri,29,McDonald,119
+COCO13,United States,Missouri,29,Miller,131
+COCO13,United States,Missouri,29,Mississippi,133
+COCO13,United States,Missouri,29,Montgomery,139
+COCO13,United States,Missouri,29,Morgan,141
+COCO13,United States,Missouri,29,New Madrid,143
+COCO13,United States,Missouri,29,Newton,145
+COCO13,United States,Missouri,29,Oregon,149
+COCO13,United States,Missouri,29,Osage,151
+COCO13,United States,Missouri,29,Ozark,153
+COCO13,United States,Missouri,29,Pemiscot,155
+COCO13,United States,Missouri,29,Perry,157
+COCO13,United States,Missouri,29,Phelps,161
+COCO13,United States,Missouri,29,Polk,167
+COCO13,United States,Missouri,29,Pulaski,169
+COCO13,United States,Missouri,29,Reynolds,179
+COCO13,United States,Missouri,29,Ripley,181
+COCO13,United States,Missouri,29,Saline,195
+COCO13,United States,Missouri,29,Scott,201
+COCO13,United States,Missouri,29,Shannon,203
+COCO13,United States,Missouri,29,Shelby,205
+COCO13,United States,Missouri,29,St. Charles,183
+COCO13,United States,Missouri,29,St. Clair,185
+COCO13,United States,Missouri,29,St. Francois,187
+COCO13,United States,Missouri,29,St. Louis,189
+COCO13,United States,Missouri,29,Ste. Genevieve,186
+COCO13,United States,Missouri,29,Stoddard,207
+COCO13,United States,Missouri,29,Stone,209
+COCO13,United States,Missouri,29,Taney,213
+COCO13,United States,Missouri,29,Texas,215
+COCO13,United States,Missouri,29,Vernon,217
+COCO13,United States,Missouri,29,Washington,221
+COCO13,United States,Missouri,29,Wayne,223
+COCO13,United States,Missouri,29,Webster,225
+COCO13,United States,Missouri,29,Wright,229
+COCO13,United States,Nebraska,31,,
+COCO13,United States,New Jersey,34,,
+COCO13,United States,New Jersey,34,Atlantic,001
+COCO13,United States,New Jersey,34,Bergen,003
+COCO13,United States,New Jersey,34,Cape May,009
+COCO13,United States,New Jersey,34,Cumberland,011
+COCO13,United States,New Jersey,34,Gloucester,015
+COCO13,United States,New Jersey,34,Monmouth,025
+COCO13,United States,New Jersey,34,Ocean,029
+COCO13,United States,New Jersey,34,Salem,033
+COCO13,United States,New Jersey,34,Union,039
+COCO13,United States,New York,36,,
+COCO13,United States,New York,36,Albany,001
+COCO13,United States,North Carolina,37,,
+COCO13,United States,North Carolina,37,Alamance,001
+COCO13,United States,North Carolina,37,Alexander,003
+COCO13,United States,North Carolina,37,Anson,007
+COCO13,United States,North Carolina,37,Ashe,009
+COCO13,United States,North Carolina,37,Beaufort,013
+COCO13,United States,North Carolina,37,Bertie,015
+COCO13,United States,North Carolina,37,Bladen,017
+COCO13,United States,North Carolina,37,Camden,029
+COCO13,United States,North Carolina,37,Carteret,031
+COCO13,United States,North Carolina,37,Caswell,033
+COCO13,United States,North Carolina,37,Chowan,041
+COCO13,United States,North Carolina,37,Columbus,047
+COCO13,United States,North Carolina,37,Craven,049
+COCO13,United States,North Carolina,37,Cumberland,051
+COCO13,United States,North Carolina,37,Currituck,053
+COCO13,United States,North Carolina,37,Davidson,057
+COCO13,United States,North Carolina,37,Davie,059
+COCO13,United States,North Carolina,37,Duplin,061
+COCO13,United States,North Carolina,37,Durham,063
+COCO13,United States,North Carolina,37,Edgecombe,065
+COCO13,United States,North Carolina,37,Gates,073
+COCO13,United States,North Carolina,37,Granville,077
+COCO13,United States,North Carolina,37,Halifax,083
+COCO13,United States,North Carolina,37,Harnett,085
+COCO13,United States,North Carolina,37,Hertford,091
+COCO13,United States,North Carolina,37,Hyde,095
+COCO13,United States,North Carolina,37,Johnston,101
+COCO13,United States,North Carolina,37,Jones,103
+COCO13,United States,North Carolina,37,Lenoir,107
+COCO13,United States,North Carolina,37,Martin,117
+COCO13,United States,North Carolina,37,Mecklenburg,119
+COCO13,United States,North Carolina,37,Moore,125
+COCO13,United States,North Carolina,37,Onslow,133
+COCO13,United States,North Carolina,37,Orange,135
+COCO13,United States,North Carolina,37,Pamlico,137
+COCO13,United States,North Carolina,37,Pasquotank,139
+COCO13,United States,North Carolina,37,Pender,141
+COCO13,United States,North Carolina,37,Perquimans,143
+COCO13,United States,North Carolina,37,Person,145
+COCO13,United States,North Carolina,37,Pitt,147
+COCO13,United States,North Carolina,37,Polk,149
+COCO13,United States,North Carolina,37,Richmond,153
+COCO13,United States,North Carolina,37,Robeson,155
+COCO13,United States,North Carolina,37,Scotland,165
+COCO13,United States,North Carolina,37,Stanly,167
+COCO13,United States,North Carolina,37,Stokes,169
+COCO13,United States,North Carolina,37,Swain,173
+COCO13,United States,North Carolina,37,Tyrrell,177
+COCO13,United States,North Carolina,37,Wake,183
+COCO13,United States,North Carolina,37,Warren,185
+COCO13,United States,North Carolina,37,Washington,187
+COCO13,United States,North Carolina,37,Wayne,191
+COCO13,United States,North Carolina,37,Wilson,195
+COCO13,United States,Ohio,39,,
+COCO13,United States,Ohio,39,Athens,009
+COCO13,United States,Ohio,39,Brown,015
+COCO13,United States,Ohio,39,Gallia,053
+COCO13,United States,Ohio,39,Hamilton,061
+COCO13,United States,Ohio,39,Highland,071
+COCO13,United States,Ohio,39,Lawrence,087
+COCO13,United States,Ohio,39,Licking,089
+COCO13,United States,Ohio,39,Morgan,115
+COCO13,United States,Ohio,39,Ross,141
+COCO13,United States,Ohio,39,Scioto,145
+COCO13,United States,Ohio,39,Tuscarawas,157
+COCO13,United States,Ohio,39,Vinton,163
+COCO13,United States,Ohio,39,Washington,167
+COCO13,United States,Oklahoma,40,,
+COCO13,United States,Oklahoma,40,Adair,001
+COCO13,United States,Oklahoma,40,Bryan,013
+COCO13,United States,Oklahoma,40,Caddo,015
+COCO13,United States,Oklahoma,40,Cherokee,021
+COCO13,United States,Oklahoma,40,Choctaw,023
+COCO13,United States,Oklahoma,40,Cleveland,027
+COCO13,United States,Oklahoma,40,Coal,029
+COCO13,United States,Oklahoma,40,Craig,035
+COCO13,United States,Oklahoma,40,Creek,037
+COCO13,United States,Oklahoma,40,Delaware,041
+COCO13,United States,Oklahoma,40,Grady,051
+COCO13,United States,Oklahoma,40,Haskell,061
+COCO13,United States,Oklahoma,40,Hughes,063
+COCO13,United States,Oklahoma,40,Latimer,077
+COCO13,United States,Oklahoma,40,Logan,083
+COCO13,United States,Oklahoma,40,Love,085
+COCO13,United States,Oklahoma,40,Mayes,097
+COCO13,United States,Oklahoma,40,McClain,087
+COCO13,United States,Oklahoma,40,McCurtain,089
+COCO13,United States,Oklahoma,40,McIntosh,091
+COCO13,United States,Oklahoma,40,Murray,099
+COCO13,United States,Oklahoma,40,Muskogee,101
+COCO13,United States,Oklahoma,40,Okfuskee,107
+COCO13,United States,Oklahoma,40,Oklahoma,109
+COCO13,United States,Oklahoma,40,Ottawa,115
+COCO13,United States,Oklahoma,40,Payne,119
+COCO13,United States,Oklahoma,40,Pittsburg,121
+COCO13,United States,Oklahoma,40,Pottawatomie,125
+COCO13,United States,Oklahoma,40,Pushmataha,127
+COCO13,United States,Oklahoma,40,Rogers,131
+COCO13,United States,Oklahoma,40,Sequoyah,135
+COCO13,United States,Oklahoma,40,Tulsa,143
+COCO13,United States,Pennsylvania,42,,
+COCO13,United States,Pennsylvania,42,Adams,001
+COCO13,United States,Pennsylvania,42,Allegheny,003
+COCO13,United States,Pennsylvania,42,Bucks,017
+COCO13,United States,Pennsylvania,42,Butler,019
+COCO13,United States,Pennsylvania,42,Chester,029
+COCO13,United States,Pennsylvania,42,Cumberland,041
+COCO13,United States,Pennsylvania,42,Delaware,045
+COCO13,United States,Pennsylvania,42,Erie,049
+COCO13,United States,Pennsylvania,42,Fayette,051
+COCO13,United States,Pennsylvania,42,Franklin,055
+COCO13,United States,Pennsylvania,42,Fulton,057
+COCO13,United States,Pennsylvania,42,Greene,059
+COCO13,United States,Pennsylvania,42,Lancaster,071
+COCO13,United States,Pennsylvania,42,Lehigh,077
+COCO13,United States,Pennsylvania,42,Montgomery,091
+COCO13,United States,Pennsylvania,42,Northampton,095
+COCO13,United States,Pennsylvania,42,Philadelphia,101
+COCO13,United States,Pennsylvania,42,Washington,125
+COCO13,United States,Pennsylvania,42,Westmoreland,129
+COCO13,United States,Pennsylvania,42,York,133
+COCO13,United States,South Carolina,45,,
+COCO13,United States,South Carolina,45,Allendale,005
+COCO13,United States,South Carolina,45,Berkeley,015
+COCO13,United States,South Carolina,45,Calhoun,017
+COCO13,United States,South Carolina,45,Charleston,019
+COCO13,United States,South Carolina,45,Cherokee,021
+COCO13,United States,South Carolina,45,Chesterfield,025
+COCO13,United States,South Carolina,45,Clarendon,027
+COCO13,United States,South Carolina,45,Colleton,029
+COCO13,United States,South Carolina,45,Darlington,031
+COCO13,United States,South Carolina,45,Dillon,033
+COCO13,United States,South Carolina,45,Dorchester,035
+COCO13,United States,South Carolina,45,Edgefield,037
+COCO13,United States,South Carolina,45,Fairfield,039
+COCO13,United States,South Carolina,45,Florence,041
+COCO13,United States,South Carolina,45,Georgetown,043
+COCO13,United States,South Carolina,45,Hampton,049
+COCO13,United States,South Carolina,45,Horry,051
+COCO13,United States,South Carolina,45,Jasper,053
+COCO13,United States,South Carolina,45,Kershaw,055
+COCO13,United States,South Carolina,45,Lancaster,057
+COCO13,United States,South Carolina,45,Lee,061
+COCO13,United States,South Carolina,45,Lexington,063
+COCO13,United States,South Carolina,45,Marion,067
+COCO13,United States,South Carolina,45,Marlboro,069
+COCO13,United States,South Carolina,45,McCormick,065
+COCO13,United States,South Carolina,45,Newberry,071
+COCO13,United States,South Carolina,45,Orangeburg,075
+COCO13,United States,South Carolina,45,Richland,079
+COCO13,United States,South Carolina,45,Sumter,085
+COCO13,United States,South Carolina,45,Williamsburg,089
+COCO13,United States,Tennessee,47,,
+COCO13,United States,Tennessee,47,Anderson,001
+COCO13,United States,Tennessee,47,Bedford,003
+COCO13,United States,Tennessee,47,Benton,005
+COCO13,United States,Tennessee,47,Bledsoe,007
+COCO13,United States,Tennessee,47,Blount,009
+COCO13,United States,Tennessee,47,Cheatham,021
+COCO13,United States,Tennessee,47,Claiborne,025
+COCO13,United States,Tennessee,47,Clay,027
+COCO13,United States,Tennessee,47,Coffee,031
+COCO13,United States,Tennessee,47,Cumberland,035
+COCO13,United States,Tennessee,47,Davidson,037
+COCO13,United States,Tennessee,47,Decatur,039
+COCO13,United States,Tennessee,47,DeKalb,041
+COCO13,United States,Tennessee,47,Dickson,043
+COCO13,United States,Tennessee,47,Dyer,045
+COCO13,United States,Tennessee,47,Fayette,047
+COCO13,United States,Tennessee,47,Fentress,049
+COCO13,United States,Tennessee,47,Franklin,051
+COCO13,United States,Tennessee,47,Giles,055
+COCO13,United States,Tennessee,47,Hardin,071
+COCO13,United States,Tennessee,47,Hawkins,073
+COCO13,United States,Tennessee,47,Haywood,075
+COCO13,United States,Tennessee,47,Hickman,081
+COCO13,United States,Tennessee,47,Humphreys,085
+COCO13,United States,Tennessee,47,Jackson,087
+COCO13,United States,Tennessee,47,Jefferson,089
+COCO13,United States,Tennessee,47,Johnson,091
+COCO13,United States,Tennessee,47,Knox,093
+COCO13,United States,Tennessee,47,Lake,095
+COCO13,United States,Tennessee,47,Lewis,101
+COCO13,United States,Tennessee,47,Lincoln,103
+COCO13,United States,Tennessee,47,Loudon,105
+COCO13,United States,Tennessee,47,Marion,115
+COCO13,United States,Tennessee,47,Marshall,117
+COCO13,United States,Tennessee,47,Maury,119
+COCO13,United States,Tennessee,47,McMinn,107
+COCO13,United States,Tennessee,47,Monroe,123
+COCO13,United States,Tennessee,47,Montgomery,125
+COCO13,United States,Tennessee,47,Morgan,129
+COCO13,United States,Tennessee,47,Obion,131
+COCO13,United States,Tennessee,47,Overton,133
+COCO13,United States,Tennessee,47,Polk,139
+COCO13,United States,Tennessee,47,Putnam,141
+COCO13,United States,Tennessee,47,Rhea,143
+COCO13,United States,Tennessee,47,Roane,145
+COCO13,United States,Tennessee,47,Robertson,147
+COCO13,United States,Tennessee,47,Rutherford,149
+COCO13,United States,Tennessee,47,Sevier,155
+COCO13,United States,Tennessee,47,Shelby,157
+COCO13,United States,Tennessee,47,Stewart,161
+COCO13,United States,Tennessee,47,Sumner,165
+COCO13,United States,Tennessee,47,Tipton,167
+COCO13,United States,Tennessee,47,Trousdale,169
+COCO13,United States,Tennessee,47,Union,173
+COCO13,United States,Tennessee,47,Warren,177
+COCO13,United States,Tennessee,47,Wayne,181
+COCO13,United States,Tennessee,47,Weakley,183
+COCO13,United States,Tennessee,47,White,185
+COCO13,United States,Tennessee,47,Williamson,187
+COCO13,United States,Tennessee,47,Wilson,189
+COCO13,United States,Texas,48,,
+COCO13,United States,Texas,48,Anderson,001
+COCO13,United States,Texas,48,Angelina,005
+COCO13,United States,Texas,48,Aransas,007
+COCO13,United States,Texas,48,Bastrop,021
+COCO13,United States,Texas,48,Bell,027
+COCO13,United States,Texas,48,Bexar,029
+COCO13,United States,Texas,48,Bowie,037
+COCO13,United States,Texas,48,Brazoria,039
+COCO13,United States,Texas,48,Brazos,041
+COCO13,United States,Texas,48,Burleson,051
+COCO13,United States,Texas,48,Burnet,053
+COCO13,United States,Texas,48,Camp,063
+COCO13,United States,Texas,48,Cass,067
+COCO13,United States,Texas,48,Chambers,071
+COCO13,United States,Texas,48,Cherokee,073
+COCO13,United States,Texas,48,Comal,091
+COCO13,United States,Texas,48,Cooke,097
+COCO13,United States,Texas,48,Dallas,113
+COCO13,United States,Texas,48,Denton,121
+COCO13,United States,Texas,48,Ellis,139
+COCO13,United States,Texas,48,Fannin,147
+COCO13,United States,Texas,48,Fayette,149
+COCO13,United States,Texas,48,Freestone,161
+COCO13,United States,Texas,48,Galveston,167
+COCO13,United States,Texas,48,Gonzales,177
+COCO13,United States,Texas,48,Grayson,181
+COCO13,United States,Texas,48,Gregg,183
+COCO13,United States,Texas,48,Grimes,185
+COCO13,United States,Texas,48,Hardin,199
+COCO13,United States,Texas,48,Harris,201
+COCO13,United States,Texas,48,Harrison,203
+COCO13,United States,Texas,48,Hays,209
+COCO13,United States,Texas,48,Henderson,213
+COCO13,United States,Texas,48,Houston,225
+COCO13,United States,Texas,48,Hunt,231
+COCO13,United States,Texas,48,Jackson,239
+COCO13,United States,Texas,48,Jasper,241
+COCO13,United States,Texas,48,Jefferson,245
+COCO13,United States,Texas,48,Kaufman,257
+COCO13,United States,Texas,48,Kleberg,273
+COCO13,United States,Texas,48,Lamar,277
+COCO13,United States,Texas,48,Lee,287
+COCO13,United States,Texas,48,Leon,289
+COCO13,United States,Texas,48,Liberty,291
+COCO13,United States,Texas,48,Limestone,293
+COCO13,United States,Texas,48,Marion,315
+COCO13,United States,Texas,48,Matagorda,321
+COCO13,United States,Texas,48,McLennan,309
+COCO13,United States,Texas,48,Milam,331
+COCO13,United States,Texas,48,Montgomery,339
+COCO13,United States,Texas,48,Morris,343
+COCO13,United States,Texas,48,Nacogdoches,347
+COCO13,United States,Texas,48,Navarro,349
+COCO13,United States,Texas,48,Newton,351
+COCO13,United States,Texas,48,Orange,361
+COCO13,United States,Texas,48,Panola,365
+COCO13,United States,Texas,48,Parker,367
+COCO13,United States,Texas,48,Polk,373
+COCO13,United States,Texas,48,Red River,387
+COCO13,United States,Texas,48,Robertson,395
+COCO13,United States,Texas,48,Rusk,401
+COCO13,United States,Texas,48,San Jacinto,407
+COCO13,United States,Texas,48,San Saba,411
+COCO13,United States,Texas,48,Shelby,419
+COCO13,United States,Texas,48,Smith,423
+COCO13,United States,Texas,48,Tarrant,439
+COCO13,United States,Texas,48,Titus,449
+COCO13,United States,Texas,48,Travis,453
+COCO13,United States,Texas,48,Tyler,457
+COCO13,United States,Texas,48,Upshur,459
+COCO13,United States,Texas,48,Van Zandt,467
+COCO13,United States,Texas,48,Walker,471
+COCO13,United States,Texas,48,Webb,479
+COCO13,United States,Texas,48,Wharton,481
+COCO13,United States,Texas,48,Williamson,491
+COCO13,United States,Texas,48,Wise,497
+COCO13,United States,Texas,48,Wood,499
+COCO13,United States,Virginia,51,,
+COCO13,United States,Virginia,51,Accomack,001
+COCO13,United States,Virginia,51,Albemarle,003
+COCO13,United States,Virginia,51,Alleghany,005
+COCO13,United States,Virginia,51,Amelia,007
+COCO13,United States,Virginia,51,Amherst,009
+COCO13,United States,Virginia,51,Appomattox,011
+COCO13,United States,Virginia,51,Arlington,013
+COCO13,United States,Virginia,51,Augusta,015
+COCO13,United States,Virginia,51,Bath,017
+COCO13,United States,Virginia,51,Bedford,019
+COCO13,United States,Virginia,51,Botetourt,023
+COCO13,United States,Virginia,51,Brunswick,025
+COCO13,United States,Virginia,51,Buchanan,027
+COCO13,United States,Virginia,51,Buckingham,029
+COCO13,United States,Virginia,51,Campbell,031
+COCO13,United States,Virginia,51,Charles City,036
+COCO13,United States,Virginia,51,Charlotte,037
+COCO13,United States,Virginia,51,Chesapeake ,550
+COCO13,United States,Virginia,51,Chesterfield,041
+COCO13,United States,Virginia,51,Clarke,043
+COCO13,United States,Virginia,51,Culpeper,047
+COCO13,United States,Virginia,51,Cumberland,049
+COCO13,United States,Virginia,51,Dickenson,051
+COCO13,United States,Virginia,51,Dinwiddie,053
+COCO13,United States,Virginia,51,Essex,057
+COCO13,United States,Virginia,51,Fairfax,059
+COCO13,United States,Virginia,51,Fauquier,061
+COCO13,United States,Virginia,51,Fluvanna,065
+COCO13,United States,Virginia,51,Franklin,067
+COCO13,United States,Virginia,51,Frederick,069
+COCO13,United States,Virginia,51,Giles,071
+COCO13,United States,Virginia,51,Gloucester,073
+COCO13,United States,Virginia,51,Goochland,075
+COCO13,United States,Virginia,51,Greene,079
+COCO13,United States,Virginia,51,Greensville,081
+COCO13,United States,Virginia,51,Halifax,083
+COCO13,United States,Virginia,51,Hampton ,650
+COCO13,United States,Virginia,51,Hanover,085
+COCO13,United States,Virginia,51,Henrico,087
+COCO13,United States,Virginia,51,Henry,089
+COCO13,United States,Virginia,51,Highland,091
+COCO13,United States,Virginia,51,Isle of Wight,093
+COCO13,United States,Virginia,51,James City,095
+COCO13,United States,Virginia,51,King and Queen,097
+COCO13,United States,Virginia,51,King George,099
+COCO13,United States,Virginia,51,Lancaster,103
+COCO13,United States,Virginia,51,Lee,105
+COCO13,United States,Virginia,51,Loudoun,107
+COCO13,United States,Virginia,51,Louisa,109
+COCO13,United States,Virginia,51,Lunenburg,111
+COCO13,United States,Virginia,51,Madison,113
+COCO13,United States,Virginia,51,Mathews,115
+COCO13,United States,Virginia,51,Mecklenburg,117
+COCO13,United States,Virginia,51,Middlesex,119
+COCO13,United States,Virginia,51,Montgomery,121
+COCO13,United States,Virginia,51,Nelson,125
+COCO13,United States,Virginia,51,New Kent,127
+COCO13,United States,Virginia,51,Newport News ,700
+COCO13,United States,Virginia,51,Northampton,131
+COCO13,United States,Virginia,51,Northumberland,133
+COCO13,United States,Virginia,51,Orange,137
+COCO13,United States,Virginia,51,Page,139
+COCO13,United States,Virginia,51,Patrick,141
+COCO13,United States,Virginia,51,Pittsylvania,143
+COCO13,United States,Virginia,51,Powhatan,145
+COCO13,United States,Virginia,51,Prince Edward,147
+COCO13,United States,Virginia,51,Prince George,149
+COCO13,United States,Virginia,51,Prince William,153
+COCO13,United States,Virginia,51,Pulaski,155
+COCO13,United States,Virginia,51,Rappahannock,157
+COCO13,United States,Virginia,51,Richmond,159
+COCO13,United States,Virginia,51,Roanoke,161
+COCO13,United States,Virginia,51,Rockbridge,163
+COCO13,United States,Virginia,51,Rockingham,165
+COCO13,United States,Virginia,51,Russell,167
+COCO13,United States,Virginia,51,Scott,169
+COCO13,United States,Virginia,51,Shenandoah,171
+COCO13,United States,Virginia,51,Smyth,173
+COCO13,United States,Virginia,51,Southampton,175
+COCO13,United States,Virginia,51,Spotsylvania,177
+COCO13,United States,Virginia,51,Stafford,179
+COCO13,United States,Virginia,51,Suffolk ,800
+COCO13,United States,Virginia,51,Surry,181
+COCO13,United States,Virginia,51,Sussex,183
+COCO13,United States,Virginia,51,Tazewell,185
+COCO13,United States,Virginia,51,Virginia Beach ,810
+COCO13,United States,Virginia,51,Warren,187
+COCO13,United States,Virginia,51,Washington,191
+COCO13,United States,Virginia,51,Westmoreland,193
+COCO13,United States,Virginia,51,York,199
+COCO13,United States,West Virginia,54,,
+COCO13,United States,West Virginia,54,Braxton,007
+COCO13,United States,West Virginia,54,Cabell,011
+COCO13,United States,West Virginia,54,Calhoun,013
+COCO13,United States,West Virginia,54,Fayette,019
+COCO13,United States,West Virginia,54,Greenbrier,025
+COCO13,United States,West Virginia,54,Hampshire,027
+COCO13,United States,West Virginia,54,Hardy,031
+COCO13,United States,West Virginia,54,Jackson,035
+COCO13,United States,West Virginia,54,Jefferson,037
+COCO13,United States,West Virginia,54,Kanawha,039
+COCO13,United States,West Virginia,54,Lewis,041
+COCO13,United States,West Virginia,54,Logan,045
+COCO13,United States,West Virginia,54,Mercer,055
+COCO13,United States,West Virginia,54,Monongalia,061
+COCO13,United States,West Virginia,54,Pleasants,073
+COCO13,United States,West Virginia,54,Pocahontas,075
+COCO13,United States,West Virginia,54,Putnam,079
+COCO13,United States,West Virginia,54,Raleigh,081
+COCO13,United States,West Virginia,54,Randolph,083
+COCO13,United States,West Virginia,54,Ritchie,085
+COCO13,United States,West Virginia,54,Roane,087
+COCO13,United States,West Virginia,54,Summers,089
+COCO13,United States,West Virginia,54,Taylor,091
+COCO13,United States,West Virginia,54,Tucker,093
+COCO13,United States,West Virginia,54,Upshur,097
+COCO13,United States,West Virginia,54,Wayne,099
+COCO13,United States,West Virginia,54,Webster,101
+COCO13,United States,West Virginia,54,Wetzel,103
+COCO13,United States,West Virginia,54,Wirt,105
+COCO13,United States,West Virginia,54,Wood,107
+COCO13,United States,West Virginia,54,Wyoming,109

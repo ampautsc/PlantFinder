@@ -1,0 +1,20 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SABRV2,United States,Alaska,02,,
+SABRV2,United States,Oregon,41,,
+SABRV2,United States,Oregon,41,Clackamas,005
+SABRV2,United States,Oregon,41,Clatsop,007
+SABRV2,United States,Oregon,41,Douglas,019
+SABRV2,United States,Oregon,41,Hood River,027
+SABRV2,United States,Oregon,41,Lane,039
+SABRV2,United States,Oregon,41,Linn,043
+SABRV2,United States,Oregon,41,Marion,047
+SABRV2,United States,Oregon,41,Multnomah,051
+SABRV2,United States,Oregon,41,Tillamook,057
+SABRV2,United States,Washington,53,,
+SABRV2,United States,Washington,53,Grays Harbor,027
+SABRV2,United States,Washington,53,Lewis,041
+SABRV2,United States,Washington,53,Pacific,049
+SABRV2,United States,Washington,53,Pierce,053
+SABRV2,United States,Washington,53,Skamania,059
+SABRV2,United States,Washington,53,Yakima,077

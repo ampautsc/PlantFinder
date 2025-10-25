@@ -1,0 +1,42 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ERFAP,United States,Arizona,04,,
+ERFAP,United States,Arizona,04,Coconino,005
+ERFAP,United States,Arizona,04,Gila,007
+ERFAP,United States,Arizona,04,Graham,009
+ERFAP,United States,Arizona,04,La Paz,012
+ERFAP,United States,Arizona,04,Maricopa,013
+ERFAP,United States,Arizona,04,Mohave,015
+ERFAP,United States,Arizona,04,Pima,019
+ERFAP,United States,Arizona,04,Pinal,021
+ERFAP,United States,Arizona,04,Yavapai,025
+ERFAP,United States,Arizona,04,Yuma,027
+ERFAP,United States,California,06,,
+ERFAP,United States,California,06,Fresno,019
+ERFAP,United States,California,06,Imperial,025
+ERFAP,United States,California,06,Inyo,027
+ERFAP,United States,California,06,Kern,029
+ERFAP,United States,California,06,Kings,031
+ERFAP,United States,California,06,Los Angeles,037
+ERFAP,United States,California,06,Merced,047
+ERFAP,United States,California,06,Mono,051
+ERFAP,United States,California,06,Monterey,053
+ERFAP,United States,California,06,Orange,059
+ERFAP,United States,California,06,Riverside,065
+ERFAP,United States,California,06,San Benito,069
+ERFAP,United States,California,06,San Bernardino,071
+ERFAP,United States,California,06,San Diego,073
+ERFAP,United States,California,06,San Joaquin,077
+ERFAP,United States,California,06,San Luis Obispo,079
+ERFAP,United States,California,06,Santa Barbara,083
+ERFAP,United States,California,06,Stanislaus,099
+ERFAP,United States,California,06,Tulare,107
+ERFAP,United States,California,06,Ventura,111
+ERFAP,United States,Nevada,32,,
+ERFAP,United States,Nevada,32,Clark,003
+ERFAP,United States,Nevada,32,Esmeralda,009
+ERFAP,United States,Nevada,32,Lincoln,017
+ERFAP,United States,Nevada,32,Nye,023
+ERFAP,United States,Utah,49,,
+ERFAP,United States,Utah,49,Kane,025
+ERFAP,United States,Utah,49,Washington,053

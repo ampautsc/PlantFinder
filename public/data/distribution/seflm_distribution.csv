@@ -1,0 +1,34 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SEFLM,United States,Arizona,04,,
+SEFLM,United States,Arizona,04,Apache,001
+SEFLM,United States,Arizona,04,Cochise,003
+SEFLM,United States,Arizona,04,Coconino,005
+SEFLM,United States,Arizona,04,Gila,007
+SEFLM,United States,Arizona,04,Graham,009
+SEFLM,United States,Arizona,04,Greenlee,011
+SEFLM,United States,Arizona,04,La Paz,012
+SEFLM,United States,Arizona,04,Maricopa,013
+SEFLM,United States,Arizona,04,Mohave,015
+SEFLM,United States,Arizona,04,Navajo,017
+SEFLM,United States,Arizona,04,Pima,019
+SEFLM,United States,Arizona,04,Pinal,021
+SEFLM,United States,Arizona,04,Santa Cruz,023
+SEFLM,United States,Arizona,04,Yavapai,025
+SEFLM,United States,Arizona,04,Yuma,027
+SEFLM,United States,California,06,,
+SEFLM,United States,California,06,Inyo,027
+SEFLM,United States,California,06,Kern,029
+SEFLM,United States,California,06,Mono,051
+SEFLM,United States,California,06,Riverside,065
+SEFLM,United States,California,06,San Bernardino,071
+SEFLM,United States,California,06,San Diego,073
+SEFLM,United States,California,06,Tulare,107
+SEFLM,United States,Nevada,32,,
+SEFLM,United States,Nevada,32,Clark,003
+SEFLM,United States,Nevada,32,Lincoln,017
+SEFLM,United States,Nevada,32,Nye,023
+SEFLM,United States,New Mexico,35,,
+SEFLM,United States,Texas,48,,
+SEFLM,United States,Utah,49,,
+SEFLM,United States,Utah,49,Washington,053

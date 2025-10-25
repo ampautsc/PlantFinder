@@ -1,0 +1,29 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+POAC,Canada,Alberta,01,,
+POAC,Canada,British Columbia,02,,
+POAC,United States,Alaska,02,,
+POAC,United States,Alaska,02,Aleutians East,013
+POAC,United States,Alaska,02,Aleutians West,016
+POAC,United States,Alaska,02,Anchorage,020
+POAC,United States,Alaska,02,Bethel,050
+POAC,United States,Alaska,02,Bristol Bay,060
+POAC,United States,Alaska,02,Chugach,063
+POAC,United States,Alaska,02,Copper River,066
+POAC,United States,Alaska,02,Denali,068
+POAC,United States,Alaska,02,Dillingham,070
+POAC,United States,Alaska,02,Fairbanks North Star,090
+POAC,United States,Alaska,02,Haines,100
+POAC,United States,Alaska,02,Juneau,110
+POAC,United States,Alaska,02,Kenai Peninsula,122
+POAC,United States,Alaska,02,Kodiak Island,150
+POAC,United States,Alaska,02,Lake and Peninsula,164
+POAC,United States,Alaska,02,Matanuska-Susitna,170
+POAC,United States,Alaska,02,Nome,180
+POAC,United States,Alaska,02,North Slope,185
+POAC,United States,Alaska,02,Northwest Arctic,188
+POAC,United States,Alaska,02,Southeast Fairbanks,240
+POAC,United States,Alaska,02,Yakutat,282
+POAC,United States,Alaska,02,Yukon-Koyukuk,290
+POAC,Canada,Yukon,12,,
+POAC,Canada,Northwest Territories,13,,

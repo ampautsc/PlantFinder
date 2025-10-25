@@ -1,0 +1,32 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+ESCAM,United States,Arizona,04,,
+ESCAM,United States,Arizona,04,Cochise,003
+ESCAM,United States,Arizona,04,Gila,007
+ESCAM,United States,Arizona,04,Graham,009
+ESCAM,United States,Arizona,04,Greenlee,011
+ESCAM,United States,Arizona,04,La Paz,012
+ESCAM,United States,Arizona,04,Maricopa,013
+ESCAM,United States,Arizona,04,Mohave,015
+ESCAM,United States,Arizona,04,Pima,019
+ESCAM,United States,Arizona,04,Pinal,021
+ESCAM,United States,Arizona,04,Santa Cruz,023
+ESCAM,United States,Arizona,04,Yavapai,025
+ESCAM,United States,Arizona,04,Yuma,027
+ESCAM,United States,California,06,,
+ESCAM,United States,California,06,San Bernardino,071
+ESCAM,United States,Nevada,32,,
+ESCAM,United States,Nevada,32,Clark,003
+ESCAM,United States,Nevada,32,Lincoln,017
+ESCAM,United States,New Mexico,35,,
+ESCAM,United States,New Mexico,35,Dona Ana,013
+ESCAM,United States,New Mexico,35,Grant,017
+ESCAM,United States,New Mexico,35,Hidalgo,023
+ESCAM,United States,New Mexico,35,Luna,029
+ESCAM,United States,New Mexico,35,Santa Fe,049
+ESCAM,United States,Texas,48,,
+ESCAM,United States,Texas,48,El Paso,141
+ESCAM,United States,Texas,48,Ellis,139
+ESCAM,United States,Texas,48,Tarrant,439
+ESCAM,United States,Utah,49,,
+ESCAM,United States,Utah,49,Washington,053

@@ -1,0 +1,340 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SYSE2,Canada,Manitoba,03,,
+SYSE2,United States,Arkansas,05,,
+SYSE2,United States,Arkansas,05,Boone,009
+SYSE2,United States,Arkansas,05,Carroll,015
+SYSE2,United States,Arkansas,05,Garland,051
+SYSE2,United States,Arkansas,05,Izard,065
+SYSE2,United States,Arkansas,05,Madison,087
+SYSE2,United States,Arkansas,05,Marion,089
+SYSE2,United States,Arkansas,05,Newton,101
+SYSE2,United States,Arkansas,05,Van Buren,141
+SYSE2,Canada,Ontario,08,,
+SYSE2,United States,Illinois,17,,
+SYSE2,United States,Illinois,17,Boone,007
+SYSE2,United States,Illinois,17,Calhoun,013
+SYSE2,United States,Illinois,17,Carroll,015
+SYSE2,United States,Illinois,17,Cass,017
+SYSE2,United States,Illinois,17,Champaign,019
+SYSE2,United States,Illinois,17,Cook,031
+SYSE2,United States,Illinois,17,DeKalb,037
+SYSE2,United States,Illinois,17,DuPage,043
+SYSE2,United States,Illinois,17,Fulton,057
+SYSE2,United States,Illinois,17,Greene,061
+SYSE2,United States,Illinois,17,Grundy,063
+SYSE2,United States,Illinois,17,Hancock,067
+SYSE2,United States,Illinois,17,Henderson,071
+SYSE2,United States,Illinois,17,Henry,073
+SYSE2,United States,Illinois,17,Jersey,083
+SYSE2,United States,Illinois,17,Kane,089
+SYSE2,United States,Illinois,17,Kankakee,091
+SYSE2,United States,Illinois,17,Lake,097
+SYSE2,United States,Illinois,17,Lee,103
+SYSE2,United States,Illinois,17,Macoupin,117
+SYSE2,United States,Illinois,17,Madison,119
+SYSE2,United States,Illinois,17,Marshall,123
+SYSE2,United States,Illinois,17,Mason,125
+SYSE2,United States,Illinois,17,McHenry,111
+SYSE2,United States,Illinois,17,Menard,129
+SYSE2,United States,Illinois,17,Monroe,133
+SYSE2,United States,Illinois,17,Morgan,137
+SYSE2,United States,Illinois,17,Ogle,141
+SYSE2,United States,Illinois,17,Peoria,143
+SYSE2,United States,Illinois,17,Randolph,157
+SYSE2,United States,Illinois,17,Rock Island,161
+SYSE2,United States,Illinois,17,St. Clair,163
+SYSE2,United States,Illinois,17,Whiteside,195
+SYSE2,United States,Illinois,17,Will,197
+SYSE2,United States,Illinois,17,Winnebago,201
+SYSE2,United States,Indiana,18,,
+SYSE2,United States,Indiana,18,Benton,007
+SYSE2,United States,Indiana,18,Jasper,073
+SYSE2,United States,Indiana,18,Lake,089
+SYSE2,United States,Indiana,18,LaPorte,091
+SYSE2,United States,Indiana,18,Newton,111
+SYSE2,United States,Indiana,18,Porter,127
+SYSE2,United States,Indiana,18,Pulaski,131
+SYSE2,United States,Indiana,18,Starke,149
+SYSE2,United States,Indiana,18,Steuben,151
+SYSE2,United States,Indiana,18,Warren,171
+SYSE2,United States,Iowa,19,,
+SYSE2,United States,Iowa,19,Adams,003
+SYSE2,United States,Iowa,19,Allamakee,005
+SYSE2,United States,Iowa,19,Appanoose,007
+SYSE2,United States,Iowa,19,Audubon,009
+SYSE2,United States,Iowa,19,Black Hawk,013
+SYSE2,United States,Iowa,19,Bremer,017
+SYSE2,United States,Iowa,19,Buena Vista,021
+SYSE2,United States,Iowa,19,Cerro Gordo,033
+SYSE2,United States,Iowa,19,Cherokee,035
+SYSE2,United States,Iowa,19,Chickasaw,037
+SYSE2,United States,Iowa,19,Clay,041
+SYSE2,United States,Iowa,19,Clayton,043
+SYSE2,United States,Iowa,19,Clinton,045
+SYSE2,United States,Iowa,19,Decatur,053
+SYSE2,United States,Iowa,19,Delaware,055
+SYSE2,United States,Iowa,19,Dickinson,059
+SYSE2,United States,Iowa,19,Dubuque,061
+SYSE2,United States,Iowa,19,Emmet,063
+SYSE2,United States,Iowa,19,Fayette,065
+SYSE2,United States,Iowa,19,Fremont,071
+SYSE2,United States,Iowa,19,Guthrie,077
+SYSE2,United States,Iowa,19,Hamilton,079
+SYSE2,United States,Iowa,19,Hancock,081
+SYSE2,United States,Iowa,19,Hardin,083
+SYSE2,United States,Iowa,19,Harrison,085
+SYSE2,United States,Iowa,19,Howard,089
+SYSE2,United States,Iowa,19,Humboldt,091
+SYSE2,United States,Iowa,19,Ida,093
+SYSE2,United States,Iowa,19,Jackson,097
+SYSE2,United States,Iowa,19,Jasper,099
+SYSE2,United States,Iowa,19,Johnson,103
+SYSE2,United States,Iowa,19,Jones,105
+SYSE2,United States,Iowa,19,Kossuth,109
+SYSE2,United States,Iowa,19,Lee,111
+SYSE2,United States,Iowa,19,Louisa,115
+SYSE2,United States,Iowa,19,Lucas,117
+SYSE2,United States,Iowa,19,Lyon,119
+SYSE2,United States,Iowa,19,Madison,121
+SYSE2,United States,Iowa,19,Mills,129
+SYSE2,United States,Iowa,19,Monona,133
+SYSE2,United States,Iowa,19,Muscatine,139
+SYSE2,United States,Iowa,19,O'Brien,141
+SYSE2,United States,Iowa,19,Osceola,143
+SYSE2,United States,Iowa,19,Plymouth,149
+SYSE2,United States,Iowa,19,Polk,153
+SYSE2,United States,Iowa,19,Pottawattamie,155
+SYSE2,United States,Iowa,19,Poweshiek,157
+SYSE2,United States,Iowa,19,Sac,161
+SYSE2,United States,Iowa,19,Scott,163
+SYSE2,United States,Iowa,19,Shelby,165
+SYSE2,United States,Iowa,19,Sioux,167
+SYSE2,United States,Iowa,19,Story,169
+SYSE2,United States,Iowa,19,Union,175
+SYSE2,United States,Iowa,19,Webster,187
+SYSE2,United States,Iowa,19,Winnebago,189
+SYSE2,United States,Iowa,19,Winneshiek,191
+SYSE2,United States,Iowa,19,Woodbury,193
+SYSE2,United States,Iowa,19,Wright,197
+SYSE2,United States,Kansas,20,,
+SYSE2,United States,Kansas,20,Brown,013
+SYSE2,United States,Kansas,20,Butler,015
+SYSE2,United States,Kansas,20,Chase,017
+SYSE2,United States,Kansas,20,Chautauqua,019
+SYSE2,United States,Kansas,20,Clay,027
+SYSE2,United States,Kansas,20,Cloud,029
+SYSE2,United States,Kansas,20,Coffey,031
+SYSE2,United States,Kansas,20,Cowley,035
+SYSE2,United States,Kansas,20,Douglas,045
+SYSE2,United States,Kansas,20,Elk,049
+SYSE2,United States,Kansas,20,Ellsworth,053
+SYSE2,United States,Kansas,20,Geary,061
+SYSE2,United States,Kansas,20,Greenwood,073
+SYSE2,United States,Kansas,20,Jackson,085
+SYSE2,United States,Kansas,20,Lyon,111
+SYSE2,United States,Kansas,20,Marion,115
+SYSE2,United States,Kansas,20,Marshall,117
+SYSE2,United States,Kansas,20,McPherson,113
+SYSE2,United States,Kansas,20,Morris,127
+SYSE2,United States,Kansas,20,Ottawa,143
+SYSE2,United States,Kansas,20,Pottawatomie,149
+SYSE2,United States,Kansas,20,Republic,157
+SYSE2,United States,Kansas,20,Riley,161
+SYSE2,United States,Kansas,20,Saline,169
+SYSE2,United States,Kansas,20,Shawnee,177
+SYSE2,United States,Kansas,20,Sumner,191
+SYSE2,United States,Kansas,20,Wabaunsee,197
+SYSE2,United States,Kansas,20,Washington,201
+SYSE2,United States,Michigan,26,,
+SYSE2,United States,Michigan,26,Kalamazoo,077
+SYSE2,United States,Michigan,26,Kent,081
+SYSE2,United States,Michigan,26,Keweenaw,083
+SYSE2,United States,Michigan,26,Newaygo,123
+SYSE2,United States,Michigan,26,St. Joseph,149
+SYSE2,United States,Michigan,26,Van Buren,159
+SYSE2,United States,Minnesota,27,,
+SYSE2,United States,Minnesota,27,Anoka,003
+SYSE2,United States,Minnesota,27,Benton,009
+SYSE2,United States,Minnesota,27,Big Stone,011
+SYSE2,United States,Minnesota,27,Blue Earth,013
+SYSE2,United States,Minnesota,27,Brown,015
+SYSE2,United States,Minnesota,27,Carver,019
+SYSE2,United States,Minnesota,27,Cass,021
+SYSE2,United States,Minnesota,27,Chippewa,023
+SYSE2,United States,Minnesota,27,Chisago,025
+SYSE2,United States,Minnesota,27,Clay,027
+SYSE2,United States,Minnesota,27,Cottonwood,033
+SYSE2,United States,Minnesota,27,Dakota,037
+SYSE2,United States,Minnesota,27,Douglas,041
+SYSE2,United States,Minnesota,27,Faribault,043
+SYSE2,United States,Minnesota,27,Fillmore,045
+SYSE2,United States,Minnesota,27,Freeborn,047
+SYSE2,United States,Minnesota,27,Goodhue,049
+SYSE2,United States,Minnesota,27,Grant,051
+SYSE2,United States,Minnesota,27,Hennepin,053
+SYSE2,United States,Minnesota,27,Houston,055
+SYSE2,United States,Minnesota,27,Jackson,063
+SYSE2,United States,Minnesota,27,Kittson,069
+SYSE2,United States,Minnesota,27,Lac qui Parle,073
+SYSE2,United States,Minnesota,27,Le Sueur,079
+SYSE2,United States,Minnesota,27,Lincoln,081
+SYSE2,United States,Minnesota,27,Lyon,083
+SYSE2,United States,Minnesota,27,Mahnomen,087
+SYSE2,United States,Minnesota,27,McLeod,085
+SYSE2,United States,Minnesota,27,Morrison,097
+SYSE2,United States,Minnesota,27,Mower,099
+SYSE2,United States,Minnesota,27,Murray,101
+SYSE2,United States,Minnesota,27,Nobles,105
+SYSE2,United States,Minnesota,27,Norman,107
+SYSE2,United States,Minnesota,27,Otter Tail,111
+SYSE2,United States,Minnesota,27,Pipestone,117
+SYSE2,United States,Minnesota,27,Polk,119
+SYSE2,United States,Minnesota,27,Pope,121
+SYSE2,United States,Minnesota,27,Ramsey,123
+SYSE2,United States,Minnesota,27,Redwood,127
+SYSE2,United States,Minnesota,27,Renville,129
+SYSE2,United States,Minnesota,27,Rice,131
+SYSE2,United States,Minnesota,27,Roseau,135
+SYSE2,United States,Minnesota,27,Scott,139
+SYSE2,United States,Minnesota,27,Sherburne,141
+SYSE2,United States,Minnesota,27,Sibley,143
+SYSE2,United States,Minnesota,27,Stearns,145
+SYSE2,United States,Minnesota,27,Swift,151
+SYSE2,United States,Minnesota,27,Todd,153
+SYSE2,United States,Minnesota,27,Traverse,155
+SYSE2,United States,Minnesota,27,Wabasha,157
+SYSE2,United States,Minnesota,27,Washington,163
+SYSE2,United States,Minnesota,27,Winona,169
+SYSE2,United States,Minnesota,27,Wright,171
+SYSE2,United States,Minnesota,27,Yellow Medicine,173
+SYSE2,United States,Missouri,29,,
+SYSE2,United States,Missouri,29,Atchison,005
+SYSE2,United States,Missouri,29,Barry,009
+SYSE2,United States,Missouri,29,Benton,015
+SYSE2,United States,Missouri,29,Camden,029
+SYSE2,United States,Missouri,29,Cass,037
+SYSE2,United States,Missouri,29,Cedar,039
+SYSE2,United States,Missouri,29,Christian,043
+SYSE2,United States,Missouri,29,Crawford,055
+SYSE2,United States,Missouri,29,Dallas,059
+SYSE2,United States,Missouri,29,Dent,065
+SYSE2,United States,Missouri,29,Douglas,067
+SYSE2,United States,Missouri,29,Franklin,071
+SYSE2,United States,Missouri,29,Greene,077
+SYSE2,United States,Missouri,29,Hickory,085
+SYSE2,United States,Missouri,29,Holt,087
+SYSE2,United States,Missouri,29,Howell,091
+SYSE2,United States,Missouri,29,Iron,093
+SYSE2,United States,Missouri,29,Jackson,095
+SYSE2,United States,Missouri,29,Jefferson,099
+SYSE2,United States,Missouri,29,Laclede,105
+SYSE2,United States,Missouri,29,Lawrence,109
+SYSE2,United States,Missouri,29,Lincoln,113
+SYSE2,United States,Missouri,29,McDonald,119
+SYSE2,United States,Missouri,29,Miller,131
+SYSE2,United States,Missouri,29,Morgan,141
+SYSE2,United States,Missouri,29,Oregon,149
+SYSE2,United States,Missouri,29,Ozark,153
+SYSE2,United States,Missouri,29,Phelps,161
+SYSE2,United States,Missouri,29,Polk,167
+SYSE2,United States,Missouri,29,Pulaski,169
+SYSE2,United States,Missouri,29,Reynolds,179
+SYSE2,United States,Missouri,29,Shannon,203
+SYSE2,United States,Missouri,29,St. Francois,187
+SYSE2,United States,Missouri,29,St. Louis,189
+SYSE2,United States,Missouri,29,Ste. Genevieve,186
+SYSE2,United States,Missouri,29,Stone,209
+SYSE2,United States,Missouri,29,Taney,213
+SYSE2,United States,Missouri,29,Texas,215
+SYSE2,United States,Missouri,29,Washington,221
+SYSE2,United States,Missouri,29,Wright,229
+SYSE2,United States,Nebraska,31,,
+SYSE2,United States,Nebraska,31,Butler,023
+SYSE2,United States,Nebraska,31,Cedar,027
+SYSE2,United States,Nebraska,31,Dakota,043
+SYSE2,United States,Nebraska,31,Jefferson,095
+SYSE2,United States,Nebraska,31,Lancaster,109
+SYSE2,United States,Nebraska,31,Madison,119
+SYSE2,United States,Nebraska,31,McPherson,117
+SYSE2,United States,Nebraska,31,Nemaha,127
+SYSE2,United States,Nebraska,31,Pawnee,133
+SYSE2,United States,Nebraska,31,Richardson,147
+SYSE2,United States,Nebraska,31,Saunders,155
+SYSE2,United States,Nebraska,31,Thayer,169
+SYSE2,United States,New Mexico,35,,
+SYSE2,United States,North Dakota,38,,
+SYSE2,United States,North Dakota,38,Cass,017
+SYSE2,United States,North Dakota,38,Ransom,073
+SYSE2,United States,North Dakota,38,Richland,077
+SYSE2,United States,Ohio,39,,
+SYSE2,United States,Oklahoma,40,,
+SYSE2,United States,Oklahoma,40,Carter,019
+SYSE2,United States,Oklahoma,40,Kay,071
+SYSE2,United States,Oklahoma,40,Muskogee,101
+SYSE2,United States,Oklahoma,40,Osage,113
+SYSE2,United States,South Dakota,46,,
+SYSE2,United States,South Dakota,46,Bon Homme,009
+SYSE2,United States,South Dakota,46,Buffalo,017
+SYSE2,United States,South Dakota,46,Clay,027
+SYSE2,United States,South Dakota,46,Day,037
+SYSE2,United States,South Dakota,46,Deuel,039
+SYSE2,United States,South Dakota,46,Lawrence,081
+SYSE2,United States,South Dakota,46,Marshall,091
+SYSE2,United States,South Dakota,46,Minnehaha,099
+SYSE2,United States,South Dakota,46,Roberts,109
+SYSE2,United States,South Dakota,46,Sully,119
+SYSE2,United States,South Dakota,46,Union,127
+SYSE2,United States,Texas,48,,
+SYSE2,United States,Texas,48,Bastrop,021
+SYSE2,United States,Texas,48,Bexar,029
+SYSE2,United States,Texas,48,Comal,091
+SYSE2,United States,Texas,48,Coryell,099
+SYSE2,United States,Texas,48,Gillespie,171
+SYSE2,United States,Texas,48,Grimes,185
+SYSE2,United States,Texas,48,Harris,201
+SYSE2,United States,Texas,48,Hays,209
+SYSE2,United States,Texas,48,Kendall,259
+SYSE2,United States,Texas,48,Leon,289
+SYSE2,United States,Texas,48,Travis,453
+SYSE2,United States,Wisconsin,55,,
+SYSE2,United States,Wisconsin,55,Adams,001
+SYSE2,United States,Wisconsin,55,Buffalo,011
+SYSE2,United States,Wisconsin,55,Burnett,013
+SYSE2,United States,Wisconsin,55,Chippewa,017
+SYSE2,United States,Wisconsin,55,Columbia,021
+SYSE2,United States,Wisconsin,55,Crawford,023
+SYSE2,United States,Wisconsin,55,Dane,025
+SYSE2,United States,Wisconsin,55,Dodge,027
+SYSE2,United States,Wisconsin,55,Dunn,033
+SYSE2,United States,Wisconsin,55,Eau Claire,035
+SYSE2,United States,Wisconsin,55,Fond du Lac,039
+SYSE2,United States,Wisconsin,55,Grant,043
+SYSE2,United States,Wisconsin,55,Green,045
+SYSE2,United States,Wisconsin,55,Green Lake,047
+SYSE2,United States,Wisconsin,55,Iowa,049
+SYSE2,United States,Wisconsin,55,Jackson,053
+SYSE2,United States,Wisconsin,55,Jefferson,055
+SYSE2,United States,Wisconsin,55,La Crosse,063
+SYSE2,United States,Wisconsin,55,Marinette,075
+SYSE2,United States,Wisconsin,55,Marquette,077
+SYSE2,United States,Wisconsin,55,Milwaukee,079
+SYSE2,United States,Wisconsin,55,Monroe,081
+SYSE2,United States,Wisconsin,55,Pepin,091
+SYSE2,United States,Wisconsin,55,Pierce,093
+SYSE2,United States,Wisconsin,55,Polk,095
+SYSE2,United States,Wisconsin,55,Portage,097
+SYSE2,United States,Wisconsin,55,Racine,101
+SYSE2,United States,Wisconsin,55,Richland,103
+SYSE2,United States,Wisconsin,55,Rock,105
+SYSE2,United States,Wisconsin,55,Sauk,111
+SYSE2,United States,Wisconsin,55,Sheboygan,117
+SYSE2,United States,Wisconsin,55,St. Croix,109
+SYSE2,United States,Wisconsin,55,Trempealeau,121
+SYSE2,United States,Wisconsin,55,Vernon,123
+SYSE2,United States,Wisconsin,55,Walworth,127
+SYSE2,United States,Wisconsin,55,Waukesha,133
+SYSE2,United States,Wisconsin,55,Waupaca,135
+SYSE2,United States,Wisconsin,55,Waushara,137
+SYSE2,United States,Wisconsin,55,Winnebago,139
+SYSE2,United States,Wisconsin,55,Wood,141

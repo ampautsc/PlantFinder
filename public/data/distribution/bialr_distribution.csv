@@ -1,0 +1,89 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+BIALR,United States,Alabama,01,,
+BIALR,United States,Connecticut,09,,
+BIALR,United States,Florida,12,,
+BIALR,United States,Florida,12,Alachua,001
+BIALR,United States,Florida,12,Baker,003
+BIALR,United States,Florida,12,Brevard,009
+BIALR,United States,Florida,12,Broward,011
+BIALR,United States,Florida,12,Calhoun,013
+BIALR,United States,Florida,12,Charlotte,015
+BIALR,United States,Florida,12,Citrus,017
+BIALR,United States,Florida,12,Clay,019
+BIALR,United States,Florida,12,Collier,021
+BIALR,United States,Florida,12,Columbia,023
+BIALR,United States,Florida,12,DeSoto,027
+BIALR,United States,Florida,12,Dixie,029
+BIALR,United States,Florida,12,Duval,031
+BIALR,United States,Florida,12,Escambia,033
+BIALR,United States,Florida,12,Flagler,035
+BIALR,United States,Florida,12,Franklin,037
+BIALR,United States,Florida,12,Gadsden,039
+BIALR,United States,Florida,12,Gilchrist,041
+BIALR,United States,Florida,12,Glades,043
+BIALR,United States,Florida,12,Hardee,049
+BIALR,United States,Florida,12,Hendry,051
+BIALR,United States,Florida,12,Hernando,053
+BIALR,United States,Florida,12,Highlands,055
+BIALR,United States,Florida,12,Hillsborough,057
+BIALR,United States,Florida,12,Holmes,059
+BIALR,United States,Florida,12,Indian River,061
+BIALR,United States,Florida,12,Jackson,063
+BIALR,United States,Florida,12,Jefferson,065
+BIALR,United States,Florida,12,Lake,069
+BIALR,United States,Florida,12,Lee,071
+BIALR,United States,Florida,12,Leon,073
+BIALR,United States,Florida,12,Levy,075
+BIALR,United States,Florida,12,Liberty,077
+BIALR,United States,Florida,12,Manatee,081
+BIALR,United States,Florida,12,Marion,083
+BIALR,United States,Florida,12,Martin,085
+BIALR,United States,Florida,12,Miami-Dade,086
+BIALR,United States,Florida,12,Monroe,087
+BIALR,United States,Florida,12,Okaloosa,091
+BIALR,United States,Florida,12,Okeechobee,093
+BIALR,United States,Florida,12,Orange,095
+BIALR,United States,Florida,12,Osceola,097
+BIALR,United States,Florida,12,Palm Beach,099
+BIALR,United States,Florida,12,Pasco,101
+BIALR,United States,Florida,12,Pinellas,103
+BIALR,United States,Florida,12,Polk,105
+BIALR,United States,Florida,12,Putnam,107
+BIALR,United States,Florida,12,Santa Rosa,113
+BIALR,United States,Florida,12,Sarasota,115
+BIALR,United States,Florida,12,Seminole,117
+BIALR,United States,Florida,12,St. Lucie,111
+BIALR,United States,Florida,12,Sumter,119
+BIALR,United States,Florida,12,Suwannee,121
+BIALR,United States,Florida,12,Taylor,123
+BIALR,United States,Florida,12,Union,125
+BIALR,United States,Florida,12,Volusia,127
+BIALR,United States,Florida,12,Wakulla,129
+BIALR,United States,Florida,12,Walton,131
+BIALR,United States,Florida,12,Washington,133
+BIALR,United States,Georgia,13,,
+BIALR,United States,Hawaii,15,,
+BIALR,United States,Hawaii,15,Hawaii,001
+BIALR,United States,Hawaii,15,Honolulu,003
+BIALR,United States,Hawaii,15,Kauai,007
+BIALR,United States,Hawaii,15,Maui,009
+BIALR,United States,Louisiana,22,,
+BIALR,United States,Massachusetts,25,,
+BIALR,United States,Massachusetts,25,Middlesex,017
+BIALR,United States,Massachusetts,25,Worcester,027
+BIALR,United States,Missouri,29,,
+BIALR,United States,New Mexico,35,,
+BIALR,United States,New Mexico,35,Catron,003
+BIALR,United States,New Mexico,35,Grant,017
+BIALR,United States,New Mexico,35,Otero,035
+BIALR,United States,North Carolina,37,,
+BIALR,United States,Pennsylvania,42,,
+BIALR,United States,Pennsylvania,42,Philadelphia,101
+BIALR,United States,South Carolina,45,,
+BIALR,United States,Guam,66,,
+BIALR,United States,Puerto Rico,72,,
+BIALR,United States,U.S. Minor Outlying Islands,74,,
+BIALR,United States,U.S. Minor Outlying Islands,74,Midway Islands,300
+BIALR,United States,Virgin Islands,78,,
+BIALR,United States,Navassa Island,NI,,

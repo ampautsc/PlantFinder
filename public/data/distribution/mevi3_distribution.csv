@@ -1,0 +1,606 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+MEVI3,United States,Alabama,01,,
+MEVI3,United States,Alabama,01,Colbert,033
+MEVI3,United States,Alabama,01,DeKalb,049
+MEVI3,United States,Alabama,01,Jackson,071
+MEVI3,United States,Alabama,01,Lauderdale,077
+MEVI3,United States,Alabama,01,Lawrence,079
+MEVI3,United States,Alabama,01,Madison,089
+MEVI3,United States,Alabama,01,Morgan,103
+MEVI3,United States,Alabama,01,Winston,133
+MEVI3,United States,Arkansas,05,,
+MEVI3,United States,Arkansas,05,Benton,007
+MEVI3,United States,Arkansas,05,Fulton,049
+MEVI3,United States,Arkansas,05,Lawrence,075
+MEVI3,United States,Arkansas,05,Newton,101
+MEVI3,United States,Arkansas,05,Randolph,121
+MEVI3,United States,Arkansas,05,Sharp,135
+MEVI3,United States,Arkansas,05,Washington,143
+MEVI3,Canada,Ontario,08,,
+MEVI3,Canada,Quebec,10,,
+MEVI3,United States,Delaware,10,,
+MEVI3,United States,Delaware,10,New Castle,003
+MEVI3,United States,District of Columbia,11,,
+MEVI3,United States,District of Columbia,11,District of Columbia,001
+MEVI3,United States,Georgia,13,,
+MEVI3,United States,Georgia,13,Murray,213
+MEVI3,United States,Georgia,13,Polk,233
+MEVI3,United States,Georgia,13,Walker,295
+MEVI3,United States,Georgia,13,Whitfield,313
+MEVI3,United States,Illinois,17,,
+MEVI3,United States,Illinois,17,Adams,001
+MEVI3,United States,Illinois,17,Alexander,003
+MEVI3,United States,Illinois,17,Boone,007
+MEVI3,United States,Illinois,17,Bureau,011
+MEVI3,United States,Illinois,17,Calhoun,013
+MEVI3,United States,Illinois,17,Carroll,015
+MEVI3,United States,Illinois,17,Cass,017
+MEVI3,United States,Illinois,17,Champaign,019
+MEVI3,United States,Illinois,17,Christian,021
+MEVI3,United States,Illinois,17,Clark,023
+MEVI3,United States,Illinois,17,Clay,025
+MEVI3,United States,Illinois,17,Coles,029
+MEVI3,United States,Illinois,17,Cook,031
+MEVI3,United States,Illinois,17,Crawford,033
+MEVI3,United States,Illinois,17,Cumberland,035
+MEVI3,United States,Illinois,17,De Witt,039
+MEVI3,United States,Illinois,17,DeKalb,037
+MEVI3,United States,Illinois,17,Douglas,041
+MEVI3,United States,Illinois,17,DuPage,043
+MEVI3,United States,Illinois,17,Edwards,047
+MEVI3,United States,Illinois,17,Effingham,049
+MEVI3,United States,Illinois,17,Fayette,051
+MEVI3,United States,Illinois,17,Franklin,055
+MEVI3,United States,Illinois,17,Fulton,057
+MEVI3,United States,Illinois,17,Greene,061
+MEVI3,United States,Illinois,17,Grundy,063
+MEVI3,United States,Illinois,17,Hamilton,065
+MEVI3,United States,Illinois,17,Hancock,067
+MEVI3,United States,Illinois,17,Hardin,069
+MEVI3,United States,Illinois,17,Henderson,071
+MEVI3,United States,Illinois,17,Henry,073
+MEVI3,United States,Illinois,17,Jackson,077
+MEVI3,United States,Illinois,17,Jasper,079
+MEVI3,United States,Illinois,17,Jersey,083
+MEVI3,United States,Illinois,17,Johnson,087
+MEVI3,United States,Illinois,17,Kane,089
+MEVI3,United States,Illinois,17,Kankakee,091
+MEVI3,United States,Illinois,17,Kendall,093
+MEVI3,United States,Illinois,17,Knox,095
+MEVI3,United States,Illinois,17,Lake,097
+MEVI3,United States,Illinois,17,LaSalle,099
+MEVI3,United States,Illinois,17,Lawrence,101
+MEVI3,United States,Illinois,17,Lee,103
+MEVI3,United States,Illinois,17,Livingston,105
+MEVI3,United States,Illinois,17,Logan,107
+MEVI3,United States,Illinois,17,Macon,115
+MEVI3,United States,Illinois,17,Macoupin,117
+MEVI3,United States,Illinois,17,Madison,119
+MEVI3,United States,Illinois,17,Marion,121
+MEVI3,United States,Illinois,17,Marshall,123
+MEVI3,United States,Illinois,17,Mason,125
+MEVI3,United States,Illinois,17,Massac,127
+MEVI3,United States,Illinois,17,McDonough,109
+MEVI3,United States,Illinois,17,McLean,113
+MEVI3,United States,Illinois,17,Menard,129
+MEVI3,United States,Illinois,17,Mercer,131
+MEVI3,United States,Illinois,17,Monroe,133
+MEVI3,United States,Illinois,17,Montgomery,135
+MEVI3,United States,Illinois,17,Moultrie,139
+MEVI3,United States,Illinois,17,Ogle,141
+MEVI3,United States,Illinois,17,Peoria,143
+MEVI3,United States,Illinois,17,Perry,145
+MEVI3,United States,Illinois,17,Piatt,147
+MEVI3,United States,Illinois,17,Pike,149
+MEVI3,United States,Illinois,17,Pope,151
+MEVI3,United States,Illinois,17,Pulaski,153
+MEVI3,United States,Illinois,17,Putnam,155
+MEVI3,United States,Illinois,17,Randolph,157
+MEVI3,United States,Illinois,17,Richland,159
+MEVI3,United States,Illinois,17,Rock Island,161
+MEVI3,United States,Illinois,17,Saline,165
+MEVI3,United States,Illinois,17,Sangamon,167
+MEVI3,United States,Illinois,17,Schuyler,169
+MEVI3,United States,Illinois,17,Shelby,173
+MEVI3,United States,Illinois,17,St. Clair,163
+MEVI3,United States,Illinois,17,Stark,175
+MEVI3,United States,Illinois,17,Stephenson,177
+MEVI3,United States,Illinois,17,Tazewell,179
+MEVI3,United States,Illinois,17,Union,181
+MEVI3,United States,Illinois,17,Vermilion,183
+MEVI3,United States,Illinois,17,Wabash,185
+MEVI3,United States,Illinois,17,Warren,187
+MEVI3,United States,Illinois,17,Washington,189
+MEVI3,United States,Illinois,17,Wayne,191
+MEVI3,United States,Illinois,17,Whiteside,195
+MEVI3,United States,Illinois,17,Will,197
+MEVI3,United States,Illinois,17,Williamson,199
+MEVI3,United States,Illinois,17,Winnebago,201
+MEVI3,United States,Illinois,17,Woodford,203
+MEVI3,United States,Indiana,18,,
+MEVI3,United States,Indiana,18,Brown,013
+MEVI3,United States,Indiana,18,Carroll,015
+MEVI3,United States,Indiana,18,Clark,019
+MEVI3,United States,Indiana,18,Clay,021
+MEVI3,United States,Indiana,18,Crawford,025
+MEVI3,United States,Indiana,18,Dearborn,029
+MEVI3,United States,Indiana,18,Decatur,031
+MEVI3,United States,Indiana,18,Delaware,035
+MEVI3,United States,Indiana,18,Floyd,043
+MEVI3,United States,Indiana,18,Fountain,045
+MEVI3,United States,Indiana,18,Franklin,047
+MEVI3,United States,Indiana,18,Gibson,051
+MEVI3,United States,Indiana,18,Greene,055
+MEVI3,United States,Indiana,18,Hamilton,057
+MEVI3,United States,Indiana,18,Harrison,061
+MEVI3,United States,Indiana,18,Henry,065
+MEVI3,United States,Indiana,18,Howard,067
+MEVI3,United States,Indiana,18,Jackson,071
+MEVI3,United States,Indiana,18,Jay,075
+MEVI3,United States,Indiana,18,Jefferson,077
+MEVI3,United States,Indiana,18,Jennings,079
+MEVI3,United States,Indiana,18,Johnson,081
+MEVI3,United States,Indiana,18,Knox,083
+MEVI3,United States,Indiana,18,Lawrence,093
+MEVI3,United States,Indiana,18,Madison,095
+MEVI3,United States,Indiana,18,Marion,097
+MEVI3,United States,Indiana,18,Monroe,105
+MEVI3,United States,Indiana,18,Montgomery,107
+MEVI3,United States,Indiana,18,Morgan,109
+MEVI3,United States,Indiana,18,Ohio,115
+MEVI3,United States,Indiana,18,Owen,119
+MEVI3,United States,Indiana,18,Parke,121
+MEVI3,United States,Indiana,18,Posey,129
+MEVI3,United States,Indiana,18,Putnam,133
+MEVI3,United States,Indiana,18,Spencer,147
+MEVI3,United States,Indiana,18,Switzerland,155
+MEVI3,United States,Indiana,18,Tippecanoe,157
+MEVI3,United States,Indiana,18,Vigo,167
+MEVI3,United States,Indiana,18,Warren,171
+MEVI3,United States,Indiana,18,Wayne,177
+MEVI3,United States,Indiana,18,Wells,179
+MEVI3,United States,Iowa,19,,
+MEVI3,United States,Kansas,20,,
+MEVI3,United States,Kentucky,21,,
+MEVI3,United States,Kentucky,21,Adair,001
+MEVI3,United States,Kentucky,21,Allen,003
+MEVI3,United States,Kentucky,21,Anderson,005
+MEVI3,United States,Kentucky,21,Boone,015
+MEVI3,United States,Kentucky,21,Bourbon,017
+MEVI3,United States,Kentucky,21,Boyle,021
+MEVI3,United States,Kentucky,21,Breckinridge,027
+MEVI3,United States,Kentucky,21,Caldwell,033
+MEVI3,United States,Kentucky,21,Calloway,035
+MEVI3,United States,Kentucky,21,Carroll,041
+MEVI3,United States,Kentucky,21,Carter,043
+MEVI3,United States,Kentucky,21,Christian,047
+MEVI3,United States,Kentucky,21,Clark,049
+MEVI3,United States,Kentucky,21,Clay,051
+MEVI3,United States,Kentucky,21,Edmonson,061
+MEVI3,United States,Kentucky,21,Elliott,063
+MEVI3,United States,Kentucky,21,Fayette,067
+MEVI3,United States,Kentucky,21,Franklin,073
+MEVI3,United States,Kentucky,21,Garrard,079
+MEVI3,United States,Kentucky,21,Grant,081
+MEVI3,United States,Kentucky,21,Graves,083
+MEVI3,United States,Kentucky,21,Grayson,085
+MEVI3,United States,Kentucky,21,Hardin,093
+MEVI3,United States,Kentucky,21,Harlan,095
+MEVI3,United States,Kentucky,21,Hart,099
+MEVI3,United States,Kentucky,21,Henderson,101
+MEVI3,United States,Kentucky,21,Henry,103
+MEVI3,United States,Kentucky,21,Hickman,105
+MEVI3,United States,Kentucky,21,Jackson,109
+MEVI3,United States,Kentucky,21,Jefferson,111
+MEVI3,United States,Kentucky,21,Jessamine,113
+MEVI3,United States,Kentucky,21,Kenton,117
+MEVI3,United States,Kentucky,21,Knox,121
+MEVI3,United States,Kentucky,21,Laurel,125
+MEVI3,United States,Kentucky,21,Lewis,135
+MEVI3,United States,Kentucky,21,Livingston,139
+MEVI3,United States,Kentucky,21,Madison,151
+MEVI3,United States,Kentucky,21,Marshall,157
+MEVI3,United States,Kentucky,21,Mason,161
+MEVI3,United States,Kentucky,21,McCreary,147
+MEVI3,United States,Kentucky,21,Meade,163
+MEVI3,United States,Kentucky,21,Mercer,167
+MEVI3,United States,Kentucky,21,Morgan,175
+MEVI3,United States,Kentucky,21,Oldham,185
+MEVI3,United States,Kentucky,21,Owen,187
+MEVI3,United States,Kentucky,21,Pendleton,191
+MEVI3,United States,Kentucky,21,Powell,197
+MEVI3,United States,Kentucky,21,Pulaski,199
+MEVI3,United States,Kentucky,21,Robertson,201
+MEVI3,United States,Kentucky,21,Rockcastle,203
+MEVI3,United States,Kentucky,21,Rowan,205
+MEVI3,United States,Kentucky,21,Scott,209
+MEVI3,United States,Kentucky,21,Shelby,211
+MEVI3,United States,Kentucky,21,Simpson,213
+MEVI3,United States,Kentucky,21,Spencer,215
+MEVI3,United States,Kentucky,21,Todd,219
+MEVI3,United States,Kentucky,21,Trigg,221
+MEVI3,United States,Kentucky,21,Trimble,223
+MEVI3,United States,Kentucky,21,Union,225
+MEVI3,United States,Kentucky,21,Warren,227
+MEVI3,United States,Kentucky,21,Woodford,239
+MEVI3,United States,Maine,23,,
+MEVI3,United States,Maine,23,Sagadahoc,023
+MEVI3,United States,Maryland,24,,
+MEVI3,United States,Massachusetts,25,,
+MEVI3,United States,Massachusetts,25,Norfolk,021
+MEVI3,United States,Michigan,26,,
+MEVI3,United States,Michigan,26,Ingham,065
+MEVI3,United States,Michigan,26,Kent,081
+MEVI3,United States,Michigan,26,Lenawee,091
+MEVI3,United States,Michigan,26,Oakland,125
+MEVI3,United States,Michigan,26,Ottawa,139
+MEVI3,United States,Michigan,26,Schoolcraft,153
+MEVI3,United States,Minnesota,27,,
+MEVI3,United States,Minnesota,27,Fillmore,045
+MEVI3,United States,Minnesota,27,Houston,055
+MEVI3,United States,Minnesota,27,Mower,099
+MEVI3,United States,Minnesota,27,Olmsted,109
+MEVI3,United States,Minnesota,27,Stearns,145
+MEVI3,United States,Minnesota,27,Steele,147
+MEVI3,United States,Minnesota,27,Wabasha,157
+MEVI3,United States,Minnesota,27,Winona,169
+MEVI3,United States,Mississippi,28,,
+MEVI3,United States,Mississippi,28,Tishomingo,141
+MEVI3,United States,Missouri,29,,
+MEVI3,United States,Missouri,29,Adair,001
+MEVI3,United States,Missouri,29,Audrain,007
+MEVI3,United States,Missouri,29,Benton,015
+MEVI3,United States,Missouri,29,Bollinger,017
+MEVI3,United States,Missouri,29,Boone,019
+MEVI3,United States,Missouri,29,Callaway,027
+MEVI3,United States,Missouri,29,Camden,029
+MEVI3,United States,Missouri,29,Cape Girardeau,031
+MEVI3,United States,Missouri,29,Carter,035
+MEVI3,United States,Missouri,29,Cass,037
+MEVI3,United States,Missouri,29,Christian,043
+MEVI3,United States,Missouri,29,Clay,047
+MEVI3,United States,Missouri,29,Clinton,049
+MEVI3,United States,Missouri,29,Cooper,053
+MEVI3,United States,Missouri,29,Crawford,055
+MEVI3,United States,Missouri,29,Dallas,059
+MEVI3,United States,Missouri,29,Daviess,061
+MEVI3,United States,Missouri,29,DeKalb,063
+MEVI3,United States,Missouri,29,Franklin,071
+MEVI3,United States,Missouri,29,Gasconade,073
+MEVI3,United States,Missouri,29,Greene,077
+MEVI3,United States,Missouri,29,Grundy,079
+MEVI3,United States,Missouri,29,Hickory,085
+MEVI3,United States,Missouri,29,Howell,091
+MEVI3,United States,Missouri,29,Jackson,095
+MEVI3,United States,Missouri,29,Jefferson,099
+MEVI3,United States,Missouri,29,Johnson,101
+MEVI3,United States,Missouri,29,Knox,103
+MEVI3,United States,Missouri,29,Laclede,105
+MEVI3,United States,Missouri,29,Lincoln,113
+MEVI3,United States,Missouri,29,Linn,115
+MEVI3,United States,Missouri,29,Macon,121
+MEVI3,United States,Missouri,29,Madison,123
+MEVI3,United States,Missouri,29,Maries,125
+MEVI3,United States,Missouri,29,Marion,127
+MEVI3,United States,Missouri,29,Miller,131
+MEVI3,United States,Missouri,29,Moniteau,135
+MEVI3,United States,Missouri,29,Monroe,137
+MEVI3,United States,Missouri,29,Montgomery,139
+MEVI3,United States,Missouri,29,Morgan,141
+MEVI3,United States,Missouri,29,Oregon,149
+MEVI3,United States,Missouri,29,Perry,157
+MEVI3,United States,Missouri,29,Pettis,159
+MEVI3,United States,Missouri,29,Phelps,161
+MEVI3,United States,Missouri,29,Pike,163
+MEVI3,United States,Missouri,29,Platte,165
+MEVI3,United States,Missouri,29,Pulaski,169
+MEVI3,United States,Missouri,29,Reynolds,179
+MEVI3,United States,Missouri,29,Schuyler,197
+MEVI3,United States,Missouri,29,Shannon,203
+MEVI3,United States,Missouri,29,St. Clair,185
+MEVI3,United States,Missouri,29,St. Francois,187
+MEVI3,United States,Missouri,29,St. Louis,189
+MEVI3,United States,Missouri,29,Stoddard,207
+MEVI3,United States,Missouri,29,Stone,209
+MEVI3,United States,Missouri,29,Sullivan,211
+MEVI3,United States,Missouri,29,Taney,213
+MEVI3,United States,Missouri,29,Texas,215
+MEVI3,United States,Missouri,29,Warren,219
+MEVI3,United States,Missouri,29,Washington,221
+MEVI3,United States,Missouri,29,Wayne,223
+MEVI3,United States,New Jersey,34,,
+MEVI3,United States,New Jersey,34,Bergen,003
+MEVI3,United States,New Jersey,34,Burlington,005
+MEVI3,United States,New Jersey,34,Hunterdon,019
+MEVI3,United States,New Jersey,34,Mercer,021
+MEVI3,United States,New Jersey,34,Middlesex,023
+MEVI3,United States,New Jersey,34,Monmouth,025
+MEVI3,United States,New Jersey,34,Somerset,035
+MEVI3,United States,New Jersey,34,Union,039
+MEVI3,United States,New Jersey,34,Warren,041
+MEVI3,United States,New York,36,,
+MEVI3,United States,New York,36,Broome,007
+MEVI3,United States,New York,36,Cattaraugus,009
+MEVI3,United States,New York,36,Chautauqua,013
+MEVI3,United States,New York,36,Chemung,015
+MEVI3,United States,New York,36,Chenango,017
+MEVI3,United States,New York,36,Erie,029
+MEVI3,United States,New York,36,Genesee,037
+MEVI3,United States,New York,36,Livingston,051
+MEVI3,United States,New York,36,Madison,053
+MEVI3,United States,New York,36,Monroe,055
+MEVI3,United States,New York,36,Nassau,059
+MEVI3,United States,New York,36,Niagara,063
+MEVI3,United States,New York,36,Oneida,065
+MEVI3,United States,New York,36,Onondaga,067
+MEVI3,United States,New York,36,Rockland,087
+MEVI3,United States,New York,36,Steuben,101
+MEVI3,United States,New York,36,Suffolk,103
+MEVI3,United States,New York,36,Tompkins,109
+MEVI3,United States,New York,36,Ulster,111
+MEVI3,United States,New York,36,Wayne,117
+MEVI3,United States,New York,36,Westchester,119
+MEVI3,United States,North Carolina,37,,
+MEVI3,United States,North Carolina,37,Rockingham,157
+MEVI3,United States,North Carolina,37,Swain,173
+MEVI3,United States,Ohio,39,,
+MEVI3,United States,Ohio,39,Adams,001
+MEVI3,United States,Ohio,39,Ashland,005
+MEVI3,United States,Ohio,39,Ashtabula,007
+MEVI3,United States,Ohio,39,Athens,009
+MEVI3,United States,Ohio,39,Auglaize,011
+MEVI3,United States,Ohio,39,Belmont,013
+MEVI3,United States,Ohio,39,Brown,015
+MEVI3,United States,Ohio,39,Butler,017
+MEVI3,United States,Ohio,39,Carroll,019
+MEVI3,United States,Ohio,39,Clark,023
+MEVI3,United States,Ohio,39,Clermont,025
+MEVI3,United States,Ohio,39,Clinton,027
+MEVI3,United States,Ohio,39,Columbiana,029
+MEVI3,United States,Ohio,39,Coshocton,031
+MEVI3,United States,Ohio,39,Cuyahoga,035
+MEVI3,United States,Ohio,39,Darke,037
+MEVI3,United States,Ohio,39,Delaware,041
+MEVI3,United States,Ohio,39,Erie,043
+MEVI3,United States,Ohio,39,Fairfield,045
+MEVI3,United States,Ohio,39,Fayette,047
+MEVI3,United States,Ohio,39,Franklin,049
+MEVI3,United States,Ohio,39,Geauga,055
+MEVI3,United States,Ohio,39,Greene,057
+MEVI3,United States,Ohio,39,Guernsey,059
+MEVI3,United States,Ohio,39,Hamilton,061
+MEVI3,United States,Ohio,39,Highland,071
+MEVI3,United States,Ohio,39,Hocking,073
+MEVI3,United States,Ohio,39,Holmes,075
+MEVI3,United States,Ohio,39,Huron,077
+MEVI3,United States,Ohio,39,Jackson,079
+MEVI3,United States,Ohio,39,Jefferson,081
+MEVI3,United States,Ohio,39,Knox,083
+MEVI3,United States,Ohio,39,Lake,085
+MEVI3,United States,Ohio,39,Lawrence,087
+MEVI3,United States,Ohio,39,Licking,089
+MEVI3,United States,Ohio,39,Logan,091
+MEVI3,United States,Ohio,39,Lorain,093
+MEVI3,United States,Ohio,39,Lucas,095
+MEVI3,United States,Ohio,39,Mahoning,099
+MEVI3,United States,Ohio,39,Medina,103
+MEVI3,United States,Ohio,39,Meigs,105
+MEVI3,United States,Ohio,39,Mercer,107
+MEVI3,United States,Ohio,39,Miami,109
+MEVI3,United States,Ohio,39,Monroe,111
+MEVI3,United States,Ohio,39,Montgomery,113
+MEVI3,United States,Ohio,39,Morgan,115
+MEVI3,United States,Ohio,39,Morrow,117
+MEVI3,United States,Ohio,39,Muskingum,119
+MEVI3,United States,Ohio,39,Ottawa,123
+MEVI3,United States,Ohio,39,Perry,127
+MEVI3,United States,Ohio,39,Pickaway,129
+MEVI3,United States,Ohio,39,Pike,131
+MEVI3,United States,Ohio,39,Portage,133
+MEVI3,United States,Ohio,39,Richland,139
+MEVI3,United States,Ohio,39,Ross,141
+MEVI3,United States,Ohio,39,Scioto,145
+MEVI3,United States,Ohio,39,Seneca,147
+MEVI3,United States,Ohio,39,Shelby,149
+MEVI3,United States,Ohio,39,Stark,151
+MEVI3,United States,Ohio,39,Summit,153
+MEVI3,United States,Ohio,39,Trumbull,155
+MEVI3,United States,Ohio,39,Tuscarawas,157
+MEVI3,United States,Ohio,39,Van Wert,161
+MEVI3,United States,Ohio,39,Vinton,163
+MEVI3,United States,Ohio,39,Warren,165
+MEVI3,United States,Ohio,39,Washington,167
+MEVI3,United States,Ohio,39,Wayne,169
+MEVI3,United States,Ohio,39,Wyandot,175
+MEVI3,United States,Pennsylvania,42,,
+MEVI3,United States,Pennsylvania,42,Adams,001
+MEVI3,United States,Pennsylvania,42,Allegheny,003
+MEVI3,United States,Pennsylvania,42,Armstrong,005
+MEVI3,United States,Pennsylvania,42,Beaver,007
+MEVI3,United States,Pennsylvania,42,Bedford,009
+MEVI3,United States,Pennsylvania,42,Berks,011
+MEVI3,United States,Pennsylvania,42,Bradford,015
+MEVI3,United States,Pennsylvania,42,Bucks,017
+MEVI3,United States,Pennsylvania,42,Butler,019
+MEVI3,United States,Pennsylvania,42,Centre,027
+MEVI3,United States,Pennsylvania,42,Chester,029
+MEVI3,United States,Pennsylvania,42,Clinton,035
+MEVI3,United States,Pennsylvania,42,Cumberland,041
+MEVI3,United States,Pennsylvania,42,Dauphin,043
+MEVI3,United States,Pennsylvania,42,Delaware,045
+MEVI3,United States,Pennsylvania,42,Elk,047
+MEVI3,United States,Pennsylvania,42,Erie,049
+MEVI3,United States,Pennsylvania,42,Fayette,051
+MEVI3,United States,Pennsylvania,42,Forest,053
+MEVI3,United States,Pennsylvania,42,Franklin,055
+MEVI3,United States,Pennsylvania,42,Fulton,057
+MEVI3,United States,Pennsylvania,42,Greene,059
+MEVI3,United States,Pennsylvania,42,Huntingdon,061
+MEVI3,United States,Pennsylvania,42,Indiana,063
+MEVI3,United States,Pennsylvania,42,Juniata,067
+MEVI3,United States,Pennsylvania,42,Lancaster,071
+MEVI3,United States,Pennsylvania,42,Lawrence,073
+MEVI3,United States,Pennsylvania,42,Lebanon,075
+MEVI3,United States,Pennsylvania,42,Luzerne,079
+MEVI3,United States,Pennsylvania,42,Lycoming,081
+MEVI3,United States,Pennsylvania,42,Mercer,085
+MEVI3,United States,Pennsylvania,42,Mifflin,087
+MEVI3,United States,Pennsylvania,42,Montgomery,091
+MEVI3,United States,Pennsylvania,42,Northampton,095
+MEVI3,United States,Pennsylvania,42,Northumberland,097
+MEVI3,United States,Pennsylvania,42,Perry,099
+MEVI3,United States,Pennsylvania,42,Philadelphia,101
+MEVI3,United States,Pennsylvania,42,Snyder,109
+MEVI3,United States,Pennsylvania,42,Susquehanna,115
+MEVI3,United States,Pennsylvania,42,Venango,121
+MEVI3,United States,Pennsylvania,42,Warren,123
+MEVI3,United States,Pennsylvania,42,Washington,125
+MEVI3,United States,Pennsylvania,42,Westmoreland,129
+MEVI3,United States,Pennsylvania,42,Wyoming,131
+MEVI3,United States,Pennsylvania,42,York,133
+MEVI3,United States,South Carolina,45,,
+MEVI3,United States,Tennessee,47,,
+MEVI3,United States,Tennessee,47,Bedford,003
+MEVI3,United States,Tennessee,47,Benton,005
+MEVI3,United States,Tennessee,47,Blount,009
+MEVI3,United States,Tennessee,47,Campbell,013
+MEVI3,United States,Tennessee,47,Cannon,015
+MEVI3,United States,Tennessee,47,Carter,019
+MEVI3,United States,Tennessee,47,Cheatham,021
+MEVI3,United States,Tennessee,47,Claiborne,025
+MEVI3,United States,Tennessee,47,Clay,027
+MEVI3,United States,Tennessee,47,Coffee,031
+MEVI3,United States,Tennessee,47,Cumberland,035
+MEVI3,United States,Tennessee,47,Davidson,037
+MEVI3,United States,Tennessee,47,Decatur,039
+MEVI3,United States,Tennessee,47,DeKalb,041
+MEVI3,United States,Tennessee,47,Franklin,051
+MEVI3,United States,Tennessee,47,Grundy,061
+MEVI3,United States,Tennessee,47,Hamilton,065
+MEVI3,United States,Tennessee,47,Hardin,071
+MEVI3,United States,Tennessee,47,Hickman,081
+MEVI3,United States,Tennessee,47,Houston,083
+MEVI3,United States,Tennessee,47,Humphreys,085
+MEVI3,United States,Tennessee,47,Knox,093
+MEVI3,United States,Tennessee,47,Lawrence,099
+MEVI3,United States,Tennessee,47,Lewis,101
+MEVI3,United States,Tennessee,47,Marion,115
+MEVI3,United States,Tennessee,47,Maury,119
+MEVI3,United States,Tennessee,47,Montgomery,125
+MEVI3,United States,Tennessee,47,Perry,135
+MEVI3,United States,Tennessee,47,Putnam,141
+MEVI3,United States,Tennessee,47,Rhea,143
+MEVI3,United States,Tennessee,47,Robertson,147
+MEVI3,United States,Tennessee,47,Rutherford,149
+MEVI3,United States,Tennessee,47,Scott,151
+MEVI3,United States,Tennessee,47,Shelby,157
+MEVI3,United States,Tennessee,47,Stewart,161
+MEVI3,United States,Tennessee,47,Sullivan,163
+MEVI3,United States,Tennessee,47,Sumner,165
+MEVI3,United States,Tennessee,47,Washington,179
+MEVI3,United States,Tennessee,47,Wayne,181
+MEVI3,United States,Tennessee,47,Williamson,187
+MEVI3,United States,Tennessee,47,Wilson,189
+MEVI3,United States,Virginia,51,,
+MEVI3,United States,Virginia,51,Albemarle,003
+MEVI3,United States,Virginia,51,Amelia,007
+MEVI3,United States,Virginia,51,Amherst,009
+MEVI3,United States,Virginia,51,Appomattox,011
+MEVI3,United States,Virginia,51,Augusta,015
+MEVI3,United States,Virginia,51,Bath,017
+MEVI3,United States,Virginia,51,Bedford,019
+MEVI3,United States,Virginia,51,Bland,021
+MEVI3,United States,Virginia,51,Botetourt,023
+MEVI3,United States,Virginia,51,Brunswick,025
+MEVI3,United States,Virginia,51,Buchanan,027
+MEVI3,United States,Virginia,51,Buckingham,029
+MEVI3,United States,Virginia,51,Campbell,031
+MEVI3,United States,Virginia,51,Charlotte,037
+MEVI3,United States,Virginia,51,Chesterfield,041
+MEVI3,United States,Virginia,51,Clarke,043
+MEVI3,United States,Virginia,51,Culpeper,047
+MEVI3,United States,Virginia,51,Cumberland,049
+MEVI3,United States,Virginia,51,Fairfax,059
+MEVI3,United States,Virginia,51,Fauquier,061
+MEVI3,United States,Virginia,51,Floyd,063
+MEVI3,United States,Virginia,51,Fluvanna,065
+MEVI3,United States,Virginia,51,Frederick,069
+MEVI3,United States,Virginia,51,Goochland,075
+MEVI3,United States,Virginia,51,Greene,079
+MEVI3,United States,Virginia,51,Halifax,083
+MEVI3,United States,Virginia,51,Henrico,087
+MEVI3,United States,Virginia,51,Henry,089
+MEVI3,United States,Virginia,51,Lee,105
+MEVI3,United States,Virginia,51,Loudoun,107
+MEVI3,United States,Virginia,51,Louisa,109
+MEVI3,United States,Virginia,51,Lunenburg,111
+MEVI3,United States,Virginia,51,Madison,113
+MEVI3,United States,Virginia,51,Mecklenburg,117
+MEVI3,United States,Virginia,51,Middlesex,119
+MEVI3,United States,Virginia,51,Montgomery,121
+MEVI3,United States,Virginia,51,Nelson,125
+MEVI3,United States,Virginia,51,Nottoway,135
+MEVI3,United States,Virginia,51,Orange,137
+MEVI3,United States,Virginia,51,Page,139
+MEVI3,United States,Virginia,51,Patrick,141
+MEVI3,United States,Virginia,51,Pittsylvania,143
+MEVI3,United States,Virginia,51,Prince Edward,147
+MEVI3,United States,Virginia,51,Prince William,153
+MEVI3,United States,Virginia,51,Pulaski,155
+MEVI3,United States,Virginia,51,Roanoke,161
+MEVI3,United States,Virginia,51,Rockbridge,163
+MEVI3,United States,Virginia,51,Rockingham,165
+MEVI3,United States,Virginia,51,Russell,167
+MEVI3,United States,Virginia,51,Shenandoah,171
+MEVI3,United States,Virginia,51,Smyth,173
+MEVI3,United States,Virginia,51,Spotsylvania,177
+MEVI3,United States,Virginia,51,Stafford,179
+MEVI3,United States,Virginia,51,Warren,187
+MEVI3,United States,Virginia,51,Washington,191
+MEVI3,United States,West Virginia,54,,
+MEVI3,United States,West Virginia,54,Barbour,001
+MEVI3,United States,West Virginia,54,Berkeley,003
+MEVI3,United States,West Virginia,54,Brooke,009
+MEVI3,United States,West Virginia,54,Cabell,011
+MEVI3,United States,West Virginia,54,Calhoun,013
+MEVI3,United States,West Virginia,54,Fayette,019
+MEVI3,United States,West Virginia,54,Grant,023
+MEVI3,United States,West Virginia,54,Hampshire,027
+MEVI3,United States,West Virginia,54,Hancock,029
+MEVI3,United States,West Virginia,54,Hardy,031
+MEVI3,United States,West Virginia,54,Jefferson,037
+MEVI3,United States,West Virginia,54,Kanawha,039
+MEVI3,United States,West Virginia,54,Lincoln,043
+MEVI3,United States,West Virginia,54,Logan,045
+MEVI3,United States,West Virginia,54,Marion,049
+MEVI3,United States,West Virginia,54,Mercer,055
+MEVI3,United States,West Virginia,54,Monongalia,061
+MEVI3,United States,West Virginia,54,Monroe,063
+MEVI3,United States,West Virginia,54,Morgan,065
+MEVI3,United States,West Virginia,54,Ohio,069
+MEVI3,United States,West Virginia,54,Pocahontas,075
+MEVI3,United States,West Virginia,54,Preston,077
+MEVI3,United States,West Virginia,54,Raleigh,081
+MEVI3,United States,West Virginia,54,Randolph,083
+MEVI3,United States,West Virginia,54,Ritchie,085
+MEVI3,United States,West Virginia,54,Summers,089
+MEVI3,United States,West Virginia,54,Tucker,093
+MEVI3,United States,West Virginia,54,Upshur,097
+MEVI3,United States,West Virginia,54,Wetzel,103
+MEVI3,United States,West Virginia,54,Wirt,105
+MEVI3,United States,West Virginia,54,Wyoming,109
+MEVI3,United States,Wisconsin,55,,
+MEVI3,United States,Wisconsin,55,Ashland,003
+MEVI3,United States,Wisconsin,55,Barron,005
+MEVI3,United States,Wisconsin,55,Brown,009
+MEVI3,United States,Wisconsin,55,Grant,043
+MEVI3,United States,Wisconsin,55,Green,045
+MEVI3,United States,Wisconsin,55,Kenosha,059
+MEVI3,United States,Wisconsin,55,Lafayette,065
+MEVI3,United States,Wisconsin,55,Manitowoc,071
+MEVI3,United States,Wisconsin,55,Richland,103
+MEVI3,United States,Wisconsin,55,Rock,105
+MEVI3,United States,Wisconsin,55,Sauk,111
+MEVI3,United States,Wisconsin,55,Vernon,123
+MEVI3,United States,Wisconsin,55,Walworth,127

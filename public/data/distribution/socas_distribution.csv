@@ -1,0 +1,229 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SOCAS,Canada,Alberta,01,,
+SOCAS,Canada,British Columbia,02,,
+SOCAS,United States,Alaska,02,,
+SOCAS,United States,Alaska,02,Fairbanks North Star,090
+SOCAS,United States,Alaska,02,Kenai Peninsula,122
+SOCAS,Canada,Manitoba,03,,
+SOCAS,United States,California,06,,
+SOCAS,United States,California,06,Alpine,003
+SOCAS,United States,California,06,Butte,007
+SOCAS,United States,California,06,Calaveras,009
+SOCAS,United States,California,06,Colusa,011
+SOCAS,United States,California,06,Del Norte,015
+SOCAS,United States,California,06,El Dorado,017
+SOCAS,United States,California,06,Fresno,019
+SOCAS,United States,California,06,Glenn,021
+SOCAS,United States,California,06,Humboldt,023
+SOCAS,United States,California,06,Inyo,027
+SOCAS,United States,California,06,Kern,029
+SOCAS,United States,California,06,Lassen,035
+SOCAS,United States,California,06,Madera,039
+SOCAS,United States,California,06,Marin,041
+SOCAS,United States,California,06,Mariposa,043
+SOCAS,United States,California,06,Mendocino,045
+SOCAS,United States,California,06,Modoc,049
+SOCAS,United States,California,06,Mono,051
+SOCAS,United States,California,06,Monterey,053
+SOCAS,United States,California,06,Nevada,057
+SOCAS,United States,California,06,Placer,061
+SOCAS,United States,California,06,Plumas,063
+SOCAS,United States,California,06,San Francisco,075
+SOCAS,United States,California,06,San Luis Obispo,079
+SOCAS,United States,California,06,San Mateo,081
+SOCAS,United States,California,06,Santa Clara,085
+SOCAS,United States,California,06,Santa Cruz,087
+SOCAS,United States,California,06,Shasta,089
+SOCAS,United States,California,06,Sierra,091
+SOCAS,United States,California,06,Siskiyou,093
+SOCAS,United States,California,06,Sonoma,097
+SOCAS,United States,California,06,Tehama,103
+SOCAS,United States,California,06,Trinity,105
+SOCAS,United States,California,06,Tulare,107
+SOCAS,United States,California,06,Tuolumne,109
+SOCAS,Canada,Ontario,08,,
+SOCAS,United States,Colorado,08,,
+SOCAS,Canada,Quebec,10,,
+SOCAS,Canada,Saskatchewan,11,,
+SOCAS,Canada,Yukon,12,,
+SOCAS,Canada,Northwest Territories,13,,
+SOCAS,United States,Idaho,16,,
+SOCAS,United States,Idaho,16,Ada,001
+SOCAS,United States,Idaho,16,Adams,003
+SOCAS,United States,Idaho,16,Bannock,005
+SOCAS,United States,Idaho,16,Benewah,009
+SOCAS,United States,Idaho,16,Blaine,013
+SOCAS,United States,Idaho,16,Boise,015
+SOCAS,United States,Idaho,16,Bonner,017
+SOCAS,United States,Idaho,16,Bonneville,019
+SOCAS,United States,Idaho,16,Boundary,021
+SOCAS,United States,Idaho,16,Butte,023
+SOCAS,United States,Idaho,16,Canyon,027
+SOCAS,United States,Idaho,16,Caribou,029
+SOCAS,United States,Idaho,16,Cassia,031
+SOCAS,United States,Idaho,16,Clark,033
+SOCAS,United States,Idaho,16,Clearwater,035
+SOCAS,United States,Idaho,16,Custer,037
+SOCAS,United States,Idaho,16,Elmore,039
+SOCAS,United States,Idaho,16,Franklin,041
+SOCAS,United States,Idaho,16,Fremont,043
+SOCAS,United States,Idaho,16,Idaho,049
+SOCAS,United States,Idaho,16,Kootenai,055
+SOCAS,United States,Idaho,16,Latah,057
+SOCAS,United States,Idaho,16,Lemhi,059
+SOCAS,United States,Idaho,16,Nez Perce,069
+SOCAS,United States,Idaho,16,Owyhee,073
+SOCAS,United States,Idaho,16,Shoshone,079
+SOCAS,United States,Idaho,16,Twin Falls,083
+SOCAS,United States,Idaho,16,Valley,085
+SOCAS,United States,Idaho,16,Washington,087
+SOCAS,United States,Maine,23,,
+SOCAS,United States,Minnesota,27,,
+SOCAS,United States,Montana,30,,
+SOCAS,United States,Montana,30,Phillips,071
+SOCAS,United States,Nevada,32,,
+SOCAS,United States,Nevada,32,Carson City,510
+SOCAS,United States,Nevada,32,Elko,007
+SOCAS,United States,Nevada,32,Humboldt,013
+SOCAS,United States,Nevada,32,Lander,015
+SOCAS,United States,Nevada,32,Nye,023
+SOCAS,United States,Nevada,32,Storey,029
+SOCAS,United States,Nevada,32,Washoe,031
+SOCAS,United States,Nevada,32,White Pine,033
+SOCAS,United States,New Mexico,35,,
+SOCAS,United States,New Mexico,35,Bernalillo,001
+SOCAS,United States,New Mexico,35,Los Alamos,028
+SOCAS,United States,New Mexico,35,Rio Arriba,039
+SOCAS,United States,New Mexico,35,Sandoval,043
+SOCAS,United States,New Mexico,35,Santa Fe,049
+SOCAS,United States,North Dakota,38,,
+SOCAS,United States,North Dakota,38,Bottineau,009
+SOCAS,United States,North Dakota,38,McKenzie,053
+SOCAS,United States,North Dakota,38,Rolette,079
+SOCAS,United States,Oregon,41,,
+SOCAS,United States,Oregon,41,Baker,001
+SOCAS,United States,Oregon,41,Benton,003
+SOCAS,United States,Oregon,41,Clackamas,005
+SOCAS,United States,Oregon,41,Clatsop,007
+SOCAS,United States,Oregon,41,Columbia,009
+SOCAS,United States,Oregon,41,Coos,011
+SOCAS,United States,Oregon,41,Crook,013
+SOCAS,United States,Oregon,41,Curry,015
+SOCAS,United States,Oregon,41,Deschutes,017
+SOCAS,United States,Oregon,41,Douglas,019
+SOCAS,United States,Oregon,41,Grant,023
+SOCAS,United States,Oregon,41,Harney,025
+SOCAS,United States,Oregon,41,Hood River,027
+SOCAS,United States,Oregon,41,Jackson,029
+SOCAS,United States,Oregon,41,Jefferson,031
+SOCAS,United States,Oregon,41,Josephine,033
+SOCAS,United States,Oregon,41,Klamath,035
+SOCAS,United States,Oregon,41,Lake,037
+SOCAS,United States,Oregon,41,Lane,039
+SOCAS,United States,Oregon,41,Lincoln,041
+SOCAS,United States,Oregon,41,Linn,043
+SOCAS,United States,Oregon,41,Malheur,045
+SOCAS,United States,Oregon,41,Marion,047
+SOCAS,United States,Oregon,41,Multnomah,051
+SOCAS,United States,Oregon,41,Polk,053
+SOCAS,United States,Oregon,41,Tillamook,057
+SOCAS,United States,Oregon,41,Umatilla,059
+SOCAS,United States,Oregon,41,Union,061
+SOCAS,United States,Oregon,41,Wallowa,063
+SOCAS,United States,Oregon,41,Wasco,065
+SOCAS,United States,Oregon,41,Washington,067
+SOCAS,United States,Oregon,41,Wheeler,069
+SOCAS,United States,Oregon,41,Yamhill,071
+SOCAS,United States,South Dakota,46,,
+SOCAS,United States,South Dakota,46,Custer,033
+SOCAS,United States,South Dakota,46,Fall River,047
+SOCAS,United States,South Dakota,46,Lawrence,081
+SOCAS,United States,South Dakota,46,Pennington,103
+SOCAS,United States,South Dakota,46,Todd,121
+SOCAS,United States,Texas,48,,
+SOCAS,United States,Utah,49,,
+SOCAS,United States,Utah,49,Beaver,001
+SOCAS,United States,Utah,49,Box Elder,003
+SOCAS,United States,Utah,49,Cache,005
+SOCAS,United States,Utah,49,Carbon,007
+SOCAS,United States,Utah,49,Daggett,009
+SOCAS,United States,Utah,49,Davis,011
+SOCAS,United States,Utah,49,Duchesne,013
+SOCAS,United States,Utah,49,Emery,015
+SOCAS,United States,Utah,49,Garfield,017
+SOCAS,United States,Utah,49,Grand,019
+SOCAS,United States,Utah,49,Iron,021
+SOCAS,United States,Utah,49,Juab,023
+SOCAS,United States,Utah,49,Kane,025
+SOCAS,United States,Utah,49,Millard,027
+SOCAS,United States,Utah,49,Morgan,029
+SOCAS,United States,Utah,49,Piute,031
+SOCAS,United States,Utah,49,Rich,033
+SOCAS,United States,Utah,49,Salt Lake,035
+SOCAS,United States,Utah,49,San Juan,037
+SOCAS,United States,Utah,49,Sanpete,039
+SOCAS,United States,Utah,49,Sevier,041
+SOCAS,United States,Utah,49,Summit,043
+SOCAS,United States,Utah,49,Tooele,045
+SOCAS,United States,Utah,49,Uintah,047
+SOCAS,United States,Utah,49,Utah,049
+SOCAS,United States,Utah,49,Wasatch,051
+SOCAS,United States,Utah,49,Washington,053
+SOCAS,United States,Utah,49,Wayne,055
+SOCAS,United States,Utah,49,Weber,057
+SOCAS,United States,Washington,53,,
+SOCAS,United States,Washington,53,Chelan,007
+SOCAS,United States,Washington,53,Clallam,009
+SOCAS,United States,Washington,53,Clark,011
+SOCAS,United States,Washington,53,Cowlitz,015
+SOCAS,United States,Washington,53,Ferry,019
+SOCAS,United States,Washington,53,Grant,025
+SOCAS,United States,Washington,53,Island,029
+SOCAS,United States,Washington,53,Jefferson,031
+SOCAS,United States,Washington,53,King,033
+SOCAS,United States,Washington,53,Kitsap,035
+SOCAS,United States,Washington,53,Kittitas,037
+SOCAS,United States,Washington,53,Klickitat,039
+SOCAS,United States,Washington,53,Lewis,041
+SOCAS,United States,Washington,53,Mason,045
+SOCAS,United States,Washington,53,Okanogan,047
+SOCAS,United States,Washington,53,Pacific,049
+SOCAS,United States,Washington,53,Pend Oreille,051
+SOCAS,United States,Washington,53,Pierce,053
+SOCAS,United States,Washington,53,San Juan,055
+SOCAS,United States,Washington,53,Skagit,057
+SOCAS,United States,Washington,53,Skamania,059
+SOCAS,United States,Washington,53,Snohomish,061
+SOCAS,United States,Washington,53,Spokane,063
+SOCAS,United States,Washington,53,Stevens,065
+SOCAS,United States,Washington,53,Thurston,067
+SOCAS,United States,Washington,53,Wahkiakum,069
+SOCAS,United States,Washington,53,Walla Walla,071
+SOCAS,United States,Washington,53,Whatcom,073
+SOCAS,United States,Washington,53,Whitman,075
+SOCAS,United States,Washington,53,Yakima,077
+SOCAS,United States,Wisconsin,55,,
+SOCAS,United States,Wisconsin,55,Ashland,003
+SOCAS,United States,Wisconsin,55,Bayfield,007
+SOCAS,United States,Wisconsin,55,Burnett,013
+SOCAS,United States,Wisconsin,55,Forest,041
+SOCAS,United States,Wisconsin,55,Iron,051
+SOCAS,United States,Wisconsin,55,Oneida,085
+SOCAS,United States,Wyoming,56,,
+SOCAS,United States,Wyoming,56,Albany,001
+SOCAS,United States,Wyoming,56,Big Horn,003
+SOCAS,United States,Wyoming,56,Carbon,007
+SOCAS,United States,Wyoming,56,Crook,011
+SOCAS,United States,Wyoming,56,Fremont,013
+SOCAS,United States,Wyoming,56,Goshen,015
+SOCAS,United States,Wyoming,56,Hot Springs,017
+SOCAS,United States,Wyoming,56,Johnson,019
+SOCAS,United States,Wyoming,56,Lincoln,023
+SOCAS,United States,Wyoming,56,Park,029
+SOCAS,United States,Wyoming,56,Sheridan,033
+SOCAS,United States,Wyoming,56,Sublette,035
+SOCAS,United States,Wyoming,56,Teton,039
+SOCAS,United States,Wyoming,56,Uinta,041
+SOCAS,United States,Wyoming,56,Weston,045
+SOCAS,Canada,Newfoundland,NF,,

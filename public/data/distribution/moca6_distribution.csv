@@ -1,0 +1,35 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+MOCA6,Canada,British Columbia,02,,
+MOCA6,United States,California,06,,
+MOCA6,United States,California,06,Alameda,001
+MOCA6,United States,California,06,Contra Costa,013
+MOCA6,United States,California,06,Del Norte,015
+MOCA6,United States,California,06,Humboldt,023
+MOCA6,United States,California,06,Los Angeles,037
+MOCA6,United States,California,06,Marin,041
+MOCA6,United States,California,06,Mendocino,045
+MOCA6,United States,California,06,Monterey,053
+MOCA6,United States,California,06,San Benito,069
+MOCA6,United States,California,06,San Francisco,075
+MOCA6,United States,California,06,San Luis Obispo,079
+MOCA6,United States,California,06,San Mateo,081
+MOCA6,United States,California,06,Santa Barbara,083
+MOCA6,United States,California,06,Santa Clara,085
+MOCA6,United States,California,06,Santa Cruz,087
+MOCA6,United States,California,06,Sonoma,097
+MOCA6,United States,California,06,Ventura,111
+MOCA6,United States,Oregon,41,,
+MOCA6,United States,Oregon,41,Clatsop,007
+MOCA6,United States,Oregon,41,Coos,011
+MOCA6,United States,Oregon,41,Curry,015
+MOCA6,United States,Oregon,41,Douglas,019
+MOCA6,United States,Oregon,41,Hood River,027
+MOCA6,United States,Oregon,41,Josephine,033
+MOCA6,United States,Oregon,41,Klamath,035
+MOCA6,United States,Oregon,41,Lane,039
+MOCA6,United States,Oregon,41,Lincoln,041
+MOCA6,United States,Oregon,41,Tillamook,057
+MOCA6,United States,Washington,53,,
+MOCA6,United States,Washington,53,Grays Harbor,027
+MOCA6,United States,Washington,53,Pacific,049

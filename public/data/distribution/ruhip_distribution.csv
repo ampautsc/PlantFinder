@@ -1,0 +1,878 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+RUHIP,Canada,Alberta,01,,
+RUHIP,United States,Alabama,01,,
+RUHIP,United States,Alabama,01,Baldwin,003
+RUHIP,Canada,British Columbia,02,,
+RUHIP,Canada,Manitoba,03,,
+RUHIP,Canada,New Brunswick,04,,
+RUHIP,United States,Arkansas,05,,
+RUHIP,United States,California,06,,
+RUHIP,United States,California,06,Amador,005
+RUHIP,United States,California,06,Butte,007
+RUHIP,United States,California,06,Madera,039
+RUHIP,United States,California,06,Mariposa,043
+RUHIP,United States,California,06,Mendocino,045
+RUHIP,United States,California,06,Plumas,063
+RUHIP,United States,California,06,Stanislaus,099
+RUHIP,Canada,Nova Scotia,07,,
+RUHIP,Canada,Ontario,08,,
+RUHIP,United States,Colorado,08,,
+RUHIP,United States,Colorado,08,Boulder,013
+RUHIP,United States,Colorado,08,Clear Creek,019
+RUHIP,United States,Colorado,08,Conejos,021
+RUHIP,United States,Colorado,08,Costilla,023
+RUHIP,United States,Colorado,08,Custer,027
+RUHIP,United States,Colorado,08,Douglas,035
+RUHIP,United States,Colorado,08,El Paso,041
+RUHIP,United States,Colorado,08,Gilpin,047
+RUHIP,United States,Colorado,08,Grand,049
+RUHIP,United States,Colorado,08,Gunnison,051
+RUHIP,United States,Colorado,08,Huerfano,055
+RUHIP,United States,Colorado,08,Jefferson,059
+RUHIP,United States,Colorado,08,Lake,065
+RUHIP,United States,Colorado,08,Larimer,069
+RUHIP,United States,Colorado,08,Las Animas,071
+RUHIP,United States,Colorado,08,Park,093
+RUHIP,United States,Colorado,08,Teller,119
+RUHIP,Canada,Prince Edward Island,09,,
+RUHIP,United States,Connecticut,09,,
+RUHIP,United States,Connecticut,09,Fairfield,001
+RUHIP,Canada,Quebec,10,,
+RUHIP,United States,Delaware,10,,
+RUHIP,United States,Delaware,10,New Castle,003
+RUHIP,Canada,Saskatchewan,11,,
+RUHIP,United States,District of Columbia,11,,
+RUHIP,United States,District of Columbia,11,District of Columbia,001
+RUHIP,United States,Florida,12,,
+RUHIP,United States,Georgia,13,,
+RUHIP,United States,Idaho,16,,
+RUHIP,United States,Idaho,16,Boise,015
+RUHIP,United States,Idaho,16,Bonner,017
+RUHIP,United States,Idaho,16,Idaho,049
+RUHIP,United States,Idaho,16,Valley,085
+RUHIP,United States,Illinois,17,,
+RUHIP,United States,Illinois,17,Jackson,077
+RUHIP,United States,Illinois,17,Union,181
+RUHIP,United States,Indiana,18,,
+RUHIP,United States,Iowa,19,,
+RUHIP,United States,Iowa,19,Adair,001
+RUHIP,United States,Iowa,19,Adams,003
+RUHIP,United States,Iowa,19,Clayton,043
+RUHIP,United States,Iowa,19,Fremont,071
+RUHIP,United States,Iowa,19,Guthrie,077
+RUHIP,United States,Iowa,19,Harrison,085
+RUHIP,United States,Iowa,19,Iowa,095
+RUHIP,United States,Iowa,19,Lyon,119
+RUHIP,United States,Iowa,19,Mahaska,123
+RUHIP,United States,Iowa,19,Mitchell,131
+RUHIP,United States,Iowa,19,Montgomery,137
+RUHIP,United States,Iowa,19,Muscatine,139
+RUHIP,United States,Iowa,19,Palo Alto,147
+RUHIP,United States,Iowa,19,Ringgold,159
+RUHIP,United States,Iowa,19,Sioux,167
+RUHIP,United States,Iowa,19,Story,169
+RUHIP,United States,Iowa,19,Washington,183
+RUHIP,United States,Iowa,19,Webster,187
+RUHIP,United States,Iowa,19,Woodbury,193
+RUHIP,United States,Kansas,20,,
+RUHIP,United States,Kansas,20,Allen,001
+RUHIP,United States,Kansas,20,Anderson,003
+RUHIP,United States,Kansas,20,Atchison,005
+RUHIP,United States,Kansas,20,Bourbon,011
+RUHIP,United States,Kansas,20,Brown,013
+RUHIP,United States,Kansas,20,Butler,015
+RUHIP,United States,Kansas,20,Chautauqua,019
+RUHIP,United States,Kansas,20,Cherokee,021
+RUHIP,United States,Kansas,20,Clay,027
+RUHIP,United States,Kansas,20,Cloud,029
+RUHIP,United States,Kansas,20,Coffey,031
+RUHIP,United States,Kansas,20,Cowley,035
+RUHIP,United States,Kansas,20,Crawford,037
+RUHIP,United States,Kansas,20,Doniphan,043
+RUHIP,United States,Kansas,20,Douglas,045
+RUHIP,United States,Kansas,20,Elk,049
+RUHIP,United States,Kansas,20,Ford,057
+RUHIP,United States,Kansas,20,Franklin,059
+RUHIP,United States,Kansas,20,Greenwood,073
+RUHIP,United States,Kansas,20,Harper,077
+RUHIP,United States,Kansas,20,Harvey,079
+RUHIP,United States,Kansas,20,Jackson,085
+RUHIP,United States,Kansas,20,Jefferson,087
+RUHIP,United States,Kansas,20,Johnson,091
+RUHIP,United States,Kansas,20,Kingman,095
+RUHIP,United States,Kansas,20,Labette,099
+RUHIP,United States,Kansas,20,Leavenworth,103
+RUHIP,United States,Kansas,20,Linn,107
+RUHIP,United States,Kansas,20,Lyon,111
+RUHIP,United States,Kansas,20,Marion,115
+RUHIP,United States,Kansas,20,Marshall,117
+RUHIP,United States,Kansas,20,McPherson,113
+RUHIP,United States,Kansas,20,Meade,119
+RUHIP,United States,Kansas,20,Miami,121
+RUHIP,United States,Kansas,20,Montgomery,125
+RUHIP,United States,Kansas,20,Morris,127
+RUHIP,United States,Kansas,20,Morton,129
+RUHIP,United States,Kansas,20,Nemaha,131
+RUHIP,United States,Kansas,20,Neosho,133
+RUHIP,United States,Kansas,20,Osage,139
+RUHIP,United States,Kansas,20,Pottawatomie,149
+RUHIP,United States,Kansas,20,Reno,155
+RUHIP,United States,Kansas,20,Republic,157
+RUHIP,United States,Kansas,20,Riley,161
+RUHIP,United States,Kansas,20,Saline,169
+RUHIP,United States,Kansas,20,Sedgwick,173
+RUHIP,United States,Kansas,20,Shawnee,177
+RUHIP,United States,Kansas,20,Sheridan,179
+RUHIP,United States,Kansas,20,Sumner,191
+RUHIP,United States,Kansas,20,Trego,195
+RUHIP,United States,Kansas,20,Wabaunsee,197
+RUHIP,United States,Kansas,20,Washington,201
+RUHIP,United States,Kansas,20,Wilson,205
+RUHIP,United States,Kansas,20,Woodson,207
+RUHIP,United States,Kansas,20,Wyandotte,209
+RUHIP,United States,Kentucky,21,,
+RUHIP,United States,Kentucky,21,Adair,001
+RUHIP,United States,Kentucky,21,Allen,003
+RUHIP,United States,Kentucky,21,Anderson,005
+RUHIP,United States,Kentucky,21,Ballard,007
+RUHIP,United States,Kentucky,21,Barren,009
+RUHIP,United States,Kentucky,21,Bath,011
+RUHIP,United States,Kentucky,21,Bell,013
+RUHIP,United States,Kentucky,21,Boone,015
+RUHIP,United States,Kentucky,21,Bracken,023
+RUHIP,United States,Kentucky,21,Breathitt,025
+RUHIP,United States,Kentucky,21,Breckinridge,027
+RUHIP,United States,Kentucky,21,Bullitt,029
+RUHIP,United States,Kentucky,21,Butler,031
+RUHIP,United States,Kentucky,21,Caldwell,033
+RUHIP,United States,Kentucky,21,Calloway,035
+RUHIP,United States,Kentucky,21,Campbell,037
+RUHIP,United States,Kentucky,21,Carlisle,039
+RUHIP,United States,Kentucky,21,Carroll,041
+RUHIP,United States,Kentucky,21,Carter,043
+RUHIP,United States,Kentucky,21,Casey,045
+RUHIP,United States,Kentucky,21,Christian,047
+RUHIP,United States,Kentucky,21,Clark,049
+RUHIP,United States,Kentucky,21,Clinton,053
+RUHIP,United States,Kentucky,21,Edmonson,061
+RUHIP,United States,Kentucky,21,Elliott,063
+RUHIP,United States,Kentucky,21,Estill,065
+RUHIP,United States,Kentucky,21,Fayette,067
+RUHIP,United States,Kentucky,21,Fleming,069
+RUHIP,United States,Kentucky,21,Franklin,073
+RUHIP,United States,Kentucky,21,Fulton,075
+RUHIP,United States,Kentucky,21,Gallatin,077
+RUHIP,United States,Kentucky,21,Garrard,079
+RUHIP,United States,Kentucky,21,Grayson,085
+RUHIP,United States,Kentucky,21,Green,087
+RUHIP,United States,Kentucky,21,Hancock,091
+RUHIP,United States,Kentucky,21,Hardin,093
+RUHIP,United States,Kentucky,21,Hart,099
+RUHIP,United States,Kentucky,21,Henry,103
+RUHIP,United States,Kentucky,21,Hickman,105
+RUHIP,United States,Kentucky,21,Hopkins,107
+RUHIP,United States,Kentucky,21,Jackson,109
+RUHIP,United States,Kentucky,21,Jefferson,111
+RUHIP,United States,Kentucky,21,Kenton,117
+RUHIP,United States,Kentucky,21,Knott,119
+RUHIP,United States,Kentucky,21,Laurel,125
+RUHIP,United States,Kentucky,21,Lawrence,127
+RUHIP,United States,Kentucky,21,Lee,129
+RUHIP,United States,Kentucky,21,Letcher,133
+RUHIP,United States,Kentucky,21,Lewis,135
+RUHIP,United States,Kentucky,21,Lincoln,137
+RUHIP,United States,Kentucky,21,Logan,141
+RUHIP,United States,Kentucky,21,Lyon,143
+RUHIP,United States,Kentucky,21,Madison,151
+RUHIP,United States,Kentucky,21,Magoffin,153
+RUHIP,United States,Kentucky,21,Marion,155
+RUHIP,United States,Kentucky,21,Marshall,157
+RUHIP,United States,Kentucky,21,Martin,159
+RUHIP,United States,Kentucky,21,McCracken,145
+RUHIP,United States,Kentucky,21,McCreary,147
+RUHIP,United States,Kentucky,21,McLean,149
+RUHIP,United States,Kentucky,21,Meade,163
+RUHIP,United States,Kentucky,21,Menifee,165
+RUHIP,United States,Kentucky,21,Montgomery,173
+RUHIP,United States,Kentucky,21,Morgan,175
+RUHIP,United States,Kentucky,21,Muhlenberg,177
+RUHIP,United States,Kentucky,21,Nelson,179
+RUHIP,United States,Kentucky,21,Ohio,183
+RUHIP,United States,Kentucky,21,Oldham,185
+RUHIP,United States,Kentucky,21,Owsley,189
+RUHIP,United States,Kentucky,21,Pendleton,191
+RUHIP,United States,Kentucky,21,Perry,193
+RUHIP,United States,Kentucky,21,Pike,195
+RUHIP,United States,Kentucky,21,Powell,197
+RUHIP,United States,Kentucky,21,Pulaski,199
+RUHIP,United States,Kentucky,21,Robertson,201
+RUHIP,United States,Kentucky,21,Rockcastle,203
+RUHIP,United States,Kentucky,21,Rowan,205
+RUHIP,United States,Kentucky,21,Simpson,213
+RUHIP,United States,Kentucky,21,Spencer,215
+RUHIP,United States,Kentucky,21,Todd,219
+RUHIP,United States,Kentucky,21,Trigg,221
+RUHIP,United States,Kentucky,21,Union,225
+RUHIP,United States,Kentucky,21,Warren,227
+RUHIP,United States,Kentucky,21,Washington,229
+RUHIP,United States,Kentucky,21,Whitley,235
+RUHIP,United States,Kentucky,21,Wolfe,237
+RUHIP,United States,Louisiana,22,,
+RUHIP,United States,Maine,23,,
+RUHIP,United States,Maryland,24,,
+RUHIP,United States,Massachusetts,25,,
+RUHIP,United States,Massachusetts,25,Barnstable,001
+RUHIP,United States,Massachusetts,25,Berkshire,003
+RUHIP,United States,Massachusetts,25,Bristol,005
+RUHIP,United States,Massachusetts,25,Dukes,007
+RUHIP,United States,Massachusetts,25,Essex,009
+RUHIP,United States,Massachusetts,25,Franklin,011
+RUHIP,United States,Massachusetts,25,Hampden,013
+RUHIP,United States,Massachusetts,25,Hampshire,015
+RUHIP,United States,Massachusetts,25,Middlesex,017
+RUHIP,United States,Massachusetts,25,Nantucket,019
+RUHIP,United States,Massachusetts,25,Norfolk,021
+RUHIP,United States,Massachusetts,25,Plymouth,023
+RUHIP,United States,Massachusetts,25,Suffolk,025
+RUHIP,United States,Massachusetts,25,Worcester,027
+RUHIP,United States,Michigan,26,,
+RUHIP,United States,Michigan,26,Alcona,001
+RUHIP,United States,Michigan,26,Alger,003
+RUHIP,United States,Michigan,26,Allegan,005
+RUHIP,United States,Michigan,26,Alpena,007
+RUHIP,United States,Michigan,26,Antrim,009
+RUHIP,United States,Michigan,26,Arenac,011
+RUHIP,United States,Michigan,26,Baraga,013
+RUHIP,United States,Michigan,26,Barry,015
+RUHIP,United States,Michigan,26,Bay,017
+RUHIP,United States,Michigan,26,Benzie,019
+RUHIP,United States,Michigan,26,Berrien,021
+RUHIP,United States,Michigan,26,Branch,023
+RUHIP,United States,Michigan,26,Calhoun,025
+RUHIP,United States,Michigan,26,Cass,027
+RUHIP,United States,Michigan,26,Charlevoix,029
+RUHIP,United States,Michigan,26,Cheboygan,031
+RUHIP,United States,Michigan,26,Chippewa,033
+RUHIP,United States,Michigan,26,Clare,035
+RUHIP,United States,Michigan,26,Clinton,037
+RUHIP,United States,Michigan,26,Crawford,039
+RUHIP,United States,Michigan,26,Delta,041
+RUHIP,United States,Michigan,26,Dickinson,043
+RUHIP,United States,Michigan,26,Eaton,045
+RUHIP,United States,Michigan,26,Emmet,047
+RUHIP,United States,Michigan,26,Genesee,049
+RUHIP,United States,Michigan,26,Gladwin,051
+RUHIP,United States,Michigan,26,Gogebic,053
+RUHIP,United States,Michigan,26,Grand Traverse,055
+RUHIP,United States,Michigan,26,Gratiot,057
+RUHIP,United States,Michigan,26,Hillsdale,059
+RUHIP,United States,Michigan,26,Houghton,061
+RUHIP,United States,Michigan,26,Huron,063
+RUHIP,United States,Michigan,26,Ingham,065
+RUHIP,United States,Michigan,26,Ionia,067
+RUHIP,United States,Michigan,26,Iosco,069
+RUHIP,United States,Michigan,26,Iron,071
+RUHIP,United States,Michigan,26,Isabella,073
+RUHIP,United States,Michigan,26,Jackson,075
+RUHIP,United States,Michigan,26,Kalamazoo,077
+RUHIP,United States,Michigan,26,Kalkaska,079
+RUHIP,United States,Michigan,26,Kent,081
+RUHIP,United States,Michigan,26,Keweenaw,083
+RUHIP,United States,Michigan,26,Lake,085
+RUHIP,United States,Michigan,26,Lapeer,087
+RUHIP,United States,Michigan,26,Leelanau,089
+RUHIP,United States,Michigan,26,Lenawee,091
+RUHIP,United States,Michigan,26,Livingston,093
+RUHIP,United States,Michigan,26,Mackinac,097
+RUHIP,United States,Michigan,26,Macomb,099
+RUHIP,United States,Michigan,26,Manistee,101
+RUHIP,United States,Michigan,26,Marquette,103
+RUHIP,United States,Michigan,26,Mason,105
+RUHIP,United States,Michigan,26,Mecosta,107
+RUHIP,United States,Michigan,26,Menominee,109
+RUHIP,United States,Michigan,26,Midland,111
+RUHIP,United States,Michigan,26,Monroe,115
+RUHIP,United States,Michigan,26,Montcalm,117
+RUHIP,United States,Michigan,26,Montmorency,119
+RUHIP,United States,Michigan,26,Muskegon,121
+RUHIP,United States,Michigan,26,Newaygo,123
+RUHIP,United States,Michigan,26,Oakland,125
+RUHIP,United States,Michigan,26,Oceana,127
+RUHIP,United States,Michigan,26,Ogemaw,129
+RUHIP,United States,Michigan,26,Ontonagon,131
+RUHIP,United States,Michigan,26,Osceola,133
+RUHIP,United States,Michigan,26,Oscoda,135
+RUHIP,United States,Michigan,26,Otsego,137
+RUHIP,United States,Michigan,26,Ottawa,139
+RUHIP,United States,Michigan,26,Presque Isle,141
+RUHIP,United States,Michigan,26,Roscommon,143
+RUHIP,United States,Michigan,26,Saginaw,145
+RUHIP,United States,Michigan,26,Sanilac,151
+RUHIP,United States,Michigan,26,Schoolcraft,153
+RUHIP,United States,Michigan,26,Shiawassee,155
+RUHIP,United States,Michigan,26,St. Clair,147
+RUHIP,United States,Michigan,26,St. Joseph,149
+RUHIP,United States,Michigan,26,Tuscola,157
+RUHIP,United States,Michigan,26,Van Buren,159
+RUHIP,United States,Michigan,26,Washtenaw,161
+RUHIP,United States,Michigan,26,Wayne,163
+RUHIP,United States,Minnesota,27,,
+RUHIP,United States,Minnesota,27,Aitkin,001
+RUHIP,United States,Minnesota,27,Anoka,003
+RUHIP,United States,Minnesota,27,Becker,005
+RUHIP,United States,Minnesota,27,Beltrami,007
+RUHIP,United States,Minnesota,27,Benton,009
+RUHIP,United States,Minnesota,27,Blue Earth,013
+RUHIP,United States,Minnesota,27,Carlton,017
+RUHIP,United States,Minnesota,27,Carver,019
+RUHIP,United States,Minnesota,27,Cass,021
+RUHIP,United States,Minnesota,27,Chippewa,023
+RUHIP,United States,Minnesota,27,Chisago,025
+RUHIP,United States,Minnesota,27,Clay,027
+RUHIP,United States,Minnesota,27,Clearwater,029
+RUHIP,United States,Minnesota,27,Cook,031
+RUHIP,United States,Minnesota,27,Crow Wing,035
+RUHIP,United States,Minnesota,27,Dakota,037
+RUHIP,United States,Minnesota,27,Dodge,039
+RUHIP,United States,Minnesota,27,Douglas,041
+RUHIP,United States,Minnesota,27,Fillmore,045
+RUHIP,United States,Minnesota,27,Freeborn,047
+RUHIP,United States,Minnesota,27,Goodhue,049
+RUHIP,United States,Minnesota,27,Hennepin,053
+RUHIP,United States,Minnesota,27,Houston,055
+RUHIP,United States,Minnesota,27,Hubbard,057
+RUHIP,United States,Minnesota,27,Isanti,059
+RUHIP,United States,Minnesota,27,Itasca,061
+RUHIP,United States,Minnesota,27,Kanabec,065
+RUHIP,United States,Minnesota,27,Kandiyohi,067
+RUHIP,United States,Minnesota,27,Kittson,069
+RUHIP,United States,Minnesota,27,Koochiching,071
+RUHIP,United States,Minnesota,27,Lac qui Parle,073
+RUHIP,United States,Minnesota,27,Lake,075
+RUHIP,United States,Minnesota,27,Lake of the Woods,077
+RUHIP,United States,Minnesota,27,Le Sueur,079
+RUHIP,United States,Minnesota,27,Lincoln,081
+RUHIP,United States,Minnesota,27,Mahnomen,087
+RUHIP,United States,Minnesota,27,Marshall,089
+RUHIP,United States,Minnesota,27,Martin,091
+RUHIP,United States,Minnesota,27,McLeod,085
+RUHIP,United States,Minnesota,27,Mille Lacs,095
+RUHIP,United States,Minnesota,27,Morrison,097
+RUHIP,United States,Minnesota,27,Mower,099
+RUHIP,United States,Minnesota,27,Murray,101
+RUHIP,United States,Minnesota,27,Nicollet,103
+RUHIP,United States,Minnesota,27,Nobles,105
+RUHIP,United States,Minnesota,27,Norman,107
+RUHIP,United States,Minnesota,27,Olmsted,109
+RUHIP,United States,Minnesota,27,Otter Tail,111
+RUHIP,United States,Minnesota,27,Pennington,113
+RUHIP,United States,Minnesota,27,Pine,115
+RUHIP,United States,Minnesota,27,Pipestone,117
+RUHIP,United States,Minnesota,27,Polk,119
+RUHIP,United States,Minnesota,27,Pope,121
+RUHIP,United States,Minnesota,27,Ramsey,123
+RUHIP,United States,Minnesota,27,Red Lake,125
+RUHIP,United States,Minnesota,27,Rice,131
+RUHIP,United States,Minnesota,27,Rock,133
+RUHIP,United States,Minnesota,27,Roseau,135
+RUHIP,United States,Minnesota,27,Scott,139
+RUHIP,United States,Minnesota,27,Sherburne,141
+RUHIP,United States,Minnesota,27,St. Louis,137
+RUHIP,United States,Minnesota,27,Stearns,145
+RUHIP,United States,Minnesota,27,Steele,147
+RUHIP,United States,Minnesota,27,Todd,153
+RUHIP,United States,Minnesota,27,Wabasha,157
+RUHIP,United States,Minnesota,27,Wadena,159
+RUHIP,United States,Minnesota,27,Waseca,161
+RUHIP,United States,Minnesota,27,Washington,163
+RUHIP,United States,Minnesota,27,Watonwan,165
+RUHIP,United States,Minnesota,27,Wilkin,167
+RUHIP,United States,Minnesota,27,Winona,169
+RUHIP,United States,Minnesota,27,Wright,171
+RUHIP,United States,Mississippi,28,,
+RUHIP,United States,Missouri,29,,
+RUHIP,United States,Missouri,29,Adair,001
+RUHIP,United States,Missouri,29,Andrew,003
+RUHIP,United States,Missouri,29,Audrain,007
+RUHIP,United States,Missouri,29,Barry,009
+RUHIP,United States,Missouri,29,Barton,011
+RUHIP,United States,Missouri,29,Bates,013
+RUHIP,United States,Missouri,29,Benton,015
+RUHIP,United States,Missouri,29,Boone,019
+RUHIP,United States,Missouri,29,Buchanan,021
+RUHIP,United States,Missouri,29,Caldwell,025
+RUHIP,United States,Missouri,29,Camden,029
+RUHIP,United States,Missouri,29,Carroll,033
+RUHIP,United States,Missouri,29,Carter,035
+RUHIP,United States,Missouri,29,Cass,037
+RUHIP,United States,Missouri,29,Cedar,039
+RUHIP,United States,Missouri,29,Chariton,041
+RUHIP,United States,Missouri,29,Christian,043
+RUHIP,United States,Missouri,29,Clark,045
+RUHIP,United States,Missouri,29,Clay,047
+RUHIP,United States,Missouri,29,Clinton,049
+RUHIP,United States,Missouri,29,Cole,051
+RUHIP,United States,Missouri,29,Cooper,053
+RUHIP,United States,Missouri,29,Dade,057
+RUHIP,United States,Missouri,29,Dallas,059
+RUHIP,United States,Missouri,29,DeKalb,063
+RUHIP,United States,Missouri,29,Douglas,067
+RUHIP,United States,Missouri,29,Franklin,071
+RUHIP,United States,Missouri,29,Greene,077
+RUHIP,United States,Missouri,29,Grundy,079
+RUHIP,United States,Missouri,29,Harrison,081
+RUHIP,United States,Missouri,29,Henry,083
+RUHIP,United States,Missouri,29,Hickory,085
+RUHIP,United States,Missouri,29,Holt,087
+RUHIP,United States,Missouri,29,Howard,089
+RUHIP,United States,Missouri,29,Howell,091
+RUHIP,United States,Missouri,29,Jackson,095
+RUHIP,United States,Missouri,29,Jasper,097
+RUHIP,United States,Missouri,29,Jefferson,099
+RUHIP,United States,Missouri,29,Johnson,101
+RUHIP,United States,Missouri,29,Knox,103
+RUHIP,United States,Missouri,29,Laclede,105
+RUHIP,United States,Missouri,29,Lafayette,107
+RUHIP,United States,Missouri,29,Lawrence,109
+RUHIP,United States,Missouri,29,Lewis,111
+RUHIP,United States,Missouri,29,Lincoln,113
+RUHIP,United States,Missouri,29,Linn,115
+RUHIP,United States,Missouri,29,Livingston,117
+RUHIP,United States,Missouri,29,Macon,121
+RUHIP,United States,Missouri,29,Marion,127
+RUHIP,United States,Missouri,29,McDonald,119
+RUHIP,United States,Missouri,29,Mercer,129
+RUHIP,United States,Missouri,29,Miller,131
+RUHIP,United States,Missouri,29,Moniteau,135
+RUHIP,United States,Missouri,29,Monroe,137
+RUHIP,United States,Missouri,29,Montgomery,139
+RUHIP,United States,Missouri,29,Morgan,141
+RUHIP,United States,Missouri,29,New Madrid,143
+RUHIP,United States,Missouri,29,Newton,145
+RUHIP,United States,Missouri,29,Nodaway,147
+RUHIP,United States,Missouri,29,Ozark,153
+RUHIP,United States,Missouri,29,Perry,157
+RUHIP,United States,Missouri,29,Pettis,159
+RUHIP,United States,Missouri,29,Phelps,161
+RUHIP,United States,Missouri,29,Pike,163
+RUHIP,United States,Missouri,29,Platte,165
+RUHIP,United States,Missouri,29,Polk,167
+RUHIP,United States,Missouri,29,Putnam,171
+RUHIP,United States,Missouri,29,Ralls,173
+RUHIP,United States,Missouri,29,Randolph,175
+RUHIP,United States,Missouri,29,Ray,177
+RUHIP,United States,Missouri,29,Reynolds,179
+RUHIP,United States,Missouri,29,Saline,195
+RUHIP,United States,Missouri,29,Schuyler,197
+RUHIP,United States,Missouri,29,Scotland,199
+RUHIP,United States,Missouri,29,Shelby,205
+RUHIP,United States,Missouri,29,St. Charles,183
+RUHIP,United States,Missouri,29,St. Clair,185
+RUHIP,United States,Missouri,29,St. Louis,189
+RUHIP,United States,Missouri,29,Ste. Genevieve,186
+RUHIP,United States,Missouri,29,Stone,209
+RUHIP,United States,Missouri,29,Sullivan,211
+RUHIP,United States,Missouri,29,Taney,213
+RUHIP,United States,Missouri,29,Texas,215
+RUHIP,United States,Missouri,29,Vernon,217
+RUHIP,United States,Missouri,29,Warren,219
+RUHIP,United States,Missouri,29,Wright,229
+RUHIP,United States,Montana,30,,
+RUHIP,United States,Nebraska,31,,
+RUHIP,United States,Nebraska,31,Antelope,003
+RUHIP,United States,Nebraska,31,Blaine,009
+RUHIP,United States,Nebraska,31,Box Butte,013
+RUHIP,United States,Nebraska,31,Brown,017
+RUHIP,United States,Nebraska,31,Buffalo,019
+RUHIP,United States,Nebraska,31,Butler,023
+RUHIP,United States,Nebraska,31,Cass,025
+RUHIP,United States,Nebraska,31,Cedar,027
+RUHIP,United States,Nebraska,31,Cherry,031
+RUHIP,United States,Nebraska,31,Cuming,039
+RUHIP,United States,Nebraska,31,Custer,041
+RUHIP,United States,Nebraska,31,Dawes,045
+RUHIP,United States,Nebraska,31,Douglas,055
+RUHIP,United States,Nebraska,31,Garden,069
+RUHIP,United States,Nebraska,31,Grant,075
+RUHIP,United States,Nebraska,31,Hall,079
+RUHIP,United States,Nebraska,31,Johnson,097
+RUHIP,United States,Nebraska,31,Lincoln,111
+RUHIP,United States,Nebraska,31,Logan,113
+RUHIP,United States,Nebraska,31,Loup,115
+RUHIP,United States,Nebraska,31,McPherson,117
+RUHIP,United States,Nebraska,31,Morrill,123
+RUHIP,United States,Nebraska,31,Otoe,131
+RUHIP,United States,Nebraska,31,Pierce,139
+RUHIP,United States,Nebraska,31,Richardson,147
+RUHIP,United States,Nebraska,31,Sarpy,153
+RUHIP,United States,Nebraska,31,Sheridan,161
+RUHIP,United States,Nebraska,31,Sherman,163
+RUHIP,United States,Nebraska,31,Sioux,165
+RUHIP,United States,Nebraska,31,Thomas,171
+RUHIP,United States,Nebraska,31,Valley,175
+RUHIP,United States,Nebraska,31,Wheeler,183
+RUHIP,United States,New Hampshire,33,,
+RUHIP,United States,New Jersey,34,,
+RUHIP,United States,New Jersey,34,Atlantic,001
+RUHIP,United States,New Jersey,34,Bergen,003
+RUHIP,United States,New Jersey,34,Burlington,005
+RUHIP,United States,New Jersey,34,Camden,007
+RUHIP,United States,New Jersey,34,Cape May,009
+RUHIP,United States,New Jersey,34,Essex,013
+RUHIP,United States,New Jersey,34,Gloucester,015
+RUHIP,United States,New Jersey,34,Hudson,017
+RUHIP,United States,New Jersey,34,Hunterdon,019
+RUHIP,United States,New Jersey,34,Mercer,021
+RUHIP,United States,New Jersey,34,Middlesex,023
+RUHIP,United States,New Jersey,34,Monmouth,025
+RUHIP,United States,New Jersey,34,Morris,027
+RUHIP,United States,New Jersey,34,Ocean,029
+RUHIP,United States,New Jersey,34,Passaic,031
+RUHIP,United States,New Jersey,34,Somerset,035
+RUHIP,United States,New Jersey,34,Sussex,037
+RUHIP,United States,New Jersey,34,Union,039
+RUHIP,United States,New Jersey,34,Warren,041
+RUHIP,United States,New Mexico,35,,
+RUHIP,United States,New Mexico,35,Colfax,007
+RUHIP,United States,New Mexico,35,Curry,009
+RUHIP,United States,New Mexico,35,Los Alamos,028
+RUHIP,United States,New Mexico,35,Mora,033
+RUHIP,United States,New Mexico,35,Rio Arriba,039
+RUHIP,United States,New Mexico,35,San Miguel,047
+RUHIP,United States,New Mexico,35,Sandoval,043
+RUHIP,United States,New Mexico,35,Santa Fe,049
+RUHIP,United States,New Mexico,35,Taos,055
+RUHIP,United States,New York,36,,
+RUHIP,United States,New York,36,Albany,001
+RUHIP,United States,New York,36,Allegany,003
+RUHIP,United States,New York,36,Bronx,005
+RUHIP,United States,New York,36,Broome,007
+RUHIP,United States,New York,36,Cattaraugus,009
+RUHIP,United States,New York,36,Columbia,021
+RUHIP,United States,New York,36,Delaware,025
+RUHIP,United States,New York,36,Dutchess,027
+RUHIP,United States,New York,36,Erie,029
+RUHIP,United States,New York,36,Essex,031
+RUHIP,United States,New York,36,Kings,047
+RUHIP,United States,New York,36,Lewis,049
+RUHIP,United States,New York,36,Madison,053
+RUHIP,United States,New York,36,Monroe,055
+RUHIP,United States,New York,36,Nassau,059
+RUHIP,United States,New York,36,New York,061
+RUHIP,United States,New York,36,Oneida,065
+RUHIP,United States,New York,36,Onondaga,067
+RUHIP,United States,New York,36,Ontario,069
+RUHIP,United States,New York,36,Orange,071
+RUHIP,United States,New York,36,Otsego,077
+RUHIP,United States,New York,36,Putnam,079
+RUHIP,United States,New York,36,Queens,081
+RUHIP,United States,New York,36,Rensselaer,083
+RUHIP,United States,New York,36,Richmond,085
+RUHIP,United States,New York,36,Rockland,087
+RUHIP,United States,New York,36,Saratoga,091
+RUHIP,United States,New York,36,Schoharie,095
+RUHIP,United States,New York,36,St. Lawrence,089
+RUHIP,United States,New York,36,Suffolk,103
+RUHIP,United States,New York,36,Tioga,107
+RUHIP,United States,New York,36,Ulster,111
+RUHIP,United States,New York,36,Washington,115
+RUHIP,United States,New York,36,Westchester,119
+RUHIP,United States,North Carolina,37,,
+RUHIP,United States,North Dakota,38,,
+RUHIP,United States,North Dakota,38,Barnes,003
+RUHIP,United States,North Dakota,38,Benson,005
+RUHIP,United States,North Dakota,38,Bottineau,009
+RUHIP,United States,North Dakota,38,Burleigh,015
+RUHIP,United States,North Dakota,38,Cass,017
+RUHIP,United States,North Dakota,38,Dickey,021
+RUHIP,United States,North Dakota,38,Eddy,027
+RUHIP,United States,North Dakota,38,Emmons,029
+RUHIP,United States,North Dakota,38,Foster,031
+RUHIP,United States,North Dakota,38,Grand Forks,035
+RUHIP,United States,North Dakota,38,Griggs,039
+RUHIP,United States,North Dakota,38,Kidder,043
+RUHIP,United States,North Dakota,38,LaMoure,045
+RUHIP,United States,North Dakota,38,Logan,047
+RUHIP,United States,North Dakota,38,McHenry,049
+RUHIP,United States,North Dakota,38,McIntosh,051
+RUHIP,United States,North Dakota,38,Morton,059
+RUHIP,United States,North Dakota,38,Nelson,063
+RUHIP,United States,North Dakota,38,Pembina,067
+RUHIP,United States,North Dakota,38,Ramsey,071
+RUHIP,United States,North Dakota,38,Ransom,073
+RUHIP,United States,North Dakota,38,Renville,075
+RUHIP,United States,North Dakota,38,Richland,077
+RUHIP,United States,North Dakota,38,Rolette,079
+RUHIP,United States,North Dakota,38,Sargent,081
+RUHIP,United States,North Dakota,38,Sheridan,083
+RUHIP,United States,North Dakota,38,Stutsman,093
+RUHIP,United States,North Dakota,38,Traill,097
+RUHIP,United States,North Dakota,38,Walsh,099
+RUHIP,United States,North Dakota,38,Ward,101
+RUHIP,United States,Ohio,39,,
+RUHIP,United States,Oklahoma,40,,
+RUHIP,United States,Oklahoma,40,Alfalfa,003
+RUHIP,United States,Oklahoma,40,Bryan,013
+RUHIP,United States,Oklahoma,40,Caddo,015
+RUHIP,United States,Oklahoma,40,Carter,019
+RUHIP,United States,Oklahoma,40,Cherokee,021
+RUHIP,United States,Oklahoma,40,Choctaw,023
+RUHIP,United States,Oklahoma,40,Cleveland,027
+RUHIP,United States,Oklahoma,40,Comanche,031
+RUHIP,United States,Oklahoma,40,Creek,037
+RUHIP,United States,Oklahoma,40,Custer,039
+RUHIP,United States,Oklahoma,40,Delaware,041
+RUHIP,United States,Oklahoma,40,Dewey,043
+RUHIP,United States,Oklahoma,40,Garvin,049
+RUHIP,United States,Oklahoma,40,Grady,051
+RUHIP,United States,Oklahoma,40,Greer,055
+RUHIP,United States,Oklahoma,40,Haskell,061
+RUHIP,United States,Oklahoma,40,Hughes,063
+RUHIP,United States,Oklahoma,40,Jackson,065
+RUHIP,United States,Oklahoma,40,Jefferson,067
+RUHIP,United States,Oklahoma,40,Johnston,069
+RUHIP,United States,Oklahoma,40,Kay,071
+RUHIP,United States,Oklahoma,40,Kingfisher,073
+RUHIP,United States,Oklahoma,40,Kiowa,075
+RUHIP,United States,Oklahoma,40,Latimer,077
+RUHIP,United States,Oklahoma,40,Le Flore,079
+RUHIP,United States,Oklahoma,40,Lincoln,081
+RUHIP,United States,Oklahoma,40,Logan,083
+RUHIP,United States,Oklahoma,40,Love,085
+RUHIP,United States,Oklahoma,40,Marshall,095
+RUHIP,United States,Oklahoma,40,Mayes,097
+RUHIP,United States,Oklahoma,40,McClain,087
+RUHIP,United States,Oklahoma,40,McCurtain,089
+RUHIP,United States,Oklahoma,40,McIntosh,091
+RUHIP,United States,Oklahoma,40,Murray,099
+RUHIP,United States,Oklahoma,40,Muskogee,101
+RUHIP,United States,Oklahoma,40,Okfuskee,107
+RUHIP,United States,Oklahoma,40,Oklahoma,109
+RUHIP,United States,Oklahoma,40,Ottawa,115
+RUHIP,United States,Oklahoma,40,Payne,119
+RUHIP,United States,Oklahoma,40,Pontotoc,123
+RUHIP,United States,Oklahoma,40,Pottawatomie,125
+RUHIP,United States,Oklahoma,40,Sequoyah,135
+RUHIP,United States,Oklahoma,40,Tulsa,143
+RUHIP,United States,Oklahoma,40,Washington,147
+RUHIP,United States,Oklahoma,40,Washita,149
+RUHIP,United States,Oregon,41,,
+RUHIP,United States,Oregon,41,Josephine,033
+RUHIP,United States,Pennsylvania,42,,
+RUHIP,United States,Pennsylvania,42,Adams,001
+RUHIP,United States,Pennsylvania,42,Allegheny,003
+RUHIP,United States,Pennsylvania,42,Armstrong,005
+RUHIP,United States,Pennsylvania,42,Beaver,007
+RUHIP,United States,Pennsylvania,42,Bedford,009
+RUHIP,United States,Pennsylvania,42,Berks,011
+RUHIP,United States,Pennsylvania,42,Blair,013
+RUHIP,United States,Pennsylvania,42,Bradford,015
+RUHIP,United States,Pennsylvania,42,Bucks,017
+RUHIP,United States,Pennsylvania,42,Butler,019
+RUHIP,United States,Pennsylvania,42,Cambria,021
+RUHIP,United States,Pennsylvania,42,Cameron,023
+RUHIP,United States,Pennsylvania,42,Carbon,025
+RUHIP,United States,Pennsylvania,42,Centre,027
+RUHIP,United States,Pennsylvania,42,Chester,029
+RUHIP,United States,Pennsylvania,42,Clarion,031
+RUHIP,United States,Pennsylvania,42,Clearfield,033
+RUHIP,United States,Pennsylvania,42,Clinton,035
+RUHIP,United States,Pennsylvania,42,Columbia,037
+RUHIP,United States,Pennsylvania,42,Crawford,039
+RUHIP,United States,Pennsylvania,42,Cumberland,041
+RUHIP,United States,Pennsylvania,42,Dauphin,043
+RUHIP,United States,Pennsylvania,42,Delaware,045
+RUHIP,United States,Pennsylvania,42,Elk,047
+RUHIP,United States,Pennsylvania,42,Erie,049
+RUHIP,United States,Pennsylvania,42,Fayette,051
+RUHIP,United States,Pennsylvania,42,Forest,053
+RUHIP,United States,Pennsylvania,42,Fulton,057
+RUHIP,United States,Pennsylvania,42,Greene,059
+RUHIP,United States,Pennsylvania,42,Huntingdon,061
+RUHIP,United States,Pennsylvania,42,Indiana,063
+RUHIP,United States,Pennsylvania,42,Jefferson,065
+RUHIP,United States,Pennsylvania,42,Juniata,067
+RUHIP,United States,Pennsylvania,42,Lackawanna,069
+RUHIP,United States,Pennsylvania,42,Lancaster,071
+RUHIP,United States,Pennsylvania,42,Lawrence,073
+RUHIP,United States,Pennsylvania,42,Lebanon,075
+RUHIP,United States,Pennsylvania,42,Lehigh,077
+RUHIP,United States,Pennsylvania,42,Luzerne,079
+RUHIP,United States,Pennsylvania,42,Lycoming,081
+RUHIP,United States,Pennsylvania,42,McKean,083
+RUHIP,United States,Pennsylvania,42,Mercer,085
+RUHIP,United States,Pennsylvania,42,Monroe,089
+RUHIP,United States,Pennsylvania,42,Montgomery,091
+RUHIP,United States,Pennsylvania,42,Northampton,095
+RUHIP,United States,Pennsylvania,42,Northumberland,097
+RUHIP,United States,Pennsylvania,42,Perry,099
+RUHIP,United States,Pennsylvania,42,Philadelphia,101
+RUHIP,United States,Pennsylvania,42,Pike,103
+RUHIP,United States,Pennsylvania,42,Potter,105
+RUHIP,United States,Pennsylvania,42,Schuylkill,107
+RUHIP,United States,Pennsylvania,42,Snyder,109
+RUHIP,United States,Pennsylvania,42,Somerset,111
+RUHIP,United States,Pennsylvania,42,Sullivan,113
+RUHIP,United States,Pennsylvania,42,Susquehanna,115
+RUHIP,United States,Pennsylvania,42,Tioga,117
+RUHIP,United States,Pennsylvania,42,Union,119
+RUHIP,United States,Pennsylvania,42,Venango,121
+RUHIP,United States,Pennsylvania,42,Warren,123
+RUHIP,United States,Pennsylvania,42,Washington,125
+RUHIP,United States,Pennsylvania,42,Wayne,127
+RUHIP,United States,Pennsylvania,42,Westmoreland,129
+RUHIP,United States,Pennsylvania,42,York,133
+RUHIP,United States,Rhode Island,44,,
+RUHIP,United States,Rhode Island,44,Bristol,001
+RUHIP,United States,Rhode Island,44,Kent,003
+RUHIP,United States,Rhode Island,44,Newport,005
+RUHIP,United States,Rhode Island,44,Providence,007
+RUHIP,United States,Rhode Island,44,Washington,009
+RUHIP,United States,South Carolina,45,,
+RUHIP,United States,South Dakota,46,,
+RUHIP,United States,South Dakota,46,Bennett,007
+RUHIP,United States,South Dakota,46,Brookings,011
+RUHIP,United States,South Dakota,46,Codington,029
+RUHIP,United States,South Dakota,46,Custer,033
+RUHIP,United States,South Dakota,46,Day,037
+RUHIP,United States,South Dakota,46,Deuel,039
+RUHIP,United States,South Dakota,46,Fall River,047
+RUHIP,United States,South Dakota,46,Hamlin,057
+RUHIP,United States,South Dakota,46,Lawrence,081
+RUHIP,United States,South Dakota,46,Marshall,091
+RUHIP,United States,South Dakota,46,Minnehaha,099
+RUHIP,United States,South Dakota,46,Pennington,103
+RUHIP,United States,South Dakota,46,Roberts,109
+RUHIP,United States,South Dakota,46,Todd,121
+RUHIP,United States,South Dakota,46,Union,127
+RUHIP,United States,Tennessee,47,,
+RUHIP,United States,Tennessee,47,Anderson,001
+RUHIP,United States,Tennessee,47,Benton,005
+RUHIP,United States,Tennessee,47,Bledsoe,007
+RUHIP,United States,Tennessee,47,Blount,009
+RUHIP,United States,Tennessee,47,Bradley,011
+RUHIP,United States,Tennessee,47,Coffee,031
+RUHIP,United States,Tennessee,47,Decatur,039
+RUHIP,United States,Tennessee,47,Dickson,043
+RUHIP,United States,Tennessee,47,Fayette,047
+RUHIP,United States,Tennessee,47,Fentress,049
+RUHIP,United States,Tennessee,47,Franklin,051
+RUHIP,United States,Tennessee,47,Grainger,057
+RUHIP,United States,Tennessee,47,Henderson,077
+RUHIP,United States,Tennessee,47,Henry,079
+RUHIP,United States,Tennessee,47,Houston,083
+RUHIP,United States,Tennessee,47,Humphreys,085
+RUHIP,United States,Tennessee,47,Johnson,091
+RUHIP,United States,Tennessee,47,Knox,093
+RUHIP,United States,Tennessee,47,McMinn,107
+RUHIP,United States,Tennessee,47,Monroe,123
+RUHIP,United States,Tennessee,47,Montgomery,125
+RUHIP,United States,Tennessee,47,Morgan,129
+RUHIP,United States,Tennessee,47,Obion,131
+RUHIP,United States,Tennessee,47,Polk,139
+RUHIP,United States,Tennessee,47,Roane,145
+RUHIP,United States,Tennessee,47,Rutherford,149
+RUHIP,United States,Tennessee,47,Sevier,155
+RUHIP,United States,Tennessee,47,Stewart,161
+RUHIP,United States,Tennessee,47,Sumner,165
+RUHIP,United States,Tennessee,47,Union,173
+RUHIP,United States,Tennessee,47,Weakley,183
+RUHIP,United States,Tennessee,47,Williamson,187
+RUHIP,United States,Texas,48,,
+RUHIP,United States,Texas,48,Brazos,041
+RUHIP,United States,Texas,48,Llano,299
+RUHIP,United States,Texas,48,Mason,319
+RUHIP,United States,Texas,48,McLennan,309
+RUHIP,United States,Texas,48,Washington,477
+RUHIP,United States,Utah,49,,
+RUHIP,United States,Utah,49,Salt Lake,035
+RUHIP,United States,Utah,49,Summit,043
+RUHIP,United States,Utah,49,Utah,049
+RUHIP,United States,Vermont,50,,
+RUHIP,United States,Virginia,51,,
+RUHIP,United States,Washington,53,,
+RUHIP,United States,Washington,53,Island,029
+RUHIP,United States,Washington,53,King,033
+RUHIP,United States,Washington,53,Pend Oreille,051
+RUHIP,United States,Washington,53,Pierce,053
+RUHIP,United States,West Virginia,54,,
+RUHIP,United States,Wisconsin,55,,
+RUHIP,United States,Wisconsin,55,Adams,001
+RUHIP,United States,Wisconsin,55,Ashland,003
+RUHIP,United States,Wisconsin,55,Barron,005
+RUHIP,United States,Wisconsin,55,Bayfield,007
+RUHIP,United States,Wisconsin,55,Brown,009
+RUHIP,United States,Wisconsin,55,Buffalo,011
+RUHIP,United States,Wisconsin,55,Burnett,013
+RUHIP,United States,Wisconsin,55,Calumet,015
+RUHIP,United States,Wisconsin,55,Chippewa,017
+RUHIP,United States,Wisconsin,55,Clark,019
+RUHIP,United States,Wisconsin,55,Columbia,021
+RUHIP,United States,Wisconsin,55,Crawford,023
+RUHIP,United States,Wisconsin,55,Dane,025
+RUHIP,United States,Wisconsin,55,Dodge,027
+RUHIP,United States,Wisconsin,55,Door,029
+RUHIP,United States,Wisconsin,55,Douglas,031
+RUHIP,United States,Wisconsin,55,Dunn,033
+RUHIP,United States,Wisconsin,55,Eau Claire,035
+RUHIP,United States,Wisconsin,55,Florence,037
+RUHIP,United States,Wisconsin,55,Fond du Lac,039
+RUHIP,United States,Wisconsin,55,Forest,041
+RUHIP,United States,Wisconsin,55,Grant,043
+RUHIP,United States,Wisconsin,55,Green,045
+RUHIP,United States,Wisconsin,55,Green Lake,047
+RUHIP,United States,Wisconsin,55,Iowa,049
+RUHIP,United States,Wisconsin,55,Iron,051
+RUHIP,United States,Wisconsin,55,Jackson,053
+RUHIP,United States,Wisconsin,55,Jefferson,055
+RUHIP,United States,Wisconsin,55,Kenosha,059
+RUHIP,United States,Wisconsin,55,Kewaunee,061
+RUHIP,United States,Wisconsin,55,La Crosse,063
+RUHIP,United States,Wisconsin,55,Lafayette,065
+RUHIP,United States,Wisconsin,55,Langlade,067
+RUHIP,United States,Wisconsin,55,Lincoln,069
+RUHIP,United States,Wisconsin,55,Manitowoc,071
+RUHIP,United States,Wisconsin,55,Marathon,073
+RUHIP,United States,Wisconsin,55,Marinette,075
+RUHIP,United States,Wisconsin,55,Marquette,077
+RUHIP,United States,Wisconsin,55,Menominee,078
+RUHIP,United States,Wisconsin,55,Milwaukee,079
+RUHIP,United States,Wisconsin,55,Monroe,081
+RUHIP,United States,Wisconsin,55,Oconto,083
+RUHIP,United States,Wisconsin,55,Oneida,085
+RUHIP,United States,Wisconsin,55,Outagamie,087
+RUHIP,United States,Wisconsin,55,Ozaukee,089
+RUHIP,United States,Wisconsin,55,Pepin,091
+RUHIP,United States,Wisconsin,55,Pierce,093
+RUHIP,United States,Wisconsin,55,Polk,095
+RUHIP,United States,Wisconsin,55,Portage,097
+RUHIP,United States,Wisconsin,55,Price,099
+RUHIP,United States,Wisconsin,55,Racine,101
+RUHIP,United States,Wisconsin,55,Richland,103
+RUHIP,United States,Wisconsin,55,Rock,105
+RUHIP,United States,Wisconsin,55,Rusk,107
+RUHIP,United States,Wisconsin,55,Sauk,111
+RUHIP,United States,Wisconsin,55,Sawyer,113
+RUHIP,United States,Wisconsin,55,Shawano,115
+RUHIP,United States,Wisconsin,55,Sheboygan,117
+RUHIP,United States,Wisconsin,55,St. Croix,109
+RUHIP,United States,Wisconsin,55,Taylor,119
+RUHIP,United States,Wisconsin,55,Trempealeau,121
+RUHIP,United States,Wisconsin,55,Vernon,123
+RUHIP,United States,Wisconsin,55,Vilas,125
+RUHIP,United States,Wisconsin,55,Walworth,127
+RUHIP,United States,Wisconsin,55,Washburn,129
+RUHIP,United States,Wisconsin,55,Washington,131
+RUHIP,United States,Wisconsin,55,Waukesha,133
+RUHIP,United States,Wisconsin,55,Waupaca,135
+RUHIP,United States,Wisconsin,55,Waushara,137
+RUHIP,United States,Wisconsin,55,Winnebago,139
+RUHIP,United States,Wisconsin,55,Wood,141
+RUHIP,United States,Wyoming,56,,
+RUHIP,United States,Wyoming,56,Albany,001
+RUHIP,United States,Wyoming,56,Converse,009
+RUHIP,United States,Wyoming,56,Crook,011
+RUHIP,United States,Wyoming,56,Laramie,021
+RUHIP,United States,Wyoming,56,Weston,045
+RUHIP,Canada,Newfoundland,NF,,

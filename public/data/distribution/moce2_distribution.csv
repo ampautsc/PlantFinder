@@ -1,0 +1,443 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+MOCE2,United States,Alabama,01,,
+MOCE2,United States,Alabama,01,Autauga,001
+MOCE2,United States,Alabama,01,Baldwin,003
+MOCE2,United States,Alabama,01,Barbour,005
+MOCE2,United States,Alabama,01,Bibb,007
+MOCE2,United States,Alabama,01,Bullock,011
+MOCE2,United States,Alabama,01,Butler,013
+MOCE2,United States,Alabama,01,Choctaw,023
+MOCE2,United States,Alabama,01,Clarke,025
+MOCE2,United States,Alabama,01,Coffee,031
+MOCE2,United States,Alabama,01,Conecuh,035
+MOCE2,United States,Alabama,01,Covington,039
+MOCE2,United States,Alabama,01,Crenshaw,041
+MOCE2,United States,Alabama,01,Cullman,043
+MOCE2,United States,Alabama,01,Dale,045
+MOCE2,United States,Alabama,01,Dallas,047
+MOCE2,United States,Alabama,01,Escambia,053
+MOCE2,United States,Alabama,01,Geneva,061
+MOCE2,United States,Alabama,01,Greene,063
+MOCE2,United States,Alabama,01,Hale,065
+MOCE2,United States,Alabama,01,Henry,067
+MOCE2,United States,Alabama,01,Houston,069
+MOCE2,United States,Alabama,01,Lee,081
+MOCE2,United States,Alabama,01,Lowndes,085
+MOCE2,United States,Alabama,01,Macon,087
+MOCE2,United States,Alabama,01,Marengo,091
+MOCE2,United States,Alabama,01,Mobile,097
+MOCE2,United States,Alabama,01,Monroe,099
+MOCE2,United States,Alabama,01,Montgomery,101
+MOCE2,United States,Alabama,01,Perry,105
+MOCE2,United States,Alabama,01,Pickens,107
+MOCE2,United States,Alabama,01,Pike,109
+MOCE2,United States,Alabama,01,Russell,113
+MOCE2,United States,Alabama,01,Sumter,119
+MOCE2,United States,Alabama,01,Tuscaloosa,125
+MOCE2,United States,Alabama,01,Washington,129
+MOCE2,United States,Alabama,01,Wilcox,131
+MOCE2,United States,Arkansas,05,,
+MOCE2,United States,Arkansas,05,Ashley,003
+MOCE2,United States,Arkansas,05,Bradley,011
+MOCE2,United States,Arkansas,05,Calhoun,013
+MOCE2,United States,Arkansas,05,Clark,019
+MOCE2,United States,Arkansas,05,Columbia,027
+MOCE2,United States,Arkansas,05,Dallas,039
+MOCE2,United States,Arkansas,05,Drew,043
+MOCE2,United States,Arkansas,05,Garland,051
+MOCE2,United States,Arkansas,05,Grant,053
+MOCE2,United States,Arkansas,05,Hempstead,057
+MOCE2,United States,Arkansas,05,Hot Spring,059
+MOCE2,United States,Arkansas,05,Howard,061
+MOCE2,United States,Arkansas,05,Lafayette,073
+MOCE2,United States,Arkansas,05,Little River,081
+MOCE2,United States,Arkansas,05,Miller,091
+MOCE2,United States,Arkansas,05,Nevada,099
+MOCE2,United States,Arkansas,05,Ouachita,103
+MOCE2,United States,Arkansas,05,Pike,109
+MOCE2,United States,Arkansas,05,Polk,113
+MOCE2,United States,Arkansas,05,Saline,125
+MOCE2,United States,Arkansas,05,Union,139
+MOCE2,United States,Delaware,10,,
+MOCE2,United States,Delaware,10,Sussex,005
+MOCE2,United States,Florida,12,,
+MOCE2,United States,Florida,12,Alachua,001
+MOCE2,United States,Florida,12,Baker,003
+MOCE2,United States,Florida,12,Bay,005
+MOCE2,United States,Florida,12,Bradford,007
+MOCE2,United States,Florida,12,Brevard,009
+MOCE2,United States,Florida,12,Calhoun,013
+MOCE2,United States,Florida,12,Charlotte,015
+MOCE2,United States,Florida,12,Citrus,017
+MOCE2,United States,Florida,12,Clay,019
+MOCE2,United States,Florida,12,Collier,021
+MOCE2,United States,Florida,12,Columbia,023
+MOCE2,United States,Florida,12,DeSoto,027
+MOCE2,United States,Florida,12,Dixie,029
+MOCE2,United States,Florida,12,Duval,031
+MOCE2,United States,Florida,12,Escambia,033
+MOCE2,United States,Florida,12,Flagler,035
+MOCE2,United States,Florida,12,Franklin,037
+MOCE2,United States,Florida,12,Gadsden,039
+MOCE2,United States,Florida,12,Gilchrist,041
+MOCE2,United States,Florida,12,Glades,043
+MOCE2,United States,Florida,12,Hamilton,047
+MOCE2,United States,Florida,12,Hardee,049
+MOCE2,United States,Florida,12,Hendry,051
+MOCE2,United States,Florida,12,Hernando,053
+MOCE2,United States,Florida,12,Highlands,055
+MOCE2,United States,Florida,12,Hillsborough,057
+MOCE2,United States,Florida,12,Indian River,061
+MOCE2,United States,Florida,12,Jackson,063
+MOCE2,United States,Florida,12,Jefferson,065
+MOCE2,United States,Florida,12,Lafayette,067
+MOCE2,United States,Florida,12,Lake,069
+MOCE2,United States,Florida,12,Lee,071
+MOCE2,United States,Florida,12,Leon,073
+MOCE2,United States,Florida,12,Levy,075
+MOCE2,United States,Florida,12,Liberty,077
+MOCE2,United States,Florida,12,Madison,079
+MOCE2,United States,Florida,12,Manatee,081
+MOCE2,United States,Florida,12,Marion,083
+MOCE2,United States,Florida,12,Martin,085
+MOCE2,United States,Florida,12,Miami-Dade,086
+MOCE2,United States,Florida,12,Monroe,087
+MOCE2,United States,Florida,12,Nassau,089
+MOCE2,United States,Florida,12,Okaloosa,091
+MOCE2,United States,Florida,12,Okeechobee,093
+MOCE2,United States,Florida,12,Orange,095
+MOCE2,United States,Florida,12,Osceola,097
+MOCE2,United States,Florida,12,Palm Beach,099
+MOCE2,United States,Florida,12,Pasco,101
+MOCE2,United States,Florida,12,Pinellas,103
+MOCE2,United States,Florida,12,Polk,105
+MOCE2,United States,Florida,12,Putnam,107
+MOCE2,United States,Florida,12,Sarasota,115
+MOCE2,United States,Florida,12,Seminole,117
+MOCE2,United States,Florida,12,St. Johns,109
+MOCE2,United States,Florida,12,St. Lucie,111
+MOCE2,United States,Florida,12,Sumter,119
+MOCE2,United States,Florida,12,Suwannee,121
+MOCE2,United States,Florida,12,Taylor,123
+MOCE2,United States,Florida,12,Union,125
+MOCE2,United States,Florida,12,Volusia,127
+MOCE2,United States,Florida,12,Wakulla,129
+MOCE2,United States,Florida,12,Walton,131
+MOCE2,United States,Florida,12,Washington,133
+MOCE2,United States,Georgia,13,,
+MOCE2,United States,Georgia,13,Bacon,005
+MOCE2,United States,Georgia,13,Ben Hill,017
+MOCE2,United States,Georgia,13,Berrien,019
+MOCE2,United States,Georgia,13,Bibb,021
+MOCE2,United States,Georgia,13,Brooks,027
+MOCE2,United States,Georgia,13,Bryan,029
+MOCE2,United States,Georgia,13,Camden,039
+MOCE2,United States,Georgia,13,Charlton,049
+MOCE2,United States,Georgia,13,Chatham,051
+MOCE2,United States,Georgia,13,Colquitt,071
+MOCE2,United States,Georgia,13,Columbia,073
+MOCE2,United States,Georgia,13,Cook,075
+MOCE2,United States,Georgia,13,Crisp,081
+MOCE2,United States,Georgia,13,Decatur,087
+MOCE2,United States,Georgia,13,Dougherty,095
+MOCE2,United States,Georgia,13,Early,099
+MOCE2,United States,Georgia,13,Echols,101
+MOCE2,United States,Georgia,13,Effingham,103
+MOCE2,United States,Georgia,13,Emanuel,107
+MOCE2,United States,Georgia,13,Glynn,127
+MOCE2,United States,Georgia,13,Grady,131
+MOCE2,United States,Georgia,13,Hancock,141
+MOCE2,United States,Georgia,13,Harris,145
+MOCE2,United States,Georgia,13,Jasper,159
+MOCE2,United States,Georgia,13,Jenkins,165
+MOCE2,United States,Georgia,13,Lanier,173
+MOCE2,United States,Georgia,13,Lee,177
+MOCE2,United States,Georgia,13,Liberty,179
+MOCE2,United States,Georgia,13,Lincoln,181
+MOCE2,United States,Georgia,13,Long,183
+MOCE2,United States,Georgia,13,Lowndes,185
+MOCE2,United States,Georgia,13,McDuffie,189
+MOCE2,United States,Georgia,13,McIntosh,191
+MOCE2,United States,Georgia,13,Miller,201
+MOCE2,United States,Georgia,13,Mitchell,205
+MOCE2,United States,Georgia,13,Morgan,211
+MOCE2,United States,Georgia,13,Newton,217
+MOCE2,United States,Georgia,13,Richmond,245
+MOCE2,United States,Georgia,13,Screven,251
+MOCE2,United States,Georgia,13,Spalding,255
+MOCE2,United States,Georgia,13,Sumter,261
+MOCE2,United States,Georgia,13,Tattnall,267
+MOCE2,United States,Georgia,13,Telfair,271
+MOCE2,United States,Georgia,13,Thomas,275
+MOCE2,United States,Georgia,13,Tift,277
+MOCE2,United States,Georgia,13,Toombs,279
+MOCE2,United States,Georgia,13,Turner,287
+MOCE2,United States,Georgia,13,Ware,299
+MOCE2,United States,Georgia,13,Washington,303
+MOCE2,United States,Georgia,13,Wayne,305
+MOCE2,United States,Georgia,13,Wheeler,309
+MOCE2,United States,Hawaii,15,,
+MOCE2,United States,Louisiana,22,,
+MOCE2,United States,Louisiana,22,Allen,003
+MOCE2,United States,Louisiana,22,Ascension,005
+MOCE2,United States,Louisiana,22,Assumption,007
+MOCE2,United States,Louisiana,22,Avoyelles,009
+MOCE2,United States,Louisiana,22,Beauregard,011
+MOCE2,United States,Louisiana,22,Bienville,013
+MOCE2,United States,Louisiana,22,Bossier,015
+MOCE2,United States,Louisiana,22,Caddo,017
+MOCE2,United States,Louisiana,22,Calcasieu,019
+MOCE2,United States,Louisiana,22,Caldwell,021
+MOCE2,United States,Louisiana,22,Cameron,023
+MOCE2,United States,Louisiana,22,Catahoula,025
+MOCE2,United States,Louisiana,22,Claiborne,027
+MOCE2,United States,Louisiana,22,De Soto,031
+MOCE2,United States,Louisiana,22,East Baton Rouge,033
+MOCE2,United States,Louisiana,22,East Feliciana,037
+MOCE2,United States,Louisiana,22,Evangeline,039
+MOCE2,United States,Louisiana,22,Grant,043
+MOCE2,United States,Louisiana,22,Iberia,045
+MOCE2,United States,Louisiana,22,Iberville,047
+MOCE2,United States,Louisiana,22,Jackson,049
+MOCE2,United States,Louisiana,22,Jefferson,051
+MOCE2,United States,Louisiana,22,Jefferson Davis,053
+MOCE2,United States,Louisiana,22,Lafayette,055
+MOCE2,United States,Louisiana,22,Lafourche,057
+MOCE2,United States,Louisiana,22,LaSalle,059
+MOCE2,United States,Louisiana,22,Lincoln,061
+MOCE2,United States,Louisiana,22,Livingston,063
+MOCE2,United States,Louisiana,22,Morehouse,067
+MOCE2,United States,Louisiana,22,Natchitoches,069
+MOCE2,United States,Louisiana,22,Orleans,071
+MOCE2,United States,Louisiana,22,Ouachita,073
+MOCE2,United States,Louisiana,22,Plaquemines,075
+MOCE2,United States,Louisiana,22,Pointe Coupee,077
+MOCE2,United States,Louisiana,22,Rapides,079
+MOCE2,United States,Louisiana,22,Red River,081
+MOCE2,United States,Louisiana,22,Sabine,085
+MOCE2,United States,Louisiana,22,St. Bernard,087
+MOCE2,United States,Louisiana,22,St. Charles,089
+MOCE2,United States,Louisiana,22,St. Helena,091
+MOCE2,United States,Louisiana,22,St. James,093
+MOCE2,United States,Louisiana,22,St. John the Baptist,095
+MOCE2,United States,Louisiana,22,St. Landry,097
+MOCE2,United States,Louisiana,22,St. Martin,099
+MOCE2,United States,Louisiana,22,St. Mary,101
+MOCE2,United States,Louisiana,22,St. Tammany,103
+MOCE2,United States,Louisiana,22,Tangipahoa,105
+MOCE2,United States,Louisiana,22,Terrebonne,109
+MOCE2,United States,Louisiana,22,Union,111
+MOCE2,United States,Louisiana,22,Vermilion,113
+MOCE2,United States,Louisiana,22,Vernon,115
+MOCE2,United States,Louisiana,22,Washington,117
+MOCE2,United States,Louisiana,22,Webster,119
+MOCE2,United States,Louisiana,22,West Feliciana,125
+MOCE2,United States,Louisiana,22,Winn,127
+MOCE2,United States,Maryland,24,,
+MOCE2,United States,Maryland,24,Queen Anne's,035
+MOCE2,United States,Maryland,24,Worcester,047
+MOCE2,United States,Mississippi,28,,
+MOCE2,United States,Mississippi,28,Adams,001
+MOCE2,United States,Mississippi,28,Amite,005
+MOCE2,United States,Mississippi,28,Copiah,029
+MOCE2,United States,Mississippi,28,Covington,031
+MOCE2,United States,Mississippi,28,Forrest,035
+MOCE2,United States,Mississippi,28,Franklin,037
+MOCE2,United States,Mississippi,28,George,039
+MOCE2,United States,Mississippi,28,Greene,041
+MOCE2,United States,Mississippi,28,Hancock,045
+MOCE2,United States,Mississippi,28,Harrison,047
+MOCE2,United States,Mississippi,28,Hinds,049
+MOCE2,United States,Mississippi,28,Jackson,059
+MOCE2,United States,Mississippi,28,Jasper,061
+MOCE2,United States,Mississippi,28,Jefferson,063
+MOCE2,United States,Mississippi,28,Jefferson Davis,065
+MOCE2,United States,Mississippi,28,Jones,067
+MOCE2,United States,Mississippi,28,Kemper,069
+MOCE2,United States,Mississippi,28,Lauderdale,075
+MOCE2,United States,Mississippi,28,Lawrence,077
+MOCE2,United States,Mississippi,28,Lincoln,085
+MOCE2,United States,Mississippi,28,Marion,091
+MOCE2,United States,Mississippi,28,Newton,101
+MOCE2,United States,Mississippi,28,Pearl River,109
+MOCE2,United States,Mississippi,28,Perry,111
+MOCE2,United States,Mississippi,28,Pike,113
+MOCE2,United States,Mississippi,28,Rankin,121
+MOCE2,United States,Mississippi,28,Scott,123
+MOCE2,United States,Mississippi,28,Smith,129
+MOCE2,United States,Mississippi,28,Stone,131
+MOCE2,United States,Mississippi,28,Wayne,153
+MOCE2,United States,Mississippi,28,Wilkinson,157
+MOCE2,United States,New Jersey,34,,
+MOCE2,United States,New Jersey,34,Atlantic,001
+MOCE2,United States,New Jersey,34,Burlington,005
+MOCE2,United States,New Jersey,34,Camden,007
+MOCE2,United States,New Jersey,34,Cape May,009
+MOCE2,United States,New Jersey,34,Cumberland,011
+MOCE2,United States,New Jersey,34,Middlesex,023
+MOCE2,United States,New Jersey,34,Monmouth,025
+MOCE2,United States,New Jersey,34,Ocean,029
+MOCE2,United States,New Jersey,34,Salem,033
+MOCE2,United States,New Jersey,34,Union,039
+MOCE2,United States,North Carolina,37,,
+MOCE2,United States,North Carolina,37,Beaufort,013
+MOCE2,United States,North Carolina,37,Bertie,015
+MOCE2,United States,North Carolina,37,Bladen,017
+MOCE2,United States,North Carolina,37,Brunswick,019
+MOCE2,United States,North Carolina,37,Carteret,031
+MOCE2,United States,North Carolina,37,Chowan,041
+MOCE2,United States,North Carolina,37,Columbus,047
+MOCE2,United States,North Carolina,37,Craven,049
+MOCE2,United States,North Carolina,37,Cumberland,051
+MOCE2,United States,North Carolina,37,Dare,055
+MOCE2,United States,North Carolina,37,Duplin,061
+MOCE2,United States,North Carolina,37,Edgecombe,065
+MOCE2,United States,North Carolina,37,Franklin,069
+MOCE2,United States,North Carolina,37,Gates,073
+MOCE2,United States,North Carolina,37,Greene,079
+MOCE2,United States,North Carolina,37,Halifax,083
+MOCE2,United States,North Carolina,37,Harnett,085
+MOCE2,United States,North Carolina,37,Hertford,091
+MOCE2,United States,North Carolina,37,Hoke,093
+MOCE2,United States,North Carolina,37,Hyde,095
+MOCE2,United States,North Carolina,37,Johnston,101
+MOCE2,United States,North Carolina,37,Jones,103
+MOCE2,United States,North Carolina,37,Lee,105
+MOCE2,United States,North Carolina,37,Lenoir,107
+MOCE2,United States,North Carolina,37,Martin,117
+MOCE2,United States,North Carolina,37,Moore,125
+MOCE2,United States,North Carolina,37,Nash,127
+MOCE2,United States,North Carolina,37,New Hanover,129
+MOCE2,United States,North Carolina,37,Northampton,131
+MOCE2,United States,North Carolina,37,Onslow,133
+MOCE2,United States,North Carolina,37,Orange,135
+MOCE2,United States,North Carolina,37,Pamlico,137
+MOCE2,United States,North Carolina,37,Pender,141
+MOCE2,United States,North Carolina,37,Pitt,147
+MOCE2,United States,North Carolina,37,Richmond,153
+MOCE2,United States,North Carolina,37,Robeson,155
+MOCE2,United States,North Carolina,37,Sampson,163
+MOCE2,United States,North Carolina,37,Scotland,165
+MOCE2,United States,North Carolina,37,Tyrrell,177
+MOCE2,United States,North Carolina,37,Wake,183
+MOCE2,United States,North Carolina,37,Warren,185
+MOCE2,United States,North Carolina,37,Washington,187
+MOCE2,United States,North Carolina,37,Wayne,191
+MOCE2,United States,North Carolina,37,Wilson,195
+MOCE2,United States,Oklahoma,40,,
+MOCE2,United States,South Carolina,45,,
+MOCE2,United States,South Carolina,45,Aiken,003
+MOCE2,United States,South Carolina,45,Allendale,005
+MOCE2,United States,South Carolina,45,Bamberg,009
+MOCE2,United States,South Carolina,45,Barnwell,011
+MOCE2,United States,South Carolina,45,Beaufort,013
+MOCE2,United States,South Carolina,45,Berkeley,015
+MOCE2,United States,South Carolina,45,Calhoun,017
+MOCE2,United States,South Carolina,45,Charleston,019
+MOCE2,United States,South Carolina,45,Clarendon,027
+MOCE2,United States,South Carolina,45,Colleton,029
+MOCE2,United States,South Carolina,45,Darlington,031
+MOCE2,United States,South Carolina,45,Dillon,033
+MOCE2,United States,South Carolina,45,Dorchester,035
+MOCE2,United States,South Carolina,45,Florence,041
+MOCE2,United States,South Carolina,45,Georgetown,043
+MOCE2,United States,South Carolina,45,Hampton,049
+MOCE2,United States,South Carolina,45,Horry,051
+MOCE2,United States,South Carolina,45,Jasper,053
+MOCE2,United States,South Carolina,45,Kershaw,055
+MOCE2,United States,South Carolina,45,Lee,061
+MOCE2,United States,South Carolina,45,Lexington,063
+MOCE2,United States,South Carolina,45,Marlboro,069
+MOCE2,United States,South Carolina,45,Orangeburg,075
+MOCE2,United States,South Carolina,45,Richland,079
+MOCE2,United States,South Carolina,45,Sumter,085
+MOCE2,United States,South Carolina,45,Williamsburg,089
+MOCE2,United States,Texas,48,,
+MOCE2,United States,Texas,48,Anderson,001
+MOCE2,United States,Texas,48,Angelina,005
+MOCE2,United States,Texas,48,Aransas,007
+MOCE2,United States,Texas,48,Bastrop,021
+MOCE2,United States,Texas,48,Brazoria,039
+MOCE2,United States,Texas,48,Brazos,041
+MOCE2,United States,Texas,48,Cameron,061
+MOCE2,United States,Texas,48,Cass,067
+MOCE2,United States,Texas,48,Cherokee,073
+MOCE2,United States,Texas,48,Colorado,089
+MOCE2,United States,Texas,48,Freestone,161
+MOCE2,United States,Texas,48,Galveston,167
+MOCE2,United States,Texas,48,Gonzales,177
+MOCE2,United States,Texas,48,Hardin,199
+MOCE2,United States,Texas,48,Harris,201
+MOCE2,United States,Texas,48,Harrison,203
+MOCE2,United States,Texas,48,Henderson,213
+MOCE2,United States,Texas,48,Houston,225
+MOCE2,United States,Texas,48,Jasper,241
+MOCE2,United States,Texas,48,Jefferson,245
+MOCE2,United States,Texas,48,Kleberg,273
+MOCE2,United States,Texas,48,Leon,289
+MOCE2,United States,Texas,48,Liberty,291
+MOCE2,United States,Texas,48,Limestone,293
+MOCE2,United States,Texas,48,Madison,313
+MOCE2,United States,Texas,48,Mason,319
+MOCE2,United States,Texas,48,McLennan,309
+MOCE2,United States,Texas,48,Milam,331
+MOCE2,United States,Texas,48,Montgomery,339
+MOCE2,United States,Texas,48,Morris,343
+MOCE2,United States,Texas,48,Nacogdoches,347
+MOCE2,United States,Texas,48,Newton,351
+MOCE2,United States,Texas,48,Nueces,355
+MOCE2,United States,Texas,48,Orange,361
+MOCE2,United States,Texas,48,Polk,373
+MOCE2,United States,Texas,48,Robertson,395
+MOCE2,United States,Texas,48,Rusk,401
+MOCE2,United States,Texas,48,San Jacinto,407
+MOCE2,United States,Texas,48,San Patricio,409
+MOCE2,United States,Texas,48,Smith,423
+MOCE2,United States,Texas,48,Titus,449
+MOCE2,United States,Texas,48,Trinity,455
+MOCE2,United States,Texas,48,Tyler,457
+MOCE2,United States,Texas,48,Upshur,459
+MOCE2,United States,Texas,48,Walker,471
+MOCE2,United States,Texas,48,Wood,499
+MOCE2,United States,Virginia,51,,
+MOCE2,United States,Virginia,51,Accomack,001
+MOCE2,United States,Virginia,51,Brunswick,025
+MOCE2,United States,Virginia,51,Caroline,033
+MOCE2,United States,Virginia,51,Charles City,036
+MOCE2,United States,Virginia,51,Chesapeake ,550
+MOCE2,United States,Virginia,51,Chesterfield,041
+MOCE2,United States,Virginia,51,Dinwiddie,053
+MOCE2,United States,Virginia,51,Essex,057
+MOCE2,United States,Virginia,51,Fairfax,059
+MOCE2,United States,Virginia,51,Gloucester,073
+MOCE2,United States,Virginia,51,Greensville,081
+MOCE2,United States,Virginia,51,Hampton ,650
+MOCE2,United States,Virginia,51,Henrico,087
+MOCE2,United States,Virginia,51,Isle of Wight,093
+MOCE2,United States,Virginia,51,James City,095
+MOCE2,United States,Virginia,51,King and Queen,097
+MOCE2,United States,Virginia,51,King George,099
+MOCE2,United States,Virginia,51,King William,101
+MOCE2,United States,Virginia,51,Lancaster,103
+MOCE2,United States,Virginia,51,Mathews,115
+MOCE2,United States,Virginia,51,Mecklenburg,117
+MOCE2,United States,Virginia,51,Middlesex,119
+MOCE2,United States,Virginia,51,New Kent,127
+MOCE2,United States,Virginia,51,Newport News ,700
+MOCE2,United States,Virginia,51,Northampton,131
+MOCE2,United States,Virginia,51,Northumberland,133
+MOCE2,United States,Virginia,51,Prince George,149
+MOCE2,United States,Virginia,51,Prince William,153
+MOCE2,United States,Virginia,51,Richmond,159
+MOCE2,United States,Virginia,51,Southampton,175
+MOCE2,United States,Virginia,51,Spotsylvania,177
+MOCE2,United States,Virginia,51,Stafford,179
+MOCE2,United States,Virginia,51,Suffolk ,800
+MOCE2,United States,Virginia,51,Surry,181
+MOCE2,United States,Virginia,51,Sussex,183
+MOCE2,United States,Virginia,51,Virginia Beach ,810
+MOCE2,United States,Virginia,51,Westmoreland,193
+MOCE2,United States,Virginia,51,York,199
+MOCE2,United States,West Virginia,54,,
+MOCE2,United States,Puerto Rico,72,,

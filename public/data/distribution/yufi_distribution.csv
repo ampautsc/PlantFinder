@@ -1,0 +1,531 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+YUFI,United States,Alabama,01,,
+YUFI,United States,Alabama,01,Autauga,001
+YUFI,United States,Alabama,01,Baldwin,003
+YUFI,United States,Alabama,01,Bibb,007
+YUFI,United States,Alabama,01,Blount,009
+YUFI,United States,Alabama,01,Bullock,011
+YUFI,United States,Alabama,01,Butler,013
+YUFI,United States,Alabama,01,Chambers,017
+YUFI,United States,Alabama,01,Choctaw,023
+YUFI,United States,Alabama,01,Clarke,025
+YUFI,United States,Alabama,01,Cleburne,029
+YUFI,United States,Alabama,01,Coffee,031
+YUFI,United States,Alabama,01,Colbert,033
+YUFI,United States,Alabama,01,Conecuh,035
+YUFI,United States,Alabama,01,Coosa,037
+YUFI,United States,Alabama,01,Covington,039
+YUFI,United States,Alabama,01,Crenshaw,041
+YUFI,United States,Alabama,01,Cullman,043
+YUFI,United States,Alabama,01,Dale,045
+YUFI,United States,Alabama,01,Dallas,047
+YUFI,United States,Alabama,01,DeKalb,049
+YUFI,United States,Alabama,01,Elmore,051
+YUFI,United States,Alabama,01,Escambia,053
+YUFI,United States,Alabama,01,Fayette,057
+YUFI,United States,Alabama,01,Franklin,059
+YUFI,United States,Alabama,01,Geneva,061
+YUFI,United States,Alabama,01,Greene,063
+YUFI,United States,Alabama,01,Hale,065
+YUFI,United States,Alabama,01,Houston,069
+YUFI,United States,Alabama,01,Jackson,071
+YUFI,United States,Alabama,01,Jefferson,073
+YUFI,United States,Alabama,01,Lamar,075
+YUFI,United States,Alabama,01,Lauderdale,077
+YUFI,United States,Alabama,01,Lawrence,079
+YUFI,United States,Alabama,01,Lee,081
+YUFI,United States,Alabama,01,Lowndes,085
+YUFI,United States,Alabama,01,Macon,087
+YUFI,United States,Alabama,01,Marengo,091
+YUFI,United States,Alabama,01,Marion,093
+YUFI,United States,Alabama,01,Mobile,097
+YUFI,United States,Alabama,01,Monroe,099
+YUFI,United States,Alabama,01,Morgan,103
+YUFI,United States,Alabama,01,Perry,105
+YUFI,United States,Alabama,01,Pike,109
+YUFI,United States,Alabama,01,Russell,113
+YUFI,United States,Alabama,01,Shelby,117
+YUFI,United States,Alabama,01,Sumter,119
+YUFI,United States,Alabama,01,Tuscaloosa,125
+YUFI,United States,Alabama,01,Washington,129
+YUFI,United States,Alabama,01,Winston,133
+YUFI,United States,Arkansas,05,,
+YUFI,United States,Arkansas,05,Arkansas,001
+YUFI,United States,Arkansas,05,Ashley,003
+YUFI,United States,Arkansas,05,Bradley,011
+YUFI,United States,Arkansas,05,Drew,043
+YUFI,United States,Arkansas,05,Ouachita,103
+YUFI,United States,Arkansas,05,Pulaski,119
+YUFI,United States,Connecticut,09,,
+YUFI,United States,Connecticut,09,Fairfield,001
+YUFI,United States,Connecticut,09,Hartford,003
+YUFI,United States,Connecticut,09,Tolland,013
+YUFI,United States,Connecticut,09,Windham,015
+YUFI,United States,Delaware,10,,
+YUFI,United States,Delaware,10,Sussex,005
+YUFI,United States,Florida,12,,
+YUFI,United States,Florida,12,Alachua,001
+YUFI,United States,Florida,12,Bay,005
+YUFI,United States,Florida,12,Brevard,009
+YUFI,United States,Florida,12,Calhoun,013
+YUFI,United States,Florida,12,Citrus,017
+YUFI,United States,Florida,12,Columbia,023
+YUFI,United States,Florida,12,Duval,031
+YUFI,United States,Florida,12,Flagler,035
+YUFI,United States,Florida,12,Franklin,037
+YUFI,United States,Florida,12,Gadsden,039
+YUFI,United States,Florida,12,Gulf,045
+YUFI,United States,Florida,12,Highlands,055
+YUFI,United States,Florida,12,Hillsborough,057
+YUFI,United States,Florida,12,Lafayette,067
+YUFI,United States,Florida,12,Leon,073
+YUFI,United States,Florida,12,Levy,075
+YUFI,United States,Florida,12,Liberty,077
+YUFI,United States,Florida,12,Madison,079
+YUFI,United States,Florida,12,Manatee,081
+YUFI,United States,Florida,12,Marion,083
+YUFI,United States,Florida,12,Martin,085
+YUFI,United States,Florida,12,Okaloosa,091
+YUFI,United States,Florida,12,Orange,095
+YUFI,United States,Florida,12,Osceola,097
+YUFI,United States,Florida,12,Palm Beach,099
+YUFI,United States,Florida,12,Pasco,101
+YUFI,United States,Florida,12,Pinellas,103
+YUFI,United States,Florida,12,Polk,105
+YUFI,United States,Florida,12,Putnam,107
+YUFI,United States,Florida,12,Sumter,119
+YUFI,United States,Florida,12,Taylor,123
+YUFI,United States,Florida,12,Volusia,127
+YUFI,United States,Florida,12,Wakulla,129
+YUFI,United States,Florida,12,Walton,131
+YUFI,United States,Florida,12,Washington,133
+YUFI,United States,Georgia,13,,
+YUFI,United States,Georgia,13,Atkinson,003
+YUFI,United States,Georgia,13,Baker,007
+YUFI,United States,Georgia,13,Barrow,013
+YUFI,United States,Georgia,13,Ben Hill,017
+YUFI,United States,Georgia,13,Bleckley,023
+YUFI,United States,Georgia,13,Brantley,025
+YUFI,United States,Georgia,13,Brooks,027
+YUFI,United States,Georgia,13,Charlton,049
+YUFI,United States,Georgia,13,Chatham,051
+YUFI,United States,Georgia,13,Clarke,059
+YUFI,United States,Georgia,13,Coffee,069
+YUFI,United States,Georgia,13,Crawford,079
+YUFI,United States,Georgia,13,Dodge,091
+YUFI,United States,Georgia,13,Elbert,105
+YUFI,United States,Georgia,13,Forsyth,117
+YUFI,United States,Georgia,13,Fulton,121
+YUFI,United States,Georgia,13,Glynn,127
+YUFI,United States,Georgia,13,Grady,131
+YUFI,United States,Georgia,13,Greene,133
+YUFI,United States,Georgia,13,Hall,139
+YUFI,United States,Georgia,13,Laurens,175
+YUFI,United States,Georgia,13,Lincoln,181
+YUFI,United States,Georgia,13,McIntosh,191
+YUFI,United States,Georgia,13,Meriwether,199
+YUFI,United States,Georgia,13,Newton,217
+YUFI,United States,Georgia,13,Oglethorpe,221
+YUFI,United States,Georgia,13,Pierce,229
+YUFI,United States,Georgia,13,Rabun,241
+YUFI,United States,Georgia,13,Rockdale,247
+YUFI,United States,Georgia,13,Stephens,257
+YUFI,United States,Georgia,13,Tattnall,267
+YUFI,United States,Georgia,13,Taylor,269
+YUFI,United States,Georgia,13,Tift,277
+YUFI,United States,Georgia,13,Toombs,279
+YUFI,United States,Georgia,13,Walton,297
+YUFI,United States,Georgia,13,White,311
+YUFI,United States,Illinois,17,,
+YUFI,United States,Illinois,17,Adams,001
+YUFI,United States,Illinois,17,Brown,009
+YUFI,United States,Illinois,17,Cass,017
+YUFI,United States,Illinois,17,Champaign,019
+YUFI,United States,Illinois,17,Clark,023
+YUFI,United States,Illinois,17,Coles,029
+YUFI,United States,Illinois,17,Crawford,033
+YUFI,United States,Illinois,17,Cumberland,035
+YUFI,United States,Illinois,17,Edgar,045
+YUFI,United States,Illinois,17,Grundy,063
+YUFI,United States,Illinois,17,Hancock,067
+YUFI,United States,Illinois,17,Jackson,077
+YUFI,United States,Illinois,17,Johnson,087
+YUFI,United States,Illinois,17,Kendall,093
+YUFI,United States,Illinois,17,Macoupin,117
+YUFI,United States,Illinois,17,Mason,125
+YUFI,United States,Illinois,17,Menard,129
+YUFI,United States,Illinois,17,Moultrie,139
+YUFI,United States,Illinois,17,Perry,145
+YUFI,United States,Illinois,17,Piatt,147
+YUFI,United States,Illinois,17,Pope,151
+YUFI,United States,Illinois,17,Richland,159
+YUFI,United States,Illinois,17,Schuyler,169
+YUFI,United States,Illinois,17,Scott,171
+YUFI,United States,Illinois,17,Washington,189
+YUFI,United States,Illinois,17,Wayne,191
+YUFI,United States,Illinois,17,Williamson,199
+YUFI,United States,Indiana,18,,
+YUFI,United States,Indiana,18,Floyd,043
+YUFI,United States,Indiana,18,Sullivan,153
+YUFI,United States,Indiana,18,Vigo,167
+YUFI,United States,Kansas,20,,
+YUFI,United States,Kansas,20,Allen,001
+YUFI,United States,Kansas,20,Anderson,003
+YUFI,United States,Kansas,20,Bourbon,011
+YUFI,United States,Kansas,20,Chase,017
+YUFI,United States,Kansas,20,Cherokee,021
+YUFI,United States,Kansas,20,Coffey,031
+YUFI,United States,Kansas,20,Crawford,037
+YUFI,United States,Kansas,20,Douglas,045
+YUFI,United States,Kansas,20,Elk,049
+YUFI,United States,Kansas,20,Franklin,059
+YUFI,United States,Kansas,20,Jackson,085
+YUFI,United States,Kansas,20,Johnson,091
+YUFI,United States,Kansas,20,Labette,099
+YUFI,United States,Kansas,20,Linn,107
+YUFI,United States,Kansas,20,Nemaha,131
+YUFI,United States,Kansas,20,Neosho,133
+YUFI,United States,Kansas,20,Shawnee,177
+YUFI,United States,Kansas,20,Wabaunsee,197
+YUFI,United States,Kansas,20,Woodson,207
+YUFI,United States,Kentucky,21,,
+YUFI,United States,Kentucky,21,Barren,009
+YUFI,United States,Kentucky,21,Bath,011
+YUFI,United States,Kentucky,21,Boone,015
+YUFI,United States,Kentucky,21,Boyle,021
+YUFI,United States,Kentucky,21,Breckinridge,027
+YUFI,United States,Kentucky,21,Carter,043
+YUFI,United States,Kentucky,21,Clark,049
+YUFI,United States,Kentucky,21,Clinton,053
+YUFI,United States,Kentucky,21,Daviess,059
+YUFI,United States,Kentucky,21,Edmonson,061
+YUFI,United States,Kentucky,21,Fayette,067
+YUFI,United States,Kentucky,21,Floyd,071
+YUFI,United States,Kentucky,21,Fulton,075
+YUFI,United States,Kentucky,21,Garrard,079
+YUFI,United States,Kentucky,21,Grant,081
+YUFI,United States,Kentucky,21,Graves,083
+YUFI,United States,Kentucky,21,Grayson,085
+YUFI,United States,Kentucky,21,Hardin,093
+YUFI,United States,Kentucky,21,Harlan,095
+YUFI,United States,Kentucky,21,Henry,103
+YUFI,United States,Kentucky,21,Hickman,105
+YUFI,United States,Kentucky,21,Hopkins,107
+YUFI,United States,Kentucky,21,Jefferson,111
+YUFI,United States,Kentucky,21,Lawrence,127
+YUFI,United States,Kentucky,21,Lewis,135
+YUFI,United States,Kentucky,21,Lyon,143
+YUFI,United States,Kentucky,21,Magoffin,153
+YUFI,United States,Kentucky,21,Marion,155
+YUFI,United States,Kentucky,21,Mercer,167
+YUFI,United States,Kentucky,21,Ohio,183
+YUFI,United States,Kentucky,21,Oldham,185
+YUFI,United States,Kentucky,21,Pike,195
+YUFI,United States,Kentucky,21,Powell,197
+YUFI,United States,Kentucky,21,Pulaski,199
+YUFI,United States,Kentucky,21,Robertson,201
+YUFI,United States,Kentucky,21,Rockcastle,203
+YUFI,United States,Kentucky,21,Rowan,205
+YUFI,United States,Kentucky,21,Scott,209
+YUFI,United States,Kentucky,21,Todd,219
+YUFI,United States,Kentucky,21,Warren,227
+YUFI,United States,Kentucky,21,Washington,229
+YUFI,United States,Kentucky,21,Woodford,239
+YUFI,United States,Louisiana,22,,
+YUFI,United States,Louisiana,22,Bienville,013
+YUFI,United States,Louisiana,22,Caddo,017
+YUFI,United States,Louisiana,22,Caldwell,021
+YUFI,United States,Louisiana,22,Catahoula,025
+YUFI,United States,Louisiana,22,Claiborne,027
+YUFI,United States,Louisiana,22,De Soto,031
+YUFI,United States,Louisiana,22,East Baton Rouge,033
+YUFI,United States,Louisiana,22,Franklin,041
+YUFI,United States,Louisiana,22,Grant,043
+YUFI,United States,Louisiana,22,Jackson,049
+YUFI,United States,Louisiana,22,LaSalle,059
+YUFI,United States,Louisiana,22,Lincoln,061
+YUFI,United States,Louisiana,22,Livingston,063
+YUFI,United States,Louisiana,22,Madison,065
+YUFI,United States,Louisiana,22,Morehouse,067
+YUFI,United States,Louisiana,22,Natchitoches,069
+YUFI,United States,Louisiana,22,Ouachita,073
+YUFI,United States,Louisiana,22,Rapides,079
+YUFI,United States,Louisiana,22,Red River,081
+YUFI,United States,Louisiana,22,Richland,083
+YUFI,United States,Louisiana,22,Sabine,085
+YUFI,United States,Louisiana,22,St. Helena,091
+YUFI,United States,Louisiana,22,St. Tammany,103
+YUFI,United States,Louisiana,22,Union,111
+YUFI,United States,Louisiana,22,Washington,117
+YUFI,United States,Louisiana,22,Winn,127
+YUFI,United States,Maryland,24,,
+YUFI,United States,Maryland,24,Calvert,009
+YUFI,United States,Maryland,24,Howard,027
+YUFI,United States,Maryland,24,Prince George's,033
+YUFI,United States,Massachusetts,25,,
+YUFI,United States,Massachusetts,25,Barnstable,001
+YUFI,United States,Massachusetts,25,Bristol,005
+YUFI,United States,Massachusetts,25,Dukes,007
+YUFI,United States,Massachusetts,25,Essex,009
+YUFI,United States,Massachusetts,25,Franklin,011
+YUFI,United States,Massachusetts,25,Hampden,013
+YUFI,United States,Massachusetts,25,Middlesex,017
+YUFI,United States,Massachusetts,25,Plymouth,023
+YUFI,United States,Michigan,26,,
+YUFI,United States,Michigan,26,Allegan,005
+YUFI,United States,Michigan,26,Barry,015
+YUFI,United States,Michigan,26,Berrien,021
+YUFI,United States,Michigan,26,Branch,023
+YUFI,United States,Michigan,26,Kalamazoo,077
+YUFI,United States,Michigan,26,Muskegon,121
+YUFI,United States,Michigan,26,Newaygo,123
+YUFI,United States,Mississippi,28,,
+YUFI,United States,Mississippi,28,Clarke,023
+YUFI,United States,Mississippi,28,DeSoto,033
+YUFI,United States,Mississippi,28,Forrest,035
+YUFI,United States,Mississippi,28,Franklin,037
+YUFI,United States,Mississippi,28,Jackson,059
+YUFI,United States,Mississippi,28,Jasper,061
+YUFI,United States,Mississippi,28,Jefferson Davis,065
+YUFI,United States,Mississippi,28,Jones,067
+YUFI,United States,Mississippi,28,Kemper,069
+YUFI,United States,Mississippi,28,Lamar,073
+YUFI,United States,Mississippi,28,Lauderdale,075
+YUFI,United States,Mississippi,28,Marion,091
+YUFI,United States,Mississippi,28,Marshall,093
+YUFI,United States,Mississippi,28,Simpson,127
+YUFI,United States,Mississippi,28,Stone,131
+YUFI,United States,Mississippi,28,Tippah,139
+YUFI,United States,Missouri,29,,
+YUFI,United States,Missouri,29,Adair,001
+YUFI,United States,Missouri,29,Barry,009
+YUFI,United States,Missouri,29,Boone,019
+YUFI,United States,Missouri,29,Howell,091
+YUFI,United States,Missouri,29,Jackson,095
+YUFI,United States,Missouri,29,Johnson,101
+YUFI,United States,Missouri,29,Mississippi,133
+YUFI,United States,Missouri,29,Ralls,173
+YUFI,United States,Missouri,29,Randolph,175
+YUFI,United States,Missouri,29,Reynolds,179
+YUFI,United States,Missouri,29,St. Louis,189
+YUFI,United States,Missouri,29,Vernon,217
+YUFI,United States,Nebraska,31,,
+YUFI,United States,New Jersey,34,,
+YUFI,United States,New Jersey,34,Atlantic,001
+YUFI,United States,New Jersey,34,Bergen,003
+YUFI,United States,New Jersey,34,Camden,007
+YUFI,United States,New Jersey,34,Cape May,009
+YUFI,United States,New Jersey,34,Cumberland,011
+YUFI,United States,New Jersey,34,Essex,013
+YUFI,United States,New Jersey,34,Gloucester,015
+YUFI,United States,New Jersey,34,Hudson,017
+YUFI,United States,New Jersey,34,Hunterdon,019
+YUFI,United States,New Jersey,34,Mercer,021
+YUFI,United States,New Jersey,34,Middlesex,023
+YUFI,United States,New Jersey,34,Monmouth,025
+YUFI,United States,New Jersey,34,Morris,027
+YUFI,United States,New Jersey,34,Ocean,029
+YUFI,United States,New Jersey,34,Passaic,031
+YUFI,United States,New Jersey,34,Union,039
+YUFI,United States,New Jersey,34,Warren,041
+YUFI,United States,New York,36,,
+YUFI,United States,New York,36,Bronx,005
+YUFI,United States,New York,36,Kings,047
+YUFI,United States,New York,36,Nassau,059
+YUFI,United States,New York,36,New York,061
+YUFI,United States,New York,36,Orange,071
+YUFI,United States,New York,36,Queens,081
+YUFI,United States,New York,36,Richmond,085
+YUFI,United States,New York,36,Suffolk,103
+YUFI,United States,New York,36,Ulster,111
+YUFI,United States,New York,36,Westchester,119
+YUFI,United States,North Carolina,37,,
+YUFI,United States,North Carolina,37,Alexander,003
+YUFI,United States,North Carolina,37,Bertie,015
+YUFI,United States,North Carolina,37,Bladen,017
+YUFI,United States,North Carolina,37,Brunswick,019
+YUFI,United States,North Carolina,37,Catawba,035
+YUFI,United States,North Carolina,37,Cherokee,039
+YUFI,United States,North Carolina,37,Columbus,047
+YUFI,United States,North Carolina,37,Dare,055
+YUFI,United States,North Carolina,37,Durham,063
+YUFI,United States,North Carolina,37,Franklin,069
+YUFI,United States,North Carolina,37,Greene,079
+YUFI,United States,North Carolina,37,Harnett,085
+YUFI,United States,North Carolina,37,Jackson,099
+YUFI,United States,North Carolina,37,Lee,105
+YUFI,United States,North Carolina,37,Lenoir,107
+YUFI,United States,North Carolina,37,Macon,113
+YUFI,United States,North Carolina,37,Martin,117
+YUFI,United States,North Carolina,37,New Hanover,129
+YUFI,United States,North Carolina,37,Pamlico,137
+YUFI,United States,North Carolina,37,Pender,141
+YUFI,United States,North Carolina,37,Polk,149
+YUFI,United States,North Carolina,37,Richmond,153
+YUFI,United States,North Carolina,37,Robeson,155
+YUFI,United States,North Carolina,37,Rowan,159
+YUFI,United States,North Carolina,37,Wake,183
+YUFI,United States,North Carolina,37,Wayne,191
+YUFI,United States,Ohio,39,,
+YUFI,United States,Pennsylvania,42,,
+YUFI,United States,Pennsylvania,42,Berks,011
+YUFI,United States,Pennsylvania,42,Blair,013
+YUFI,United States,Pennsylvania,42,Bucks,017
+YUFI,United States,Pennsylvania,42,Centre,027
+YUFI,United States,Pennsylvania,42,Chester,029
+YUFI,United States,Pennsylvania,42,Franklin,055
+YUFI,United States,Pennsylvania,42,Fulton,057
+YUFI,United States,Pennsylvania,42,Huntingdon,061
+YUFI,United States,Pennsylvania,42,Lancaster,071
+YUFI,United States,Pennsylvania,42,Lehigh,077
+YUFI,United States,Pennsylvania,42,Northampton,095
+YUFI,United States,Rhode Island,44,,
+YUFI,United States,Rhode Island,44,Kent,003
+YUFI,United States,South Carolina,45,,
+YUFI,United States,South Carolina,45,Aiken,003
+YUFI,United States,South Carolina,45,Allendale,005
+YUFI,United States,South Carolina,45,Anderson,007
+YUFI,United States,South Carolina,45,Bamberg,009
+YUFI,United States,South Carolina,45,Beaufort,013
+YUFI,United States,South Carolina,45,Calhoun,017
+YUFI,United States,South Carolina,45,Charleston,019
+YUFI,United States,South Carolina,45,Cherokee,021
+YUFI,United States,South Carolina,45,Darlington,031
+YUFI,United States,South Carolina,45,Edgefield,037
+YUFI,United States,South Carolina,45,Fairfield,039
+YUFI,United States,South Carolina,45,Hampton,049
+YUFI,United States,South Carolina,45,Horry,051
+YUFI,United States,South Carolina,45,Kershaw,055
+YUFI,United States,South Carolina,45,Lancaster,057
+YUFI,United States,South Carolina,45,Lexington,063
+YUFI,United States,South Carolina,45,Marion,067
+YUFI,United States,South Carolina,45,Newberry,071
+YUFI,United States,South Carolina,45,Oconee,073
+YUFI,United States,South Carolina,45,Orangeburg,075
+YUFI,United States,South Carolina,45,Richland,079
+YUFI,United States,South Carolina,45,York,091
+YUFI,United States,Tennessee,47,,
+YUFI,United States,Tennessee,47,Bedford,003
+YUFI,United States,Tennessee,47,Blount,009
+YUFI,United States,Tennessee,47,Carroll,017
+YUFI,United States,Tennessee,47,Claiborne,025
+YUFI,United States,Tennessee,47,Davidson,037
+YUFI,United States,Tennessee,47,Dickson,043
+YUFI,United States,Tennessee,47,Franklin,051
+YUFI,United States,Tennessee,47,Hardin,071
+YUFI,United States,Tennessee,47,Hawkins,073
+YUFI,United States,Tennessee,47,Henry,079
+YUFI,United States,Tennessee,47,Marshall,117
+YUFI,United States,Tennessee,47,Monroe,123
+YUFI,United States,Tennessee,47,Montgomery,125
+YUFI,United States,Tennessee,47,Morgan,129
+YUFI,United States,Tennessee,47,Obion,131
+YUFI,United States,Tennessee,47,Polk,139
+YUFI,United States,Tennessee,47,Roane,145
+YUFI,United States,Tennessee,47,Robertson,147
+YUFI,United States,Tennessee,47,Rutherford,149
+YUFI,United States,Tennessee,47,Sequatchie,153
+YUFI,United States,Tennessee,47,Sevier,155
+YUFI,United States,Tennessee,47,Stewart,161
+YUFI,United States,Tennessee,47,Sumner,165
+YUFI,United States,Tennessee,47,Warren,177
+YUFI,United States,Texas,48,,
+YUFI,United States,Texas,48,Wood,499
+YUFI,United States,Virginia,51,,
+YUFI,United States,Virginia,51,Accomack,001
+YUFI,United States,Virginia,51,Albemarle,003
+YUFI,United States,Virginia,51,Alleghany,005
+YUFI,United States,Virginia,51,Amelia,007
+YUFI,United States,Virginia,51,Amherst,009
+YUFI,United States,Virginia,51,Appomattox,011
+YUFI,United States,Virginia,51,Augusta,015
+YUFI,United States,Virginia,51,Bath,017
+YUFI,United States,Virginia,51,Bedford,019
+YUFI,United States,Virginia,51,Bland,021
+YUFI,United States,Virginia,51,Botetourt,023
+YUFI,United States,Virginia,51,Brunswick,025
+YUFI,United States,Virginia,51,Buckingham,029
+YUFI,United States,Virginia,51,Campbell,031
+YUFI,United States,Virginia,51,Caroline,033
+YUFI,United States,Virginia,51,Charles City,036
+YUFI,United States,Virginia,51,Charlotte,037
+YUFI,United States,Virginia,51,Chesapeake ,550
+YUFI,United States,Virginia,51,Culpeper,047
+YUFI,United States,Virginia,51,Cumberland,049
+YUFI,United States,Virginia,51,Dinwiddie,053
+YUFI,United States,Virginia,51,Essex,057
+YUFI,United States,Virginia,51,Fairfax,059
+YUFI,United States,Virginia,51,Fluvanna,065
+YUFI,United States,Virginia,51,Franklin,067
+YUFI,United States,Virginia,51,Frederick,069
+YUFI,United States,Virginia,51,Giles,071
+YUFI,United States,Virginia,51,Gloucester,073
+YUFI,United States,Virginia,51,Goochland,075
+YUFI,United States,Virginia,51,Greene,079
+YUFI,United States,Virginia,51,Greensville,081
+YUFI,United States,Virginia,51,Hanover,085
+YUFI,United States,Virginia,51,Henry,089
+YUFI,United States,Virginia,51,Highland,091
+YUFI,United States,Virginia,51,Isle of Wight,093
+YUFI,United States,Virginia,51,James City,095
+YUFI,United States,Virginia,51,King and Queen,097
+YUFI,United States,Virginia,51,King George,099
+YUFI,United States,Virginia,51,King William,101
+YUFI,United States,Virginia,51,Lancaster,103
+YUFI,United States,Virginia,51,Lee,105
+YUFI,United States,Virginia,51,Louisa,109
+YUFI,United States,Virginia,51,Lunenburg,111
+YUFI,United States,Virginia,51,Madison,113
+YUFI,United States,Virginia,51,Mecklenburg,117
+YUFI,United States,Virginia,51,Middlesex,119
+YUFI,United States,Virginia,51,Nelson,125
+YUFI,United States,Virginia,51,New Kent,127
+YUFI,United States,Virginia,51,Northampton,131
+YUFI,United States,Virginia,51,Northumberland,133
+YUFI,United States,Virginia,51,Nottoway,135
+YUFI,United States,Virginia,51,Orange,137
+YUFI,United States,Virginia,51,Page,139
+YUFI,United States,Virginia,51,Pittsylvania,143
+YUFI,United States,Virginia,51,Powhatan,145
+YUFI,United States,Virginia,51,Prince Edward,147
+YUFI,United States,Virginia,51,Prince George,149
+YUFI,United States,Virginia,51,Prince William,153
+YUFI,United States,Virginia,51,Rockbridge,163
+YUFI,United States,Virginia,51,Rockingham,165
+YUFI,United States,Virginia,51,Scott,169
+YUFI,United States,Virginia,51,Shenandoah,171
+YUFI,United States,Virginia,51,Southampton,175
+YUFI,United States,Virginia,51,Spotsylvania,177
+YUFI,United States,Virginia,51,Stafford,179
+YUFI,United States,Virginia,51,Suffolk ,800
+YUFI,United States,Virginia,51,Sussex,183
+YUFI,United States,Virginia,51,Tazewell,185
+YUFI,United States,Virginia,51,Virginia Beach ,810
+YUFI,United States,Virginia,51,Warren,187
+YUFI,United States,Virginia,51,Washington,191
+YUFI,United States,Virginia,51,Westmoreland,193
+YUFI,United States,Virginia,51,Wise,195
+YUFI,United States,Virginia,51,Wythe,197
+YUFI,United States,Virginia,51,York,199
+YUFI,United States,West Virginia,54,,
+YUFI,United States,West Virginia,54,Braxton,007
+YUFI,United States,West Virginia,54,Fayette,019
+YUFI,United States,West Virginia,54,Greenbrier,025
+YUFI,United States,West Virginia,54,Hampshire,027
+YUFI,United States,West Virginia,54,Hancock,029
+YUFI,United States,West Virginia,54,Marion,049
+YUFI,United States,West Virginia,54,Mineral,057
+YUFI,United States,West Virginia,54,Monongalia,061
+YUFI,United States,West Virginia,54,Nicholas,067
+YUFI,United States,West Virginia,54,Summers,089
+YUFI,United States,West Virginia,54,Taylor,091
+YUFI,United States,West Virginia,54,Upshur,097
+YUFI,United States,Wisconsin,55,,
+YUFI,United States,Wisconsin,55,Brown,009
+YUFI,United States,Wisconsin,55,Crawford,023
+YUFI,United States,Wisconsin,55,Dane,025
+YUFI,United States,Wisconsin,55,Richland,103
+YUFI,United States,Wisconsin,55,Rock,105
+YUFI,United States,Wisconsin,55,Sauk,111
+YUFI,United States,Wisconsin,55,Walworth,127

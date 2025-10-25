@@ -1,0 +1,286 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+VIRO2,Canada,Ontario,08,,
+VIRO2,United States,Connecticut,09,,
+VIRO2,United States,Connecticut,09,Fairfield,001
+VIRO2,United States,Connecticut,09,Hartford,003
+VIRO2,United States,Connecticut,09,Litchfield,005
+VIRO2,United States,Connecticut,09,New Haven,009
+VIRO2,United States,Connecticut,09,New London,011
+VIRO2,United States,Connecticut,09,Tolland,013
+VIRO2,United States,Connecticut,09,Windham,015
+VIRO2,Canada,Quebec,10,,
+VIRO2,United States,Delaware,10,,
+VIRO2,United States,Delaware,10,New Castle,003
+VIRO2,United States,Georgia,13,,
+VIRO2,United States,Georgia,13,Lumpkin,187
+VIRO2,United States,Georgia,13,Murray,213
+VIRO2,United States,Georgia,13,Rabun,241
+VIRO2,United States,Georgia,13,Towns,281
+VIRO2,United States,Georgia,13,Walker,295
+VIRO2,United States,Georgia,13,White,311
+VIRO2,United States,Kentucky,21,,
+VIRO2,United States,Kentucky,21,Bell,013
+VIRO2,United States,Kentucky,21,Harlan,095
+VIRO2,United States,Kentucky,21,Laurel,125
+VIRO2,United States,Kentucky,21,Letcher,133
+VIRO2,United States,Kentucky,21,McCreary,147
+VIRO2,United States,Kentucky,21,Menifee,165
+VIRO2,United States,Kentucky,21,Morgan,175
+VIRO2,United States,Kentucky,21,Owsley,189
+VIRO2,United States,Kentucky,21,Perry,193
+VIRO2,United States,Kentucky,21,Pike,195
+VIRO2,United States,Kentucky,21,Powell,197
+VIRO2,United States,Kentucky,21,Pulaski,199
+VIRO2,United States,Kentucky,21,Rockcastle,203
+VIRO2,United States,Kentucky,21,Whitley,235
+VIRO2,United States,Kentucky,21,Wolfe,237
+VIRO2,United States,Maine,23,,
+VIRO2,United States,Maine,23,Androscoggin,001
+VIRO2,United States,Maine,23,Cumberland,005
+VIRO2,United States,Maine,23,Franklin,007
+VIRO2,United States,Maine,23,Hancock,009
+VIRO2,United States,Maine,23,Kennebec,011
+VIRO2,United States,Maine,23,Knox,013
+VIRO2,United States,Maine,23,Oxford,017
+VIRO2,United States,Maine,23,Penobscot,019
+VIRO2,United States,Maine,23,Piscataquis,021
+VIRO2,United States,Maine,23,Sagadahoc,023
+VIRO2,United States,Maine,23,Somerset,025
+VIRO2,United States,Maine,23,Waldo,027
+VIRO2,United States,Maine,23,York,031
+VIRO2,United States,Maryland,24,,
+VIRO2,United States,Massachusetts,25,,
+VIRO2,United States,Massachusetts,25,Berkshire,003
+VIRO2,United States,Massachusetts,25,Bristol,005
+VIRO2,United States,Massachusetts,25,Essex,009
+VIRO2,United States,Massachusetts,25,Franklin,011
+VIRO2,United States,Massachusetts,25,Hampden,013
+VIRO2,United States,Massachusetts,25,Hampshire,015
+VIRO2,United States,Massachusetts,25,Middlesex,017
+VIRO2,United States,Massachusetts,25,Norfolk,021
+VIRO2,United States,Massachusetts,25,Plymouth,023
+VIRO2,United States,Massachusetts,25,Suffolk,025
+VIRO2,United States,Massachusetts,25,Worcester,027
+VIRO2,United States,New Hampshire,33,,
+VIRO2,United States,New Hampshire,33,Belknap,001
+VIRO2,United States,New Hampshire,33,Carroll,003
+VIRO2,United States,New Hampshire,33,Cheshire,005
+VIRO2,United States,New Hampshire,33,Coos,007
+VIRO2,United States,New Hampshire,33,Grafton,009
+VIRO2,United States,New Hampshire,33,Hillsborough,011
+VIRO2,United States,New Hampshire,33,Merrimack,013
+VIRO2,United States,New Hampshire,33,Rockingham,015
+VIRO2,United States,New Hampshire,33,Strafford,017
+VIRO2,United States,New Jersey,34,,
+VIRO2,United States,New Jersey,34,Bergen,003
+VIRO2,United States,New Jersey,34,Burlington,005
+VIRO2,United States,New Jersey,34,Essex,013
+VIRO2,United States,New Jersey,34,Hunterdon,019
+VIRO2,United States,New Jersey,34,Middlesex,023
+VIRO2,United States,New Jersey,34,Monmouth,025
+VIRO2,United States,New Jersey,34,Morris,027
+VIRO2,United States,New Jersey,34,Passaic,031
+VIRO2,United States,New Jersey,34,Somerset,035
+VIRO2,United States,New Jersey,34,Union,039
+VIRO2,United States,New Jersey,34,Warren,041
+VIRO2,United States,New York,36,,
+VIRO2,United States,New York,36,Albany,001
+VIRO2,United States,New York,36,Bronx,005
+VIRO2,United States,New York,36,Cattaraugus,009
+VIRO2,United States,New York,36,Chautauqua,013
+VIRO2,United States,New York,36,Chemung,015
+VIRO2,United States,New York,36,Chenango,017
+VIRO2,United States,New York,36,Columbia,021
+VIRO2,United States,New York,36,Delaware,025
+VIRO2,United States,New York,36,Dutchess,027
+VIRO2,United States,New York,36,Essex,031
+VIRO2,United States,New York,36,Fulton,035
+VIRO2,United States,New York,36,Herkimer,043
+VIRO2,United States,New York,36,Madison,053
+VIRO2,United States,New York,36,Oneida,065
+VIRO2,United States,New York,36,Onondaga,067
+VIRO2,United States,New York,36,Orange,071
+VIRO2,United States,New York,36,Oswego,075
+VIRO2,United States,New York,36,Otsego,077
+VIRO2,United States,New York,36,Queens,081
+VIRO2,United States,New York,36,Rensselaer,083
+VIRO2,United States,New York,36,Richmond,085
+VIRO2,United States,New York,36,Schenectady,093
+VIRO2,United States,New York,36,Schoharie,095
+VIRO2,United States,New York,36,St. Lawrence,089
+VIRO2,United States,New York,36,Sullivan,105
+VIRO2,United States,New York,36,Tompkins,109
+VIRO2,United States,New York,36,Ulster,111
+VIRO2,United States,New York,36,Washington,115
+VIRO2,United States,New York,36,Westchester,119
+VIRO2,United States,New York,36,Wyoming,121
+VIRO2,United States,North Carolina,37,,
+VIRO2,United States,North Carolina,37,Alleghany,005
+VIRO2,United States,North Carolina,37,Ashe,009
+VIRO2,United States,North Carolina,37,Avery,011
+VIRO2,United States,North Carolina,37,Buncombe,021
+VIRO2,United States,North Carolina,37,Caldwell,027
+VIRO2,United States,North Carolina,37,Clay,043
+VIRO2,United States,North Carolina,37,Graham,075
+VIRO2,United States,North Carolina,37,Haywood,087
+VIRO2,United States,North Carolina,37,Henderson,089
+VIRO2,United States,North Carolina,37,Jackson,099
+VIRO2,United States,North Carolina,37,Macon,113
+VIRO2,United States,North Carolina,37,McDowell,111
+VIRO2,United States,North Carolina,37,Mitchell,121
+VIRO2,United States,North Carolina,37,Surry,171
+VIRO2,United States,North Carolina,37,Swain,173
+VIRO2,United States,North Carolina,37,Transylvania,175
+VIRO2,United States,North Carolina,37,Watauga,189
+VIRO2,United States,North Carolina,37,Wilkes,193
+VIRO2,United States,North Carolina,37,Yancey,199
+VIRO2,United States,Ohio,39,,
+VIRO2,United States,Ohio,39,Ashtabula,007
+VIRO2,United States,Ohio,39,Cuyahoga,035
+VIRO2,United States,Ohio,39,Geauga,055
+VIRO2,United States,Ohio,39,Hocking,073
+VIRO2,United States,Ohio,39,Lake,085
+VIRO2,United States,Ohio,39,Medina,103
+VIRO2,United States,Ohio,39,Portage,133
+VIRO2,United States,Ohio,39,Summit,153
+VIRO2,United States,Ohio,39,Trumbull,155
+VIRO2,United States,Pennsylvania,42,,
+VIRO2,United States,Pennsylvania,42,Armstrong,005
+VIRO2,United States,Pennsylvania,42,Bedford,009
+VIRO2,United States,Pennsylvania,42,Berks,011
+VIRO2,United States,Pennsylvania,42,Blair,013
+VIRO2,United States,Pennsylvania,42,Bradford,015
+VIRO2,United States,Pennsylvania,42,Butler,019
+VIRO2,United States,Pennsylvania,42,Cambria,021
+VIRO2,United States,Pennsylvania,42,Cameron,023
+VIRO2,United States,Pennsylvania,42,Carbon,025
+VIRO2,United States,Pennsylvania,42,Centre,027
+VIRO2,United States,Pennsylvania,42,Chester,029
+VIRO2,United States,Pennsylvania,42,Clarion,031
+VIRO2,United States,Pennsylvania,42,Clearfield,033
+VIRO2,United States,Pennsylvania,42,Clinton,035
+VIRO2,United States,Pennsylvania,42,Columbia,037
+VIRO2,United States,Pennsylvania,42,Crawford,039
+VIRO2,United States,Pennsylvania,42,Dauphin,043
+VIRO2,United States,Pennsylvania,42,Delaware,045
+VIRO2,United States,Pennsylvania,42,Elk,047
+VIRO2,United States,Pennsylvania,42,Erie,049
+VIRO2,United States,Pennsylvania,42,Fayette,051
+VIRO2,United States,Pennsylvania,42,Forest,053
+VIRO2,United States,Pennsylvania,42,Franklin,055
+VIRO2,United States,Pennsylvania,42,Indiana,063
+VIRO2,United States,Pennsylvania,42,Jefferson,065
+VIRO2,United States,Pennsylvania,42,Juniata,067
+VIRO2,United States,Pennsylvania,42,Lackawanna,069
+VIRO2,United States,Pennsylvania,42,Lancaster,071
+VIRO2,United States,Pennsylvania,42,Lawrence,073
+VIRO2,United States,Pennsylvania,42,Lebanon,075
+VIRO2,United States,Pennsylvania,42,Lehigh,077
+VIRO2,United States,Pennsylvania,42,Luzerne,079
+VIRO2,United States,Pennsylvania,42,Lycoming,081
+VIRO2,United States,Pennsylvania,42,McKean,083
+VIRO2,United States,Pennsylvania,42,Mercer,085
+VIRO2,United States,Pennsylvania,42,Monroe,089
+VIRO2,United States,Pennsylvania,42,Montgomery,091
+VIRO2,United States,Pennsylvania,42,Montour,093
+VIRO2,United States,Pennsylvania,42,Northampton,095
+VIRO2,United States,Pennsylvania,42,Northumberland,097
+VIRO2,United States,Pennsylvania,42,Perry,099
+VIRO2,United States,Pennsylvania,42,Philadelphia,101
+VIRO2,United States,Pennsylvania,42,Pike,103
+VIRO2,United States,Pennsylvania,42,Potter,105
+VIRO2,United States,Pennsylvania,42,Schuylkill,107
+VIRO2,United States,Pennsylvania,42,Somerset,111
+VIRO2,United States,Pennsylvania,42,Sullivan,113
+VIRO2,United States,Pennsylvania,42,Susquehanna,115
+VIRO2,United States,Pennsylvania,42,Tioga,117
+VIRO2,United States,Pennsylvania,42,Venango,121
+VIRO2,United States,Pennsylvania,42,Warren,123
+VIRO2,United States,Pennsylvania,42,Wayne,127
+VIRO2,United States,Pennsylvania,42,Westmoreland,129
+VIRO2,United States,Pennsylvania,42,Wyoming,131
+VIRO2,United States,Rhode Island,44,,
+VIRO2,United States,Rhode Island,44,Kent,003
+VIRO2,United States,Rhode Island,44,Providence,007
+VIRO2,United States,South Carolina,45,,
+VIRO2,United States,South Carolina,45,Pickens,077
+VIRO2,United States,Tennessee,47,,
+VIRO2,United States,Tennessee,47,Anderson,001
+VIRO2,United States,Tennessee,47,Blount,009
+VIRO2,United States,Tennessee,47,Carter,019
+VIRO2,United States,Tennessee,47,Cocke,029
+VIRO2,United States,Tennessee,47,Cumberland,035
+VIRO2,United States,Tennessee,47,Fentress,049
+VIRO2,United States,Tennessee,47,Franklin,051
+VIRO2,United States,Tennessee,47,Greene,059
+VIRO2,United States,Tennessee,47,Johnson,091
+VIRO2,United States,Tennessee,47,Monroe,123
+VIRO2,United States,Tennessee,47,Morgan,129
+VIRO2,United States,Tennessee,47,Pickett,137
+VIRO2,United States,Tennessee,47,Polk,139
+VIRO2,United States,Tennessee,47,Putnam,141
+VIRO2,United States,Tennessee,47,Scott,151
+VIRO2,United States,Tennessee,47,Sequatchie,153
+VIRO2,United States,Tennessee,47,Sevier,155
+VIRO2,United States,Tennessee,47,Unicoi,171
+VIRO2,United States,Vermont,50,,
+VIRO2,United States,Vermont,50,Addison,001
+VIRO2,United States,Vermont,50,Bennington,003
+VIRO2,United States,Vermont,50,Caledonia,005
+VIRO2,United States,Vermont,50,Chittenden,007
+VIRO2,United States,Vermont,50,Essex,009
+VIRO2,United States,Vermont,50,Franklin,011
+VIRO2,United States,Vermont,50,Lamoille,015
+VIRO2,United States,Vermont,50,Orange,017
+VIRO2,United States,Vermont,50,Orleans,019
+VIRO2,United States,Vermont,50,Rutland,021
+VIRO2,United States,Vermont,50,Washington,023
+VIRO2,United States,Vermont,50,Windham,025
+VIRO2,United States,Vermont,50,Windsor,027
+VIRO2,United States,Virginia,51,,
+VIRO2,United States,Virginia,51,Amherst,009
+VIRO2,United States,Virginia,51,Augusta,015
+VIRO2,United States,Virginia,51,Bath,017
+VIRO2,United States,Virginia,51,Bedford,019
+VIRO2,United States,Virginia,51,Bland,021
+VIRO2,United States,Virginia,51,Botetourt,023
+VIRO2,United States,Virginia,51,Buchanan,027
+VIRO2,United States,Virginia,51,Carroll,035
+VIRO2,United States,Virginia,51,Craig,045
+VIRO2,United States,Virginia,51,Dickenson,051
+VIRO2,United States,Virginia,51,Floyd,063
+VIRO2,United States,Virginia,51,Franklin,067
+VIRO2,United States,Virginia,51,Giles,071
+VIRO2,United States,Virginia,51,Grayson,077
+VIRO2,United States,Virginia,51,Highland,091
+VIRO2,United States,Virginia,51,Lee,105
+VIRO2,United States,Virginia,51,Montgomery,121
+VIRO2,United States,Virginia,51,Nelson,125
+VIRO2,United States,Virginia,51,Patrick,141
+VIRO2,United States,Virginia,51,Pulaski,155
+VIRO2,United States,Virginia,51,Roanoke,161
+VIRO2,United States,Virginia,51,Rockbridge,163
+VIRO2,United States,Virginia,51,Rockingham,165
+VIRO2,United States,Virginia,51,Russell,167
+VIRO2,United States,Virginia,51,Scott,169
+VIRO2,United States,Virginia,51,Smyth,173
+VIRO2,United States,Virginia,51,Tazewell,185
+VIRO2,United States,Virginia,51,Washington,191
+VIRO2,United States,Virginia,51,Wise,195
+VIRO2,United States,Virginia,51,Wythe,197
+VIRO2,United States,West Virginia,54,,
+VIRO2,United States,West Virginia,54,Barbour,001
+VIRO2,United States,West Virginia,54,Fayette,019
+VIRO2,United States,West Virginia,54,Grant,023
+VIRO2,United States,West Virginia,54,Greenbrier,025
+VIRO2,United States,West Virginia,54,Hancock,029
+VIRO2,United States,West Virginia,54,Monongalia,061
+VIRO2,United States,West Virginia,54,Pocahontas,075
+VIRO2,United States,West Virginia,54,Preston,077
+VIRO2,United States,West Virginia,54,Raleigh,081
+VIRO2,United States,West Virginia,54,Randolph,083
+VIRO2,United States,West Virginia,54,Summers,089
+VIRO2,United States,West Virginia,54,Tucker,093
+VIRO2,United States,West Virginia,54,Upshur,097
+VIRO2,United States,West Virginia,54,Webster,101

@@ -1,0 +1,23 @@
+﻿Distribution Data
+Symbol,Country,State,State FIP,County,County FIP
+SYLAP,United States,Alabama,01,,
+SYLAP,United States,Arkansas,05,,
+SYLAP,United States,Georgia,13,,
+SYLAP,United States,Louisiana,22,,
+SYLAP,United States,Louisiana,22,Caddo,017
+SYLAP,United States,Louisiana,22,Caldwell,021
+SYLAP,United States,Louisiana,22,Catahoula,025
+SYLAP,United States,Louisiana,22,Jefferson Davis,053
+SYLAP,United States,Louisiana,22,Morehouse,067
+SYLAP,United States,Louisiana,22,Natchitoches,069
+SYLAP,United States,Louisiana,22,Ouachita,073
+SYLAP,United States,Louisiana,22,Vermilion,113
+SYLAP,United States,Louisiana,22,Winn,127
+SYLAP,United States,Mississippi,28,,
+SYLAP,United States,Mississippi,28,Jackson,059
+SYLAP,United States,Mississippi,28,Noxubee,103
+SYLAP,United States,Mississippi,28,Scott,123
+SYLAP,United States,Texas,48,,
+SYLAP,United States,Texas,48,Jasper,241
+SYLAP,United States,Texas,48,Polk,373
+SYLAP,United States,Texas,48,Tyler,457
