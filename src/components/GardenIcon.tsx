@@ -52,7 +52,7 @@ function GardenIcon({ isInGarden, onAddToGarden, onRemoveFromGarden }: GardenIco
       >
         <img
           src={isInGarden 
-            ? '/images/Camp%20Monarch_LOGO%20icon%20for%20Garden.png'
+            ? '/images/Camp%20Monarch_LOGO%20B1_gold_square.png'
             : '/images/Camp%20Monarch_LOGO%20B1_gray_square.png'
           }
           alt="Garden icon"

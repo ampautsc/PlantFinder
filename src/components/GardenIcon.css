@@ -65,16 +65,6 @@
   animation: celebrate 1s ease-in-out;
 }
 
-/* Ensure in-garden state maintains proper scale */
-.garden-icon-button.in-garden {
-  transform: scale(1);
-}
-
-/* Override hover effect for in-garden buttons */
-.garden-icon-button.in-garden:hover {
-  transform: scale(1.1);
-}
-
 /* Responsive adjustments */
 @media (max-width: 767px) {
   .garden-icon-container {
