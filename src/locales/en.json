@@ -5,8 +5,8 @@
   },
   "search": {
     "placeholder": "Search wildflowers...",
-    "results": "{{count}} wildflower found",
-    "results_plural": "{{count}} wildflowers found",
+    "results_one": "{{count}} wildflower found",
+    "results_other": "{{count}} wildflowers found",
     "searching": "Searching...",
     "noResults": "No plants found",
     "noResultsHint": "Try adjusting your filters or search query"

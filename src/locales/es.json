@@ -5,8 +5,8 @@
   },
   "search": {
     "placeholder": "Buscar flores silvestres...",
-    "results": "{{count}} flor silvestre encontrada",
-    "results_plural": "{{count}} flores silvestres encontradas",
+    "results_one": "{{count}} flor silvestre encontrada",
+    "results_other": "{{count}} flores silvestres encontradas",
     "searching": "Buscando...",
     "noResults": "No se encontraron plantas",
     "noResultsHint": "Intenta ajustar tus filtros o búsqueda"

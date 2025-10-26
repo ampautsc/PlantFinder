@@ -5,8 +5,8 @@
   },
   "search": {
     "placeholder": "搜索野花...",
-    "results": "找到 {{count}} 种野花",
-    "results_plural": "找到 {{count}} 种野花",
+    "results_one": "找到 {{count}} 种野花",
+    "results_other": "找到 {{count}} 种野花",
     "searching": "搜索中...",
     "noResults": "未找到植物",
     "noResultsHint": "尝试调整您的筛选或搜索条件"

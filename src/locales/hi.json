@@ -5,8 +5,8 @@
   },
   "search": {
     "placeholder": "जंगली फूल खोजें...",
-    "results": "{{count}} जंगली फूल मिला",
-    "results_plural": "{{count}} जंगली फूल मिले",
+    "results_one": "{{count}} जंगली फूल मिला",
+    "results_other": "{{count}} जंगली फूल मिले",
     "searching": "खोज रहे हैं...",
     "noResults": "कोई पौधे नहीं मिले",
     "noResultsHint": "अपने फ़िल्टर या खोज को समायोजित करने का प्रयास करें"

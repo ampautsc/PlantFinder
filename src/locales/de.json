@@ -5,8 +5,8 @@
   },
   "search": {
     "placeholder": "Wildblumen suchen...",
-    "results": "{{count}} Wildblume gefunden",
-    "results_plural": "{{count}} Wildblumen gefunden",
+    "results_one": "{{count}} Wildblume gefunden",
+    "results_other": "{{count}} Wildblumen gefunden",
     "searching": "Suche läuft...",
     "noResults": "Keine Pflanzen gefunden",
     "noResultsHint": "Versuchen Sie, Ihre Filter oder Suchanfrage anzupassen"

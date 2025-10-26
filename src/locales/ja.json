@@ -5,8 +5,8 @@
   },
   "search": {
     "placeholder": "野生花を検索...",
-    "results": "{{count}}種の野生花が見つかりました",
-    "results_plural": "{{count}}種の野生花が見つかりました",
+    "results_one": "{{count}}種の野生花が見つかりました",
+    "results_other": "{{count}}種の野生花が見つかりました",
     "searching": "検索中...",
     "noResults": "植物が見つかりません",
     "noResultsHint": "フィルターや検索クエリを調整してみてください"
