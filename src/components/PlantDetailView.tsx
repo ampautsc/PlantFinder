@@ -588,6 +588,78 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
             </div>
           </div>
         </div>
+
+        {/* Bottom Action Bar for Seed Sharing */}
+        <div className="bottom-action-bar">
+          {!userActivity.hasActiveOffer && !userActivity.hasActiveRequest && (
+            <>
+              <button
+                className="action-bar-button offer-button"
+                onClick={() => {
+                  const quantity = 1; // Default quantity, could be made interactive
+                  handleCreateOffer(quantity);
+                }}
+                aria-label="Offer seeds"
+              >
+                <span className="button-icon">🫘</span>
+                <span className="button-label">Offer Seeds</span>
+              </button>
+              
+              <button
+                className="action-bar-button request-button"
+                onClick={handleCreateRequest}
+                aria-label="Request seeds"
+              >
+                <span className="button-icon">🤲</span>
+                <span className="button-label">Adopt Seeds</span>
+              </button>
+            </>
+          )}
+
+          {userActivity.hasActiveOffer && (
+            <div className="action-bar-status status-offer">
+              <span className="status-text">
+                {userActivity.activeOfferStatus === 'open' && `Awaiting Match ${userActivity.activeOfferQuantity ? `(${userActivity.activeOfferQuantity})` : ''}`}
+                {userActivity.activeOfferStatus === 'matched' && 'Matched!'}
+                {userActivity.activeOfferStatus === 'confirmed' && 'Confirmed'}
+                {userActivity.activeOfferStatus === 'sent' && 'Shipped'}
+                {userActivity.activeOfferStatus === 'received' && 'Delivered!'}
+                {userActivity.activeOfferStatus === 'complete' && 'Established'}
+              </span>
+              {(userActivity.activeOfferStatus === 'open' || userActivity.activeOfferStatus === 'matched') && (
+                <button
+                  className="withdraw-action-button"
+                  onClick={handleCancelOffer}
+                  aria-label="Withdraw offer"
+                >
+                  Withdraw
+                </button>
+              )}
+            </div>
+          )}
+
+          {userActivity.hasActiveRequest && (
+            <div className="action-bar-status status-request">
+              <span className="status-text">
+                {userActivity.activeRequestStatus === 'open' && 'Awaiting Match'}
+                {userActivity.activeRequestStatus === 'matched' && 'Matched!'}
+                {userActivity.activeRequestStatus === 'confirmed' && 'Confirmed'}
+                {userActivity.activeRequestStatus === 'sent' && 'Shipped'}
+                {userActivity.activeRequestStatus === 'received' && 'Delivered!'}
+                {userActivity.activeRequestStatus === 'complete' && 'Complete'}
+              </span>
+              {userActivity.activeRequestStatus === 'open' && (
+                <button
+                  className="withdraw-action-button"
+                  onClick={handleCancelRequest}
+                  aria-label="Withdraw request"
+                >
+                  Withdraw
+                </button>
+              )}
+            </div>
+          )}
+        </div>
       </div>
       
     </div>
