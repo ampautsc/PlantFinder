@@ -285,7 +285,10 @@ function FiltersPanel({
   const hasActiveFilters = (category: FilterCategory): boolean => {
     switch (category) {
       case 'location':
-        return !!(filters.stateFips || filters.countyFips);
+        return (
+          ((filters.stateFips as string[] | undefined) || []).length > 0 ||
+          ((filters.countyFips as string[] | undefined) || []).length > 0
+        );
       case 'wildlife':
         return (
           ((filters.hostPlantTo as string[] | undefined) || []).length > 0 ||
