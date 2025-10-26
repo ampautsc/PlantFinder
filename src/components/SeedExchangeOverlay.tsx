@@ -14,6 +14,7 @@ interface SeedExchangeOverlayProps {
   onCancelOffer?: () => void;
   onCancelRequest?: () => void;
   onConfirmMatch?: () => void;
+  onMarkAsSent?: () => void;
 }
 
 function SeedExchangeOverlay({
@@ -29,6 +30,7 @@ function SeedExchangeOverlay({
   onCancelOffer,
   onCancelRequest,
   onConfirmMatch,
+  onMarkAsSent,
 }: SeedExchangeOverlayProps) {
   const [showOfferQuantity, setShowOfferQuantity] = useState(false);
   const [offerQuantity, setOfferQuantity] = useState(1);
@@ -102,13 +104,12 @@ function SeedExchangeOverlay({
       {hasActiveOffer && (
         <div className="status-bar status-bar-seed">
           <span className="status-bar-text">
-            {activeOfferStatus === 'open' && 'Awaiting Match'}
+            {activeOfferStatus === 'open' && `Awaiting Match${activeOfferQuantity ? ` (${activeOfferQuantity})` : ''}`}
             {activeOfferStatus === 'matched' && 'Matched!'}
             {activeOfferStatus === 'confirmed' && 'Confirmed'}
-            {activeOfferStatus === 'sent' && 'Shipped'}
+            {activeOfferStatus === 'sent' && 'Awaiting Delivery'}
             {activeOfferStatus === 'received' && 'Delivered!'}
             {activeOfferStatus === 'complete' && 'Established'}
-            {activeOfferQuantity && activeOfferStatus === 'open' && ` (${activeOfferQuantity})`}
           </span>
           {activeOfferStatus === 'open' && onCancelOffer && (
             <button
@@ -149,6 +150,18 @@ function SeedExchangeOverlay({
                 </button>
               )}
             </>
+          )}
+          {activeOfferStatus === 'confirmed' && onMarkAsSent && (
+            <button
+              className="confirm-button"
+              onClick={(e) => {
+                e.stopPropagation();
+                onMarkAsSent();
+              }}
+              aria-label="Confirm shipment"
+            >
+              Confirm Shipment
+            </button>
           )}
         </div>
       )}
