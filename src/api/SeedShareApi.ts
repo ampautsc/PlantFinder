@@ -79,6 +79,11 @@ export interface ISeedMatchApi {
   getPlantMatches(plantId: string): Promise<SeedMatch[]>;
 
   /**
+   * Confirm a match (called by sender/offerer)
+   */
+  confirmMatch(userId: string, matchId: string): Promise<SeedMatch>;
+
+  /**
    * Mark a match as sent (called by sender)
    */
   markAsSent(userId: string, matchId: string): Promise<SeedMatch>;
@@ -87,6 +92,11 @@ export interface ISeedMatchApi {
    * Mark a match as received (called by receiver)
    */
   markAsReceived(userId: string, matchId: string): Promise<SeedMatch>;
+
+  /**
+   * Update planting status (called by receiver)
+   */
+  updatePlantingStatus(userId: string, matchId: string, status: 'planted' | 'sprouted' | 'grown' | 'flowered' | 'seeded' | 'established'): Promise<SeedMatch>;
 
   /**
    * Get match details by ID

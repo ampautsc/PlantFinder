@@ -98,23 +98,29 @@ function SeedExchangeOverlay({
 
       {/* Full-Width Status Bar - Shown when offer is active */}
       {hasActiveOffer && (
-        <div
-          className="status-bar status-bar-seed"
-          onClick={handleOfferButtonClick}
-          role="button"
-          tabIndex={0}
-          onKeyDown={(e) => {
-            if (e.key === 'Enter' || e.key === ' ') {
-              e.preventDefault();
-              handleOfferButtonClick();
-            }
-          }}
-          aria-label="Edit seed offer"
-        >
+        <div className="status-bar status-bar-seed">
           <span className="status-bar-text">
-            Seeds Offered {activeOfferQuantity && `(${activeOfferQuantity})`}
+            {activeOfferStatus === 'open' && 'Awaiting Match'}
+            {activeOfferStatus === 'matched' && 'Matched!'}
+            {activeOfferStatus === 'confirmed' && 'Confirmed'}
+            {activeOfferStatus === 'sent' && 'Shipped'}
+            {activeOfferStatus === 'received' && 'Delivered!'}
+            {activeOfferStatus === 'complete' && 'Established'}
+            {activeOfferQuantity && activeOfferStatus === 'open' && ` (${activeOfferQuantity})`}
           </span>
           {activeOfferStatus === 'open' && onCancelOffer && (
+            <button
+              className="withdraw-button"
+              onClick={(e) => {
+                e.stopPropagation();
+                onCancelOffer();
+              }}
+              aria-label="Withdraw offer"
+            >
+              Withdraw
+            </button>
+          )}
+          {activeOfferStatus === 'matched' && onCancelOffer && (
             <button
               className="withdraw-button"
               onClick={(e) => {
@@ -131,7 +137,14 @@ function SeedExchangeOverlay({
 
       {hasActiveRequest && (
         <div className="status-bar status-bar-adoption">
-          <span className="status-bar-text">Adoption Offered</span>
+          <span className="status-bar-text">
+            {activeRequestStatus === 'open' && 'Awaiting Match'}
+            {activeRequestStatus === 'matched' && 'Matched!'}
+            {activeRequestStatus === 'confirmed' && 'Confirmed'}
+            {activeRequestStatus === 'sent' && 'Shipped'}
+            {activeRequestStatus === 'received' && 'Delivered!'}
+            {activeRequestStatus === 'complete' && 'Complete'}
+          </span>
           {activeRequestStatus === 'open' && onCancelRequest && (
             <button
               className="withdraw-button"

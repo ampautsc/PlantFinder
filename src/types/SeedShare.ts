@@ -3,7 +3,7 @@
 /**
  * Status of a seed offer or request
  */
-export type SeedShareStatus = 'open' | 'matched' | 'sent' | 'received' | 'complete' | 'cancelled';
+export type SeedShareStatus = 'open' | 'matched' | 'confirmed' | 'sent' | 'received' | 'complete' | 'cancelled';
 
 /**
  * Type of seed sharing action
@@ -39,6 +39,11 @@ export interface SeedRequest {
 }
 
 /**
+ * Planting lifecycle status
+ */
+export type PlantingStatus = 'planted' | 'sprouted' | 'grown' | 'flowered' | 'seeded' | 'established';
+
+/**
  * A match between an offer and a request
  */
 export interface SeedMatch {
@@ -49,11 +54,20 @@ export interface SeedMatch {
   senderId: string; // userId who made the offer
   receiverId: string; // userId who made the request
   quantity: number; // Always 1 (request quantity)
-  status: 'matched' | 'sent' | 'received' | 'complete';
+  status: 'matched' | 'confirmed' | 'sent' | 'received' | 'complete';
   matchedAt: Date;
+  confirmedAt?: Date;
   sentAt?: Date;
   receivedAt?: Date;
   completedAt?: Date;
+  // Planting lifecycle tracking
+  plantingStatus?: PlantingStatus;
+  plantedAt?: Date;
+  sproutedAt?: Date;
+  grownAt?: Date;
+  floweredAt?: Date;
+  seededAt?: Date;
+  establishedAt?: Date;
 }
 
 /**
