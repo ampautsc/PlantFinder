@@ -170,13 +170,13 @@ function SeedExchangeOverlay({
         <div className="status-bar status-bar-adoption">
           <span className="status-bar-text">
             {activeRequestStatus === 'open' && 'Awaiting Match'}
-            {activeRequestStatus === 'matched' && 'Matched!'}
+            {activeRequestStatus === 'matched' && 'Matched! - Awaiting Confirmation'}
             {activeRequestStatus === 'confirmed' && 'Confirmed'}
             {activeRequestStatus === 'sent' && 'Shipped'}
             {activeRequestStatus === 'received' && 'Delivered!'}
             {activeRequestStatus === 'complete' && 'Complete'}
           </span>
-          {activeRequestStatus === 'open' && onCancelRequest && (
+          {(activeRequestStatus === 'open' || activeRequestStatus === 'matched') && onCancelRequest && (
             <button
               className="withdraw-button"
               onClick={onCancelRequest}

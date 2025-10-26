@@ -391,8 +391,8 @@ export class MockSeedShareService
       throw new Error('You can only cancel your own requests');
     }
 
-    if (request.status !== 'open') {
-      throw new Error('Can only cancel open requests');
+    if (request.status !== 'open' && request.status !== 'matched') {
+      throw new Error('Can only cancel open or matched requests');
     }
 
     request.status = 'cancelled';
