@@ -289,6 +289,15 @@
   box-shadow: 0 6px 15px rgba(245, 87, 108, 0.4);
 }
 
+.confirm-btn {
+  background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%);
+  box-shadow: 0 4px 10px rgba(132, 250, 176, 0.3);
+}
+
+.confirm-btn:hover {
+  box-shadow: 0 6px 15px rgba(132, 250, 176, 0.4);
+}
+
 .receive-btn {
   background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
   box-shadow: 0 4px 10px rgba(79, 172, 254, 0.3);
@@ -296,6 +305,16 @@
 
 .receive-btn:hover {
   box-shadow: 0 6px 15px rgba(79, 172, 254, 0.4);
+}
+
+.planting-btn {
+  background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+  box-shadow: 0 4px 10px rgba(168, 237, 234, 0.3);
+  color: #2c3e50;
+}
+
+.planting-btn:hover {
+  box-shadow: 0 6px 15px rgba(168, 237, 234, 0.4);
 }
 
 .complete-message {

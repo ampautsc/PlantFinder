@@ -115,6 +115,16 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     }
   };
 
+  const handleConfirmMatch = async (matchId: string) => {
+    try {
+      await mockSeedShareService.confirmMatch(CURRENT_USER_ID, matchId);
+      await loadSeedShareData();
+    } catch (error) {
+      console.error('Error confirming match:', error);
+      alert(error instanceof Error ? error.message : 'Failed to confirm match');
+    }
+  };
+
   const handleMarkAsSent = async (matchId: string) => {
     try {
       await mockSeedShareService.markAsSent(CURRENT_USER_ID, matchId);
@@ -132,6 +142,22 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     } catch (error) {
       console.error('Error marking as received:', error);
       alert(error instanceof Error ? error.message : 'Failed to mark as received');
+    }
+  };
+
+  const handleUpdatePlantingStatus = async (
+    matchId: string,
+    status: 'planted' | 'sprouted' | 'grown' | 'flowered' | 'seeded' | 'established'
+  ) => {
+    try {
+      await mockSeedShareService.updatePlantingStatus(CURRENT_USER_ID, matchId, status);
+      await loadSeedShareData();
+      if (status === 'established') {
+        await loadGardenData();
+      }
+    } catch (error) {
+      console.error('Error updating planting status:', error);
+      alert(error instanceof Error ? error.message : 'Failed to update planting status');
     }
   };
 
@@ -415,8 +441,10 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
             <MatchTracker
               userId={CURRENT_USER_ID}
               matches={matches}
+              onConfirmMatch={handleConfirmMatch}
               onMarkAsSent={handleMarkAsSent}
               onMarkAsReceived={handleMarkAsReceived}
+              onUpdatePlantingStatus={handleUpdatePlantingStatus}
             />
           )}
 

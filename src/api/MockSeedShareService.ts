@@ -435,6 +435,42 @@ export class MockSeedShareService
     return plantMatches;
   }
 
+  async confirmMatch(userId: string, matchId: string): Promise<SeedMatch> {
+    await this.delay(150);
+
+    const match = this.matches.get(matchId);
+    if (!match) {
+      throw new Error('Match not found');
+    }
+
+    if (match.senderId !== userId) {
+      throw new Error('Only the sender can confirm the match');
+    }
+
+    if (match.status !== 'matched') {
+      throw new Error('Can only confirm matched items');
+    }
+
+    match.status = 'confirmed';
+    match.confirmedAt = new Date();
+
+    // Update the offer status
+    const offer = this.offers.get(match.offerId);
+    if (offer) {
+      offer.status = 'confirmed';
+      offer.updatedAt = new Date();
+    }
+
+    // Update the request status
+    const request = this.requests.get(match.requestId);
+    if (request) {
+      request.status = 'confirmed';
+      request.updatedAt = new Date();
+    }
+
+    return match;
+  }
+
   async markAsSent(userId: string, matchId: string): Promise<SeedMatch> {
     await this.delay(150);
 
@@ -447,8 +483,8 @@ export class MockSeedShareService
       throw new Error('Only the sender can mark as sent');
     }
 
-    if (match.status !== 'matched') {
-      throw new Error('Can only mark matched items as sent');
+    if (match.status !== 'confirmed') {
+      throw new Error('Match must be confirmed before shipping');
     }
 
     match.status = 'sent';
@@ -490,22 +526,79 @@ export class MockSeedShareService
     match.status = 'received';
     match.receivedAt = new Date();
 
-    // Automatically mark as complete when received
-    match.status = 'complete';
-    match.completedAt = match.receivedAt;
-
     // Update the offer status
     const offer = this.offers.get(match.offerId);
     if (offer) {
-      offer.status = 'complete';
+      offer.status = 'received';
       offer.updatedAt = new Date();
     }
 
     // Update the request status
     const request = this.requests.get(match.requestId);
     if (request) {
-      request.status = 'complete';
+      request.status = 'received';
       request.updatedAt = new Date();
+    }
+
+    return match;
+  }
+
+  async updatePlantingStatus(
+    userId: string,
+    matchId: string,
+    status: 'planted' | 'sprouted' | 'grown' | 'flowered' | 'seeded' | 'established'
+  ): Promise<SeedMatch> {
+    await this.delay(150);
+
+    const match = this.matches.get(matchId);
+    if (!match) {
+      throw new Error('Match not found');
+    }
+
+    if (match.receiverId !== userId) {
+      throw new Error('Only the receiver can update planting status');
+    }
+
+    if (match.status !== 'received' && match.status !== 'complete') {
+      throw new Error('Can only track planting after seeds are received');
+    }
+
+    const now = new Date();
+    match.plantingStatus = status;
+
+    switch (status) {
+      case 'planted':
+        match.plantedAt = now;
+        break;
+      case 'sprouted':
+        match.sproutedAt = now;
+        break;
+      case 'grown':
+        match.grownAt = now;
+        break;
+      case 'flowered':
+        match.floweredAt = now;
+        break;
+      case 'seeded':
+        match.seededAt = now;
+        break;
+      case 'established':
+        match.establishedAt = now;
+        match.status = 'complete';
+        match.completedAt = now;
+        // Update the offer status
+        const offer = this.offers.get(match.offerId);
+        if (offer) {
+          offer.status = 'complete';
+          offer.updatedAt = now;
+        }
+        // Update the request status
+        const request = this.requests.get(match.requestId);
+        if (request) {
+          request.status = 'complete';
+          request.updatedAt = now;
+        }
+        break;
     }
 
     return match;
