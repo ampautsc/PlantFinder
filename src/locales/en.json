@@ -13,6 +13,7 @@
   },
   "filters": {
     "clearAll": "Clear All",
+    "not": "Not",
     "wildlife": "Wildlife",
     "hostPlantTo": "Host Plant To",
     "shelterFor": "Shelter For",

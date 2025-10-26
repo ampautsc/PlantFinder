@@ -13,6 +13,7 @@
   },
   "filters": {
     "clearAll": "すべてクリア",
+    "not": "ない",
     "wildlife": "野生動物",
     "hostPlantTo": "ホスト植物",
     "shelterFor": "避難所",

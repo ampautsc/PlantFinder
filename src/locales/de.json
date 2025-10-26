@@ -13,6 +13,7 @@
   },
   "filters": {
     "clearAll": "Alle löschen",
+    "not": "Nicht",
     "wildlife": "Tierwelt",
     "hostPlantTo": "Wirtspflanze für",
     "shelterFor": "Schutz für",

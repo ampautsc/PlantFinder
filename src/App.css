@@ -367,6 +367,13 @@ body {
   font-weight: 600;
 }
 
+.filter-chip.selected-negative {
+  background-color: var(--danger-color, #dc3545);
+  color: white;
+  border-color: var(--danger-color, #dc3545);
+  font-weight: 600;
+}
+
 .range-inputs {
   display: flex;
   gap: 0.5rem;

@@ -13,6 +13,7 @@
   },
   "filters": {
     "clearAll": "सभी साफ़ करें",
+    "not": "नहीं",
     "wildlife": "वन्यजीव",
     "hostPlantTo": "मेजबान पौधा",
     "shelterFor": "आश्रय",
