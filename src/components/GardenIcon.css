@@ -65,6 +65,12 @@
   animation: celebrate 1s ease-in-out;
 }
 
+/* Fix size mismatch between gray (550x550) and gold (750x750) icons */
+.garden-icon-button.in-garden img {
+  width: 136%;
+  height: 136%;
+}
+
 /* Responsive adjustments */
 @media (max-width: 767px) {
   .garden-icon-container {
