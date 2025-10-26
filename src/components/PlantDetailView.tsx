@@ -125,6 +125,17 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
     }
   };
 
+  const handleConfirmCurrentPlantMatch = async () => {
+    // Find the match for the current plant where the current user is the sender
+    const currentPlantMatch = matches.find(
+      match => match.plantId === plant.id && match.senderId === CURRENT_USER_ID && match.status === 'matched'
+    );
+    
+    if (currentPlantMatch) {
+      await handleConfirmMatch(currentPlantMatch.id);
+    }
+  };
+
   const handleMarkAsSent = async (matchId: string) => {
     try {
       await mockSeedShareService.markAsSent(CURRENT_USER_ID, matchId);
@@ -281,6 +292,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                 onRequestClick={handleCreateRequest}
                 onCancelOffer={handleCancelOffer}
                 onCancelRequest={handleCancelRequest}
+                onConfirmMatch={handleConfirmCurrentPlantMatch}
               />
             </div>
           ) : (
@@ -303,6 +315,7 @@ function PlantDetailView({ plant, onClose }: PlantDetailViewProps) {
                 onRequestClick={handleCreateRequest}
                 onCancelOffer={handleCancelOffer}
                 onCancelRequest={handleCancelRequest}
+                onConfirmMatch={handleConfirmCurrentPlantMatch}
               />
             </div>
           )}

@@ -13,6 +13,7 @@ interface SeedExchangeOverlayProps {
   onRequestClick: () => void;
   onCancelOffer?: () => void;
   onCancelRequest?: () => void;
+  onConfirmMatch?: () => void;
 }
 
 function SeedExchangeOverlay({
@@ -27,6 +28,7 @@ function SeedExchangeOverlay({
   onRequestClick,
   onCancelOffer,
   onCancelRequest,
+  onConfirmMatch,
 }: SeedExchangeOverlayProps) {
   const [showOfferQuantity, setShowOfferQuantity] = useState(false);
   const [offerQuantity, setOfferQuantity] = useState(1);
@@ -120,17 +122,33 @@ function SeedExchangeOverlay({
               Withdraw
             </button>
           )}
-          {activeOfferStatus === 'matched' && onCancelOffer && (
-            <button
-              className="withdraw-button"
-              onClick={(e) => {
-                e.stopPropagation();
-                onCancelOffer();
-              }}
-              aria-label="Withdraw offer"
-            >
-              Withdraw
-            </button>
+          {activeOfferStatus === 'matched' && (
+            <>
+              {onConfirmMatch && (
+                <button
+                  className="confirm-button"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    onConfirmMatch();
+                  }}
+                  aria-label="Confirm match"
+                >
+                  Confirm
+                </button>
+              )}
+              {onCancelOffer && (
+                <button
+                  className="withdraw-button"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    onCancelOffer();
+                  }}
+                  aria-label="Withdraw offer"
+                >
+                  Withdraw
+                </button>
+              )}
+            </>
           )}
         </div>
       )}
