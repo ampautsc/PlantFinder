@@ -73,11 +73,13 @@ function App() {
       if (location) {
         console.log('Auto-detected location:', location);
         // Set the detected state in filters (only if user hasn't manually set one)
-        setFilters(prev => 
-          (!prev.stateFips && !prev.countyFips)
+        setFilters(prev => {
+          const hasStateFips = prev.stateFips && prev.stateFips.length > 0;
+          const hasCountyFips = prev.countyFips && prev.countyFips.length > 0;
+          return (!hasStateFips && !hasCountyFips)
             ? { ...prev, stateFips: [location.stateFips] }
-            : prev
-        );
+            : prev;
+        });
       }
     }).catch(error => {
       console.error('Failed to auto-detect location:', error);
