@@ -6,6 +6,12 @@
  * @param n - Number of sparkle particles to create (default: 120)
  */
 export function sparkleBurst(el: HTMLElement, n = 120) {
+  // Feature detection: Check if Web Animations API is supported
+  if (typeof Element.prototype.animate !== 'function') {
+    console.warn('Web Animations API not supported - sparkle effect disabled');
+    return;
+  }
+
   const rect = el.getBoundingClientRect();
   const cx = rect.left + rect.width / 2;
   const cy = rect.top + rect.height / 2;
@@ -63,17 +69,23 @@ export function sparkleBurst(el: HTMLElement, n = 120) {
     
     // Use requestAnimationFrame to ensure the DOM has painted before animating
     requestAnimationFrame(() => {
-      const animation = dot.animate(
-        [
-          { transform: "translate(0,0)", opacity: 1 },
-          { transform: `translate(${tx - (cx - DOT_RADIUS)}px,${ty - (cy - DOT_RADIUS)}px)`, opacity: 0 }
-        ],
-        {
-          duration: 1200 + Math.random() * 600,
-          easing: "cubic-bezier(.2,.6,.2,1)"
-        }
-      );
-      animation.onfinish = () => dot.remove();
+      try {
+        const animation = dot.animate(
+          [
+            { transform: "translate(0,0)", opacity: 1 },
+            { transform: `translate(${tx - (cx - DOT_RADIUS)}px,${ty - (cy - DOT_RADIUS)}px)`, opacity: 0 }
+          ],
+          {
+            duration: 1200 + Math.random() * 600,
+            easing: "cubic-bezier(.2,.6,.2,1)"
+          }
+        );
+        animation.onfinish = () => dot.remove();
+      } catch (error) {
+        // If animation fails, remove the dot immediately to prevent DOM pollution
+        console.warn('Sparkle animation failed:', error);
+        dot.remove();
+      }
     });
   }
 }
