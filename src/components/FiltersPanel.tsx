@@ -118,6 +118,25 @@ function FiltersPanel({
     });
   };
 
+  // Toggle tri-state boolean filter (undefined -> true -> false -> undefined)
+  const toggleTriStateFilter = (key: keyof PlantFilters) => {
+    const currentValue = filters[key] as boolean | undefined;
+    let newValue: boolean | undefined;
+    
+    if (currentValue === undefined) {
+      newValue = true; // undefined -> true (show only matching)
+    } else if (currentValue === true) {
+      newValue = false; // true -> false (show only non-matching)
+    } else {
+      newValue = undefined; // false -> undefined (show all)
+    }
+    
+    onFiltersChange({
+      ...filters,
+      [key]: newValue,
+    });
+  };
+
   const calculateExpansionPosition = (category: FilterCategory) => {
     const buttonElement = buttonRefs.current[category];
     if (!buttonElement) return { top: 0, left: 180 };
@@ -280,6 +299,20 @@ function FiltersPanel({
     
     // If no translation found, capitalize the value
     return value.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+  };
+
+  // Helper to get CSS class for tri-state filter
+  const getTriStateClass = (value: boolean | undefined): string => {
+    if (value === true) return 'selected';
+    if (value === false) return 'selected-negative';
+    return '';
+  };
+
+  // Helper to get display label for tri-state filter
+  const getTriStateLabel = (baseLabel: string, value: boolean | undefined): string => {
+    if (value === true) return baseLabel;
+    if (value === false) return `${t('filters.not')} ${baseLabel}`;
+    return baseLabel;
   };
 
   const hasActiveFilters = (category: FilterCategory): boolean => {
@@ -538,22 +571,22 @@ function FiltersPanel({
               <div className="filter-section">
                 <div className="filter-options-row">
                   <button
-                    className={`filter-chip ${filters.inMyGarden ? 'selected' : ''}`}
-                    onClick={() => onFiltersChange({ ...filters, inMyGarden: !filters.inMyGarden })}
+                    className={`filter-chip ${getTriStateClass(filters.inMyGarden)}`}
+                    onClick={() => toggleTriStateFilter('inMyGarden')}
                   >
-                    {t('filters.inMyGarden')}
+                    {getTriStateLabel(t('filters.inMyGarden'), filters.inMyGarden)}
                   </button>
                   <button
-                    className={`filter-chip ${filters.seedsOffered ? 'selected' : ''}`}
-                    onClick={() => onFiltersChange({ ...filters, seedsOffered: !filters.seedsOffered })}
+                    className={`filter-chip ${getTriStateClass(filters.seedsOffered)}`}
+                    onClick={() => toggleTriStateFilter('seedsOffered')}
                   >
-                    {t('filters.seedsOffered')}
+                    {getTriStateLabel(t('filters.seedsOffered'), filters.seedsOffered)}
                   </button>
                   <button
-                    className={`filter-chip ${filters.adoptionOffered ? 'selected' : ''}`}
-                    onClick={() => onFiltersChange({ ...filters, adoptionOffered: !filters.adoptionOffered })}
+                    className={`filter-chip ${getTriStateClass(filters.adoptionOffered)}`}
+                    onClick={() => toggleTriStateFilter('adoptionOffered')}
                   >
-                    {t('filters.adoptionOffered')}
+                    {getTriStateLabel(t('filters.adoptionOffered'), filters.adoptionOffered)}
                   </button>
                 </div>
               </div>

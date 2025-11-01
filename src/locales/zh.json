@@ -13,6 +13,7 @@
   },
   "filters": {
     "clearAll": "清除所有",
+    "not": "不",
     "wildlife": "野生动物",
     "hostPlantTo": "寄主植物",
     "shelterFor": "庇护所",

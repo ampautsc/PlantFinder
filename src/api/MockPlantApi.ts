@@ -188,25 +188,28 @@ export class MockPlantApi implements IPlantApi {
     }
 
     // Filter by availability - in my garden
-    if (filters.inMyGarden) {
-      results = results.filter(plant =>
-        this.gardenPlantIds.has(plant.id)
-      );
+    if (filters.inMyGarden !== undefined) {
+      results = results.filter(plant => {
+        const isInGarden = this.gardenPlantIds.has(plant.id);
+        return filters.inMyGarden ? isInGarden : !isInGarden;
+      });
     }
 
     // Filter by availability - seeds offered
-    if (filters.seedsOffered) {
+    if (filters.seedsOffered !== undefined) {
       results = results.filter(plant => {
         const volume = this.seedShareVolumes.get(plant.id);
-        return volume && volume.openOffers > 0;
+        const hasSeedsOffered = volume && volume.openOffers > 0;
+        return filters.seedsOffered ? hasSeedsOffered : !hasSeedsOffered;
       });
     }
 
     // Filter by availability - adoption offered (requests for seeds)
-    if (filters.adoptionOffered) {
+    if (filters.adoptionOffered !== undefined) {
       results = results.filter(plant => {
         const volume = this.seedShareVolumes.get(plant.id);
-        return volume && volume.openRequests > 0;
+        const hasAdoptionOffered = volume && volume.openRequests > 0;
+        return filters.adoptionOffered ? hasAdoptionOffered : !hasAdoptionOffered;
       });
     }
 
