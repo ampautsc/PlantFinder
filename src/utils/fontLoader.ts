@@ -9,6 +9,11 @@ export type Language = 'en' | 'es' | 'de' | 'ja' | 'zh' | 'hi';
 
 const loadedFonts = new Set<string>();
 
+// Font loading constants
+const FONT_WEIGHTS = [400, 600] as const;
+const FONT_SIZE = '16px';
+const FONT_LOAD_FALLBACK_TIMEOUT = 100; // ms
+
 /**
  * Get the font name for a specific language
  */
@@ -34,16 +39,17 @@ function getFontName(language: Language): string {
 async function waitForFontsToLoad(fontName: string): Promise<void> {
   if (!document.fonts) {
     // Font Loading API not supported, wait a bit for fonts to load
-    await new Promise(resolve => setTimeout(resolve, 100));
+    await new Promise(resolve => setTimeout(resolve, FONT_LOAD_FALLBACK_TIMEOUT));
     return;
   }
 
   try {
-    // Wait for both 400 and 600 weight fonts to load
-    await Promise.all([
-      document.fonts.load(`400 16px "${fontName}"`),
-      document.fonts.load(`600 16px "${fontName}"`)
-    ]);
+    // Wait for all configured font weights to load
+    await Promise.all(
+      FONT_WEIGHTS.map(weight => 
+        document.fonts.load(`${weight} ${FONT_SIZE} "${fontName}"`)
+      )
+    );
     
     // Additional check to ensure fonts are ready
     await document.fonts.ready;
