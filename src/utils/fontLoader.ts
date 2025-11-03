@@ -9,6 +9,66 @@ export type Language = 'en' | 'es' | 'de' | 'ja' | 'zh' | 'hi';
 
 const loadedFonts = new Set<string>();
 
+// Font loading constants
+const FONT_WEIGHTS = [400, 600] as const;
+const FONT_SIZE = '16px';
+const FONT_LOAD_FALLBACK_TIMEOUT = 100; // ms
+
+/**
+ * Check if a language uses Latin script
+ */
+function isLatinLanguage(language: Language): boolean {
+  return language === 'en' || language === 'es' || language === 'de';
+}
+
+/**
+ * Get the font name for a specific language
+ */
+function getFontName(language: Language): string {
+  if (isLatinLanguage(language)) {
+    return 'Noto Sans';
+  }
+  
+  switch (language) {
+    case 'ja':
+      return 'Noto Sans JP';
+    case 'zh':
+      return 'Noto Sans SC';
+    case 'hi':
+      return 'Noto Sans Devanagari';
+    default:
+      return 'Noto Sans';
+  }
+}
+
+/**
+ * Wait for fonts to be loaded using the Font Loading API
+ */
+async function waitForFontsToLoad(fontName: string): Promise<void> {
+  if (!document.fonts) {
+    // Font Loading API not supported, wait a bit for fonts to load
+    await new Promise(resolve => setTimeout(resolve, FONT_LOAD_FALLBACK_TIMEOUT));
+    return;
+  }
+
+  try {
+    // Wait for all configured font weights to load
+    await Promise.all(
+      FONT_WEIGHTS.map(weight => 
+        document.fonts.load(`${weight} ${FONT_SIZE} "${fontName}"`)
+      )
+    );
+    
+    // Ensure browser has processed all font faces
+    // This is necessary as document.fonts.load() only triggers loading,
+    // but fonts may not be immediately available for rendering
+    await document.fonts.ready;
+  } catch (error) {
+    console.warn(`Font loading check failed for ${fontName}:`, error);
+    // Continue anyway - fonts might still load
+  }
+}
+
 /**
  * Load fonts for a specific language
  */
@@ -55,7 +115,20 @@ export async function loadFontsForLanguage(language: Language): Promise<void> {
           import('@fontsource/noto-sans/600.css')
         ]);
         break;
+      
+      default:
+        // Fallback to base font for any unexpected language
+        console.warn(`Unexpected language: ${language}, falling back to Noto Sans`);
+        await Promise.all([
+          import('@fontsource/noto-sans/400.css'),
+          import('@fontsource/noto-sans/600.css')
+        ]);
+        break;
     }
+    
+    // Wait for the fonts to actually be loaded before marking as complete
+    const fontName = getFontName(language);
+    await waitForFontsToLoad(fontName);
     
     loadedFonts.add(fontKey);
   } catch (error) {
@@ -67,19 +140,12 @@ export async function loadFontsForLanguage(language: Language): Promise<void> {
  * Get the font family for a specific language
  */
 export function getFontFamily(language: Language): string {
-  switch (language) {
-    case 'ja':
-      return "'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
-    case 'zh':
-      return "'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
-    case 'hi':
-      return "'Noto Sans Devanagari', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
-    case 'en':
-    case 'es':
-    case 'de':
-    default:
-      return "'Noto Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif";
-  }
+  const fontName = getFontName(language);
+  const fallbackFonts = isLatinLanguage(language)
+    ? ", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif"
+    : ", -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
+  
+  return `'${fontName}'${fallbackFonts}`;
 }
 
 /**
