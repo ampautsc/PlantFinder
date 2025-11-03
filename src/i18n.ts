@@ -24,10 +24,8 @@ const loadTranslation = async (language: string) => {
   }
 };
 
-// Initialize i18n with the saved language
-export const initI18n = async () => {
-  const translation = await loadTranslation(savedLanguage);
-  
+// Initialize i18n - called immediately on module load
+loadTranslation(savedLanguage).then((translation) => {
   i18n
     .use(initReactI18next)
     .init({
@@ -46,13 +44,16 @@ export const initI18n = async () => {
   // Custom language loader - loads translations on demand
   i18n.on('languageChanged', async (lng) => {
     if (!i18n.hasResourceBundle(lng, 'translation')) {
-      const translation = await loadTranslation(lng);
-      i18n.addResourceBundle(lng, 'translation', translation);
+      try {
+        const translation = await loadTranslation(lng);
+        i18n.addResourceBundle(lng, 'translation', translation);
+      } catch (error) {
+        console.error(`Failed to load translation for language ${lng}:`, error);
+      }
     }
   });
-};
-
-// Initialize immediately
-initI18n();
+}).catch((error) => {
+  console.error('Failed to initialize i18n:', error);
+});
 
 export default i18n;

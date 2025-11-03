@@ -5,7 +5,7 @@
  * This prevents loading all font files (Japanese, Chinese, Devanagari) for all users.
  */
 
-type Language = 'en' | 'es' | 'de' | 'ja' | 'zh' | 'hi';
+export type Language = 'en' | 'es' | 'de' | 'ja' | 'zh' | 'hi';
 
 const loadedFonts = new Set<string>();
 

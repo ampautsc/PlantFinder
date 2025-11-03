@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import './LanguageSelector.css';
-import { loadFontsForLanguage, getFontFamily } from '../utils/fontLoader';
+import { loadFontsForLanguage, getFontFamily, type Language } from '../utils/fontLoader';
 
 function LanguageSelector() {
   const { i18n, t } = useTranslation();
@@ -20,12 +20,20 @@ function LanguageSelector() {
   const currentLanguage = languages.find(lang => lang.code === i18n.language) || languages[0];
 
   const changeLanguage = async (languageCode: string) => {
-    // Load fonts for the new language before switching
-    await loadFontsForLanguage(languageCode as 'en' | 'es' | 'de' | 'ja' | 'zh' | 'hi');
+    const lang = languageCode as Language;
     
-    // Update font family for the body element
-    document.body.style.fontFamily = getFontFamily(languageCode as 'en' | 'es' | 'de' | 'ja' | 'zh' | 'hi');
+    try {
+      // Load fonts for the new language before switching
+      await loadFontsForLanguage(lang);
+      
+      // Update font family for the body element
+      document.body.style.fontFamily = getFontFamily(lang);
+    } catch (error) {
+      // If font loading fails, log the error but continue with language switch
+      console.error(`Failed to load fonts for language ${lang}:`, error);
+    }
     
+    // Always proceed with language change even if fonts fail to load
     i18n.changeLanguage(languageCode);
     localStorage.setItem('language', languageCode);
     setIsOpen(false);
