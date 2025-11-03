@@ -74,9 +74,8 @@ function App() {
     // Mark as detected immediately to prevent race conditions in Strict Mode
     hasDetectedLocation.current = true;
     
-    // Check if filters were loaded from URL
-    const urlFilters = getFiltersFromUrl();
-    const hasUrlFilters = Object.keys(urlFilters).length > 0;
+    // Check if filters were loaded from URL by examining current filter state
+    const hasUrlFilters = Object.keys(filters).length > 0;
     
     // Only auto-detect location if there are no URL filters
     if (hasUrlFilters) {
