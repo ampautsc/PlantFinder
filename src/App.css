@@ -136,6 +136,16 @@ body {
   box-shadow: 2px 0 4px rgba(0,0,0,0.3);
   flex-shrink: 0;
   flex-grow: 0;
+  transition: transform 0.3s ease, width 0.3s ease, min-width 0.3s ease, max-width 0.3s ease;
+}
+
+.filters-panel-new.collapsed {
+  width: 0;
+  min-width: 0;
+  max-width: 0;
+  transform: translateX(-100%);
+  border-right: none;
+  overflow: hidden;
 }
 
 .filters-panel-new.hidden {
@@ -144,6 +154,42 @@ body {
 
 .filters-panel-new.expanded {
   /* No width change - expansion panel will be an overlay */
+}
+
+/* Filter Panel Toggle Button */
+.filter-panel-toggle {
+  position: fixed;
+  left: 180px;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: var(--primary-color);
+  border: 2px solid var(--border-color);
+  border-left: none;
+  border-radius: 0 8px 8px 0;
+  width: 32px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 999;
+  transition: left 0.3s ease, background-color 0.2s ease;
+  color: #1a1a1a;
+  font-size: 1rem;
+  font-weight: bold;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.filter-panel-toggle:hover {
+  background-color: var(--secondary-color);
+}
+
+.filter-panel-toggle.collapsed {
+  left: 0;
+}
+
+.toggle-icon {
+  line-height: 1;
 }
 
 .filter-buttons {
@@ -604,6 +650,23 @@ body {
 
 .empty-state p {
   font-size: 0.95rem;
+}
+
+/* Mobile - Filter panel behavior */
+@media (max-width: 767px) {
+  /* On mobile, when not collapsed, filter panel should overlay content */
+  .filters-panel-new:not(.collapsed) {
+    position: fixed;
+    left: 0;
+    top: 100px; /* Below header */
+    height: calc(100vh - 100px);
+    z-index: 900;
+  }
+
+  /* Toggle button positioning for mobile */
+  .filter-panel-toggle {
+    top: 120px; /* Position below header */
+  }
 }
 
 /* Tablet and larger screens */
