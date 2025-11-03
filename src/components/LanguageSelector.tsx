@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import './LanguageSelector.css';
+import { loadFontsForLanguage, getFontFamily } from '../utils/fontLoader';
 
 function LanguageSelector() {
   const { i18n, t } = useTranslation();
@@ -18,7 +19,13 @@ function LanguageSelector() {
 
   const currentLanguage = languages.find(lang => lang.code === i18n.language) || languages[0];
 
-  const changeLanguage = (languageCode: string) => {
+  const changeLanguage = async (languageCode: string) => {
+    // Load fonts for the new language before switching
+    await loadFontsForLanguage(languageCode as 'en' | 'es' | 'de' | 'ja' | 'zh' | 'hi');
+    
+    // Update font family for the body element
+    document.body.style.fontFamily = getFontFamily(languageCode as 'en' | 'es' | 'de' | 'ja' | 'zh' | 'hi');
+    
     i18n.changeLanguage(languageCode);
     localStorage.setItem('language', languageCode);
     setIsOpen(false);
