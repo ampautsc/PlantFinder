@@ -15,9 +15,20 @@ const FONT_SIZE = '16px';
 const FONT_LOAD_FALLBACK_TIMEOUT = 100; // ms
 
 /**
+ * Check if a language uses Latin script
+ */
+function isLatinLanguage(language: Language): boolean {
+  return language === 'en' || language === 'es' || language === 'de';
+}
+
+/**
  * Get the font name for a specific language
  */
 function getFontName(language: Language): string {
+  if (isLatinLanguage(language)) {
+    return 'Noto Sans';
+  }
+  
   switch (language) {
     case 'ja':
       return 'Noto Sans JP';
@@ -25,9 +36,6 @@ function getFontName(language: Language): string {
       return 'Noto Sans SC';
     case 'hi':
       return 'Noto Sans Devanagari';
-    case 'en':
-    case 'es':
-    case 'de':
     default:
       return 'Noto Sans';
   }
@@ -96,9 +104,7 @@ export async function loadFontsForLanguage(language: Language): Promise<void> {
         ]);
         break;
       
-      case 'en':
-      case 'es':
-      case 'de':
+      default:
         // Latin-based languages use Noto Sans base font
         await Promise.all([
           import('@fontsource/noto-sans/400.css'),
@@ -122,7 +128,7 @@ export async function loadFontsForLanguage(language: Language): Promise<void> {
  */
 export function getFontFamily(language: Language): string {
   const fontName = getFontName(language);
-  const fallbackFonts = language === 'en' || language === 'es' || language === 'de'
+  const fallbackFonts = isLatinLanguage(language)
     ? ", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif"
     : ", -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
   
