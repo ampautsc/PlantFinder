@@ -83,45 +83,45 @@ export async function loadFontsForLanguage(language: Language): Promise<void> {
   try {
     switch (language) {
       case 'ja':
-        // Japanese
+        // Japanese - load only Japanese subset
         await Promise.all([
-          import('@fontsource/noto-sans-jp/400.css'),
-          import('@fontsource/noto-sans-jp/600.css')
+          import('@fontsource/noto-sans-jp/japanese-400.css'),
+          import('@fontsource/noto-sans-jp/japanese-600.css')
         ]);
         break;
       
       case 'zh':
-        // Chinese (Simplified)
+        // Chinese (Simplified) - load only Chinese subset
         await Promise.all([
-          import('@fontsource/noto-sans-sc/400.css'),
-          import('@fontsource/noto-sans-sc/600.css')
+          import('@fontsource/noto-sans-sc/chinese-simplified-400.css'),
+          import('@fontsource/noto-sans-sc/chinese-simplified-600.css')
         ]);
         break;
       
       case 'hi':
-        // Hindi (Devanagari script)
+        // Hindi (Devanagari script) - load only Devanagari subset
         await Promise.all([
-          import('@fontsource/noto-sans-devanagari/400.css'),
-          import('@fontsource/noto-sans-devanagari/600.css')
+          import('@fontsource/noto-sans-devanagari/devanagari-400.css'),
+          import('@fontsource/noto-sans-devanagari/devanagari-600.css')
         ]);
         break;
       
       case 'en':
       case 'es':
       case 'de':
-        // Latin-based languages use Noto Sans base font
+        // Latin-based languages - load only Latin subset
         await Promise.all([
-          import('@fontsource/noto-sans/400.css'),
-          import('@fontsource/noto-sans/600.css')
+          import('@fontsource/noto-sans/latin-400.css'),
+          import('@fontsource/noto-sans/latin-600.css')
         ]);
         break;
       
       default:
-        // Fallback to base font for any unexpected language
-        console.warn(`Unexpected language: ${language}, falling back to Noto Sans`);
+        // Fallback to latin subset for any unexpected language
+        console.warn(`Unexpected language: ${language}, falling back to Noto Sans latin subset`);
         await Promise.all([
-          import('@fontsource/noto-sans/400.css'),
-          import('@fontsource/noto-sans/600.css')
+          import('@fontsource/noto-sans/latin-400.css'),
+          import('@fontsource/noto-sans/latin-600.css')
         ]);
         break;
     }
