@@ -151,10 +151,6 @@ Successfully tested with multiple plants across different scenarios:
 - **Total image directory size**: ~72 MB (minimal size due to optimization)
 - **Image quality**: All images optimized to ~200KB average, 1200x1200px max
 - **Flowering priority**: v2.0.0+ prioritizes images showing flowers in bloom
-- **Plants with images**: 408+ (403 from Wikipedia, 5+ from iNaturalist)
-- **Plants without images**: 71 remaining
-- **Total image directory size**: ~72 MB (minimal increase despite new images due to optimization)
-- **Estimated completion**: ~2-3 days at 50 images/day (some plants may not have images available)
 
 ## Implementation Details
 

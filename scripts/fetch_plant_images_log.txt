@@ -6700,3 +6700,20 @@
 [2025-11-03 05:40:51] Failed: 4 plants
 [2025-11-03 05:40:51] Skipped: 0 plants
 [2025-11-03 05:40:51] Total plants without images remaining: 4
+[2025-11-03 05:47:25] Batch job started (version 2.0.0)
+[2025-11-03 05:47:25] Running in TEST MODE - no files will be modified
+[2025-11-03 05:47:25] Limit set to 1 images
+[2025-11-03 05:47:25] Scanning for plants without images...
+[2025-11-03 05:47:25] Found 4 plants without images
+[2025-11-03 05:47:25] Processing 1 plants
+[2025-11-03 05:47:25] [1/1] Processing: Hinckley's Golden Columbine
+[2025-11-03 05:47:25]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:47:25]     No image found on Wikipedia
+[2025-11-03 05:47:25]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:47:26]     No image found on iNaturalist
+[2025-11-03 05:47:26]   No image found from any source - skipping
+[2025-11-03 05:47:26] Batch job completed
+[2025-11-03 05:47:26] Successfully processed: 0 plants
+[2025-11-03 05:47:26] Failed: 1 plants
+[2025-11-03 05:47:26] Skipped: 0 plants
+[2025-11-03 05:47:26] Total plants without images remaining: 4

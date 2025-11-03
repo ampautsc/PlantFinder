@@ -168,10 +168,16 @@ def search_wikipedia_image(scientific_name, common_name):
                                             if is_flower_image and not flower_image:
                                                 flower_image = url
                                                 log_message(f"    Found flower image: {img_title}")
+                                                # Break out of inner loop once we find a flower image
+                                                break
                                             elif not fallback_image:
                                                 fallback_image = url
                             except json.JSONDecodeError:
                                 continue
+                        
+                        # If we found a flower image, no need to check more images
+                        if flower_image:
+                            break
                     
                     # Prefer flower images, fall back to any plant image
                     if flower_image:
@@ -216,6 +222,20 @@ def search_wikipedia_image(scientific_name, common_name):
     
     log_message(f"    No image found on Wikipedia")
     return None
+
+
+def get_best_inaturalist_photo_url(photo):
+    """
+    Get the best available URL for an iNaturalist photo.
+    Converts square thumbnails to original or large size.
+    """
+    image_url = photo.get('url', '')
+    if image_url:
+        # Replace 'square' with 'original' or 'large' in the URL
+        image_url = image_url.replace('/square.', '/original.')
+        if '/original.' not in image_url:
+            image_url = image_url.replace('/square.', '/large.')
+    return image_url
 
 
 def search_inaturalist_image(scientific_name, common_name):
@@ -277,14 +297,9 @@ def search_inaturalist_image(scientific_name, common_name):
                             photos = obs.get('photos', [])
                             if photos:
                                 photo = photos[0]
-                                image_url = photo.get('url', '')
+                                image_url = get_best_inaturalist_photo_url(photo)
                                 
                                 if image_url:
-                                    # Replace 'square' with 'original' or 'large' in the URL
-                                    image_url = image_url.replace('/square.', '/original.')
-                                    if '/original.' not in image_url:
-                                        image_url = image_url.replace('/square.', '/large.')
-                                    
                                     log_message(f"    Found flowering image on iNaturalist: {image_url}")
                                     return ('inaturalist', image_url)
                 except json.JSONDecodeError:
@@ -310,17 +325,10 @@ def search_inaturalist_image(scientific_name, common_name):
             for obs in observations:
                 photos = obs.get('photos', [])
                 if photos:
-                    # Get the largest available photo (original or large)
                     photo = photos[0]
-                    # iNaturalist provides multiple sizes, prefer 'original' or 'large'
-                    image_url = photo.get('url', '')
+                    image_url = get_best_inaturalist_photo_url(photo)
                     
                     if image_url:
-                        # Replace 'square' with 'original' or 'large' in the URL
-                        image_url = image_url.replace('/square.', '/original.')
-                        if '/original.' not in image_url:
-                            image_url = image_url.replace('/square.', '/large.')
-                        
                         log_message(f"    Found image on iNaturalist: {image_url}")
                         return ('inaturalist', image_url)
             
