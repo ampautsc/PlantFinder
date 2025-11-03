@@ -17,6 +17,7 @@ import ThemeToggle from './components/ThemeToggle';
 import LanguageSelector from './components/LanguageSelector';
 import { useTheme } from './contexts/ThemeContext';
 import { detectLocationWithCache } from './utils/ipGeolocation';
+import { getFiltersFromUrl, updateUrlWithFilters } from './utils/urlFilters';
 
 const plantApi = new MockPlantApi();
 const CURRENT_USER_ID = 'current';
@@ -27,7 +28,10 @@ function App() {
   const [plants, setPlants] = useState<Plant[]>([]);
   const [allPlants, setAllPlants] = useState<Plant[]>([]);
   const [loading, setLoading] = useState(true);
-  const [filters, setFilters] = useState<PlantFilters>({});
+  const [filters, setFilters] = useState<PlantFilters>(() => {
+    // Initialize filters from URL on first load
+    return getFiltersFromUrl();
+  });
   const [showFeedbackModal, setShowFeedbackModal] = useState(false);
   const [showAddImageModal, setShowAddImageModal] = useState(false);
   const [selectedPlant, setSelectedPlant] = useState<Plant | null>(null);
@@ -43,6 +47,7 @@ function App() {
   const [gardenPlants, setGardenPlants] = useState<Set<string>>(new Set());
   const resultsContainerRef = useRef<HTMLDivElement>(null);
   const hasDetectedLocation = useRef(false);
+  const hasLoadedFromUrl = useRef(false);
 
   // Load garden data
   const loadGardenData = async () => {
@@ -68,6 +73,16 @@ function App() {
     
     // Mark as detected immediately to prevent race conditions in Strict Mode
     hasDetectedLocation.current = true;
+    
+    // Check if filters were loaded from URL
+    const urlFilters = getFiltersFromUrl();
+    const hasUrlFilters = Object.keys(urlFilters).length > 0;
+    
+    // Only auto-detect location if there are no URL filters
+    if (hasUrlFilters) {
+      hasLoadedFromUrl.current = true;
+      return;
+    }
     
     detectLocationWithCache().then(location => {
       if (location) {
@@ -126,6 +141,11 @@ function App() {
       setPlants(results);
       setLoading(false);
     });
+  }, [filters]);
+
+  // Sync filters to URL whenever they change
+  useEffect(() => {
+    updateUrlWithFilters(filters);
   }, [filters]);
 
   // Scroll results to top when plants change
