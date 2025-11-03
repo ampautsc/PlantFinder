@@ -6666,3 +6666,37 @@
 [2025-11-03 05:38:50] Failed: 3 plants
 [2025-11-03 05:38:50] Skipped: 0 plants
 [2025-11-03 05:38:50] Total plants without images remaining: 4
+[2025-11-03 05:40:48] Batch job started (version 2.0.0)
+[2025-11-03 05:40:48] Limit set to 4 images
+[2025-11-03 05:40:48] Scanning for plants without images...
+[2025-11-03 05:40:48] Found 4 plants without images
+[2025-11-03 05:40:48] Processing 4 plants
+[2025-11-03 05:40:48] [1/4] Processing: Hinckley's Golden Columbine
+[2025-11-03 05:40:48]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:40:49]     No image found on Wikipedia
+[2025-11-03 05:40:49]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:40:49]     No image found on iNaturalist
+[2025-11-03 05:40:49]   No image found from any source - skipping
+[2025-11-03 05:40:49] [2/4] Processing: American Cranberry Bush
+[2025-11-03 05:40:49]   Searching Wikipedia for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-11-03 05:40:49]     No image found on Wikipedia
+[2025-11-03 05:40:49]   Searching iNaturalist for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-11-03 05:40:49]     No image found on iNaturalist
+[2025-11-03 05:40:49]   No image found from any source - skipping
+[2025-11-03 05:40:49] [3/4] Processing: Blunt-leaf Rabbit-tobacco
+[2025-11-03 05:40:49]   Searching Wikipedia for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-11-03 05:40:50]     No image found on Wikipedia
+[2025-11-03 05:40:50]   Searching iNaturalist for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-11-03 05:40:50]     No image found on iNaturalist
+[2025-11-03 05:40:50]   No image found from any source - skipping
+[2025-11-03 05:40:50] [4/4] Processing: Smallflower False Foxglove
+[2025-11-03 05:40:50]   Searching Wikipedia for: Agalinis paupercula var. borealis (Smallflower False Foxglove)
+[2025-11-03 05:40:50]     No image found on Wikipedia
+[2025-11-03 05:40:50]   Searching iNaturalist for: Agalinis paupercula var. borealis (Smallflower False Foxglove)
+[2025-11-03 05:40:51]     No image found on iNaturalist
+[2025-11-03 05:40:51]   No image found from any source - skipping
+[2025-11-03 05:40:51] Batch job completed
+[2025-11-03 05:40:51] Successfully processed: 0 plants
+[2025-11-03 05:40:51] Failed: 4 plants
+[2025-11-03 05:40:51] Skipped: 0 plants
+[2025-11-03 05:40:51] Total plants without images remaining: 4
