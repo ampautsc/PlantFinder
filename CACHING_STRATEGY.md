@@ -43,6 +43,7 @@ The caching configuration is defined in `staticwebapp.config.json` which is:
   - Plant images use timestamp-based versioning (e.g., `asclepias-syriaca-2025-10-23T01-26-04-798Z.jpg`)
   - Each image update gets a new filename with updated timestamp
   - NOT hashed by Vite, but effectively versioned through timestamps
+  - **Note**: Increased from 24 hours to 1 year. Safe because timestamps ensure new versions get unique filenames
 
 **Rarely Changed Assets**
 - **Favicon** (`/favicon.*`): `Cache-Control: public, max-age=31536000, immutable`
@@ -53,6 +54,7 @@ The caching configuration is defined in `staticwebapp.config.json` which is:
   - Plant data files are not content-hashed (e.g., `cornus-florida.json`)
   - May be updated periodically with new plant information
   - 24-hour cache balances performance with freshness
+  - **Note**: Increased from 1 hour to 24 hours for better performance. If data updates need to be reflected faster, consider implementing versioned data paths (e.g., `/data/v1/`) or reducing to `max-age=3600`
 
 ## Security Headers
 - **X-Content-Type-Options**: `nosniff`
