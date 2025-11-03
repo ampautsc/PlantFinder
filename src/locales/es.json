@@ -13,6 +13,7 @@
   },
   "filters": {
     "clearAll": "Borrar Todo",
+    "not": "No",
     "wildlife": "Fauna",
     "hostPlantTo": "Planta Anfitriona Para",
     "shelterFor": "Refugio Para",
