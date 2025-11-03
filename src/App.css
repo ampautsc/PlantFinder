@@ -654,15 +654,6 @@ body {
 
 /* Mobile - Filter panel behavior */
 @media (max-width: 767px) {
-  /* On mobile, when not collapsed, filter panel should overlay content */
-  .filters-panel-new:not(.collapsed) {
-    position: fixed;
-    left: 0;
-    top: 100px; /* Below header */
-    height: calc(100vh - 100px);
-    z-index: 900;
-  }
-
   /* Toggle button positioning for mobile */
   .filter-panel-toggle {
     top: 120px; /* Position below header */
