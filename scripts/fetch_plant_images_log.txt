@@ -6637,3 +6637,32 @@
 [2025-10-23 19:46:43] Failed: 4 plants
 [2025-10-23 19:46:43] Skipped: 0 plants
 [2025-10-23 19:46:43] Total plants without images remaining: 4
+[2025-11-03 05:38:48] Batch job started (version 2.0.0)
+[2025-11-03 05:38:48] Running in TEST MODE - no files will be modified
+[2025-11-03 05:38:48] Limit set to 3 images
+[2025-11-03 05:38:48] Scanning for plants without images...
+[2025-11-03 05:38:48] Found 4 plants without images
+[2025-11-03 05:38:48] Processing 3 plants
+[2025-11-03 05:38:48] [1/3] Processing: Hinckley's Golden Columbine
+[2025-11-03 05:38:48]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:38:48]     No image found on Wikipedia
+[2025-11-03 05:38:48]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:38:49]     No image found on iNaturalist
+[2025-11-03 05:38:49]   No image found from any source - skipping
+[2025-11-03 05:38:49] [2/3] Processing: American Cranberry Bush
+[2025-11-03 05:38:49]   Searching Wikipedia for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-11-03 05:38:49]     No image found on Wikipedia
+[2025-11-03 05:38:49]   Searching iNaturalist for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-11-03 05:38:49]     No image found on iNaturalist
+[2025-11-03 05:38:49]   No image found from any source - skipping
+[2025-11-03 05:38:49] [3/3] Processing: Blunt-leaf Rabbit-tobacco
+[2025-11-03 05:38:49]   Searching Wikipedia for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-11-03 05:38:50]     No image found on Wikipedia
+[2025-11-03 05:38:50]   Searching iNaturalist for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-11-03 05:38:50]     No image found on iNaturalist
+[2025-11-03 05:38:50]   No image found from any source - skipping
+[2025-11-03 05:38:50] Batch job completed
+[2025-11-03 05:38:50] Successfully processed: 0 plants
+[2025-11-03 05:38:50] Failed: 3 plants
+[2025-11-03 05:38:50] Skipped: 0 plants
+[2025-11-03 05:38:50] Total plants without images remaining: 4
