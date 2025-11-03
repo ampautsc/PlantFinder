@@ -44,6 +44,8 @@
     "search": "Search",
     "searching": "Searching...",
     "clear": "Clear",
+    "showFilters": "Show Filters",
+    "hideFilters": "Hide Filters",
     "fullsun": "Full Sun",
     "partialsun": "Partial Sun",
     "partialshade": "Partial Shade",

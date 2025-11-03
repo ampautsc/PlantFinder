@@ -33,6 +33,7 @@ function FiltersPanel({
   onSearchChange,
 }: FiltersPanelProps) {
   const { t } = useTranslation();
+  const [isCollapsed, setIsCollapsed] = useState(false);
   const [expandedCategory, setExpandedCategory] = useState<FilterCategory | null>(null);
   const [expansionPosition, setExpansionPosition] = useState<{ top: number; left: number }>({ top: 0, left: 180 });
   const buttonRefs = useRef<{ [key: string]: HTMLButtonElement | null }>({});
@@ -361,7 +362,17 @@ function FiltersPanel({
 
   return (
     <>
-      <div ref={filtersPanelRef} className={`filters-panel-new ${isVisible ? '' : 'hidden'} ${expandedCategory ? 'expanded' : ''}`}>
+      {/* Collapse/Expand Toggle Button */}
+      <button 
+        className={`filter-panel-toggle ${isCollapsed ? 'collapsed' : ''}`}
+        onClick={() => setIsCollapsed(!isCollapsed)}
+        title={isCollapsed ? t('filters.showFilters') : t('filters.hideFilters')}
+        aria-label={isCollapsed ? t('filters.showFilters') : t('filters.hideFilters')}
+      >
+        <span className="toggle-icon">{isCollapsed ? '▶' : '◀'}</span>
+      </button>
+
+      <div ref={filtersPanelRef} className={`filters-panel-new ${isVisible ? '' : 'hidden'} ${expandedCategory ? 'expanded' : ''} ${isCollapsed ? 'collapsed' : ''}`}>
         <div className="filter-buttons">
           <div className="filter-search-container">
             <input
