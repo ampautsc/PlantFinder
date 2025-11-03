@@ -121,19 +121,12 @@ export async function loadFontsForLanguage(language: Language): Promise<void> {
  * Get the font family for a specific language
  */
 export function getFontFamily(language: Language): string {
-  switch (language) {
-    case 'ja':
-      return "'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
-    case 'zh':
-      return "'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
-    case 'hi':
-      return "'Noto Sans Devanagari', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
-    case 'en':
-    case 'es':
-    case 'de':
-    default:
-      return "'Noto Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif";
-  }
+  const fontName = getFontName(language);
+  const fallbackFonts = language === 'en' || language === 'es' || language === 'de'
+    ? ", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif"
+    : ", -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
+  
+  return `'${fontName}'${fallbackFonts}`;
 }
 
 /**
