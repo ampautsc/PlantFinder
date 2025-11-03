@@ -59,7 +59,9 @@ async function waitForFontsToLoad(fontName: string): Promise<void> {
       )
     );
     
-    // Additional check to ensure fonts are ready
+    // Ensure browser has processed all font faces
+    // This is necessary as document.fonts.load() only triggers loading,
+    // but fonts may not be immediately available for rendering
     await document.fonts.ready;
   } catch (error) {
     console.warn(`Font loading check failed for ${fontName}:`, error);
@@ -104,8 +106,19 @@ export async function loadFontsForLanguage(language: Language): Promise<void> {
         ]);
         break;
       
-      default:
+      case 'en':
+      case 'es':
+      case 'de':
         // Latin-based languages use Noto Sans base font
+        await Promise.all([
+          import('@fontsource/noto-sans/400.css'),
+          import('@fontsource/noto-sans/600.css')
+        ]);
+        break;
+      
+      default:
+        // Fallback to base font for any unexpected language
+        console.warn(`Unexpected language: ${language}, falling back to Noto Sans`);
         await Promise.all([
           import('@fontsource/noto-sans/400.css'),
           import('@fontsource/noto-sans/600.css')
