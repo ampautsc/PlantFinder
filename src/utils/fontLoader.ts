@@ -10,6 +10,50 @@ export type Language = 'en' | 'es' | 'de' | 'ja' | 'zh' | 'hi';
 const loadedFonts = new Set<string>();
 
 /**
+ * Get the font name for a specific language
+ */
+function getFontName(language: Language): string {
+  switch (language) {
+    case 'ja':
+      return 'Noto Sans JP';
+    case 'zh':
+      return 'Noto Sans SC';
+    case 'hi':
+      return 'Noto Sans Devanagari';
+    case 'en':
+    case 'es':
+    case 'de':
+    default:
+      return 'Noto Sans';
+  }
+}
+
+/**
+ * Wait for fonts to be loaded using the Font Loading API
+ */
+async function waitForFontsToLoad(fontName: string): Promise<void> {
+  if (!document.fonts) {
+    // Font Loading API not supported, wait a bit for fonts to load
+    await new Promise(resolve => setTimeout(resolve, 100));
+    return;
+  }
+
+  try {
+    // Wait for both 400 and 600 weight fonts to load
+    await Promise.all([
+      document.fonts.load(`400 16px "${fontName}"`),
+      document.fonts.load(`600 16px "${fontName}"`)
+    ]);
+    
+    // Additional check to ensure fonts are ready
+    await document.fonts.ready;
+  } catch (error) {
+    console.warn(`Font loading check failed for ${fontName}:`, error);
+    // Continue anyway - fonts might still load
+  }
+}
+
+/**
  * Load fonts for a specific language
  */
 export async function loadFontsForLanguage(language: Language): Promise<void> {
@@ -56,6 +100,10 @@ export async function loadFontsForLanguage(language: Language): Promise<void> {
         ]);
         break;
     }
+    
+    // Wait for the fonts to actually be loaded before marking as complete
+    const fontName = getFontName(language);
+    await waitForFontsToLoad(fontName);
     
     loadedFonts.add(fontKey);
   } catch (error) {
