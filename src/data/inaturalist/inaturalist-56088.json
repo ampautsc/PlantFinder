@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-02T04:09:48.017915",
+  "scraped_at": "2025-11-09T04:08:22.290021",
   "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
@@ -21,7 +21,6 @@
       "nativeRange": [
         "Alabama",
         "Arkansas",
-        "Connecticut",
         "Georgia",
         "Illinois",
         "Maryland",
@@ -47,7 +46,7 @@
     "metadata": {
       "source": "inaturalist",
       "taxon_id": 56088,
-      "observations_count": 111586,
+      "observations_count": 111914,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }
