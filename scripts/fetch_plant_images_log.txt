@@ -6637,3 +6637,83 @@
 [2025-10-23 19:46:43] Failed: 4 plants
 [2025-10-23 19:46:43] Skipped: 0 plants
 [2025-10-23 19:46:43] Total plants without images remaining: 4
+[2025-11-03 05:38:48] Batch job started (version 2.0.0)
+[2025-11-03 05:38:48] Running in TEST MODE - no files will be modified
+[2025-11-03 05:38:48] Limit set to 3 images
+[2025-11-03 05:38:48] Scanning for plants without images...
+[2025-11-03 05:38:48] Found 4 plants without images
+[2025-11-03 05:38:48] Processing 3 plants
+[2025-11-03 05:38:48] [1/3] Processing: Hinckley's Golden Columbine
+[2025-11-03 05:38:48]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:38:48]     No image found on Wikipedia
+[2025-11-03 05:38:48]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:38:49]     No image found on iNaturalist
+[2025-11-03 05:38:49]   No image found from any source - skipping
+[2025-11-03 05:38:49] [2/3] Processing: American Cranberry Bush
+[2025-11-03 05:38:49]   Searching Wikipedia for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-11-03 05:38:49]     No image found on Wikipedia
+[2025-11-03 05:38:49]   Searching iNaturalist for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-11-03 05:38:49]     No image found on iNaturalist
+[2025-11-03 05:38:49]   No image found from any source - skipping
+[2025-11-03 05:38:49] [3/3] Processing: Blunt-leaf Rabbit-tobacco
+[2025-11-03 05:38:49]   Searching Wikipedia for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-11-03 05:38:50]     No image found on Wikipedia
+[2025-11-03 05:38:50]   Searching iNaturalist for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-11-03 05:38:50]     No image found on iNaturalist
+[2025-11-03 05:38:50]   No image found from any source - skipping
+[2025-11-03 05:38:50] Batch job completed
+[2025-11-03 05:38:50] Successfully processed: 0 plants
+[2025-11-03 05:38:50] Failed: 3 plants
+[2025-11-03 05:38:50] Skipped: 0 plants
+[2025-11-03 05:38:50] Total plants without images remaining: 4
+[2025-11-03 05:40:48] Batch job started (version 2.0.0)
+[2025-11-03 05:40:48] Limit set to 4 images
+[2025-11-03 05:40:48] Scanning for plants without images...
+[2025-11-03 05:40:48] Found 4 plants without images
+[2025-11-03 05:40:48] Processing 4 plants
+[2025-11-03 05:40:48] [1/4] Processing: Hinckley's Golden Columbine
+[2025-11-03 05:40:48]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:40:49]     No image found on Wikipedia
+[2025-11-03 05:40:49]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:40:49]     No image found on iNaturalist
+[2025-11-03 05:40:49]   No image found from any source - skipping
+[2025-11-03 05:40:49] [2/4] Processing: American Cranberry Bush
+[2025-11-03 05:40:49]   Searching Wikipedia for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-11-03 05:40:49]     No image found on Wikipedia
+[2025-11-03 05:40:49]   Searching iNaturalist for: Viburnum opulus var. americanum (American Cranberry Bush)
+[2025-11-03 05:40:49]     No image found on iNaturalist
+[2025-11-03 05:40:49]   No image found from any source - skipping
+[2025-11-03 05:40:49] [3/4] Processing: Blunt-leaf Rabbit-tobacco
+[2025-11-03 05:40:49]   Searching Wikipedia for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-11-03 05:40:50]     No image found on Wikipedia
+[2025-11-03 05:40:50]   Searching iNaturalist for: Pseudognaphalium obtusifolium ssp. obtusifolium (Blunt-leaf Rabbit-tobacco)
+[2025-11-03 05:40:50]     No image found on iNaturalist
+[2025-11-03 05:40:50]   No image found from any source - skipping
+[2025-11-03 05:40:50] [4/4] Processing: Smallflower False Foxglove
+[2025-11-03 05:40:50]   Searching Wikipedia for: Agalinis paupercula var. borealis (Smallflower False Foxglove)
+[2025-11-03 05:40:50]     No image found on Wikipedia
+[2025-11-03 05:40:50]   Searching iNaturalist for: Agalinis paupercula var. borealis (Smallflower False Foxglove)
+[2025-11-03 05:40:51]     No image found on iNaturalist
+[2025-11-03 05:40:51]   No image found from any source - skipping
+[2025-11-03 05:40:51] Batch job completed
+[2025-11-03 05:40:51] Successfully processed: 0 plants
+[2025-11-03 05:40:51] Failed: 4 plants
+[2025-11-03 05:40:51] Skipped: 0 plants
+[2025-11-03 05:40:51] Total plants without images remaining: 4
+[2025-11-03 05:47:25] Batch job started (version 2.0.0)
+[2025-11-03 05:47:25] Running in TEST MODE - no files will be modified
+[2025-11-03 05:47:25] Limit set to 1 images
+[2025-11-03 05:47:25] Scanning for plants without images...
+[2025-11-03 05:47:25] Found 4 plants without images
+[2025-11-03 05:47:25] Processing 1 plants
+[2025-11-03 05:47:25] [1/1] Processing: Hinckley's Golden Columbine
+[2025-11-03 05:47:25]   Searching Wikipedia for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:47:25]     No image found on Wikipedia
+[2025-11-03 05:47:25]   Searching iNaturalist for: Aquilegia chrysantha var. hinckleyana (Hinckley's Golden Columbine)
+[2025-11-03 05:47:26]     No image found on iNaturalist
+[2025-11-03 05:47:26]   No image found from any source - skipping
+[2025-11-03 05:47:26] Batch job completed
+[2025-11-03 05:47:26] Successfully processed: 0 plants
+[2025-11-03 05:47:26] Failed: 1 plants
+[2025-11-03 05:47:26] Skipped: 0 plants
+[2025-11-03 05:47:26] Total plants without images remaining: 4

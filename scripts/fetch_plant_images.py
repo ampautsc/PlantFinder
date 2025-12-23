@@ -1,21 +1,23 @@
 #!/usr/bin/env python3
 """
-Batch job to fetch plant images from Wikipedia and iNaturalist.
+Batch job to fetch plant images from Wikipedia and iNaturalist, prioritizing flowering images.
 This script:
-1. Identifies plants in src/data/Plants that don't have images
-2. Searches Wikipedia for images (prioritizing Commons)
-3. Falls back to iNaturalist if Wikipedia doesn't have images
+1. Identifies plants in public/data/plants that don't have images (or all plants if --force)
+2. Searches Wikipedia for images (prioritizing flower/bloom images)
+3. Falls back to iNaturalist with flowering phenology filter if Wikipedia doesn't have images
 4. Optimizes/compresses images to reduce file size
 5. Downloads images to public/images/plants/{plant-id}/
 6. Updates the plant JSON files with imageUrl
 
 The script can be run nightly to gradually build up the image library.
-If a plant already has an image, it will be skipped.
+If a plant already has an image, it will be skipped (unless --force is used).
 
 Usage:
-    python fetch_plant_images.py          # Normal mode - fetch all missing images
-    python fetch_plant_images.py --limit 10  # Fetch only 10 images
-    python fetch_plant_images.py --test   # Test mode - dry run without downloading
+    python fetch_plant_images.py               # Normal mode - fetch missing images
+    python fetch_plant_images.py --limit 10    # Fetch only 10 images
+    python fetch_plant_images.py --test        # Test mode - dry run without downloading
+    python fetch_plant_images.py --force       # Re-fetch images for ALL plants (useful for getting better flowering images)
+    python fetch_plant_images.py --force --limit 5  # Re-fetch 5 plants with better images
 """
 
 import sys
@@ -53,6 +55,7 @@ JPEG_QUALITY = 85  # JPEG quality (1-100)
 
 # Parse command line arguments
 TEST_MODE = '--test' in sys.argv
+FORCE_REFETCH = '--force' in sys.argv
 LIMIT = None
 for i, arg in enumerate(sys.argv):
     if arg == '--limit' and i + 1 < len(sys.argv):
@@ -95,13 +98,14 @@ def make_request(url, headers=None):
 
 def search_wikipedia_image(scientific_name, common_name):
     """
-    Search for a plant image on Wikipedia/Commons.
+    Search for a plant image on Wikipedia/Commons, prioritizing images showing flowers.
     Returns the URL of the best available image, or None if not found.
     
     Strategy:
     1. Try Wikipedia API to get the main image from the article
-    2. Try Wikimedia Commons API
-    3. Prefer high-quality images
+    2. Try to find images with "flower" or "bloom" in the title
+    3. Fallback to any plant image
+    4. Prefer high-quality images
     """
     log_message(f"  Searching Wikipedia for: {scientific_name} ({common_name})")
     
@@ -131,7 +135,56 @@ def search_wikipedia_image(scientific_name, common_name):
                     # Page not found
                     continue
                 
-                # Try to get the main page image (thumbnail)
+                # First, try to find images with "flower" or "bloom" in the title
+                images = page_data.get('images', [])
+                flower_image = None
+                fallback_image = None
+                
+                if images:
+                    log_message(f"    Found {len(images)} images on page, looking for flowering images")
+                    # Look for images that might show flowers
+                    for img in images:
+                        img_title = img.get('title', '').lower()
+                        # Skip icons, logos, and common non-photo images
+                        if any(skip in img_title for skip in ['icon', 'logo', 'symbol', 'map', 'range', 'distribution']):
+                            continue
+                        
+                        # Prioritize images with flower-related keywords
+                        is_flower_image = any(keyword in img_title for keyword in ['flower', 'bloom', 'blossom', 'inflorescence', 'floral'])
+                        
+                        # Get image info
+                        img_url = f"https://en.wikipedia.org/w/api.php?action=query&titles={quote(img.get('title', ''))}&prop=imageinfo&iiprop=url&format=json"
+                        img_content, img_status = make_request(img_url)
+                        
+                        if img_content:
+                            try:
+                                img_data = json.loads(img_content)
+                                img_pages = img_data.get('query', {}).get('pages', {})
+                                for _, img_page in img_pages.items():
+                                    imageinfo = img_page.get('imageinfo', [])
+                                    if imageinfo and len(imageinfo) > 0:
+                                        url = imageinfo[0].get('url')
+                                        if url:
+                                            if is_flower_image and not flower_image:
+                                                flower_image = url
+                                                log_message(f"    Found flower image: {img_title}")
+                                                # Break out of inner loop once we find a flower image
+                                                break
+                                            elif not fallback_image:
+                                                fallback_image = url
+                            except json.JSONDecodeError:
+                                continue
+                        
+                        # If we found a flower image, no need to check more images
+                        if flower_image:
+                            break
+                    
+                    # Prefer flower images, fall back to any plant image
+                    if flower_image:
+                        log_message(f"    Using flower image from Wikipedia: {flower_image}")
+                        return ('wikipedia', flower_image)
+                    
+                # If no flower images in the list, try the main page image (thumbnail)
                 thumbnail = page_data.get('thumbnail', {}).get('source')
                 if thumbnail:
                     # Get the full-size image by modifying the URL
@@ -151,40 +204,17 @@ def search_wikipedia_image(scientific_name, common_name):
                             if len(path_parts) == 2:
                                 # path_parts[0] is like: b/b3/Cornus_florida_Arkansas.jpg
                                 full_image = f"{base}/{path_parts[0]}"
-                                log_message(f"    Found image on Wikipedia: {full_image}")
+                                log_message(f"    Found main page image on Wikipedia: {full_image}")
                                 return ('wikipedia', full_image)
                     
                     # If we couldn't parse it as a thumb URL, just use it as-is
-                    log_message(f"    Found image on Wikipedia: {thumbnail}")
+                    log_message(f"    Found main page image on Wikipedia: {thumbnail}")
                     return ('wikipedia', thumbnail)
                 
-                # If no thumbnail, try getting images from the page
-                images = page_data.get('images', [])
-                if images:
-                    # Look for the first image that looks like a plant photo
-                    for img in images:
-                        img_title = img.get('title', '')
-                        # Skip icons, logos, and common non-photo images
-                        if any(skip in img_title.lower() for skip in ['icon', 'logo', 'symbol', 'map', 'range', 'distribution']):
-                            continue
-                        
-                        # Get image info
-                        img_url = f"https://en.wikipedia.org/w/api.php?action=query&titles={quote(img_title)}&prop=imageinfo&iiprop=url&format=json"
-                        img_content, img_status = make_request(img_url)
-                        
-                        if img_content:
-                            try:
-                                img_data = json.loads(img_content)
-                                img_pages = img_data.get('query', {}).get('pages', {})
-                                for _, img_page in img_pages.items():
-                                    imageinfo = img_page.get('imageinfo', [])
-                                    if imageinfo and len(imageinfo) > 0:
-                                        url = imageinfo[0].get('url')
-                                        if url:
-                                            log_message(f"    Found image on Wikipedia: {url}")
-                                            return ('wikipedia', url)
-                            except json.JSONDecodeError:
-                                continue
+                # Use fallback image if we have one
+                if fallback_image:
+                    log_message(f"    Using fallback image from Wikipedia: {fallback_image}")
+                    return ('wikipedia', fallback_image)
         
         except json.JSONDecodeError:
             log_message(f"    Failed to parse Wikipedia API response")
@@ -194,15 +224,30 @@ def search_wikipedia_image(scientific_name, common_name):
     return None
 
 
+def get_best_inaturalist_photo_url(photo):
+    """
+    Get the best available URL for an iNaturalist photo.
+    Converts square thumbnails to original or large size.
+    """
+    image_url = photo.get('url', '')
+    if image_url:
+        # Replace 'square' with 'original' or 'large' in the URL
+        image_url = image_url.replace('/square.', '/original.')
+        if '/original.' not in image_url:
+            image_url = image_url.replace('/square.', '/large.')
+    return image_url
+
+
 def search_inaturalist_image(scientific_name, common_name):
     """
-    Search for a plant image on iNaturalist.
+    Search for a plant image on iNaturalist, prioritizing images showing flowers in bloom.
     Returns the URL of the best available image, or None if not found.
     
     Strategy:
     1. Search iNaturalist API for the taxon
-    2. Get observations with photos
-    3. Select high-quality photo from a research-grade observation
+    2. First try to get observations with flowering phenology (term_id=12 means "Flowering")
+    3. Fallback to any research-grade observations with photos
+    4. Select high-quality photo from a research-grade observation
     """
     log_message(f"  Searching iNaturalist for: {scientific_name} ({common_name})")
     
@@ -235,7 +280,33 @@ def search_inaturalist_image(scientific_name, common_name):
             
             log_message(f"    Found taxon ID: {taxon_id}")
             
-            # Search for research-grade observations with photos
+            # First, try to search for observations with flowering phenology (term_id=12 for "Flowering")
+            # This will prioritize images showing the plant in bloom
+            flowering_url = f"https://api.inaturalist.org/v1/observations?taxon_id={taxon_id}&quality_grade=research&photos=true&per_page=5&order=desc&order_by=votes&term_id=12&term_value_id=13"
+            
+            flowering_content, flowering_status = make_request(flowering_url)
+            if flowering_content:
+                try:
+                    flowering_data = json.loads(flowering_content)
+                    flowering_obs = flowering_data.get('results', [])
+                    
+                    if flowering_obs:
+                        log_message(f"    Found {len(flowering_obs)} flowering observations")
+                        # Get the best photo from flowering observations
+                        for obs in flowering_obs:
+                            photos = obs.get('photos', [])
+                            if photos:
+                                photo = photos[0]
+                                image_url = get_best_inaturalist_photo_url(photo)
+                                
+                                if image_url:
+                                    log_message(f"    Found flowering image on iNaturalist: {image_url}")
+                                    return ('inaturalist', image_url)
+                except json.JSONDecodeError:
+                    pass
+            
+            # If no flowering observations found, fall back to general search
+            log_message(f"    No flowering observations found, trying general search")
             obs_url = f"https://api.inaturalist.org/v1/observations?taxon_id={taxon_id}&quality_grade=research&photos=true&per_page=5&order=desc&order_by=votes"
             
             obs_content, obs_status = make_request(obs_url)
@@ -254,17 +325,10 @@ def search_inaturalist_image(scientific_name, common_name):
             for obs in observations:
                 photos = obs.get('photos', [])
                 if photos:
-                    # Get the largest available photo (original or large)
                     photo = photos[0]
-                    # iNaturalist provides multiple sizes, prefer 'original' or 'large'
-                    image_url = photo.get('url', '')
+                    image_url = get_best_inaturalist_photo_url(photo)
                     
                     if image_url:
-                        # Replace 'square' with 'original' or 'large' in the URL
-                        image_url = image_url.replace('/square.', '/original.')
-                        if '/original.' not in image_url:
-                            image_url = image_url.replace('/square.', '/large.')
-                        
                         log_message(f"    Found image on iNaturalist: {image_url}")
                         return ('inaturalist', image_url)
             
@@ -418,6 +482,8 @@ def get_plants_without_images():
     """
     Scan the Plants directory and identify plants without images.
     Returns a list of (json_path, plant_data) tuples.
+    
+    If FORCE_REFETCH is True, returns ALL plants (to allow re-fetching better images).
     """
     plants_without_images = []
     
@@ -431,6 +497,11 @@ def get_plants_without_images():
         try:
             with open(json_path, 'r', encoding='utf-8') as f:
                 plant_data = json.load(f)
+            
+            # If force refetch mode, include all plants
+            if FORCE_REFETCH:
+                plants_without_images.append((json_path, plant_data))
+                continue
             
             # Check if plant already has an image URL and if the file exists
             has_image_url = 'imageUrl' in plant_data and plant_data['imageUrl']
@@ -459,6 +530,8 @@ def main():
         print("Plant Image Fetcher - Batch Job (TEST MODE)")
     else:
         print("Plant Image Fetcher - Batch Job")
+    if FORCE_REFETCH:
+        print("FORCE REFETCH MODE - Will re-fetch images for all plants")
     print("=" * 70)
     print(f"Started at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     if LIMIT:
@@ -468,13 +541,21 @@ def main():
     log_message(f"Batch job started (version {SCRIPT_VERSION})")
     if TEST_MODE:
         log_message("Running in TEST MODE - no files will be modified")
+    if FORCE_REFETCH:
+        log_message("Running in FORCE REFETCH mode - will re-fetch all plant images")
     if LIMIT:
         log_message(f"Limit set to {LIMIT} images")
     
-    # Get plants without images
-    log_message("Scanning for plants without images...")
+    # Get plants without images (or all plants if force mode)
+    if FORCE_REFETCH:
+        log_message("Scanning for all plants to re-fetch images...")
+    else:
+        log_message("Scanning for plants without images...")
     plants_without_images = get_plants_without_images()
-    log_message(f"Found {len(plants_without_images)} plants without images")
+    if FORCE_REFETCH:
+        log_message(f"Found {len(plants_without_images)} plants total for re-fetching")
+    else:
+        log_message(f"Found {len(plants_without_images)} plants without images")
     
     if not plants_without_images:
         log_message("No plants need images - exiting")
@@ -501,12 +582,14 @@ def main():
             skipped_count += 1
             continue
         
-        # Check if image already exists (belt and suspenders check)
-        plant_image_dir = os.path.join(IMAGES_BASE_DIR, plant_id)
-        if os.path.exists(plant_image_dir) and os.listdir(plant_image_dir):
-            log_message(f"  Image directory already exists and is not empty - skipping")
-            skipped_count += 1
-            continue
+        # In force mode, skip the directory check
+        if not FORCE_REFETCH:
+            # Check if image already exists (belt and suspenders check)
+            plant_image_dir = os.path.join(IMAGES_BASE_DIR, plant_id)
+            if os.path.exists(plant_image_dir) and os.listdir(plant_image_dir):
+                log_message(f"  Image directory already exists and is not empty - skipping")
+                skipped_count += 1
+                continue
         
         # Try to find image from multiple sources
         image_result = None
