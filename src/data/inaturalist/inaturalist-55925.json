@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-01-25T04:10:23.671091",
+  "scraped_at": "2026-02-01T04:28:47.969125",
   "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
@@ -23,6 +23,7 @@
         "Maine",
         "Massachusetts",
         "New Hampshire",
+        "New Jersey",
         "New York",
         "Ohio",
         "Rhode Island",
@@ -47,7 +48,7 @@
     "metadata": {
       "source": "inaturalist",
       "taxon_id": 55925,
-      "observations_count": 128899,
+      "observations_count": 129156,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }
