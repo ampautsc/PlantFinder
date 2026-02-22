@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-15T03:53:33.215864",
+  "scraped_at": "2026-02-22T03:50:20.272262",
   "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
@@ -23,6 +23,7 @@
         "California",
         "Maryland",
         "Minnesota",
+        "Oregon",
         "Washington"
       ],
       "hardinessZones": []
@@ -42,7 +43,7 @@
     "metadata": {
       "source": "inaturalist",
       "taxon_id": 52821,
-      "observations_count": 291541,
+      "observations_count": 291870,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-15T04:44:56.845562",
+  "scraped_at": "2026-02-22T04:48:08.329413",
   "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
@@ -30,7 +30,8 @@
         "North Carolina",
         "Ohio",
         "Texas",
-        "Virginia"
+        "Virginia",
+        "Wisconsin"
       ],
       "hardinessZones": []
     },
@@ -49,7 +50,7 @@
     "metadata": {
       "source": "inaturalist",
       "taxon_id": 49399,
-      "observations_count": 108045,
+      "observations_count": 108470,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }
