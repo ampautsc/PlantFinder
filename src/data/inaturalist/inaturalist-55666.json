@@ -1,0 +1,44 @@
+{
+  "scraped_at": "2026-03-22T04:46:17.290497",
+  "scraper_version": "1.1.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-55666",
+    "commonName": "bird's-eye speedwell",
+    "scientificName": "Veronica persica",
+    "description": "<i><b>Veronica persica</b></i> (common names: <b>birdeye speedwell</b>, <b>common field-speedwell</b>, <b>Persian speedwell</b>, <b>large field speedwell</b>, <b>bird's-eye</b>, or <b>winter speedwell</b>) (Persian: سیزاب ایرانی‎) is a flowering plant in the plantain family Plantaginaceae. It is native to Eurasia and is widespread as an introduced species in the British Isles (where it was first recorded in 1825), North America, and eastern Asia, including Japan and China.",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/472978578/medium.jpeg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 55666,
+      "observations_count": 108699,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}
