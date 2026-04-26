@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-19T04:45:10.047673",
+  "scraped_at": "2026-04-26T04:51:12.339947",
   "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
@@ -32,11 +32,11 @@
         "native garden"
       ]
     },
-    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7431957/medium.jpg",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/37694972/medium.jpeg",
     "metadata": {
       "source": "inaturalist",
       "taxon_id": 55757,
-      "observations_count": 116033,
+      "observations_count": 118803,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }
