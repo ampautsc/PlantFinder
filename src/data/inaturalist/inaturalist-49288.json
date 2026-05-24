@@ -1,0 +1,57 @@
+{
+  "scraped_at": "2026-05-24T05:20:18.398471",
+  "scraper_version": "1.1.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-49288",
+    "commonName": "mayapple",
+    "scientificName": "Podophyllum peltatum",
+    "description": "<i><b>Podophyllum</b></i> is an herbaceous perennial plant in the family Berberidaceae, described as a genus by Linnaeus in 1753. In the past, several species were included in the genus, but all but one have been transferred to other genera <i>(Dysosma, Pilea,</i> and <i>Sinopodophyllum).</i> The one remaining species is <i><b>Podophyllum peltatum</b></i>, with common names <b>mayapple</b>, <b>American mandrake</b>, <b>wild mandrake</b>, and <b>ground lemon</b>. It is widespread across most of the eastern United States and southeastern Canada.",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [
+        "Alabama",
+        "Arkansas",
+        "Indiana",
+        "Maryland",
+        "Michigan",
+        "New York",
+        "North Carolina",
+        "Rhode Island",
+        "Texas",
+        "Vermont",
+        "Virginia",
+        "Wisconsin"
+      ],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35674124/medium.jpg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 49288,
+      "observations_count": 116119,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}
