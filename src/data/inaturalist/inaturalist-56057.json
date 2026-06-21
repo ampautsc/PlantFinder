@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2026-06-14T05:04:29.128315",
+  "scraped_at": "2026-06-21T05:08:48.920692",
   "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
     "id": "inaturalist-56057",
     "commonName": "oxeye daisy",
     "scientificName": "Leucanthemum vulgare",
-    "description": "<i><b>Leucanthemum vulgare</b></i>, commonly known as the <b>ox-eye daisy</b>, <b>oxeye daisy</b>, <b>dog daisy</b> and other common names, is a widespread flowering plant native to Europe and the temperate regions of Asia, and an introduced plant to North America, Australia and New Zealand.",
+    "description": "<i><b>Leucanthemum vulgare</b></i>, commonly known as the <b>ox-eye daisy</b>, <b>oxeye daisy</b>, <b>dog daisy</b>, <b>marguerite</b> (French: <i lang=\"fr\">Marguerite commune</i>, \"common marguerite\") and other common names, is a widespread flowering plant native to Europe and the temperate regions of Asia, and an introduced plant to North America, Australia and New Zealand.",
     "requirements": {
       "sun": "full-sun",
       "moisture": "medium",
@@ -36,7 +36,7 @@
     "metadata": {
       "source": "inaturalist",
       "taxon_id": 56057,
-      "observations_count": 139387,
+      "observations_count": 141773,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }
