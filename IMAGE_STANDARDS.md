@@ -104,6 +104,21 @@ When asked to create a "gold ring" version of a logo:
    ```
 5. Verify both images load correctly
 
+### Image Requirements
+
+**IMPORTANT: Plant images should show flowers in bloom whenever possible.**
+
+The PlantFinder application is focused on helping users identify native wildflowers, so images should:
+- **Prioritize showing the plant's flowers in bloom** (not just leaves or fruit)
+- Show clear, high-quality details of the flowering structure
+- Be taken during the plant's blooming season when possible
+- Include the whole plant context when helpful for identification
+
+The automated fetch script (`scripts/fetch_plant_images.py`) has been enhanced to:
+- Search Wikipedia for images with "flower", "bloom", "blossom", or "inflorescence" keywords
+- Filter iNaturalist observations for flowering phenology
+- Fall back to any plant image if no flowering images are available
+
 ### Image Sources
 
 Acceptable sources for plant images:

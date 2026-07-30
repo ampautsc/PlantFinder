@@ -9,6 +9,7 @@ This document summarizes the implementation of the automated plant image fetchin
 The PlantFinder application needed a batch job/action that:
 - Identifies plants we have data for
 - Searches for images (prioritizing Wikipedia as a source, with fallbacks to iNaturalist)
+- **PRIORITIZES images showing flowers in bloom**
 - Downloads and optimizes images to `public/images/plants/plantX` folders
 - Shows images on plant cards
 - Runs nightly
@@ -21,14 +22,19 @@ The PlantFinder application needed a batch job/action that:
 A comprehensive Python script that:
 
 **Features:**
-- Scans `src/data/Plants/` directory for JSON files without `imageUrl` field
+- Scans `public/data/plants/` directory for JSON files without `imageUrl` field
 - Uses Wikipedia API to search for plant images by scientific name and common name
-- **NEW:** Falls back to iNaturalist API when Wikipedia doesn't have images
-- **NEW:** Optimizes/compresses images using PIL (Pillow) for smaller file sizes
+- **NEW (v2.0.0):** Prioritizes images showing flowers in bloom:
+  - Wikipedia: Searches for images with "flower", "bloom", "blossom", "inflorescence" keywords
+  - iNaturalist: Filters for observations with flowering phenology (term_id=12)
+  - Falls back to any plant image if no flowering images found
+- Falls back to iNaturalist API when Wikipedia doesn't have images
+- Optimizes/compresses images using PIL (Pillow) for smaller file sizes
 - Downloads and processes images from Wikipedia/Wikimedia Commons or iNaturalist
 - Creates plant-specific directories in `public/images/plants/{plant-id}/`
 - Updates plant JSON files with the `imageUrl` field
 - Skips plants that already have images (checks both JSON field and directory)
+- **NEW:** Supports `--force` flag to re-fetch images for all plants (useful for updating to better flowering images)
 - Includes comprehensive error handling and logging
 - Supports test mode for dry runs (`--test`)
 - Supports batch limiting (`--limit N`)
@@ -41,7 +47,7 @@ A comprehensive Python script that:
 
 **Usage:**
 ```bash
-# Normal mode - fetch all missing images
+# Normal mode - fetch missing images with flowering priority
 python3 scripts/fetch_plant_images.py
 
 # Limit to 10 images
@@ -49,13 +55,20 @@ python3 scripts/fetch_plant_images.py --limit 10
 
 # Test mode - dry run
 python3 scripts/fetch_plant_images.py --test
+
+# Force re-fetch all plants (to get better flowering images)
+python3 scripts/fetch_plant_images.py --force --limit 5
 ```
 
-**Image Search Strategy:**
-1. Try Wikipedia API with scientific name to get main article image
+**Image Search Strategy (v2.0.0 - Flowering Priority):**
+1. Try Wikipedia API with scientific name:
+   - First search for images with flowering keywords ("flower", "bloom", "blossom", "inflorescence")
+   - Fall back to main article image if no flowering images found
 2. Fall back to common name if scientific name yields no results
-3. **NEW:** If Wikipedia fails, try iNaturalist API with scientific name
-4. **NEW:** If still no results, try iNaturalist with common name
+3. If Wikipedia fails, try iNaturalist API with scientific name:
+   - **First try observations with flowering phenology** (term_id=12, term_value_id=13)
+   - Fall back to any research-grade observation if no flowering observations found
+4. If still no results, try iNaturalist with common name (same flowering priority)
 5. Prefer full-resolution images over thumbnails
 6. Use Wikipedia's thumbnail API and convert to full-size URLs
 7. For iNaturalist, prefer research-grade observations with high-quality photos
@@ -76,7 +89,7 @@ An automated workflow that:
 
 **Features:**
 - Sets up Python 3.x environment
-- **NEW:** Installs Pillow for image optimization
+- Installs Pillow for image optimization
 - Runs the fetch script with configurable parameters
 - Commits and pushes downloaded images and updated JSON files
 - Uploads log files as GitHub Actions artifacts (30-day retention)
@@ -120,20 +133,24 @@ Successfully tested with multiple plants across different scenarios:
 **Verified:**
 - ✓ Images downloaded from Wikipedia when available
 - ✓ Fallback to iNaturalist when Wikipedia fails
+- ✓ **NEW (v2.0.0):** Prioritizes images showing flowers in bloom
+- ✓ **NEW (v2.0.0):** Wikipedia: Searches for flowering keywords first
+- ✓ **NEW (v2.0.0):** iNaturalist: Filters for flowering phenology
 - ✓ Images optimized and resized appropriately
 - ✓ JSON files updated with imageUrl
-- ✓ Script skips plants with existing images
+- ✓ Script skips plants with existing images (unless --force)
 - ✓ Handles both success and no-image cases properly
 - ✓ No security vulnerabilities (CodeQL verification required)
 - ✓ Significant file size reduction (70-90% typical)
 
-## Current Status
+## Current Status (as of November 2025)
 
-- **Total plants**: 479
-- **Plants with images**: 408+ (403 from Wikipedia, 5+ from iNaturalist)
-- **Plants without images**: 71 remaining
-- **Total image directory size**: ~72 MB (minimal increase despite new images due to optimization)
-- **Estimated completion**: ~2-3 days at 50 images/day (some plants may not have images available)
+- **Total plants**: 357
+- **Plants with images**: 357 (100% coverage!)
+- **Plants with image files**: 353 (99% - 4 subspecies/varieties have imageUrl but files are missing)
+- **Total image directory size**: ~72 MB (minimal size due to optimization)
+- **Image quality**: All images optimized to ~200KB average, 1200x1200px max
+- **Flowering priority**: v2.0.0+ prioritizes images showing flowers in bloom
 
 ## Implementation Details
 
