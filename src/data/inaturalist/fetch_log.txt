@@ -2456,3 +2456,59 @@
 [2026-07-26 05:03:04] Saved plant data: inaturalist-49202.json
 [2026-07-26 05:03:04] Processed 50 plants successfully, 0 skipped, 0 failures
 [2026-07-26 05:03:04] Batch job completed
+[2026-08-02 04:12:48] Batch job started (normal mode)
+[2026-08-02 04:12:48] Fetching taxa from API: taxon_id=47126&rank=species&place_id=97389&per_page=50
+[2026-08-02 04:12:50] Found 50 taxa (total available: 279685)
+[2026-08-02 04:12:50] Taxa search result: Successfully fetched 50 taxa
+[2026-08-02 04:13:56] Saved plant data: inaturalist-52821.json
+[2026-08-02 04:15:03] Saved plant data: inaturalist-47602.json
+[2026-08-02 04:16:10] Saved plant data: inaturalist-55745.json
+[2026-08-02 04:17:16] Saved plant data: inaturalist-51875.json
+[2026-08-02 04:18:20] Saved plant data: inaturalist-56061.json
+[2026-08-02 04:19:32] Saved plant data: inaturalist-55830.json
+[2026-08-02 04:20:39] Saved plant data: inaturalist-76610.json
+[2026-08-02 04:21:41] Saved plant data: inaturalist-52764.json
+[2026-08-02 04:22:46] Saved plant data: inaturalist-53178.json
+[2026-08-02 04:23:50] Saved plant data: inaturalist-47726.json
+[2026-08-02 04:24:55] Saved plant data: inaturalist-47911.json
+[2026-08-02 04:26:00] Saved plant data: inaturalist-59029.json
+[2026-08-02 04:27:06] Saved plant data: inaturalist-52989.json
+[2026-08-02 04:28:08] Saved plant data: inaturalist-204321.json
+[2026-08-02 04:29:12] Saved plant data: inaturalist-55882.json
+[2026-08-02 04:30:16] Saved plant data: inaturalist-60132.json
+[2026-08-02 04:31:20] Saved plant data: inaturalist-52913.json
+[2026-08-02 04:32:26] Saved plant data: inaturalist-48599.json
+[2026-08-02 04:33:30] Saved plant data: inaturalist-55851.json
+[2026-08-02 04:34:31] Saved plant data: inaturalist-58732.json
+[2026-08-02 04:35:33] Saved plant data: inaturalist-564969.json
+[2026-08-02 04:36:36] Saved plant data: inaturalist-52681.json
+[2026-08-02 04:37:37] Saved plant data: inaturalist-48098.json
+[2026-08-02 04:38:40] Saved plant data: inaturalist-50278.json
+[2026-08-02 04:39:42] Saved plant data: inaturalist-55563.json
+[2026-08-02 04:40:44] Saved plant data: inaturalist-51884.json
+[2026-08-02 04:41:48] Saved plant data: inaturalist-47435.json
+[2026-08-02 04:42:50] Saved plant data: inaturalist-55925.json
+[2026-08-02 04:43:54] Saved plant data: inaturalist-56057.json
+[2026-08-02 04:44:59] Saved plant data: inaturalist-52856.json
+[2026-08-02 04:46:02] Saved plant data: inaturalist-54763.json
+[2026-08-02 04:47:06] Saved plant data: inaturalist-53059.json
+[2026-08-02 04:48:08] Saved plant data: inaturalist-52391.json
+[2026-08-02 04:49:12] Saved plant data: inaturalist-61321.json
+[2026-08-02 04:50:15] Saved plant data: inaturalist-56222.json
+[2026-08-02 04:51:17] Saved plant data: inaturalist-64237.json
+[2026-08-02 04:52:23] Saved plant data: inaturalist-56088.json
+[2026-08-02 04:53:28] Saved plant data: inaturalist-53021.json
+[2026-08-02 04:54:30] Saved plant data: inaturalist-55757.json
+[2026-08-02 04:55:33] Saved plant data: inaturalist-56077.json
+[2026-08-02 04:56:35] Saved plant data: inaturalist-54834.json
+[2026-08-02 04:57:40] Saved plant data: inaturalist-78882.json
+[2026-08-02 04:58:42] Saved plant data: inaturalist-47888.json
+[2026-08-02 04:59:46] Saved plant data: inaturalist-58961.json
+[2026-08-02 05:00:53] Saved plant data: inaturalist-76907.json
+[2026-08-02 05:01:56] Saved plant data: inaturalist-55620.json
+[2026-08-02 05:03:01] Saved plant data: inaturalist-57278.json
+[2026-08-02 05:04:07] Saved plant data: inaturalist-55666.json
+[2026-08-02 05:05:11] Saved plant data: inaturalist-47687.json
+[2026-08-02 05:06:12] Saved plant data: inaturalist-49202.json
+[2026-08-02 05:06:12] Processed 50 plants successfully, 0 skipped, 0 failures
+[2026-08-02 05:06:12] Batch job completed
