@@ -1,0 +1,44 @@
+{
+  "scraped_at": "2026-08-23T04:19:33.446470",
+  "scraper_version": "1.1.0",
+  "source": "inaturalist",
+  "plant_data": {
+    "id": "inaturalist-79109",
+    "commonName": "white campion",
+    "scientificName": "Silene latifolia",
+    "description": "<i><b>Silene latifolia</b></i> (formerly <i>Melandrium album</i>), the <b>white campion</b> is a dioecious flowering plant in the family Caryophyllaceae, native to most of Europe, Western Asia and Northern Africa. It is a herbaceous annual, occasionally biennial or a short-lived perennial plant, growing to between 40–80 centimetres tall. It is also known in the US as <b>bladder campion</b> but should not be confused with <i>Silene vulgaris</i>, which is more generally called bladder campion.",
+    "requirements": {
+      "sun": "full-sun",
+      "moisture": "medium",
+      "soil": "loam"
+    },
+    "characteristics": {
+      "height": 24,
+      "width": 18,
+      "bloomColor": [],
+      "bloomTime": [],
+      "perennial": true,
+      "nativeRange": [],
+      "hardinessZones": []
+    },
+    "relationships": {
+      "hostPlantTo": [],
+      "foodFor": [
+        "butterflies",
+        "bees"
+      ],
+      "usefulFor": [
+        "pollinator garden",
+        "native garden"
+      ]
+    },
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/301833921/medium.jpeg",
+    "metadata": {
+      "source": "inaturalist",
+      "taxon_id": 79109,
+      "observations_count": 122927,
+      "rank": "species",
+      "iconic_taxon_name": "Plantae"
+    }
+  }
+}
