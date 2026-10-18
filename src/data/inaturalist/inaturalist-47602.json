@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-11T03:18:44.561449",
+  "scraped_at": "2026-10-18T03:12:45.241600",
   "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
@@ -36,7 +36,7 @@
     "metadata": {
       "source": "inaturalist",
       "taxon_id": 47602,
-      "observations_count": 289588,
+      "observations_count": 290006,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }
