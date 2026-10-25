@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-11-09T04:22:24.392201",
+  "scraped_at": "2026-10-25T04:02:19.946489",
   "scraper_version": "1.1.0",
   "source": "inaturalist",
   "plant_data": {
     "id": "inaturalist-55971",
-    "commonName": "tansy",
+    "commonName": "Common Tansy",
     "scientificName": "Tanacetum vulgare",
     "description": "<b>Tansy</b> (<i>Tanacetum vulgare</i>) is a perennial, herbaceous flowering plant of the aster family, native to temperate Europe and Asia. It has been introduced to other parts of the world including North America, and in some areas has become invasive. It is also known as <b>common tansy</b>, <b>bitter buttons</b>, <b>cow bitter</b>, or <b>golden buttons</b>.",
     "requirements": {
@@ -36,7 +36,7 @@
     "metadata": {
       "source": "inaturalist",
       "taxon_id": 55971,
-      "observations_count": 103230,
+      "observations_count": 127396,
       "rank": "species",
       "iconic_taxon_name": "Plantae"
     }
